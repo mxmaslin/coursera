@@ -4,5 +4,5 @@
 
 Created by: MIPT, @mail.ru group
 
-- Погружение в Python
-- ООП и паттерны проектирования в Python
+- [Погружение в Python](https://github.com/mxmaslin/Coursera/tree/master/Программирование%20на%20Python%20Specialization/Погружение%20в%20Python "Погружение в Python")
+- [ООП и паттерны проектирования в Python](https://github.com/mxmaslin/Coursera/tree/master/Программирование%20на%20Python%20Specialization/ООП%20и%20паттерны%20проектирования%20в%20Python "ООП и паттерны проектирования в Python")

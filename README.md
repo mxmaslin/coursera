@@ -1,1 +1,1 @@
-- Программирование на Python Specialization
+- [Программирование на Python Specialization](https://github.com/mxmaslin/Coursera/tree/master/Программирование%20на%20Python%20Specialization "Программирование на Python Specialization")
