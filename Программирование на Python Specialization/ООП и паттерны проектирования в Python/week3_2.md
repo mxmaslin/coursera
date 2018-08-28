@@ -49,6 +49,8 @@
 
 Вам необходимо написать адаптер `MappingAdapter`. Прототип класса вам дан в качестве исходного кода.
 
+**Решение**
+
     class MappingAdapter:
         def __init__(self, adaptee):
             self.adaptee = adaptee
