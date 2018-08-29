@@ -6,7 +6,7 @@
 
 Иерархия классов приведена на следующей UML диаграмме:
 
-[observer](observer_scheme.jpg)
+![observer](pictures/observer_scheme.jpg)
 
 Пример достижения, которое генерирует движок:
 
