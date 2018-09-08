@@ -29,7 +29,7 @@ class ScreenHandle(pygame.Surface):
             canvas.blit(self.successor, self.next_coord)
             self.successor.draw(canvas)
 
-    # FIXME connect_engine
+    # fixed connect_engine
     def connect_engine(self, engine):
         if self.successor is not None:
             return self.successor.connect_engine(engine)
@@ -37,7 +37,7 @@ class ScreenHandle(pygame.Surface):
 
 class GameSurface(ScreenHandle):
 
-    # FIXME save engine and send it to next in chain
+    # fixed save engine and send it to next in chain
     def connect_engine(self, engine):
         self.game_engine = engine
         if self.successor is not None:
@@ -97,12 +97,11 @@ class ProgressBar(ScreenHandle):
         super().__init__(*args, **kwargs)
         self.fill(colors["wooden"])
 
-    # FIXME save engine and send it to next in chain
+    # fixed save engine and send it to next in chain
     def connect_engine(self, engine):
         self.game_engine = engine
         if self.successor is not None:
             return self.successor.connect_engine(engine)
-
 
     def draw(self, canvas):
         self.fill(colors["wooden"])
@@ -202,9 +201,8 @@ class HelpWindow(ScreenHandle):
         self.data.append(["Num+", "Zoom +"])
         self.data.append(["Num-", "Zoom -"])
         self.data.append([" R ", "Restart Game"])
-    # FIXME You can add some help information
 
-    # FIXME save engine and send it to next in chain
+    # fixed save engine and send it to next in chain
     def connect_engine(self, engine):
         self.game_engine = engine
         if self.successor is not None:

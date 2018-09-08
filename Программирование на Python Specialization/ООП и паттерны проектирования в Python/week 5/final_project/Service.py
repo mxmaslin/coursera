@@ -1,3 +1,4 @@
+from abc import ABC, abstractmethod
 import pygame
 import random
 import yaml
@@ -74,13 +75,28 @@ def add_gold(engine, hero):
 
 class MapFactory(yaml.YAMLObject):
 
+    # fixed get _map and _obj
     @classmethod
     def from_yaml(cls, loader, node):
-
-        # FIXME
-        # get _map and _obj
-
+        _map = cls.Map()
+        _obj = cls.Objects()
+        config = loader.construct_mapping(node)
+        _obj.config.update(config)
         return {'map': _map, 'obj': _obj}
+
+    @classmethod
+    def get_map(cls):
+        return cls.Map()
+
+    @classmethod
+    def get_objects(cls):
+        return cls.Objects()
+
+    class Map(ABC):
+        pass
+
+    class Objects(ABC):
+        pass
 
 
 class EndMap(MapFactory):
@@ -112,6 +128,7 @@ class EndMap(MapFactory):
     class Objects:
         def __init__(self):
             self.objects = []
+            self.config = {}
 
         def get_objects(self, _map):
             return self.objects
@@ -139,6 +156,7 @@ class RandomMap(MapFactory):
 
         def __init__(self):
             self.objects = []
+            self.config = {}
 
         def get_objects(self, _map):
 
@@ -207,8 +225,45 @@ class RandomMap(MapFactory):
             return self.objects
 
 
-# FIXME
-# add classes for YAML !empty_map and !special_map{}
+# fixed added class for YAML !empty_map
+class EmptyMap(MapFactory):
+    yaml_tag = "!empty_map"
+
+    class Map:
+        def __init__(self):
+            self.Map = []
+
+        def get_map(self):
+            return self.Map
+
+    class Objects:
+        def __init__(self):
+            self.objects = []
+            self.config = {}
+
+        def get_objects(self, _map):
+            return self.objects
+
+
+# fixed added class for YAML !special_map{}
+class SpecialMap(MapFactory):
+    yaml_tag = "!special_map"
+
+    class Map:
+        def __init__(self):
+            self.Map = []
+
+        def get_map(self):
+            return self.Map
+
+    class Objects:
+        def __init__(self):
+            self.objects = []
+            self.config = {}
+
+        def get_objects(self, _map):
+            return self.objects
+
 
 wall = [0]
 floor1 = [0]

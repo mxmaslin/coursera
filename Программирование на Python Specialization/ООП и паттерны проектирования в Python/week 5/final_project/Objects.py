@@ -153,34 +153,26 @@ class Enemy(AbstractObject, Interactive):
 class Berserk(Effect):
 
     def apply_effect(self):
-        self.base.stats["strength"] += 3
-        self.base.stats["endurance"] += 3
-        self.base.stats["agility"] += 3
-        self.base.stats["luck"] += 3
-        self.base.stats["perception"] -= 1
-        self.base.stats["charisma"] -= 1
-        self.base.stats["intellect"] -= 1
-        self.hp += 10
+        self.base.stats["strength"] += 5
+        self.base.stats["endurance"] += 5
+        self.base.stats["intelligence"] -= 3
+        self.hp += 5
 
 
 class Blessing(Effect):
 
     def apply_effect(self):
-        self.base.stats["strength"] += 1
-        self.base.stats["endurance"] += 1
-        self.base.stats["agility"] += 1
-        self.base.stats["luck"] += 1
-        self.base.stats["perception"] += 1
-        self.base.stats["charisma"] += 1
-        self.base.stats["intellect"] += 1
+        self.base.stats["strength"] += 2
+        self.base.stats["endurance"] += 2
+        self.base.stats["intelligence"] += 2
+        self.base.stats["luck"] += 2
 
 
 class Weakness(Effect):
 
     def apply_effect(self):
-        self.base.stats["strength"] -= 1
-        self.base.stats["endurance"] -= 1
-        self.base.stats["agility"] -= 1
+        self.base.stats["strength"] -= 2
+        self.base.stats["endurance"] -= 2
 
 
 # hero_stats = {"strength": 1, "endurance": 1, "agility": 1, "luck": 1,  "perception": 1, "charisma": 1, "intellect": 1}
