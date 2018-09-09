@@ -4,7 +4,7 @@
 
 На их основе Вам необходимо создать абстрактную фабрику `AbstractLevel` c классовыми методами `get_map()` и `get_objects()`. Её реализации должны носить имена `EasyLevel`, `MediumLevel` и `HardLevel`.
 
-![abstract_factory](pictures/abstract_factory.jpg)
+![abstract_factory](../pictures/abstract_factory.jpg)
 
     import random
 

@@ -15,11 +15,11 @@ class AbstractObject(ABC):
 
     @abstractmethod
     def __init__(self):
-        self.sprite = create_sprite(img, sprite_size)
+        pass
 
     def draw(self, display):
-        self.sprite.draw(display)
-    
+        return display
+
 
 class Interactive(ABC):
 
@@ -135,8 +135,7 @@ class Effect(Hero):
         pass
 
 
-# FIXME
-# add classes
+# fixed added some classes
 
 class Enemy(AbstractObject, Interactive):
 

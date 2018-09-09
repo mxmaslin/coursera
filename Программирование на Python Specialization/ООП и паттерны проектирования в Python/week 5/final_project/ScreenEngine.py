@@ -88,7 +88,11 @@ class GameSurface(ScreenHandle):
                                       (obj.position[1] - min_y) * self.game_engine.sprite_size))
         self.draw_hero()
 
-    # draw next surface in chain
+        # draw next surface in chain
+
+        # for obj in self.game_engine.objects:
+        #     self.draw_object(obj.sprite[0], ((obj.position[0] - min_x) * self.game_engine.sprite_size,
+        #                                      (obj.position[1] - min_y) * self.game_engine.sprite_size))
 
 
 class ProgressBar(ScreenHandle):
