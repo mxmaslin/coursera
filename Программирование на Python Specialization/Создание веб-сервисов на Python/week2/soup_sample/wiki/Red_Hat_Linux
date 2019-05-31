@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Red Hat Linux - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Red_Hat_Linux","wgTitle":"Red Hat Linux","wgCurRevisionId":822248834,"wgRevisionId":822248834,"wgArticleId":26072,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","All articles with unsourced statements","Articles with unsourced statements from February 2008","Articles with unsourced statements from May 2008","Discontinued Linux distributions","Red Hat software","RPM-based Linux distributions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Red_Hat_Linux","wgRelevantArticleId":26072,"wgRequestId":"Wn@WnwpAAD8AAFp-A6MAAAAX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q220182","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/0/08/RedHatLinux9.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Red_Hat_Linux"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Red_Hat_Linux&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Red_Hat_Linux&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Red_Hat_Linux"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Red_Hat_Linux rootpage-Red_Hat_Linux skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Red Hat Linux</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"RHL" redirects here. For other uses, see <a href="/wiki/RHL_(disambiguation)" class="mw-disambig" title="RHL (disambiguation)">RHL (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Fedora_(software)" class="mw-redirect" title="Fedora (software)">Fedora (software)</a> or <a href="/wiki/RHEL" class="mw-redirect" title="RHEL">RHEL</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Red Hat Linux</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:RedHatLinux9.png" class="image"><img alt="RedHatLinux9.png" src="//upload.wikimedia.org/wikipedia/en/thumb/0/08/RedHatLinux9.png/300px-RedHatLinux9.png" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/08/RedHatLinux9.png/450px-RedHatLinux9.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/08/RedHatLinux9.png/600px-RedHatLinux9.png 2x" data-file-width="800" data-file-height="600" /></a>
+<div>Red Hat Linux 9's default desktop</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer</a></th>
+<td><a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">OS family</th>
+<td><a href="/wiki/Unix-like" title="Unix-like">Unix-like</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Working state</th>
+<td>Discontinued</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Source model</th>
+<td><a href="/wiki/Open_source" class="mw-redirect" title="Open source">Open source</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>May&#160;13, 1995<span class="noprint">; 22 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1995-05-13</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Final release</a></th>
+<td>9 <i>alias</i> Shrike / March 31, 2003</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Package_manager" title="Package manager">Package manager</a></th>
+<td><a href="/wiki/RPM_Package_Manager" class="mw-redirect" title="RPM Package Manager">RPM Package Manager</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Kernel_(operating_system)" title="Kernel (operating system)">Kernel</a> type</th>
+<td><a href="/wiki/Monolithic_kernel" title="Monolithic kernel">Monolithic</a> (<a href="/wiki/Linux_kernel" title="Linux kernel">Linux</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/User_space#USERLAND" title="User space">Userland</a></th>
+<td><a href="/wiki/GNU_Core_Utilities" title="GNU Core Utilities">GNU</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td>Various</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Succeeded by</th>
+<td><a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat Enterprise Linux</a><br />
+<a href="/wiki/Fedora_(Operating_System)" class="mw-redirect" title="Fedora (Operating System)">Fedora</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Official website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.redhat.com">www<wbr />.redhat<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Red Hat Linux</b>, assembled by the company <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, was a widely used <a href="/wiki/Linux_distribution" title="Linux distribution">Linux distribution</a> until its discontinuation in 2004.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Early releases of Red Hat Linux were called <b>Red Hat Commercial Linux</b>. Red Hat first published the software on November 3, 1994.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It was the first Linux distribution to use the <a href="/wiki/RPM_Package_Manager" class="mw-redirect" title="RPM Package Manager">RPM Package Manager</a> as its packaging format, and over time has served as the starting point for several other distributions, such as <a href="/wiki/Mandriva_Linux" title="Mandriva Linux">Mandriva Linux</a> and <a href="/wiki/Yellow_Dog_Linux" title="Yellow Dog Linux">Yellow Dog Linux</a>.</p>
+<p>In 2003, Red Hat discontinued the Red Hat Linux line in favor of <a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat Enterprise Linux</a> (RHEL) for enterprise environments. <a href="/wiki/Fedora_(operating_system)" title="Fedora (operating system)">Fedora</a>, developed by the community-supported <a href="/wiki/Fedora_Project" title="Fedora Project">Fedora Project</a> and sponsored by Red Hat, is a free-of-cost alternative intended for home use. Red Hat Linux 9, the final release, hit its official end-of-life on April 30, 2004, although updates were published for it through 2006 by the <a href="/wiki/Fedora_Legacy" title="Fedora Legacy">Fedora Legacy</a> project until that shut down in early 2007.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Features"><span class="tocnumber">1</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fedora"><span class="tocnumber">2</span> <span class="toctext">Fedora</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Version_history"><span class="tocnumber">3</span> <span class="toctext">Version history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit&amp;section=1" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Version 3.0.3 was one of the first Linux distributions to support <a href="/wiki/Executable_and_Linkable_Format" title="Executable and Linkable Format">Executable and Linkable Format</a> instead of the older <a href="/wiki/A.out" title="A.out">a.out</a> format.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Red Hat Linux introduced a graphical installer called <a href="/wiki/Anaconda_(installer)" title="Anaconda (installer)">Anaconda</a> developed by Ketan Bagal, intended to be easy to use for novices, and which has since been adopted by some other Linux distributions. It also introduced a built-in tool called <i>Lokkit</i> for configuring the <a href="/wiki/Firewall_(networking)" class="mw-redirect" title="Firewall (networking)">firewall</a> capabilities.</p>
+<p>In version 6 Red Hat moved to <a href="/wiki/GNU_C_Library" title="GNU C Library">glibc</a> 2.1, <a href="/wiki/Enhanced_GNU_Compiler_System" class="mw-redirect" title="Enhanced GNU Compiler System">egcs-1.2</a>, and to the 2.2 kernel.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It also introduced <a href="/wiki/Kudzu_(computer_daemon)" title="Kudzu (computer daemon)">Kudzu</a>, a software library for automatic discovery and configuration of hardware.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Version 7 was released in preparation for the 2.4 kernel, although the first release still used the stable 2.2 kernel. Glibc was updated to version 2.1.92, which was a beta of the upcoming version 2.2 and Red Hat used a patched version of GCC from CVS that they called "2.96".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The decision to ship an unstable GCC version was due to GCC 2.95's bad performance on non-i386 platforms, especially <a href="/wiki/DEC_Alpha" title="DEC Alpha">DEC Alpha</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Newer GCCs had also improved support for the <a href="/wiki/C%2B%2B" title="C++">C++</a> standard, which caused much of the existing code not to compile.</p>
+<p>In particular, the use of a non-released version of GCC caused some criticism, e.g. from <a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a>'<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> and The GCC Steering Committee;<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Red Hat was forced to defend their decision.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> GCC 2.96 failed to compile the Linux kernel, and some other software used in Red Hat, due to stricter checks. It also had an incompatible C++ <a href="/wiki/Application_binary_interface" title="Application binary interface">ABI</a> with other compilers. The distribution included a previous version of GCC for compiling the kernel, called "kgcc".</p>
+<p>As of Red Hat Linux 7.0, <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a> was enabled as the default <a href="/wiki/Character_encoding" title="Character encoding">character encoding</a> for the system. This had little effect on <a href="/wiki/English_Language" class="mw-redirect" title="English Language">English</a>-speaking users, but enabled much easier <a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">internationalisation</a> and seamless support for multiple languages, including <a href="/wiki/Ideogram" title="Ideogram">ideographic</a>, <a href="/wiki/Bi-directional_text" title="Bi-directional text">bi-directional</a> and <a href="/wiki/Complex_text_layout" title="Complex text layout">complex script</a> languages along with <a href="/wiki/Languages_of_Europe" title="Languages of Europe">European languages</a>. However, this did cause some negative reactions among existing <a href="/wiki/Western_Europe" title="Western Europe">Western European</a> users, whose legacy <a href="/wiki/ISO/IEC_8859" title="ISO/IEC 8859">ISO-8859</a>-based setups were broken by the change.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2008)">citation needed</span></a></i>]</sup></p>
+<p>Version 8.0 was also the second to include the <a href="/wiki/Bluecurve" title="Bluecurve">Bluecurve</a> <a href="/wiki/Theme_(computing)" title="Theme (computing)">desktop theme</a>. It used a common theme for GNOME-2 and KDE 3.0.2 desktops, as well as OpenOffice-1.0. KDE members did not appreciate the change, claiming that it was not in the best interests of KDE.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Version 9 supported the <a href="/wiki/Native_POSIX_Thread_Library" title="Native POSIX Thread Library">Native POSIX Thread Library</a>, which was ported to the 2.4 series kernels by Red Hat.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Red Hat Linux lacked many features due to possible <a href="/wiki/Copyright" title="Copyright">copyright</a> and <a href="/wiki/Patent" title="Patent">patent</a> problems. For example, <a href="/wiki/MP3" title="MP3">MP3</a> support was disabled in both <a href="/wiki/Rhythmbox" title="Rhythmbox">Rhythmbox</a> and <a href="/wiki/XMMS" title="XMMS">XMMS</a>; instead, Red Hat recommended using <a href="/wiki/Vorbis" title="Vorbis">Ogg Vorbis</a>, which has no patents. MP3 support, however, could be installed afterwards, although <a href="/wiki/Royalties" class="mw-redirect" title="Royalties">royalties</a> are required everywhere MP3 is patented.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2008)">citation needed</span></a></i>]</sup> Support for Microsoft's <a href="/wiki/NTFS" title="NTFS">NTFS</a> <a href="/wiki/File_system" title="File system">file system</a> was also missing, but could be freely installed as well.</p>
+<h2><span class="mw-headline" id="Fedora">Fedora</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit&amp;section=2" title="Edit section: Fedora">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Fedora_(operating_system)" title="Fedora (operating system)">Fedora (operating system)</a></div>
+<p>Red Hat Linux was originally developed exclusively inside Red Hat, with the only feedback from users coming through bug reports and contributions to the included software packages – not contributions to the distribution as such. This was changed in late 2003 when Red Hat Linux merged with the <a href="/wiki/Virtual_community" title="Virtual community">community</a>-based <a href="/wiki/Fedora_Project" title="Fedora Project">Fedora Project</a>. The new plan is to draw most of the codebase from Fedora when creating new Red Hat Enterprise Linux distributions. Fedora replaces the original Red Hat Linux download and retail version. The model is similar to the relationship between <a href="/wiki/Netscape_Communicator" title="Netscape Communicator">Netscape Communicator</a> and <a href="/wiki/Mozilla" title="Mozilla">Mozilla</a>, or <a href="/wiki/StarOffice" title="StarOffice">StarOffice</a> and <a href="/wiki/OpenOffice.org" title="OpenOffice.org">OpenOffice.org</a>, although in this case the resulting commercial product is also fully <a href="/wiki/Free_software" title="Free software">free software</a>.</p>
+<h2><span class="mw-headline" id="Version_history">Version history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit&amp;section=3" title="Edit section: Version history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Redhat_5.2_box.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/49/Redhat_5.2_box.jpg/220px-Redhat_5.2_box.jpg" width="220" height="263" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/4/49/Redhat_5.2_box.jpg 1.5x" data-file-width="288" data-file-height="344" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Redhat_5.2_box.jpg" class="internal" title="Enlarge"></a></div>
+Box cover shot of Red Hat Linux 5.2</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Redhat_5_0_cds.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Redhat_5_0_cds.jpeg/220px-Redhat_5_0_cds.jpeg" width="220" height="100" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Redhat_5_0_cds.jpeg/330px-Redhat_5_0_cds.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Redhat_5_0_cds.jpeg/440px-Redhat_5_0_cds.jpeg 2x" data-file-width="2664" data-file-height="1206" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Redhat_5_0_cds.jpeg" class="internal" title="Enlarge"></a></div>
+Red Hat 5.0 CDROMs</div>
+</div>
+</div>
+<p>Release dates were drawn from announcements on <i>comp.os.linux.announce</i>. Version names are chosen as to be cognitively related to the prior release, yet not related in the same way as the release before that.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>The Fedora and Red Hat Projects were merged on September 22, 2003.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<table class="wikitable" style="text-align:center">
+<caption>x86 release history</caption>
+<tr>
+<th>Version</th>
+<th>Type</th>
+<th>Code name</th>
+<th>Release date</th>
+<th>Kernel version</th>
+<th>Comment</th>
+</tr>
+<tr>
+<td>n/a</td>
+<td>test</td>
+<td>Preview</td>
+<td>29 July 1994</td>
+<td>1.1.18 (dev)</td>
+<td>First test release, not publicly distributed, used RPP package manager.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="0.9"><span style="display: none;">Old version, no longer supported:</span> 0.9</td>
+<td>beta</td>
+<td>Halloween</td>
+<td>31 October 1994</td>
+<td>1.0.9 (stable)<br />
+1.1.54 (dev)</td>
+<td>Purchased beta, came with documentation and graphical system management tools.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="1"><span style="display: none;">Old version, no longer supported:</span> 1</td>
+<td>stable</td>
+<td>Mother's Day</td>
+<td>May 1995</td>
+<td>1.2.8</td>
+<td>ACC Bookstores (Bob Young) bought out Red Hat Software, Inc. (Mark Ewing) and introduced the "Red Hat Commercial Linux" moniker.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="1.1"><span style="display: none;">Old version, no longer supported:</span> 1.1</td>
+<td>bug fix</td>
+<td>Mother's Day+0.1</td>
+<td>August 1995</td>
+<td>1.2.11<br />
+1.2.13</td>
+<td>Called "Mother's Day Plus One".</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="2.0"><span style="display: none;">Old version, no longer supported:</span> 2.0</td>
+<td>stable</td>
+<td>-</td>
+<td>20 September 1995</td>
+<td>1.2.13-2</td>
+<td>First stable RPM release. Started using the "Red Hat LiNUX" branding.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="2.1"><span style="display: none;">Old version, no longer supported:</span> 2.1</td>
+<td>bug fix</td>
+<td>Bluesky</td>
+<td>23 November 1995</td>
+<td>1.2.13 (stable)<br />
+1.3.32 (dev)</td>
+<td>The first Alpha release (January 1996) was based on this version.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="3.0.3"><span style="display: none;">Old version, no longer supported:</span> 3.0.3</td>
+<td>stable</td>
+<td>Picasso</td>
+<td>1 May 1996</td>
+<td>1.2.13</td>
+<td>First version to release multiple architecture (x86/ELF, Alpha/a.out) at the same time. Introduced the Metro-X server, glint graphical management tool for RPM, and graphical printer configuration.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="3.9"><span style="display: none;">Old version, no longer supported:</span> 3.9</td>
+<td>beta</td>
+<td>Rembrandt</td>
+<td>July-August 1996</td>
+<td>2.0</td>
+<td>RPM rewritten in C, introduced PAM, kernel modules instead of 72 different kernels.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="4.0"><span style="display: none;">Old version, no longer supported:</span> 4.0</td>
+<td>stable</td>
+<td>Colgate</td>
+<td>3 October 1996</td>
+<td>2.0.18</td>
+<td>Added support for SPARC architecture, ELF for Alpha. Introduced Shadowman™ logo, free electronic format documentation, Red Baron browser.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="4.1"><span style="display: none;">Old version, no longer supported:</span> 4.1</td>
+<td>bug fix</td>
+<td>Vanderbilt</td>
+<td>3 February 1997</td>
+<td>2.0.27</td>
+<td>InfoWorld, Best of 1996, Operating Systems.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="4.2"><span style="display: none;">Old version, no longer supported:</span> 4.2</td>
+<td>stable</td>
+<td>Biltmore</td>
+<td>19 May 1997</td>
+<td>2.0.30-2</td>
+<td>Shipped old libc 5.3 instead of buggy 5.4, avoided many issues this way but was widely criticized for it.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="4.8"><span style="display: none;">Old version, no longer supported:</span> 4.8</td>
+<td>beta</td>
+<td>Thunderbird</td>
+<td>27 August 1997</td>
+<td>&#160;?</td>
+<td>Introduced glibc 2.0.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="4.9"><span style="display: none;">Old version, no longer supported:</span> 4.9</td>
+<td>beta</td>
+<td>Mustang</td>
+<td>7 November 1997</td>
+<td>&#160;?</td>
+<td>Cemented the two-cycle beta release style, due to massive changes in C library version.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="5.0"><span style="display: none;">Old version, no longer supported:</span> 5.0</td>
+<td>stable</td>
+<td>Hurricane</td>
+<td>1 December 1997</td>
+<td>2.0.32-2</td>
+<td>Introduced BRU2000-PE™ backup and Real Audio™ client and server. 1997 InfoWorld Product of the Year.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="5.1"><span style="display: none;">Old version, no longer supported:</span> 5.1</td>
+<td>stable</td>
+<td>Manhattan</td>
+<td>22 May 1998</td>
+<td>2.0.34-0.6</td>
+<td>Introduced the Linux Applications CD, GNOME preview version (separate, not default), linuxconf, Netscape browser. Last release to use live filesystem off the CD.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="5.2"><span style="display: none;">Old version, no longer supported:</span> 5.2</td>
+<td>stable</td>
+<td>Apollo</td>
+<td>2 November 1998</td>
+<td>2.0.36-0.7</td>
+<td>GNOME technology preview (separate, not default).</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="5.9"><span style="display: none;">Old version, no longer supported:</span> 5.9</td>
+<td>beta</td>
+<td>Starbuck</td>
+<td>17 March 1999</td>
+<td>&#160;?</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="6.0"><span style="display: none;">Old version, no longer supported:</span> 6.0</td>
+<td>stable</td>
+<td>Hedwig</td>
+<td>26 April 1999</td>
+<td>2.2.5-15</td>
+<td>Introduced glibc 2.1, egcs, 2.2 kernel, integrated GNOME.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="6.0.50"><span style="display: none;">Old version, no longer supported:</span> 6.0.50</td>
+<td>beta</td>
+<td>Lorax</td>
+<td>6 September 1999</td>
+<td>&#160;?</td>
+<td>Introduced completely rewritten graphical installer (anaconda), with graphical mode and text mode implemented in Python.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="6.1"><span style="display: none;">Old version, no longer supported:</span> 6.1</td>
+<td>stable</td>
+<td>Cartman</td>
+<td>4 October 1999</td>
+<td>2.2.12-20</td>
+<td>InfoWorld, 1999 Product of the Year, Operating Systems, multiple other awards.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="6.1.92"><span style="display: none;">Old version, no longer supported:</span> 6.1.92</td>
+<td>beta</td>
+<td>Piglet</td>
+<td>9 February 2000</td>
+<td>&#160;?</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="6.2"><span style="display: none;">Old version, no longer supported:</span> 6.2</td>
+<td>stable</td>
+<td>Zoot</td>
+<td>3 April 2000</td>
+<td>2.2.14-5.0</td>
+<td>First time to offer ISO images for FTP download.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="6.9.5"><span style="display: none;">Old version, no longer supported:</span> 6.9.5</td>
+<td>beta</td>
+<td>Pinstripe</td>
+<td>31 July 2000</td>
+<td>&#160;?</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7"><span style="display: none;">Old version, no longer supported:</span> 7</td>
+<td>stable</td>
+<td>Guinness</td>
+<td>25 September 2000</td>
+<td>2.2.16-22</td>
+<td>First release to support Red Hat Network out of the box. Caused the gcc 2.96 flame war, leading to the 2.96RH name being used later.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.0.90"><span style="display: none;">Old version, no longer supported:</span> 7.0.90</td>
+<td>beta</td>
+<td>Fisher</td>
+<td>31 January 2001</td>
+<td>2.4</td>
+<td>First release with 2.4 kernel.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.0.91"><span style="display: none;">Old version, no longer supported:</span> 7.0.91</td>
+<td>beta</td>
+<td>Wolverine</td>
+<td>21 February 2001</td>
+<td>&#160;?</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.1"><span style="display: none;">Old version, no longer supported:</span> 7.1</td>
+<td>stable</td>
+<td>Seawolf</td>
+<td>16 April 2001</td>
+<td>2.4.2-2</td>
+<td>First release to debute a new kernel stream out of the beta cycle. First release to simultaneously support all included languages. Introduced Mozilla browser.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.1.93"><span style="display: none;">Old version, no longer supported:</span> 7.1.93</td>
+<td>beta</td>
+<td>Roswell</td>
+<td>2 August 2001</td>
+<td>&#160;?</td>
+<td>ext3 becomes default, installer offers to convert ext2 filesystems. LILO replaced with Grub as default.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.2"><span style="display: none;">Old version, no longer supported:</span> 7.2</td>
+<td>stable</td>
+<td>Enigma</td>
+<td>22 October 2001</td>
+<td>2.4.7-10</td>
+<td>GNOME 1.4, KDE 2.2. Would serve as development basis for RHEL 2.1 AS (Pensacola).</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.2.91"><span style="display: none;">Old version, no longer supported:</span> 7.2.91</td>
+<td>beta</td>
+<td>Skipjack</td>
+<td>22 March 2002</td>
+<td>&#160;?</td>
+<td>Tried to ship lots of new stuff (gcc3, GTK2, Python2) but decided to postpone them for 8.0.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.3"><span style="display: none;">Old version, no longer supported:</span> 7.3</td>
+<td>stable</td>
+<td>Valhalla</td>
+<td>6 May 2002</td>
+<td>2.4.18-3</td>
+<td>Last release with the Netscape browser.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="7.3.29"><span style="display: none;">Old version, no longer supported:</span> 7.3.29</td>
+<td>beta</td>
+<td>Limbo</td>
+<td>4 July 2002</td>
+<td>&#160;?</td>
+<td>Tested 700MB ISO images but they proved problematic.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="8.0"><span style="display: none;">Old version, no longer supported:</span> 8.0</td>
+<td>stable</td>
+<td>Psyche</td>
+<td>30 September 2002</td>
+<td>2.4.18-14</td>
+<td>gcc 3.2, glibc 2.3 RC, OpenOffice.org 1.0.1, GNOME 2, KDE 3.0.3. Introduced Bluecurve™ cross-environment unified look and feel.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="9"><span style="display: none;">Old version, no longer supported:</span> 9</td>
+<td>stable</td>
+<td>Shrike</td>
+<td>31 March 2003</td>
+<td>2.4.20-8</td>
+<td>KDE 3.1 and GNOME 2.2. Introduced NPTL support with glibc 2.3.2 and kernel 2.4.20. Would serve as development basis for RHEL 3.</td>
+</tr>
+<tr>
+<td style="background-color: #FDB3AB;" title="Old version, no longer supported" data-sort-value="9.0.93"><span style="display: none;">Old version, no longer supported:</span> 9.0.93</td>
+<td>beta</td>
+<td>Severn</td>
+<td>21 July 2003</td>
+<td>&#160;?</td>
+<td>Final RHL release. It would be merged with Fedora Linux to form release Fedora Core 1 test 2, version 0.94.</td>
+</tr>
+<tr>
+<td colspan="6">
+<div class="templateVersion l" style="margin-left: -1em;">
+<div style="float: left; margin-left: 1em;"><small><span style="white-space: nowrap;"><b>Legend:</b></span></small></div>
+<div style="float: left; margin-left: 1em;"><small><span style="border-left: 1.2em solid #FDB3AB; padding-left: 0.3em; white-space: nowrap;" title="Old version, no longer supported">Old version</span></small></div>
+<div style="float: left; margin-left: 1em; display: none;"><small><span style="border-left: 1.2em solid #FEF8C6; padding-left: 0.3em; white-space: nowrap;" title="An older version, yet still supported">Older version, still supported</span></small></div>
+<div style="float: left; margin-left: 1em; display: none;"><small><span style="border-left: 1.2em solid #D4F4B4; padding-left: 0.3em; white-space: nowrap;" title="Latest stable version"><b>Latest version</b></span></small></div>
+<div style="float: left; margin-left: 1em; display: none;"><small><span style="border-left: 1.2em solid #FED1A0; padding-left: 0.3em; white-space: nowrap;" title="Latest preview of a future release">Latest preview version</span></small></div>
+<div style="float: left; margin-left: 1em; display: none;"><small><span style="border-left: 1.2em solid #C1E6F5; padding-left: 0.3em; white-space: nowrap;" title="A future release">Future release</span></small></div>
+<div style="clear: left;"></div>
+</div>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:NewTux.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/23px-NewTux.svg.png" width="23" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/35px-NewTux.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/47px-NewTux.svg.png 2x" data-file-width="625" data-file-height="750" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Linux" title="Portal:Linux">Linux portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Open-source_software" class="mw-redirect" title="Portal:Open-source software">Open-source software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/List_of_Fedora_versions" class="mw-redirect" title="List of Fedora versions">List of Fedora versions</a></li>
+<li><a href="/wiki/List_of_Linux_distributions" title="List of Linux distributions">List of Linux distributions</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/65E5Qh88J?url=http://www.fusionauthority.com/news/3946-free-versions-of-red-hat-linux-to-be-discontinued.htm">"Free_Versions_of_Red_Hat_Linux_to_be_Discontinued"</a>. fusionauthority.com. Archived from <a rel="nofollow" class="external text" href="http://www.fusionauthority.com/news/3946-free-versions-of-red-hat-linux-to-be-discontinued.htm">the original</a> on 2012-02-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Free_Versions_of_Red_Hat_Linux_to_be_Discontinued&amp;rft.pub=fusionauthority.com&amp;rft_id=http%3A%2F%2Fwww.fusionauthority.com%2Fnews%2F3946-free-versions-of-red-hat-linux-to-be-discontinued.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">ACC Corp. &#160; View profile &#160; &#160;More options (August 1, 1995). <a rel="nofollow" class="external text" href="http://groups.google.com/group/comp.os.linux.announce/browse_thread/thread/3a9b67e29a9616cc/25f1a331d8f04e84">"COMMERCIAL: Red Hat Commercial Linux 1.1, Pacific Hi-Tech CD set. - comp.os.linux.announce | Google Groups"</a>. Groups.google.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=COMMERCIAL%3A+Red+Hat+Commercial+Linux+1.1%2C+Pacific+Hi-Tech+CD+set.+-+comp.os.linux.announce+%26%23124%3B+Google+Groups&amp;rft.pub=Groups.google.com&amp;rft.date=1995-08-01&amp;rft.au=ACC+Corp.+++View+profile++++More+options&amp;rft_id=http%3A%2F%2Fgroups.google.com%2Fgroup%2Fcomp.os.linux.announce%2Fbrowse_thread%2Fthread%2F3a9b67e29a9616cc%2F25f1a331d8f04e84&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130905040726/http://www.fedoralegacy.org/">"The Fedora Legacy Project"</a>. fedoralegacy.org. Archived from <a rel="nofollow" class="external text" href="http://www.fedoralegacy.org/">the original</a> on 2013-09-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Fedora+Legacy+Project&amp;rft.pub=fedoralegacy.org&amp;rft_id=http%3A%2F%2Fwww.fedoralegacy.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linuxjournal.com/article/139">Linux Distributions Compared</a>, Linux Journal, 1996</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smoogespace.com/documents/behind_the_names.html">"The Truth Behind Red Hat/Fedora Names"</a>. Smoogespace.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Truth+Behind+Red+Hat%2FFedora+Names&amp;rft.pub=Smoogespace.com&amp;rft_id=http%3A%2F%2Fwww.smoogespace.com%2Fdocuments%2Fbehind_the_names.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://everything2.com/title/kudzu">"Various Kudzu facts"</a>. Everything2.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Various+Kudzu+facts&amp;rft.pub=Everything2.com&amp;rft_id=http%3A%2F%2Feverything2.com%2Ftitle%2Fkudzu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://lwn.net/2000/1005/dists.php3">"Distributions"</a>. LWN<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Distributions&amp;rft.pub=LWN&amp;rft_id=https%3A%2F%2Flwn.net%2F2000%2F1005%2Fdists.php3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://lwn.net/2000/1005/a/rh-tools.php3">"a/rh-tools"</a>. Lwn.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=a%2Frh-tools&amp;rft.pub=Lwn.net&amp;rft_id=https%3A%2F%2Flwn.net%2F2000%2F1005%2Fa%2Frh-tools.php3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxtoday.com/news_story.php3?ltsn=2000-12-14-002-21-NW-RH-SW">"Linus Weighs in on Red Hat 7 Compiler Issues"</a>. Linux Today<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Linus+Weighs+in+on+Red+Hat+7+Compiler+Issues&amp;rft.pub=Linux+Today&amp;rft_id=http%3A%2F%2Fwww.linuxtoday.com%2Fnews_story.php3%3Fltsn%3D2000-12-14-002-21-NW-RH-SW&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://gcc.gnu.org/ml/gcc-announce/2000/msg00003.html">"Gerald Pfeifer - GCC 2.96"</a>. Gcc.gnu.org. 2000-10-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gerald+Pfeifer+-+GCC+2.96&amp;rft.pub=Gcc.gnu.org&amp;rft.date=2000-10-06&amp;rft_id=https%3A%2F%2Fgcc.gnu.org%2Fml%2Fgcc-announce%2F2000%2Fmsg00003.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://features.slashdot.org/article.pl?sid=00/10/12/163218&amp;mode=thread">An Open Letter From Bob Young</a>, Slashdot.org, Thu October 12, 2000 12:52 PM</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2002/09/17/red_hat_nullifies_kde_gnome/">"Red Hat nullifies KDE, Gnome"</a>. The Register. 2002-09-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Red+Hat+nullifies+KDE%2C+Gnome&amp;rft.pub=The+Register&amp;rft.date=2002-09-17&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2002%2F09%2F17%2Fred_hat_nullifies_kde_gnome%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.redhat.com/docs/manuals/linux/RHL-9-Manual/release-notes/x86/">"Red Hat Linux 9 Release Notes"</a>. Redhat.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Red+Hat+Linux+9+Release+Notes&amp;rft.pub=Redhat.com&amp;rft_id=http%3A%2F%2Fwww.redhat.com%2Fdocs%2Fmanuals%2Flinux%2FRHL-9-Manual%2Frelease-notes%2Fx86%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smoogespace.com/documents/behind_the_names.html">"The Truth Behind Red Hat/Fedora Names"</a>. smoogespace.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Truth+Behind+Red+Hat%2FFedora+Names&amp;rft.pub=smoogespace.com&amp;rft_id=http%3A%2F%2Fwww.smoogespace.com%2Fdocuments%2Fbehind_the_names.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://fedoraproject.org/wiki/History_of_Red_Hat_Linux">History of Red Hat Linux</a> - Fedora wiki</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxjournal.com/article/7169">"Fedora and Red Hat to Merge"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fedora+and+Red+Hat+to+Merge&amp;rft_id=http%3A%2F%2Fwww.linuxjournal.com%2Farticle%2F7169&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed+Hat+Linux" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Red_Hat_Linux" class="extiw" title="commons:Category:Red Hat Linux">Red Hat Linux</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li>Fedora – <a rel="nofollow" class="external text" href="http://fedoraproject.org/">Free, community-supported, home version of Red Hat Linux</a></li>
+<li>Fedora Project – <a rel="nofollow" class="external text" href="http://fedoraproject.org/wiki/History">History of Red Hat Linux</a></li>
+<li>Red Hat, Inc. – <a rel="nofollow" class="external text" href="https://www.redhat.com/docs/">Linux documentation</a></li>
+<li>Linux Kernel Organization – <a rel="nofollow" class="external text" href="http://archive.kernel.org/redhat-archive/redhat/linux/">Red Hat Archive</a></li>
+<li><a rel="nofollow" class="external text" href="https://distrowatch.com/table.php?distribution=redhat">Red Hat Linux</a> at <a href="/wiki/DistroWatch" title="DistroWatch">DistroWatch</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.is/20120425130511/http://unixgods.org/~tilo/redhat_versions.html">Mapping of RedHat Versions and Code Names to LINUX Kernel Versions</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Red_Hat" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Red_Hat" title="Template:Red Hat"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Red_Hat" title="Template talk:Red Hat"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Red_Hat&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Red_Hat" style="font-size:114%;margin:0 4em"><a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Major products</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat Enterprise Linux</a></li>
+<li><a href="/wiki/389_Directory_Server" title="389 Directory Server">Directory Server</a></li>
+<li><a href="/wiki/Red_Hat_cluster_suite" title="Red Hat cluster suite">Cluster Suite</a></li>
+<li><a href="/wiki/GFS2" title="GFS2">GFS2</a></li>
+<li><a href="/wiki/WildFly" title="WildFly">WildFly</a> (JBoss)</li>
+<li><a href="/wiki/Fedora_(operating_system)" title="Fedora (operating system)">Fedora</a> (<i><a href="/wiki/List_of_Fedora_releases" class="mw-redirect" title="List of Fedora releases">List of Fedora releases</a></i>)</li>
+<li><a href="/wiki/Virtual_Machine_Manager" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
+<li><a href="/wiki/Anaconda_(installer)" title="Anaconda (installer)">Anaconda</a></li>
+<li><a href="/wiki/Ceph_(software)" title="Ceph (software)">Ceph</a></li>
+<li><a href="/wiki/Yellowdog_Updater,_Modified" class="mw-redirect" title="Yellowdog Updater, Modified">yum</a></li>
+<li><a href="/wiki/RPM_Package_Manager" class="mw-redirect" title="RPM Package Manager">RPM</a></li>
+<li><a href="/wiki/Satellite_(software)" title="Satellite (software)">Satellite</a></li>
+<li><a href="/wiki/SPICE_(protocol)" class="mw-redirect" title="SPICE (protocol)">SPICE</a></li>
+<li><a href="/wiki/Ansible_(software)" title="Ansible (software)">Ansible</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Services</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red_Hat_Network" title="Red Hat Network">RHN</a></li>
+<li><a href="/wiki/OpenShift" title="OpenShift">OpenShift</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Projects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fedora_Project" title="Fedora Project">Fedora Project</a></li>
+<li><a href="/wiki/Spacewalk_(software)" title="Spacewalk (software)">Spacewalk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Defunct</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Red Hat Linux</a></li>
+<li><a href="/wiki/PostgreSQL#Red_Hat_Edition" title="PostgreSQL">Red Hat Database</a></li>
+<li><a href="/wiki/Fedora_Legacy" title="Fedora Legacy">Fedora Legacy</a></li>
+<li><a href="/wiki/Mugshot_(website)" title="Mugshot (website)">Mugshot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Important people</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jim_Whitehurst" title="Jim Whitehurst">Jim Whitehurst</a></li>
+<li><a href="/wiki/Matthew_Szulik" title="Matthew Szulik">Matthew Szulik</a></li>
+<li><a href="/wiki/Bob_Young_(businessman)" title="Bob Young (businessman)">Bob Young</a></li>
+<li><a href="/wiki/Marc_Ewing" title="Marc Ewing">Marc Ewing</a></li>
+<li><a href="/wiki/Michael_Tiemann" title="Michael Tiemann">Michael Tiemann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mergers and acquisitions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red_Hat#Mergers_and_acquisitions" title="Red Hat">Mergers and acquisitions</a></li>
+<li><a href="/wiki/C2Net" title="C2Net">C2Net</a></li>
+<li><a href="/wiki/Cygnus_Solutions" title="Cygnus Solutions">Cygnus Solutions</a></li>
+<li><a href="/wiki/Inktank_Storage" title="Inktank Storage">Inktank Storage</a></li>
+<li><a href="/wiki/JBoss_(company)" title="JBoss (company)">JBoss</a></li>
+<li><a href="/wiki/MetaMatrix" title="MetaMatrix">MetaMatrix</a></li>
+<li><a href="/wiki/Qumranet" title="Qumranet">Qumranet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red_Hat_Certification_Program" title="Red Hat Certification Program">Red Hat Certification Program</a></li>
+<li><a href="/wiki/Red_Hat_Enterprise_Linux_derivatives" title="Red Hat Enterprise Linux derivatives">Red Hat Enterprise Linux derivatives</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Linux_distributions" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Linux_distributions" title="Template:Linux distributions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Linux_distributions" title="Template talk:Linux distributions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Linux_distributions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Linux_distributions" style="font-size:114%;margin:0 4em"><a href="/wiki/Linux_distribution" title="Linux distribution">Linux distributions</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android-IA" class="mw-redirect" title="Android-IA">Android-IA</a></li>
+<li><a href="/wiki/Android-x86" title="Android-x86">Android-x86</a></li>
+<li><a href="/wiki/LineageOS" title="LineageOS">LineageOS</a>
+<ul>
+<li><a href="/wiki/CyanogenMod" title="CyanogenMod">CyanogenMod</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Remix_OS" title="Remix OS">Remix OS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arch_Linux" title="Arch Linux">Arch</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antergos" title="Antergos">Antergos</a></li>
+<li><a href="/wiki/ArchBang" title="ArchBang">ArchBang</a></li>
+<li><a href="/wiki/ArchLabs" title="ArchLabs">ArchLabs</a></li>
+<li><a href="/wiki/Chakra_(operating_system)" title="Chakra (operating system)">Chakra</a></li>
+<li><a href="/wiki/Manjaro_Linux" title="Manjaro Linux">Manjaro Linux</a></li>
+<li><a href="/wiki/Parabola_GNU/Linux-libre" title="Parabola GNU/Linux-libre">Parabola GNU/Linux-libre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Debian" title="Debian">Debian</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AntiX" title="AntiX">antiX</a></li>
+<li><a href="/wiki/Astra_Linux" title="Astra Linux">Astra Linux</a></li>
+<li><a href="/wiki/Bharat_Operating_System_Solutions" title="Bharat Operating System Solutions">Bharat Operating System Solutions</a></li>
+<li><a href="/wiki/Elive" title="Elive">Elive</a></li>
+<li><a href="/wiki/Devuan" title="Devuan">Devuan</a></li>
+<li><a href="/wiki/GNewSense" title="GNewSense">gNewSense</a></li>
+<li><a href="/wiki/HandyLinux" title="HandyLinux">HandyLinux</a></li>
+<li><a href="/wiki/Kali_Linux" title="Kali Linux">Kali Linux</a></li>
+<li><a href="/wiki/Knoppix" title="Knoppix">Knoppix</a></li>
+<li><a href="/wiki/Parrot_Security_OS" title="Parrot Security OS">Parrot Security OS</a></li>
+<li><a href="/wiki/SparkyLinux" title="SparkyLinux">SparkyLinux</a></li>
+<li><a href="/wiki/SteamOS" title="SteamOS">SteamOS</a></li>
+<li><a href="/wiki/Tails_(operating_system)" title="Tails (operating system)">Tails</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ubuntu_(operating_system)" title="Ubuntu (operating system)">Ubuntu</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Official: <a href="/wiki/Edubuntu" title="Edubuntu">Edubuntu</a></li>
+<li><a href="/wiki/Kubuntu" title="Kubuntu">Kubuntu</a></li>
+<li><a href="/wiki/Lubuntu" title="Lubuntu">Lubuntu</a></li>
+<li><a href="/wiki/Ubuntu_Budgie" title="Ubuntu Budgie">Ubuntu Budgie</a></li>
+<li><a href="/wiki/Ubuntu_GNOME" title="Ubuntu GNOME">Ubuntu GNOME</a></li>
+<li><a href="/wiki/Ubuntu_Kylin" title="Ubuntu Kylin">Ubuntu Kylin</a></li>
+<li><a href="/wiki/Ubuntu_MATE" title="Ubuntu MATE">Ubuntu MATE</a></li>
+<li><a href="/wiki/Ubuntu_Studio" title="Ubuntu Studio">Ubuntu Studio</a></li>
+<li><a href="/wiki/Xubuntu" title="Xubuntu">Xubuntu</a></li>
+<li>Other: <a href="/wiki/Asturix" title="Asturix">Asturix</a></li>
+<li><a href="/wiki/Bodhi_Linux" title="Bodhi Linux">Bodhi Linux</a></li>
+<li><a href="/wiki/Elementary_OS" title="Elementary OS">elementary OS</a></li>
+<li><a href="/wiki/Linux_Mint" title="Linux Mint">Linux Mint</a></li>
+<li><a href="/wiki/Pinguy_OS" title="Pinguy OS">Pinguy OS</a></li>
+<li><a href="/wiki/Trisquel" title="Trisquel">Trisquel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fedora_(operating_system)" title="Fedora (operating system)">Fedora</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BLAG_Linux_and_GNU" title="BLAG Linux and GNU">BLAG Linux and GNU</a></li>
+<li><a href="/wiki/Korora_(operating_system)" title="Korora (operating system)">Korora</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CentOS" title="CentOS">CentOS</a></li>
+<li><a href="/wiki/ClearOS" title="ClearOS">ClearOS</a></li>
+<li><a href="/wiki/Linpus_Linux" title="Linpus Linux">Linpus Linux</a></li>
+<li><a href="/wiki/Oracle_Linux" title="Oracle Linux">Oracle Linux</a></li>
+<li><a href="/wiki/Qubes_OS" title="Qubes OS">Qubes OS</a></li>
+<li><a href="/wiki/Rocks_Cluster_Distribution" title="Rocks Cluster Distribution">Rocks Cluster Distribution</a></li>
+<li><a href="/wiki/Scientific_Linux" title="Scientific Linux">Scientific Linux</a></li>
+<li><a href="/wiki/SME_Server" title="SME Server">SME Server</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gentoo_Linux" title="Gentoo Linux">Gentoo</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calculate_Linux" title="Calculate Linux">Calculate Linux</a></li>
+<li><a href="/wiki/Chromium_OS" title="Chromium OS">Chromium OS</a>
+<ul>
+<li><a href="/wiki/Chrome_OS" title="Chrome OS">Chrome OS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Funtoo_Linux" class="mw-redirect" title="Funtoo Linux">Funtoo Linux</a></li>
+<li><a href="/wiki/Sabayon_Linux" title="Sabayon Linux">Sabayon Linux</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mandriva_Linux" title="Mandriva Linux">Mandriva</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ALT_Linux" title="ALT Linux">ALT Linux</a></li>
+<li><a href="/wiki/Mageia" title="Mageia">Mageia</a></li>
+<li><a href="/wiki/OpenMandriva_Lx" title="OpenMandriva Lx">OpenMandriva Lx</a></li>
+<li><a href="/wiki/PCLinuxOS" title="PCLinuxOS">PCLinuxOS</a></li>
+<li><a href="/wiki/ROSA_Linux" title="ROSA Linux">ROSA Linux</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Slackware" title="Slackware">Slackware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Austrumi_Linux" title="Austrumi Linux">Austrumi Linux</a></li>
+<li><a href="/wiki/DeLi_Linux" title="DeLi Linux">DeLi Linux</a></li>
+<li><a href="/wiki/DNALinux" title="DNALinux">DNALinux</a></li>
+<li><a href="/wiki/Kongoni_(operating_system)" title="Kongoni (operating system)">Kongoni</a></li>
+<li><a href="/wiki/NimbleX" title="NimbleX">NimbleX</a></li>
+<li><a href="/wiki/Platypux" title="Platypux">Platypux</a></li>
+<li><a href="/wiki/Porteus_(operating_system)" title="Porteus (operating system)">Porteus</a></li>
+<li><a href="/wiki/Salix_OS" title="Salix OS">Salix OS</a></li>
+<li><a href="/wiki/Slax" title="Slax">Slax</a></li>
+<li><a href="/wiki/TopologiLinux" title="TopologiLinux">TopologiLinux</a></li>
+<li><a href="/wiki/VectorLinux" title="VectorLinux">VectorLinux</a></li>
+<li><a href="/wiki/Zenwalk" title="Zenwalk">Zenwalk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alpine_Linux" title="Alpine Linux">Alpine Linux</a></li>
+<li><a href="/wiki/CRUX" title="CRUX">CRUX</a></li>
+<li><a href="/wiki/Frugalware_Linux" title="Frugalware Linux">Frugalware Linux</a></li>
+<li><a href="/wiki/GoboLinux" title="GoboLinux">GoboLinux</a></li>
+<li><a href="/wiki/Guix_System_Distribution" title="Guix System Distribution">GuixSD</a></li>
+<li><a href="/wiki/Lunar_Linux" title="Lunar Linux">Lunar Linux</a></li>
+<li><a href="/wiki/NixOS" title="NixOS">NixOS</a></li>
+<li><a href="/wiki/OpenSUSE" title="OpenSUSE">openSUSE</a>
+<ul>
+<li><a href="/wiki/SUSE_Linux_Enterprise_Server" class="mw-redirect" title="SUSE Linux Enterprise Server">SUSE Linux Enterprise Server</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Puppy_Linux" title="Puppy Linux">Puppy Linux</a></li>
+<li><a href="/wiki/Source_Mage" title="Source Mage">Source Mage</a></li>
+<li><a href="/wiki/Solus_(operating_system)" title="Solus (operating system)">Solus</a></li>
+<li><a href="/wiki/Void_Linux" title="Void Linux">Void Linux</a></li>
+<li><a href="/wiki/Uruk_GNU/Linux" title="Uruk GNU/Linux">Uruk GNU/Linux</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Linux_distributions" title="Category:Linux distributions">Category</a></b></li>
+<li><img alt="Non-article page" src="//upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/16px-Symbol_neutral_vote.svg.png" title="Non-article page" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/23px-Symbol_neutral_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/31px-Symbol_neutral_vote.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Comparison_of_Linux_distributions" title="Comparison of Linux distributions">Comparison</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_Linux_distributions" title="List of Linux distributions">List</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/category:Linux_distributions" class="extiw" title="commons:category:Linux distributions">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20180211010432
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.432 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 7244/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 108444/2097152 bytes
+Template argument size: 7157/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 4/500
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 4.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  475.307      1 -total
+ 23.14%  109.979      1 Template:Reflist
+ 21.33%  101.386      1 Template:Releases_Red_Hat_Linux
+ 18.40%   87.461     13 Template:Cite_web
+ 16.35%   77.723      1 Template:Infobox_OS
+ 14.28%   67.876      1 Template:Infobox
+ 13.78%   65.511     34 Template:Date
+ 12.23%   58.110      2 Template:Citation_needed
+ 11.32%   53.823      2 Template:Fix
+  6.97%   33.134      1 Template:Redirect
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26072-0!canonical and timestamp 20180211010431 and revision id 822248834
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Red_Hat_Linux&amp;oldid=822248834">https://en.wikipedia.org/w/index.php?title=Red_Hat_Linux&amp;oldid=822248834</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Discontinued_Linux_distributions" title="Category:Discontinued Linux distributions">Discontinued Linux distributions</a></li><li><a href="/wiki/Category:Red_Hat_software" title="Category:Red Hat software">Red Hat software</a></li><li><a href="/wiki/Category:RPM-based_Linux_distributions" title="Category:RPM-based Linux distributions">RPM-based Linux distributions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2008" title="Category:Articles with unsourced statements from February 2008">Articles with unsourced statements from February 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2008" title="Category:Articles with unsourced statements from May 2008">Articles with unsourced statements from May 2008</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Red+Hat+Linux" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red+Hat+Linux" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Red_Hat_Linux" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Red_Hat_Linux" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Red_Hat_Linux">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Red_Hat_Linux&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Red_Hat_Linux" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Red_Hat_Linux" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Red_Hat_Linux&amp;oldid=822248834" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Red_Hat_Linux&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q220182" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Red_Hat_Linux&amp;id=822248834" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Red+Hat+Linux">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Red+Hat+Linux&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Red_Hat_Linux&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Red_Hat_Linux" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%AF%D9%87%D8%A7%D8%AA_%D9%84%D9%8A%D9%86%D9%83%D8%B3" title="ريدهات لينكس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF_%D9%87%D8%AA_%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3" title="رد هت لینوکس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A0%88%EB%93%9C%ED%96%87_%EB%A6%AC%EB%88%85%EC%8A%A4" title="레드햇 리눅스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Red_Hat" title="Red Hat – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9F_%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B8" title="रेडह्याट लिनक्स – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AF%86%E0%AE%9F%E0%AF%8D_%E0%AE%B9%E0%AE%BE%E0%AE%9F%E0%AF%8D_%E0%AE%B2%E0%AE%BF%E0%AE%A9%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%81" title="ரெட் ஹாட் லினக்சு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B1%86%E0%B0%A1%E0%B1%8D_%E0%B0%B9%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%9F%E0%B1%8D_%E0%B0%B2%E0%B0%BF%E0%B0%A8%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="రెడ్ హ్యాట్ లినక్స్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Red_Hat_Linux" title="Red Hat Linux – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q220182#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 January 2018, at 07:37.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Red_Hat_Linux&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.432","walltime":"0.542","ppvisitednodes":{"value":7244,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":108444,"limit":2097152},"templateargumentsize":{"value":7157,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  475.307      1 -total"," 23.14%  109.979      1 Template:Reflist"," 21.33%  101.386      1 Template:Releases_Red_Hat_Linux"," 18.40%   87.461     13 Template:Cite_web"," 16.35%   77.723      1 Template:Infobox_OS"," 14.28%   67.876      1 Template:Infobox"," 13.78%   65.511     34 Template:Date"," 12.23%   58.110      2 Template:Citation_needed"," 11.32%   53.823      2 Template:Fix","  6.97%   33.134      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":5057331,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180211010432","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":643,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>

@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Interpreted language - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Interpreted_language","wgTitle":"Interpreted language","wgCurRevisionId":826031474,"wgRevisionId":826031474,"wgArticleId":15089,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2016","All articles needing additional references","Articles lacking sources from January 2013","All articles lacking sources","Articles to be merged from July 2017","All articles to be merged","Programming language classification"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Interpreted_language","wgRelevantArticleId":15089,"wgRequestId":"Woc@egpAMFQAAKmRm9cAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1993334","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Interpreted_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Interpreted_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Interpreted_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Interpreted_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Interpreted_language rootpage-Interpreted_language skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Interpreted language</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Language_interpretation" title="Language interpretation">Language interpretation</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Interpreted_language&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(September 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Interpreted_language&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(January 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/75px-Merge-arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/100px-Merge-arrow.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into <i><a href="/wiki/Scripting_language" title="Scripting language">Scripting language</a></i>. (<a href="/wiki/Talk:Scripting_language#Merge_with_&quot;Interpreted_language&quot;" title="Talk:Scripting language">Discuss</a>) <small><i>Proposed since July 2017.</i></small></div>
+</td>
+</tr>
+</table>
+<p>An <b>interpreted language</b> is a type of <a href="/wiki/Programming_language" title="Programming language">programming language</a> for which most of its implementations execute instructions directly and freely, without previously <a href="/wiki/Compiler" title="Compiler">compiling</a> a <a href="/wiki/Computer_program" title="Computer program">program</a> into <a href="/wiki/Machine_language" class="mw-redirect" title="Machine language">machine-language</a> instructions. The <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">interpreter</a> executes the program directly, translating each statement into a sequence of one or more <a href="/wiki/Subroutines" class="mw-redirect" title="Subroutines">subroutines</a> already compiled into <a href="/wiki/Machine_code" title="Machine code">machine code</a>.</p>
+<p>The terms <i>interpreted language</i> and <i><a href="/wiki/Compiled_language" title="Compiled language">compiled language</a></i> are not well defined because, in theory, any programming language can be either interpreted or compiled. In modern programming language implementation it is increasingly popular for a platform to provide both options.</p>
+<p>Interpreted languages can also be contrasted with <a href="/wiki/Machine_language" class="mw-redirect" title="Machine language">machine languages</a>. Functionally, both execution and interpretation mean the same thing — fetching the next instruction/statement from the program and executing it. Although interpreted <a href="/wiki/Byte_code" class="mw-redirect" title="Byte code">byte code</a> is additionally identical to machine code in form and has an <a href="/wiki/Assembly_language" title="Assembly language">assembler</a> representation, the term "interpreted" is practically reserved for "software processed" languages (by <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a> or <a href="/wiki/Emulator" title="Emulator">emulator</a>) on top of the native (i.e. <a href="/wiki/Computer_hardware" title="Computer hardware">hardware</a>) processor.</p>
+<p>In principle, programs in many languages may be <a href="/wiki/Compiler" title="Compiler">compiled</a> or interpreted, emulated or executed natively, so this designation is applied solely based on common implementation practice, rather than representing an essential property of a language.</p>
+<p>Many languages have been implemented using both <a href="/wiki/Compiler" title="Compiler">compilers</a> and interpreters, including <a href="/wiki/BASIC" title="BASIC">BASIC</a>, <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>, <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a>, and <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>. <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> and <a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> are compiled into <a href="/wiki/Bytecode" title="Bytecode">bytecode</a>, the <a href="/wiki/Interpreted_language#Languages_usually_compiled_to_a_bytecode" title="Interpreted language">virtual machine-friendly interpreted language</a>. Lisp implementations can freely mix interpreted and compiled code.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historical_background"><span class="tocnumber">1</span> <span class="toctext">Historical background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Advantages"><span class="tocnumber">2</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Disadvantages"><span class="tocnumber">3</span> <span class="toctext">Disadvantages</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#List_of_frequently_used_interpreted_languages"><span class="tocnumber">4</span> <span class="toctext">List of frequently used interpreted languages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Languages_usually_compiled_to_a_bytecode"><span class="tocnumber">4.1</span> <span class="toctext">Languages usually compiled to a bytecode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Historical_background">Historical background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=1" title="Edit section: Historical background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the early days of computing, language design was heavily influenced by the decision to use compiling or interpreting as a mode of execution. For example, <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> (1980), which was designed to be interpreted at run-time, allows generic objects to dynamically interact with each other.</p>
+<p>Initially, interpreted languages were compiled line-by-line; that is, each line was compiled as it was about to be executed, and if a loop or subroutine caused certain lines to be executed multiple times, they would be recompiled every time. This has become much less common. Most so-called interpreted languages use an <a href="/wiki/Intermediate_representation" title="Intermediate representation">intermediate representation</a>, which combines compiling and interpreting.</p>
+<p>Examples include:</p>
+<ul>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a> (similarly, it uses an <a href="/wiki/Abstract_syntax_tree" title="Abstract syntax tree">abstract syntax tree</a> as intermediate representation)</li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+</ul>
+<p>The intermediate representation can be compiled once and for all (as in Java), each time before execution (as in Perl or Ruby), or each time a change in the source is detected before execution (as in Python).</p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=2" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Interpreting a language gives implementations some additional flexibility over compiled implementations. Features that are often easier to implement in interpreters than in compilers include:</p>
+<ul>
+<li><a href="/wiki/Platform_independent" class="mw-redirect" title="Platform independent">platform independence</a> (Java's byte code, for example)</li>
+<li><a href="/wiki/Reflection_(computer_science)" class="mw-redirect" title="Reflection (computer science)">reflection</a> and reflective use of the evaluator (e.g. a first-order <a href="/wiki/Eval" title="Eval">eval</a> function)</li>
+<li><a href="/wiki/Dynamic_typing" class="mw-redirect" title="Dynamic typing">dynamic typing</a></li>
+<li>smaller executable program size (since implementations have flexibility to choose the instruction code)</li>
+<li><a href="/wiki/Scope_(programming)#Dynamic_scoping" class="mw-redirect" title="Scope (programming)">dynamic scoping</a></li>
+</ul>
+<p>Furthermore, source code can be read and copied, giving users more freedom.</p>
+<h2><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=3" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Disadvantages of interpreted languages are:</p>
+<ul>
+<li>Without <a href="/wiki/Static_type-checking" class="mw-redirect" title="Static type-checking">static type-checking</a>, which is usually performed by a compiler, programs can be less reliable, because type checking eliminates a class of programming errors.</li>
+<li>Interpreters can be susceptible to <a href="/wiki/Code_injection" title="Code injection">Code injection</a> attacks.</li>
+<li>Slower execution compared to direct native <a href="/wiki/Machine_code" title="Machine code">machine code</a> execution on the host <a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a>. A technique used to improve performance is <a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">just-in-time compilation</a> which converts frequently executed sequences of interpreted instruction to host machine code. JIT is most often combined with compilation to byte-code as in <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>.</li>
+<li>Source code can be read and copied (e.g. <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> in web pages), or more easily reverse engineered through <a href="/wiki/Reflection_(computer_science)" class="mw-redirect" title="Reflection (computer science)">reflection</a> in applications where intellectual property has a commercial advantage. In some cases, <a href="/wiki/Obfuscation_(software)" title="Obfuscation (software)">obfuscation</a> is used as a partial defense against this.</li>
+</ul>
+<h2><span class="mw-headline" id="List_of_frequently_used_interpreted_languages">List of frequently used interpreted languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=4" title="Edit section: List of frequently used interpreted languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a> A vector oriented language using an unusual character set
+<ul>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J</a> An APL variant in which tacit definition provides some of the benefits of compiling</li>
+</ul>
+</li>
+<li><a href="/wiki/BASIC" title="BASIC">BASIC</a> (although the original version, Dartmouth BASIC, was compiled, as are many modern BASICs)
+<ul>
+<li><a href="/wiki/ThinBasic" title="ThinBasic">thinBasic</a></li>
+</ul>
+</li>
+<li>Equation manipulation and solving systems
+<ul>
+<li><a href="/wiki/GNU_Octave" title="GNU Octave">GNU Octave</a></li>
+<li><a href="/wiki/IDL_(programming_language)" title="IDL (programming language)">Interactive Data Language</a> (IDL)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/TK_Solver" title="TK Solver">TK Solver</a></li>
+<li><a href="/wiki/Mathematica" class="mw-redirect" title="Mathematica">Mathematica</a></li>
+<li><a href="/wiki/MATLAB" title="MATLAB">MATLAB</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Euphoria_(programming_language)" title="Euphoria (programming language)">Euphoria</a> Interpreted or compiled.</li>
+<li><a href="/wiki/GameMaker:_Studio" class="mw-redirect" title="GameMaker: Studio">Game Maker Language</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+<li><a href="/wiki/Lava_(programming_language)" title="Lava (programming language)">Lava</a></li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>
+<ul>
+<li><a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a></li>
+<li><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></li>
+</ul>
+</li>
+<li>Madness Script</li>
+<li><a href="/wiki/MUMPS" title="MUMPS">MUMPS</a></li>
+<li><a href="/wiki/Perl" title="Perl">Perl</a></li>
+<li><a href="/wiki/PHP" title="PHP">PHP</a></li>
+<li>[[PostScript]</li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/REXX" class="mw-redirect" title="REXX">REXX</a></li>
+<li><a href="/wiki/Seed7" title="Seed7">Seed7</a></li>
+<li><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>
+<ul>
+<li><a href="/wiki/Bistro_(programming_language)" title="Bistro (programming language)">Bistro</a></li>
+<li><a href="/wiki/Dolphin_Smalltalk" title="Dolphin Smalltalk">Dolphin Smalltalk</a></li>
+<li><a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a></li>
+<li><a href="/wiki/Little_Smalltalk" title="Little Smalltalk">Little Smalltalk</a></li>
+<li><a href="/wiki/Squeak" title="Squeak">Squeak</a></li>
+<li><a href="/wiki/VisualAge" class="mw-redirect" title="VisualAge">VisualAge</a></li>
+<li><a href="/wiki/VisualWorks" title="VisualWorks">VisualWorks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spreadsheet" title="Spreadsheet">Spreadsheets</a>
+<ul>
+<li><a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Excel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/S_(programming_language)" title="S (programming language)">S</a>
+<ul>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tcl" title="Tcl">Tcl</a>
+<ul>
+<li><a href="/wiki/XOTcl" title="XOTcl">XOTcl</a></li>
+</ul>
+</li>
+<li><a href="/wiki/VBScript" title="VBScript">VBScript</a></li>
+<li><a href="/wiki/PowerShell" title="PowerShell">PowerShell</a></li>
+<li><a rel="nofollow" class="external text" href="http://xmlmosaic.codeplex.com">XMLmosaic</a> An xml contained C# like programming language interpreted by a console application written in Visual Basic .NET</li>
+</ul>
+<h3><span class="mw-headline" id="Languages_usually_compiled_to_a_bytecode">Languages usually compiled to a bytecode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=5" title="Edit section: Languages usually compiled to a bytecode">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many languages are first compiled to <a href="/wiki/Bytecode" title="Bytecode">bytecode</a>. Ѕometimes, bytecode can also be compiled to a native binary using an <a href="/wiki/AOT_compiler" class="mw-redirect" title="AOT compiler">AOT compiler</a> or executed natively, by hardware processor.</p>
+<ul>
+<li><a href="/wiki/AppleScript" title="AppleScript">AppleScript</a></li>
+<li><a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a> (compiled into Erlang bytecode and interpreted by the BEAM VM)
+<ul>
+<li><a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a> (runs on the Erlang VM)</li>
+</ul>
+</li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> (is compiled into Java bytecode to be interpreted by <a href="/wiki/JVM" class="mw-redirect" title="JVM">JVM</a>)
+<ul>
+<li><a href="/wiki/Clojure" title="Clojure">Clojure</a></li>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/ColdFusion" class="mw-redirect" title="ColdFusion">ColdFusion</a></li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></li>
+</ul>
+</li>
+<li><a href="/wiki/.NET_Framework" title=".NET Framework">.NET Framework</a> languages (translated to bytecode, called <a href="/wiki/Common_Intermediate_Language" title="Common Intermediate Language">CIL</a>).
+<ul>
+<li><a href="/wiki/C%2B%2B/CLI" title="C++/CLI">C++/CLI</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a></li>
+<li><a href="/wiki/Visual_Basic_.NET" title="Visual Basic .NET">Visual Basic .NET</a></li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/Pike_(programming_language)" title="Pike (programming language)">Pike</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></li>
+<li><a href="/wiki/Squeak_Smalltalk" class="mw-redirect" title="Squeak Smalltalk">Squeak Smalltalk</a></li>
+<li><a href="/wiki/Visual_FoxPro" title="Visual FoxPro">Visual FoxPro</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_interpreted_languages" class="mw-redirect" title="List of interpreted languages">List of interpreted languages</a></li>
+<li><a href="/wiki/Compiled_language" title="Compiled language">Compiled language</a></li>
+<li><a href="/wiki/Executable" title="Executable">Executable</a></li>
+<li><a href="/wiki/Managed_code" title="Managed code">Managed code</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreted_language&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Brown, P.J. (1979). <i>Writing Interactive Compilers and Interpreters</i>. John Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-27609-X" title="Special:BookSources/0-471-27609-X">0-471-27609-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Writing+Interactive+Compilers+and+Interpreters&amp;rft.pub=John+Wiley&amp;rft.date=1979&amp;rft.isbn=0-471-27609-X&amp;rft.aulast=Brown&amp;rft.aufirst=P.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterpreted+language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div class="reflist" style="list-style-type: decimal;"></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1308
+Cached time: 20180216202250
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.150 seconds
+Preprocessor visited node count: 484/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12681/2097152 bytes
+Template argument size: 375/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 2.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  121.058      1 -total
+ 27.84%   33.708      1 Template:Refimprove
+ 25.30%   30.629      2 Template:Ambox
+ 24.63%   29.822      1 Template:Cite_book
+ 19.97%   24.177      1 Template:Merge_to
+ 16.82%   20.360      1 Template:Distinguish
+  7.98%    9.664      1 Template:DMC
+  7.62%    9.222      1 Template:Mbox
+  6.39%    7.731      1 Template:Reflist
+  4.68%    5.668      1 Template:Pagelist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15089-0!canonical and timestamp 20180216202250 and revision id 826031474
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Interpreted_language&amp;oldid=826031474">https://en.wikipedia.org/w/index.php?title=Interpreted_language&amp;oldid=826031474</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Programming_language_classification" title="Category:Programming language classification">Programming language classification</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2016" title="Category:Articles needing additional references from September 2016">Articles needing additional references from September 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_lacking_sources_from_January_2013" title="Category:Articles lacking sources from January 2013">Articles lacking sources from January 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_to_be_merged_from_July_2017" title="Category:Articles to be merged from July 2017">Articles to be merged from July 2017</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Interpreted+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Interpreted+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Interpreted_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Interpreted_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Interpreted_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Interpreted_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Interpreted_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Interpreted_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Interpreted_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Interpreted_language&amp;oldid=826031474" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Interpreted_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1993334" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Interpreted_language&amp;id=826031474" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Interpreted+language">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Interpreted+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Interpreted_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D9%85%D9%81%D8%B3%D8%B1%D8%A9" title="لغة مفسرة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Llenguatge_interpretat" title="Llenguatge interpretat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Interpretovan%C3%BD_jazyk" title="Interpretovaný jazyk – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B5%CF%81%CE%BC%CE%B7%CE%BD%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%B7_%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1" title="Διερμηνευμένη γλώσσα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n_interpretado" title="Lenguaje de programación interpretado – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%DB%8C" title="زبان تفسیری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Langage_interpr%C3%A9t%C3%A9" title="Langage interprété – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Linguaxe_interpretada" title="Linguaxe interpretada – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%8A%B8_%EC%96%B8%EC%96%B4" title="인터프리트 언어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A4%D7%94_%D7%9E%D7%A4%D7%95%D7%A8%D7%A9%D7%AA" title="שפה מפורשת – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Lenguaige_anterpretada" title="Lenguaige anterpretada – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyk_interpretowany" title="Język interpretowany – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Linguagem_interpretada" title="Linguagem interpretada – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Интерпретируемый язык программирования – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA" title="Интерпретирани програмски језик – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Interpreterande_programspr%C3%A5k" title="Interpreterande programspråk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yorumlanan_programlama_dili" title="Yorumlanan programlama dili – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Інтерпретована мова програмування – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%9B%B4%E8%AD%AF%E8%AA%9E%E8%A8%80" title="直譯語言 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1993334#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 February 2018, at 20:22.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Interpreted_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.150","ppvisitednodes":{"value":484,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12681,"limit":2097152},"templateargumentsize":{"value":375,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  121.058      1 -total"," 27.84%   33.708      1 Template:Refimprove"," 25.30%   30.629      2 Template:Ambox"," 24.63%   29.822      1 Template:Cite_book"," 19.97%   24.177      1 Template:Merge_to"," 16.82%   20.360      1 Template:Distinguish","  7.98%    9.664      1 Template:DMC","  7.62%    9.222      1 Template:Mbox","  6.39%    7.731      1 Template:Reflist","  4.68%    5.668      1 Template:Pagelist"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":2166441,"limit":52428800}},"cachereport":{"origin":"mw1308","timestamp":"20180216202250","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1249"});});</script>
+	</body>
+</html>

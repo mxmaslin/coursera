@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Interpreter (computing) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Interpreter_(computing)","wgTitle":"Interpreter (computing)","wgCurRevisionId":823759838,"wgRevisionId":823759838,"wgArticleId":59868,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interlanguage link template link number","CS1 German-language sources (de)","All articles with unsourced statements","Articles with unsourced statements from January 2013","Articles with unsourced statements from April 2014","Articles with unsourced statements from February 2016","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Interpreters (computing)","Programming language implementation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Interpreter_(computing)","wgRelevantArticleId":59868,"wgRequestId":"Wn@WZgpAICIAADl2VfwAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q183065","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Interpreter_(computing)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Interpreter_(computing)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Interpreter_(computing)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Interpreter_(computing)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Interpreter_computing rootpage-Interpreter_computing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Interpreter (computing)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;margin-top: 0.5em;">
+<tr>
+<th style="background-color: rgba(51, 153, 255, 0.15);;padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Execution_(computing)" title="Execution (computing)">Program execution</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">General concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Computer_code" title="Computer code">Code</a></li>
+<li><a href="/wiki/Translator_(computing)" title="Translator (computing)">Translation</a>
+<ul>
+<li><a href="/wiki/Compiler" title="Compiler">Compiler</a></li>
+<li><a href="/wiki/Optimizing_compiler" title="Optimizing compiler">Optimizing compiler</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intermediate_representation" title="Intermediate representation">Intermediate representation</a> (IR)</li>
+<li><a href="/wiki/Execution_(computing)" title="Execution (computing)">Execution</a>
+<ul>
+<li><a href="/wiki/Runtime_system" title="Runtime system">Runtime system</a></li>
+<li><a href="/wiki/Executable" title="Executable">Executable</a></li>
+<li><a class="mw-selflink selflink">Interpreter</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Types of code</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Source_code" title="Source code">Source code</a></li>
+<li><a href="/wiki/Object_code" title="Object code">Object code</a></li>
+<li><a href="/wiki/Bytecode" title="Bytecode">Bytecode</a></li>
+<li><a href="/wiki/Machine_code" title="Machine code">Machine code</a></li>
+<li><a href="/wiki/Microcode" title="Microcode">Microcode</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Compilation strategies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">Just-in-time</a> (JIT)
+<ul>
+<li><a href="/wiki/Tracing_just-in-time_compilation" title="Tracing just-in-time compilation">Tracing just-in-time</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ahead-of-time_compilation" title="Ahead-of-time compilation">Ahead-of-time</a> (AOT)</li>
+<li><a href="/wiki/Source-to-source_compiler" title="Source-to-source compiler">Transcompilation</a></li>
+<li><a href="/wiki/Dynamic_recompilation" title="Dynamic recompilation">Recompilation</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Notable runtimes</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Android_Runtime" title="Android Runtime">Android Runtime</a> (ART)</li>
+<li><a href="/wiki/Common_Language_Runtime" title="Common Language Runtime">Common Language Runtime</a> (CLR)</li>
+<li><a href="/wiki/Crt0" title="Crt0">crt0</a></li>
+<li><a href="/wiki/Java_virtual_machine" title="Java virtual machine">Java virtual machine</a> (JVM)</li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/Zend_Engine" title="Zend Engine">Zend Engine</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Notable compilers &amp; toolchains</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">GNU Compiler Collection</a> (GCC)</li>
+<li><a href="/wiki/LLVM" title="LLVM">LLVM</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Program_execution" title="Template:Program execution"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Program_execution" title="Template talk:Program execution"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Program_execution&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a>, an <b>interpreter</b> is a <a href="/wiki/Computer_program" title="Computer program">computer program</a> that directly <a href="/wiki/Execution_(computers)" class="mw-redirect" title="Execution (computers)">executes</a>, i.e. <i>performs</i>, instructions written in a <a href="/wiki/Programming_language" title="Programming language">programming</a> or <a href="/wiki/Scripting_language" title="Scripting language">scripting language</a>, without requiring them previously to have been <a href="/wiki/Compiler" title="Compiler">compiled</a> into a <a href="/wiki/Machine_language" class="mw-redirect" title="Machine language">machine language</a> program. An interpreter generally uses one of the following strategies for program execution:</p>
+<ul>
+<li><a href="/wiki/Parse" class="mw-redirect" title="Parse">parse</a> the <a href="/wiki/Source_code" title="Source code">source code</a> and perform its behavior directly;</li>
+<li>translate source code into some efficient <a href="/wiki/Intermediate_representation" title="Intermediate representation">intermediate representation</a> and immediately execute this;</li>
+<li>explicitly execute stored precompiled code<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> made by a <a href="/wiki/Compiler" title="Compiler">compiler</a> which is part of the interpreter system.</li>
+</ul>
+<p>Early versions of <a href="/wiki/Lisp_programming_language" class="mw-redirect" title="Lisp programming language">Lisp programming language</a> and <a href="/wiki/Dartmouth_BASIC" title="Dartmouth BASIC">Dartmouth BASIC</a> would be examples of the first type. <a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/MATLAB" title="MATLAB">MATLAB</a>, and <a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a> are examples of the second, while <a href="/wiki/UCSD_Pascal" title="UCSD Pascal">UCSD Pascal</a> is an example of the third type. Source programs are compiled ahead of time and stored as machine independent code, which is then <a href="/wiki/Linker_(computing)" title="Linker (computing)">linked</a> at run-time and executed by an interpreter and/or compiler (for <a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">JIT</a> systems). Some systems, such as <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> and contemporary versions of <a href="/wiki/BASIC" title="BASIC">BASIC</a> and <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> may also combine two and three.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Interpreters of various types have also been constructed for many languages traditionally associated with compilation, such as Algol, Fortran, Cobol and C/C++.</p>
+<p>While interpretation and compilation are the two main means by which programming languages are implemented, they are not mutually exclusive, as most interpreting systems also perform some translation work, just like compilers. The terms "<a href="/wiki/Interpreted_language" title="Interpreted language">interpreted language</a>" or "<a href="/wiki/Compiled_language" title="Compiled language">compiled language</a>" signify that the canonical implementation of that language is an interpreter or a compiler, respectively. A <a href="/wiki/High-level_programming_language" title="High-level programming language">high level language</a> is ideally an <a href="/wiki/Abstraction" title="Abstraction">abstraction</a> independent of particular implementations.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Compilers_versus_interpreters"><span class="tocnumber">2</span> <span class="toctext">Compilers versus interpreters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Development_cycle"><span class="tocnumber">2.1</span> <span class="toctext">Development cycle</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Distribution"><span class="tocnumber">2.2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Efficiency"><span class="tocnumber">2.3</span> <span class="toctext">Efficiency</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Regression"><span class="tocnumber">2.4</span> <span class="toctext">Regression</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Variations"><span class="tocnumber">3</span> <span class="toctext">Variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Bytecode_interpreters"><span class="tocnumber">3.1</span> <span class="toctext">Bytecode interpreters</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Threaded_code_interpreters"><span class="tocnumber">3.2</span> <span class="toctext">Threaded code interpreters</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Abstract_syntax_tree_interpreters"><span class="tocnumber">3.3</span> <span class="toctext">Abstract syntax tree interpreters</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Just-in-time_compilation"><span class="tocnumber">3.4</span> <span class="toctext">Just-in-time compilation</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Self-interpreter"><span class="tocnumber">3.5</span> <span class="toctext">Self-interpreter</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Microcode"><span class="tocnumber">3.6</span> <span class="toctext">Microcode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first interpreted high-level language was <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>. Lisp was first implemented in 1958 by <a href="/wiki/Steve_Russell_(computer_scientist)" title="Steve Russell (computer scientist)">Steve Russell</a> on an <a href="/wiki/IBM_704" title="IBM 704">IBM 704</a> computer. Russell had read <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a>'s paper, and realized (to McCarthy's surprise) that the Lisp <i>eval</i> function could be implemented in machine code.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The result was a working Lisp interpreter which could be used to run Lisp programs, or more properly, "evaluate Lisp expressions".</p>
+<h2><span class="mw-headline" id="Compilers_versus_interpreters">Compilers versus interpreters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=2" title="Edit section: Compilers versus interpreters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Linker.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Linker.svg/220px-Linker.svg.png" width="220" height="269" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Linker.svg/330px-Linker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Linker.svg/440px-Linker.svg.png 2x" data-file-width="344" data-file-height="420" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Linker.svg" class="internal" title="Enlarge"></a></div>
+An illustration of the linking process. Object files and static libraries are assembled into a new library or executable</div>
+</div>
+</div>
+<p>Programs written in a <a href="/wiki/High_level_language" class="mw-redirect" title="High level language">high level language</a> are either directly executed by some kind of interpreter or converted into <a href="/wiki/Machine_code" title="Machine code">machine code</a> by a compiler (and <a href="/wiki/Assembler_(computing)" class="mw-redirect" title="Assembler (computing)">assembler</a> and <a href="/wiki/Linker_(computing)" title="Linker (computing)">linker</a>) for the <a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a> to execute.</p>
+<p>While compilers (and assemblers) generally produce machine code directly executable by computer hardware, they can often (optionally) produce an intermediate form called <a href="/wiki/Object_code" title="Object code">object code</a>. This is basically the same machine specific code but augmented with a symbol table with names and tags to make executable blocks (or modules) identifiable and relocatable. Compiled programs will typically use building blocks (functions) kept in a library of such object code modules. A <a href="/wiki/Linker_(computing)" title="Linker (computing)">linker</a> is used to combine (pre-made) library files with the object file(s) of the application to form a single executable file. The object files that are used to generate an executable file are thus often produced at different times, and sometimes even by different languages (capable of generating the same object format).</p>
+<p>A simple interpreter written in a low level language (e.g. <a href="/wiki/Assembly_language" title="Assembly language">assembly</a>) may have similar machine code blocks implementing functions of the high level language stored, and executed when a function's entry in a look up table points to that code. However, an interpreter written in a high level language typically uses another approach, such as generating and then walking a <a href="/wiki/Parse_tree" title="Parse tree">parse tree</a>, or by generating and executing intermediate software-defined instructions, or both.</p>
+<p>Thus, both compilers and interpreters generally turn source code (text files) into tokens, both may (or may not) generate a parse tree, and both may generate immediate instructions (for a <a href="/wiki/Stack_machine" title="Stack machine">stack machine</a>, <a href="/w/index.php?title=Quadruple_code&amp;action=edit&amp;redlink=1" class="new" title="Quadruple code (page does not exist)">quadruple code</a>, or by other means). The basic difference is that a compiler system, including a (built in or separate) linker, generates a stand-alone <i>machine code</i> program, while an interpreter system instead <i>performs</i> the actions described by the high level program.</p>
+<p>A compiler can thus make almost all the conversions from source code semantics to the machine level once and for all (i.e. until the program has to be changed) while an interpreter has to do <i>some</i> of this conversion work every time a statement or function is executed. However, in an efficient interpreter, much of the translation work (including analysis of types, and similar) is factored out and done only the first time a program, module, function, or even statement, is run, thus quite akin to how a compiler works. However, a compiled program still runs much faster, under most circumstances, in part because compilers are designed to optimize code, and may be given ample time for this. This is especially true for simpler high level languages without (many) dynamic data structures, checks, or type-checks.</p>
+<p>In traditional compilation, the executable output of the linkers (.exe files or .dll files or a library, see picture) is typically relocatable when run under a general operating system, much like the object code modules are but with the difference that this relocation is done dynamically at run time, i.e. when the program is loaded for execution. On the other hand, compiled and linked programs for small <a href="/wiki/Embedded_systems" class="mw-redirect" title="Embedded systems">embedded systems</a> are typically statically allocated, often hard coded in a <a href="/wiki/NOR_flash" class="mw-redirect" title="NOR flash">NOR flash</a> memory, as there is often no secondary storage and no operating system in this sense.</p>
+<p>Historically, most interpreter-systems have had a self-contained editor built in. This is becoming more common also for compilers (then often called an <a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a>), although some programmers prefer to use an editor of their choice and run the compiler, linker and other tools manually. Historically, compilers predate interpreters because hardware at that time could not support both the interpreter and interpreted code and the typical batch environment of the time limited the advantages of interpretation.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Development_cycle">Development cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=3" title="Edit section: Development cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Software_development_cycle" class="mw-redirect" title="Software development cycle">software development cycle</a>, programmers make frequent changes to source code. When using a compiler, each time a change is made to the source code, they must wait for the compiler to translate the altered source files and <a href="/wiki/Linker_(computing)" title="Linker (computing)">link</a> all of the binary code files together before the program can be executed. The larger the program, the longer the wait. By contrast, a programmer using an interpreter does a lot less waiting, as the interpreter usually just needs to translate the code being worked on to an intermediate representation (or not translate it at all), thus requiring much less time before the changes can be tested. Effects are evident upon saving the source code and reloading the program. Compiled code is generally less readily debugged as editing, compiling, and linking are sequential processes that have to be conducted in the proper sequence with a proper set of commands. For this reason, many compilers also have an executive aid, known as a <a href="/wiki/Make_(software)" title="Make (software)">Make</a> file and program. The Make file lists compiler and linker command lines and program source code files, but might take a simple command line menu input (e.g. "Make 3") which selects the third group (set) of instructions then issues the commands to the compiler, and linker feeding the specified source code files.</p>
+<h3><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=4" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Compiler" title="Compiler">compiler</a> converts source code into binary instruction for a specific processor's architecture, thus making it less portable. This conversion is made just once, on the developer's environment, and after that the same binary can be distributed to the user's machines where it can be executed without further translation. A <a href="/wiki/Cross_compiler" title="Cross compiler">cross compiler</a> can generate binary code for the user machine even if it has a different processor than the machine where the code is compiled.</p>
+<p>An interpreted program can be distributed as source code. It needs to be translated in each final machine, which takes more time but makes the program distribution independent of the machine's architecture. However, the portability of interpreted source code is dependent on the target machine actually having a suitable interpreter. If the interpreter needs to be supplied along with the source, the overall installation process is more complex than delivery of a monolithic executable since the interpreter itself is part of what need be installed.</p>
+<p>The fact that interpreted code can easily be read and copied by humans can be of concern from the point of view of <a href="/wiki/Copyright" title="Copyright">copyright</a>. However, various systems of <a href="/wiki/Encryption" title="Encryption">encryption</a> and <a href="/wiki/Obfuscation" title="Obfuscation">obfuscation</a> exist. Delivery of intermediate code, such as bytecode, has a similar effect to obfuscation, but bytecode could be decoded with a <a href="/wiki/Decompiler" title="Decompiler">decompiler</a> or <a href="/wiki/Disassembler" title="Disassembler">disassembler</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Efficiency">Efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=5" title="Edit section: Efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main disadvantage of interpreters is that an interpreted program typically runs slower than if it had been <a href="/wiki/Compiler" title="Compiler">compiled</a>. The difference in speeds could be tiny or great; often an order of magnitude and sometimes more. It generally takes longer to run a program under an interpreter than to run the compiled code but it can take less time to interpret it than the total time required to compile and run it. This is especially important when prototyping and testing code when an edit-interpret-debug cycle can often be much shorter than an edit-compile-run-debug cycle.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></p>
+<p>Interpreting code is slower than running the compiled code because the interpreter must analyze each <a href="/wiki/Statement_(computer_science)" title="Statement (computer science)">statement</a> in the program each time it is executed and then perform the desired action, whereas the compiled code just performs the action within a fixed context determined by the compilation. This <a href="/wiki/Run_time_(program_lifecycle_phase)" title="Run time (program lifecycle phase)">run-time</a> analysis is known as "interpretive overhead". Access to variables is also slower in an interpreter because the mapping of identifiers to storage locations must be done repeatedly at run-time rather than at <a href="/wiki/Compile_time" title="Compile time">compile time</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></p>
+<p>There are various compromises between the <a href="/wiki/Development_speed" title="Development speed">development speed</a> when using an interpreter and the execution speed when using a compiler. Some systems (such as some <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisps</a>) allow interpreted and compiled code to call each other and to share variables. This means that once a routine has been tested and debugged under the interpreter it can be compiled and thus benefit from faster execution while other routines are being developed.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup> Many interpreters do not execute the source code as it stands but convert it into some more compact internal form. Many <a href="/wiki/BASIC" title="BASIC">BASIC</a> interpreters replace <a href="/wiki/Keyword_(computer_programming)" class="mw-redirect" title="Keyword (computer programming)">keywords</a> with single <a href="/wiki/Byte" title="Byte">byte</a> <a href="/wiki/Threaded_code#Token_threading" title="Threaded code">tokens</a> which can be used to find the instruction in a <a href="/wiki/Jump_table" class="mw-redirect" title="Jump table">jump table</a>. A few interpreters, such as the <a href="/wiki/PBASIC" title="PBASIC">PBASIC</a> interpreter, achieve even higher levels of program compaction by using a bit-oriented rather than a byte-oriented program memory structure, where commands tokens occupy perhaps 5 bits, nominally "16-bit" constants are stored in a <a href="/wiki/Variable-length_code" title="Variable-length code">variable-length code</a> requiring 3, 6, 10, or 18 bits, and address operands include a "bit offset". Many BASIC interpreters can store and read back their own tokenized internal representation.</p>
+<table class="wikitable collapsible collapsed" align="right" style="text-align:left">
+<tr>
+<th>Toy <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> expression interpreter</th>
+</tr>
+<tr>
+<td>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1">// data types for abstract syntax tree</span>
+<span class="k">enum</span> <span class="n">_kind</span> <span class="p">{</span> <span class="n">kVar</span><span class="p">,</span> <span class="n">kConst</span><span class="p">,</span> <span class="n">kSum</span><span class="p">,</span> <span class="n">kDiff</span><span class="p">,</span> <span class="n">kMult</span><span class="p">,</span> <span class="n">kDiv</span><span class="p">,</span> <span class="n">kPlus</span><span class="p">,</span> <span class="n">kMinus</span><span class="p">,</span> <span class="n">kNot</span> <span class="p">};</span>
+<span class="k">struct</span> <span class="n">_variable</span> <span class="p">{</span> <span class="kt">int</span> <span class="o">*</span><span class="n">memory</span><span class="p">;</span> <span class="p">};</span>
+<span class="k">struct</span> <span class="n">_constant</span> <span class="p">{</span> <span class="kt">int</span> <span class="n">value</span><span class="p">;</span> <span class="p">};</span>
+<span class="k">struct</span> <span class="n">_unaryOperation</span> <span class="p">{</span> <span class="k">struct</span> <span class="n">_node</span> <span class="o">*</span><span class="n">right</span><span class="p">;</span> <span class="p">};</span>
+<span class="k">struct</span> <span class="n">_binaryOperation</span> <span class="p">{</span> <span class="k">struct</span> <span class="n">_node</span> <span class="o">*</span><span class="n">left</span><span class="p">,</span> <span class="o">*</span><span class="n">right</span><span class="p">;</span> <span class="p">};</span>
+<span class="k">struct</span> <span class="n">_node</span> <span class="p">{</span>
+  <span class="k">enum</span> <span class="n">_kind</span> <span class="n">kind</span><span class="p">;</span>
+  <span class="k">union</span> <span class="n">_expression</span> <span class="p">{</span>
+    <span class="k">struct</span> <span class="n">_variable</span> <span class="n">variable</span><span class="p">;</span>
+    <span class="k">struct</span> <span class="n">_constant</span> <span class="n">constant</span><span class="p">;</span>
+    <span class="k">struct</span> <span class="n">_binaryOperation</span> <span class="n">binary</span><span class="p">;</span>
+    <span class="k">struct</span> <span class="n">_unaryOperation</span> <span class="n">unary</span><span class="p">;</span>
+  <span class="p">}</span> <span class="n">e</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="c1">// interpreter procedure</span>
+<span class="kt">int</span> <span class="nf">executeIntExpression</span><span class="p">(</span><span class="k">const</span> <span class="k">struct</span> <span class="n">_node</span> <span class="o">*</span><span class="n">n</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kt">int</span> <span class="n">leftValue</span><span class="p">,</span> <span class="n">rightValue</span><span class="p">;</span>
+  <span class="k">switch</span> <span class="p">(</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">kind</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">case</span> <span class="nl">kVar</span><span class="p">:</span> <span class="k">return</span> <span class="o">*</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">e</span><span class="p">.</span><span class="n">variable</span><span class="p">.</span><span class="n">memory</span><span class="p">;</span>
+    <span class="k">case</span> <span class="nl">kConst</span><span class="p">:</span> <span class="k">return</span> <span class="n">n</span><span class="o">-&gt;</span><span class="n">e</span><span class="p">.</span><span class="n">constant</span><span class="p">.</span><span class="n">value</span><span class="p">;</span>
+    <span class="k">case</span> <span class="nl">kSum</span><span class="p">:</span> <span class="k">case</span> <span class="nl">kDiff</span><span class="p">:</span> <span class="k">case</span> <span class="nl">kMult</span><span class="p">:</span> <span class="k">case</span> <span class="nl">kDiv</span><span class="p">:</span>
+      <span class="n">leftValue</span> <span class="o">=</span> <span class="n">executeIntExpression</span><span class="p">(</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">e</span><span class="p">.</span><span class="n">binary</span><span class="p">.</span><span class="n">left</span><span class="p">);</span>
+      <span class="n">rightValue</span> <span class="o">=</span> <span class="n">executeIntExpression</span><span class="p">(</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">e</span><span class="p">.</span><span class="n">binary</span><span class="p">.</span><span class="n">right</span><span class="p">);</span>
+      <span class="k">switch</span> <span class="p">(</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">kind</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">case</span> <span class="nl">kSum</span><span class="p">:</span> <span class="k">return</span> <span class="n">leftValue</span> <span class="o">+</span> <span class="n">rightValue</span><span class="p">;</span>
+        <span class="k">case</span> <span class="nl">kDiff</span><span class="p">:</span> <span class="k">return</span> <span class="n">leftValue</span> <span class="o">-</span> <span class="n">rightValue</span><span class="p">;</span>
+        <span class="k">case</span> <span class="nl">kMult</span><span class="p">:</span> <span class="k">return</span> <span class="n">leftValue</span> <span class="o">*</span> <span class="n">rightValue</span><span class="p">;</span>
+        <span class="k">case</span> <span class="nl">kDiv</span><span class="p">:</span> <span class="k">if</span> <span class="p">(</span><span class="n">rightValue</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span>
+                     <span class="n">exception</span><span class="p">(</span><span class="s">"division by zero"</span><span class="p">);</span> <span class="c1">// doesn't return</span>
+                   <span class="k">return</span> <span class="n">leftValue</span> <span class="o">/</span> <span class="n">rightValue</span><span class="p">;</span>
+      <span class="p">}</span>
+    <span class="k">case</span> <span class="nl">kPlus</span><span class="p">:</span> <span class="k">case</span> <span class="nl">kMinus</span><span class="p">:</span> <span class="k">case</span> <span class="nl">kNot</span><span class="p">:</span>
+      <span class="n">rightValue</span> <span class="o">=</span> <span class="n">executeIntExpression</span><span class="p">(</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">e</span><span class="p">.</span><span class="n">unary</span><span class="p">.</span><span class="n">right</span><span class="p">);</span>
+      <span class="k">switch</span> <span class="p">(</span><span class="n">n</span><span class="o">-&gt;</span><span class="n">kind</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">case</span> <span class="nl">kPlus</span><span class="p">:</span> <span class="k">return</span> <span class="o">+</span> <span class="n">rightValue</span><span class="p">;</span>
+        <span class="k">case</span> <span class="nl">kMinus</span><span class="p">:</span> <span class="k">return</span> <span class="o">-</span> <span class="n">rightValue</span><span class="p">;</span>
+        <span class="k">case</span> <span class="nl">kNot</span><span class="p">:</span> <span class="k">return</span> <span class="o">!</span> <span class="n">rightValue</span><span class="p">;</span>
+      <span class="p">}</span>
+    <span class="k">default</span><span class="o">:</span> <span class="n">exception</span><span class="p">(</span><span class="s">"internal error: illegal expression kind"</span><span class="p">);</span>        
+  <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</td>
+</tr>
+</table>
+<p>An interpreter might well use the same <a href="/wiki/Lexical_analysis" title="Lexical analysis">lexical analyzer</a> and <a href="/wiki/Parser" class="mw-redirect" title="Parser">parser</a> as the compiler and then interpret the resulting <a href="/wiki/Abstract_syntax_tree" title="Abstract syntax tree">abstract syntax tree</a>. Example data type definitions for the latter, and a toy interpreter for syntax trees obtained from C expressions are shown in the box.</p>
+<h3><span class="mw-headline" id="Regression">Regression</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=6" title="Edit section: Regression">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Interpretation cannot be used as the sole method of execution: even though an interpreter can itself be interpreted and so on, a directly executed program is needed somewhere at the bottom of the stack because the code being interpreted is not, by definition, the same as the machine code that the CPU can execute.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Variations">Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=7" title="Edit section: Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Bytecode_interpreters"><span id="Compreter"></span>Bytecode interpreters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=8" title="Edit section: Bytecode interpreters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Bytecode" title="Bytecode">Bytecode</a></div>
+<p>There is a spectrum of possibilities between interpreting and compiling, depending on the amount of analysis performed before the program is executed. For example, <a href="/wiki/Emacs_Lisp" title="Emacs Lisp">Emacs Lisp</a> is compiled to <a href="/wiki/Bytecode" title="Bytecode">bytecode</a>, which is a highly compressed and optimized representation of the Lisp source, but is not machine code (and therefore not tied to any particular hardware). This "compiled" code is then interpreted by a bytecode interpreter (itself written in <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>). The compiled code in this case is machine code for a <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a>, which is implemented not in hardware, but in the bytecode interpreter. Such compiling interpreters are sometimes also called <i>compreters</i>.<sup id="cite_ref-Kühnel_1987_Kleincomputer_7-0" class="reference"><a href="#cite_note-Kühnel_1987_Kleincomputer-7">[7]</a></sup><sup id="cite_ref-Heyne_1984_Compreter_8-0" class="reference"><a href="#cite_note-Heyne_1984_Compreter-8">[8]</a></sup> In a bytecode interpreter each instruction starts with a byte, and therefore bytecode interpreters have up to 256 instructions, although not all may be used. Some bytecodes may take multiple bytes, and may be arbitrarily complicated.</p>
+<p><a href="/wiki/Control_table" title="Control table">Control tables</a> - that do not necessarily ever need to pass through a compiling phase - dictate appropriate algorithmic <a href="/wiki/Control_flow" title="Control flow">control flow</a> via customized interpreters in similar fashion to bytecode interpreters.</p>
+<h3><span class="mw-headline" id="Threaded_code_interpreters">Threaded code interpreters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=9" title="Edit section: Threaded code interpreters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Threaded_code" title="Threaded code">Threaded code</a></div>
+<p>Threaded code interpreters are similar to bytecode interpreters but instead of bytes they use pointers. Each "instruction" is a word that points to a function or an instruction sequence, possibly followed by a parameter. The threaded code interpreter either loops fetching instructions and calling the functions they point to, or fetches the first instruction and jumps to it, and every instruction sequence ends with a fetch and jump to the next instruction. Unlike bytecode there is no effective limit on the number of different instructions other than available memory and address space. The classic example of threaded code is the <a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a> code used in <a href="/wiki/Open_Firmware" title="Open Firmware">Open Firmware</a> systems: the source language is compiled into "F code" (a bytecode), which is then interpreted by a <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Abstract_syntax_tree_interpreters">Abstract syntax tree interpreters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=10" title="Edit section: Abstract syntax tree interpreters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Abstract_syntax_tree" title="Abstract syntax tree">Abstract syntax tree</a></div>
+<p>In the spectrum between interpreting and compiling, another approach is to transform the source code into an optimized abstract syntax tree (AST), then execute the program following this tree structure, or use it to generate native code <a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">just-in-time</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In this approach, each sentence needs to be parsed just once. As an advantage over bytecode, the AST keeps the global program structure and relations between statements (which is lost in a bytecode representation), and when compressed provides a more compact representation.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Thus, using AST has been proposed as a better intermediate format for just-in-time compilers than bytecode. Also, it allows the system to perform better analysis during runtime.</p>
+<p>However, for interpreters, an AST causes more overhead than a bytecode interpreter, because of nodes related to syntax performing no useful work, of a less sequential representation (requiring traversal of more pointers) and of overhead visiting the tree.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Just-in-time_compilation">Just-in-time compilation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=11" title="Edit section: Just-in-time compilation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">Just-in-time compilation</a></div>
+<p>Further blurring the distinction between interpreters, bytecode interpreters and compilation is just-in-time compilation (JIT), a technique in which the intermediate representation is compiled to native <a href="/wiki/Machine_code" title="Machine code">machine code</a> at runtime. This confers the efficiency of running native code, at the cost of startup time and increased memory use when the bytecode or AST is first compiled. <a href="/wiki/Adaptive_optimization" title="Adaptive optimization">Adaptive optimization</a> is a complementary technique in which the interpreter profiles the running program and compiles its most frequently executed parts into native code. Both techniques are a few decades old, appearing in languages such as <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> in the 1980s.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Just-in-time compilation has gained mainstream attention amongst language implementers in recent years, with <a href="/wiki/Java_platform" class="mw-redirect" title="Java platform">Java</a>, the <a href="/wiki/.NET_Framework" title=".NET Framework">.NET Framework</a>, most modern <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> implementations, and <a href="/wiki/Matlab" class="mw-redirect" title="Matlab">Matlab</a> now including JITs.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Self-interpreter">Self-interpreter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=12" title="Edit section: Self-interpreter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Meta-circular_evaluator" title="Meta-circular evaluator">Meta-circular evaluator</a></div>
+<p>A self-interpreter is a <a href="/wiki/Programming_language" title="Programming language">programming language</a> interpreter written in a programming language which can interpret itself; an example is a <a href="/wiki/BASIC_programming_language" class="mw-redirect" title="BASIC programming language">BASIC</a> interpreter written in BASIC. Self-interpreters are related to <a href="/wiki/Self-hosting_compiler" class="mw-redirect" title="Self-hosting compiler">self-hosting compilers</a>.</p>
+<p>If no <a href="/wiki/Compiler" title="Compiler">compiler</a> exists for the language to be interpreted, creating a self-interpreter requires the implementation of the language in a host language (which may be another programming language or <a href="/wiki/Assembler_(computing)" class="mw-redirect" title="Assembler (computing)">assembler</a>). By having a first interpreter such as this, the system is <a href="/wiki/Bootstrapping_(compilers)" title="Bootstrapping (compilers)">bootstrapped</a> and new versions of the interpreter can be developed in the language itself. It was in this way that <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> developed the TANGLE interpreter for the language <a href="/wiki/WEB" title="WEB">WEB</a> of the industrial standard <a href="/wiki/TeX" title="TeX">TeX</a> <a href="/wiki/Typesetting" title="Typesetting">typesetting system</a>.</p>
+<p>Defining a computer language is usually done in relation to an abstract machine (so-called <a href="/wiki/Operational_semantics" title="Operational semantics">operational semantics</a>) or as a mathematical function (<a href="/wiki/Denotational_semantics" title="Denotational semantics">denotational semantics</a>). A language may also be defined by an interpreter in which the semantics of the host language is given. The definition of a language by a self-interpreter is not well-founded (it cannot define a language), but a self-interpreter tells a reader about the expressiveness and elegance of a language. It also enables the interpreter to interpret its source code, the first step towards reflective interpreting.</p>
+<p>An important design dimension in the implementation of a self-interpreter is whether a feature of the interpreted language is implemented with the same feature in the interpreter's host language. An example is whether a <a href="/wiki/Closure_(computer_science)" class="mw-redirect" title="Closure (computer science)">closure</a> in a <a href="/wiki/Lisp_programming_language" class="mw-redirect" title="Lisp programming language">Lisp</a>-like language is implemented using closures in the interpreter language or implemented "manually" with a data structure explicitly storing the environment. The more features implemented by the same feature in the host language, the less control the programmer of the interpreter has; a different behavior for dealing with number overflows cannot be realized if the arithmetic operations are delegated to corresponding operations in the host language.</p>
+<p>Some languages have an elegant self-interpreter, such as <a href="/wiki/Lisp_programming_language" class="mw-redirect" title="Lisp programming language">Lisp</a> or <a href="/wiki/Prolog" title="Prolog">Prolog</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2014)">citation needed</span></a></i>]</sup> Much research on self-interpreters (particularly reflective interpreters) has been conducted in the <a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme programming language</a>, a dialect of Lisp. In general, however, any <a href="/wiki/Turing_completeness" title="Turing completeness">Turing-complete</a> language allows writing of its own interpreter. Lisp is such a language, because Lisp programs are lists of symbols and other lists. XSLT is such a language, because XSLT programs are written in XML. A sub-domain of meta-programming is the writing of <a href="/wiki/Domain-specific_language" title="Domain-specific language">domain-specific languages</a> (DSLs).</p>
+<p>Clive Gifford introduced<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2016)">citation needed</span></a></i>]</sup> a measure quality of self-interpreter (the eigenratio), the limit of the ratio between computer time spent running a stack of <i>N</i> self-interpreters and time spent to run a stack of <span class="nowrap"><i>N</i> − 1</span> self-interpreters as <i>N</i> goes to infinity. This value does not depend on the program being run.</p>
+<p>The book <i><a href="/wiki/Structure_and_Interpretation_of_Computer_Programs" title="Structure and Interpretation of Computer Programs">Structure and Interpretation of Computer Programs</a></i> presents examples of <a href="/wiki/Meta-circular_evaluator" title="Meta-circular evaluator">meta-circular interpretation</a> for Scheme and its dialects. Other examples of languages with a self-interpreter are <a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a> and <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a>.</p>
+<h3><span class="mw-headline" id="Microcode">Microcode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=13" title="Edit section: Microcode">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Microcode" title="Microcode">Microcode</a></div>
+<p>Microcode is a very commonly used technique "that imposes an interpreter between the hardware and the architectural level of a computer".<sup id="cite_ref-Kent2813_13-0" class="reference"><a href="#cite_note-Kent2813-13">[13]</a></sup> As such, the microcode is a layer of hardware-level instructions that implement higher-level <a href="/wiki/Machine_code" title="Machine code">machine code</a> instructions or internal <a href="/wiki/State_machine" class="mw-redirect" title="State machine">state machine</a> sequencing in many <a href="/wiki/Digital_processing" class="mw-redirect" title="Digital processing">digital processing</a> elements. Microcode is used in general-purpose <a href="/wiki/Central_processing_unit" title="Central processing unit">central processing units</a>, as well as in more specialized processors such as <a href="/wiki/Microcontroller" title="Microcontroller">microcontrollers</a>, <a href="/wiki/Digital_signal_processor" title="Digital signal processor">digital signal processors</a>, <a href="/wiki/Channel_I/O" title="Channel I/O">channel controllers</a>, <a href="/wiki/Disk_controller" title="Disk controller">disk controllers</a>, <a href="/wiki/Network_interface_controller" title="Network interface controller">network interface controllers</a>, <a href="/wiki/Network_processor" title="Network processor">network processors</a>, <a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">graphics processing units</a>, and in other hardware.</p>
+<p>Microcode typically resides in special high-speed memory and translates machine instructions, <a href="/wiki/State_machine" class="mw-redirect" title="State machine">state machine</a> data or other input into sequences of detailed circuit-level operations. It separates the machine instructions from the underlying <a href="/wiki/Electronics" title="Electronics">electronics</a> so that instructions can be designed and altered more freely. It also facilitates the building of complex multi-step instructions, while reducing the complexity of computer circuits. Writing microcode is often called <b>microprogramming</b> and the microcode in a particular processor implementation is sometimes called a <b>microprogram</b>.</p>
+<p>More extensive microcoding allows small and simple <a href="/wiki/Microarchitecture" title="Microarchitecture">microarchitectures</a> to <a href="/wiki/Emulator" title="Emulator">emulate</a> more powerful architectures with wider <a href="/wiki/Word_length" class="mw-redirect" title="Word length">word length</a>, more <a href="/wiki/Execution_unit" title="Execution unit">execution units</a> and so on, which is a relatively simple way to achieve software compatibility between different products in a processor family.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=14" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Interpreters are frequently used to execute <a href="/wiki/Command_language" title="Command language">command languages</a>, and <a href="/wiki/Glue_language" class="mw-redirect" title="Glue language">glue languages</a> since each operator executed in command language is usually an invocation of a complex routine such as an editor or compiler.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/Self-modifying_code" title="Self-modifying code">Self-modifying code</a> can easily be implemented in an interpreted language. This relates to the origins of interpretation in Lisp and <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> research.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/Virtualization" title="Virtualization">Virtualization</a>. Machine code intended for a hardware architecture can be run using a <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a>. This is often used when the intended architecture is unavailable, or among other uses, for running multiple copies.</li>
+<li><a href="/wiki/Sandbox_(computer_security)" title="Sandbox (computer security)">Sandboxing</a>: While some types of sandboxes rely on operating system protections, an interpreter or virtual machine is often used. The actual hardware architecture and the originally intended hardware architecture may or may not be the same. This may seem pointless, except that sandboxes are not compelled to actually execute all the instructions the source code it is processing. In particular, it can refuse to execute code that violates any <a href="/wiki/Computer_security" title="Computer security">security</a> constraints it is operating under.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/Emulator" title="Emulator">Emulators</a> for running computer software written for obsolete and unavailable hardware on more modern equipment</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Command-line_interpreter" class="mw-redirect" title="Command-line interpreter">Command-line interpreter</a></li>
+<li><a href="/wiki/Compiled_language" title="Compiled language">Compiled language</a></li>
+<li><a href="/wiki/Dynamic_compilation" title="Dynamic compilation">Dynamic compilation</a></li>
+<li><a href="/wiki/Interpreted_language" title="Interpreted language">Interpreted language</a></li>
+<li><a href="/wiki/Meta-circular_evaluator" title="Meta-circular evaluator">Meta-circular evaluator</a></li>
+<li><a href="/wiki/Partial_evaluation" title="Partial evaluation">Partial evaluation</a></li>
+<li><a href="/wiki/Self-interpreter" class="mw-redirect" title="Self-interpreter">Self-interpreter</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=16" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>In this sense, the <a href="/wiki/Central_processing_unit" title="Central processing unit">CPU</a> is also an interpreter, of machine instructions.</i></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Although this scheme (combining strategy 2 and 3) was used to implement certain BASIC interpreters already in the 1970s, such as the efficient BASIC interpreter of the <a href="/wiki/ABC_80" title="ABC 80">ABC 80</a>, for instance.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">According to what reported by <a href="/wiki/Paul_Graham_(computer_programmer)" title="Paul Graham (computer programmer)">Paul Graham</a> in <i><a href="/wiki/Hackers_%26_Painters" title="Hackers &amp; Painters">Hackers &amp; Painters</a></i>, p. 185, McCarthy said: "Steve Russell said, look, why don't I program this <i>eval</i>..., and I said to him, ho, ho, you're confusing theory with practice, this <i>eval</i> is intended for reading, not for computing. But he went ahead and did it. That is, he compiled the <i>eval</i> in my paper into <a href="/wiki/IBM_704" title="IBM 704">IBM 704</a> machine code, fixing <a href="/wiki/Software_bug" title="Software bug">bug</a>, and then advertised this as a Lisp interpreter, which it certainly was. So at that point Lisp had essentially the form that it has today..."</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://arstechnica.com/information-technology/2014/11/why-was-the-first-compiler-written-before-the-first-interpreter/">"Why was the first compiler written before the first interpreter?"</a>. <i><a href="/wiki/Ars_Technica" title="Ars Technica">Ars Technica</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ars+Technica&amp;rft.atitle=Why+was+the+first+compiler+written+before+the+first+interpreter%3F&amp;rft_id=https%3A%2F%2Farstechnica.com%2Finformation-technology%2F2014%2F11%2Fwhy-was-the-first-compiler-written-before-the-first-interpreter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterpreter+%28computing%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Theodore H. Romer, Dennis Lee, Geoffrey M. Voelker, Alec Wolman, Wayne A. Wong, Jean-Loup Baer, Brian N. Bershad, and Henry M. Levy, <a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.2582&amp;rep=rep1&amp;type=pdf">The Structure and Performance of Interpreters</a>]</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Terence Parr, Johannes Luber, <a rel="nofollow" class="external text" href="http://www.antlr.org/wiki/display/ANTLR3/The+difference+between+compilers+and+interpreters">The Difference Between Compilers and Interpreters</a></span></li>
+<li id="cite_note-Kühnel_1987_Kleincomputer-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kühnel_1987_Kleincomputer_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kühnel, Claus (1987) [1986]. "4. Kleincomputer - Eigenschaften und Möglichkeiten" [4. Microcomputer - Properties and possibilities]. In Erlekampf, Rainer; Mönk, Hans-Joachim. <i>Mikroelektronik in der Amateurpraxis</i> [<i>Micro-electronics for the practical amateur</i>] (in German) (3 ed.). Berlin: <a href="/w/index.php?title=Milit%C3%A4rverlag_der_Deutschen_Demokratischen_Republik&amp;action=edit&amp;redlink=1" class="new" title="Militärverlag der Deutschen Demokratischen Republik (page does not exist)">Militärverlag der Deutschen Demokratischen Republik</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Milit%C3%A4rverlag_der_Deutschen_Demokratischen_Republik" class="extiw" title="de:Militärverlag der Deutschen Demokratischen Republik">de</a>)</span>, Leipzig. p.&#160;222. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-327-00357-2" title="Special:BookSources/3-327-00357-2">3-327-00357-2</a>. 7469332.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=4.+Kleincomputer+-+Eigenschaften+und+M%C3%B6glichkeiten&amp;rft.btitle=Mikroelektronik+in+der+Amateurpraxis&amp;rft.place=Berlin&amp;rft.pages=222&amp;rft.edition=3&amp;rft.pub=Milit%C3%A4rverlag+der+Deutschen+Demokratischen+Republik%3Cspan+class%3D%22noprint%22+style%3D%22font-size%3A85%25%3B+font-style%3A+normal%3B+%22%3E+%28deA%29%3C%2Fspan%3E%2C+Leipzig&amp;rft.date=1987&amp;rft.isbn=3-327-00357-2&amp;rft.aulast=K%C3%BChnel&amp;rft.aufirst=Claus&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterpreter+%28computing%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Heyne_1984_Compreter-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Heyne_1984_Compreter_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Heyne, R. (1984). "Basic-Compreter für U880" [BASIC compreter for U880 (Z80)]. <i><a href="/w/index.php?title=Radio-fernsehn-elektronik&amp;action=edit&amp;redlink=1" class="new" title="Radio-fernsehn-elektronik (page does not exist)">radio-fernsehn-elektronik</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Radio_Fernsehen_Elektronik" class="extiw" title="de:Radio Fernsehen Elektronik">de</a>)</span></i> (in German). <b>1984</b> (3): 150–152.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=radio-fernsehn-elektronik%3Cspan+class%3D%22noprint%22+style%3D%22font-size%3A85%25%3B+font-style%3A+normal%3B+%22%3E+%28deA%29%3C%2Fspan%3E&amp;rft.atitle=Basic-Compreter+f%C3%BCr+U880&amp;rft.volume=1984&amp;rft.issue=3&amp;rft.pages=150-152&amp;rft.date=1984&amp;rft.aulast=Heyne&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterpreter+%28computing%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lambda-the-ultimate.org/node/716">AST intermediate representations</a>, Lambda the Ultimate forum</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ics.uci.edu/~franz/Site/pubs-pdf/C05.pdf">A Tree-Based Alternative to Java Byte-Codes</a>, Thomas Kistler, Michael Franz</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://webkit.org/blog/189/announcing-squirrelfish/">Surfin' Safari - Blog Archive&#160;» Announcing SquirrelFish</a>. Webkit.org (2008-06-02). Retrieved on 2013-08-10.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">L. Deutsch, A. Schiffman, <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=800017.800542">Efficient implementation of the Smalltalk-80 system</a>, Proceedings of 11th POPL symposium, 1984.</span></li>
+<li id="cite_note-Kent2813-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kent2813_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kent, Allen; Williams, James G. (April 5, 1993). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=EjWV8J8CQEYC"><i>Encyclopedia of Computer Science and Technology: Volume 28 - Supplement 13</i></a>. New York: Marcel Dekker, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8247-2281-7" title="Special:BookSources/0-8247-2281-7">0-8247-2281-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">Jan 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Computer+Science+and+Technology%3A+Volume+28+-+Supplement+13&amp;rft.place=New+York&amp;rft.pub=Marcel+Dekker%2C+Inc&amp;rft.date=1993-04-05&amp;rft.isbn=0-8247-2281-7&amp;rft.aulast=Kent&amp;rft.aufirst=Allen&amp;rft.au=Williams%2C+James+G.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DEjWV8J8CQEYC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterpreter+%28computing%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.columbia.edu/acis/history/interpreter.html">IBM Card Interpreters</a> page at Columbia University</li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/download/TheoreticalFoundationsForPracticaltotallyFunctionalProgramming/33429551_PHD_totalthesis.pdf">Theoretical Foundations For Practical 'Totally Functional Programming'</a> (Chapter 7 especially) Doctoral dissertation tackling the problem of formalising what is an interpreter</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=_C5AHaS1mOA">Short animation</a> explaining the key conceptual difference between interpreters and compilers</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%;margin:0 4em">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85067496">sh85067496</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4162129-3">4162129-3</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11938287v">cb11938287v</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11938287v">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint">
+<p><span class="citation foldoc"><small>This article is based on material taken from the <a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">Free On-line Dictionary of Computing</a> prior to 1 November 2008 and incorporated under the "relicensing" terms of the <a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GFDL</a>, version 1.3 or later.</small></span></p>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20180211010334
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.328 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 2417/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73365/2097152 bytes
+Template argument size: 5738/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.157/10.000 seconds
+Lua memory usage: 4.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  323.967      1 -total
+ 38.38%  124.327     11 Template:Citation_needed
+ 34.03%  110.253     11 Template:Fix
+ 25.15%   81.466      1 Template:Reflist
+ 16.95%   54.897     22 Template:Category_handler
+ 14.99%   48.556     11 Template:Delink
+  9.99%   32.374      1 Template:Cite_web
+  9.40%   30.468      1 Template:Authority_control
+  8.31%   26.928      1 Template:Computer_science
+  8.07%   26.160      1 Template:Program_execution
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:59868-0!canonical and timestamp 20180211010334 and revision id 823759838
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Interpreter_(computing)&amp;oldid=823759838">https://en.wikipedia.org/w/index.php?title=Interpreter_(computing)&amp;oldid=823759838</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Interpreters_(computing)" title="Category:Interpreters (computing)">Interpreters (computing)</a></li><li><a href="/wiki/Category:Programming_language_implementation" title="Category:Programming language implementation">Programming language implementation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2014" title="Category:Articles with unsourced statements from April 2014">Articles with unsourced statements from April 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2016" title="Category:Articles with unsourced statements from February 2016">Articles with unsourced statements from February 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Interpreter+%28computing%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Interpreter+%28computing%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Interpreter_(computing)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Interpreter_(computing)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Interpreter_(computing)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Interpreter_(computing)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Interpreter_(computing)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Interpreter_(computing)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Interpreter_(computing)&amp;oldid=823759838" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Interpreter_(computing)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q183065" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Interpreter_%28computing%29&amp;id=823759838" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Interpreter+%28computing%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Interpreter+%28computing%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Interpreter_(computing)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%81%D8%B3%D8%B1_(%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" title="مفسر (برمجة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C4%B0nterpretator" title="İnterpretator – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A6%BE%E0%A6%B0" title="ইন্টারপ্রেটার – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Thong-e%CC%8Dk-kh%C3%AC" title="Thong-e̍k-khì – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80_(%D1%81%D0%BE%D1%84%D1%82%D1%83%D0%B5%D1%80)" title="Интерпретатор (софтуер) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Interpreter" title="Interpreter – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Int%C3%A8rpret_(inform%C3%A0tica)" title="Intèrpret (informàtica) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Interpret_(software)" title="Interpret (software) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Fortolker" title="Fortolker – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Interpreter" title="Interpreter – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Interpretaator" title="Interpretaator – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B5%CF%81%CE%BC%CE%B7%CE%BD%CE%AD%CE%B1%CF%82_(%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AD%CF%82)" title="Διερμηνέας (υπολογιστές) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)" title="Intérprete (informática) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Interpretatzaile" title="Interpretatzaile – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%81%D8%B3%D8%B1_(%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87)" title="مفسر (رایانه) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Interpr%C3%A8te_(informatique)" title="Interprète (informatique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/L%C3%A9irmh%C3%ADnitheoir" title="Léirmhínitheoir – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)" title="Intérprete (informática) – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0" title="인터프리터 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BB%D5%B6%D5%BF%D5%A5%D6%80%D5%BA%D6%80%D5%A5%D5%BF%D5%A1%D5%BF%D5%B8%D6%80" title="Ինտերպրետատոր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Interpreter" title="Interpreter – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Mangpatpatarus" title="Mangpatpatarus – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Penerjemah_(komputasi)" title="Penerjemah (komputasi) – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/T%C3%BAlkur_(t%C3%B6lvunarfr%C3%A6%C3%B0i)" title="Túlkur (tölvunarfræði) – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Interprete_(informatica)" title="Interprete (informatica) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A4%D7%A8%D7%A9_(%D7%AA%D7%95%D7%9B%D7%A0%D7%94)" title="מפרש (תוכנה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80" title="Интерпретатор – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80" title="Интерпретатор – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Interpretatorius" title="Interpretatorius – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%89rtelmez%C5%91" title="Értelmező – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pentafsir_(pengkomputan)" title="Pentafsir (pengkomputan) – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Anterpretador" title="Anterpretador – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Interpreter" title="Interpreter – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF" title="インタプリタ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kommandotolk_(programvare)" title="Kommandotolk (programvare) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%87%E0%A9%B0%E0%A8%9F%E0%A8%B0%E0%A8%AA%E0%A8%B0%E0%A9%88%E0%A8%9F%E0%A8%B0" title="ਇੰਟਰਪਰੈਟਰ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Interpreter_(program_komputerowy)" title="Interpreter (program komputerowy) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Interpretador" title="Interpretador – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Interpretor" title="Interpretor – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80" title="Интерпретатор – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Interpreter_(computin)" title="Interpreter (computin) – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Interpreter_(computing)" title="Interpreter (computing) – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Interpreter_(programovanie)" title="Interpreter (programovanie) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Interpreter" title="Interpreter – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80_(%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE)" title="Интерпретатор (рачунарство) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ohjelmointikielen_tulkki" title="Ohjelmointikielen tulkki – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Interpretator" title="Interpretator – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AE%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF_(%E0%AE%AE%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D)" title="மொழிமாற்றி (மென்பொருள்) – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="อินเทอร์พรีเตอร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yorumlay%C4%B1c%C4%B1" title="Yorumlayıcı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80" title="Інтерпретатор – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%86%D9%B9%D8%B1_%D9%BE%D8%B1%DB%8C%D9%B9%D8%B1" title="انٹر پریٹر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tr%C3%ACnh_th%C3%B4ng_d%E1%BB%8Bch" title="Trình thông dịch – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%9B%B4%E8%AD%AF%E5%99%A8" title="直譯器 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q183065#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 February 2018, at 06:29.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Interpreter_(computing)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.420","ppvisitednodes":{"value":2417,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73365,"limit":2097152},"templateargumentsize":{"value":5738,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  323.967      1 -total"," 38.38%  124.327     11 Template:Citation_needed"," 34.03%  110.253     11 Template:Fix"," 25.15%   81.466      1 Template:Reflist"," 16.95%   54.897     22 Template:Category_handler"," 14.99%   48.556     11 Template:Delink","  9.99%   32.374      1 Template:Cite_web","  9.40%   30.468      1 Template:Authority_control","  8.31%   26.928      1 Template:Computer_science","  8.07%   26.160      1 Template:Program_execution"]},"scribunto":{"limitreport-timeusage":{"value":"0.157","limit":"10.000"},"limitreport-memusage":{"value":4207881,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20180211010334","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":532,"wgHostname":"mw1332"});});</script>
+	</body>
+</html>

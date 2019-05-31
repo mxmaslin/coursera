@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Statistical ensemble (mathematical physics) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Statistical_ensemble_(mathematical_physics)","wgTitle":"Statistical ensemble (mathematical physics)","wgCurRevisionId":810677692,"wgRevisionId":810677692,"wgArticleId":59052,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Concepts in physics","Statistical ensembles","Philosophy of thermal and statistical physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Statistical_ensemble_(mathematical_physics)","wgRelevantArticleId":59052,"wgRequestId":"Wn-KXgpAADwAACHmKmQAAACS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Statistical_ensemble","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Statistical_ensemble_(mathematical_physics)","wgWikibaseItemId":"Q898535","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Statistical_ensemble_(mathematical_physics)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Statistical_ensemble_(mathematical_physics)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Statistical_ensemble_mathematical_physics rootpage-Statistical_ensemble_mathematical_physics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Statistical ensemble (mathematical physics)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Statistical_ensemble&amp;redirect=no" class="mw-redirect" title="Statistical ensemble">Statistical ensemble</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Statistical ensemble" redirects here. For other uses, see <a href="/wiki/Ensemble_(disambiguation)" class="mw-redirect mw-disambig" title="Ensemble (disambiguation)">Ensemble (disambiguation)</a>.</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical mechanics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Increasing_disorder.svg" class="image"><img alt="Increasing disorder.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Increasing_disorder.svg/220px-Increasing_disorder.svg.png" width="220" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Increasing_disorder.svg/330px-Increasing_disorder.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Increasing_disorder.svg/440px-Increasing_disorder.svg.png 2x" data-file-width="464" data-file-height="131" /></a></td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Kinetic_theory_of_gases" title="Kinetic theory of gases">Kinetic theory</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Particle_statistics" title="Particle statistics">Particle statistics</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Spin-statistics_theorem" class="mw-redirect" title="Spin-statistics theorem">Spin-statistics theorem</a></li>
+<li><a href="/wiki/Identical_particles" title="Identical particles">Identical particles</a></li>
+<li><a href="/wiki/Maxwell%E2%80%93Boltzmann_statistics" title="Maxwell–Boltzmann statistics">Maxwell–Boltzmann</a></li>
+<li><a href="/wiki/Bose%E2%80%93Einstein_statistics" title="Bose–Einstein statistics">Bose–Einstein</a></li>
+<li><a href="/wiki/Fermi%E2%80%93Dirac_statistics" title="Fermi–Dirac statistics">Fermi–Dirac</a></li>
+<li><a href="/wiki/Parastatistics" title="Parastatistics">Parastatistics</a></li>
+<li><a href="/wiki/Anyon" title="Anyon">Anyonic Statistics</a></li>
+<li><a href="/wiki/Braid_statistics" title="Braid statistics">Braid Statistics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a class="mw-selflink selflink">Thermodynamic ensembles</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><i>NVE</i> <a href="/wiki/Microcanonical_ensemble" title="Microcanonical ensemble">Microcanonical</a></li>
+<li><i>NVT</i> <a href="/wiki/Canonical_ensemble" title="Canonical ensemble">Canonical</a></li>
+<li><i>µVT</i> <a href="/wiki/Grand_canonical_ensemble" title="Grand canonical ensemble">Grand canonical</a></li>
+<li><i>NPH</i> <a href="/wiki/Isoenthalpic%E2%80%93isobaric_ensemble" title="Isoenthalpic–isobaric ensemble">Isoenthalpic–isobaric</a></li>
+<li><i>NPT</i> <a href="/wiki/Isothermal%E2%80%93isobaric_ensemble" title="Isothermal–isobaric ensemble">Isothermal–isobaric</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Models</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Debye_model" title="Debye model">Debye</a></li>
+<li><a href="/wiki/Einstein_solid" title="Einstein solid">Einstein</a></li>
+<li><a href="/wiki/Ising_model" title="Ising model">Ising</a></li>
+<li><a href="/wiki/Potts_model" title="Potts model">Potts</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a></li>
+<li><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a></li>
+<li><a href="/wiki/Grand_potential" title="Grand potential">Grand potential / Landau free energy</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Scientists</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Ludwig_Boltzmann" title="Ludwig Boltzmann">Boltzmann</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Einstein" class="mw-redirect" title="Einstein">Einstein</a></li>
+<li><a href="/wiki/Paul_Ehrenfest" title="Paul Ehrenfest">Ehrenfest</a></li>
+<li><a href="/wiki/John_von_Neumann" title="John von Neumann">von Neumann</a></li>
+<li><a href="/wiki/Richard_C._Tolman" title="Richard C. Tolman">Tolman</a></li>
+<li><a href="/wiki/Peter_Debye" title="Peter Debye">Debye</a></li>
+<li><a href="/wiki/Enrico_Fermi" title="Enrico Fermi">Fermi</a></li>
+<li><a href="/wiki/Satyendra_Nath_Bose" title="Satyendra Nath Bose">Bose</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Statistical_mechanics" title="Template:Statistical mechanics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Statistical_mechanics" title="Template talk:Statistical mechanics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Statistical_mechanics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Mathematical_physics" title="Mathematical physics">mathematical physics</a>, especially as introduced into <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">statistical mechanics</a> and <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> by <a href="/wiki/Willard_Gibbs" class="mw-redirect" title="Willard Gibbs">J. Willard Gibbs</a> in 1902, an <b>ensemble</b> (also <b>statistical ensemble</b>) is an idealization consisting of a large number of virtual copies (sometimes infinitely many) of a <a href="/wiki/System" title="System">system</a>, considered all at once, each of which represents a possible state that the real system might be in. In other words, a statistical ensemble is a probability distribution for the state of the system.<sup id="cite_ref-gibbs_1-0" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></p>
+<p>A <b>thermodynamic ensemble</b> is a specific variety of statistical ensemble that, among other properties, is in statistical equilibrium (defined below), and is used to derive the properties of <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">thermodynamic systems</a> from the laws of classical or quantum mechanics.<sup id="cite_ref-Kittel_2-0" class="reference"><a href="#cite_note-Kittel-2">[2]</a></sup><sup id="cite_ref-Landau_3-0" class="reference"><a href="#cite_note-Landau-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Physical_considerations"><span class="tocnumber">1</span> <span class="toctext">Physical considerations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Terminology"><span class="tocnumber">1.1</span> <span class="toctext">Terminology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Principal_ensembles_of_statistical_thermodynamics"><span class="tocnumber">2</span> <span class="toctext">Principal ensembles of statistical thermodynamics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Representations_of_statistical_ensembles_in_statistical_mechanics"><span class="tocnumber">3</span> <span class="toctext">Representations of statistical ensembles in statistical mechanics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Requirements_for_representations"><span class="tocnumber">3.1</span> <span class="toctext">Requirements for representations</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Quantum_mechanical"><span class="tocnumber">3.2</span> <span class="toctext">Quantum mechanical</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Classical_mechanical"><span class="tocnumber">3.3</span> <span class="toctext">Classical mechanical</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Correcting_overcounting_in_phase_space"><span class="tocnumber">3.3.1</span> <span class="toctext">Correcting overcounting in phase space</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Ensembles_in_statistics"><span class="tocnumber">4</span> <span class="toctext">Ensembles in statistics</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Operational_interpretation"><span class="tocnumber">5</span> <span class="toctext">Operational interpretation</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Physical_considerations">Physical considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=1" title="Edit section: Physical considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ensemble formalises the notion that an experimenter repeating an experiment again and again under the same macroscopic conditions, but unable to control the microscopic details, may expect to observe a range of different outcomes.</p>
+<p>The notional size of ensembles in thermodynamics, statistical mechanics and <a href="/wiki/Quantum_statistical_mechanics" title="Quantum statistical mechanics">quantum statistical mechanics</a> can be very large, including every possible <a href="/wiki/Microstate_(statistical_mechanics)" title="Microstate (statistical mechanics)">microscopic state</a> the system could be in, consistent with its observed <a href="/wiki/Macroscopic" class="mw-redirect" title="Macroscopic">macroscopic</a> properties. For many important physical cases, it is possible to calculate averages directly over the whole of the thermodynamic ensemble, to obtain explicit formulas for many of the thermodynamic quantities of interest, often in terms of the appropriate <a href="/wiki/Partition_function_(mathematics)" title="Partition function (mathematics)">partition function</a>.</p>
+<p>The concept of an equilibrium or stationary ensemble is crucial to many applications of statistical ensembles. Although a mechanical system certainly evolves over time, the ensemble does not necessarily have to evolve. In fact, the ensemble will not evolve if it contains all past and future phases of the system. Such a statistical ensemble, one that does not change over time, is called <i>stationary</i> and can said to be in <i>statistical equilibrium</i>.<sup id="cite_ref-gibbs_1-1" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=2" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The word "ensemble" is also used for a smaller set of possibilities <a href="/wiki/Sample_(statistics)" title="Sample (statistics)">sampled</a> from the full set of possible states. For example, a collection of <a href="/wiki/Random_walk" title="Random walk">walkers</a> in a <a href="/wiki/Markov_chain_Monte_Carlo" title="Markov chain Monte Carlo">Markov chain Monte Carlo</a> iteration is called an ensemble in some of the literature.</li>
+<li>The term "ensemble" is often used in physics and the physics-influenced literature. In <a href="/wiki/Probability_theory" title="Probability theory">probability theory</a>, the term <a href="/wiki/Probability_space" title="Probability space">probability space</a> is more prevalent.</li>
+</ul>
+<h2><span class="mw-headline" id="Principal_ensembles_of_statistical_thermodynamics">Principal ensembles of statistical thermodynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=3" title="Edit section: Principal ensembles of statistical thermodynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:602px;"><a href="/wiki/File:Statistical_Ensembles.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statistical_Ensembles.png/600px-Statistical_Ensembles.png" width="600" height="201" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statistical_Ensembles.png/900px-Statistical_Ensembles.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statistical_Ensembles.png/1200px-Statistical_Ensembles.png 2x" data-file-width="2919" data-file-height="978" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Statistical_Ensembles.png" class="internal" title="Enlarge"></a></div>
+Visual representation of five statistical ensembles.</div>
+</div>
+</div>
+<p>The study of thermodynamics is concerned with systems which appear to human perception to be "static" (despite the motion of their internal parts), and which can be described simply by a set of macroscopically observable variables. These systems can be described by statistical ensembles that depend on a few observable parameters, and which are in statistical equilibrium. Gibbs noted that different macroscopic constraints lead to different types of ensembles, with particular statistical characteristics. Three important thermodynamic ensembles were defined by Gibbs:<sup id="cite_ref-gibbs_1-2" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></p>
+<ul>
+<li><a href="/wiki/Microcanonical_ensemble" title="Microcanonical ensemble">Microcanonical ensemble</a> or <i>NVE</i> ensemble—a statistical ensemble where the total energy of the system and the number of particles in the system are each fixed to particular values; each of the members of the ensemble are required to have the same total energy and particle number. The system must remain totally isolated (unable to exchange energy or particles with its environment) in order to stay in statistical equilibrium.<sup id="cite_ref-gibbs_1-3" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></li>
+<li><a href="/wiki/Canonical_ensemble" title="Canonical ensemble">Canonical ensemble</a> or <i>NVT</i> ensemble—a statistical ensemble where the energy is not known exactly but the number of particles is fixed. In place of the energy, the <a href="/wiki/Temperature" title="Temperature">temperature</a> is specified. The canonical ensemble is appropriate for describing a closed system which is in, or has been in, weak thermal contact with a heat bath. In order to be in statistical equilibrium the system must remain totally closed (unable to exchange particles with its environment), and may come into weak thermal contact with other systems that are described by ensembles with the same temperature.<sup id="cite_ref-gibbs_1-4" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></li>
+<li><a href="/wiki/Grand_canonical_ensemble" title="Grand canonical ensemble">Grand canonical ensemble</a> or <i>µVT</i> ensemble—a statistical ensemble where neither the energy nor particle number are fixed. In their place, the temperature and <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> are specified. The grand canonical ensemble is appropriate for describing an open system: one which is in, or has been in, weak contact with a reservoir (thermal contact, chemical contact, radiative contact, electrical contact, etc.). The ensemble remains in statistical equilibrium if the system comes into weak contact with other systems that are described by ensembles with the same temperature and chemical potential.<sup id="cite_ref-gibbs_1-5" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></li>
+</ul>
+<p>The calculations that can be made using each of these ensembles are explored further in their respective articles. Other thermodynamic ensembles can be also defined, corresponding to different physical requirements, for which analogous formulae can often similarly be derived.</p>
+<h2><span class="mw-headline" id="Representations_of_statistical_ensembles_in_statistical_mechanics">Representations of statistical ensembles in statistical mechanics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=4" title="Edit section: Representations of statistical ensembles in statistical mechanics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The precise mathematical expression for a statistical ensemble has a distinct form depending on the type of mechanics under consideration (quantum or classical). In the classical case the ensemble is a probability distribution over the microstates. In quantum mechanics this notion, due to von Neumann, is a way of assigning a probability distribution over the results of each complete set of commuting observables. In classical mechanics, the ensemble is instead written as a probability distribution in <a href="/wiki/Phase_space" title="Phase space">phase space</a>; the microstates are the result of partitioning phase space into equal-sized units, although the size of these units can be chosen somewhat arbitrarily.</p>
+<h3><span class="mw-headline" id="Requirements_for_representations">Requirements for representations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=5" title="Edit section: Requirements for representations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Putting aside for the moment the question of how statistical ensembles are generated <a href="/wiki/Operational_definition" title="Operational definition">operationally</a>, we should be able to perform the following two operations on ensembles <i>A</i>, <i>B</i> of the same system:</p>
+<ul>
+<li>Test whether <i>A</i>, <i>B</i> are statistically equivalent.</li>
+<li>If <i>p</i> is a real number such that 0 &lt; <i>p</i> &lt; 1, then produce a new ensemble by probabilistic sampling from <i>A</i> with probability <i>p</i> and from <i>B</i> with probability <i>1 – p</i>.</li>
+</ul>
+<p>Under certain conditions therefore, <a href="/wiki/Equivalence_class" title="Equivalence class">equivalence classes</a> of statistical ensembles have the structure of a convex set.</p>
+<h3><span class="mw-headline" id="Quantum_mechanical">Quantum mechanical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=6" title="Edit section: Quantum mechanical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Density_matrix" title="Density matrix">density matrix</a></div>
+<p>A statistical ensemble in quantum mechanics (also known as a mixed state) is most often represented by a <a href="/wiki/Density_matrix" title="Density matrix">density matrix</a>, denoted by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\hat {\rho }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\hat {\rho }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a71ec0653c9ec1cad5e168085772c88e293fedef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.376ex; height:2.676ex;" alt="{\hat {\rho }}" /></span>. The density matrix provides a fully general tool that can incorporate both quantum uncertainties (present even if the state of the system were completely known) and classical uncertainties (due to a lack of knowledge) in a unified manner. Any physical observable <span class="texhtml"><i>X</i></span> in quantum mechanics can be written as an operator, <span class="texhtml"><i>X̂</i></span>. The expectation value of this operator on the statistical ensemble <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.202ex; height:2.176ex;" alt="\rho " /></span> is given by the following <a href="/wiki/Trace_(linear_algebra)" title="Trace (linear algebra)">trace</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \langle X\rangle =\operatorname {Tr} ({\hat {X}}\rho ).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <mi>X</mi>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <mi>Tr</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>X</mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \langle X\rangle =\operatorname {Tr} ({\hat {X}}\rho ).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a888d19da9f14e8f24148becbb2471ee8a798097" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.116ex; height:3.343ex;" alt="\langle X \rangle = \operatorname{Tr}(\hat X \rho)." /></span></dd>
+</dl>
+<p>This can be used to evaluate averages (operator <span class="texhtml"><i>X̂</i></span>), <a href="/wiki/Variance" title="Variance">variances</a> (using operator <span class="texhtml"><i>X̂</i> <sup>2</sup></span>), <a href="/wiki/Covariance" title="Covariance">covariances</a> (using operator <span class="texhtml"><i>X̂Ŷ</i></span>), etc. The density matrix must always have a trace of 1: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {Tr} {\hat {\rho }}=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>Tr</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {Tr} {\hat {\rho }}=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da3ad9eacd412506a87a47dbc6d0801c5233a69b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.613ex; height:2.676ex;" alt="{\displaystyle \operatorname {Tr} {\hat {\rho }}=1}" /></span> (this essentially is the condition that the probabilities must add up to one).</p>
+<p>In general, the ensemble evolves over time according to the <a href="/wiki/Von_Neumann_equation" class="mw-redirect" title="Von Neumann equation">von Neumann equation</a>.</p>
+<p>Equilibrium ensembles (those that do not evolve over time, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle d{\hat {\rho }}/dt=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle d{\hat {\rho }}/dt=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e9ebbf9a531bc93be2e31206024dfa82a8ef405" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.07ex; height:2.843ex;" alt="{\displaystyle d{\hat {\rho }}/dt=0}" /></span>) can be written solely as a function of conserved variables. For example, the <a href="/wiki/Microcanonical_ensemble" title="Microcanonical ensemble">microcanonical ensemble</a> and <a href="/wiki/Canonical_ensemble" title="Canonical ensemble">canonical ensemble</a> are strictly functions of the total energy, which is measured by the total energy operator <span class="texhtml"><i>Ĥ</i></span> (Hamiltonian). The grand canonical ensemble is additionally a function of the particle number, measured by the total particle number operator <span class="texhtml"><i>N̂</i></span>. Such equilibrium ensembles are a <a href="/wiki/Diagonal_matrix" title="Diagonal matrix">diagonal matrix</a> in the orthogonal basis of states that simultaneously diagonalize each conserved variable. In <a href="/wiki/Bra%E2%80%93ket_notation" title="Bra–ket notation">bra–ket notation</a>, the density matrix is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\hat {\rho }}=\sum _{i}P_{i}|\psi _{i}\rangle \langle \psi _{i}|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\hat {\rho }}=\sum _{i}P_{i}|\psi _{i}\rangle \langle \psi _{i}|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90a7899c8bdcc4ac57083e75b0e2cb85bf71e967" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:18.237ex; height:5.509ex;" alt="\hat \rho = \sum_i P_i |\psi_i\rangle \langle \psi_i | " /></span></dd>
+</dl>
+<p>where the <span class="texhtml">|<i>ψ</i><sub><i>i</i></sub>⟩</span>, indexed by <span class="texhtml"><i>i</i></span>, are the elements of a complete and orthogonal basis. (Note that in other bases, the density matrix is not necessarily diagonal.)</p>
+<h3><span class="mw-headline" id="Classical_mechanical">Classical mechanical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=7" title="Edit section: Classical mechanical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:197px;"><a href="/wiki/File:Hamiltonian_flow_classical.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/f7/Hamiltonian_flow_classical.gif" width="195" height="390" class="thumbimage" data-file-width="195" data-file-height="390" /></a>
+<div class="thumbcaption">Evolution of an ensemble of <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">classical</a> systems in <a href="/wiki/Phase_space" title="Phase space">phase space</a> (top). Each system consists of one massive particle in a one-dimensional <a href="/wiki/Potential_well" title="Potential well">potential well</a> (red curve, lower figure). The initially compact ensemble becomes swirled up over time.</div>
+</div>
+</div>
+<p>In classical mechanics, an ensemble is represented by a probability density function defined over the system's <a href="/wiki/Phase_space" title="Phase space">phase space</a>.<sup id="cite_ref-gibbs_1-6" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup> While an individual system evolves according to <a href="/wiki/Hamilton%27s_equations" class="mw-redirect" title="Hamilton's equations">Hamilton's equations</a>, the density function (the ensemble) evolves over time according to <a href="/wiki/Liouville%27s_theorem_(Hamiltonian)" title="Liouville's theorem (Hamiltonian)">Liouville's equation</a>.</p>
+<p>In a <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">mechanical system</a> with a defined number of parts, the phase space has <span class="texhtml"><i>n</i></span> <a href="/wiki/Generalized_coordinates" title="Generalized coordinates">generalized coordinates</a> called <span class="texhtml"><i>q</i><sub>1</sub>, … <i>q</i><sub><i>n</i></sub></span>, and <span class="texhtml"><i>n</i></span> associated <a href="/wiki/Canonical_momentum" class="mw-redirect" title="Canonical momentum">canonical momenta</a> called <span class="texhtml"><i>p</i><sub>1</sub>, … <i>p</i><sub><i>n</i></sub></span>. The ensemble is then represented by a <a href="/wiki/Joint_probability_density_function" class="mw-redirect" title="Joint probability density function">joint probability density function</a> <span class="texhtml"><i>ρ</i>(<i>p</i><sub>1</sub>, … <i>p</i><sub><i>n</i></sub>, <i>q</i><sub>1</sub>, … <i>q</i><sub><i>n</i></sub>)</span>.</p>
+<p>If the number of parts in the system is allowed to vary among the systems in the ensemble (as in a grand ensemble where the number of particles is a random quantity), then it is a probability distribution over an extended phase space that includes further variables such as particle numbers <span class="texhtml"><i>N</i><sub>1</sub></span> (first kind of particle), <span class="texhtml"><i>N</i><sub>2</sub></span> (second kind of particle), and so on up to <span class="texhtml"><i>N</i><sub><i>s</i></sub></span> (the last kind of particle; <span class="texhtml"><i>s</i></span> is how many different kinds of particles there are). The ensemble is then represented by a <a href="/wiki/Joint_probability_density_function" class="mw-redirect" title="Joint probability density function">joint probability density function</a> <span class="texhtml"><i>ρ</i>(<i>N</i><sub>1</sub>, … <i>N</i><sub><i>s</i></sub>, <i>p</i><sub>1</sub>, … <i>p</i><sub><i>n</i></sub>, <i>q</i><sub>1</sub>, … <i>q</i><sub><i>n</i></sub>)</span>. The number of coordinates <span class="texhtml"><i>n</i></span> varies with the numbers of particles.</p>
+<p>Any mechanical quantity <span class="texhtml"><i>X</i></span> can be written as a function of the system's phase. The expectation value of any such quantity is given by an integral over the entire phase space of this quantity weighted by <span class="texhtml"><i>ρ</i></span>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \langle X\rangle =\sum _{N_{1}=0}^{\infty }\ldots \sum _{N_{s}=0}^{\infty }\int \ldots \int \rho X\,dp_{1}\ldots dq_{n}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <mi>X</mi>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>N</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn>
+              </mrow>
+            </msub>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <mo>&#x2026;<!-- … --></mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>N</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>s</mi>
+              </mrow>
+            </msub>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mi>X</mi>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2026;<!-- … --></mo>
+        <mi>d</mi>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \langle X\rangle =\sum _{N_{1}=0}^{\infty }\ldots \sum _{N_{s}=0}^{\infty }\int \ldots \int \rho X\,dp_{1}\ldots dq_{n}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61248d3ae3fbf6607479e8dbc04f051c6aef9d01" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:42.13ex; height:7.176ex;" alt="\langle X \rangle = \sum_{N_1 = 0}^{\infty} \ldots \sum_{N_s = 0}^{\infty} \int \ldots \int \rho X \, dp_1 \ldots dq_n." /></span></dd>
+</dl>
+<p>The condition of probability normalization applies, requiring</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum _{N_{1}=0}^{\infty }\ldots \sum _{N_{s}=0}^{\infty }\int \ldots \int \rho \,dp_{1}\ldots dq_{n}=1.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>N</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn>
+              </mrow>
+            </msub>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <mo>&#x2026;<!-- … --></mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>N</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>s</mi>
+              </mrow>
+            </msub>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2026;<!-- … --></mo>
+        <mi>d</mi>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>1.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{N_{1}=0}^{\infty }\ldots \sum _{N_{s}=0}^{\infty }\int \ldots \int \rho \,dp_{1}\ldots dq_{n}=1.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e439be59cf1e43bafa15d19011e403c255fa36f7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:37.524ex; height:7.176ex;" alt="\sum_{N_1 = 0}^{\infty} \ldots \sum_{N_s = 0}^{\infty} \int \ldots \int \rho \, dp_1 \ldots dq_n = 1." /></span></dd>
+</dl>
+<p>Phase space is a continuous space containing an infinite number of distinct physical states within any small region. In order to connect the probability <i>density</i> in phase space to a probability <i>distribution</i> over microstates, it is necessary to somehow partition the phase space into blocks that are distributed representing the different states of the system in a fair way. It turns out that the correct way to do this simply results in equal-sized blocks of canonical phase space, and so a microstate in classical mechanics is an extended region in the phase space of canonical coordinates that has a particular volume.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> In particular, the probability density function in phase space, <span class="texhtml"><i>ρ</i></span>, is related to the probability distribution over microstates, <span class="texhtml"><i>P</i></span> by a factor</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho ={\frac {1}{h^{n}C}}P,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <msup>
+                <mi>h</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>n</mi>
+                </mrow>
+              </msup>
+              <mi>C</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mi>P</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho ={\frac {1}{h^{n}C}}P,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9741c932a2209bf4bed265953aff6961ecf5d312" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:11.853ex; height:5.343ex;" alt="\rho = \frac{1}{h^n C} P," /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><span class="texhtml"><i>h</i></span> is an arbitrary but predetermined constant with the units of <span class="texhtml">energy×time</span>, setting the extent of the microstate and providing correct dimensions to <span class="texhtml"><i>ρ</i></span>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup></li>
+<li><span class="texhtml"><i>C</i></span> is an overcounting correction factor (see below), generally dependent on the number of particles and similar concerns.</li>
+</ul>
+<p>Since <span class="texhtml"><i>h</i></span> can be chosen arbitrarily, the notional size of a microstate is also arbitrary. Still, the value of <span class="texhtml"><i>h</i></span> influences the offsets of quantities such as entropy and chemical potential, and so it is important to be consistent with the value of <span class="texhtml"><i>h</i></span> when comparing different systems.</p>
+<h4><span class="mw-headline" id="Correcting_overcounting_in_phase_space">Correcting overcounting in phase space</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=8" title="Edit section: Correcting overcounting in phase space">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Typically, the phase space contains duplicates of the same physical state in multiple distinct locations. This is a consequence of the way that a physical state is encoded into mathematical coordinates; the simplest choice of coordinate system often allows a state to be encoded in multiple ways. An example of this is a gas of identical particles whose state is written in terms of the particles' individual positions and momenta: when two particles are exchanged, the resulting point in phase space is different, and yet it corresponds to an identical physical state of the system. It is important in statistical mechanics (a theory about physical states) to recognize that the phase space is just a mathematical construction, and to not naively overcount actual physical states when integrating over phase space. Overcounting can cause serious problems:</p>
+<ul>
+<li>Dependence of derived quantities (such as entropy and chemical potential) on the choice of coordinate system, since one coordinate system might show more or less overcounting than another.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 3]</a></sup></li>
+<li>Erroneous conclusions that are inconsistent with physical experience, as in the <a href="/wiki/Mixing_paradox" class="mw-redirect" title="Mixing paradox">mixing paradox</a>.<sup id="cite_ref-gibbs_1-7" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></li>
+<li>Foundational issues in defining the <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> and the <a href="/wiki/Grand_canonical_ensemble" title="Grand canonical ensemble">grand canonical ensemble</a>.<sup id="cite_ref-gibbs_1-8" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></li>
+</ul>
+<p>It is in general difficult to find a coordinate system that uniquely encodes each physical state. As a result, it is usually necessary to use a coordinate system with multiple copies of each state, and then to recognize and remove the overcounting.</p>
+<p>A crude way to remove the overcounting would be to manually define a subregion of phase space that includes each physical state only once, and then exclude all other parts of phase space. In a gas, for example, one could include only those phases where the particles' <span class="texhtml"><i>x</i></span> coordinates are sorted in ascending order. While this would solve the problem, the resulting integral over phase space would be tedious to perform due to its unusual boundary shape. (In this case, the factor <span class="texhtml"><i>C</i></span> introduced above would be set to <span class="texhtml"><i>C</i> = 1</span>, and the integral would be restricted to the selected subregion of phase space.)</p>
+<p>A simpler way to correct the overcounting is to integrate over all phase space, but to reduce the weight of each phase in order to exactly compensate the overcounting. This is accomplished by the factor <span class="texhtml"><i>C</i></span> introduced above, which is a whole number that represents how many ways a physical state can be represented in phase space. Its value does not vary with the continuous canonical coordinates,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 4]</a></sup> so overcounting can be corrected simply by integrating over the full range of canonical coordinates, then dividing the result by the overcounting factor. However, <span class="texhtml"><i>C</i></span> does vary strongly with discrete variables such as numbers of particles, and so it must be applied before summing over particle numbers.</p>
+<p>As mentioned above, the classic example of this overcounting is for a fluid system containing various kinds of particles, where any two particles of the same kind are indistinguishable and exchangeable. When the state is written in terms of the particles' individual positions and momenta, then the overcounting related to the exchange of identical particles is corrected by using<sup id="cite_ref-gibbs_1-9" class="reference"><a href="#cite_note-gibbs-1">[1]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C=N_{1}!N_{2}!\ldots N_{s}!.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>!</mo>
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>!</mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>!</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C=N_{1}!N_{2}!\ldots N_{s}!.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/44f4513b28433e340aef836a2c1c04740fcbf0ea" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:19.66ex; height:2.509ex;" alt="C = N_1! N_2! \ldots N_s!." /></span></dd>
+</dl>
+<p>This is known as "correct Boltzmann counting".</p>
+<h2><span class="mw-headline" id="Ensembles_in_statistics">Ensembles in statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=9" title="Edit section: Ensembles in statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Principle_of_maximum_entropy" title="Principle of maximum entropy">Principle of maximum entropy</a> and <a href="/wiki/Markov_random_field" title="Markov random field">Markov random field</a></div>
+</dd>
+</dl>
+<p>The formulation of statistical ensembles used in physics has now been widely adopted in other fields, in part because it has been recognized that the <a href="/wiki/Canonical_ensemble" title="Canonical ensemble">canonical ensemble</a> or <a href="/wiki/Gibbs_measure" title="Gibbs measure">Gibbs measure</a> serves to maximize the entropy of a system, subject to a set of constraints: this is the <a href="/wiki/Principle_of_maximum_entropy" title="Principle of maximum entropy">principle of maximum entropy</a>. This principle has now been widely applied to problems in <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, <a href="/wiki/Robotics" title="Robotics">robotics</a>, and the like.</p>
+<p>In addition, statistical ensembles in physics are often built on a <a href="/wiki/Principle_of_locality" title="Principle of locality">principle of locality</a>: that all interactions are only between neighboring atoms or nearby molecules. Thus, for example, <a href="/wiki/Lattice_model_(physics)" title="Lattice model (physics)">lattice models</a>, such as the <a href="/wiki/Ising_model" title="Ising model">Ising model</a>, model <a href="/wiki/Ferromagnetic_material" class="mw-redirect" title="Ferromagnetic material">ferromagnetic materials</a> by means of nearest-neighbor interactions between spins. The statistical formulation of the principle of locality is now seen to be a form of the <a href="/wiki/Markov_property" title="Markov property">Markov property</a> in the broad sense; nearest neighbors are now <a href="/wiki/Markov_blanket" title="Markov blanket">Markov blankets</a>. Thus, the general notion of a statistical ensemble with nearest-neighbor interactions leads to <a href="/wiki/Markov_random_field" title="Markov random field">Markov random fields</a>, which again find broad applicability; for example in <a href="/wiki/Hopfield_network" title="Hopfield network">Hopfield networks</a>.</p>
+<h2><span class="mw-headline" id="Operational_interpretation">Operational interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=10" title="Edit section: Operational interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the discussion given so far, while rigorous, we have taken for granted that the notion of an ensemble is valid a priori, as is commonly done in physical context. What has not been shown is that the ensemble <i>itself</i> (not the consequent results) is a precisely defined object mathematically. For instance,</p>
+<ul>
+<li>It is not clear where this <i>very large set of systems</i> exists (for example, is it a <a href="/wiki/Gas_in_a_box" title="Gas in a box"><i>gas</i> of particles inside a container</a>?)</li>
+<li>It is not clear how to physically generate an ensemble.</li>
+</ul>
+<p>In this section we attempt to partially answer this question.</p>
+<p>Suppose we have a <i>preparation procedure</i> for a system in a physics lab: For example, the procedure might involve a physical apparatus and some protocols for manipulating the apparatus. As a result of this preparation procedure some system is produced and maintained in isolation for some small period of time. By repeating this laboratory preparation procedure we obtain a sequence of systems <i>X</i><sub>1</sub>, <i>X</i><sub>2</sub>, ....,<i>X</i><sub><i>k</i></sub>, which in our mathematical idealization, we assume is an <a href="/wiki/Infinity" title="Infinity">infinite</a> sequence of systems. The systems are similar in that they were all produced in the same way. This infinite sequence is an ensemble.</p>
+<p>In a laboratory setting, each one of these prepped systems might be used as input for <i>one</i> subsequent <i>testing procedure</i>. Again, the testing procedure involves a physical apparatus and some protocols; as a result of the testing procedure we obtain a <i>yes</i> or <i>no</i> answer. Given a testing procedure <i>E</i> applied to each prepared system, we obtain a sequence of values Meas (<i>E</i>, <i>X</i><sub>1</sub>), Meas (<i>E</i>, <i>X</i><sub>2</sub>), ...., Meas (<i>E</i>, <i>X</i><sub><i>k</i></sub>). Each one of these values is a 0 (or no) or a 1 (yes).</p>
+<p>Assume the following time average exists:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma (E)=\lim _{N\rightarrow \infty }{\frac {1}{N}}\sum _{k=1}^{N}\operatorname {Meas} (E,X_{k})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C3;<!-- σ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+          </mrow>
+        </munderover>
+        <mi>Meas</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo>,</mo>
+        <msub>
+          <mi>X</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma (E)=\lim _{N\rightarrow \infty }{\frac {1}{N}}\sum _{k=1}^{N}\operatorname {Meas} (E,X_{k})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b7a45a61c4aaea263e44ef06cb492fc3c1ad49c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:33.048ex; height:7.343ex;" alt=" \sigma(E) = \lim_{N \rightarrow \infty} \frac{1}{N} \sum_{k=1}^N \operatorname{Meas}(E, X_k) " /></span></dd>
+</dl>
+<p>For quantum mechanical systems, an important assumption made in the <a href="/wiki/Quantum_logic" title="Quantum logic">quantum logic</a> approach to quantum mechanics is the identification of <i>yes-no</i> questions to the lattice of closed subspaces of a Hilbert space. With some additional technical assumptions one can then infer that states are given by density operators <i>S</i> so that:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma (E)=\operatorname {Tr} (ES).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C3;<!-- σ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>Tr</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mi>S</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma (E)=\operatorname {Tr} (ES).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00b0244a3e23b46d46426270d8ca94b59f329343" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.334ex; height:2.843ex;" alt=" \sigma(E) = \operatorname{Tr}(E S). " /></span></dd>
+</dl>
+<p>We see this reflects the definition of quantum states in general: A quantum state is a mapping from the observables to their expectation values.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Density_matrix" title="Density matrix">Density matrix</a></li>
+<li><a href="/wiki/Ensemble_(fluid_mechanics)" title="Ensemble (fluid mechanics)">Ensemble (fluid mechanics)</a></li>
+<li><a href="/wiki/Phase_space" title="Phase space">Phase space</a></li>
+<li><a href="/wiki/Liouville%27s_theorem_(Hamiltonian)" title="Liouville's theorem (Hamiltonian)">Liouville's theorem (Hamiltonian)</a></li>
+<li><a href="/wiki/Ensemble_average_(statistical_mechanics)" title="Ensemble average (statistical mechanics)">Ensemble average (statistical mechanics)</a></li>
+<li><a href="/wiki/Replication_(statistics)" title="Replication (statistics)">Replication (statistics)</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">This equal-volume partitioning is a consequence of <a href="/wiki/Liouville%27s_theorem_(Hamiltonian)" title="Liouville's theorem (Hamiltonian)">Liouville's theorem</a>, i. e., the principle of conservation of extension in canonical phase space for Hamiltonian mechanics. This can also be demonstrated starting with the conception of an ensemble as a multitude of systems. See Gibbs' <i>Elementary Principles</i>, Chapter I.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">(Historical note) Gibbs' original ensemble effectively set <span class="texhtml"><i>h</i> = 1 [energy unit]×[time unit]</span>, leading to unit-dependence in the values of some thermodynamic quantities like entropy and chemical potential. Since the advent of quantum mechanics, <span class="texhtml"><i>h</i></span> is often taken to be equal to <a href="/wiki/Planck%27s_constant" class="mw-redirect" title="Planck's constant">Planck's constant</a> in order to obtain a semiclassical correspondence with quantum mechanics.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">In some cases the overcounting error is benign. An example is the <a href="/wiki/Charts_on_SO(3)" title="Charts on SO(3)">choice of coordinate system used for representing orientations of three-dimensional objects</a>. A simple encoding is the <a href="/wiki/3-sphere" title="3-sphere">3-sphere</a> (e. g., unit <a href="/wiki/Quaternion" title="Quaternion">quaternions</a>) which is a <a href="/wiki/Double_covering_group" class="mw-redirect" title="Double covering group">double cover</a>—each physical orientation can be encoded in two ways. If this encoding is used without correcting the overcounting, then the entropy will be higher by <span class="texhtml"><i>k</i> log 2</span> per rotatable object and the chemical potential lower by <span class="texhtml"><i>kT</i> log 2</span>. This does not actually lead to any observable error since it only causes unobservable offsets.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Technically, there are some phases where the permutation of particles does not even yield a distinct specific phase: for example, two similar particles can share the exact same trajectory, internal state, etc.. However, in classical mechanics these phases only make up an infinitesimal fraction of the phase space (they have <a href="/wiki/Measure_(mathematics)" title="Measure (mathematics)">measure</a> zero) and so they do not contribute to any volume integral in phase space.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Statistical_ensemble" class="extiw" title="commons:Category:Statistical ensemble">Statistical ensemble</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-gibbs-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-gibbs_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gibbs_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gibbs_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gibbs_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-gibbs_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-gibbs_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-gibbs_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-gibbs_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-gibbs_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-gibbs_1-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs, Josiah Willard</a> (1902). <i><a href="/wiki/Elementary_Principles_in_Statistical_Mechanics" title="Elementary Principles in Statistical Mechanics">Elementary Principles in Statistical Mechanics</a></i>. New York: <a href="/wiki/Charles_Scribner%27s_Sons" title="Charles Scribner's Sons">Charles Scribner's Sons</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elementary+Principles+in+Statistical+Mechanics&amp;rft.place=New+York&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft.date=1902&amp;rft.aulast=Gibbs&amp;rft.aufirst=Josiah+Willard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStatistical+ensemble+%28mathematical+physics%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kittel-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kittel_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Charles_Kittel" title="Charles Kittel">Kittel, Charles</a>; Herbert Kroemer (1980). <i>Thermal Physics, Second Edition</i>. San Francisco: W.H. Freeman and Company. pp.&#160;31 ff. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7167-1088-9" title="Special:BookSources/0-7167-1088-9">0-7167-1088-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Thermal+Physics%2C+Second+Edition&amp;rft.place=San+Francisco&amp;rft.pages=31+ff&amp;rft.pub=W.H.+Freeman+and+Company&amp;rft.date=1980&amp;rft.isbn=0-7167-1088-9&amp;rft.aulast=Kittel&amp;rft.aufirst=Charles&amp;rft.au=Herbert+Kroemer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStatistical+ensemble+%28mathematical+physics%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Landau-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Landau_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Lev_Landau" title="Lev Landau">Landau, L.D.</a>; Lifshitz, E.M. (1980). <i>Statistical Physics</i>. Pergamon Press. pp.&#160;9 ff. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-08-023038-5" title="Special:BookSources/0-08-023038-5">0-08-023038-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Statistical+Physics&amp;rft.pages=9+ff&amp;rft.pub=Pergamon+Press&amp;rft.date=1980&amp;rft.isbn=0-08-023038-5&amp;rft.aulast=Landau&amp;rft.aufirst=L.D.&amp;rft.au=Lifshitz%2C+E.M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStatistical+ensemble+%28mathematical+physics%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Statistical_mechanics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Statistical_mechanics_topics" title="Template:Statistical mechanics topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Statistical_mechanics_topics" title="Template talk:Statistical mechanics topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Statistical_mechanics_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Statistical_mechanics" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical mechanics</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Statistical ensembles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Microcanonical_ensemble" title="Microcanonical ensemble">Microcanonical</a></li>
+<li><a href="/wiki/Canonical_ensemble" title="Canonical ensemble">Canonical</a></li>
+<li><a href="/wiki/Grand_canonical_ensemble" title="Grand canonical ensemble">Grand canonical</a></li>
+<li><a href="/wiki/Isothermal%E2%80%93isobaric_ensemble" title="Isothermal–isobaric ensemble">Isothermal–isobaric</a></li>
+<li><a href="/wiki/Isoenthalpic%E2%80%93isobaric_ensemble" title="Isoenthalpic–isobaric ensemble">Isoenthalpic–isobaric ensemble</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Statistical_thermodynamics" class="mw-redirect" title="Statistical thermodynamics">Statistical thermodynamics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Characteristic_state_function" title="Characteristic state function">Characteristic state functions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">Partition functions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Translational_partition_function" title="Translational partition function">Translational</a></li>
+<li><a href="/wiki/Vibrational_partition_function" title="Vibrational partition function">Vibrational</a></li>
+<li><a href="/wiki/Rotational_partition_function" title="Rotational partition function">Rotational</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Equation_of_state" title="Equation of state">Equations of state</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Equation_of_state#Dieterici_equation_of_state" title="Equation of state">Dieterici</a></li>
+<li><a href="/wiki/Van_der_Waals_equation" title="Van der Waals equation">Van der Waals</a>/<a href="/wiki/Real_gas_law" class="mw-redirect" title="Real gas law">Real gas law</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+<li><a href="/wiki/Birch%E2%80%93Murnaghan_equation_of_state" title="Birch–Murnaghan equation of state">Birch–Murnaghan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Entropy" title="Entropy">Entropy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sackur%E2%80%93Tetrode_equation" title="Sackur–Tetrode equation">Sackur–Tetrode equation</a></li>
+<li><a href="/wiki/Tsallis_entropy" title="Tsallis entropy">Tsallis entropy</a></li>
+<li><a href="/wiki/Von_Neumann_entropy" title="Von Neumann entropy">Von Neumann entropy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Particle_statistics" title="Particle statistics">Particle statistics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Maxwell%E2%80%93Boltzmann_statistics" title="Maxwell–Boltzmann statistics">Maxwell–Boltzmann statistics</a></li>
+<li><a href="/wiki/Fermi%E2%80%93Dirac_statistics" title="Fermi–Dirac statistics">Fermi–Dirac statistics</a></li>
+<li><a href="/wiki/Bose%E2%80%93Einstein_statistics" title="Bose–Einstein statistics">Bose–Einstein statistics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Statistical_field_theory" title="Statistical field theory">Statistical field theory</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conformal_field_theory" title="Conformal field theory">Conformal field theory</a></li>
+<li><a href="/wiki/Schwinger_function" title="Schwinger function">Osterwalder–Schrader axioms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_statistical_mechanics" title="Quantum statistical mechanics">Quantum statistical mechanics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Density_matrix" title="Density matrix">Density matrix</a></li>
+<li><a href="/wiki/Gibbs_measure" title="Gibbs measure">Gibbs measure</a></li>
+<li><a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">Partition function</a></li>
+<li><a href="/wiki/Phase_space_formulation" title="Phase space formulation">Phase space formulation</a> of quantum mechanics</li>
+<li><a href="/wiki/Slater_determinant" title="Slater determinant">Slater determinant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Probability_distribution" title="Probability distribution">Probability distribution</a></li>
+<li><a href="/wiki/Elementary_particle" title="Elementary particle">Elementary particles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20180211015225
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.188 seconds
+Real time usage: 0.284 seconds
+Preprocessor visited node count: 1309/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35729/2097152 bytes
+Template argument size: 1174/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 2.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  169.310      1 -total
+ 36.41%   61.646      2 Template:Reflist
+ 24.51%   41.492      3 Template:Cite_book
+ 15.51%   26.260      1 Template:Commons_category
+ 14.68%   24.847      1 Template:Redirect
+  9.03%   15.291      1 Template:Statistical_mechanics
+  7.84%   13.266      1 Template:Sidebar_with_collapsible_lists
+  5.91%   10.006      1 Template:Statistical_mechanics_topics
+  5.81%    9.839     40 Template:Math
+  4.96%    8.400      1 Template:Commons
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:59052-0!canonical!math=5 and timestamp 20180211015224 and revision id 810677692
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;oldid=810677692">https://en.wikipedia.org/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;oldid=810677692</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Statistical_ensembles" title="Category:Statistical ensembles">Statistical ensembles</a></li><li><a href="/wiki/Category:Philosophy_of_thermal_and_statistical_physics" title="Category:Philosophy of thermal and statistical physics">Philosophy of thermal and statistical physics</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Statistical+ensemble+%28mathematical+physics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Statistical+ensemble+%28mathematical+physics%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Statistical_ensemble_(mathematical_physics)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Statistical_ensemble_(mathematical_physics)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Statistical_ensemble_(mathematical_physics)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Statistical_ensemble_(mathematical_physics)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Statistical_ensemble_(mathematical_physics)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;oldid=810677692" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q898535" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Statistical_ensemble_%28mathematical_physics%29&amp;id=810677692" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Statistical+ensemble+%28mathematical+physics%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Statistical+ensemble+%28mathematical+physics%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Statistical_ensemble" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%8B%D1%81%D1%82%D1%8B%D1%87%D0%BD%D1%8B_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C" title="Статыстычны ансамбль – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ensemble_(Physik)" title="Ensemble (Physik) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Colectividad_estad%C3%ADstica" title="Colectividad estadística – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ensemblo_(fiziko)" title="Ensemblo (fiziko) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%B3%D8%A7%D9%85%D8%A8%D9%84_%D8%A2%D9%85%D8%A7%D8%B1%DB%8C" title="آنسامبل آماری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ensemble_statistique" title="Ensemble statistique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%99%EC%83%81%EB%B8%94_(%EB%AC%BC%EB%A6%AC%ED%95%99)" title="앙상블 (물리학) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Insieme_statistico" title="Insieme statistico – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A6%D7%91%D7%A8_(%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94_%D7%A1%D7%98%D7%98%D7%99%D7%A1%D7%98%D7%99%D7%AA)" title="צבר (פיזיקה סטטיסטית) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ensemble_(natuurkunde)" title="Ensemble (natuurkunde) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E9%9B%86%E5%9B%A3" title="統計集団 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_statystyczny" title="Zespół statystyczny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ensemble_estat%C3%ADstico" title="Ensemble estatístico – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C" title="Статистический ансамбль – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BA%D0%B8_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB" title="Статистички ансамбл – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tilastollinen_ensemble" title="Tilastollinen ensemble – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%BC" title="系综 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q898535#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 November 2017, at 19:29.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Statistical_ensemble_(mathematical_physics)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.284","ppvisitednodes":{"value":1309,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35729,"limit":2097152},"templateargumentsize":{"value":1174,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  169.310      1 -total"," 36.41%   61.646      2 Template:Reflist"," 24.51%   41.492      3 Template:Cite_book"," 15.51%   26.260      1 Template:Commons_category"," 14.68%   24.847      1 Template:Redirect","  9.03%   15.291      1 Template:Statistical_mechanics","  7.84%   13.266      1 Template:Sidebar_with_collapsible_lists","  5.91%   10.006      1 Template:Statistical_mechanics_topics","  5.81%    9.839     40 Template:Math","  4.96%    8.400      1 Template:Commons"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":2580391,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20180211015225","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1265"});});</script>
+	</body>
+</html>

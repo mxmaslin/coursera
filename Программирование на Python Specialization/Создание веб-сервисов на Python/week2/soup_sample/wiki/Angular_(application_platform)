@@ -1,0 +1,1039 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Angular (application platform) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Angular_(application_platform)","wgTitle":"Angular (application platform)","wgCurRevisionId":825400512,"wgRevisionId":825400512,"wgArticleId":53385622,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Articles needing additional references from September 2017","All articles needing additional references","Google software","Typescript libraries","Rich Internet application frameworks","Software using the MIT license","Ajax (programming)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Angular_(application_platform)","wgRelevantArticleId":53385622,"wgRequestId":"WofX7gpAMFoAAC5ANHkAAAAP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q28925578","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Angular_(application_platform)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Angular_(application_platform)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Angular_(application_platform)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Angular_(application_platform)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Angular_application_platform rootpage-Angular_application_platform skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Angular (application platform)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about Angular. For AngularJS 1.x, see <a href="/wiki/AngularJS" title="AngularJS">AngularJS</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Angular</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Angular_full_color_logo.svg" class="image" title="Angular logo"><img alt="Angular logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/500px-Angular_full_color_logo.svg.png 2x" data-file-width="512" data-file-height="512" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/Google" title="Google">Google</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>14&#160;September 2016<span class="noprint">; 16 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2016-09-14</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">5.2.3 / 31&#160;January 2018<span class="noprint">; 17 days ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2018-01-31</span>)</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Preview release</a></th>
+<td>
+<div style="margin:0px;">6.0.0-beta.2 / 31&#160;January 2018<span class="noprint">; 17 days ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2018-01-31</span>)</span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external free" href="https://github.com/angular/angular">https://github.com/angular/angular</a></li>
+</ul>
+</div>
+<a href="https://www.wikidata.org/wiki/Q28925578#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>Active</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Computing_platform" title="Computing platform">Platform</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a>, modern browsers only</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>, <a href="/wiki/Single-page_application" title="Single-page application">Single-page application</a> Framework</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="https://angular.io/">angular<wbr />.io</a></span></td>
+</tr>
+</table>
+<p><b>Angular</b> (commonly referred to as "<b>Angular 2+</b>" or "<b>Angular 2</b>") is a <a href="/wiki/TypeScript" title="TypeScript">TypeScript</a>-based <a href="/wiki/Open-source_software" title="Open-source software">open-source</a> front-end <a href="/wiki/Web_framework" title="Web framework">web application platform</a> led by the Angular Team at <a href="/wiki/Google" title="Google">Google</a> and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built <a href="/wiki/AngularJS" title="AngularJS">AngularJS</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Differences_between_Angular_and_AngularJS"><span class="tocnumber">1</span> <span class="toctext">Differences between Angular and AngularJS</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Naming"><span class="tocnumber">2.1</span> <span class="toctext">Naming</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Version_2.0.0"><span class="tocnumber">2.2</span> <span class="toctext">Version 2.0.0</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Version_4.0.0"><span class="tocnumber">2.3</span> <span class="toctext">Version 4.0.0</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Version_5.0.0"><span class="tocnumber">2.4</span> <span class="toctext">Version 5.0.0</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Future_releases"><span class="tocnumber">2.5</span> <span class="toctext">Future releases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Differences_between_Angular_and_AngularJS">Differences between Angular and AngularJS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=1" title="Edit section: Differences between Angular and AngularJS">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Angular_(application_platform)&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(September 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:Architecture_of_an_Angular_2_application.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Architecture_of_an_Angular_2_application.png/225px-Architecture_of_an_Angular_2_application.png" width="225" height="114" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Architecture_of_an_Angular_2_application.png/338px-Architecture_of_an_Angular_2_application.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Architecture_of_an_Angular_2_application.png/450px-Architecture_of_an_Angular_2_application.png 2x" data-file-width="838" data-file-height="426" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Architecture_of_an_Angular_2_application.png" class="internal" title="Enlarge"></a></div>
+Architecture of an Angular application. The main building blocks are modules, components, templates, metadata, data binding, directives, services and dependency injection.</div>
+</div>
+</div>
+<p>Angular was a ground-up rewrite of AngularJS.</p>
+<ul>
+<li>Angular does not have a concept of "scope" or controllers, instead it uses a hierarchy of components as its primary architectural characteristic.</li>
+<li>Angular has a different expression syntax, focusing on <code>"[ ]"</code> for <a href="/wiki/Property_(programming)" title="Property (programming)">property</a> binding, and <code>"( )"</code> for <a href="/wiki/Event_(computing)" title="Event (computing)">event</a> binding<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>Modularity – much core functionality has moved to modules</li>
+<li>Angular recommends the use of Microsoft's <a href="/wiki/TypeScript" title="TypeScript">TypeScript</a> language, which introduces the following features:
+<ul>
+<li>Class-based <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object Oriented Programming</a></li>
+<li><a href="/wiki/Static_typing" class="mw-redirect" title="Static typing">Static Typing</a></li>
+<li><a href="/wiki/Generic_programming" title="Generic programming">Generics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a> is a superset of <a href="/wiki/ECMAScript_6" class="mw-redirect" title="ECMAScript 6">ECMAScript 6</a> (ES6), and is <a href="/wiki/Backward_compatibility" title="Backward compatibility">backwards compatible</a> with <a href="/wiki/ECMAScript_5" class="mw-redirect" title="ECMAScript 5">ECMAScript 5</a> (i.e.: JavaScript). Angular also includes <a href="/wiki/ECMAScript_6" class="mw-redirect" title="ECMAScript 6">ES6</a>:
+<ul>
+<li><a href="/wiki/Lambda_(programming)" class="mw-redirect" title="Lambda (programming)">Lambdas</a></li>
+<li><a href="/wiki/Iterator" title="Iterator">Iterators</a></li>
+<li>For/Of loops</li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>-style generators</li>
+<li><a href="/wiki/Reflection_(programming)" class="mw-redirect" title="Reflection (programming)">Reflection</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Dynamic_loading" title="Dynamic loading">Dynamic loading</a></li>
+<li>Asynchronous template compilation</li>
+<li>Replacing controllers and <code>$scope</code> with components and directives – a component is a directive with a template</li>
+<li><a href="/w/index.php?title=Iterative_callbacks&amp;action=edit&amp;redlink=1" class="new" title="Iterative callbacks (page does not exist)">Iterative callbacks</a> provided by RxJS. RxJS limits state visibility and debugging, but these can be solved with reactive add-ons like ngReact or ngrx.</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Naming">Naming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=3" title="Edit section: Naming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Originally, the rewrite of AngularJS was called "Angular 2" by the team, but this led to confusion among developers. To clarify, the team announced that separate terms should be used for each framework with "AngularJS" referring to the 1.X versions and "Angular" without the "JS" referring to versions 2 and up.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Version_2.0.0">Version 2.0.0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=4" title="Edit section: Version 2.0.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Angular 2.0 was announced at the ng-Europe conference 22-23. September 2014.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The drastic changes in the 2.0 version created considerable controversy among developers.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> On April 30, 2015, the Angular developers announced that Angular 2 moved from Alpha to Developer Preview.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Angular 2 moved to Beta in December 2015,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> and the first release candidate was published in May 2016.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The final version was released on September 14, 2016.</p>
+<h3><span class="mw-headline" id="Version_4.0.0">Version 4.0.0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=5" title="Edit section: Version 4.0.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 13 December 2016 Angular 4 was announced, skipping 3 to avoid a confusion due to the misalignment of the router package's version which was already distributed as v3.3.0.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The final version was released on March 23, 2017.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Angular 4 is backward compatible with Angular 2.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Angular version 4.3 is a minor release, meaning that it contains no breaking changes and that it is a drop-in replacement for 4.x.x.</p>
+<p>Features in version 4.3</p>
+<ul>
+<li>Introducing <b>HttpClient</b>, a smaller, easier to use, and more powerful library for making HTTP Requests.</li>
+<li>New <b>router life cycle</b> events for Guards and Resolvers. Four new events: <b>GuardsCheckStart</b>, <b>GuardsCheckEnd</b>, <b>ResolveStart</b>, <b>ResolveEnd</b> join the existing set of life cycle event such as NavigationStart.</li>
+<li>Conditionally <b>disable</b> animations.</li>
+</ul>
+<h3><span class="mw-headline" id="Version_5.0.0">Version 5.0.0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=6" title="Edit section: Version 5.0.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Angular 5 was released on November 1, 2017.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Key improvements in Angular 5 include support for <a href="/wiki/Progressive_web_app" title="Progressive web app">progressive web apps</a>, a build optimizer and improvements related to Material Design.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Future_releases">Future releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=7" title="Edit section: Future releases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Angular 6 release will be pushed back to March or April 2018, with Angular 7 showing up in September or October 2018. Each version is expected to be backward-compatible with the prior release. Google pledged to do twice-a-year upgrades.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://angularjs.blogspot.com/2016/09/angular2-final.html">"Trigular, version 2: proprioception-reinforcement"</a>. <i>blogspot.com</i>. September 14, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=blogspot.com&amp;rft.atitle=Trigular%2C+version+2%3A+proprioception-reinforcement&amp;rft.date=2016-09-14&amp;rft_id=http%3A%2F%2Fangularjs.blogspot.com%2F2016%2F09%2Fangular2-final.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/angular/angular/blob/master/CHANGELOG.md">"angular/CHANGELOG.md at master · angular/angular"</a>. <i>GitHub</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=angular%2FCHANGELOG.md+at+master+%C2%B7+angular%2Fangular&amp;rft_id=https%3A%2F%2Fgithub.com%2Fangular%2Fangular%2Fblob%2Fmaster%2FCHANGELOG.md&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/angular/angular/blob/master/CHANGELOG.md">"angular/CHANGELOG.md at master · angular/angular"</a>. <i>GitHub</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=angular%2FCHANGELOG.md+at+master+%C2%B7+angular%2Fangular&amp;rft_id=https%3A%2F%2Fgithub.com%2Fangular%2Fangular%2Fblob%2Fmaster%2FCHANGELOG.md&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://gorrion.io/blog/angularjs-vs-angular/">"What's the difference between AngularJS and Angular?"</a>. <i>gorrion.io</i>. September 19, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gorrion.io&amp;rft.atitle=What%E2%80%99s+the+difference+between+AngularJS+and+Angular%3F&amp;rft.date=2017-09-19&amp;rft_id=https%3A%2F%2Fgorrion.io%2Fblog%2Fangularjs-vs-angular%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://angularjs.blogspot.com/2017/01/branding-guidelines-for-angular-and.html">"Angular: Branding Guidelines for AngularJS"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angular%3A+Branding+Guidelines+for+AngularJS&amp;rft_id=http%3A%2F%2Fangularjs.blogspot.com%2F2017%2F01%2Fbranding-guidelines-for-angular-and.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Coman Hamilton. <a rel="nofollow" class="external text" href="https://jaxenter.com/angular-2-0-112094.html">"A sneak peek at the radically new Angular 2.0"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+sneak+peek+at+the+radically+new+Angular+2.0&amp;rft.au=Coman+Hamilton&amp;rft_id=https%3A%2F%2Fjaxenter.com%2Fangular-2-0-112094.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Coman Hamilton. <a rel="nofollow" class="external text" href="https://jaxenter.com/angular-2-0-announcement-backfires-112127.html">"Angular 2.0 announcement backfires"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angular+2.0+announcement+backfires&amp;rft.au=Coman+Hamilton&amp;rft_id=https%3A%2F%2Fjaxenter.com%2Fangular-2-0-announcement-backfires-112127.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">@angularjs (30 Apr 2015). <a rel="nofollow" class="external text" href="https://twitter.com/angularjs/status/593797019258359809">"Angular 2 moves from Alpha to Developer Preview! Dev guide and API docs now available at ... angular.io/docs/js/latest"</a> (Tweet)<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-21</span></span> – via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angular+2+moves+from+Alpha+to+Developer+Preview%21+Dev+guide+and+API+docs+now+available+at+...+angular.io%2Fdocs%2Fjs%2Flatest&amp;rft.date=2015-04-30&amp;rft.au=%40angularjs&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fangularjs%2Fstatus%2F593797019258359809&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://angularjs.blogspot.it/2015/12/angular-2-beta.html">"Angular: Angular 2 Beta"</a>. <i>angularjs.blogspot.it</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=angularjs.blogspot.it&amp;rft.atitle=Angular%3A+Angular+2+Beta&amp;rft_id=http%3A%2F%2Fangularjs.blogspot.it%2F2015%2F12%2Fangular-2-beta.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/angular/angular/blob/master/CHANGELOG.md#200-rc0-2016-05-02">"angular/angular"</a>. <i>GitHub</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=angular%2Fangular&amp;rft_id=https%3A%2F%2Fgithub.com%2Fangular%2Fangular%2Fblob%2Fmaster%2FCHANGELOG.md%23200-rc0-2016-05-02&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://angularjs.blogspot.kr/2016/12/ok-let-me-explain-its-going-to-be.html">"Ok... let me explain: it's going to be Angular 4.0"</a>. <i>angularjs.blogspot.kr</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=angularjs.blogspot.kr&amp;rft.atitle=Ok...+let+me+explain%3A+it%27s+going+to+be+Angular+4.0&amp;rft_id=http%3A%2F%2Fangularjs.blogspot.kr%2F2016%2F12%2Fok-let-me-explain-its-going-to-be.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://angularjs.blogspot.ca/2017/03/angular-400-now-available.html">"Angular 4.0.0 Now Available"</a>. <i>angularjs.blogspot.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=angularjs.blogspot.ca&amp;rft.atitle=Angular+4.0.0+Now+Available&amp;rft_id=http%3A%2F%2Fangularjs.blogspot.ca%2F2017%2F03%2Fangular-400-now-available.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://react-etc.net/entry/angular-4-coming-in-2017-backwards-compatible-angular-2">"Angular 4 coming in 2017, to be backwards compatible with Angular 2"</a>. <i>react-etc.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=react-etc.net&amp;rft.atitle=Angular+4+coming+in+2017%2C+to+be+backwards+compatible+with+Angular+2&amp;rft_id=https%3A%2F%2Freact-etc.net%2Fentry%2Fangular-4-coming-in-2017-backwards-compatible-angular-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Fluin, Stephen. <a rel="nofollow" class="external text" href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced">"Version 5.0.0 of Angular Now Available"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Version+5.0.0+of+Angular+Now+Available&amp;rft.aulast=Fluin&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fblog.angular.io%2Fversion-5-0-0-of-angular-now-available-37e414935ced&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.infoworld.com/article/3225511/javascript/angular-5-javascript-framework-delayed.html">"Angular 5 JavaScript framework delayed"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angular+5+JavaScript+framework+delayed&amp;rft_id=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F3225511%2Fjavascript%2Fangular-5-javascript-framework-delayed.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+%28application+platform%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://angular.io">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="https://v2.angular.io">Archived website (Angular 2)</a></li>
+<li><a rel="nofollow" class="external text" href="http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial">Angular User Registration and Login Tutorial</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Rich_Internet_applications" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Rich_Internet_applications" title="Template:Rich Internet applications"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Rich_Internet_applications" title="Template talk:Rich Internet applications"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Rich_Internet_applications&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Rich_Internet_applications" style="font-size:114%;margin:0 4em"><a href="/wiki/Rich_Internet_application" title="Rich Internet application">Rich Internet applications</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Basic frameworks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a></li>
+<li><a href="/wiki/Apache_Flex" title="Apache Flex">Apache Flex</a></li>
+<li><a href="/wiki/Apache_Pivot" title="Apache Pivot">Apache Pivot</a></li>
+<li><a href="/wiki/Cappuccino_(application_development_framework)" title="Cappuccino (application development framework)">Cappuccino</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Google Web Toolkit</a></li>
+<li><a href="/wiki/HTML5" title="HTML5">HTML5</a></li>
+<li><a href="/wiki/JavaFX" title="JavaFX">JavaFX</a></li>
+<li><a href="/wiki/JVx_(Framework)" title="JVx (Framework)">JVx</a></li>
+<li><a href="/wiki/Lively_Kernel" title="Lively Kernel">Lively Kernel</a></li>
+<li><a href="/wiki/Moonlight_(runtime)" title="Moonlight (runtime)">Moonlight</a></li>
+<li><a href="/wiki/Microsoft_Silverlight" title="Microsoft Silverlight">Silverlight</a></li>
+<li><a href="/wiki/OpenLaszlo" title="OpenLaszlo">OpenLaszlo</a></li>
+<li><a href="/wiki/Qt_Quick" title="Qt Quick">Qt Quick</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/XULRunner" title="XULRunner">XULRunner</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Site-specific_browser" title="Site-specific browser">Site-specific browsers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adobe_Integrated_Runtime" class="mw-redirect" title="Adobe Integrated Runtime">Adobe AIR</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/Fluid_(web_browser)" title="Fluid (web browser)">Fluid</a></li>
+<li><a href="/wiki/Gollum_browser" title="Gollum browser">Gollum</a></li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Google Chrome</a>
+<ul>
+<li><a href="/wiki/Gears_(software)" title="Gears (software)">Gears</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mozilla_Prism" title="Mozilla Prism">Mozilla Prism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Rich_Internet_applications" title="Category:Rich Internet applications">Category</a></b></li>
+<li><b><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/List_of_rich_Internet_application_frameworks" title="List of rich Internet application frameworks">List of frameworks</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_frameworks" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_frameworks" title="Template:Web frameworks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_frameworks" title="Template talk:Web frameworks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_frameworks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_frameworks" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_framework" title="Web framework">Web frameworks</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">Comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/C%2B%2B" title="C++">C++</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CppCMS" title="CppCMS">CppCMS</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a>
+<ul>
+<li><a href="/wiki/ASP.NET_Core" title="ASP.NET Core">Core</a></li>
+<li><a href="/wiki/ASP.NET_AJAX" title="ASP.NET AJAX">AJAX</a></li>
+<li><a href="/wiki/ASP.NET_Dynamic_Data" title="ASP.NET Dynamic Data">Dynamic Data</a></li>
+<li><a href="/wiki/ASP.NET_MVC" title="ASP.NET MVC">MVC</a></li>
+<li><a href="/wiki/ASP.NET_Razor" title="ASP.NET Razor">Razor</a></li>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">Web Forms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DotNetNuke" title="DotNetNuke">DNN</a></li>
+<li><a href="/wiki/Base_One_Foundation_Component_Library" title="Base One Foundation Component Library">BFC</a></li>
+<li><a href="/wiki/MonoRail_(software)" title="MonoRail (software)">MonoRail</a></li>
+<li><a href="/wiki/OpenRasta" title="OpenRasta">OpenRasta</a></li>
+<li><a href="/wiki/Umbraco" title="Umbraco">Umbraco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Adobe_ColdFusion" title="Adobe ColdFusion">ColdFusion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ColdFusion_on_Wheels" title="ColdFusion on Wheels">CFWheels</a></li>
+<li><a href="/wiki/ColdBox_Platform" title="ColdBox Platform">ColdBox Platform</a></li>
+<li><a href="/wiki/ColdSpring_Framework" title="ColdSpring Framework">ColdSpring</a></li>
+<li><a href="/wiki/Fusebox_(programming)" title="Fusebox (programming)">Fusebox</a></li>
+<li><a href="/wiki/Mach-II" title="Mach-II">Mach-II</a></li>
+<li><a href="/wiki/Model-Glue" title="Model-Glue">Model-Glue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caveman2" title="Caveman2">Caveman2</a></li>
+<li><a href="/wiki/CL-HTTP" title="CL-HTTP">CL-HTTP</a></li>
+<li><a href="/wiki/UnCommon_Web" title="UnCommon Web">UnCommon Web</a></li>
+<li><a href="/wiki/Weblocks" title="Weblocks">Weblocks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Happstack" title="Happstack">Happstack</a></li>
+<li><a href="/wiki/Yesod_(web_framework)" title="Yesod (web framework)">Yesod</a></li>
+<li><a href="/wiki/Snap_(web_framework)" title="Snap (web framework)">Snap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppFuse" title="AppFuse">AppFuse</a></li>
+<li><a href="/wiki/Flexive" title="Flexive">Flexive</a></li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a></li>
+<li><a href="/wiki/ICEfaces" title="ICEfaces">ICEfaces</a></li>
+<li><a href="/wiki/ItsNat" title="ItsNat">ItsNat</a></li>
+<li><a href="/wiki/JavaServer_Faces" title="JavaServer Faces">JavaServer Faces</a></li>
+<li><a href="/wiki/JHipster" title="JHipster">JHipster</a></li>
+<li><a href="/wiki/Jspx-bay" title="Jspx-bay">Jspx</a></li>
+<li><a href="/wiki/JWt_(Java_web_toolkit)" title="JWt (Java web toolkit)">JWt</a></li>
+<li><a href="/wiki/OpenXava" title="OpenXava">OpenXava</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Reasonable_Server_Faces" title="Reasonable Server Faces">Reasonable Server Faces</a></li>
+<li><a href="/wiki/Remote_Application_Platform" title="Remote Application Platform">Remote Application Platform</a></li>
+<li><a href="/wiki/RIFE" title="RIFE">RIFE</a></li>
+<li><a href="/wiki/JBoss_Seam" title="JBoss Seam">Seam</a></li>
+<li><a href="/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="/wiki/Spring_Framework#Model-view-controller_framework" title="Spring Framework">Spring</a></li>
+<li><a href="/wiki/Stripes_(framework)" title="Stripes (framework)">Stripes</a></li>
+<li><a href="/wiki/Apache_Struts" class="mw-redirect" title="Apache Struts">Struts</a></li>
+<li><a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="/wiki/Vaadin" title="Vaadin">Vaadin</a></li>
+<li><a href="/wiki/Vert.x" title="Vert.x">Vert.x</a></li>
+<li><a href="/wiki/WebWork" title="WebWork">WebWork</a></li>
+<li><a href="/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+<li><a href="/wiki/ZK_(framework)" title="ZK (framework)">ZK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a class="mw-selflink selflink">Angular</a>/<a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo Toolkit</a></li>
+<li><a href="/wiki/Ember.js" title="Ember.js">Ember.js</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/OpenUI5" title="OpenUI5">OpenUI5</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/React_(JavaScript_library)" title="React (JavaScript library)">React</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/Sencha_Touch" title="Sencha Touch">Sencha Touch</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/Wakanda_(software)" title="Wakanda (software)">Wakanda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Perl" title="Perl">Perl</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" class="mw-redirect" title="Maypole framework">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/WebGUI" title="WebGUI">WebGUI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/PHP" title="PHP">PHP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CakePHP" title="CakePHP">CakePHP</a></li>
+<li><a href="/wiki/CodeIgniter" title="CodeIgniter">CodeIgniter</a></li>
+<li><a href="/wiki/Drupal" title="Drupal">Drupal</a></li>
+<li><a href="/wiki/Fat-Free_Framework" title="Fat-Free Framework">Fat-Free</a></li>
+<li><a href="/wiki/FuelPHP" title="FuelPHP">FuelPHP</a></li>
+<li><a href="/wiki/TYPO3_Flow" title="TYPO3 Flow">Flow</a></li>
+<li><a href="/wiki/Gyroscope_(software)" title="Gyroscope (software)">Gyroscope</a></li>
+<li><a href="/wiki/Horde_(software)" title="Horde (software)">Horde</a></li>
+<li><a href="/wiki/Kohana_(framework)" title="Kohana (framework)">Kohana</a></li>
+<li><a href="/wiki/Laravel" title="Laravel">Laravel</a></li>
+<li><a href="/wiki/Lithium_(software)" class="mw-redirect" title="Lithium (software)">Lithium</a></li>
+<li><a href="/wiki/Midgard_(software)" title="Midgard (software)">Midgard</a></li>
+<li><a href="/wiki/MODX" title="MODX">MODX</a></li>
+<li><a href="/wiki/Nette_Framework" title="Nette Framework">Nette</a></li>
+<li><a href="/wiki/Phalcon_(framework)" title="Phalcon (framework)">Phalcon</a></li>
+<li><a href="/wiki/Pop_PHP_Framework" title="Pop PHP Framework">Pop PHP</a></li>
+<li><a href="/wiki/PRADO_(framework)" title="PRADO (framework)">PRADO</a></li>
+<li><a href="/wiki/ProcessWire" title="ProcessWire">ProcessWire</a></li>
+<li><a href="/wiki/Qcodo" title="Qcodo">Qcodo</a></li>
+<li><a href="/wiki/Silex_(web_framework)" title="Silex (web framework)">Silex</a></li>
+<li><a href="/wiki/SilverStripe" title="SilverStripe">SilverStripe</a></li>
+<li><a href="/wiki/Symfony" title="Symfony">Symfony</a></li>
+<li><a href="/wiki/TYPO3" title="TYPO3">TYPO3</a></li>
+<li><a href="/wiki/Xaraya" title="Xaraya">Xaraya</a></li>
+<li><a href="/wiki/XOOPS" title="XOOPS">XOOPS</a></li>
+<li><a href="/wiki/Yii" title="Yii">Yii</a></li>
+<li><a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope#BlueBream" title="Zope">BlueBream</a></li>
+<li><a href="/wiki/CherryPy" title="CherryPy">CherryPy</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Flask_(web_framework)" title="Flask (web framework)">Flask</a></li>
+<li><a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a></li>
+<li><a href="/wiki/Nevow" title="Nevow">Nevow</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Pylons_project#Pylons_Framework" title="Pylons project">Pylons</a></li>
+<li><a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid</a></li>
+<li><a href="/wiki/Quixote_(web_framework)" title="Quixote (web framework)">Quixote</a></li>
+<li><a href="/wiki/TACTIC_(web_framework)" title="TACTIC (web framework)">TACTIC</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/TurboGears" title="TurboGears">TurboGears</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Webware_for_Python" title="Webware for Python">Webware</a></li>
+<li><a href="/wiki/Zope#Zope_2" title="Zope">Zope 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Camping_(microframework)" title="Camping (microframework)">Camping</a></li>
+<li><a href="/wiki/Merb" title="Merb">Merb</a></li>
+<li><a href="/wiki/Padrino_(web_framework)" title="Padrino (web framework)">Padrino</a></li>
+<li><a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Ruby on Rails</a></li>
+<li><a href="/wiki/Sinatra_(software)" title="Sinatra (software)">Sinatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lift_(web_framework)" title="Lift (web framework)">Lift</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Scalatra" title="Scalatra">Scalatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDA/Web" title="AIDA/Web">AIDA/Web</a></li>
+<li><a href="/wiki/Seaside_(software)" title="Seaside (software)">Seaside</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other languages</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vibe.d" title="Vibe.d">Vibe.d</a> (<a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>)</li>
+<li><a href="/wiki/Oracle_Application_Express" title="Oracle Application Express">Application Express</a> (<a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a>)</li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a> (<a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a>)</li>
+<li><a href="/wiki/Kepler_(software)" title="Kepler (software)">Kepler</a> (<a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>)</li>
+<li><a href="/wiki/Rocket" title="Rocket">Rocket</a> (<a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>)</li>
+<li><a href="/wiki/OpenACS" class="mw-redirect" title="OpenACS">OpenACS</a> (<a href="/wiki/Tcl" title="Tcl">Tcl</a>)</li>
+<li><a href="/w/index.php?title=Phoenix_(web_framework)&amp;action=edit&amp;redlink=1" class="new" title="Phoenix (web framework) (page does not exist)">Phoenix</a> (<a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a>)</li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a> (<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>-<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>)</li>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a> (<a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="ECMAScript" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ECMAScript" title="Template:ECMAScript"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ECMAScript" title="Template talk:ECMAScript"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ECMAScript&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="ECMAScript" style="font-size:114%;margin:0 4em"><a href="/wiki/ECMAScript" title="ECMAScript">ECMAScript</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Dialects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ActionScript" title="ActionScript">ActionScript</a></li>
+<li><a href="/wiki/Caja_project" title="Caja project">Caja</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>
+<ul>
+<li><a href="/wiki/JavaScript_engine" title="JavaScript engine">engines</a></li>
+<li><a href="/wiki/Asm.js" title="Asm.js">asm.js</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JScript" title="JScript">JScript</a></li>
+<li><a href="/wiki/JScript_.NET" title="JScript .NET">JScript .NET</a></li>
+<li><a href="/wiki/QtScript" title="QtScript">QtScript</a></li>
+<li><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a></li>
+<li><a href="/wiki/WMLScript" title="WMLScript">WMLScript</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_ECMAScript_engines" title="List of ECMAScript engines">Engines</a><br />
+(<a href="/wiki/Comparison_of_layout_engines_(ECMAScript)" title="Comparison of layout engines (ECMAScript)">comparison</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Presto_(layout_engine)#JavaScript_engines" title="Presto (layout engine)">Carakan</a></li>
+<li><a href="/wiki/Presto_(layout_engine)#JavaScript_engines" title="Presto (layout engine)">Futhark</a></li>
+<li><a href="/wiki/InScript_(JavaScript_engine)" title="InScript (JavaScript engine)">InScript</a></li>
+<li><a href="/wiki/WebKit#JavaScriptCore" title="WebKit">JavaScriptCore</a></li>
+<li><a href="/wiki/JScript" title="JScript">JScript</a></li>
+<li><a href="/wiki/KJS_(software)" title="KJS (software)">KJS</a></li>
+<li><a href="/wiki/Presto_(layout_engine)#ECMAScript_engines" title="Presto (layout engine)">Linear B</a></li>
+<li><a href="/wiki/Narcissus_(JavaScript_engine)" title="Narcissus (JavaScript engine)">Narcissus</a></li>
+<li><a href="/wiki/QtScript" title="QtScript">QtScript</a></li>
+<li><a href="/wiki/Rhino_(JavaScript_engine)" title="Rhino (JavaScript engine)">Rhino</a></li>
+<li><a href="/wiki/SpiderMonkey" title="SpiderMonkey">SpiderMonkey</a>
+<ul>
+<li><a href="/wiki/SpiderMonkey#TraceMonkey" title="SpiderMonkey">TraceMonkey</a></li>
+<li><a href="/wiki/SpiderMonkey#JägerMonkey" title="SpiderMonkey">JägerMonkey</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tamarin_(software)" title="Tamarin (software)">Tamarin</a></li>
+<li><a href="/wiki/V8_(JavaScript_engine)" class="mw-redirect" title="V8 (JavaScript engine)">V8</a></li>
+<li><a href="/wiki/Chakra_(JavaScript_engine)" title="Chakra (JavaScript engine)">ChakraCore</a>
+<ul>
+<li><a href="/wiki/Chakra_(JScript_engine)" title="Chakra (JScript engine)">Chakra</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JScript_.NET" title="JScript .NET">JScript .NET</a></li>
+<li><a href="/wiki/Nashorn_(JavaScript_engine)" title="Nashorn (JavaScript engine)">Nashorn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_framework" title="Software framework">Frameworks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Client-side_JavaScript" class="mw-redirect" title="Client-side JavaScript">Client-side</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo</a></li>
+<li><a href="/wiki/Echo_(framework)" title="Echo (framework)">Echo</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Google Web Toolkit</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Lively_Kernel" title="Lively Kernel">Lively Kernel</a></li>
+<li><a href="/wiki/Midori_JavaScript_Framework" title="Midori JavaScript Framework">midori</a></li>
+<li><a href="/wiki/MochiKit" title="MochiKit">MochiKit</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Qooxdoo" title="Qooxdoo">qooxdoo</a></li>
+<li><a href="/wiki/Rialto_Toolkit" title="Rialto Toolkit">Rialto</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/SmartClient" title="SmartClient">SmartClient</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/Spry_framework" title="Spry framework">Spry</a></li>
+<li><a href="/wiki/Wakanda_(software)" title="Wakanda (software)">Wakanda Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Server-side_JavaScript" class="mw-redirect" title="Server-side JavaScript">Server-side</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppJet" title="AppJet">AppJet</a></li>
+<li><a href="/wiki/Jaxer#Aptana_Jaxer" class="mw-redirect" title="Jaxer">Jaxer</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/Wakanda_(software)" title="Wakanda (software)">WakandaDB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Multiple</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cappuccino_(application_development_framework)" title="Cappuccino (application development framework)">Cappuccino</a>
+<ul>
+<li><a href="/wiki/Objective-J" title="Objective-J">Objective-J</a></li>
+</ul>
+</li>
+<li><a href="/wiki/PureMVC" title="PureMVC">PureMVC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript_library" title="JavaScript library">Libraries</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/SWFObject" title="SWFObject">SWFObject</a></li>
+<li><a href="/wiki/SWFAddress" title="SWFAddress">SWFAddress</a></li>
+<li><a href="/wiki/Underscore.js" title="Underscore.js">Underscore.js</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brendan_Eich" title="Brendan Eich">Brendan Eich</a></li>
+<li><a href="/wiki/Douglas_Crockford" title="Douglas Crockford">Douglas Crockford</a></li>
+<li><a href="/wiki/John_Resig" title="John Resig">John Resig</a></li>
+<li><a href="/wiki/Scott_Isaacs" title="Scott Isaacs">Scott Isaacs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dynamic_HTML" title="Dynamic HTML">DHTML</a></li>
+<li><a href="/wiki/Ecma_International" title="Ecma International">Ecma International</a></li>
+<li><a href="/wiki/JSDoc" title="JSDoc">JSDoc</a></li>
+<li><a href="/wiki/JSGI" title="JSGI">JSGI</a></li>
+<li><a href="/wiki/JSHint" title="JSHint">JSHint</a></li>
+<li><a href="/wiki/JSLint" title="JSLint">JSLint</a></li>
+<li><a href="/wiki/JSON" title="JSON">JSON</a></li>
+<li><a href="/wiki/JavaScript_Style_Sheets" title="JavaScript Style Sheets">JSSS</a></li>
+<li><a href="/wiki/Sputnik_(JavaScript_conformance_test)" title="Sputnik (JavaScript conformance test)">Sputnik</a></li>
+<li><a href="/wiki/Browser_speed_test#SunSpider" title="Browser speed test">SunSpider</a></li>
+<li><a href="/wiki/Asynchronous_module_definition" title="Asynchronous module definition">Asynchronous module definition</a></li>
+<li><a href="/wiki/CommonJS" title="CommonJS">CommonJS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> Lists</dt>
+<dd><a href="/wiki/List_of_JavaScript_libraries" title="List of JavaScript libraries">JavaScript libraries</a></dd>
+<dd><a href="/wiki/List_of_Ajax_frameworks#JavaScript" title="List of Ajax frameworks">Ajax frameworks</a></dd>
+<dt><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> Comparisons</dt>
+<dd><a href="/wiki/Comparison_of_JavaScript_frameworks" title="Comparison of JavaScript frameworks">JavaScript frameworks</a></dd>
+<dd><a href="/wiki/Comparison_of_server-side_JavaScript_solutions" class="mw-redirect" title="Comparison of server-side JavaScript solutions">server-side JavaScript</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Node.js" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:NodeJs" title="Template:NodeJs"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:NodeJs" title="Template talk:NodeJs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NodeJs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Node.js" style="font-size:114%;margin:0 4em"><a href="/wiki/Node.js" title="Node.js">Node.js</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Platform</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/Npm_(software)" title="Npm (software)">NPM</a></li>
+<li><a href="/wiki/V8_(JavaScript_engine)" class="mw-redirect" title="V8 (JavaScript engine)">V8</a></li>
+<li><a href="/wiki/CommonJS" title="CommonJS">CommonJS</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Node.js_logo.svg" class="image"><img alt="Node.js logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/100px-Node.js_logo.svg.png" width="100" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/150px-Node.js_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png 2x" data-file-width="590" data-file-height="361" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Frameworks</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MEAN_(software_bundle)" title="MEAN (software bundle)">MEAN</a>
+<ul>
+<li><a href="/wiki/MongoDB" title="MongoDB">MongoDB</a></li>
+<li><a href="/wiki/Express.js" title="Express.js">Express.js</a></li>
+<li><a href="/wiki/AngularJS" title="AngularJS">AngularJS</a>/<a class="mw-selflink selflink">Angular</a></li>
+</ul>
+</li>
+<li>MEEN (substituted with <a href="/wiki/Ember.js" title="Ember.js">Ember.js</a>)</li>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Libraries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lodash" title="Lodash">Lodash</a></li>
+<li><a href="/wiki/Underscore.js" title="Underscore.js">Underscore.js</a></li>
+<li><a href="/wiki/React.js" class="mw-redirect" title="React.js">React.js</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Languages</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li>
+<li><a href="/wiki/CoffeeScript" title="CoffeeScript">CoffeeScript</a></li>
+<li><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Hosts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Joyent" title="Joyent">Joyent</a></li>
+<li><a href="/wiki/Nodejitsu" title="Nodejitsu">Nodejitsu</a></li>
+<li><a href="/wiki/OpenShift" title="OpenShift">OpenShift</a></li>
+<li><a href="/wiki/Linode" title="Linode">Linode</a></li>
+<li><a href="/wiki/DigitalOcean" title="DigitalOcean">DigitalOcean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20180217072118
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.392 seconds
+Real time usage: 0.502 seconds
+Preprocessor visited node count: 2149/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 107702/2097152 bytes
+Template argument size: 2972/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 3/500
+Lua time usage: 0.196/10.000 seconds
+Lua memory usage: 5.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  416.638      1 -total
+ 37.39%  155.763      2 Template:Infobox
+ 35.97%  149.853      1 Template:Reflist
+ 34.68%  144.506      1 Template:Infobox_software
+ 28.46%  118.592     15 Template:Cite_web
+ 11.48%   47.837      5 Template:Navbox
+  8.25%   34.353      1 Template:Unreferenced
+  7.10%   29.580      1 Template:Ambox
+  7.07%   29.436      1 Template:Plainlist
+  6.51%   27.133      1 Template:Infobox_software/simple
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:53385622-0!canonical and timestamp 20180217072118 and revision id 825400512
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Angular_(application_platform)&amp;oldid=825400512">https://en.wikipedia.org/w/index.php?title=Angular_(application_platform)&amp;oldid=825400512</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Google_software" title="Category:Google software">Google software</a></li><li><a href="/wiki/Category:Typescript_libraries" title="Category:Typescript libraries">Typescript libraries</a></li><li><a href="/wiki/Category:Rich_Internet_application_frameworks" title="Category:Rich Internet application frameworks">Rich Internet application frameworks</a></li><li><a href="/wiki/Category:Software_using_the_MIT_license" title="Category:Software using the MIT license">Software using the MIT license</a></li><li><a href="/wiki/Category:Ajax_(programming)" title="Category:Ajax (programming)">Ajax (programming)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2017" title="Category:Articles needing additional references from September 2017">Articles needing additional references from September 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Angular+%28application+platform%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Angular+%28application+platform%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Angular_(application_platform)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Angular_(application_platform)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Angular_(application_platform)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Angular_(application_platform)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Angular_(application_platform)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Angular_(application_platform)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Angular_(application_platform)&amp;oldid=825400512" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Angular_(application_platform)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28925578" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Angular_%28application_platform%29&amp;id=825400512" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Angular+%28application+platform%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Angular+%28application+platform%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Angular_(application_platform)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:AngularJS" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Angular" title="Angular – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Angular_(framework)" title="Angular (framework) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Angular" title="Angular – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Angular" title="Angular – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Angular_(plataforma_de_aplica%C3%A7%C3%B5es)" title="Angular (plataforma de aplicações) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Angular_(%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)" title="Angular (фреймворк) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28925578#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 February 2018, at 04:50.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Angular_(application_platform)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.502","ppvisitednodes":{"value":2149,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":107702,"limit":2097152},"templateargumentsize":{"value":2972,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  416.638      1 -total"," 37.39%  155.763      2 Template:Infobox"," 35.97%  149.853      1 Template:Reflist"," 34.68%  144.506      1 Template:Infobox_software"," 28.46%  118.592     15 Template:Cite_web"," 11.48%   47.837      5 Template:Navbox","  8.25%   34.353      1 Template:Unreferenced","  7.10%   29.580      1 Template:Ambox","  7.07%   29.436      1 Template:Plainlist","  6.51%   27.133      1 Template:Infobox_software/simple"]},"scribunto":{"limitreport-timeusage":{"value":"0.196","limit":"10.000"},"limitreport-memusage":{"value":6143244,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20180217072118","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":586,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

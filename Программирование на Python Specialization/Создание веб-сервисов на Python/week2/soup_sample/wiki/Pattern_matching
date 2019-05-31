@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pattern matching - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pattern_matching","wgTitle":"Pattern matching","wgCurRevisionId":823956046,"wgRevisionId":823956046,"wgArticleId":279688,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2011","All articles needing additional references","Articles to be expanded from May 2008","All articles to be expanded","Articles using small message boxes","All articles with unsourced statements","Articles with unsourced statements from November 2011","Articles with example Haskell code","Pattern matching","Conditional constructs","Functional programming"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pattern_matching","wgRelevantArticleId":279688,"wgRequestId":"Wn@WxApAMEoAAFAPQSwAAACJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1503724","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pattern_matching"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pattern_matching&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pattern_matching&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pattern_matching"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pattern_matching rootpage-Pattern_matching skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Pattern matching</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about pattern matching in <a href="/wiki/Functional_programming" title="Functional programming">functional programming</a>. For other uses, see <a href="/wiki/String_matching" class="mw-redirect" title="String matching">string matching</a> and <a href="/wiki/Pattern_recognition" title="Pattern recognition">pattern recognition</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For the use of variable matching criteria in defining abstract patterns to match, see <a href="/wiki/Regular_expression" title="Regular expression">regular expression</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pattern_matching&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a>, <b>pattern matching</b> is the act of checking a given <b>sequence</b> of tokens for the presence of the constituents of some <a href="/wiki/Pattern" title="Pattern">pattern</a>. In contrast to <a href="/wiki/Pattern_recognition" title="Pattern recognition">pattern recognition</a>, the match usually has to be exact. The patterns generally have the form of either <a href="/wiki/String_(computer_science)" title="String (computer science)">sequences</a> or <a href="/wiki/Tree_structure" title="Tree structure">tree structures</a>. Uses of pattern matching include outputting the locations (if any) of a pattern within a token sequence, to output some component of the matched pattern, and to substitute the matching pattern with some other token sequence (i.e., <a href="/wiki/Regular_expression" title="Regular expression">search and replace</a>).</p>
+<p>Sequence patterns (e.g., a text string) are often described using <a href="/wiki/Regular_expression" title="Regular expression">regular expressions</a> and matched using techniques such as <a href="/wiki/Backtracking" title="Backtracking">backtracking</a>.</p>
+<p>Tree patterns are used in some <a href="/wiki/Programming_language" title="Programming language">programming languages</a> as a general tool to process data based on its structure, e.g., <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a>, <a href="/wiki/ML_programming_language" class="mw-redirect" title="ML programming language">ML</a>, <a href="/wiki/Scala_programming_language" class="mw-redirect" title="Scala programming language">Scala</a> and the symbolic mathematics language <a href="/wiki/Mathematica" class="mw-redirect" title="Mathematica">Mathematica</a> have special syntax for expressing tree patterns and a <a href="/wiki/Language_construct" title="Language construct">language construct</a> for <a href="/wiki/Conditional_(programming)" class="mw-redirect" title="Conditional (programming)">conditional execution</a> and value retrieval based on it. For simplicity and efficiency reasons, these tree patterns lack some features that are available in regular expressions.</p>
+<p>Often it is possible to give alternative patterns that are tried one by one, which yields a powerful <a href="/wiki/Conditional_(programming)" class="mw-redirect" title="Conditional (programming)">conditional programming construct</a>. Pattern matching sometimes includes support for <a href="/wiki/Guard_(computing)" class="mw-redirect" title="Guard (computing)">guards</a>.</p>
+<p><a href="/wiki/Term_rewriting" class="mw-redirect" title="Term rewriting">Term rewriting</a> and <a href="/wiki/Graph_rewriting" title="Graph rewriting">graph rewriting</a> languages rely on pattern matching for the fundamental way a program evaluates into a result.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Primitive_patterns"><span class="tocnumber">2</span> <span class="toctext">Primitive patterns</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Tree_patterns"><span class="tocnumber">3</span> <span class="toctext">Tree patterns</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Filtering_data_with_patterns"><span class="tocnumber">4</span> <span class="toctext">Filtering data with patterns</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Pattern_matching_in_Mathematica"><span class="tocnumber">5</span> <span class="toctext">Pattern matching in Mathematica</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Declarative_programming"><span class="tocnumber">5.1</span> <span class="toctext">Declarative programming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Pattern_matching_and_strings"><span class="tocnumber">6</span> <span class="toctext">Pattern matching and strings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Tree_patterns_for_strings"><span class="tocnumber">6.1</span> <span class="toctext">Tree patterns for strings</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Example_string_patterns"><span class="tocnumber">6.2</span> <span class="toctext">Example string patterns</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#SNOBOL"><span class="tocnumber">6.3</span> <span class="toctext">SNOBOL</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(May 2008)</i></small></div>
+</td>
+</tr>
+</table>
+<p>The first computer programs to use pattern matching were text editors.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="obviously, the first programs doing pattern matching, even if ad hoc would have been compilers which came long before interactive text editors (November 2011)">citation needed</span></a></i>]</sup> At <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a>, <a href="/wiki/Ken_Thompson_(computer_programmer)" class="mw-redirect" title="Ken Thompson (computer programmer)">Ken Thompson</a> extended the seeking and replacing features of the <a href="/wiki/QED_(text_editor)" title="QED (text editor)">QED editor</a> to accept <a href="/wiki/Regular_expression" title="Regular expression">regular expressions</a>. Early programming languages with pattern matching constructs include <a href="/wiki/SNOBOL" title="SNOBOL">SNOBOL</a> from 1962, <a href="/wiki/USSR" class="mw-redirect" title="USSR">Soviet</a> language <a href="/wiki/Refal" title="Refal">Refal</a> from 1968 with tree-based pattern matching, <a href="/wiki/SASL_programming_language" class="mw-redirect" title="SASL programming language">SASL</a> from 1976, <a href="/wiki/NPL_programming_language" class="mw-redirect" title="NPL programming language">NPL</a> from 1977, and <a href="/wiki/Kent_Recursive_Calculator" title="Kent Recursive Calculator">KRC</a> from 1981. Another programming language with tree-based pattern matching features was Fred McBride's extension of <a href="/wiki/LISP" class="mw-redirect" title="LISP">LISP</a>, in 1970.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Regular_expression#History" title="Regular expression">Regular expression §&#160;History</a></div>
+<h2><span class="mw-headline" id="Primitive_patterns">Primitive patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=2" title="Edit section: Primitive patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The simplest pattern in pattern matching is an explicit value or a variable. For an example, consider a simple function definition in Haskell syntax (function parameters are not in parentheses but are separated by spaces, = is not assignment but definition):</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="n">f</span> <span class="mi">0</span> <span class="ow">=</span> <span class="mi">1</span>
+</pre></div>
+<p>Here, 0 is a single value pattern. Now, whenever f is given 0 as argument the pattern matches and the function returns 1. With any other argument, the matching and thus the function fail. As the syntax supports alternative patterns in function definitions, we can continue the definition extending it to take more generic arguments:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="n">f</span> <span class="n">n</span> <span class="ow">=</span> <span class="n">n</span> <span class="o">*</span> <span class="n">f</span> <span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+</pre></div>
+<p>Here, the first <code>n</code> is a single variable pattern, which will match absolutely any argument and bind it to name n to be used in the rest of the definition. In Haskell (unlike at least <a href="/wiki/Hope_programming_language" class="mw-redirect" title="Hope programming language">Hope</a>), patterns are tried in order so the first definition still applies in the very specific case of the input being 0, while for any other argument the function returns <code>n * f (n-1)</code> with n being the argument.</p>
+<p>The wildcard pattern (often written as <code>_</code>) is also simple: like a variable name, it matches any value, but does not bind the value to any name.</p>
+<h2><span class="mw-headline" id="Tree_patterns">Tree patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=3" title="Edit section: Tree patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>More complex patterns can be built from the primitive ones of the previous section, usually in the same way as values are built by combining other values. The difference then is that with variable and wildcard parts, a pattern doesn't build into a single value, but matches a group of values that are the combination of the concrete elements and the elements that are allowed to vary within the structure of the pattern.</p>
+<p>A tree pattern describes a part of a tree by starting with a node and specifying some branches and nodes and leaving some unspecified with a variable or wildcard pattern. It may help to think of the <a href="/wiki/Abstract_syntax_tree" title="Abstract syntax tree">abstract syntax tree</a> of a programming language and <a href="/wiki/Algebraic_data_type" title="Algebraic data type">algebraic data types</a>.</p>
+<p>In Haskell, the following line defines an algebraic data type <code>Color</code> that has a single data constructor <code>ColorConstructor</code> that wraps an integer and a string.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="kr">data</span> <span class="kt">Color</span> <span class="ow">=</span> <span class="kt">ColorConstructor</span> <span class="kt">Integer</span> <span class="kt">String</span>
+</pre></div>
+<p>The constructor is a node in a tree and the integer and string are leaves in branches.</p>
+<p>When we want to write <a href="/wiki/Function_(programming)" class="mw-redirect" title="Function (programming)">functions</a> to make <code>Color</code> an <a href="/wiki/Abstract_data_type" title="Abstract data type">abstract data type</a>, we wish to write functions to <a href="/wiki/Interface_(computer_science)" class="mw-redirect" title="Interface (computer science)">interface</a> with the data type, and thus we want to extract some data from the data type, for example, just the string or just the integer part of <code>Color</code>.</p>
+<p>If we pass a variable that is of type Color, how can we get the data out of this variable? For example, for a function to get the integer part of <code>Color</code>, we can use a simple tree pattern and write:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="n">integerPart</span> <span class="p">(</span><span class="kt">ColorConstructor</span> <span class="n">theInteger</span> <span class="kr">_</span><span class="p">)</span> <span class="ow">=</span> <span class="n">theInteger</span>
+</pre></div>
+<p>As well:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="n">stringPart</span> <span class="p">(</span><span class="kt">ColorConstructor</span> <span class="kr">_</span> <span class="n">theString</span><span class="p">)</span> <span class="ow">=</span> <span class="n">theString</span>
+</pre></div>
+<p>The creations of these functions can be automated by Haskell's data record syntax.</p>
+<h2><span class="mw-headline" id="Filtering_data_with_patterns">Filtering data with patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=4" title="Edit section: Filtering data with patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pattern matching can be used to filter data of a certain structure. For instance, in Haskell a <a href="/wiki/List_comprehension" title="List comprehension">list comprehension</a> could be used for this kind of filtering:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="p">[</span><span class="kt">A</span> <span class="n">x</span><span class="o">|</span><span class="kt">A</span> <span class="n">x</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="kt">A</span> <span class="mi">1</span><span class="p">,</span> <span class="kt">B</span> <span class="mi">1</span><span class="p">,</span> <span class="kt">A</span> <span class="mi">2</span><span class="p">,</span> <span class="kt">B</span> <span class="mi">2</span><span class="p">]]</span>
+</pre></div>
+<p>evaluates to</p>
+<pre>
+[A 1, A 2]
+</pre>
+<h2><span class="mw-headline" id="Pattern_matching_in_Mathematica">Pattern matching in Mathematica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=5" title="Edit section: Pattern matching in Mathematica">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Mathematica" class="mw-redirect" title="Mathematica">Mathematica</a>, the only structure that exists is the <a href="/wiki/Tree_(data_structure)" title="Tree (data structure)">tree</a>, which is populated by symbols. In the <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a> syntax used thus far, this could be defined as</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">data</span><span class="w"> </span><span class="n">SymbolTree</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Symbol</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="p">[</span><span class="n">SymbolTree</span><span class="p">]</span>
+</pre></div>
+<p>An example tree could then look like</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">Symbol</span><span class="w"> </span><span class="s">"a"</span><span class="w"> </span><span class="p">[</span><span class="n">Symbol</span><span class="w"> </span><span class="s">"b"</span><span class="w"> </span><span class="p">[],</span><span class="w"> </span><span class="n">Symbol</span><span class="w"> </span><span class="s">"c"</span><span class="w"> </span><span class="p">[]</span><span class="w"> </span><span class="p">]</span>
+</pre></div>
+<p>In the traditional, more suitable syntax, the symbols are written as they are and the levels of the tree are represented using [], so that for instance <code>a[b,c]</code> is a tree with a as the parent, and b and c as the children.</p>
+<p>A pattern in Mathematica involves putting "_" at positions in that tree. For instance, the pattern</p>
+<pre>
+A[_]
+</pre>
+<p>will match elements such as A[1], A[2], or more generally A[<i>x</i>] where <i>x</i> is any entity. In this case, <code>A</code> is the concrete element, while <code>_</code> denotes the piece of tree that can be varied. A symbol prepended to <code>_</code> binds the match to that variable name while a symbol appended to <code>_</code> restricts the matches to nodes of that symbol. Note that even blanks themselves are internally represented as <code>Blank[]</code> for <code>_</code> and <code>Blank[x]</code> for <code>_x</code>.</p>
+<p>The Mathematica function <code>Cases</code> filters elements of the first argument that match the pattern in the second argument:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">Cases</span><span class="p">[{</span><span class="n">a</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="w"> </span><span class="n">b</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="mi">2</span><span class="p">],</span><span class="w"> </span><span class="n">b</span><span class="p">[</span><span class="mi">2</span><span class="p">]},</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="nv">_</span><span class="p">]</span><span class="w"> </span><span class="p">]</span>
+</pre></div>
+<p>evaluates to</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="p">{</span><span class="n">a</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="mi">2</span><span class="p">]}</span>
+</pre></div>
+<p>Pattern matching applies to the <i>structure</i> of expressions. In the example below,</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">Cases</span><span class="p">[</span><span class="w"> </span><span class="p">{</span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">,</span><span class="w"> </span><span class="n">c</span><span class="p">],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">[</span><span class="n">c</span><span class="p">],</span><span class="w"> </span><span class="n">d</span><span class="p">],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">[</span><span class="n">c</span><span class="p">],</span><span class="w"> </span><span class="n">d</span><span class="p">[</span><span class="n">e</span><span class="p">]],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">[</span><span class="n">c</span><span class="p">],</span><span class="w"> </span><span class="n">d</span><span class="p">,</span><span class="w"> </span><span class="n">e</span><span class="p">]},</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">[</span><span class="nv">_</span><span class="p">],</span><span class="w"> </span><span class="nv">_</span><span class="p">]</span><span class="w"> </span><span class="p">]</span>
+</pre></div>
+<p>returns</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="p">{</span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">[</span><span class="n">c</span><span class="p">],</span><span class="n">d</span><span class="p">],</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">b</span><span class="p">[</span><span class="n">c</span><span class="p">],</span><span class="n">d</span><span class="p">[</span><span class="n">e</span><span class="p">]]}</span>
+</pre></div>
+<p>because only these elements will match the pattern <code>a[b[_],_]</code> above.</p>
+<p>In Mathematica, it is also possible to extract structures as they are created in the course of computation, regardless of how or where they appear. The function <code>Trace</code> can be used to monitor a computation, and return the elements that arise which match a pattern. For example, we can define the <a href="/wiki/Fibonacci_number" title="Fibonacci number">Fibonacci sequence</a> as</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">fib</span><span class="p">[</span><span class="mi">0</span><span class="o">|</span><span class="mi">1</span><span class="p">]</span><span class="o">:=</span><span class="mi">1</span>
+<span class="w"> </span><span class="n">fib</span><span class="p">[</span><span class="nv">n_</span><span class="p">]</span><span class="o">:=</span><span class="w"> </span><span class="n">fib</span><span class="p">[</span><span class="n">n</span><span class="mi">-1</span><span class="p">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">fib</span><span class="p">[</span><span class="n">n</span><span class="mi">-2</span><span class="p">]</span>
+</pre></div>
+<p>Then, we can ask the question: Given fib[3], what is the sequence of recursive Fibonacci calls?</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">Trace</span><span class="p">[</span><span class="n">fib</span><span class="p">[</span><span class="mi">3</span><span class="p">],</span><span class="w"> </span><span class="n">fib</span><span class="p">[[</span><span class="nv">_</span><span class="p">]]</span>
+</pre></div>
+<p>returns a structure that represents the occurrences of the pattern <code>fib[_]</code> in the computational structure:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="p">{</span><span class="n">fib</span><span class="p">[</span><span class="mi">3</span><span class="p">],{</span><span class="n">fib</span><span class="p">[</span><span class="mi">2</span><span class="p">],{</span><span class="n">fib</span><span class="p">[</span><span class="mi">1</span><span class="p">]},{</span><span class="n">fib</span><span class="p">[</span><span class="mi">0</span><span class="p">]}},{</span><span class="n">fib</span><span class="p">[</span><span class="mi">1</span><span class="p">]}}</span>
+</pre></div>
+<h3><span class="mw-headline" id="Declarative_programming">Declarative programming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=6" title="Edit section: Declarative programming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In symbolic programming languages, it is easy to have patterns as arguments to functions or as elements of data structures. A consequence of this is the ability to use patterns to declaratively make statements about pieces of data and to flexibly instruct functions how to operate.</p>
+<p>For instance, the <a href="/wiki/Mathematica" class="mw-redirect" title="Mathematica">Mathematica</a> function <code>Compile</code> can be used to make more efficient versions of the code. In the following example the details do not particularly matter; what matters is that the subexpression <code>{{com[_], Integer}}</code> instructs <code>Compile</code> that expressions of the form <code>com[_]</code> can be assumed to be <a href="/wiki/Integer" title="Integer">integers</a> for the purposes of compilation:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="w"> </span><span class="n">com</span><span class="p">[</span><span class="nv">i_</span><span class="p">]</span><span class="w"> </span><span class="o">:=</span><span class="w"> </span><span class="n">Binomial</span><span class="p">[</span><span class="mi">2</span><span class="n">i</span><span class="p">,</span><span class="w"> </span><span class="n">i</span><span class="p">]</span>
+<span class="w"> </span><span class="n">Compile</span><span class="p">[{</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="p">{</span><span class="n">i</span><span class="p">,</span><span class="w"> </span><span class="nv">_Integer</span><span class="p">}},</span><span class="w"> </span><span class="n">x</span><span class="o">^</span><span class="n">com</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="w"> </span><span class="p">{{</span><span class="n">com</span><span class="p">[</span><span class="nv">_</span><span class="p">],</span><span class="w">  </span><span class="n">Integer</span><span class="p">}}]</span>
+</pre></div>
+<p>Mailboxes in <a href="/wiki/Erlang_programming_language" class="mw-redirect" title="Erlang programming language">Erlang</a> also work this way.</p>
+<p>The <a href="/wiki/Curry-Howard_correspondence" class="mw-redirect" title="Curry-Howard correspondence">Curry-Howard correspondence</a> between proofs and programs relates <a href="/wiki/ML_(programming_language)" title="ML (programming language)">ML</a>-style pattern matching to <a href="/wiki/Proof_by_cases" class="mw-redirect" title="Proof by cases">case analysis</a> and <a href="/wiki/Proof_by_exhaustion" title="Proof by exhaustion">proof by exhaustion</a>.</p>
+<h2><span class="mw-headline" id="Pattern_matching_and_strings">Pattern matching and strings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=7" title="Edit section: Pattern matching and strings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By far the most common form of pattern matching involves strings of characters. In many programming languages, a particular syntax of strings is used to represent regular expressions, which are patterns describing string characters.</p>
+<p>However, it is possible to perform some string pattern matching within the same framework that has been discussed throughout this article.</p>
+<h3><span class="mw-headline" id="Tree_patterns_for_strings">Tree patterns for strings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=8" title="Edit section: Tree patterns for strings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Mathematica, strings are represented as trees of root StringExpression and all the characters in order as children of the root. Thus, to match "any amount of trailing characters", a new wildcard ___ is needed in contrast to _ that would match only a single character.</p>
+<p>In Haskell and functional programming languages in general, strings are represented as functional <a href="/wiki/List_(computing)" class="mw-redirect" title="List (computing)">lists</a> of characters. A functional list is defined as an empty list, or an element constructed on an existing list. In Haskell syntax:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="kt">[]</span> <span class="c1">-- an empty list</span>
+ <span class="n">x</span><span class="kt">:</span><span class="n">xs</span> <span class="c1">-- an element x constructed on a list xs</span>
+</pre></div>
+<p>The structure for a list with some elements is thus <code>element:list</code>. When pattern matching, we assert that a certain piece of data is equal to a certain pattern. For example, in the function:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="n">head</span> <span class="p">(</span><span class="n">element</span><span class="kt">:</span><span class="n">list</span><span class="p">)</span> <span class="ow">=</span> <span class="n">element</span>
+</pre></div>
+<p>we assert that the first element of <code>head</code>'s argument is called element, and the function returns this. We know that this is the first element because of the way lists are defined, a single element constructed onto a list. This single element must be the first. The empty list would not match the pattern at all, as an empty list does not have a head (the first element that is constructed).</p>
+<p>In the example, we have no use for <code>list</code>, so we can disregard it, and thus write the function:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="n">head</span> <span class="p">(</span><span class="n">element</span><span class="kt">:</span><span class="kr">_</span><span class="p">)</span> <span class="ow">=</span> <span class="n">element</span>
+</pre></div>
+<p>The equivalent Mathematica transformation is expressed as</p>
+<pre>
+head[element, ]:=element
+</pre>
+<h3><span class="mw-headline" id="Example_string_patterns">Example string patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=9" title="Edit section: Example string patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Mathematica, for instance,</p>
+<pre>
+StringExpression["a",_]
+</pre>
+<p>will match a string that has two characters and begins with "a".</p>
+<p>The same pattern in Haskell:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="p">[</span><span class="sc">'a'</span><span class="p">,</span> <span class="kr">_</span><span class="p">]</span>
+</pre></div>
+<p>Symbolic entities can be introduced to represent many different classes of relevant features of a string. For instance,</p>
+<pre>
+StringExpression[LetterCharacter, DigitCharacter]
+</pre>
+<p>will match a string that consists of a letter first, and then a number.</p>
+<p>In Haskell, <a href="/wiki/Guard_(computing)" class="mw-redirect" title="Guard (computing)">guards</a> could be used to achieve the same matches:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="p">[</span><span class="n">letter</span><span class="p">,</span> <span class="n">digit</span><span class="p">]</span> <span class="o">|</span> <span class="n">isAlpha</span> <span class="n">letter</span> <span class="o">&amp;&amp;</span> <span class="n">isDigit</span> <span class="n">digit</span>
+</pre></div>
+<p>The main advantage of symbolic string manipulation is that it can be completely integrated with the rest of the programming language, rather than being a separate, special purpose subunit. The entire power of the language can be leveraged to build up the patterns themselves or analyze and transform the programs that contain them.</p>
+<h3><span class="mw-headline" id="SNOBOL">SNOBOL</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=10" title="Edit section: SNOBOL">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/SNOBOL" title="SNOBOL">SNOBOL</a></div>
+<p>SNOBOL (<i>StriNg Oriented and symBOlic Language</i>) is a computer programming language developed between 1962 and 1967 at <a href="/wiki/AT%26T_Corporation" title="AT&amp;T Corporation">AT&amp;T</a> <a href="/wiki/Bell_Laboratories" class="mw-redirect" title="Bell Laboratories">Bell Laboratories</a> by <a href="/wiki/David_J._Farber" title="David J. Farber">David J. Farber</a>, <a href="/wiki/Ralph_E._Griswold" class="mw-redirect" title="Ralph E. Griswold">Ralph E. Griswold</a> and <a href="/w/index.php?title=Ivan_P._Polonsky&amp;action=edit&amp;redlink=1" class="new" title="Ivan P. Polonsky (page does not exist)">Ivan P. Polonsky</a>.</p>
+<p>SNOBOL4 stands apart from most programming languages by having patterns as a <a href="/wiki/First-class_object" class="mw-redirect" title="First-class object">first-class data type</a> (<i>i.e.</i> a data type whose values can be manipulated in all ways permitted to any other data type in the programming language) and by providing operators for pattern <a href="/wiki/Concatenation" title="Concatenation">concatenation</a> and <a href="/wiki/Alternation_(formal_language_theory)" title="Alternation (formal language theory)">alternation</a>. Strings generated during execution can be treated as programs and executed.</p>
+<p>SNOBOL was quite widely taught in larger US universities in the late 1960s and early 1970s and was widely used in the 1970s and 1980s as a text manipulation language in the <a href="/wiki/Humanities" title="Humanities">humanities</a>.</p>
+<p>Since SNOBOL's creation, newer languages such as <a href="/wiki/Awk" class="mw-redirect" title="Awk">Awk</a> and <a href="/wiki/Perl" title="Perl">Perl</a> have made string manipulation by means of <a href="/wiki/Regular_expression" title="Regular expression">regular expressions</a> fashionable. SNOBOL4 patterns, however, subsume <a href="/wiki/Backus%E2%80%93Naur_form" title="Backus–Naur form">BNF</a> grammars, which are equivalent to <a href="/wiki/Context-free_grammar" title="Context-free grammar">context-free grammars</a> and more powerful than <a href="/wiki/Regular_expression" title="Regular expression">regular expressions</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/AIML" title="AIML">AIML</a> for an AI language based on matching patterns in speech</li>
+<li><a href="/wiki/AWK" title="AWK">AWK language</a></li>
+<li><a href="/wiki/Coccinelle_(software)" title="Coccinelle (software)">Coccinelle</a> pattern matches C source code</li>
+<li><a href="/wiki/Glob_(programming)" title="Glob (programming)">glob (programming)</a></li>
+<li><a href="/wiki/Pattern_calculus" title="Pattern calculus">Pattern calculus</a></li>
+<li><a href="/wiki/Pattern_recognition" title="Pattern recognition">Pattern recognition</a> for fuzzy patterns</li>
+<li><a href="/wiki/PCRE" class="mw-redirect" title="PCRE">PCRE</a> Perl Compatible Regular Expressions, a common modern implementation of string pattern matching ported to many languages</li>
+<li><a href="/wiki/REBOL#parse" class="mw-redirect" title="REBOL">REBOL parse dialect</a> for pattern matching used to implement language dialects</li>
+<li><a href="/wiki/Symbolic_integration" title="Symbolic integration">Symbolic integration</a></li>
+<li><a href="/wiki/Tom_(pattern_matching_language)" title="Tom (pattern matching language)">Tom (pattern matching language)</a></li>
+<li><a href="/wiki/SNOBOL" title="SNOBOL">SNOBOL</a> for a programming language based on one kind of pattern matching</li>
+<li><a href="/wiki/Unification_(computing)" class="mw-redirect" title="Unification (computing)">Unification</a>, a similar concept in <a href="/wiki/Prolog" title="Prolog">Prolog</a></li>
+<li><a href="/wiki/Pattern_language" title="Pattern language">Pattern language</a> — metaphoric, drawn from architecture</li>
+<li><a href="/wiki/Graph_matching" title="Graph matching">Graph matching</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li>The Mathematica Book, chapter <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170409021442/http://www.reouterhelpsupport.com/arris-customer-service.php">arris customer support phone number</a></li>
+<li>The Haskell 98 Report, chapter <a rel="nofollow" class="external text" href="http://haskell.org/onlinereport/exps.html#pattern-matching">3.17 Pattern Matching</a>.</li>
+<li>Python Reference Manual, chapter <a rel="nofollow" class="external text" href="https://docs.python.org/2/reference/simple_stmts.html#assignment-statements">6.3 Assignment statements</a>.</li>
+<li>The <a href="/wiki/Pure_(programming_language)" title="Pure (programming language)">Pure</a> Programming Language, chapter <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110711112227/http://pure-lang.googlecode.com/svn/docs/pure-intro/pure-intro.pdf">4.3: Patterns</a></li>
+</ul>
+</div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070203111451/http://www.cs.nott.ac.uk/~ctm/view.ps.gz">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.cs.nott.ac.uk/~ctm/view.ps.gz">the original</a> on 2007-02-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.cs.nott.ac.uk%2F~ctm%2Fview.ps.gz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APattern+matching" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Gimpel, J. F. 1973. A theory of discrete patterns and their implementation in SNOBOL4. Commun. ACM 16, 2 (Feb. 1973), 91–100. DOI=<a rel="nofollow" class="external free" href="http://doi.acm.org/10.1145/361952.361960">http://doi.acm.org/10.1145/361952.361960</a>.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pattern_matching&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">The Wikibook <i><a href="https://en.wikibooks.org/wiki/Haskell" class="extiw" title="wikibooks:Haskell">Haskell</a></i> has a page on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Haskell/Pattern_matching" class="extiw" title="wikibooks:Haskell/Pattern matching">Pattern matching</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.haskell.org/tutorial/patterns.html">A Gentle Introduction to Haskell: Patterns</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.is/19990225161739/http://www.haskell.org/development/views.html">Views: An Extension to Haskell Pattern Matching</a></li>
+<li>Nikolaas N. Oosterhof, Philip K. F. Hölzenspies, and Jan Kuper. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060304053330/http://wwwhome.cs.utwente.nl/~tina/apm/applPatts.pdf">Application patterns</a>. A presentation at Trends in Functional Programming, 2005</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/Projects/jmatch">JMatch</a>: the Java programming language extended with pattern matching</li>
+<li><a rel="nofollow" class="external text" href="https://archive.is/20130630081135/http://www.showtrend.com/">ShowTrend</a>: Online pattern matching for stock prices</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060211020429/http://cm.bell-labs.com/cm/cs/who/dmr/qed.html">An incomplete history of the QED Text Editor</a> by Dennis Ritchie - provides the history of regular expressions in computer programs</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/~simonpj/papers/slpj-book-1987/index.htm">The Implementation of Functional Programming Languages, pages 53–103</a> Simon Peyton Jones, published by Prentice Hall, 1987.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/rsdn/nemerle/wiki/Grok-Variants-and-matching#matching">Nemerle, pattern matching</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://erlang.org/doc/reference_manual/expressions.html#pattern">Erlang, pattern matching</a>.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090822225301/http://www.cs.nyu.edu/leunga/prop.html">Prop: a C++ based pattern matching language, 1999</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/Henry/PatMat">PatMat: a C++ pattern matching library based on</a> <a href="/wiki/SNOBOL" title="SNOBOL">SNOBOL</a>/<a href="/wiki/SPITBOL" title="SPITBOL">SPITBOL</a></li>
+<li>Temur Kutsia. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1016/j.jsc.2008.05.001">Flat Matching</a>. Journal of Symbolic Computation 43(12): 858–873. Describes in details flat matching in Mathematica.</li>
+<li><a rel="nofollow" class="external text" href="http://www.datamystic.com/easypatterns_reference.html">EasyPattern language</a> pattern matching language for non-programmers</li>
+<li><a rel="nofollow" class="external text" href="https://www.academia.edu/31957815/Improved_Pattern_Matching_Applied_to_Surface_Mounting_Devices_Components_Localization_on_Automated_Optical_Inspection">Improved Fast Pattern Matching</a> Improved Fast Pattern Matching</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20180211010508
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.207 seconds
+Preprocessor visited node count: 771/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13774/2097152 bytes
+Template argument size: 1160/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.055/10.000 seconds
+Lua memory usage: 2.45 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  166.988      1 -total
+ 22.91%   38.264      1 Template:Reflist
+ 18.56%   30.998      1 Template:Refimprove
+ 17.91%   29.905      1 Template:Cite_web
+ 17.59%   29.378      1 Template:Citation_needed
+ 16.10%   26.879      1 Template:Fix
+ 15.74%   26.289      2 Template:Ambox
+ 12.27%   20.495      1 Template:About
+  9.68%   16.167      1 Template:Delink
+  6.77%   11.307      1 Template:Wikibooks
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:279688-0!canonical and timestamp 20180211010508 and revision id 823956046
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pattern_matching&amp;oldid=823956046">https://en.wikipedia.org/w/index.php?title=Pattern_matching&amp;oldid=823956046</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pattern_matching" title="Category:Pattern matching">Pattern matching</a></li><li><a href="/wiki/Category:Conditional_constructs" title="Category:Conditional constructs">Conditional constructs</a></li><li><a href="/wiki/Category:Functional_programming" title="Category:Functional programming">Functional programming</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2011" title="Category:Articles needing additional references from February 2011">Articles needing additional references from February 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2008" title="Category:Articles to be expanded from May 2008">Articles to be expanded from May 2008</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2011" title="Category:Articles with unsourced statements from November 2011">Articles with unsourced statements from November 2011</a></li><li><a href="/wiki/Category:Articles_with_example_Haskell_code" title="Category:Articles with example Haskell code">Articles with example Haskell code</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pattern+matching" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pattern+matching" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Pattern_matching" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Pattern_matching" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Pattern_matching">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Pattern_matching&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pattern_matching&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pattern_matching" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pattern_matching" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pattern_matching&amp;oldid=823956046" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pattern_matching&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1503724" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pattern_matching&amp;id=823956046" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pattern+matching">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pattern+matching&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pattern_matching&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%95%E0%A6%B0%E0%A6%A3" title="বিন্যাস মিলকরণ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Comprovaci%C3%B3_de_patrons" title="Comprovació de patrons – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/M%C3%B8nstergenkendelse" title="Mønstergenkendelse – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pattern_Matching" title="Pattern Matching – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/B%C3%BAsqueda_de_patrones" title="Búsqueda de patrones – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B7%D8%A8%DB%8C%D9%82_%D8%A7%D9%84%DA%AF%D9%88" title="تطبیق الگو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Filtrage_par_motif" title="Filtrage par motif – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Patroonvergelijking" title="Patroonvergelijking – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0" title="パターンマッチング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dopasowanie_do_wzorca" title="Dopasowanie do wzorca – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Casamento_de_padr%C3%B5es" title="Casamento de padrões – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%BE%D0%BC" title="Сопоставление с образцом – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Pattern_matching" title="Pattern matching – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1503724#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 February 2018, at 13:08.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pattern_matching&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.207","ppvisitednodes":{"value":771,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13774,"limit":2097152},"templateargumentsize":{"value":1160,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  166.988      1 -total"," 22.91%   38.264      1 Template:Reflist"," 18.56%   30.998      1 Template:Refimprove"," 17.91%   29.905      1 Template:Cite_web"," 17.59%   29.378      1 Template:Citation_needed"," 16.10%   26.879      1 Template:Fix"," 15.74%   26.289      2 Template:Ambox"," 12.27%   20.495      1 Template:About","  9.68%   16.167      1 Template:Delink","  6.77%   11.307      1 Template:Wikibooks"]},"scribunto":{"limitreport-timeusage":{"value":"0.055","limit":"10.000"},"limitreport-memusage":{"value":2566606,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20180211010508","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":296,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

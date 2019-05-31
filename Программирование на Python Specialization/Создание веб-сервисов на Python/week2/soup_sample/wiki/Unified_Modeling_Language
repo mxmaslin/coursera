@@ -1,0 +1,1391 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Unified Modeling Language - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Unified_Modeling_Language","wgTitle":"Unified Modeling Language","wgCurRevisionId":822526090,"wgRevisionId":822526090,"wgArticleId":32169,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use American English from January 2012","All Wikipedia articles written in American English","Use dmy dates from July 2011","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Architecture description language","Data modeling languages","Data modeling diagrams","Diagrams","Knowledge representation","ISO standards","Specification languages","Unified Modeling Language","Software modeling language"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Unified_Modeling_Language","wgRelevantArticleId":32169,"wgRequestId":"WofxCgpAAD4AADUYUBIAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q169411","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1200px-UML_logo.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Unified_Modeling_Language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Unified_Modeling_Language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Unified_Modeling_Language rootpage-Unified_Modeling_Language skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Unified Modeling Language</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="floatright"><a href="/wiki/File:UML_logo.svg" class="image" title="UML logo"><img alt="UML logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" width="220" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/330px-UML_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/440px-UML_logo.svg.png 2x" data-file-width="121" data-file-height="88" /></a></div>
+<p>The <b>Unified Modeling Language</b> (<b>UML</b>) is a general-purpose, developmental, <a href="/wiki/Modeling_language" title="Modeling language">modeling language</a> in the field of <a href="/wiki/Software_engineering" title="Software engineering">software engineering</a>, that is intended to provide a standard way to visualize the design of a system.<sup id="cite_ref-:1_1-0" class="reference"><a href="#cite_note-:1-1">[1]</a></sup></p>
+<p>The creation of UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design. It was developed by <a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a>, <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a> and <a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a> at <a href="/wiki/Rational_Software" title="Rational Software">Rational Software</a> in 1994–1995, with further development led by them through 1996.<sup id="cite_ref-:1_1-1" class="reference"><a href="#cite_note-:1-1">[1]</a></sup></p>
+<p>In 1997 UML was adopted as a standard by the <a href="/wiki/Object_Management_Group" title="Object Management Group">Object Management Group</a> (OMG), and has been managed by this organization ever since. In 2005 UML was also published by the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO) as an approved ISO standard.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Since then the standard has been periodically revised to cover the latest revision of UML.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Before_UML_1.x"><span class="tocnumber">1.1</span> <span class="toctext">Before UML 1.x</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#UML_1.x"><span class="tocnumber">1.2</span> <span class="toctext">UML 1.x</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Cardinality_notation"><span class="tocnumber">1.2.1</span> <span class="toctext">Cardinality notation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#UML_2.x"><span class="tocnumber">1.3</span> <span class="toctext">UML 2.x</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Design"><span class="tocnumber">2</span> <span class="toctext">Design</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Software_development_methods"><span class="tocnumber">2.1</span> <span class="toctext">Software development methods</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Modeling"><span class="tocnumber">2.2</span> <span class="toctext">Modeling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Diagrams"><span class="tocnumber">3</span> <span class="toctext">Diagrams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Structure_diagrams"><span class="tocnumber">3.1</span> <span class="toctext">Structure diagrams</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Behavior_diagrams"><span class="tocnumber">3.2</span> <span class="toctext">Behavior diagrams</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Interaction_diagrams"><span class="tocnumber">3.3</span> <span class="toctext">Interaction diagrams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Meta_modeling"><span class="tocnumber">4</span> <span class="toctext">Meta modeling</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Adoption"><span class="tocnumber">5</span> <span class="toctext">Adoption</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:OO_Modeling_languages_history.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OO_Modeling_languages_history.jpg/320px-OO_Modeling_languages_history.jpg" width="320" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OO_Modeling_languages_history.jpg/480px-OO_Modeling_languages_history.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OO_Modeling_languages_history.jpg/640px-OO_Modeling_languages_history.jpg 2x" data-file-width="2000" data-file-height="1418" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OO_Modeling_languages_history.jpg" class="internal" title="Enlarge"></a></div>
+History of object-oriented methods and notation</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Before_UML_1.x">Before UML 1.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=2" title="Edit section: Before UML 1.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>UML has been evolving since the second half of the 1990s and has its roots in the <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented programming</a> methods developed in the late 1980s and early 1990s. The timeline (see image) shows the highlights of the history of object-oriented modeling methods and notation.</p>
+<p>It is originally based on the notations of the <a href="/wiki/Booch_method" title="Booch method">Booch method</a>, the <a href="/wiki/Object-modeling_technique" title="Object-modeling technique">object-modeling technique</a> (OMT) and <a href="/wiki/Object-oriented_software_engineering" title="Object-oriented software engineering">object-oriented software engineering</a> (OOSE), which it has integrated into a single language.<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></p>
+<p><a href="/wiki/Rational_Software_Corporation" class="mw-redirect" title="Rational Software Corporation">Rational Software Corporation</a> hired <a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a> from <a href="/wiki/General_Electric" title="General Electric">General Electric</a> in 1994 and after that the company became the source for two of the most popular object-oriented modeling approaches of the day:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Rumbaugh's <a href="/wiki/Object-modeling_technique" title="Object-modeling technique">object-modeling technique</a> (OMT) and <a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a>'s method. They were soon assisted in their efforts by <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a>, the creator of the <a href="/wiki/Object-oriented_software_engineering" title="Object-oriented software engineering">object-oriented software engineering</a> (OOSE) method, who joined them at Rational in 1995.<sup id="cite_ref-:1_1-2" class="reference"><a href="#cite_note-:1-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="UML_1.x">UML 1.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=3" title="Edit section: UML 1.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Under the technical leadership of those three (Rumbaugh, Jacobson and Booch), a consortium called the <a href="/wiki/UML_Partners" title="UML Partners">UML Partners</a> was organized in 1996 to complete the <i>Unified Modeling Language (UML)</i> specification, and propose it to the Object Management Group (OMG) for standardisation. The partnership also contained additional interested parties (for example <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">HP</a>, <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a>, <a href="/wiki/IBM" title="IBM">IBM</a> and <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>). The UML Partners' UML 1.0 draft was proposed to the OMG in January 1997 by the consortium. During the same month the UML Partners formed a group, designed to define the exact meaning of language constructs, chaired by <a href="/wiki/Cris_Kobryn" title="Cris Kobryn">Cris Kobryn</a> and administered by Ed Eykholt, to finalize the specification and integrate it with other standardization efforts. The result of this work, UML 1.1, was submitted to the OMG in August 1997 and adopted by the OMG in November 1997.<sup id="cite_ref-:1_1-3" class="reference"><a href="#cite_note-:1-1">[1]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>After the first release a task force was formed<sup id="cite_ref-:1_1-4" class="reference"><a href="#cite_note-:1-1">[1]</a></sup> to improve the language, which released several minor revisions, 1.3, 1.4, and 1.5.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The standards it produced (as well as the original standard) have been noted as being ambiguous and inconsistent.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h4><span class="mw-headline" id="Cardinality_notation">Cardinality notation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=4" title="Edit section: Cardinality notation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>As with database Chen, Bachman, and ISO <a href="/wiki/ER_diagram" class="mw-redirect" title="ER diagram">ER diagrams</a>, class models are specified to use "look-across" <a href="/wiki/Cardinality_(data_modeling)" title="Cardinality (data modeling)">cardinalities</a>, even though several authors (<a href="/wiki/Merise" title="Merise">Merise</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Elmasri &amp; Navathe<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> amongst others<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>) prefer same-side or "look-here" for roles and both minimum and maximum cardinalities. Recent researchers (Feinerer,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Dullea et. alia<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>) have shown that the "look-across" technique used by UML and ER diagrams is less effective and less coherent when applied to <i>n</i>-ary relationships of order strictly greater than 2.</p>
+<p>Feinerer says: "Problems arise if we operate under the look-across semantics as used for UML associations. Hartmann<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> investigates this situation and shows how and why different transformations fail.", and: "As we will see on the next few pages, the look-across interpretation introduces several difficulties which prevent the extension of simple mechanisms from binary to <i>n</i>-ary associations."</p>
+<h3><span class="mw-headline" id="UML_2.x">UML 2.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=5" title="Edit section: UML 2.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>UML 2.0 major revision replaced version 1.5 in 2005, which was developed with an enlarged consortium to improve the language further to reflect new experience on usage of its features.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>Although UML 2.1 was never released as a formal specification, versions 2.1.1 and 2.1.2 appeared in 2007, followed by UML 2.2 in February 2009. UML 2.3 was formally released in May 2010.<sup id="cite_ref-spec_17-0" class="reference"><a href="#cite_note-spec-17">[17]</a></sup> UML 2.4.1 was formally released in August 2011.<sup id="cite_ref-spec_17-1" class="reference"><a href="#cite_note-spec-17">[17]</a></sup> UML 2.5 was released in October 2012 as an "In process" version and was officially released in June 2015.<sup id="cite_ref-spec_17-2" class="reference"><a href="#cite_note-spec-17">[17]</a></sup></p>
+<p>There are four parts to the UML 2.x specification:</p>
+<ol>
+<li>The Superstructure that defines the notation and semantics for diagrams and their model elements</li>
+<li>The Infrastructure that defines the core metamodel on which the Superstructure is based</li>
+<li>The <a href="/wiki/Object_Constraint_Language" title="Object Constraint Language">Object Constraint Language</a> (OCL) for defining rules for model elements</li>
+<li>The UML Diagram Interchange that defines how UML 2 diagram layouts are exchanged</li>
+</ol>
+<p>The current versions of these standards follow: UML Superstructure version 2.4.1, UML Infrastructure version 2.4.1, OCL version 2.3.1, and UML Diagram Interchange version 1.0.<sup id="cite_ref-Versions_18-0" class="reference"><a href="#cite_note-Versions-18">[18]</a></sup> It continues to be updated and improved by the revision task force, who resolve any issues with the language.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=6" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>UML offers a way to visualize a system's architectural blueprints in a diagram, including elements such as:<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></p>
+<ul>
+<li>any <a href="/wiki/Activity_(UML)" title="Activity (UML)">activities</a> (jobs);</li>
+<li>individual <a href="/wiki/Component_(UML)" title="Component (UML)">components</a> of the system;
+<ul>
+<li>and how they can interact with other <a href="/wiki/Component-based_software_engineering" title="Component-based software engineering">software components</a>;</li>
+</ul>
+</li>
+<li>how the system will run;</li>
+<li>how entities interact with others (components and interfaces);</li>
+<li>external <a href="/wiki/User_interface" title="User interface">user interface</a>.</li>
+</ul>
+<p>Although originally intended for object-oriented design documentation, UML has been extended to a larger set of design documentation (as listed above),<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and been found useful in many contexts.<sup id="cite_ref-UML,_Success_Stories_21-0" class="reference"><a href="#cite_note-UML,_Success_Stories-21">[21]</a></sup></p>
+<h3><span class="mw-headline" id="Software_development_methods">Software development methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=7" title="Edit section: Software development methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>UML is not a development method by itself;<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> however, it was designed to be compatible with the leading object-oriented software development methods of its time, for example <a href="/wiki/Object-modeling_technique" title="Object-modeling technique">OMT</a>, <a href="/wiki/Booch_method" title="Booch method">Booch method</a>, <a href="/wiki/Objectory" title="Objectory">Objectory</a> and especially <a href="/wiki/Rational_Unified_Process" title="Rational Unified Process">RUP</a> that it was originally intended to be used with when work began at Rational Software.</p>
+<h3><span class="mw-headline" id="Modeling">Modeling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=8" title="Edit section: Modeling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is important to distinguish between the UML model and the set of diagrams of a system. A diagram is a partial graphic representation of a system's model. The set of diagrams need not completely cover the model and deleting a diagram does not change the model. The model may also contain documentation that drives the model elements and diagrams (such as written use cases).</p>
+<p>UML diagrams represent two different views of a system model:<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<ul>
+<li>Static (or <i>structural</i>) view: emphasizes the static structure of the system using objects, attributes, operations and relationships. It includes <a href="/wiki/Class_diagram" title="Class diagram">class diagrams</a> and <a href="/wiki/Composite_structure_diagram" title="Composite structure diagram">composite structure diagrams</a>.</li>
+<li>Dynamic (or <i>behavioral</i>) view: emphasizes the dynamic behavior of the system by showing collaborations among objects and changes to the internal states of objects. This view includes <a href="/wiki/Sequence_diagram" title="Sequence diagram">sequence diagrams</a>, <a href="/wiki/Activity_diagram" title="Activity diagram">activity diagrams</a> and <a href="/wiki/UML_state_machine" title="UML state machine">state machine diagrams</a>.</li>
+</ul>
+<p>UML models can be exchanged among UML tools by using the <a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">XML Metadata Interchange</a> (XMI) format.</p>
+<p>In UML, one of the key tools for behavior modelling is the use-case model, caused by <a href="/wiki/OOSE" class="mw-redirect" title="OOSE">OOSE</a>. Use cases are a way of specifying required usages of a system. Typically, they are used to capture the requirements of a system, that is, what a system is supposed to do.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<h2><span class="mw-headline" id="Diagrams">Diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=9" title="Edit section: Diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background-color:#eecd9c"><a href="/wiki/Unified_Modeling_Language#Diagrams" title="Unified Modeling Language">UML diagrams</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color:#FFDEAD">Structural UML diagrams</th>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
+<ul>
+<li><a href="/wiki/Class_diagram" title="Class diagram">Class diagram</a></li>
+<li><a href="/wiki/Component_diagram" title="Component diagram">Component diagram</a></li>
+<li><a href="/wiki/Composite_structure_diagram" title="Composite structure diagram">Composite structure diagram</a></li>
+<li><a href="/wiki/Deployment_diagram" title="Deployment diagram">Deployment diagram</a></li>
+<li><a href="/wiki/Object_diagram" title="Object diagram">Object diagram</a></li>
+<li><a href="/wiki/Package_diagram" title="Package diagram">Package diagram</a></li>
+<li><a href="/wiki/Profile_diagram" title="Profile diagram">Profile diagram</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color:#FFDEAD">Behavioral UML diagrams</th>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
+<ul>
+<li><a href="/wiki/Activity_diagram" title="Activity diagram">Activity diagram</a></li>
+<li><a href="/wiki/Communication_diagram" title="Communication diagram">Communication diagram</a></li>
+<li><a href="/wiki/Interaction_overview_diagram" title="Interaction overview diagram">Interaction overview diagram</a></li>
+<li><a href="/wiki/Sequence_diagram" title="Sequence diagram">Sequence diagram</a></li>
+<li><a href="/wiki/UML_state_machine" title="UML state machine">State diagram</a></li>
+<li><a href="/wiki/Timing_diagram_(Unified_Modeling_Language)" title="Timing diagram (Unified Modeling Language)">Timing diagram</a></li>
+<li><a href="/wiki/Use_case_diagram" title="Use case diagram">Use case diagram</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:UML_diagram_types" title="Template:UML diagram types"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:UML_diagram_types" title="Template talk:UML diagram types"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:UML_diagram_types&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>UML 2 has many types of diagrams, which are divided into two categories.<sup id="cite_ref-:0_4-2" class="reference"><a href="#cite_note-:0-4">[4]</a></sup> Some types represent <i>structural</i> information, and the rest represent general types of <i>behavior</i>, including a few that represent different aspects of <i>interactions</i>. These diagrams can be categorized hierarchically as shown in the following class diagram:<sup id="cite_ref-:0_4-3" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:UML_diagrams_overview.svg" class="image" title="Hierarchy of UML 2.2 Diagrams, shown as a class diagram"><img alt="Hierarchy of UML 2.2 Diagrams, shown as a class diagram" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UML_diagrams_overview.svg/600px-UML_diagrams_overview.svg.png" width="600" height="334" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UML_diagrams_overview.svg/900px-UML_diagrams_overview.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UML_diagrams_overview.svg/1200px-UML_diagrams_overview.svg.png 2x" data-file-width="808" data-file-height="450" /></a></div>
+</div>
+<p>These diagrams may all contain comments or notes explaining usage, constraint, or intent.</p>
+<h3><span class="mw-headline" id="Structure_diagrams">Structure diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=10" title="Edit section: Structure diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Structure diagrams emphasize the things that must be present in the system being modeled. Since structure diagrams represent the structure, they are used extensively in documenting the <a href="/wiki/Software_architecture" title="Software architecture">software architecture</a> of software systems. For example, the <a href="/wiki/Component_diagram" title="Component diagram">component diagram</a> describes how a software system is split up into components and shows the dependencies among these components.</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Policy_Admin_Component_Diagram.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Policy_Admin_Component_Diagram.PNG/120px-Policy_Admin_Component_Diagram.PNG" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Policy_Admin_Component_Diagram.PNG/180px-Policy_Admin_Component_Diagram.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Policy_Admin_Component_Diagram.PNG/240px-Policy_Admin_Component_Diagram.PNG 2x" data-file-width="1454" data-file-height="974" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Component_diagram" title="Component diagram">Component diagram</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:43px auto;"><a href="/wiki/File:BankAccount1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/BankAccount1.svg/120px-BankAccount1.svg.png" width="120" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/BankAccount1.svg/180px-BankAccount1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/BankAccount1.svg/240px-BankAccount1.svg.png 2x" data-file-width="212" data-file-height="113" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Class_diagram" title="Class diagram">Class diagram</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Behavior_diagrams">Behavior diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=11" title="Edit section: Behavior diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Behavior diagrams emphasize what must happen in the system being modeled. Since behavior diagrams illustrate the behavior of a system, they are used extensively to describe the functionality of software systems. As an example, the <a href="/wiki/Activity_diagram" title="Activity diagram">activity diagram</a> describes the business and operational step-by-step activities of the components in a system.</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Activity_conducting.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Activity_conducting.svg/111px-Activity_conducting.svg.png" width="111" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Activity_conducting.svg/166px-Activity_conducting.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Activity_conducting.svg/222px-Activity_conducting.svg.png 2x" data-file-width="578" data-file-height="626" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Activity_diagram" title="Activity diagram">Activity diagram</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39.5px auto;"><a href="/wiki/File:UML_Use_Case_diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/120px-UML_Use_Case_diagram.svg.png" width="120" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/180px-UML_Use_Case_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/240px-UML_Use_Case_diagram.svg.png 2x" data-file-width="513" data-file-height="304" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Use_case_diagram" title="Use case diagram">Use case diagram</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Interaction_diagrams">Interaction diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=12" title="Edit section: Interaction diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Interaction diagrams, a subset of behavior diagrams, emphasize the flow of control and data among the things in the system being modeled. For example, the <a href="/wiki/Sequence_diagram" title="Sequence diagram">sequence diagram</a> shows how objects communicate with each other regarding a sequence of messages.</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15.5px auto;"><a href="/wiki/File:CheckEmail.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CheckEmail.svg/120px-CheckEmail.svg.png" width="120" height="119" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CheckEmail.svg/180px-CheckEmail.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CheckEmail.svg/240px-CheckEmail.svg.png 2x" data-file-width="469" data-file-height="465" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Sequence_diagram" title="Sequence diagram">Sequence diagram</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:43px auto;"><a href="/wiki/File:UML_Communication_diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/UML_Communication_diagram.svg/120px-UML_Communication_diagram.svg.png" width="120" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/UML_Communication_diagram.svg/180px-UML_Communication_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/UML_Communication_diagram.svg/240px-UML_Communication_diagram.svg.png 2x" data-file-width="415" data-file-height="220" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Communication_diagram" title="Communication diagram">Communication diagram</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Meta_modeling">Meta modeling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=13" title="Edit section: Meta modeling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Meta-Object_Facility" title="Meta-Object Facility">Meta-Object Facility</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:M0-m3.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/M0-m3.png/320px-M0-m3.png" width="320" height="256" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/M0-m3.png/480px-M0-m3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/93/M0-m3.png 2x" data-file-width="602" data-file-height="482" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:M0-m3.png" class="internal" title="Enlarge"></a></div>
+Illustration of the Meta-Object Facility</div>
+</div>
+</div>
+<p>The Object Management Group (OMG) has developed a <a href="/wiki/Metamodeling" title="Metamodeling">metamodeling</a> architecture to define the UML, called the <a href="/wiki/Meta-Object_Facility" title="Meta-Object Facility">Meta-Object Facility</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> MOF is designed as a four-layered architecture, as shown in the image at right. It provides a meta-meta model at the top, called the M3 layer. This M3-model is the language used by Meta-Object Facility to build metamodels, called M2-models.</p>
+<p>The most prominent example of a Layer 2 Meta-Object Facility model is the UML metamodel, which describes the UML itself. These M2-models describe elements of the M1-layer, and thus M1-models. These would be, for example, models written in UML. The last layer is the M0-layer or data layer. It is used to describe runtime instances of the system.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<p>The meta-model can be extended using a mechanism called <a href="/wiki/Stereotype_(UML)" title="Stereotype (UML)">stereotyping</a>. This has been criticised as being insufficient/untenable by <a href="/wiki/Brian_Henderson-Sellers" title="Brian Henderson-Sellers">Brian Henderson-Sellers</a> and Cesar Gonzalez-Perez in "Uses and Abuses of the Stereotype Mechanism in UML 1.x and 2.0".<sup id="cite_ref-UsesAbusesStereotype_27-0" class="reference"><a href="#cite_note-UsesAbusesStereotype-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Adoption">Adoption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=14" title="Edit section: Adoption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>UML has been marketed for many contexts.<sup id="cite_ref-UML,_Success_Stories_21-1" class="reference"><a href="#cite_note-UML,_Success_Stories-21">[21]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<p>It has been treated, at times, as a design <a href="/wiki/No_silver_bullet" class="mw-redirect" title="No silver bullet">silver bullet</a>, which leads to problems. UML misuse includes overuse (designing every part of the system with it, which is unnecessary) and assuming that novices can design with it.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<p>It is considered a large language, with many <a href="/wiki/Syntax_(programming_languages)" title="Syntax (programming languages)">constructs</a>. Some people (including <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Jacobson</a>) feel that UML's size hinders learning (and therefore, using) it.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_Clear_device_cdrom_unmount.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/28px-Crystal_Clear_device_cdrom_unmount.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/42px-Crystal_Clear_device_cdrom_unmount.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/56px-Crystal_Clear_device_cdrom_unmount.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Software" title="Portal:Software">Software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Applications_of_UML" title="Applications of UML">Applications of UML</a></li>
+<li><a href="/wiki/Business_Process_Model_and_Notation" title="Business Process Model and Notation">Business Process Model and Notation (BPMN)</a></li>
+<li><a href="/wiki/Model-based_testing" title="Model-based testing">Model-based testing</a></li>
+<li><a href="/wiki/Model-driven_engineering" title="Model-driven engineering">Model-driven engineering</a></li>
+<li><a href="/wiki/Object_Oriented_Role_Analysis_and_Modeling" title="Object Oriented Role Analysis and Modeling">Object Oriented Role Analysis and Modeling</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">Systems Modeling Language (SysML)</a></li>
+<li><a href="/wiki/List_of_Unified_Modeling_Language_tools" title="List of Unified Modeling Language tools">List of Unified Modeling Language tools</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="citation foldoc"><small>This article is based on material taken from the <a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">Free On-line Dictionary of Computing</a> prior to 1 November 2008 and incorporated under the "relicensing" terms of the <a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GFDL</a>, version 1.3 or later.</small></span></p>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-:1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:1_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.informit.com/store/unified-modeling-language-user-guide-9780321267979"><i>Unified Modeling Language User Guide, The</i></a> (2 ed.). Addison-Wesley. 2005. p.&#160;496. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0321267974" title="Special:BookSources/0321267974">0321267974</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Unified+Modeling+Language+User+Guide%2C+The&amp;rft.pages=496&amp;rft.edition=2&amp;rft.pub=Addison-Wesley&amp;rft.date=2005&amp;rft.isbn=0321267974&amp;rft_id=http%3A%2F%2Fwww.informit.com%2Fstore%2Funified-modeling-language-user-guide-9780321267979&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span> , See the sample content, look for history</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=32620">"ISO/IEC 19501:2005 - Information technology - Open Distributed Processing - Unified Modeling Language (UML) Version 1.4.2"</a>. Iso.org. 2005-04-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ISO%2FIEC+19501%3A2005+-+Information+technology+-+Open+Distributed+Processing+-+Unified+Modeling+Language+%28UML%29+Version+1.4.2&amp;rft.pub=Iso.org&amp;rft.date=2005-04-01&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fhome%2Fstore%2Fcatalogue_tc%2Fcatalogue_detail.htm%3Fcsnumber%3D32620&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32624">"ISO/IEC 19505-1:2012 - Information technology - Object Management Group Unified Modeling Language (OMG UML) - Part 1: Infrastructure"</a>. Iso.org. 2012-04-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ISO%2FIEC+19505-1%3A2012+-+Information+technology+-+Object+Management+Group+Unified+Modeling+Language+%28OMG+UML%29+-+Part+1%3A+Infrastructure&amp;rft.pub=Iso.org&amp;rft.date=2012-04-20&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fiso_catalogue%2Fcatalogue_tc%2Fcatalogue_detail.htm%3Fcsnumber%3D32624&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/spec/UML/2.4.1/Superstructure/PDF">"OMG Unified Modeling Language (OMG UML), Superstructure. Version 2.4.1"</a>. Object Management Group<span class="reference-accessdate">. Retrieved <span class="nowrap">9 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OMG+Unified+Modeling+Language+%28OMG+UML%29%2C+Superstructure.+Version+2.4.1&amp;rft.pub=Object+Management+Group&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fspec%2FUML%2F2.4.1%2FSuperstructure%2FPDF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Andreas Zendler (1997) <i>Advanced Concepts, Life Cycle Models and Tools for Objeckt-Oriented Software Development</i>. p.122</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/cgi-bin/doc?ad/97-08-11">"UML Specification version 1.1 (OMG document ad/97-08-11)"</a>. Omg.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML+Specification+version+1.1+%28OMG+document+ad%2F97-08-11%29&amp;rft.pub=Omg.org&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fcgi-bin%2Fdoc%3Fad%2F97-08-11&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/spec/UML/">"UML"</a>. Omg.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML&amp;rft.pub=Omg.org&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fspec%2FUML%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Génova et alia 2004 "Open Issues in Industrial Use Case Modeling"</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uml-forum.com/docs/papers/CACM_Jan02_p107_Kobryn.pdf">"Will UML 2.0 Be Agile or Awkward?"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Will+UML+2.0+Be+Agile+or+Awkward%3F&amp;rft_id=http%3A%2F%2Fwww.uml-forum.com%2Fdocs%2Fpapers%2FCACM_Jan02_p107_Kobryn.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Hubert Tardieu, Arnold Rochfeld and René Colletti La methode MERISE: Principes et outils (Paperback - 1983)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Elmasri, Ramez, B. Shamkant, Navathe, Fundamentals of Database Systems, third ed., Addison-Wesley, Menlo Park, CA, USA, 2000.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=odZK99osY1EC&amp;pg=PA52&amp;img=1&amp;pgis=1&amp;dq=genova&amp;sig=ACfU3U3tDC_q8WOMqUJW4EZCa5YQywoYLw&amp;edge=0">ER 2004&#160;: 23rd International Conference on Conceptual Modeling, Shanghai, China, 8-12 November 2004</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130527133330/https://books.google.com/books?id=odZK99osY1EC&amp;pg=PA52&amp;img=1&amp;pgis=1&amp;dq=genova&amp;sig=ACfU3U3tDC_q8WOMqUJW4EZCa5YQywoYLw&amp;edge=0">Archived</a> 27 May 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://publik.tuwien.ac.at/files/pub-inf_4582.pdf">"A Formal Treatment of UML Class Diagrams as an Efficient Method for Configuration Management 2007"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Formal+Treatment+of+UML+Class+Diagrams+as+an+Efficient+Method+for+Configuration+Management+2007&amp;rft_id=http%3A%2F%2Fpublik.tuwien.ac.at%2Ffiles%2Fpub-inf_4582.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ischool.drexel.edu/faculty/song/publications/p_DKE_03_Validity.pdf">"James Dullea, Il-Yeol Song, Ioanna Lamprou - An analysis of structural validity in entity-relationship modeling 2002"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=James+Dullea%2C+Il-Yeol+Song%2C+Ioanna+Lamprou+-+An+analysis+of+structural+validity+in+entity-relationship+modeling+2002&amp;rft_id=http%3A%2F%2Fwww.ischool.drexel.edu%2Ffaculty%2Fsong%2Fpublications%2Fp_DKE_03_Validity.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://crpit.com/confpapers/CRPITV17Hartmann.pdf">"<span style="padding-left:0.2em;">"</span>Reasoning about participation constraints and Chen's constraints" S Hartmann - 2003"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Reasoning+about+participation+constraints+and+Chen%27s+constraints%22+S+Hartmann+-+2003&amp;rft_id=http%3A%2F%2Fcrpit.com%2Fconfpapers%2FCRPITV17Hartmann.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/spec/UML/2.0/">"UML 2.0"</a>. Omg.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML+2.0&amp;rft.pub=Omg.org&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fspec%2FUML%2F2.0%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-spec-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-spec_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-spec_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-spec_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/spec/UML/">"UML"</a>. Omg.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML&amp;rft.pub=Omg.org&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fspec%2FUML%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Versions-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Versions_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web">OMG. <a rel="nofollow" class="external text" href="http://www.omg.org/spec/#M&amp;M">"OMG Formal Specifications (Modeling and Metadata paragraph)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OMG+Formal+Specifications+%28Modeling+and+Metadata+paragraph%29&amp;rft.au=OMG&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fspec%2F%23M%26M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/issues/uml2-rtf.open.html">"Issues for UML 2.6 Revision task Force mailing list"</a>. Omg.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Issues+for+UML+2.6+Revision+task+Force+mailing+list&amp;rft.pub=Omg.org&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fissues%2Fuml2-rtf.open.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Satish Mishra (1997). <a rel="nofollow" class="external text" href="http://www2.informatik.hu-berlin.de/~hs/Lehre/2004-WS_SWQS/20050107_Ex_UML.ppt">"Visual Modeling &amp; Unified Modeling Language (UML): Introduction to UML"</a>. Rational Software Corporation. Accessed 9 November 2008.</span></li>
+<li id="cite_note-UML,_Success_Stories-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-UML,_Success_Stories_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UML,_Success_Stories_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uml.org/uml_success_stories/index.htm">"UML, Success Stories"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML%2C+Success+Stories&amp;rft_id=http%3A%2F%2Fwww.uml.org%2Fuml_success_stories%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">John Hunt (2000). <i>The Unified Process for Practitioners: Object-oriented Design, UML and Java</i>. Springer, 2000. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85233-275-1" title="Special:BookSources/1-85233-275-1">1-85233-275-1</a>. p.5.door</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Jon Holt Institution of Electrical Engineers (2004). <i>UML for Systems Engineering: Watching the Wheels</i> IET, 2004, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-86341-354-4" title="Special:BookSources/0-86341-354-4">0-86341-354-4</a>. p.58</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Manuel Almendros-Jiménez, Jesús &amp; Iribarne, Luis. (2007). Describing Use-Case Relationships with Sequence Diagrams. Comput. J.. 50. 116-128. 10.1093/comjnl/bxl053.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Iman Poernomo (2006) "<a rel="nofollow" class="external text" href="http://calcium.dcs.kcl.ac.uk/1259/1/acm-paper.pdf">The Meta-Object Facility Typed</a>" in: <i>Proceeding SAC '06 Proceedings of the 2006 ACM symposium on Applied computing</i>. pp. 1845-1849</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/spec/UML/2.4.1/Infrastructure/PDF/">"UML 2.4.1 Infrastructure"</a>. Omg.org. 2011-08-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML+2.4.1+Infrastructure&amp;rft.pub=Omg.org&amp;rft.date=2011-08-05&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fspec%2FUML%2F2.4.1%2FInfrastructure%2FPDF%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UsesAbusesStereotype-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-UsesAbusesStereotype_27-0">^</a></b></span> <span class="reference-text">B. Henderson-Sellers; C. Gonzalez-Perez (2006). "Uses and Abuses of the Stereotype Mechanism in UML 1.x and 2.0". in: <i>Model Driven Engineering Languages and Systems</i>. Springer Berlin / Heidelberg.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.drdobbs.com/architecture-and-design/uml-25-do-you-even-care/240163702?queryText=uml">"UML 2.5: Do you even care?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UML+2.5%3A+Do+you+even+care%3F&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2Farchitecture-and-design%2Fuml-25-do-you-even-care%2F240163702%3FqueryText%3Duml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span> "UML truly is ubiquitous"</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://queue.acm.org/detail.cfm?id=984495">"Death by UML Fever"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Death+by+UML+Fever&amp;rft_id=http%3A%2F%2Fqueue.acm.org%2Fdetail.cfm%3Fid%3D984495&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.infoq.com/interviews/Ivar_Jacobson">"Ivar Jacobson on UML, MDA, and the future of methodologies"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ivar+Jacobson+on+UML%2C+MDA%2C+and+the+future+of+methodologies&amp;rft_id=http%3A%2F%2Fwww.infoq.com%2Finterviews%2FIvar_Jacobson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Ambler, Scott William (2004). <a rel="nofollow" class="external text" href="http://www.ambysoft.com/books/theObjectPrimer.html"><i>The Object Primer: Agile Model Driven Development with UML 2</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-54018-6" title="Special:BookSources/0-521-54018-6">0-521-54018-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Object+Primer%3A+Agile+Model+Driven+Development+with+UML+2&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2004&amp;rft.isbn=0-521-54018-6&amp;rft.aulast=Ambler&amp;rft.aufirst=Scott+William&amp;rft_id=http%3A%2F%2Fwww.ambysoft.com%2Fbooks%2FtheObjectPrimer.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Chonoles, Michael Jesse; James A. Schardt (2003). <i>UML 2 for Dummies</i>. Wiley Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7645-2614-6" title="Special:BookSources/0-7645-2614-6">0-7645-2614-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=UML+2+for+Dummies&amp;rft.pub=Wiley+Publishing&amp;rft.date=2003&amp;rft.isbn=0-7645-2614-6&amp;rft.aulast=Chonoles&amp;rft.aufirst=Michael+Jesse&amp;rft.au=James+A.+Schardt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Martin_Fowler" title="Martin Fowler">Fowler, Martin</a>. <i>UML Distilled: A Brief Guide to the Standard Object Modeling Language</i> (3rd ed.). Addison-Wesley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-321-19368-7" title="Special:BookSources/0-321-19368-7">0-321-19368-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=UML+Distilled%3A+A+Brief+Guide+to+the+Standard+Object+Modeling+Language&amp;rft.edition=3rd&amp;rft.pub=Addison-Wesley&amp;rft.isbn=0-321-19368-7&amp;rft.aulast=Fowler&amp;rft.aufirst=Martin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Jacobson, Ivar</a>; Grady Booch; James Rumbaugh (1998). <i>The Unified Software Development Process</i>. Addison Wesley Longman. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-57169-2" title="Special:BookSources/0-201-57169-2">0-201-57169-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Unified+Software+Development+Process&amp;rft.pub=Addison+Wesley+Longman&amp;rft.date=1998&amp;rft.isbn=0-201-57169-2&amp;rft.aulast=Jacobson&amp;rft.aufirst=Ivar&amp;rft.au=Grady+Booch&amp;rft.au=James+Rumbaugh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Robert_Cecil_Martin" class="mw-redirect" title="Robert Cecil Martin">Martin, Robert Cecil</a> (2003). <i>UML for Java Programmers</i>. Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-142848-9" title="Special:BookSources/0-13-142848-9">0-13-142848-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=UML+for+Java+Programmers&amp;rft.pub=Prentice+Hall&amp;rft.date=2003&amp;rft.isbn=0-13-142848-9&amp;rft.aulast=Martin&amp;rft.aufirst=Robert+Cecil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Noran, Ovidiu S. <a rel="nofollow" class="external text" href="http://www.cit.gu.edu.au/~noran/Docs/UMLvsIDEF.pdf">"Business Modelling: UML vs. IDEF"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2005-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Business+Modelling%3A+UML+vs.+IDEF&amp;rft.au=Noran%2C+Ovidiu+S.&amp;rft_id=http%3A%2F%2Fwww.cit.gu.edu.au%2F~noran%2FDocs%2FUMLvsIDEF.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Horst Kargl. <a rel="nofollow" class="external text" href="http://umlnotation.sparxsystems.eu/">"Interactive UML Metamodel with additional Examples"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interactive+UML+Metamodel+with+additional+Examples&amp;rft.au=Horst+Kargl&amp;rft_id=http%3A%2F%2Fumlnotation.sparxsystems.eu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Penker, Magnus; <a href="/wiki/Hans-Erik_Eriksson" title="Hans-Erik Eriksson">Hans-Erik Eriksson</a> (2000). <i>Business Modeling with UML</i>. John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-29551-5" title="Special:BookSources/0-471-29551-5">0-471-29551-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Business+Modeling+with+UML&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2000&amp;rft.isbn=0-471-29551-5&amp;rft.aulast=Penker&amp;rft.aufirst=Magnus&amp;rft.au=Hans-Erik+Eriksson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnified+Modeling+Language" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Unified_Modeling_Language" class="extiw" title="commons:Special:Search/Unified Modeling Language">Unified Modeling Language</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></td>
+<td class="mbox-text plainlist">Wikiversity has learning resources about <i><b><a href="https://en.wikiversity.org/wiki/UML" class="extiw" title="v:UML">UML</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.uml.org">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Unified_Modeling_Language" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:UML" title="Template:UML"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:UML" title="Template talk:UML"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:UML&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Unified_Modeling_Language" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Unified Modeling Language</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Actors</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Organizations</i>
+<ul>
+<li><a href="/wiki/Object_Management_Group" title="Object Management Group">Object Management Group</a></li>
+<li><a href="/wiki/UML_Partners" title="UML Partners">UML Partners</a></li>
+</ul>
+</li>
+<li><i>Persons</i>
+<ul>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/Use_case_diagram" title="Use case diagram"><img alt="Use case restaurant model.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Use_case_restaurant_model.svg/100px-Use_case_restaurant_model.svg.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Use_case_restaurant_model.svg/150px-Use_case_restaurant_model.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Use_case_restaurant_model.svg/200px-Use_case_restaurant_model.svg.png 2x" data-file-width="496" data-file-height="496" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Object oriented</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object-oriented programming</a></li>
+<li><a href="/wiki/Object-oriented_analysis_and_design" title="Object-oriented analysis and design">Object-oriented analysis and design</a></li>
+<li><a href="/wiki/Object-oriented_modeling" title="Object-oriented modeling">Object-oriented modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Structure</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actor_(UML)" title="Actor (UML)">Actor</a></li>
+<li><a href="/wiki/Attribute_(computing)" title="Attribute (computing)">Attribute</a></li>
+<li><a href="/wiki/Artifact_(UML)" title="Artifact (UML)">Artifact</a></li>
+<li><a href="/wiki/Class_(computer_programming)" title="Class (computer programming)">Class</a></li>
+<li><a href="/wiki/Component_(UML)" title="Component (UML)">Component</a></li>
+<li><a href="/wiki/Protocol_(object-oriented_programming)" title="Protocol (object-oriented programming)">Interface</a></li>
+<li><a href="/wiki/Object_(computer_science)" title="Object (computer science)">Object</a></li>
+<li><a href="/wiki/Package_(UML)" title="Package (UML)">Package</a></li>
+<li><a href="/wiki/Profile_diagram" title="Profile diagram">Profile diagram</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Behavior</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activity_(UML)" title="Activity (UML)">Activity</a></li>
+<li><a href="/wiki/Event_(UML)" title="Event (UML)">Event</a></li>
+<li><a href="/wiki/Message_passing" title="Message passing">Message</a></li>
+<li><a href="/wiki/Method_(computer_programming)" title="Method (computer programming)">Method</a></li>
+<li><a href="/wiki/State_(computer_science)" title="State (computer science)">State</a></li>
+<li><a href="/wiki/Use_case" title="Use case">Use case</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Relationships</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Object_composition#Aggregation" title="Object composition">Aggregation</a></li>
+<li><a href="/wiki/Association_(object-oriented_programming)" title="Association (object-oriented programming)">Association</a></li>
+<li><a href="/wiki/Object_composition" title="Object composition">Composition</a></li>
+<li><a href="/wiki/Coupling_(computer_programming)" title="Coupling (computer programming)">Dependency</a></li>
+<li><a href="/wiki/Generalization" title="Generalization">Generalization</a> (or <a href="/wiki/Inheritance_(object-oriented_programming)" title="Inheritance (object-oriented programming)">Inheritance</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Extensibility</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Profile_(UML)" title="Profile (UML)">Profile</a></li>
+<li><a href="/wiki/Stereotype_(UML)" title="Stereotype (UML)">Stereotype</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Class_diagram#Multiplicity" title="Class diagram">Multiplicity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Diagrams</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Structure</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Class_diagram" title="Class diagram">Class</a></li>
+<li><a href="/wiki/Component_diagram" title="Component diagram">Component</a></li>
+<li><a href="/wiki/Composite_structure_diagram" title="Composite structure diagram">Composite structure</a></li>
+<li><a href="/wiki/Deployment_diagram" title="Deployment diagram">Deployment</a></li>
+<li><a href="/wiki/Object_diagram" title="Object diagram">Object</a></li>
+<li><a href="/wiki/Package_diagram" title="Package diagram">Package</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Behaviour</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activity_diagram" title="Activity diagram">Activity</a></li>
+<li><a href="/wiki/UML_state_machine" title="UML state machine">State Machine</a></li>
+<li><a href="/wiki/Use_case_diagram" title="Use case diagram">Use case</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Interaction</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Communication_diagram" title="Communication diagram">Communications</a></li>
+<li><a href="/wiki/Sequence_diagram" title="Sequence diagram">Sequence</a></li>
+<li><a href="/wiki/Interaction_overview_diagram" title="Interaction overview diagram">Interaction overview</a></li>
+<li><a href="/wiki/Timing_diagram_(Unified_Modeling_Language)" title="Timing diagram (Unified Modeling Language)">Timing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Derived languages</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">Systems Modeling Language (SysML)</a></li>
+<li><a href="/wiki/UXF" title="UXF">UML eXchange Format (UXF)</a></li>
+<li><a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">XML Metadata Interchange (XMI)</a></li>
+<li><a href="/wiki/Executable_UML" title="Executable UML">Executable UML (xUML)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glossary_of_Unified_Modeling_Language_terms" title="Glossary of Unified Modeling Language terms">Glossary of UML terms</a></li>
+<li><a href="/wiki/Rational_Unified_Process" title="Rational Unified Process">Rational Unified Process</a></li>
+<li><a href="/wiki/List_of_Unified_Modeling_Language_tools" title="List of Unified Modeling Language tools">List of Unified Modeling Language tools</a></li>
+<li><a href="/wiki/Object_Modeling_in_Color" title="Object Modeling in Color">Object Modeling in Color</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Software_engineering" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Software_engineering" style="font-size:114%;margin:0 4em"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">Requirements engineering</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Software_testing" title="Software testing">Software testing</a></li>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Orthogonality_(programming)" title="Orthogonality (programming)">Orthogonality</a></li>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Software" title="Software">Software</a></li>
+<li><a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development methodology</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+<li><a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a></li>
+<li><a href="/wiki/Software_verification_and_validation" title="Software verification and validation">Software verification and validation</a></li>
+<li><a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Orientations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a></li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a></li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a></li>
+<li><a href="/wiki/Systems_development_life_cycle" title="Systems development life cycle">SDLC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Models</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Developmental</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a></li>
+<li><a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a></li>
+<li><a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a></li>
+<li><a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a></li>
+<li><a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a></li>
+<li><a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a></li>
+<li><a href="/wiki/Unified_Process" title="Unified Process">UP</a></li>
+<li><a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">Scrum</a></li>
+<li><a href="/wiki/Spiral_model" title="Spiral model">Spiral model</a></li>
+<li><a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">V-Model</a></li>
+<li><a href="/wiki/Waterfall_model" title="Waterfall model">Waterfall model</a></li>
+<li><a href="/wiki/Extreme_programming" title="Extreme programming">XP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">SPICE</a></li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a></li>
+<li><a href="/wiki/Data_model" title="Data model">Data model</a></li>
+<li><a href="/wiki/Entity%E2%80%93relationship_model" title="Entity–relationship model">ER model</a></li>
+<li><a href="/wiki/Function_model" title="Function model">Function model</a></li>
+<li><a href="/wiki/Information_model" title="Information model">Information model</a></li>
+<li><a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a></li>
+<li><a href="/wiki/Object_model" title="Object model">Object model</a></li>
+<li><a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a></li>
+<li><a href="/wiki/View_model" title="View model">View model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Languages</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IDEF" title="IDEF">IDEF</a></li>
+<li><a class="mw-selflink selflink">UML</a></li>
+<li><a href="/wiki/Universal_Systems_Language" title="Universal Systems Language">USL</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Software<br />
+engineers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Peter_Chen" title="Peter Chen">Peter Chen</a></li>
+<li><a href="/wiki/Danese_Cooper" title="Danese Cooper">Danese Cooper</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><a href="/wiki/Delores_M._Etter" title="Delores M. Etter">Delores M. Etter</a></li>
+<li><a href="/wiki/Martin_Fowler" title="Martin Fowler">Martin Fowler</a></li>
+<li><a href="/wiki/Adele_Goldstine" title="Adele Goldstine">Adele Goldstine</a></li>
+<li><a href="/wiki/Margaret_Hamilton_(scientist)" title="Margaret Hamilton (scientist)">Margaret Hamilton</a></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a></li>
+<li><a href="/wiki/Lois_Haibt" title="Lois Haibt">Lois Haibt</a></li>
+<li><a href="/wiki/Mary_Jean_Harrold" title="Mary Jean Harrold">Mary Jean Harrold</a></li>
+<li><a href="/wiki/Grace_Hopper" title="Grace Hopper">Grace Hopper</a></li>
+<li><a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a></li>
+<li><a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a></li>
+<li><a href="/wiki/Nancy_Leveson" title="Nancy Leveson">Nancy Leveson</a></li>
+<li><a href="/wiki/Stephen_J._Mellor" title="Stephen J. Mellor">Stephen J. Mellor</a></li>
+<li><a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a></li>
+<li><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a></li>
+<li><a href="/wiki/Trygve_Reenskaug" title="Trygve Reenskaug">Trygve Reenskaug</a></li>
+<li><a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+<li><a href="/wiki/Mary_Shaw_(computer_scientist)" title="Mary Shaw (computer scientist)">Mary Shaw</a></li>
+<li><a href="/wiki/Peri_Tarr" title="Peri Tarr">Peri Tarr</a></li>
+<li><a href="/wiki/Elaine_Weyuker" title="Elaine Weyuker">Elaine Weyuker</a></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li><a href="/wiki/Edward_Yourdon" title="Edward Yourdon">Edward Yourdon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Project_management" title="Project management">Project management</a></li>
+<li><a href="/wiki/Risk_management" title="Risk management">Risk management</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Software_engineering" class="extiw" title="commons:Software engineering">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="ISO_standards_by_standard_number" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ISO_standards" title="Template:ISO standards"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ISO_standards" title="Template talk:ISO standards"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ISO_standards&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="ISO_standards_by_standard_number" style="font-size:114%;margin:0 4em"><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> standards <span style="font-weight:normal;"><span style="font-size:90%;">by standard number</span></span></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>List of <a href="/wiki/List_of_International_Organization_for_Standardization_standards" title="List of International Organization for Standardization standards">ISO standards</a>&#160;/ <a href="/wiki/List_of_ISO_romanizations" title="List of ISO romanizations">ISO romanizations</a>&#160;/ <a href="/wiki/List_of_IEC_standards" class="mw-redirect" title="List of IEC standards">IEC standards</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1–9999</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_1" title="ISO 1">1</a></li>
+<li><a href="/wiki/ISO_2" title="ISO 2">2</a></li>
+<li><a href="/wiki/Preferred_number" title="Preferred number">3</a></li>
+<li><a href="/wiki/ISO_4" title="ISO 4">4</a></li>
+<li><a href="/wiki/ISO_5" title="ISO 5">5</a></li>
+<li><a href="/wiki/ISO_6" class="mw-redirect" title="ISO 6">6</a></li>
+<li><a href="/wiki/ISO_7" class="mw-redirect" title="ISO 7">7</a></li>
+<li><a href="/wiki/ISO_9" title="ISO 9">9</a></li>
+<li><a href="/wiki/A440_(pitch_standard)" title="A440 (pitch standard)">16</a></li>
+<li><a href="/wiki/ISO_31" title="ISO 31">31</a>
+<ul>
+<li><a href="/wiki/ISO_31-0" title="ISO 31-0">-0</a></li>
+<li><a href="/wiki/ISO_31-1" title="ISO 31-1">-1</a></li>
+<li><a href="/wiki/ISO_31-2" title="ISO 31-2">-2</a></li>
+<li><a href="/wiki/ISO_31-3" title="ISO 31-3">-3</a></li>
+<li><a href="/wiki/ISO_31-4" title="ISO 31-4">-4</a></li>
+<li><a href="/wiki/ISO_31-5" title="ISO 31-5">-5</a></li>
+<li><a href="/wiki/ISO_31-6" title="ISO 31-6">-6</a></li>
+<li><a href="/wiki/ISO_31-7" title="ISO 31-7">-7</a></li>
+<li><a href="/wiki/ISO_31-8" title="ISO 31-8">-8</a></li>
+<li><a href="/wiki/ISO_31-9" title="ISO 31-9">-9</a></li>
+<li><a href="/wiki/ISO_31-10" title="ISO 31-10">-10</a></li>
+<li><a href="/wiki/ISO_31-11" title="ISO 31-11">-11</a></li>
+<li><a href="/wiki/ISO_31-12" title="ISO 31-12">-12</a></li>
+<li><a href="/wiki/ISO_31-13" title="ISO 31-13">-13</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_128" title="ISO 128">128</a></li>
+<li><a href="/wiki/ISO_216" title="ISO 216">216</a></li>
+<li><a href="/wiki/ISO_217" title="ISO 217">217</a></li>
+<li><a href="/wiki/ISO_226" class="mw-redirect" title="ISO 226">226</a></li>
+<li><a href="/wiki/British_standard_pipe_thread" class="mw-redirect" title="British standard pipe thread">228</a></li>
+<li><a href="/wiki/ISO_233" title="ISO 233">233</a></li>
+<li><a href="/wiki/ISO_259" title="ISO 259">259</a></li>
+<li><a href="/wiki/Envelope" title="Envelope">269</a></li>
+<li><a href="/wiki/Kappa_number" title="Kappa number">302</a></li>
+<li><a href="/wiki/Vicat_softening_point" title="Vicat softening point">306</a></li>
+<li><a href="/wiki/ISO_428" title="ISO 428">428</a></li>
+<li><a href="/wiki/ISO_518" class="mw-redirect" title="ISO 518">518</a></li>
+<li><a href="/wiki/ISO_519" class="mw-redirect" title="ISO 519">519</a></li>
+<li><a href="/wiki/ISO_639" title="ISO 639">639</a>
+<ul>
+<li><a href="/wiki/ISO_639-1" title="ISO 639-1">-1</a></li>
+<li><a href="/wiki/ISO_639-2" title="ISO 639-2">-2</a></li>
+<li><a href="/wiki/ISO_639-3" title="ISO 639-3">-3</a></li>
+<li><a href="/wiki/ISO_639-5" title="ISO 639-5">-5</a></li>
+<li><a href="/wiki/ISO_639-6" title="ISO 639-6">-6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO/IEC_646" title="ISO/IEC 646">646</a></li>
+<li><a href="/wiki/ISO_690" title="ISO 690">690</a></li>
+<li><a href="/wiki/ISO_732" title="ISO 732">732</a></li>
+<li><a href="/wiki/Antimagnetic_watch" title="Antimagnetic watch">764</a></li>
+<li><a href="/wiki/ISO_843" title="ISO 843">843</a></li>
+<li><a href="/wiki/ISO_898" title="ISO 898">898</a></li>
+<li><a href="/wiki/ISO_965" title="ISO 965">965</a></li>
+<li><a href="/wiki/ISO_1000" title="ISO 1000">1000</a></li>
+<li><a href="/wiki/Magnetic_ink_character_recognition" title="Magnetic ink character recognition">1004</a></li>
+<li><a href="/wiki/135_film" title="135 film">1007</a></li>
+<li><a href="/wiki/OCR-A_font" class="mw-redirect" title="OCR-A font">1073-1</a></li>
+<li><a href="/wiki/ISO_1413" class="mw-redirect" title="ISO 1413">1413</a></li>
+<li><a href="/wiki/ALGOL_60" title="ALGOL 60">1538</a></li>
+<li><a href="/wiki/ISO_1745" title="ISO 1745">1745</a></li>
+<li><a href="/wiki/ISO_1989" class="mw-redirect" title="ISO 1989">1989</a></li>
+<li><a href="/wiki/ISO_2014" title="ISO 2014">2014</a></li>
+<li><a href="/wiki/ISO_2015" title="ISO 2015">2015</a></li>
+<li><a href="/wiki/ISO/IEC_2022" title="ISO/IEC 2022">2022</a></li>
+<li><a href="/wiki/ISO_2047" title="ISO 2047">2047</a></li>
+<li><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">2108</a></li>
+<li><a href="/wiki/ISO_2145" title="ISO 2145">2145</a></li>
+<li><a href="/wiki/ISO_2146" title="ISO 2146">2146</a></li>
+<li><a href="/wiki/ISO_2240" class="mw-redirect" title="ISO 2240">2240</a></li>
+<li><a href="/wiki/Water_Resistant_mark" title="Water Resistant mark">2281</a></li>
+<li><a href="/wiki/ISO_2709" title="ISO 2709">2709</a></li>
+<li><a href="/wiki/ISO_2711" title="ISO 2711">2711</a></li>
+<li><a href="/wiki/ISO_2788" title="ISO 2788">2788</a></li>
+<li><a href="/wiki/ISO_2848" title="ISO 2848">2848</a></li>
+<li><a href="/wiki/ISO_2852" title="ISO 2852">2852</a></li>
+<li><a href="/wiki/126_film" title="126 film">3029</a></li>
+<li><a href="/wiki/ISO_3103" title="ISO 3103">3103</a></li>
+<li><a href="/wiki/ISO_3166" title="ISO 3166">3166</a>
+<ul>
+<li><a href="/wiki/ISO_3166-1" title="ISO 3166-1">-1</a></li>
+<li><a href="/wiki/ISO_3166-2" title="ISO 3166-2">-2</a></li>
+<li><a href="/wiki/ISO_3166-3" title="ISO 3166-3">-3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">3297</a></li>
+<li><a href="/wiki/ISO_3307" title="ISO 3307">3307</a></li>
+<li><a href="/wiki/Kunrei-shiki_romanization" title="Kunrei-shiki romanization">3602</a></li>
+<li><a href="/wiki/ISO_3864" title="ISO 3864">3864</a></li>
+<li><a href="/wiki/International_Standard_Recording_Code" title="International Standard Recording Code">3901</a></li>
+<li><a href="/wiki/ISO_3977" title="ISO 3977">3977</a></li>
+<li><a href="/wiki/ISO_4031" title="ISO 4031">4031</a></li>
+<li><a href="/wiki/ISO_4157" title="ISO 4157">4157</a></li>
+<li><a href="/wiki/ISO_4217" title="ISO 4217">4217</a></li>
+<li><a href="/wiki/ISO/IEC_4909" title="ISO/IEC 4909">4909</a></li>
+<li><a href="/wiki/ISO/IEC_5218" title="ISO/IEC 5218">5218</a></li>
+<li><a href="/wiki/ISO_5428" title="ISO 5428">5428</a></li>
+<li><a href="/wiki/ISO_5775" title="ISO 5775">5775</a></li>
+<li><a href="/wiki/ISO_5776" title="ISO 5776">5776</a></li>
+<li><a href="/wiki/ISO_5800" class="mw-redirect" title="ISO 5800">5800</a></li>
+<li><a href="/wiki/ISO_5964" title="ISO 5964">5964</a></li>
+<li><a href="/wiki/ISO_6166" class="mw-redirect" title="ISO 6166">6166</a></li>
+<li><a href="/wiki/ISO_6344" title="ISO 6344">6344</a></li>
+<li><a href="/wiki/ISO_6346" title="ISO 6346">6346</a></li>
+<li><a href="/wiki/ISO_6385" title="ISO 6385">6385</a></li>
+<li><a href="/wiki/Water_Resistant_mark" title="Water Resistant mark">6425</a></li>
+<li><a href="/wiki/ANSI_escape_code" title="ANSI escape code">6429</a></li>
+<li><a href="/wiki/ISO_6438" title="ISO 6438">6438</a></li>
+<li><a href="/wiki/ISO_6523" class="mw-redirect" title="ISO 6523">6523</a></li>
+<li><a href="/wiki/ISO_6709" title="ISO 6709">6709</a></li>
+<li><a href="/wiki/ISO_7001" title="ISO 7001">7001</a></li>
+<li><a href="/wiki/ISO_7002" title="ISO 7002">7002</a></li>
+<li><a href="/wiki/Pinyin" title="Pinyin">7098</a></li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">7185</a></li>
+<li><a href="/wiki/ISO_7200" title="ISO 7200">7200</a></li>
+<li><a href="/wiki/OSI_model" title="OSI model">7498</a></li>
+<li><a href="/wiki/ISO_7736" title="ISO 7736">7736</a></li>
+<li><a href="/wiki/ISO/IEC_7810" title="ISO/IEC 7810">7810</a></li>
+<li><a href="/wiki/ISO/IEC_7811" title="ISO/IEC 7811">7811</a></li>
+<li><a href="/wiki/ISO/IEC_7812" title="ISO/IEC 7812">7812</a></li>
+<li><a href="/wiki/ISO/IEC_7813" title="ISO/IEC 7813">7813</a></li>
+<li><a href="/wiki/ISO/IEC_7816" title="ISO/IEC 7816">7816</a></li>
+<li><a href="/wiki/ISO_8000" title="ISO 8000">8000</a></li>
+<li><a href="/wiki/ISO_8178" title="ISO 8178">8178</a></li>
+<li><a href="/wiki/Fuel_oil" title="Fuel oil">8217</a></li>
+<li><a href="/wiki/FTAM" title="FTAM">8571</a></li>
+<li><a href="/wiki/ISO_8583" title="ISO 8583">8583</a></li>
+<li><a href="/wiki/ISO_8601" title="ISO 8601">8601</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">8632</a></li>
+<li><a href="/wiki/ISO/IEC_8652" title="ISO/IEC 8652">8652</a></li>
+<li><a href="/wiki/ISO_8691" title="ISO 8691">8691</a></li>
+<li><a href="/wiki/Language_Of_Temporal_Ordering_Specification" title="Language Of Temporal Ordering Specification">8807</a></li>
+<li><a href="/wiki/ISO/IEC_8820-5" title="ISO/IEC 8820-5">8820-5</a></li>
+<li><a href="/wiki/ISO/IEC_8859" title="ISO/IEC 8859">8859</a>
+<ul>
+<li><a href="/wiki/ISO/IEC_8859-1" title="ISO/IEC 8859-1">-1</a></li>
+<li><a href="/wiki/ISO/IEC_8859-2" title="ISO/IEC 8859-2">-2</a></li>
+<li><a href="/wiki/ISO/IEC_8859-3" title="ISO/IEC 8859-3">-3</a></li>
+<li><a href="/wiki/ISO/IEC_8859-4" title="ISO/IEC 8859-4">-4</a></li>
+<li><a href="/wiki/ISO/IEC_8859-5" title="ISO/IEC 8859-5">-5</a></li>
+<li><a href="/wiki/ISO/IEC_8859-6" title="ISO/IEC 8859-6">-6</a></li>
+<li><a href="/wiki/ISO/IEC_8859-7" title="ISO/IEC 8859-7">-7</a></li>
+<li><a href="/wiki/ISO/IEC_8859-8" title="ISO/IEC 8859-8">-8</a></li>
+<li><a href="/wiki/ISO-8859-8-I" title="ISO-8859-8-I">-8-I</a></li>
+<li><a href="/wiki/ISO/IEC_8859-9" title="ISO/IEC 8859-9">-9</a></li>
+<li><a href="/wiki/ISO/IEC_8859-10" title="ISO/IEC 8859-10">-10</a></li>
+<li><a href="/wiki/ISO/IEC_8859-11" title="ISO/IEC 8859-11">-11</a></li>
+<li><a href="/wiki/ISO/IEC_8859-12" title="ISO/IEC 8859-12">-12</a></li>
+<li><a href="/wiki/ISO/IEC_8859-13" title="ISO/IEC 8859-13">-13</a></li>
+<li><a href="/wiki/ISO/IEC_8859-14" title="ISO/IEC 8859-14">-14</a></li>
+<li><a href="/wiki/ISO/IEC_8859-15" title="ISO/IEC 8859-15">-15</a></li>
+<li><a href="/wiki/ISO/IEC_8859-16" title="ISO/IEC 8859-16">-16</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">8879</a></li>
+<li><a href="/wiki/ISO_9000" title="ISO 9000">9000/9001</a></li>
+<li><a href="/wiki/SQL" title="SQL">9075</a></li>
+<li><a href="/wiki/ISO/IEC_9126" title="ISO/IEC 9126">9126</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">9293</a></li>
+<li><a href="/wiki/ISO_9241" title="ISO 9241">9241</a></li>
+<li><a href="/wiki/ISO_9362" title="ISO 9362">9362</a></li>
+<li><a href="/wiki/Shoe_size" title="Shoe size">9407</a></li>
+<li><a href="/wiki/Manufacturing_Message_Specification" title="Manufacturing Message Specification">9506</a></li>
+<li><a href="/wiki/ISO_9529" title="ISO 9529">9529</a></li>
+<li><a href="/wiki/ISO_9564" title="ISO 9564">9564</a></li>
+<li><a href="/wiki/X.500" title="X.500">9594</a></li>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">9660</a></li>
+<li><a href="/wiki/ISO_9897" title="ISO 9897">9897</a></li>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">9899</a></li>
+<li><a href="/wiki/POSIX" title="POSIX">9945</a></li>
+<li><a href="/wiki/ISO_9984" class="mw-redirect" title="ISO 9984">9984</a></li>
+<li><a href="/wiki/ISO_9985" class="mw-redirect" title="ISO 9985">9985</a></li>
+<li><a href="/wiki/ISO/IEC_9995" title="ISO/IEC 9995">9995</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10000–19999</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_10005" class="mw-redirect" title="ISO 10005">10005</a></li>
+<li><a href="/wiki/ISO_10006" title="ISO 10006">10006</a></li>
+<li><a href="/wiki/ISO_10007" title="ISO 10007">10007</a></li>
+<li><a href="/wiki/ISO/IEC_10116" title="ISO/IEC 10116">10116</a></li>
+<li><a href="/wiki/Whirlpool_(cryptography)" title="Whirlpool (cryptography)">10118-3</a></li>
+<li><a href="/wiki/ISO_10160" title="ISO 10160">10160</a></li>
+<li><a href="/wiki/ISO_10161" title="ISO 10161">10161</a></li>
+<li><a href="/wiki/Guidelines_for_the_Definition_of_Managed_Objects" title="Guidelines for the Definition of Managed Objects">10165</a></li>
+<li><a href="/wiki/Document_Style_Semantics_and_Specification_Language" title="Document Style Semantics and Specification Language">10179</a></li>
+<li><a href="/wiki/ISO_10206" class="mw-redirect" title="ISO 10206">10206</a></li>
+<li><a href="/wiki/ISO_10218" title="ISO 10218">10218</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">10303</a>
+<ul>
+<li><a href="/wiki/EXPRESS_(data_modeling_language)" title="EXPRESS (data modeling language)">-11</a></li>
+<li><a href="/wiki/ISO_10303-21" title="ISO 10303-21">-21</a></li>
+<li><a href="/wiki/ISO_10303-22" title="ISO 10303-22">-22</a></li>
+<li><a href="/wiki/ISO_10303-28" title="ISO 10303-28">-28</a></li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">-238</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_10383" class="mw-redirect" title="ISO 10383">10383</a></li>
+<li><a href="/wiki/ISO_10487" class="mw-redirect" title="ISO 10487">10487</a></li>
+<li><a href="/wiki/ArmSCII" title="ArmSCII">10585</a></li>
+<li><a href="/wiki/IS-IS" title="IS-IS">10589</a></li>
+<li><a href="/wiki/Universal_Coded_Character_Set" title="Universal Coded Character Set">10646</a></li>
+<li><a href="/wiki/Torx" title="Torx">10664</a></li>
+<li><a href="/wiki/RM-ODP" title="RM-ODP">10746</a></li>
+<li><a href="/wiki/Multibus" title="Multibus">10861</a></li>
+<li><a href="/wiki/International_Standard_Music_Number" title="International Standard Music Number">10957</a></li>
+<li><a href="/wiki/ISO_10962" title="ISO 10962">10962</a></li>
+<li><a href="/wiki/ISO/IEC_10967" title="ISO/IEC 10967">10967</a></li>
+<li><a href="/wiki/ISO/IEEE_11073" title="ISO/IEEE 11073">11073</a></li>
+<li><a href="/wiki/ISO_11170" title="ISO 11170">11170</a></li>
+<li><a href="/wiki/ISO/IEC_11179" title="ISO/IEC 11179">11179</a></li>
+<li><a href="/wiki/ISO/IEC_11404" title="ISO/IEC 11404">11404</a></li>
+<li><a href="/wiki/JBIG" title="JBIG">11544</a></li>
+<li><a href="/wiki/ISO_11783" title="ISO 11783">11783</a></li>
+<li><a href="/wiki/ISO_11784_%26_11785" title="ISO 11784 &amp; 11785">11784</a></li>
+<li><a href="/wiki/ISO_11784_%26_11785" title="ISO 11784 &amp; 11785">11785</a></li>
+<li><a href="/wiki/ISO/IEC_11801" title="ISO/IEC 11801">11801</a></li>
+<li><a href="/wiki/ISO_11898" class="mw-redirect" title="ISO 11898">11898</a></li>
+<li><a href="/wiki/ISO_11940" title="ISO 11940">11940</a> (<a href="/wiki/ISO_11940-2" title="ISO 11940-2">-2</a>)</li>
+<li><a href="/wiki/ISO/TR_11941" title="ISO/TR 11941">11941</a></li>
+<li><a href="/wiki/ISO/TR_11941" title="ISO/TR 11941">11941 (TR)</a></li>
+<li><a href="/wiki/ISO_11992" title="ISO 11992">11992</a></li>
+<li><a href="/wiki/ISO_12006" title="ISO 12006">12006</a></li>
+<li><a href="/wiki/ISO/IEC_TR_12182" title="ISO/IEC TR 12182">12182</a></li>
+<li><a href="/wiki/ISO/IEC_12207" title="ISO/IEC 12207">12207</a></li>
+<li><a href="/wiki/Tag_Image_File_Format_/_Electronic_Photography" class="mw-redirect" title="Tag Image File Format / Electronic Photography">12234-2</a></li>
+<li><a href="/wiki/Prolog" title="Prolog">13211</a>
+<ul>
+<li><a href="/wiki/Prolog" title="Prolog">-1</a></li>
+<li><a href="/wiki/Prolog" title="Prolog">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Isofix" title="Isofix">13216</a></li>
+<li><a href="/wiki/Topic_Maps" class="mw-redirect" title="Topic Maps">13250</a></li>
+<li><a href="/wiki/ISO_13399" title="ISO 13399">13399</a></li>
+<li><a href="/wiki/ISO_13406-2" title="ISO 13406-2">13406-2</a></li>
+<li><a href="/wiki/110_film" title="110 film">13450</a></li>
+<li><a href="/wiki/ISO_13485" title="ISO 13485">13485</a></li>
+<li><a href="/wiki/ISO_13490" title="ISO 13490">13490</a></li>
+<li><a href="/wiki/ISO_13567" title="ISO 13567">13567</a></li>
+<li><a href="/wiki/Z_notation" title="Z notation">13568</a></li>
+<li><a href="/wiki/ISO_13584" title="ISO 13584">13584</a></li>
+<li><a href="/wiki/International_Bank_Account_Number" title="International Bank Account Number">13616</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">14000</a></li>
+<li><a href="/wiki/ISO_14031" title="ISO 14031">14031</a></li>
+<li><a href="/wiki/ISO_14224" title="ISO 14224">14224</a></li>
+<li><a href="/wiki/PDF/UA" title="PDF/UA">14289</a></li>
+<li><a href="/wiki/Horsepower" title="Horsepower">14396</a></li>
+<li><a href="/wiki/ISO/IEC_14443" title="ISO/IEC 14443">14443</a></li>
+<li><a href="/wiki/MPEG-4" title="MPEG-4">14496</a>
+<ul>
+<li><a href="/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">-2</a></li>
+<li><a href="/wiki/MPEG-4_Part_3" title="MPEG-4 Part 3">-3</a></li>
+<li><a href="/wiki/Delivery_Multimedia_Integration_Framework" title="Delivery Multimedia Integration Framework">-6</a></li>
+<li><a href="/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">-10</a></li>
+<li><a href="/wiki/MPEG-4_Part_11" title="MPEG-4 Part 11">-11</a></li>
+<li><a href="/wiki/MPEG-4_Part_12" class="mw-redirect" title="MPEG-4 Part 12">-12</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-14</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-17</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-20</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_14644" title="ISO 14644">14644</a></li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">14649</a></li>
+<li><a href="/wiki/ISO_14651" title="ISO 14651">14651</a></li>
+<li><a href="/wiki/ISO_14698" title="ISO 14698">14698</a></li>
+<li><a href="/wiki/ISO_14750" title="ISO 14750">14750</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">14764</a></li>
+<li><a href="/wiki/C%2B%2B" title="C++">14882</a></li>
+<li><a href="/wiki/ISO_14971" title="ISO 14971">14971</a></li>
+<li><a href="/wiki/ISO_15022" title="ISO 15022">15022</a></li>
+<li><a href="/wiki/ISO_15189" title="ISO 15189">15189</a></li>
+<li><a href="/wiki/ISO/IEC_15288" title="ISO/IEC 15288">15288</a></li>
+<li><a href="/wiki/Ada_Semantic_Interface_Specification" title="Ada Semantic Interface Specification">15291</a></li>
+<li><a href="/wiki/ISO_15292" title="ISO 15292">15292</a></li>
+<li><a href="/wiki/ISO_15398" title="ISO 15398">15398</a></li>
+<li><a href="/wiki/Common_Criteria" title="Common Criteria">15408</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">15444</a>
+<ul>
+<li><a href="/wiki/Motion_JPEG_2000" title="Motion JPEG 2000">-3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/HTML" title="HTML">15445</a></li>
+<li><a href="/wiki/PDF417" title="PDF417">15438</a></li>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">15504</a></li>
+<li><a href="/wiki/International_Standard_Identifier_for_Libraries_and_Related_Organizations" title="International Standard Identifier for Libraries and Related Organizations">15511</a></li>
+<li><a href="/wiki/ISO_15686" title="ISO 15686">15686</a></li>
+<li><a href="/wiki/ISO/IEC_15693" title="ISO/IEC 15693">15693</a></li>
+<li><a href="/wiki/International_Standard_Audiovisual_Number" title="International Standard Audiovisual Number">15706</a>
+<ul>
+<li><a href="/wiki/ISO_15706-2" title="ISO 15706-2">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Standard_Musical_Work_Code" title="International Standard Musical Work Code">15707</a></li>
+<li><a href="/wiki/ISO_15897" class="mw-redirect" title="ISO 15897">15897</a></li>
+<li><a href="/wiki/ISO_15919" title="ISO 15919">15919</a></li>
+<li><a href="/wiki/ISO_15924" title="ISO 15924">15924</a></li>
+<li><a href="/wiki/ISO_15926" title="ISO 15926">15926</a></li>
+<li><a href="/wiki/ISO_15926_WIP" title="ISO 15926 WIP">15926 WIP</a></li>
+<li><a href="/wiki/PDF/X" title="PDF/X">15930</a></li>
+<li><a href="/wiki/MaxiCode" title="MaxiCode">16023</a></li>
+<li><a href="/wiki/ECMAScript" title="ECMAScript">16262</a></li>
+<li><a href="/wiki/PDF/VT" title="PDF/VT">16612-2</a></li>
+<li><a href="/wiki/ISO_16750" title="ISO 16750">16750</a></li>
+<li><a href="/wiki/ISO/TS_16949" title="ISO/TS 16949">16949 (TS)</a></li>
+<li><a href="/wiki/ISO/IEC_17024" title="ISO/IEC 17024">17024</a></li>
+<li><a href="/wiki/ISO/IEC_17025" title="ISO/IEC 17025">17025</a></li>
+<li><a href="/wiki/ISO_17100:2015" title="ISO 17100:2015">17100</a></li>
+<li><a href="/wiki/Open_Virtualization_Format" title="Open Virtualization Format">17203</a></li>
+<li><a href="/wiki/SDMX" title="SDMX">17369</a></li>
+<li><a href="/wiki/Legal_Entity_Identifier" title="Legal Entity Identifier">17442</a></li>
+<li><a href="/wiki/ISO/IEC_27002" title="ISO/IEC 27002">17799</a></li>
+<li><a href="/wiki/ISO/IEC_18000" title="ISO/IEC 18000">18000</a></li>
+<li><a href="/wiki/QR_code" title="QR code">18004</a></li>
+<li><a href="/wiki/ISO/IEC_18014" title="ISO/IEC 18014">18014</a></li>
+<li><a href="/wiki/ISO_18245" title="ISO 18245">18245</a></li>
+<li><a href="/wiki/Process_Specification_Language" title="Process Specification Language">18629</a></li>
+<li><a href="/wiki/Photographic_Activity_Test" title="Photographic Activity Test">18916</a></li>
+<li><a href="/wiki/PDF/A" title="PDF/A">19005</a></li>
+<li><a href="/wiki/ISO_19011" title="ISO 19011">19011</a></li>
+<li><a href="/wiki/ISO_19092-1" title="ISO 19092-1">19092 (-1</a></li>
+<li><a href="/wiki/ISO_19092-2" title="ISO 19092-2">-2)</a></li>
+<li><a href="/wiki/ISO_19114" title="ISO 19114">19114</a></li>
+<li><a href="/wiki/ISO_19115" class="mw-redirect" title="ISO 19115">19115</a></li>
+<li><a href="/wiki/Simple_feature_access" class="mw-redirect" title="Simple feature access">19125</a></li>
+<li><a href="/wiki/ISO_19136" class="mw-redirect" title="ISO 19136">19136</a></li>
+<li><a href="/wiki/ISO_19439" title="ISO 19439">19439</a></li>
+<li><a href="/wiki/Common_Object_Request_Broker_Architecture" title="Common Object Request Broker Architecture">19500</a></li>
+<li><a class="mw-selflink selflink">19501</a></li>
+<li><a href="/wiki/Meta-Object_Facility" title="Meta-Object Facility">19502</a></li>
+<li><a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">19503</a></li>
+<li><a class="mw-selflink selflink">19505</a></li>
+<li><a href="/wiki/Knowledge_Discovery_Metamodel" title="Knowledge Discovery Metamodel">19506</a></li>
+<li><a href="/wiki/Object_Constraint_Language" title="Object Constraint Language">19507</a></li>
+<li><a href="/wiki/Meta-Object_Facility" title="Meta-Object Facility">19508</a></li>
+<li><a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">19509</a></li>
+<li><a href="/wiki/Business_Process_Model_and_Notation" title="Business Process Model and Notation">19510</a></li>
+<li><a href="/wiki/ISO_19600:2014" class="mw-redirect" title="ISO 19600:2014">19600:2014</a></li>
+<li><a href="/wiki/ISO/IEC_19752" title="ISO/IEC 19752">19752</a></li>
+<li><a href="/wiki/RELAX_NG" title="RELAX NG">19757</a></li>
+<li><a href="/wiki/ISO/IEC_19770" title="ISO/IEC 19770">19770</a></li>
+<li><a href="/wiki/X3D" title="X3D">19775-1</a></li>
+<li><a href="/wiki/ISO/IEC_19794-5" title="ISO/IEC 19794-5">19794-5</a></li>
+<li><a href="/wiki/Cloud_Infrastructure_Management_Interface" title="Cloud Infrastructure Management Interface">19831</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_20000" title="ISO/IEC 20000">20000</a></li>
+<li><a href="/wiki/ISO_20022" title="ISO 20022">20022</a></li>
+<li><a href="/wiki/ISO_20121" title="ISO 20121">20121</a></li>
+<li><a href="/wiki/ISO_20400" title="ISO 20400">20400</a></li>
+<li><a href="/wiki/MPEG-21" title="MPEG-21">21000</a></li>
+<li><a href="/wiki/International_Standard_Text_Code" title="International Standard Text Code">21047</a></li>
+<li><a href="/wiki/ISO_21500" title="ISO 21500">21500</a></li>
+<li><a href="/wiki/ISO/IEC_21827" title="ISO/IEC 21827">21827:2002</a></li>
+<li><a href="/wiki/ISO_22000" title="ISO 22000">22000</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">23270</a></li>
+<li><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">23271</a></li>
+<li><a href="/wiki/Linux_Standard_Base" title="Linux Standard Base">23360</a></li>
+<li><a href="/wiki/PDF/E" title="PDF/E">24517</a></li>
+<li><a href="/wiki/Lexical_Markup_Framework" title="Lexical Markup Framework">24613</a></li>
+<li><a href="/wiki/ISO-TimeML" title="ISO-TimeML">24617</a></li>
+<li><a href="/wiki/Common_Logic" title="Common Logic">24707</a></li>
+<li><a href="/wiki/ISO_25178" title="ISO 25178">25178</a></li>
+<li><a href="/wiki/ISO_25964" title="ISO 25964">25964</a></li>
+<li><a href="/wiki/ISO_26000" title="ISO 26000">26000</a></li>
+<li><a href="/wiki/OpenDocument" title="OpenDocument">26300</a></li>
+<li><a href="/wiki/Digital_object_identifier" title="Digital object identifier">26324</a></li>
+<li><a href="/wiki/ISO/IEC_27000-series" title="ISO/IEC 27000-series">27000 series</a></li>
+<li><a href="/wiki/ISO/IEC_27000" title="ISO/IEC 27000">27000</a></li>
+<li><a href="/wiki/ISO/IEC_27001" title="ISO/IEC 27001">27001</a></li>
+<li><a href="/wiki/ISO/IEC_27002" title="ISO/IEC 27002">27002</a></li>
+<li><a href="/wiki/ISO/IEC_27006" title="ISO/IEC 27006">27006</a></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">27729</a></li>
+<li><a href="/wiki/ISO_28000" title="ISO 28000">28000</a></li>
+<li><a href="/wiki/ISO_29110" title="ISO 29110">29110</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">29148</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">29199-2</a></li>
+<li><a href="/wiki/Office_Open_XML" title="Office Open XML">29500</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">30170</a></li>
+<li><a href="/wiki/ISO_31000" title="ISO 31000">31000</a></li>
+<li><a href="/wiki/Portable_Document_Format" title="Portable Document Format">32000</a></li>
+<li><a href="/wiki/ISO/IEC_38500" title="ISO/IEC 38500">38500</a></li>
+<li><a href="/wiki/Web_Content_Accessibility_Guidelines" title="Web Content Accessibility Guidelines">40500</a></li>
+<li><a href="/wiki/ISO/IEC_42010" title="ISO/IEC 42010">42010</a></li>
+<li><a href="/wiki/ISO_55000" title="ISO 55000">55000</a></li>
+<li><a href="/wiki/ISO/IEC_80000" title="ISO/IEC 80000">80000</a>
+<ul>
+<li><a href="/wiki/ISO_80000-1" title="ISO 80000-1">-1</a></li>
+<li><a href="/wiki/ISO_80000-2" title="ISO 80000-2">-2</a></li>
+<li><a href="/wiki/ISO_80000-3" title="ISO 80000-3">-3</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:ISO_standards" title="Category:ISO standards">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh97003561">sh97003561</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4469781-8">4469781-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb131836959">cb131836959</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb131836959">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20180217090826
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.436 seconds
+Real time usage: 0.547 seconds
+Preprocessor visited node count: 2342/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 138669/2097152 bytes
+Template argument size: 1658/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 4.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  389.879      1 -total
+ 39.43%  153.726      1 Template:Reflist
+ 15.85%   61.813     20 Template:Cite_web
+ 13.98%   54.523      7 Template:Cite_book
+ 11.47%   44.712      6 Template:Navbox
+  8.40%   32.737      2 Template:ISBN
+  7.38%   28.790      1 Template:Use_American_English
+  6.44%   25.112      1 Template:Official_website
+  4.89%   19.069      1 Template:Software_engineering
+  3.67%   14.313      1 Template:UML_diagram_types
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32169-0!canonical and timestamp 20180217090826 and revision id 822526090
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Unified_Modeling_Language&amp;oldid=822526090">https://en.wikipedia.org/w/index.php?title=Unified_Modeling_Language&amp;oldid=822526090</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Architecture_description_language" title="Category:Architecture description language">Architecture description language</a></li><li><a href="/wiki/Category:Data_modeling_languages" title="Category:Data modeling languages">Data modeling languages</a></li><li><a href="/wiki/Category:Data_modeling_diagrams" title="Category:Data modeling diagrams">Data modeling diagrams</a></li><li><a href="/wiki/Category:Diagrams" title="Category:Diagrams">Diagrams</a></li><li><a href="/wiki/Category:Knowledge_representation" title="Category:Knowledge representation">Knowledge representation</a></li><li><a href="/wiki/Category:ISO_standards" title="Category:ISO standards">ISO standards</a></li><li><a href="/wiki/Category:Specification_languages" title="Category:Specification languages">Specification languages</a></li><li><a href="/wiki/Category:Unified_Modeling_Language" title="Category:Unified Modeling Language">Unified Modeling Language</a></li><li><a href="/wiki/Category:Software_modeling_language" title="Category:Software modeling language">Software modeling language</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_American_English_from_January_2012" title="Category:Use American English from January 2012">Use American English from January 2012</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2011" title="Category:Use dmy dates from July 2011">Use dmy dates from July 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Unified+Modeling+Language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Unified+Modeling+Language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Unified_Modeling_Language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Unified_Modeling_Language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Unified_Modeling_Language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Unified_Modeling_Language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Unified_Modeling_Language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Unified_Modeling_Language&amp;oldid=822526090" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Unified_Modeling_Language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q169411" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Unified_Modeling_Language&amp;id=822526090" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Unified+Modeling+Language">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Unified+Modeling+Language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Unified_Modeling_Language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:UML" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/UML" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/UML" hreflang="en">Wikiversity</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9" title="لغة النمذجة الموحدة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/UML" title="UML – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/UML" title="UML – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/UML" title="UML – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Llenguatge_unificat_de_modelat" title="Llenguatge unificat de modelat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/UML" title="UML – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/%C3%9Chtne_modelleerimiskeel" title="Ühtne modelleerimiskeel – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%BB%CF%8E%CF%83%CF%83%CE%B5%CF%82_%CE%BC%CE%BF%CE%BD%CF%84%CE%B5%CE%BB%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82_%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D" title="Γλώσσες μοντελοποίησης λογισμικού – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lenguaje_unificado_de_modelado" title="Lenguaje unificado de modelado – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Unuigita_Modeliga_Lingvo" title="Unuigita Modeliga Lingvo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D9%85%D8%AF%D9%84%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87" title="زبان مدل‌سازی یکپارچه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/UML_(informatique)" title="UML (informatique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Linguaxe_de_Modelaxe_Unificada" title="Linguaxe de Modelaxe Unificada – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%B5%ED%95%A9_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%96%B8%EC%96%B4" title="통합 모델링 언어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%A1_%E0%A4%AE%E0%A5%8B%E0%A4%82%E0%A4%A1%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%97_%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%9C" title="युनिफाइड मोंडलिंग लैंग्वेज – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/UML" title="UML – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D1%84%D0%B8%D1%86%D0%B8%D1%80%D0%B0%D0%BD_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA_%D0%B7%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%B0%D1%9A%D0%B5" title="Унифициран јазик за моделирање – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%AB%E0%B5%88%E0%B4%A1%E0%B5%8D_%E0%B4%AE%E0%B5%8B%E0%B4%A1%E0%B4%B2%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%8D_%E0%B4%B2%E0%B4%BE%E0%B4%82%E0%B4%97%E0%B5%8D%E0%B4%B5%E0%B5%87%E0%B4%9C%E0%B5%8D" title="യൂണിഫൈഡ് മോഡലിങ്ങ് ലാംഗ്വേജ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/UML" title="UML – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%B2%D0%B0%D1%80%D1%87%D0%BB%D0%B0%D0%BB%D1%8B%D0%BD_%D0%BD%D1%8D%D0%B3%D0%B4%D0%BC%D1%8D%D0%BB_%D1%85%D1%8D%D0%BB" title="Загварчлалын нэгдмэл хэл – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B5%B1%E4%B8%80%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E" title="統一モデリング言語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/UML" title="UML – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/UML" title="UML – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Poenoteni_jezik_modeliranja" title="Poenoteni jezik modeliranja – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/UML" title="UML – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/UML-mallinnus" title="UML-mallinnus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B0%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%AE%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95_%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF" title="ஒருங்கு மாதிரியாக்க மொழி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AF%E0%B1%82%E0%B0%A8%E0%B0%BF%E0%B0%AB%E0%B1%88%E0%B0%A1%E0%B1%8D_%E0%B0%AE%E0%B0%BE%E0%B0%A1%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B1%8D_%E0%B0%B2%E0%B0%BE%E0%B0%82%E0%B0%97%E0%B1%8D%E0%B0%B5%E0%B1%87%E0%B0%9C%E0%B1%8D" title="యూనిఫైడ్ మాడలింగ్ లాంగ్వేజ్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%81%E0%B8%AD%E0%B8%A5" title="ยูเอ็มแอล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/UML" title="UML – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%B4n_ng%E1%BB%AF_m%C3%B4_h%C3%ACnh_h%C3%B3a_th%E1%BB%91ng_nh%E1%BA%A5t" title="Ngôn ngữ mô hình hóa thống nhất – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Unified_Modeling_Language" title="Unified Modeling Language – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80" title="统一建模语言 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q169411#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 January 2018, at 21:51.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Unified_Modeling_Language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.547","ppvisitednodes":{"value":2342,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":138669,"limit":2097152},"templateargumentsize":{"value":1658,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  389.879      1 -total"," 39.43%  153.726      1 Template:Reflist"," 15.85%   61.813     20 Template:Cite_web"," 13.98%   54.523      7 Template:Cite_book"," 11.47%   44.712      6 Template:Navbox","  8.40%   32.737      2 Template:ISBN","  7.38%   28.790      1 Template:Use_American_English","  6.44%   25.112      1 Template:Official_website","  4.89%   19.069      1 Template:Software_engineering","  3.67%   14.313      1 Template:UML_diagram_types"]},"scribunto":{"limitreport-timeusage":{"value":"0.163","limit":"10.000"},"limitreport-memusage":{"value":5126001,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20180217090826","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":646,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

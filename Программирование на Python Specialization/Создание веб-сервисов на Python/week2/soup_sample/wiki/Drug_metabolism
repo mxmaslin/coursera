@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Drug metabolism - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Drug_metabolism","wgTitle":"Drug metabolism","wgCurRevisionId":818975129,"wgRevisionId":818975129,"wgArticleId":1173475,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using div col without cols and colwidth parameters","Pages using Columns-list with deprecated parameters","Webarchive template wayback links","Metabolism","Hepatology","Toxicology","Pharmacokinetics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Drug_metabolism","wgRelevantArticleId":1173475,"wgRequestId":"Wn@ekApAMEoAAB3pVxgAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1124842","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/29/CYP2C9_1OG2.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Drug_metabolism"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Drug_metabolism&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Drug_metabolism&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Drug_metabolism"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Drug_metabolism rootpage-Drug_metabolism skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Drug metabolism</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the scientific concept of drug metabolism. For alternative medicine, see <a href="/wiki/Detoxification_(alternative_medicine)" title="Detoxification (alternative medicine)">Detoxification (alternative medicine)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:232px;"><a href="/wiki/File:CYP2C9_1OG2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/CYP2C9_1OG2.png/230px-CYP2C9_1OG2.png" width="230" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/CYP2C9_1OG2.png/345px-CYP2C9_1OG2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/CYP2C9_1OG2.png/460px-CYP2C9_1OG2.png 2x" data-file-width="1000" data-file-height="1047" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CYP2C9_1OG2.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Cytochrome_P450_oxidase" class="mw-redirect" title="Cytochrome P450 oxidase">Cytochrome P450 oxidases</a> are important enzymes in <a href="/wiki/Xenobiotic" title="Xenobiotic">xenobiotic</a> metabolism.</div>
+</div>
+</div>
+<p><b>Drug metabolism</b> is the <a href="/wiki/Metabolism" title="Metabolism">metabolic breakdown</a> of <a href="/wiki/Drug" title="Drug">drugs</a> by living <a href="/wiki/Organism" title="Organism">organisms</a>, usually through specialized <a href="/wiki/Enzyme" title="Enzyme">enzymatic</a> systems. More generally, <b>xenobiotic metabolism</b> (from the Greek <a href="/wiki/Xenos_(Greek)" title="Xenos (Greek)">xenos</a> "stranger" and biotic "related to living beings") is the set of <a href="/wiki/Metabolic_pathway" title="Metabolic pathway">metabolic pathways</a> that modify the chemical structure of <a href="/wiki/Xenobiotic" title="Xenobiotic">xenobiotics</a>, which are compounds foreign to an organism's normal biochemistry, such any <a href="/wiki/Drug" title="Drug">drug</a> or <a href="/wiki/Poison" title="Poison">poison</a>. These pathways are a form of <a href="/wiki/Biotransformation" title="Biotransformation">biotransformation</a> present in all major groups of organisms, and are considered to be of ancient origin. These reactions often act to <a href="/wiki/Detoxification" title="Detoxification">detoxify</a> poisonous compounds (although in some cases the intermediates in xenobiotic metabolism can themselves cause toxic effects). The study of drug metabolism is called <a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">pharmacokinetics</a>.</p>
+<p>The metabolism of <a href="/wiki/Pharmaceutical_drug" class="mw-redirect" title="Pharmaceutical drug">pharmaceutical drugs</a> is an important aspect of <a href="/wiki/Pharmacology" title="Pharmacology">pharmacology</a> and <a href="/wiki/Medicine" title="Medicine">medicine</a>. For example, the rate of metabolism determines the duration and intensity of a drug's pharmacologic action. Drug metabolism also affects <a href="/wiki/Multidrug_resistance" class="mw-redirect" title="Multidrug resistance">multidrug resistance</a> in <a href="/wiki/Infectious_disease" class="mw-redirect" title="Infectious disease">infectious diseases</a> and in <a href="/wiki/Chemotherapy" title="Chemotherapy">chemotherapy</a> for <a href="/wiki/Cancer" title="Cancer">cancer</a>, and the actions of some drugs as <a href="/wiki/Substrate_(chemistry)" title="Substrate (chemistry)">substrates</a> or <a href="/wiki/Enzyme_inhibitor" title="Enzyme inhibitor">inhibitors</a> of enzymes involved in xenobiotic metabolism are a common reason for hazardous <a href="/wiki/Drug_interaction" title="Drug interaction">drug interactions</a>. These pathways are also important in <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a>, with the xenobiotic metabolism of <a href="/wiki/Microorganism" title="Microorganism">microorganisms</a> determining whether a pollutant will be broken down during <a href="/wiki/Bioremediation" title="Bioremediation">bioremediation</a>, or <a href="/wiki/Persistent_organic_pollutant" title="Persistent organic pollutant">persist</a> in the environment. The enzymes of xenobiotic metabolism, particularly the <a href="/wiki/Glutathione_S-transferase" title="Glutathione S-transferase">glutathione S-transferases</a> are also important in agriculture, since they may produce resistance to <a href="/wiki/Pesticide" title="Pesticide">pesticides</a> and <a href="/wiki/Herbicide" title="Herbicide">herbicides</a>.</p>
+<p>Drug metabolism is divided into three phases. In phase I, enzymes such as <a href="/wiki/Cytochrome_P450_oxidase" class="mw-redirect" title="Cytochrome P450 oxidase">cytochrome P450 oxidases</a> introduce reactive or polar groups into xenobiotics. These modified compounds are then conjugated to polar compounds in phase II reactions. These reactions are catalysed by <a href="/wiki/Transferase" title="Transferase">transferase</a> enzymes such as <a href="/wiki/Glutathione_S-transferase" title="Glutathione S-transferase">glutathione S-transferases</a>. Finally, in phase III, the conjugated xenobiotics may be further processed, before being recognised by <a href="/wiki/Efflux_(microbiology)" title="Efflux (microbiology)">efflux transporters</a> and pumped out of cells. Drug metabolism often converts <a href="/wiki/Lipophilic" class="mw-redirect" title="Lipophilic">lipophilic</a> compounds into <a href="/wiki/Hydrophile" title="Hydrophile">hydrophilic</a> products that are more readily <a href="/wiki/Excretion" title="Excretion">excreted</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Permeability_barriers_and_detoxification"><span class="tocnumber">1</span> <span class="toctext">Permeability barriers and detoxification</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Phases_of_detoxification"><span class="tocnumber">2</span> <span class="toctext">Phases of detoxification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Phase_I_–_modification"><span class="tocnumber">2.1</span> <span class="toctext">Phase I – modification</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Oxidation"><span class="tocnumber">2.1.1</span> <span class="toctext">Oxidation</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Reduction"><span class="tocnumber">2.1.2</span> <span class="toctext">Reduction</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Hydrolysis"><span class="tocnumber">2.1.3</span> <span class="toctext">Hydrolysis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Phase_II_–_conjugation"><span class="tocnumber">2.2</span> <span class="toctext">Phase II – conjugation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Phase_III_–_further_modification_and_excretion"><span class="tocnumber">2.3</span> <span class="toctext">Phase III – further modification and excretion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Endogenous_toxins"><span class="tocnumber">3</span> <span class="toctext">Endogenous toxins</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Sites"><span class="tocnumber">4</span> <span class="toctext">Sites</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Factors_that_affect_drug_metabolism"><span class="tocnumber">5</span> <span class="toctext">Factors that affect drug metabolism</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#History"><span class="tocnumber">6</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Permeability_barriers_and_detoxification">Permeability barriers and detoxification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=1" title="Edit section: Permeability barriers and detoxification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The exact compounds an organism is exposed to will be largely unpredictable, and may differ widely over time; these are major characteristics of xenobiotic toxic stress.<sup id="cite_ref-Jakoby_1-0" class="reference"><a href="#cite_note-Jakoby-1">[1]</a></sup> The major challenge faced by xenobiotic detoxification systems is that they must be able to remove the almost-limitless number of xenobiotic compounds from the complex mixture of chemicals involved in normal <a href="/wiki/Metabolism" title="Metabolism">metabolism</a>. The solution that has evolved to address this problem is an elegant combination of physical barriers and low-specificity <a href="/wiki/Enzyme" title="Enzyme">enzymatic</a> systems.</p>
+<p>All organisms use <a href="/wiki/Cell_membrane" title="Cell membrane">cell membranes</a> as hydrophobic permeability barriers to control access to their internal environment. Polar compounds cannot diffuse across these <a href="/wiki/Cell_membrane" title="Cell membrane">cell membranes</a>, and the uptake of useful molecules is mediated through <a href="/wiki/Transport_protein" title="Transport protein">transport proteins</a> that specifically select substrates from the extracellular mixture. This selective uptake means that most <a href="/wiki/Hydrophile" title="Hydrophile">hydrophilic</a> molecules cannot enter cells, since they are not recognised by any specific transporters.<sup id="cite_ref-pmid12869659_2-0" class="reference"><a href="#cite_note-pmid12869659-2">[2]</a></sup> In contrast, the diffusion of <a href="/wiki/Hydrophobe" title="Hydrophobe">hydrophobic</a> compounds across these barriers cannot be controlled, and organisms, therefore, cannot exclude <a href="/wiki/Lipid" title="Lipid">lipid</a>-soluble xenobiotics using membrane barriers.</p>
+<p>However, the existence of a permeability barrier means that organisms were able to evolve detoxification systems that exploit the hydrophobicity common to membrane-permeable xenobiotics. These systems therefore solve the specificity problem by possessing such broad substrate specificities that they metabolise almost any non-polar compound.<sup id="cite_ref-Jakoby_1-1" class="reference"><a href="#cite_note-Jakoby-1">[1]</a></sup> Useful metabolites are excluded since they are polar, and in general contain one or more charged groups.</p>
+<p>The detoxification of the reactive by-products of normal metabolism cannot be achieved by the systems outlined above, because these species are derived from normal cellular constituents and usually share their polar characteristics. However, since these compounds are few in number, specific enzymes can recognize and remove them. Examples of these specific detoxification systems are the <a href="/wiki/Glyoxalase_system" title="Glyoxalase system">glyoxalase system</a>, which removes the reactive <a href="/wiki/Aldehyde" title="Aldehyde">aldehyde</a> methylglyoxal,<sup id="cite_ref-pmid2198020_3-0" class="reference"><a href="#cite_note-pmid2198020-3">[3]</a></sup> and the various antioxidant systems that eliminate <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">reactive oxygen species</a>.<sup id="cite_ref-Sies_4-0" class="reference"><a href="#cite_note-Sies-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Phases_of_detoxification"><span id="Phases"></span> Phases of detoxification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=2" title="Edit section: Phases of detoxification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:Xenobiotic_metabolism.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Xenobiotic_metabolism.png/350px-Xenobiotic_metabolism.png" width="350" height="208" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Xenobiotic_metabolism.png/525px-Xenobiotic_metabolism.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/97/Xenobiotic_metabolism.png 2x" data-file-width="558" data-file-height="331" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Xenobiotic_metabolism.png" class="internal" title="Enlarge"></a></div>
+Phases I and II of the metabolism of a lipophilic xenobiotic.</div>
+</div>
+</div>
+<p>The metabolism of xenobiotics is often divided into three phases:- modification, conjugation, and excretion. These reactions act in concert to detoxify xenobiotics and remove them from cells.</p>
+<h3><span id="Phase_I_.E2.80.93_modification"></span><span class="mw-headline" id="Phase_I_–_modification">Phase I – modification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=3" title="Edit section: Phase I – modification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In phase I, a variety of enzymes act to introduce reactive and polar groups into their substrates. One of the most common modifications is hydroxylation catalysed by the <a href="/wiki/Cytochrome_P450" title="Cytochrome P450">cytochrome P-450-dependent mixed-function oxidase system</a>. These enzyme complexes act to incorporate an atom of oxygen into nonactivated hydrocarbons, which can result in either the introduction of hydroxyl groups or N-, O- and S-dealkylation of substrates.<sup id="cite_ref-pmid11409933_5-0" class="reference"><a href="#cite_note-pmid11409933-5">[5]</a></sup> The reaction mechanism of the P-450 oxidases proceeds through the reduction of cytochrome-bound oxygen and the generation of a highly-reactive oxyferryl species, according to the following scheme:<sup id="cite_ref-pmid10698731_6-0" class="reference"><a href="#cite_note-pmid10698731-6">[6]</a></sup></p>
+<dl>
+<dd>O<sub>2</sub> + NADPH + H<sup>+</sup> + RH → NADP<sup>+</sup> + H<sub>2</sub>O + ROH</dd>
+</dl>
+<p>Phase I reactions (also termed nonsynthetic reactions) may occur by <a href="/wiki/Oxidation" class="mw-redirect" title="Oxidation">oxidation</a>, <a href="/wiki/Redox" title="Redox">reduction</a>, <a href="/wiki/Hydrolysis" title="Hydrolysis">hydrolysis</a>, <a href="/wiki/Cyclization" class="mw-redirect" title="Cyclization">cyclization</a>, <a href="/w/index.php?title=Decyclization&amp;action=edit&amp;redlink=1" class="new" title="Decyclization (page does not exist)">decyclization</a>, and addition of oxygen or removal of hydrogen, carried out by mixed function oxidases, often in the liver. These oxidative reactions typically involve a <a href="/wiki/Cytochrome_P450_oxidase" class="mw-redirect" title="Cytochrome P450 oxidase">cytochrome P450</a> monooxygenase (often abbreviated CYP), NADPH and oxygen. The classes of pharmaceutical drugs that utilize this method for their metabolism include <a href="/wiki/Phenothiazine" title="Phenothiazine">phenothiazines</a>, <a href="/wiki/Paracetamol#Metabolism" title="Paracetamol">paracetamol</a>, and steroids. If the metabolites of phase I reactions are sufficiently polar, they may be readily excreted at this point. However, many phase I products are not eliminated rapidly and undergo a subsequent reaction in which an <a href="/wiki/Endogenous" class="mw-redirect" title="Endogenous">endogenous</a> <a href="/wiki/Substrate_(chemistry)" title="Substrate (chemistry)">substrate</a> combines with the newly incorporated functional group to form a highly <a href="/w/index.php?title=Polar_conjugate&amp;action=edit&amp;redlink=1" class="new" title="Polar conjugate (page does not exist)">polar conjugate</a>.</p>
+<p>A common Phase I oxidation involves conversion of a C-H bond to a C-OH. This reaction sometimes converts a pharmacologically inactive compound (a <a href="/wiki/Prodrug" title="Prodrug">prodrug</a>) to a pharmacologically active one. By the same token, Phase I can turn a nontoxic molecule into a poisonous one (<a href="/wiki/Toxification" class="mw-redirect" title="Toxification">toxification</a>). Simple hydrolysis in the stomach is normally an innocuous reaction, however there are exceptions. For example, phase I metabolism converts <a href="/wiki/Acetonitrile" title="Acetonitrile">acetonitrile</a> to HOCH<sub>2</sub>CN, which rapidly dissociates into <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a> and <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Phase I metabolism of drug candidates can be simulated in the laboratory using non-enzyme catalysts.<sup id="cite_ref-pmid19039354_8-0" class="reference"><a href="#cite_note-pmid19039354-8">[8]</a></sup> This example of a <a href="/wiki/Biomimetic" class="mw-redirect" title="Biomimetic">biomimetic</a> reaction tends to give products that often contains the Phase I metabolites. As an example, the major metabolite of the pharmaceutical <a href="/wiki/Trimebutine" title="Trimebutine">trimebutine</a>, desmethyltrimebutine (nor-trimebutine), can be efficiently produced by in vitro oxidation of the commercially available drug. Hydroxylation of an N-methyl group leads to expulsion of a molecule of <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a>, while oxidation of the O-methyl groups takes place to a lesser extent.</p>
+<h4><span class="mw-headline" id="Oxidation">Oxidation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=4" title="Edit section: Oxidation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Cytochrome_P450_oxidase" class="mw-redirect" title="Cytochrome P450 oxidase">Cytochrome P450 monooxygenase system</a></li>
+<li><a href="/wiki/Flavin-containing_monooxygenase_system" class="mw-redirect" title="Flavin-containing monooxygenase system">Flavin-containing monooxygenase system</a></li>
+<li><a href="/wiki/Alcohol_dehydrogenase" title="Alcohol dehydrogenase">Alcohol dehydrogenase</a> and <a href="/wiki/Aldehyde_dehydrogenase" title="Aldehyde dehydrogenase">aldehyde dehydrogenase</a></li>
+<li><a href="/wiki/Monoamine_oxidase" title="Monoamine oxidase">Monoamine oxidase</a></li>
+<li>Co-oxidation by <a href="/wiki/Peroxidase" title="Peroxidase">peroxidases</a></li>
+</ul>
+<h4><span class="mw-headline" id="Reduction">Reduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=5" title="Edit section: Reduction">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Cytochrome_P450_reductase" title="Cytochrome P450 reductase">NADPH-cytochrome P450 reductase</a></li>
+</ul>
+<p>Cytochrome P450 reductase, also known as NADPH:ferrihemoprotein oxidoreductase, NADPH:hemoprotein oxidoreductase, NADPH:P450 oxidoreductase, P450 reductase, POR, CPR, CYPOR, is a membrane-bound enzyme required for electron transfer to cytochrome P450 in the microsome of the eukaryotic cell from a FAD- and FMN-containing enzyme NADPH:cytochrome P450 reductase The general scheme of electron flow in the POR/P450 system is: NADPH → FAD → FMN → P450 → O<sub>2</sub></p>
+<ul>
+<li><a href="/wiki/Cytochrome_P450_reductase" title="Cytochrome P450 reductase">Reduced (ferrous) cytochrome P450</a></li>
+</ul>
+<p>During reduction reactions, a chemical can enter <i>futile cycling</i>, in which it gains a free-radical electron, then promptly loses it to <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> (to form a <a href="/wiki/Superoxide_anion" class="mw-redirect" title="Superoxide anion">superoxide anion</a>).</p>
+<h4><span class="mw-headline" id="Hydrolysis">Hydrolysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=6" title="Edit section: Hydrolysis">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Esterase" title="Esterase">Esterases</a> and <a href="/wiki/Amidase" title="Amidase">amidase</a></li>
+<li><a href="/wiki/Epoxide_hydrolase" title="Epoxide hydrolase">Epoxide hydrolase</a></li>
+</ul>
+<h3><span id="Phase_II_.E2.80.93_conjugation"></span><span class="mw-headline" id="Phase_II_–_conjugation">Phase II – conjugation <span id="Conjugation"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=7" title="Edit section: Phase II – conjugation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In subsequent phase II reactions, these activated xenobiotic metabolites are <a href="/wiki/Biotransformation#Phase_.D0.86_reaction" title="Biotransformation">conjugated</a> with charged species such as <a href="/wiki/Glutathione" title="Glutathione">glutathione</a> (GSH), <a href="/wiki/Sulfate" title="Sulfate">sulfate</a>, <a href="/wiki/Glycine" title="Glycine">glycine</a>, or <a href="/wiki/Glucuronic_acid" title="Glucuronic acid">glucuronic acid</a>. Sites on drugs where conjugation reactions occur include <a href="/wiki/Carboxyl" class="mw-redirect" title="Carboxyl">carboxyl</a> (-COOH), <a href="/wiki/Hydroxyl" class="mw-redirect" title="Hydroxyl">hydroxyl</a> (-OH), <a href="/wiki/Amino" class="mw-redirect" title="Amino">amino</a> (NH<sub>2</sub>), and <a href="/wiki/Sulfhydryl" class="mw-redirect" title="Sulfhydryl">sulfhydryl</a> (-SH) groups. Products of conjugation reactions have increased molecular weight and tend to be less active than their substrates, unlike Phase I reactions which often produce <a href="/wiki/Active_metabolites" class="mw-redirect" title="Active metabolites">active metabolites</a>. The addition of large anionic groups (such as GSH) detoxifies reactive <a href="/wiki/Electrophile" title="Electrophile">electrophiles</a> and produces more polar metabolites that cannot diffuse across membranes, and may, therefore, be actively transported.</p>
+<p>These reactions are catalysed by a large group of broad-specificity transferases, which in combination can metabolise almost any hydrophobic compound that contains nucleophilic or electrophilic groups.<sup id="cite_ref-Jakoby_1-2" class="reference"><a href="#cite_note-Jakoby-1">[1]</a></sup> One of the most important classes of this group is that of the <a href="/wiki/Glutathione_S-transferase" title="Glutathione S-transferase">glutathione S-transferases</a> (GSTs).</p>
+<table class="wikitable">
+<tr>
+<th>Mechanism</th>
+<th>Involved enzyme</th>
+<th>Co-factor</th>
+<th>Location</th>
+<th><small>Sources</small></th>
+</tr>
+<tr>
+<td><a href="/wiki/Methylation" title="Methylation">methylation</a></td>
+<td><a href="/wiki/Methyltransferase" title="Methyltransferase">methyltransferase</a></td>
+<td><a href="/wiki/S-adenosyl-L-methionine" class="mw-redirect" title="S-adenosyl-L-methionine">S-adenosyl-L-methionine</a></td>
+<td>liver, kidney, lung, CNS</td>
+<td><sup id="cite_ref-Liston_2001_9-0" class="reference"><a href="#cite_note-Liston_2001-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sulphation" class="mw-redirect" title="Sulphation">sulphation</a></td>
+<td><a href="/wiki/Sulfotransferase" title="Sulfotransferase">sulfotransferases</a></td>
+<td><a href="/wiki/3%27-phosphoadenosine-5%27-phosphosulfate" class="mw-redirect" title="3'-phosphoadenosine-5'-phosphosulfate">3'-phosphoadenosine-5'-phosphosulfate</a></td>
+<td>liver, kidney, intestine</td>
+<td><sup id="cite_ref-Liston_2001_9-1" class="reference"><a href="#cite_note-Liston_2001-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Acetylation" title="Acetylation">acetylation</a></td>
+<td>
+<ul>
+<li><a href="/wiki/N-acetyltransferase" title="N-acetyltransferase">N-acetyltransferases</a></li>
+<li><a href="/wiki/Bile_acid-CoA:amino_acid_N-acyltransferase" title="Bile acid-CoA:amino acid N-acyltransferase">bile acid-CoA:amino acid N-acyltransferases</a></li>
+</ul>
+</td>
+<td><a href="/wiki/Acetyl_coenzyme_A" class="mw-redirect" title="Acetyl coenzyme A">acetyl coenzyme A</a></td>
+<td>liver, lung, spleen, gastric mucosa, <a href="/wiki/Red_blood_cell" title="Red blood cell">RBCs</a>, lymphocytes</td>
+<td><sup id="cite_ref-Liston_2001_9-2" class="reference"><a href="#cite_note-Liston_2001-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Glucuronidation" title="Glucuronidation">glucuronidation</a></td>
+<td><a href="/wiki/UDP-glucuronosyltransferase" class="mw-redirect" title="UDP-glucuronosyltransferase">UDP-glucuronosyltransferases</a></td>
+<td><a href="/wiki/UDP-glucuronic_acid" class="mw-redirect" title="UDP-glucuronic acid">UDP-glucuronic acid</a></td>
+<td>liver, kidney, intestine, lung, skin, prostate, brain</td>
+<td><sup id="cite_ref-Liston_2001_9-3" class="reference"><a href="#cite_note-Liston_2001-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td>glutathione conjugation</td>
+<td><a href="/wiki/Glutathione_S-transferase" title="Glutathione S-transferase">glutathione S-transferases</a></td>
+<td><a href="/wiki/Glutathione" title="Glutathione">glutathione</a></td>
+<td>liver, kidney</td>
+<td><sup id="cite_ref-Liston_2001_9-4" class="reference"><a href="#cite_note-Liston_2001-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td>glycine conjugation</td>
+<td>Two step process:
+<ol>
+<li><a href="/wiki/XM-ligase" class="mw-redirect" title="XM-ligase">XM-ligase</a> (forms a xenobiotic acyl-CoA)</li>
+<li><a href="/wiki/Glycine_N-acyltransferase" title="Glycine N-acyltransferase">Glycine N-acyltransferase</a> (forms the glycine conjugate)</li>
+</ol>
+</td>
+<td><a href="/wiki/Glycine" title="Glycine">glycine</a></td>
+<td>liver, kidney</td>
+<td><sup id="cite_ref-Glycine_conjugation_review_10-0" class="reference"><a href="#cite_note-Glycine_conjugation_review-10">[10]</a></sup></td>
+</tr>
+</table>
+<h3><span id="Phase_III_.E2.80.93_further_modification_and_excretion"></span><span class="mw-headline" id="Phase_III_–_further_modification_and_excretion">Phase III – further modification and excretion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=8" title="Edit section: Phase III – further modification and excretion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After phase II reactions, the xenobiotic conjugates may be further metabolised. A common example is the processing of glutathione conjugates to <a href="/wiki/Acetylcysteine" title="Acetylcysteine">acetylcysteine</a> (mercapturic acid) conjugates.<sup id="cite_ref-pmid4892500_11-0" class="reference"><a href="#cite_note-pmid4892500-11">[11]</a></sup> Here, the <a href="/wiki/Glutamic_acid" title="Glutamic acid">γ-glutamate</a> and <a href="/wiki/Glycine" title="Glycine">glycine</a> residues in the glutathione molecule are removed by <a href="/wiki/Gamma-glutamyl_transpeptidase" class="mw-redirect" title="Gamma-glutamyl transpeptidase">Gamma-glutamyl transpeptidase</a> and <a href="/wiki/Dipeptidase" title="Dipeptidase">dipeptidases</a>. In the final step, the <a href="/wiki/Cystine" title="Cystine">cystine</a> residue in the conjugate is <a href="/wiki/Acetylated" class="mw-redirect" title="Acetylated">acetylated</a>.</p>
+<p>Conjugates and their metabolites can be excreted from cells in phase III of their metabolism, with the anionic groups acting as affinity tags for a variety of membrane transporters of the <a href="/wiki/P-glycoprotein" title="P-glycoprotein">multidrug resistance protein</a> (MRP) family.<sup id="cite_ref-pmid12897433_12-0" class="reference"><a href="#cite_note-pmid12897433-12">[12]</a></sup> These proteins are members of the family of <a href="/wiki/ATP-binding_cassette_transporter" title="ATP-binding cassette transporter">ATP-binding cassette transporters</a> and can catalyse the ATP-dependent transport of a huge variety of hydrophobic anions,<sup id="cite_ref-pmid10581368_13-0" class="reference"><a href="#cite_note-pmid10581368-13">[13]</a></sup> and thus act to remove phase II products to the extracellular medium, where they may be further metabolised or excreted.<sup id="cite_ref-pmid7568330_14-0" class="reference"><a href="#cite_note-pmid7568330-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="Endogenous_toxins">Endogenous toxins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=9" title="Edit section: Endogenous toxins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The detoxification of endogenous reactive metabolites such as <a href="/wiki/Peroxide" title="Peroxide">peroxides</a> and reactive <a href="/wiki/Aldehyde" title="Aldehyde">aldehydes</a> often cannot be achieved by the system described above. This is the result of these species' being derived from normal cellular constituents and usually sharing their polar characteristics. However, since these compounds are few in number, it is possible for enzymatic systems to utilize specific molecular recognition to recognize and remove them. The similarity of these molecules to useful metabolites therefore means that different detoxification enzymes are usually required for the metabolism of each group of endogenous toxins. Examples of these specific detoxification systems are the <a href="/wiki/Glyoxalase_system" title="Glyoxalase system">glyoxalase system</a>, which acts to dispose of the reactive aldehyde <a href="/wiki/Methylglyoxal" title="Methylglyoxal">methylglyoxal</a>, and the various <a href="/wiki/Antioxidant" title="Antioxidant">antioxidant</a> systems that remove <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">reactive oxygen species</a>.</p>
+<h2><span class="mw-headline" id="Sites">Sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=10" title="Edit section: Sites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Quantitatively, the <a href="/wiki/Smooth_endoplasmic_reticulum" class="mw-redirect" title="Smooth endoplasmic reticulum">smooth endoplasmic reticulum</a> of the <a href="/wiki/Liver" title="Liver">liver</a> cell is the principal organ of drug metabolism, although every <a href="/wiki/Biological_tissue" class="mw-redirect" title="Biological tissue">biological tissue</a> has some ability to metabolize drugs. Factors responsible for the liver's contribution to drug metabolism include that it is a large organ, that it is the first organ perfused by chemicals absorbed in the <a href="/wiki/Gut_(zoology)" class="mw-redirect" title="Gut (zoology)">gut</a>, and that there are very high concentrations of most drug-metabolizing enzyme systems relative to other organs. If a drug is taken into the GI tract, where it enters hepatic circulation through the portal vein, it becomes well-metabolized and is said to show the <i><a href="/wiki/First_pass_effect" title="First pass effect">first pass effect</a></i>.</p>
+<p>Other sites of drug metabolism include <a href="/wiki/Epithelial_cell" class="mw-redirect" title="Epithelial cell">epithelial cells</a> of the <a href="/wiki/Gastrointestinal_tract" title="Gastrointestinal tract">gastrointestinal tract</a>, <a href="/wiki/Lung" title="Lung">lungs</a>, <a href="/wiki/Kidney" title="Kidney">kidneys</a>, and the <a href="/wiki/Skin" title="Skin">skin</a>. These sites are usually responsible for localized toxicity reactions.</p>
+<h2><span class="mw-headline" id="Factors_that_affect_drug_metabolism">Factors that affect drug metabolism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=11" title="Edit section: Factors that affect drug metabolism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The duration and intensity of pharmacological action of most lipophilic drugs are determined by the rate they are metabolized to inactive products. The <a href="/wiki/Cytochrome_P450_monooxygenase_system" class="mw-redirect" title="Cytochrome P450 monooxygenase system">Cytochrome P450 monooxygenase system</a> is the most important pathway in this regard. In general, anything that <i>increases</i> the rate of metabolism (<i>e.g.</i>, <a href="/wiki/Enzyme_induction_and_inhibition" title="Enzyme induction and inhibition">enzyme induction</a>) of a pharmacologically active metabolite will <i>decrease</i> the duration and intensity of the drug action. The opposite is also true (<i>e.g.</i>, <a href="/wiki/Enzyme_induction_and_inhibition" title="Enzyme induction and inhibition">enzyme inhibition</a>). However, in cases where an enzyme is responsible for metabolizing a pro-drug into a drug, enzyme induction can speed up this conversion and increase drug levels, potentially causing toxicity.</p>
+<p>Various <i>physiological</i> and <i>pathological</i> factors can also affect drug metabolism. Physiological factors that can influence drug metabolism include age, individual variation (<i>e.g.</i>, <a href="/wiki/Pharmacogenetics" title="Pharmacogenetics">pharmacogenetics</a>), <a href="/wiki/Enterohepatic_circulation" title="Enterohepatic circulation">enterohepatic circulation</a>, <a href="/wiki/Nutrition" title="Nutrition">nutrition</a>, <a href="/wiki/Intestinal_flora" class="mw-redirect" title="Intestinal flora">intestinal flora</a>, or <a href="/wiki/Sex_difference" class="mw-redirect" title="Sex difference">sex differences</a>.</p>
+<p>In general, drugs are metabolized more slowly in <a href="/wiki/Fetal" class="mw-redirect" title="Fetal">fetal</a>, <a href="/wiki/Neonatal" class="mw-redirect" title="Neonatal">neonatal</a> and <a href="/wiki/Elderly" class="mw-redirect" title="Elderly">elderly</a> <a href="/wiki/Human" title="Human">humans</a> and <a href="/wiki/Animal" title="Animal">animals</a> than in <a href="/wiki/Adult" title="Adult">adults</a>.</p>
+<p>Genetic variation (<a href="/wiki/Polymorphism_(biology)" title="Polymorphism (biology)">polymorphism</a>) accounts for some of the variability in the effect of drugs. With N-acetyltransferases (involved in <i>Phase II</i> reactions), individual variation creates a group of people who acetylate slowly (<i>slow acetylators</i>) and those who acetylate quickly, split roughly 50:50 in the population of <a href="/wiki/Canada" title="Canada">Canada</a>. This variation may have dramatic consequences, as the <a href="/w/index.php?title=Slow_acetylators&amp;action=edit&amp;redlink=1" class="new" title="Slow acetylators (page does not exist)">slow acetylators</a> are more prone to dose-dependent toxicity.</p>
+<p><a href="/wiki/Cytochrome_P450_monooxygenase_system" class="mw-redirect" title="Cytochrome P450 monooxygenase system">Cytochrome P450 monooxygenase system</a> enzymes can also vary across individuals, with deficiencies occurring in 1 – 30% of people, depending on their ethnic background.</p>
+<p>Dose, frequency, route of administration, tissue distribution and protein binding of the drug affect its metabolism.</p>
+<p><i>Pathological factors</i> can also influence drug metabolism, including <a href="/wiki/Liver" title="Liver">liver</a>, <a href="/wiki/Kidney" title="Kidney">kidney</a>, or <a href="/wiki/Heart" title="Heart">heart</a> diseases.</p>
+<p><i>In silico</i> modelling and simulation methods allow drug metabolism to be predicted in virtual patient populations prior to performing clinical studies in human subjects.<sup id="cite_ref-pmid17268485_15-0" class="reference"><a href="#cite_note-pmid17268485-15">[15]</a></sup> This can be used to identify individuals most at risk from adverse reaction.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=12" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Studies on how people transform the substances that they ingest began in the mid-nineteenth century, with chemists discovering that organic chemicals such as <a href="/wiki/Benzaldehyde" title="Benzaldehyde">benzaldehyde</a> could be oxidized and conjugated to amino acids in the human body.<sup id="cite_ref-pmid11353742_16-0" class="reference"><a href="#cite_note-pmid11353742-16">[16]</a></sup> During the remainder of the nineteenth century, several other basic detoxification reactions were discovered, such as <a href="/wiki/Methylation" title="Methylation">methylation</a>, <a href="/wiki/Acetylation" title="Acetylation">acetylation</a>, and <a href="/wiki/Sulfonation" class="mw-redirect" title="Sulfonation">sulfonation</a>.</p>
+<p>In the early twentieth century, work moved on to the investigation of the enzymes and pathways that were responsible for the production of these metabolites. This field became defined as a separate area of study with the publication by <a href="/wiki/Richard_Tecwyn_Williams" title="Richard Tecwyn Williams">Richard Williams</a> of the book <i>Detoxication mechanisms</i> in 1947.<sup id="cite_ref-pmid6347595_17-0" class="reference"><a href="#cite_note-pmid6347595-17">[17]</a></sup> This modern biochemical research resulted in the identification of glutathione <i>S</i>-transferases in 1961,<sup id="cite_ref-pmid16748905_18-0" class="reference"><a href="#cite_note-pmid16748905-18">[18]</a></sup> followed by the discovery of cytochrome P450s in 1962,<sup id="cite_ref-pmid14482007_19-0" class="reference"><a href="#cite_note-pmid14482007-19">[19]</a></sup> and the realization of their central role in xenobiotic metabolism in 1963.<sup id="cite_ref-pmid14625342_20-0" class="reference"><a href="#cite_note-pmid14625342-20">[20]</a></sup><sup id="cite_ref-pmid14087340_21-0" class="reference"><a href="#cite_note-pmid14087340-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Antioxidant" title="Antioxidant">Antioxidant</a></li>
+<li><a href="/wiki/Biodegradation" title="Biodegradation">Biodegradation</a></li>
+<li><a href="/wiki/Bioremediation" title="Bioremediation">Bioremediation</a></li>
+<li><a href="/wiki/Microbial_biodegradation" title="Microbial biodegradation">Microbial biodegradation</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Jakoby-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jakoby_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jakoby_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jakoby_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Jakoby WB, Ziegler DM (December 1990). <a rel="nofollow" class="external text" href="http://www.jbc.org/cgi/reprint/265/34/20715">"The enzymes of detoxication"</a>. <i>J. Biol. Chem</i>. <b>265</b> (34): 20715–8. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2249981">2249981</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.atitle=The+enzymes+of+detoxication&amp;rft.volume=265&amp;rft.issue=34&amp;rft.pages=20715-8&amp;rft.date=1990-12&amp;rft_id=info%3Apmid%2F2249981&amp;rft.aulast=Jakoby&amp;rft.aufirst=WB&amp;rft.au=Ziegler%2C+DM&amp;rft_id=http%3A%2F%2Fwww.jbc.org%2Fcgi%2Freprint%2F265%2F34%2F20715&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid12869659-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid12869659_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mizuno N, Niwa T, Yotsumoto Y, Sugiyama Y (September 2003). "Impact of drug transporter studies on drug discovery and development". <i>Pharmacol. Rev</i>. <b>55</b> (3): 425–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1124%2Fpr.55.3.1">10.1124/pr.55.3.1</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12869659">12869659</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pharmacol.+Rev.&amp;rft.atitle=Impact+of+drug+transporter+studies+on+drug+discovery+and+development&amp;rft.volume=55&amp;rft.issue=3&amp;rft.pages=425-61&amp;rft.date=2003-09&amp;rft_id=info%3Adoi%2F10.1124%2Fpr.55.3.1&amp;rft_id=info%3Apmid%2F12869659&amp;rft.aulast=Mizuno&amp;rft.aufirst=N&amp;rft.au=Niwa%2C+T&amp;rft.au=Yotsumoto%2C+Y&amp;rft.au=Sugiyama%2C+Y&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid2198020-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid2198020_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Thornalley PJ (July 1990). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1131522">"The glyoxalase system: new developments towards functional characterization of a metabolic pathway fundamental to biological life"</a>. <i>Biochem. J</i>. <b>269</b> (1): 1–11. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1131522">1131522</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2198020">2198020</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochem.+J.&amp;rft.atitle=The+glyoxalase+system%3A+new+developments+towards+functional+characterization+of+a+metabolic+pathway+fundamental+to+biological+life&amp;rft.volume=269&amp;rft.issue=1&amp;rft.pages=1-11&amp;rft.date=1990-07&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1131522&amp;rft_id=info%3Apmid%2F2198020&amp;rft.au=Thornalley+PJ&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1131522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sies-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sies_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sies H (March 1997). <a rel="nofollow" class="external text" href="http://ep.physoc.org/cgi/reprint/82/2/291.pdf">"Oxidative stress: oxidants and antioxidants"</a> <span style="font-size:85%;">(PDF)</span>. <i>Exp. Physiol</i>. <b>82</b> (2): 291–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1113%2Fexpphysiol.1997.sp004024">10.1113/expphysiol.1997.sp004024</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9129943">9129943</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Exp.+Physiol.&amp;rft.atitle=Oxidative+stress%3A+oxidants+and+antioxidants&amp;rft.volume=82&amp;rft.issue=2&amp;rft.pages=291-5&amp;rft.date=1997-03&amp;rft_id=info%3Adoi%2F10.1113%2Fexpphysiol.1997.sp004024&amp;rft_id=info%3Apmid%2F9129943&amp;rft.au=Sies+H&amp;rft_id=http%3A%2F%2Fep.physoc.org%2Fcgi%2Freprint%2F82%2F2%2F291.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid11409933-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid11409933_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Guengerich FP (June 2001). "Common and uncommon cytochrome P450 reactions related to metabolism and chemical toxicity". <i>Chem. Res. Toxicol</i>. <b>14</b> (6): 611–50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Ftx0002583">10.1021/tx0002583</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11409933">11409933</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chem.+Res.+Toxicol.&amp;rft.atitle=Common+and+uncommon+cytochrome+P450+reactions+related+to+metabolism+and+chemical+toxicity&amp;rft.volume=14&amp;rft.issue=6&amp;rft.pages=611-50&amp;rft.date=2001-06&amp;rft_id=info%3Adoi%2F10.1021%2Ftx0002583&amp;rft_id=info%3Apmid%2F11409933&amp;rft.au=Guengerich+FP&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid10698731-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid10698731_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schlichting I, Berendzen J, Chu K, Stock AM, Maves SA, Benson DE, Sweet RM, Ringe D, Petsko GA, Sligar SG (March 2000). "The catalytic pathway of cytochrome p450cam at atomic resolution". <i>Science</i>. <b>287</b> (5458): 1615–22. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2000Sci...287.1615S">2000Sci...287.1615S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.287.5458.1615">10.1126/science.287.5458.1615</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10698731">10698731</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+catalytic+pathway+of+cytochrome+p450cam+at+atomic+resolution&amp;rft.volume=287&amp;rft.issue=5458&amp;rft.pages=1615-22&amp;rft.date=2000-03&amp;rft_id=info%3Apmid%2F10698731&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.287.5458.1615&amp;rft_id=info%3Abibcode%2F2000Sci...287.1615S&amp;rft.aulast=Schlichting&amp;rft.aufirst=I&amp;rft.au=Berendzen%2C+J&amp;rft.au=Chu%2C+K&amp;rft.au=Stock%2C+AM&amp;rft.au=Maves%2C+SA&amp;rft.au=Benson%2C+DE&amp;rft.au=Sweet%2C+RM&amp;rft.au=Ringe%2C+D&amp;rft.au=Petsko%2C+GA&amp;rft.au=Sligar%2C+SG&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.inchem.org/documents/ehc/ehc/ehc154.htm">"Acetonitrile (EHC 154, 1993)"</a>. <i>www.inchem.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.inchem.org&amp;rft.atitle=Acetonitrile+%28EHC+154%2C+1993%29&amp;rft_id=http%3A%2F%2Fwww.inchem.org%2Fdocuments%2Fehc%2Fehc%2Fehc154.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid19039354-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid19039354_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Akagah B, Lormier AT, Fournet A, Figadère B (December 2008). "Oxidation of antiparasitic 2-substituted quinolines using metalloporphyrin catalysts: scale-up of a biomimetic reaction for metabolite production of drug candidates". <i>Org. Biomol. Chem</i>. <b>6</b> (24): 4494–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1039%2Fb815963g">10.1039/b815963g</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19039354">19039354</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Org.+Biomol.+Chem.&amp;rft.atitle=Oxidation+of+antiparasitic+2-substituted+quinolines+using+metalloporphyrin+catalysts%3A+scale-up+of+a+biomimetic+reaction+for+metabolite+production+of+drug+candidates&amp;rft.volume=6&amp;rft.issue=24&amp;rft.pages=4494-7&amp;rft.date=2008-12&amp;rft_id=info%3Adoi%2F10.1039%2Fb815963g&amp;rft_id=info%3Apmid%2F19039354&amp;rft.aulast=Akagah&amp;rft.aufirst=B&amp;rft.au=Lormier%2C+AT&amp;rft.au=Fournet%2C+A&amp;rft.au=Figad%C3%A8re%2C+B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Liston_2001-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Liston_2001_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Liston_2001_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Liston_2001_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Liston_2001_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Liston_2001_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Liston HL, Markowitz JS, DeVane CL (October 2001). "Drug glucuronidation in clinical psychopharmacology". <i>J Clin Psychopharmacol</i>. <b>21</b> (5): 500–15. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1097%2F00004714-200110000-00008">10.1097/00004714-200110000-00008</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11593076">11593076</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Clin+Psychopharmacol&amp;rft.atitle=Drug+glucuronidation+in+clinical+psychopharmacology&amp;rft.volume=21&amp;rft.issue=5&amp;rft.pages=500-15&amp;rft.date=2001-10&amp;rft_id=info%3Adoi%2F10.1097%2F00004714-200110000-00008&amp;rft_id=info%3Apmid%2F11593076&amp;rft.aulast=Liston&amp;rft.aufirst=HL&amp;rft.au=Markowitz%2C+JS&amp;rft.au=DeVane%2C+CL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Glycine_conjugation_review-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glycine_conjugation_review_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Badenhorst CP, van der Sluis R, Erasmus E, van Dijk AA (September 2013). "Glycine conjugation: importance in metabolism, the role of glycine N-acyltransferase, and factors that influence interindividual variation". <i>Expert Opinion on Drug Metabolism &amp; Toxicology</i>. <b>9</b> (9): 1139–1153. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1517%2F17425255.2013.796929">10.1517/17425255.2013.796929</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23650932">23650932</a>. <q>Glycine conjugation of mitochondrial acyl-CoAs, catalyzed by glycine N-acyltransferase (GLYAT, E.C. 2.3.1.13), is an important metabolic pathway responsible for maintaining adequate levels of free coenzyme A (CoASH). However, because of the small number of pharmaceutical drugs that are conjugated to glycine, the pathway has not yet been characterized in detail. Here, we review the causes and possible consequences of interindividual variation in the glycine conjugation pathway.&#160;...<br />
+Figure 1. Glycine conjugation of benzoic acid. The glycine conjugation pathway consists of two steps. First benzoate is ligated to CoASH to form the high-energy benzoyl-CoA thioester. This reaction is catalyzed by the HXM-A and HXM-B medium-chain acid:CoA ligases and requires energy in the form of ATP.&#160;... The benzoyl-CoA is then conjugated to glycine by GLYAT to form hippuric acid, releasing CoASH. In addition to the factors listed in the boxes, the levels of ATP, CoASH, and glycine may influence the overall rate of the glycine conjugation pathway.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Expert+Opinion+on+Drug+Metabolism+%26+Toxicology&amp;rft.atitle=Glycine+conjugation%3A+importance+in+metabolism%2C+the+role+of+glycine+N-acyltransferase%2C+and+factors+that+influence+interindividual+variation&amp;rft.volume=9&amp;rft.issue=9&amp;rft.pages=1139-1153&amp;rft.date=2013-09&amp;rft_id=info%3Adoi%2F10.1517%2F17425255.2013.796929&amp;rft_id=info%3Apmid%2F23650932&amp;rft.aulast=Badenhorst&amp;rft.aufirst=CP&amp;rft.au=van+der+Sluis%2C+R&amp;rft.au=Erasmus%2C+E&amp;rft.au=van+Dijk%2C+AA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid4892500-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid4892500_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Boyland E, Chasseaud LF (1969). "The role of glutathione and glutathione S-transferases in mercapturic acid biosynthesis". <i>Adv. Enzymol. Relat. Areas Mol. Biol</i>. Advances in Enzymology – and Related Areas of Molecular Biology. <b>32</b>: 173–219. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2F9780470122778.ch5">10.1002/9780470122778.ch5</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780470122778" title="Special:BookSources/9780470122778">9780470122778</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4892500">4892500</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Adv.+Enzymol.+Relat.+Areas+Mol.+Biol.&amp;rft.atitle=The+role+of+glutathione+and+glutathione+S-transferases+in+mercapturic+acid+biosynthesis&amp;rft.volume=32&amp;rft.pages=173-219&amp;rft.date=1969&amp;rft_id=info%3Apmid%2F4892500&amp;rft_id=info%3Adoi%2F10.1002%2F9780470122778.ch5&amp;rft.isbn=9780470122778&amp;rft.aulast=Boyland&amp;rft.aufirst=E&amp;rft.au=Chasseaud%2C+LF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid12897433-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid12897433_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Homolya L, Váradi A, Sarkadi B (2003). "Multidrug resistance-associated proteins: Export pumps for conjugates with glutathione, glucuronate or sulfate". <i>BioFactors</i>. <b>17</b> (1–4): 103–14. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fbiof.5520170111">10.1002/biof.5520170111</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12897433">12897433</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BioFactors&amp;rft.atitle=Multidrug+resistance-associated+proteins%3A+Export+pumps+for+conjugates+with+glutathione%2C+glucuronate+or+sulfate&amp;rft.volume=17&amp;rft.issue=1%E2%80%934&amp;rft.pages=103-14&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1002%2Fbiof.5520170111&amp;rft_id=info%3Apmid%2F12897433&amp;rft.aulast=Homolya&amp;rft.aufirst=L&amp;rft.au=V%C3%A1radi%2C+A&amp;rft.au=Sarkadi%2C+B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid10581368-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid10581368_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">König J, Nies AT, Cui Y, Leier I, Keppler D (December 1999). "Conjugate export pumps of the multidrug resistance protein (MRP) family: localization, substrate specificity, and MRP2-mediated drug resistance". <i>Biochim. Biophys. Acta</i>. <b>1461</b> (2): 377–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0005-2736%2899%2900169-8">10.1016/S0005-2736(99)00169-8</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10581368">10581368</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochim.+Biophys.+Acta&amp;rft.atitle=Conjugate+export+pumps+of+the+multidrug+resistance+protein+%28MRP%29+family%3A+localization%2C+substrate+specificity%2C+and+MRP2-mediated+drug+resistance&amp;rft.volume=1461&amp;rft.issue=2&amp;rft.pages=377-94&amp;rft.date=1999-12&amp;rft_id=info%3Adoi%2F10.1016%2FS0005-2736%2899%2900169-8&amp;rft_id=info%3Apmid%2F10581368&amp;rft.aulast=K%C3%B6nig&amp;rft.aufirst=J&amp;rft.au=Nies%2C+AT&amp;rft.au=Cui%2C+Y&amp;rft.au=Leier%2C+I&amp;rft.au=Keppler%2C+D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid7568330-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7568330_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Commandeur JN, Stijntjes GJ, Vermeulen NP (June 1995). "Enzymes and transport systems involved in the formation and disposition of glutathione S-conjugates. Role in bioactivation and detoxication mechanisms of xenobiotics". <i>Pharmacol. Rev</i>. <b>47</b> (2): 271–330. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7568330">7568330</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pharmacol.+Rev.&amp;rft.atitle=Enzymes+and+transport+systems+involved+in+the+formation+and+disposition+of+glutathione+S-conjugates.+Role+in+bioactivation+and+detoxication+mechanisms+of+xenobiotics&amp;rft.volume=47&amp;rft.issue=2&amp;rft.pages=271-330&amp;rft.date=1995-06&amp;rft_id=info%3Apmid%2F7568330&amp;rft.aulast=Commandeur&amp;rft.aufirst=JN&amp;rft.au=Stijntjes%2C+GJ&amp;rft.au=Vermeulen%2C+NP&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid17268485-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid17268485_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rostami-Hodjegan A, Tucker GT (February 2007). "Simulation and prediction of in vivo drug metabolism in human populations from <i>in vitro</i> data". <i>Nat Rev Drug Discov</i>. <b>6</b> (2): 140–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnrd2173">10.1038/nrd2173</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17268485">17268485</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nat+Rev+Drug+Discov&amp;rft.atitle=Simulation+and+prediction+of+in+vivo+drug+metabolism+in+human+populations+from+in+vitro+data&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=140-8&amp;rft.date=2007-02&amp;rft_id=info%3Adoi%2F10.1038%2Fnrd2173&amp;rft_id=info%3Apmid%2F17268485&amp;rft.aulast=Rostami-Hodjegan&amp;rft.aufirst=A&amp;rft.au=Tucker%2C+GT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid11353742-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid11353742_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Murphy PJ (June 2001). <a rel="nofollow" class="external text" href="http://dmd.aspetjournals.org/cgi/content/full/29/6/779">"Xenobiotic metabolism: a look from the past to the future"</a>. <i>Drug Metab. Dispos</i>. <b>29</b> (6): 779–80. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11353742">11353742</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Drug+Metab.+Dispos.&amp;rft.atitle=Xenobiotic+metabolism%3A+a+look+from+the+past+to+the+future&amp;rft.volume=29&amp;rft.issue=6&amp;rft.pages=779-80&amp;rft.date=2001-06&amp;rft_id=info%3Apmid%2F11353742&amp;rft.au=Murphy+PJ&amp;rft_id=http%3A%2F%2Fdmd.aspetjournals.org%2Fcgi%2Fcontent%2Ffull%2F29%2F6%2F779&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid6347595-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid6347595_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Neuberger A, Smith RL (1983). "Richard Tecwyn Williams: the man, his work, his impact". <i>Drug Metab. Rev</i>. <b>14</b> (3): 559–607. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3109%2F03602538308991399">10.3109/03602538308991399</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/6347595">6347595</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Drug+Metab.+Rev.&amp;rft.atitle=Richard+Tecwyn+Williams%3A+the+man%2C+his+work%2C+his+impact&amp;rft.volume=14&amp;rft.issue=3&amp;rft.pages=559-607&amp;rft.date=1983&amp;rft_id=info%3Adoi%2F10.3109%2F03602538308991399&amp;rft_id=info%3Apmid%2F6347595&amp;rft.aulast=Neuberger&amp;rft.aufirst=A&amp;rft.au=Smith%2C+RL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16748905-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16748905_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Booth J, Boyland E, Sims P (June 1961). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1205680">"An enzyme from rat liver catalysing conjugations with glutathione"</a>. <i>Biochem. J</i>. <b>79</b> (3): 516–24. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1205680">1205680</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16748905">16748905</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochem.+J.&amp;rft.atitle=An+enzyme+from+rat+liver+catalysing+conjugations+with+glutathione&amp;rft.volume=79&amp;rft.issue=3&amp;rft.pages=516-24&amp;rft.date=1961-06&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1205680&amp;rft_id=info%3Apmid%2F16748905&amp;rft.aulast=Booth&amp;rft.aufirst=J&amp;rft.au=Boyland%2C+E&amp;rft.au=Sims%2C+P&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1205680&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid14482007-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid14482007_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Omura T, Sato R (April 1962). <a rel="nofollow" class="external text" href="http://www.jbc.org/cgi/reprint/237/4/PC1375">"A new cytochrome in liver microsomes"</a>. <i>J. Biol. Chem</i>. <b>237</b>: 1375–6. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14482007">14482007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.atitle=A+new+cytochrome+in+liver+microsomes&amp;rft.volume=237&amp;rft.pages=1375-6&amp;rft.date=1962-04&amp;rft_id=info%3Apmid%2F14482007&amp;rft.aulast=Omura&amp;rft.aufirst=T&amp;rft.au=Sato%2C+R&amp;rft_id=http%3A%2F%2Fwww.jbc.org%2Fcgi%2Freprint%2F237%2F4%2FPC1375&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid14625342-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid14625342_20-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Estabrook RW (December 2003). "A passion for P450s (remembrances of the early history of research on cytochrome P450)". <i>Drug Metab. Dispos</i>. <b>31</b> (12): 1461–73. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1124%2Fdmd.31.12.1461">10.1124/dmd.31.12.1461</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14625342">14625342</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Drug+Metab.+Dispos.&amp;rft.atitle=A+passion+for+P450s+%28remembrances+of+the+early+history+of+research+on+cytochrome+P450%29&amp;rft.volume=31&amp;rft.issue=12&amp;rft.pages=1461-73&amp;rft.date=2003-12&amp;rft_id=info%3Adoi%2F10.1124%2Fdmd.31.12.1461&amp;rft_id=info%3Apmid%2F14625342&amp;rft.au=Estabrook+RW&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid14087340-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid14087340_21-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Estabrook RW, Cooper DY, Rosenthal O (1963). "The light reversible carbon monoxide inhibition of steroid C-21 hydroxylase system in adrenal cortex". <i>Biochem Z</i>. <b>338</b>: 741–55. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14087340">14087340</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochem+Z&amp;rft.atitle=The+light+reversible+carbon+monoxide+inhibition+of+steroid+C-21+hydroxylase+system+in+adrenal+cortex&amp;rft.volume=338&amp;rft.pages=741-55&amp;rft.date=1963&amp;rft_id=info%3Apmid%2F14087340&amp;rft.aulast=Estabrook&amp;rft.aufirst=RW&amp;rft.au=Cooper%2C+DY&amp;rft.au=Rosenthal%2C+O&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=15" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation book">Parvez H, Reiss C (2001). <i>Molecular Responses to Xenobiotics</i>. Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-345-42277-5" title="Special:BookSources/0-345-42277-5">0-345-42277-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Molecular+Responses+to+Xenobiotics&amp;rft.pub=Elsevier&amp;rft.date=2001&amp;rft.isbn=0-345-42277-5&amp;rft.aulast=Parvez&amp;rft.aufirst=H&amp;rft.au=Reiss%2C+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Ioannides C (2001). <i>Enzyme Systems That Metabolise Drugs and Other Xenobiotics</i>. John Wiley and Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-89466-4" title="Special:BookSources/0-471-89466-4">0-471-89466-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Enzyme+Systems+That+Metabolise+Drugs+and+Other+Xenobiotics&amp;rft.pub=John+Wiley+and+Sons&amp;rft.date=2001&amp;rft.isbn=0-471-89466-4&amp;rft.au=Ioannides+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Richardson M (1996). <i>Environmental Xenobiotics</i>. Taylor &amp; Francis Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7484-0399-X" title="Special:BookSources/0-7484-0399-X">0-7484-0399-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Environmental+Xenobiotics&amp;rft.pub=Taylor+%26+Francis+Ltd&amp;rft.date=1996&amp;rft.isbn=0-7484-0399-X&amp;rft.au=Richardson+M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Ioannides C (1996). <i>Cytochromes P450: Metabolic and Toxicological Aspects</i>. CRC Press Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8493-9224-1" title="Special:BookSources/0-8493-9224-1">0-8493-9224-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cytochromes+P450%3A+Metabolic+and+Toxicological+Aspects&amp;rft.pub=CRC+Press+Inc&amp;rft.date=1996&amp;rft.isbn=0-8493-9224-1&amp;rft.au=Ioannides+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Awasthi YC (2006). <i>Toxicology of Glutathionine S-transferses</i>. CRC Press Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8493-2983-3" title="Special:BookSources/0-8493-2983-3">0-8493-2983-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Toxicology+of+Glutathionine+S-transferses&amp;rft.pub=CRC+Press+Inc&amp;rft.date=2006&amp;rft.isbn=0-8493-2983-3&amp;rft.au=Awasthi+YC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrug+metabolism" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Databases
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070713035439/http://www.issx.org/hisintro.html">Drug metabolism database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.icgeb.org/~p450srv/">Directory of P450-containing Systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://umbbd.ethz.ch/">University of Minnesota Biocatalysis/Biodegradation Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.freebase.com/view/en/sporcalc">SPORCalc</a></li>
+</ul>
+</li>
+<li>Drug metabolism
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ionsource.com/tutorial/metabolism/drug_metabolism.htm">Small Molecule Drug Metabolism</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070713035439/http://www.issx.org/hisintro.html">Drug metabolism portal</a></li>
+</ul>
+</li>
+<li>Microbial biodegradation
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.horizonpress.com/gateway/biodegradation.html">Microbial Biodegradation, Bioremediation and Biotransformation</a></li>
+</ul>
+</li>
+<li>History
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070713035439/http://www.issx.org/hisintro.html">History of Xenobiotic Metabolism</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived July 13, 2007)</li>
+</ul>
+</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Concepts_in_pharmacology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#efefef">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pharmacology" title="Template:Pharmacology"><abbr title="View this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pharmacology" title="Template talk:Pharmacology"><abbr title="Discuss this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pharmacology&amp;action=edit"><abbr title="Edit this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Concepts_in_pharmacology" style="font-size:114%;margin:0 4em">Concepts in <a href="/wiki/Pharmacology" title="Pharmacology">pharmacology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">Pharmacokinetics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADME" title="ADME">(L)ADME</a>: (<a href="/wiki/Liberation_(pharmacology)" title="Liberation (pharmacology)">Liberation</a>)</li>
+<li><a href="/wiki/Absorption_(pharmacokinetics)" class="mw-redirect" title="Absorption (pharmacokinetics)">Absorption</a></li>
+<li><a href="/wiki/Distribution_(pharmacology)" title="Distribution (pharmacology)">Distribution</a></li>
+<li><a class="mw-selflink selflink">Metabolism</a></li>
+<li><a href="/wiki/Excretion" title="Excretion">Excretion</a> (<a href="/wiki/Clearance_(medicine)" class="mw-redirect" title="Clearance (medicine)">Clearance</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Loading_dose" title="Loading dose">Loading dose</a></li>
+<li><a href="/wiki/Volume_of_distribution" title="Volume of distribution">Volume of distribution</a> (<a href="/wiki/Initial_volume_of_distribution" title="Initial volume of distribution">Initial</a>)</li>
+<li><a href="/wiki/Rate_of_infusion" title="Rate of infusion">Rate of infusion</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Compartment_(pharmacokinetics)" title="Compartment (pharmacokinetics)">Compartment</a></li>
+<li><a href="/wiki/Bioequivalence" title="Bioequivalence">Bioequivalence</a></li>
+<li><a href="/wiki/Bioavailability" title="Bioavailability">Bioavailability</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Onset_of_action" title="Onset of action">Onset of action</a></li>
+<li><a href="/wiki/Biological_half-life" title="Biological half-life">Biological half-life</a></li>
+<li><a href="/wiki/Mean_residence_time" title="Mean residence time">Mean residence time</a></li>
+<li><a href="/wiki/Plasma_protein_binding" title="Plasma protein binding">Plasma protein binding</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Therapeutic_index" title="Therapeutic index">Therapeutic index</a> (<a href="/wiki/Median_lethal_dose" title="Median lethal dose">Median lethal dose</a>, <a href="/wiki/Effective_dose_(pharmacology)" title="Effective dose (pharmacology)">Effective dose</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">Pharmacodynamics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mechanism_of_action" title="Mechanism of action">Mechanism of action</a></li>
+<li><a href="/wiki/Toxicity" title="Toxicity">Toxicity</a> (<a href="/wiki/Neurotoxicology" class="mw-redirect" title="Neurotoxicology">Neurotoxicology</a>)</li>
+<li><a href="/wiki/Dose%E2%80%93response_relationship" title="Dose–response relationship">Dose–response relationship</a> (<a href="/wiki/Efficacy#Pharmacology" title="Efficacy">Efficacy</a>, <a href="/wiki/Potency_(pharmacology)" title="Potency (pharmacology)">Potency</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Antimicrobial_pharmacodynamics" title="Antimicrobial pharmacodynamics">Antimicrobial pharmacodynamics</a>: <a href="/wiki/Minimum_inhibitory_concentration" title="Minimum inhibitory concentration">Minimum inhibitory concentration</a> (<a href="/wiki/Bacteriostatic_agent" title="Bacteriostatic agent">Bacteriostatic</a>)</li>
+<li><a href="/wiki/Minimum_bactericidal_concentration" title="Minimum bactericidal concentration">Minimum bactericidal concentration</a> (<a href="/wiki/Bactericide" title="Bactericide">Bactericide</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Agonism and<br />
+antagonism</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agonist" title="Agonist">Agonist</a>: <a href="/wiki/Inverse_agonist" title="Inverse agonist">Inverse agonist</a></li>
+<li><a href="/wiki/Irreversible_agonist" title="Irreversible agonist">Irreversible agonist</a></li>
+<li><a href="/wiki/Partial_agonist" title="Partial agonist">Partial agonist</a></li>
+<li><a href="/wiki/Superagonist" title="Superagonist">Superagonist</a></li>
+<li><a href="/wiki/Physiological_agonism_and_antagonism" title="Physiological agonism and antagonism">Physiological agonist</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Receptor_antagonist" title="Receptor antagonist">Antagonist</a>: <a href="/wiki/Competitive_antagonist" class="mw-redirect" title="Competitive antagonist">Competitive antagonist</a></li>
+<li><a href="/wiki/Irreversible_antagonist" title="Irreversible antagonist">Irreversible antagonist</a></li>
+<li><a href="/wiki/Physiological_agonism_and_antagonism" title="Physiological agonism and antagonism">Physiological antagonist</a></li>
+</ul>
+<ul>
+<li>Other: <a href="/wiki/Molecular_binding" title="Molecular binding">Binding</a></li>
+<li><a href="/wiki/Dissociation_constant#Protein-ligand_binding" title="Dissociation constant">Affinity</a></li>
+<li><a href="/wiki/Binding_selectivity" title="Binding selectivity">Binding selectivity</a></li>
+<li><a href="/wiki/Functional_selectivity" title="Functional selectivity">Functional selectivity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Drug_tolerance" title="Drug tolerance">Drug tolerance</a>: <a href="/wiki/Tachyphylaxis" title="Tachyphylaxis">Tachyphylaxis</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Drug_resistance" title="Drug resistance">Drug resistance</a>: <a href="/wiki/Antibiotic_resistance" class="mw-redirect" title="Antibiotic resistance">Antibiotic resistance</a></li>
+<li><a href="/wiki/Multiple_drug_resistance" title="Multiple drug resistance">Multiple drug resistance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Drug_discovery" title="Drug discovery">Drug discovery</a><br />
+strategies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classical_pharmacology" title="Classical pharmacology">Classical pharmacology</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Reverse_pharmacology" title="Reverse pharmacology">Reverse pharmacology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related<br />
+fields/subfields</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pharmacogenetics" title="Pharmacogenetics">Pharmacogenetics</a></li>
+<li><a href="/wiki/Pharmacogenomics" title="Pharmacogenomics">Pharmacogenomics</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Neuropsychopharmacology" title="Neuropsychopharmacology">Neuropsychopharmacology</a> (<a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a>, <a href="/wiki/Psychopharmacology" title="Psychopharmacology">Psychopharmacology</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/01180260">01180260</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Portal-puzzle.svg" class="image"><img alt="Portal-puzzle.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/36px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /></a></span><a href="/wiki/Portal:Metabolism" title="Portal:Metabolism">Metabolism portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20180211010925
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.364 seconds
+Real time usage: 0.430 seconds
+Preprocessor visited node count: 1532/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68084/2097152 bytes
+Template argument size: 783/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.185/10.000 seconds
+Lua memory usage: 3.45 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  346.762      1 -total
+ 50.96%  176.727      1 Template:Reflist
+ 37.42%  129.757     20 Template:Cite_journal
+  9.29%   32.207      1 Template:Authority_control
+  8.30%   28.791      5 Template:Cite_book
+  5.90%   20.467      1 Template:Portal_bar
+  5.00%   17.341      1 Template:Cmn
+  4.97%   17.241      1 Template:About
+  4.16%   14.420      1 Template:Pharmacology
+  3.86%   13.377      1 Template:Div_col
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1173475-0!canonical and timestamp 20180211010925 and revision id 818975129
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Drug_metabolism&amp;oldid=818975129">https://en.wikipedia.org/w/index.php?title=Drug_metabolism&amp;oldid=818975129</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Metabolism" title="Category:Metabolism">Metabolism</a></li><li><a href="/wiki/Category:Hepatology" title="Category:Hepatology">Hepatology</a></li><li><a href="/wiki/Category:Toxicology" title="Category:Toxicology">Toxicology</a></li><li><a href="/wiki/Category:Pharmacokinetics" title="Category:Pharmacokinetics">Pharmacokinetics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">Pages using div col without cols and colwidth parameters</a></li><li><a href="/wiki/Category:Pages_using_Columns-list_with_deprecated_parameters" title="Category:Pages using Columns-list with deprecated parameters">Pages using Columns-list with deprecated parameters</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Drug+metabolism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Drug+metabolism" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Drug_metabolism" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Drug_metabolism" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Drug_metabolism">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Drug_metabolism&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Drug_metabolism&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Drug_metabolism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Drug_metabolism" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Drug_metabolism&amp;oldid=818975129" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Drug_metabolism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1124842" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Drug_metabolism&amp;id=818975129" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Drug+metabolism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Drug+metabolism&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Drug_metabolism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Drug_metabolism" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D8%A8_%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1" title="استقلاب الدواء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Metabolisme_dels_f%C3%A0rmacs" title="Metabolisme dels fàrmacs – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Metabolismo_de_f%C3%A1rmacos" title="Metabolismo de fármacos – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Metabolismo_dei_farmaci" title="Metabolismo dei farmaci – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Xenobiotikumok_metabolizmusa" title="Xenobiotikumok metabolizmusa – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%96%AC%E7%89%A9%E4%BB%A3%E8%AC%9D" title="薬物代謝 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Metabolismo_das_drogas" title="Metabolismo das drogas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Presnova_u%C4%8Dinkovine" title="Presnova učinkovine – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Metabolizam_lekova" title="Metabolizam lekova – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Metabolizam_lekova" title="Metabolizam lekova – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/L%C3%A4%C3%A4keainemetabolia" title="Lääkeainemetabolia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Metabolismo_ng_droga" title="Metabolismo ng droga – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B9%81%E0%B8%97%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%8B%E0%B8%B6%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%B2" title="เมแทบอลิซึมของยา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B1%D0%BE%D0%BB%D1%96%D0%B7%D0%BC_%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%B7%D0%B0%D1%81%D0%BE%D0%B1%D1%96%D0%B2" title="Метаболізм лікарських засобів – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8D%AF%E7%89%A9%E4%BB%A3%E8%B0%A2" title="药物代谢 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1124842#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 January 2018, at 17:40.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Drug_metabolism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.430","ppvisitednodes":{"value":1532,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68084,"limit":2097152},"templateargumentsize":{"value":783,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  346.762      1 -total"," 50.96%  176.727      1 Template:Reflist"," 37.42%  129.757     20 Template:Cite_journal","  9.29%   32.207      1 Template:Authority_control","  8.30%   28.791      5 Template:Cite_book","  5.90%   20.467      1 Template:Portal_bar","  5.00%   17.341      1 Template:Cmn","  4.97%   17.241      1 Template:About","  4.16%   14.420      1 Template:Pharmacology","  3.86%   13.377      1 Template:Div_col"]},"scribunto":{"limitreport-timeusage":{"value":"0.185","limit":"10.000"},"limitreport-memusage":{"value":3622512,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20180211010925","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

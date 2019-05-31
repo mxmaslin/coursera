@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Time evolution - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Time_evolution","wgTitle":"Time evolution","wgCurRevisionId":811612506,"wgRevisionId":811612506,"wgArticleId":937739,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from September 2013","All articles lacking in-text citations","Dynamical systems"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Time_evolution","wgRelevantArticleId":937739,"wgRequestId":"WoNNRQpAADoAAAwp7iYAAABD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1156744","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Time_evolution"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Time_evolution&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Time_evolution&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Time_evolution"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Time_evolution rootpage-Time_evolution skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Time evolution</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(September 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p><b>Time evolution</b> is the change of state brought about by the passage of <a href="/wiki/Time" title="Time">time</a>, applicable to systems with internal state (also called <i>stateful systems</i>). In this formulation, <i>time</i> is not required to be a continuous parameter, but may be <a href="/wiki/Discrete_time" class="mw-redirect" title="Discrete time">discrete</a> or even <a href="https://en.wiktionary.org/wiki/finite" class="extiw" title="wiktionary:finite">finite</a>. In <a href="/wiki/Classical_physics" title="Classical physics">classical physics</a>, time evolution of a collection of <a href="/wiki/Rigid_body" title="Rigid body">rigid bodies</a> is governed by the principles of <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>. In their most rudimentary form, these principles express the relationship between forces acting on the bodies and their acceleration given by <a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a>. These principles can also be equivalently expressed more abstractly by <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian mechanics</a> or <a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a>.</p>
+<p>The concept of time evolution may be applicable to other stateful systems as well. For instance, the operation of a <a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a> can be regarded as the time evolution of the machine's control state together with the state of the tape (or possibly multiple tapes) including the position of the machine's read-write head (or heads). In this case, time is discrete.</p>
+<p>Stateful systems often have dual descriptions in terms of states or in terms of <a href="/wiki/Observable" title="Observable">observable</a> values. In such systems, time evolution can also refer to the change in observable values. This is particularly relevant in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a> where the <a href="/wiki/Schr%C3%B6dinger_picture" title="Schrödinger picture">Schrödinger picture</a> and <a href="/wiki/Heisenberg_picture" title="Heisenberg picture">Heisenberg picture</a> are (mostly) equivalent descriptions of time evolution.</p>
+<h2><span class="mw-headline" id="Time_evolution_operators">Time evolution operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Time_evolution&amp;action=edit&amp;section=1" title="Edit section: Time evolution operators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Consider a system with state space <i>X</i> for which evolution is <a href="/wiki/Deterministic" class="mw-redirect" title="Deterministic">deterministic</a> and <a href="/wiki/Reversible_dynamics" class="mw-redirect" title="Reversible dynamics">reversible</a>. For concreteness let us also suppose time is a parameter that ranges over the set of <a href="/wiki/Real_number" title="Real number">real numbers</a> <b>R</b>. Then time evolution is given by a family of <a href="/wiki/Bijection" title="Bijection">bijective</a> state transformations</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {F} _{t,s}:X\rightarrow X\quad \forall t,s\in \mathbb {R} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>:</mo>
+        <mi>X</mi>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>X</mi>
+        <mspace width="1em" />
+        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>s</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {F} _{t,s}:X\rightarrow X\quad \forall t,s\in \mathbb {R} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/167ce85145bf972885c8f0466bedb373c7806f49" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:24.181ex; height:2.843ex;" alt="\operatorname {F}_{{t,s}}:X\rightarrow X\quad \forall t,s\in {\mathbb  {R}}" /></span></dd>
+</dl>
+<p>F<sub><i>t</i>, <i>s</i></sub>(<i>x</i>) is the state of the system at time <i>t</i>, whose state at time <i>s</i> is <i>x</i>. The following identity holds</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {F} _{u,t}(\operatorname {F} _{t,s}(x))=\operatorname {F} _{u,s}(x).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>u</mi>
+            <mo>,</mo>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>u</mi>
+            <mo>,</mo>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {F} _{u,t}(\operatorname {F} _{t,s}(x))=\operatorname {F} _{u,s}(x).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67c7e1deb133eda3b112eb17d974fa0803eebf9f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:23.065ex; height:3.009ex;" alt="\operatorname {F}_{{u,t}}(\operatorname {F}_{{t,s}}(x))=\operatorname {F}_{{u,s}}(x)." /></span></dd>
+</dl>
+<p>To see why this is true, suppose <i>x</i> ∈ <i>X</i> is the state at time <i>s</i>. Then by the definition of F, F<sub><i>t</i>, <i>s</i></sub>(<i>x</i>) is the state of the system at time <i>t</i> and consequently applying the definition once more, F<sub><i>u</i>, <i>t</i></sub>(F<sub><i>t</i>, <i>s</i></sub>(<i>x</i>)) is the state at time <i>u</i>. But this is also F<sub><i>u</i>, <i>s</i></sub>(<i>x</i>).</p>
+<p>In some contexts in mathematical physics, the mappings F<sub><i>t</i>, <i>s</i></sub> are called <b>propagation operators</b> or simply <b><a href="/wiki/Propagator" title="Propagator">propagators</a></b>. In <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>, the propagators are functions that operate on the <a href="/wiki/Phase_space" title="Phase space">phase space</a> of a physical system. In <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>, the propagators are usually <a href="/wiki/Unitary_operator" title="Unitary operator">unitary operators</a> on a <a href="/wiki/Hilbert_space" title="Hilbert space">Hilbert space</a>. The propagators can be expressed as <a href="/wiki/Time-ordered" class="mw-redirect" title="Time-ordered">time-ordered</a> exponentials of the integrated Hamiltonian. The asymptotic properties of time evolution are given by the <a href="/wiki/S-matrix" title="S-matrix">scattering matrix</a>.</p>
+<p>A state space with a distinguished propagator is also called a <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical system</a>.</p>
+<p>To say time evolution is <b>homogeneous</b> means that</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {F} _{u,t}=\operatorname {F} _{u-t,0}\quad \forall u,t\in \mathbb {R} .}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>u</mi>
+            <mo>,</mo>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>u</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>t</mi>
+            <mo>,</mo>
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mspace width="1em" />
+        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mi>u</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">R</mi>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {F} _{u,t}=\operatorname {F} _{u-t,0}\quad \forall u,t\in \mathbb {R} .}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17b2d48e678e63bc33ca136296d1e0a6e3cbe54d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:25.053ex; height:2.843ex;" alt="\operatorname {F}_{{u,t}}=\operatorname {F}_{{u-t,0}}\quad \forall u,t\in {\mathbb  {R}}." /></span></dd>
+</dl>
+<p>In the case of a homogeneous system, the mappings G<sub><i>t</i></sub> = F<sub><i>t</i>,0</sub> form a one-parameter <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">group</a> of transformations of <i>X</i>, that is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {G} _{t+s}=\operatorname {G} _{t}\operatorname {G} _{s}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi mathvariant="normal">G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi mathvariant="normal">G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi mathvariant="normal">G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {G} _{t+s}=\operatorname {G} _{t}\operatorname {G} _{s}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8bc0f8ccfedcc41d3b9077e860958f020b61de23" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:14.31ex; height:2.509ex;" alt="\operatorname {G}_{{t+s}}=\operatorname {G}_{{t}}\operatorname {G}_{{s}}." /></span></dd>
+</dl>
+<p><b>Non-reversibility</b>. For non-reversible systems, the propagation operators F<sub><i>t</i>, <i>s</i></sub> are defined whenever <i>t</i> ≥ <i>s</i> and satisfy the propagation identity</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {F} _{u,t}(\operatorname {F} _{t,s}(x))=\operatorname {F} _{u,s}(x).\quad u\geq t\geq s.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>u</mi>
+            <mo>,</mo>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi mathvariant="normal">F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>u</mi>
+            <mo>,</mo>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+        <mspace width="1em" />
+        <mi>u</mi>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <mi>t</mi>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <mi>s</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {F} _{u,t}(\operatorname {F} _{t,s}(x))=\operatorname {F} _{u,s}(x).\quad u\geq t\geq s.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ad6e8a00d5b345da46fbd5d0a551bc4856edf78e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:35.878ex; height:3.009ex;" alt="\operatorname {F}_{{u,t}}(\operatorname {F}_{{t,s}}(x))=\operatorname {F}_{{u,s}}(x).\quad u\geq t\geq s." /></span></dd>
+</dl>
+<p>In the homogeneous case the propagators are exponentials of the Hamiltonian.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Time_evolution&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Arrow_of_time" title="Arrow of time">Arrow of time</a></li>
+<li><a href="/wiki/Time_translation_symmetry" title="Time translation symmetry">Time translation symmetry</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Time_evolution&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFAmannArendtNeubranderNicaise2008" class="citation">Amann, H.; Arendt, W.; Neubrander, F.; Nicaise, S.; von Below, J. (2008), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=HfJKFn73ySIC"><i>Functional Analysis and Evolution Equations: The Günter Lumer Volume</i></a>, Basel: Birkhäuser, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F978-3-7643-7794-6">10.1007/978-3-7643-7794-6</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2402015">2402015</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Functional+Analysis+and+Evolution+Equations%3A+The+G%C3%BCnter+Lumer+Volume&amp;rft.place=Basel&amp;rft.pub=Birkh%C3%A4user&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-7643-7794-6&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D2402015&amp;rft.aulast=Amann&amp;rft.aufirst=H.&amp;rft.au=Arendt%2C+W.&amp;rft.au=Neubrander%2C+F.&amp;rft.au=Nicaise%2C+S.&amp;rft.au=von+Below%2C+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHfJKFn73ySIC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATime+evolution" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite id="CITEREFLumer1994" class="citation"><a href="/wiki/G%C3%BCnter_Lumer" title="Günter Lumer">Lumer, Günter</a> (1994), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xv4vHAAACAAJ">"Evolution equations. Solutions for irregular evolution problems via generalized solutions and generalized initial values. Applications to periodic shocks models"</a>, <i>Annales Universitatis Saraviensis</i>, Series Mathematicae, <b>5</b> (1), <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1286099">1286099</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annales+Universitatis+Saraviensis&amp;rft.atitle=Evolution+equations.+Solutions+for+irregular+evolution+problems+via+generalized+solutions+and+generalized+initial+values.+Applications+to+periodic+shocks+models&amp;rft.volume=5&amp;rft.issue=1&amp;rft.date=1994&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1286099&amp;rft.aulast=Lumer&amp;rft.aufirst=G%C3%BCnter&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dxv4vHAAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATime+evolution" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20180213204037
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.177 seconds
+Preprocessor visited node count: 301/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11074/2097152 bytes
+Template argument size: 101/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 1.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  112.646      1 -total
+ 50.35%   56.721      1 Template:No_footnotes
+ 49.22%   55.448      2 Template:Citation
+ 30.16%   33.972      1 Template:Ambox
+  3.48%    3.924      2 Template:Yesno-no
+  2.13%    2.394      2 Template:Yesno
+  2.03%    2.286      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:937739-0!canonical!math=5 and timestamp 20180213204037 and revision id 811612506
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Time_evolution&amp;oldid=811612506">https://en.wikipedia.org/w/index.php?title=Time_evolution&amp;oldid=811612506</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dynamical_systems" title="Category:Dynamical systems">Dynamical systems</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_September_2013" title="Category:Articles lacking in-text citations from September 2013">Articles lacking in-text citations from September 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Time+evolution" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Time+evolution" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Time_evolution" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Time_evolution" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Time_evolution">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Time_evolution&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Time_evolution&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Time_evolution" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Time_evolution" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Time_evolution&amp;oldid=811612506" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Time_evolution&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1156744" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Time_evolution&amp;id=811612506" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Time+evolution">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Time+evolution&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Time_evolution&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Zeitentwicklung" title="Zeitentwicklung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%DA%A9%D8%A7%D9%85%D9%84_%D8%B2%D9%85%D8%A7%D9%86%DB%8C" title="تکامل زمانی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Op%C3%A9rateur_d%27%C3%A9volution" title="Opérateur d&#039;évolution – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%80%ED%99%94" title="시간 변화 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Operatore_di_evoluzione_temporale" title="Operatore di evoluzione temporale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%99%82%E9%96%93%E7%99%BA%E5%B1%95" title="時間発展 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o_temporal" title="Evolução temporal – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Zaman_evrimi" title="Zaman evrimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1156744#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 November 2017, at 19:47.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Time_evolution&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.177","ppvisitednodes":{"value":301,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11074,"limit":2097152},"templateargumentsize":{"value":101,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  112.646      1 -total"," 50.35%   56.721      1 Template:No_footnotes"," 49.22%   55.448      2 Template:Citation"," 30.16%   33.972      1 Template:Ambox","  3.48%    3.924      2 Template:Yesno-no","  2.13%    2.394      2 Template:Yesno","  2.03%    2.286      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":1938512,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20180213204037","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":269,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>

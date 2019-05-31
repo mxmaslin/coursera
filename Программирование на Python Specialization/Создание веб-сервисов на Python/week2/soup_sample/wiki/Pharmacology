@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pharmacology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pharmacology","wgTitle":"Pharmacology","wgCurRevisionId":823708551,"wgRevisionId":823708551,"wgArticleId":24354,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2014","All articles with unsourced statements","Articles with unsourced statements from July 2017","Articles needing additional references from February 2016","All articles needing additional references","Articles containing Ancient Greek-language text","Pages using div col without cols and colwidth parameters","Pages using Columns-list with deprecated parameters","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Pharmacology","Biochemistry","Life sciences industry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pharmacology","wgRelevantArticleId":24354,"wgRequestId":"WoNKlgpAMEoAABHeGpgAAACS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q128406","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pharmacologyprism.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pharmacology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pharmacology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pharmacology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pharmacology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pharmacology rootpage-Pharmacology skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Pharmacology</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the science. For the book type ("a pharmacology"), see <a href="/wiki/Materia_medica" title="Materia medica">Materia medica</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pharmacologyprism.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pharmacologyprism.jpg/220px-Pharmacologyprism.jpg" width="220" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pharmacologyprism.jpg/330px-Pharmacologyprism.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pharmacologyprism.jpg/440px-Pharmacologyprism.jpg 2x" data-file-width="450" data-file-height="277" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pharmacologyprism.jpg" class="internal" title="Enlarge"></a></div>
+A variety of topics involved with pharmacology, including <a href="/wiki/Neuropharmacology" title="Neuropharmacology">neuropharmacology</a>, renal pharmacology, human <a href="/wiki/Metabolism" title="Metabolism">metabolism</a>, intracellular metabolism, and intracellular regulation</div>
+</div>
+</div>
+<p><b>Pharmacology</b> is the branch of <a href="/wiki/Biology" title="Biology">biology</a> concerned with the study of <a href="/wiki/Drug" title="Drug">drug</a> action,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> where a drug can be broadly defined as any man-made, natural, or endogenous (from within body) molecule which exerts a biochemical or physiological effect on the cell, tissue, organ, or organism (sometimes the word <a href="/wiki/Pharmacon" title="Pharmacon">pharmacon</a> is used as a term to encompass these <a href="/wiki/Endogenous" class="mw-redirect" title="Endogenous">endogenous</a> and <a href="/wiki/Exogenous" class="mw-redirect" title="Exogenous">exogenous</a> <a href="/wiki/Bioactive" class="mw-disambig" title="Bioactive">bioactive</a> species). More specifically, it is the study of the interactions that occur between a living organism and chemicals that affect normal or abnormal biochemical function. If substances have medicinal properties, they are considered <a href="/wiki/Pharmaceutical_drug" class="mw-redirect" title="Pharmaceutical drug">pharmaceuticals</a>.</p>
+<p>The field encompasses drug composition and properties, synthesis and drug design, molecular and cellular <a href="/wiki/Mechanism_of_action" title="Mechanism of action">mechanisms</a>, organ/systems mechanisms, signal transduction/cellular communication, molecular diagnostics, <a href="/wiki/Drug_interaction" title="Drug interaction">interactions</a>, <a href="/wiki/Toxicology" title="Toxicology">toxicology</a>, <a href="/wiki/Chemical_biology" title="Chemical biology">chemical biology</a>, therapy, and medical applications and antipathogenic capabilities. The two main areas of pharmacology are <a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">pharmacodynamics</a> and <a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">pharmacokinetics</a>. Pharmacodynamics studies the effects of a drug on biological systems, and Pharmacokinetics studies the effects of biological systems on a drug. In broad terms, pharmacodynamics discusses the chemicals with biological <a href="/wiki/Receptor_(biochemistry)" title="Receptor (biochemistry)">receptors</a>, and pharmacokinetics discusses the absorption, distribution, metabolism, and excretion (ADME) of chemicals from the biological systems. Pharmacology is not synonymous with <a href="/wiki/Pharmacy" title="Pharmacy">pharmacy</a> and the two terms are frequently confused. Pharmacology, a biomedical science, deals with the research, discovery, and characterization of chemicals which show biological effects and the elucidation of cellular and organismal function in relation to these chemicals. In contrast, pharmacy, a health services profession, is concerned with application of the principles learned from pharmacology in its clinical settings; whether it be in a dispensing or clinical care role. In either field, the primary contrast between the two are their distinctions between direct-patient care, for pharmacy practice, and the science-oriented research field, driven by pharmacology.</p>
+<p>The origins of <a href="/wiki/Clinical_pharmacology" title="Clinical pharmacology">clinical pharmacology</a> date back to the Middle Ages in <a href="/wiki/Avicenna" title="Avicenna">Avicenna</a>'s <i><a href="/wiki/The_Canon_of_Medicine" title="The Canon of Medicine">The Canon of Medicine</a></i>, <a href="/wiki/Peter_of_Spain_(author)" class="mw-redirect" title="Peter of Spain (author)">Peter of Spain</a>'s <i>Commentary on Isaac</i>, and <a href="/wiki/John_of_St_Amand" title="John of St Amand">John of St Amand</a>'s <i>Commentary on the Antedotary of Nicholas</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Clinical pharmacology owes much of its foundation to the work of <a href="/wiki/William_Withering" title="William Withering">William Withering</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Pharmacology as a scientific discipline did not further advance until the mid-19th century amid the great biomedical resurgence of that period.<sup id="cite_ref-rang2006_4-0" class="reference"><a href="#cite_note-rang2006-4">[4]</a></sup> Before the second half of the nineteenth century, the remarkable potency and specificity of the actions of drugs such as <a href="/wiki/Morphine" title="Morphine">morphine</a>, <a href="/wiki/Quinine" title="Quinine">quinine</a> and <a href="/wiki/Digitalis" title="Digitalis">digitalis</a> were explained vaguely and with reference to extraordinary chemical powers and affinities to certain organs or tissues.<sup id="cite_ref-AHM2002_5-0" class="reference"><a href="#cite_note-AHM2002-5">[5]</a></sup> The first pharmacology department was set up by <a href="/wiki/Rudolf_Buchheim" title="Rudolf Buchheim">Rudolf Buchheim</a> in 1847, in recognition of the need to understand how therapeutic drugs and poisons produced their effects.<sup id="cite_ref-rang2006_4-1" class="reference"><a href="#cite_note-rang2006-4">[4]</a></sup></p>
+<p>Early pharmacologists focused on natural substances, mainly plant extracts. Pharmacology developed in the 19th century as a biomedical science that applied the principles of scientific experimentation to therapeutic contexts.<sup id="cite_ref-rang_6-0" class="reference"><a href="#cite_note-rang-6">[6]</a></sup> Today pharmacologists use genetics, molecular biology, chemistry, and other advanced tools to transform information about molecular mechanisms and targets into therapies directed against disease, defects or pathogens, and create methods for preventative care, diagnostics, and ultimately <a href="/wiki/Personalized_medicine" title="Personalized medicine">personalized medicine</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Divisions"><span class="tocnumber">1</span> <span class="toctext">Divisions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Clinical_pharmacology"><span class="tocnumber">1.1</span> <span class="toctext">Clinical pharmacology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Neuropharmacology"><span class="tocnumber">1.2</span> <span class="toctext">Neuropharmacology</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Psychopharmacology"><span class="tocnumber">1.3</span> <span class="toctext">Psychopharmacology</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Cardiovascular_pharmacology"><span class="tocnumber">1.4</span> <span class="toctext">Cardiovascular pharmacology</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Pharmacogenetics"><span class="tocnumber">1.5</span> <span class="toctext">Pharmacogenetics</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Pharmacogenomics"><span class="tocnumber">1.6</span> <span class="toctext">Pharmacogenomics</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pharmacoepidemiology"><span class="tocnumber">1.7</span> <span class="toctext">Pharmacoepidemiology</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Systems_pharmacology"><span class="tocnumber">1.8</span> <span class="toctext">Systems pharmacology</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Toxicology"><span class="tocnumber">1.9</span> <span class="toctext">Toxicology</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Theoretical_pharmacology"><span class="tocnumber">1.10</span> <span class="toctext">Theoretical pharmacology</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Posology"><span class="tocnumber">1.11</span> <span class="toctext">Posology</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Pharmacognosy"><span class="tocnumber">1.12</span> <span class="toctext">Pharmacognosy</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Environmental_pharmacology"><span class="tocnumber">1.13</span> <span class="toctext">Environmental pharmacology</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Dental_pharmacology"><span class="tocnumber">1.14</span> <span class="toctext">Dental pharmacology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Scientific_background"><span class="tocnumber">2</span> <span class="toctext">Scientific background</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Medicine_development_and_safety_testing"><span class="tocnumber">3</span> <span class="toctext">Medicine development and safety testing</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Drug_legislation_and_safety"><span class="tocnumber">4</span> <span class="toctext">Drug legislation and safety</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Etymology"><span class="tocnumber">6</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=1" title="Edit section: Divisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The discipline of pharmacology can be divided into many sub disciplines each with a specific focus.</p>
+<h3><span class="mw-headline" id="Clinical_pharmacology">Clinical pharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=2" title="Edit section: Clinical pharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Clinical_pharmacology" title="Clinical pharmacology">Clinical pharmacology</a> is the basic science of pharmacology with an added focus on the application of pharmacological principles and methods in the <a href="/wiki/Medical_clinic" class="mw-redirect" title="Medical clinic">medical clinic</a> and towards patient care and outcomes.</p>
+<h3><span class="mw-headline" id="Neuropharmacology">Neuropharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=3" title="Edit section: Neuropharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a> is the study of the effects of medication on <a href="/wiki/Central_nervous_system" title="Central nervous system">central</a> and <a href="/wiki/Peripheral_nervous_system" title="Peripheral nervous system">peripheral nervous system</a> functioning.</p>
+<h3><span class="mw-headline" id="Psychopharmacology">Psychopharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=4" title="Edit section: Psychopharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Psychopharmacology" title="Psychopharmacology">Psychopharmacology</a>, also known as behavioral pharmacology, is the study of the effects of medication on the <a href="/wiki/Psyche_(psychology)" title="Psyche (psychology)">psyche (psychology)</a>, observing changed behaviors of the body and mind, and how molecular events are manifest in a measurable behavioral form. Psychopharmacology is an interdisciplinary field which studies behavioral effects of psychoactive drugs. It incorporates approaches and techniques from neuropharmacology, animal behavior and behavioral neuroscience, and is interested in the behavioral and neurobiological mechanisms of action of psychoactive drugs. Another goal of behavioral pharmacology is to develop animal behavioral models to screen chemical compounds with therapeutic potentials. People in this field (called behavioral pharmacologists) typically use small animals (e.g. rodents) to study psychotherapeutic drugs such as antipsychotics, antidepressants and anxiolytics, and drugs of abuse such as nicotine, cocaine and methamphetamine. <b>Ethopharmacology</b> (not to be confused with <a href="/wiki/Ethnopharmacology" class="mw-redirect" title="Ethnopharmacology">ethnopharmacology</a>) is a term which has been in use since the 1960s<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and derives from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> word ἦθος <i>ethos</i> meaning character and "pharmacology" the study of drug actions and mechanism.</p>
+<h3><span class="mw-headline" id="Cardiovascular_pharmacology">Cardiovascular pharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=5" title="Edit section: Cardiovascular pharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cardiovascular pharmacology is the study of the effects of drugs on the entire cardiovascular system, including the heart and blood vessels.</p>
+<h3><span class="mw-headline" id="Pharmacogenetics">Pharmacogenetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=6" title="Edit section: Pharmacogenetics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Pharmacogenetics" title="Pharmacogenetics">Pharmacogenetics</a> is clinical testing of genetic variation that gives rise to differing response to drugs.</p>
+<h3><span class="mw-headline" id="Pharmacogenomics">Pharmacogenomics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=7" title="Edit section: Pharmacogenomics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Pharmacogenomics" title="Pharmacogenomics">Pharmacogenomics</a> is the application of genomic technologies to <a href="/wiki/Drug_discovery" title="Drug discovery">drug discovery</a> and further characterization of older drugs.</p>
+<h3><span class="mw-headline" id="Pharmacoepidemiology">Pharmacoepidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=8" title="Edit section: Pharmacoepidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Pharmacoepidemiology" title="Pharmacoepidemiology">Pharmacoepidemiology</a> is the study of the effects of drugs in large numbers of people.</p>
+<h3><span class="mw-headline" id="Systems_pharmacology">Systems pharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=9" title="Edit section: Systems pharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Systems_pharmacology" title="Systems pharmacology">Systems pharmacology</a> is the coding system principles in the field of pharmacology.</p>
+<h3><span class="mw-headline" id="Toxicology">Toxicology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=10" title="Edit section: Toxicology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Toxicology" title="Toxicology">Toxicology</a> is the study of the <a href="/wiki/Adverse_effect" title="Adverse effect">adverse effects</a>, molecular targets, and characterization of drugs or any chemical substance in excess (including those beneficial in lower doses).</p>
+<h3><span class="mw-headline" id="Theoretical_pharmacology">Theoretical pharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=11" title="Edit section: Theoretical pharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Theoretical pharmacology is a relatively new and rapidly expanding field of research activity in which many of the techniques of computational chemistry, in particular computational quantum chemistry and the method of molecular mechanics, are proving to be of great value. Theoretical pharmacologists aim at rationalizing the relation between the activity of a particular drug, as observed experimentally, and its structural features as derived from computer experiments. They aim to find structure—activity relations. Furthermore, on the basis of the structure of a given organic molecule, the theoretical pharmacologist aims at predicting the biological activity of new drugs that are of the same general type as existing drugs. More ambitiously, it aims to predict entirely new classes of drugs, tailor-made for specific purposes.</p>
+<h3><span class="mw-headline" id="Posology">Posology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=12" title="Edit section: Posology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Posology</b> is the study of how medicines are dosed. This depends upon various factors including age, climate, weight, sex, elimination rate of drug, genetic polymorphism and time of administration. It is derived from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> words πόσος <i>posos</i> meaning "how much?" and -λογία <i>-logia</i> "study of".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Pharmacognosy">Pharmacognosy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=13" title="Edit section: Pharmacognosy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Pharmacognosy" title="Pharmacognosy">Pharmacognosy</a> is a branch of pharmacology dealing especially with the composition, use, and development of medicinal substances of biological origin and especially medicinal substances obtained from plants.</p>
+<h3><span class="mw-headline" id="Environmental_pharmacology">Environmental pharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=14" title="Edit section: Environmental pharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Environmental pharmacology is a new discipline.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Focus is being given to understand <a href="/wiki/Gene%E2%80%93environment_interaction" title="Gene–environment interaction">gene–environment interaction</a>, drug-environment interaction and toxin-environment interaction. There is a close collaboration between <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a> and <a href="/wiki/Medicine" title="Medicine">medicine</a> in addressing these issues, as healthcare itself can be a cause of <a href="/wiki/Environmental_damage" class="mw-redirect" title="Environmental damage">environmental damage</a> or <a href="/wiki/Environmental_remediation" title="Environmental remediation">remediation</a>. Human health and ecology are intimately related. Demand for more pharmaceutical products may place the public at risk through the destruction of species. The entry of chemicals and drugs into the <a href="/wiki/Aquatic_ecosystem" title="Aquatic ecosystem">aquatic ecosystem</a> is a more serious concern today. In addition, the production of some <a href="/wiki/Illegal_drugs" class="mw-redirect" title="Illegal drugs">illegal drugs</a> pollutes drinking water supply by releasing <a href="/wiki/Carcinogens" class="mw-redirect" title="Carcinogens">carcinogens</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> This field is intimately linked with Public Health fields.</p>
+<h3><span class="mw-headline" id="Dental_pharmacology">Dental pharmacology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=15" title="Edit section: Dental pharmacology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Dental_pharmacology" title="Dental pharmacology">Dental pharmacology</a> relates to the study of drugs commonly used in the treatment of dental disease.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2017)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Scientific_background">Scientific background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=16" title="Edit section: Scientific background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The study of chemicals requires intimate knowledge of the biological system affected. With the knowledge of <a href="/wiki/Cell_biology" title="Cell biology">cell biology</a> and <a href="/wiki/Biochemistry" title="Biochemistry">biochemistry</a> increasing, the field of pharmacology has also changed substantially. It has become possible, through molecular analysis of <a href="/wiki/Receptor_(biochemistry)" title="Receptor (biochemistry)">receptors</a>, to design chemicals that act on specific cellular signaling or <a href="/wiki/Metabolic_pathway" title="Metabolic pathway">metabolic pathways</a> by affecting sites directly on cell-surface receptors (which modulate and mediate cellular signaling pathways controlling cellular function).</p>
+<p>A chemical has, from the pharmacological point-of-view, various properties. <a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">Pharmacokinetics</a> describes the effect of the body on the chemical (e.g. <a href="/wiki/Half-life" title="Half-life">half-life</a> and <a href="/wiki/Volume_of_distribution" title="Volume of distribution">volume of distribution</a>), and <a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">pharmacodynamics</a> describes the chemical's effect on the body (desired or <a href="/wiki/Toxic" class="mw-redirect" title="Toxic">toxic</a>).</p>
+<p>When describing the pharmacokinetic properties of the chemical that is the active ingredient or <a href="/wiki/Active_ingredient" title="Active ingredient">active pharmaceutical ingredient</a> (API), pharmacologists are often interested in <i>L-ADME</i>:</p>
+<ul>
+<li><a href="/wiki/Liberation_(pharmacology)" title="Liberation (pharmacology)">Liberation</a> – How is the API disintegrated (for solid oral forms (breaking down into smaller particles)), dispersed, or dissolved from the medication?</li>
+<li><a href="/wiki/Absorption_(digestive)" class="mw-redirect" title="Absorption (digestive)">Absorption</a> – How is the API absorbed (through the <a href="/wiki/Human_skin" title="Human skin">skin</a>, the <a href="/wiki/Intestine" class="mw-redirect" title="Intestine">intestine</a>, the <a href="/wiki/Oral_mucosa" title="Oral mucosa">oral mucosa</a>)?</li>
+<li><a href="/wiki/Distribution_(pharmacology)" title="Distribution (pharmacology)">Distribution</a> – How does the API spread through the organism?</li>
+<li><a href="/wiki/Drug_metabolism" title="Drug metabolism">Metabolism</a> – Is the API converted chemically inside the body, and into which substances. Are these active (as well)? Could they be toxic?</li>
+<li><a href="/wiki/Excretion" title="Excretion">Excretion</a> – How is the API excreted (through the bile, urine, breath, skin)?</li>
+</ul>
+<p>Medication is said to have a narrow or wide <i><a href="/wiki/Therapeutic_index" title="Therapeutic index">therapeutic index</a></i> or <i><a href="/wiki/Therapeutic_window" class="mw-redirect" title="Therapeutic window">therapeutic window</a></i>. This describes the ratio of desired effect to toxic effect. A compound with a narrow therapeutic index (close to one) exerts its desired effect at a dose close to its toxic dose. A compound with a wide therapeutic index (greater than five) exerts its desired effect at a dose substantially below its toxic dose. Those with a narrow margin are more difficult to dose and administer, and may require <a href="/wiki/Therapeutic_drug_monitoring" title="Therapeutic drug monitoring">therapeutic drug monitoring</a> (examples are <a href="/wiki/Warfarin" title="Warfarin">warfarin</a>, some <a href="/wiki/Antiepileptic" class="mw-redirect" title="Antiepileptic">antiepileptics</a>, <a href="/wiki/Aminoglycoside" title="Aminoglycoside">aminoglycoside</a> <a href="/wiki/Antibiotics" title="Antibiotics">antibiotics</a>). Most anti-<a href="/wiki/Cancer" title="Cancer">cancer</a> drugs have a narrow therapeutic margin: toxic side-effects are almost always encountered at doses used to kill <a href="/wiki/Tumor" class="mw-redirect" title="Tumor">tumors</a>.</p>
+<h2><span class="mw-headline" id="Medicine_development_and_safety_testing">Medicine development and safety testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=17" title="Edit section: Medicine development and safety testing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Drug_development" title="Drug development">Development of medication</a> is a vital concern to <a href="/wiki/Medicine" title="Medicine">medicine</a>, but also has strong <a href="/wiki/Economical" class="mw-redirect" title="Economical">economical</a> and <a href="/wiki/Political" class="mw-redirect" title="Political">political</a> implications. To protect the <a href="/wiki/Consumer" title="Consumer">consumer</a> and prevent abuse, many governments regulate the manufacture, sale, and administration of medication. In the <a href="/wiki/United_States" title="United States">United States</a>, the main body that regulates pharmaceuticals is the <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> and they enforce <a href="/wiki/Technical_standard" title="Technical standard">standards</a> set by the <a href="/wiki/United_States_Pharmacopoeia" class="mw-redirect" title="United States Pharmacopoeia">United States Pharmacopoeia</a>. In the <a href="/wiki/European_Union" title="European Union">European Union</a>, the main body that regulates pharmaceuticals is the <a href="/wiki/European_Medicines_Agency" title="European Medicines Agency">EMA</a> and they enforce standards set by the <a href="/wiki/European_Pharmacopoeia" title="European Pharmacopoeia">European Pharmacopoeia</a>.</p>
+<p>The metabolic stability and the reactivity of a library of candidate drug compounds have to be assessed for drug metabolism and toxicological studies. Many methods have been proposed for quantitative predictions in drug metabolism; one example of a recent computational method is <a rel="nofollow" class="external text" href="http://www.freebase.com/view/en/sporcalc">SPORCalc</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> If the chemical structure of a medicinal compound is altered slightly, this could slightly or dramatically alter the medicinal properties of the compound depending on the level of alteration as it relates to the structural composition of the substrate or receptor site on which it exerts its medicinal effect, a concept referred to as the structural activity relationship (SAR). This means that when a useful activity has been identified, chemists will make many similar compounds called analogues, in an attempt to maximize the desired medicinal effect(s) of the compound. This development phase can take anywhere from a few years to a decade or more and is very expensive.<sup id="cite_ref-ReviseALChem_12-0" class="reference"><a href="#cite_note-ReviseALChem-12">[12]</a></sup></p>
+<p>These new analogues need to be developed. It needs to be determined how safe the medicine is for human consumption, its stability in the human body and the best form for delivery to the desired organ system, like tablet or aerosol. After extensive testing, which can take up to 6 years, the new medicine is ready for marketing and selling.<sup id="cite_ref-ReviseALChem_12-1" class="reference"><a href="#cite_note-ReviseALChem-12">[12]</a></sup></p>
+<p>As a result of the long time required to develop analogues and test a new medicine and the fact that of every 5000 potential new medicines typically only one will ever reach the open market, this is an expensive way of doing things, often costing over 1 billion dollars. To recoup this outlay pharmaceutical companies may do a number of things:<sup id="cite_ref-ReviseALChem_12-2" class="reference"><a href="#cite_note-ReviseALChem-12">[12]</a></sup></p>
+<ul>
+<li>Carefully research the demand for their potential new product before spending an outlay of company funds.<sup id="cite_ref-ReviseALChem_12-3" class="reference"><a href="#cite_note-ReviseALChem-12">[12]</a></sup></li>
+<li>Obtain a patent on the new medicine preventing other companies from producing that medicine for a certain allocation of time.<sup id="cite_ref-ReviseALChem_12-4" class="reference"><a href="#cite_note-ReviseALChem-12">[12]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Drug_legislation_and_safety">Drug legislation and safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=18" title="Edit section: Drug legislation and safety">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/United_States" title="United States">United States</a>, the <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> (FDA) is responsible for creating guidelines for the approval and use of drugs. The FDA requires that all approved drugs fulfill two requirements:</p>
+<ol>
+<li>The drug must be found to be effective against the disease for which it is seeking approval (where 'effective' means only that the drug performed better than placebo or competitors in at least two trials).</li>
+<li>The drug must meet safety criteria by being subject to animal and controlled human testing.</li>
+</ol>
+<p>Gaining FDA approval usually takes several years to attain. Testing done on animals must be extensive and must include several species to help in the evaluation of both the effectiveness and toxicity of the drug. The dosage of any drug approved for use is intended to fall within a range in which the drug produces a <a href="/wiki/Therapeutic_effect" title="Therapeutic effect">therapeutic effect</a> or desired outcome.<sup id="cite_ref-nagle_13-0" class="reference"><a href="#cite_note-nagle-13">[13]</a></sup></p>
+<p>The safety and effectiveness of prescription drugs in the U.S. is regulated by the federal <a href="/wiki/Prescription_Drug_Marketing_Act_(PDMA)" class="mw-redirect" title="Prescription Drug Marketing Act (PDMA)">Prescription Drug Marketing Act of 1987</a>.</p>
+<p>The <a href="/wiki/Medicines_and_Healthcare_products_Regulatory_Agency" title="Medicines and Healthcare products Regulatory Agency">Medicines and Healthcare products Regulatory Agency</a> (MHRA) has a similar role in the UK.</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=19" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pharmacology&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(February 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>Students of pharmacology are trained as biomedical scientists, studying the effects of drugs on living organisms. This can lead to new drug discoveries, as well as a better understanding of the way in which the human body works.</p>
+<p>Students of pharmacology must have detailed working knowledge of aspects in physiology, pathology and chemistry. During a typical degree they will cover areas such as (but not limited to) biochemistry, cell biology, basic physiology, genetics and the <a href="/wiki/Central_Dogma" class="mw-redirect" title="Central Dogma">Central Dogma</a>, medical microbiology, neuroscience, and depending on the department's interests, bio-organic chemistry, or chemical biology.</p>
+<p>Modern Pharmacology is highly interdisciplinary. Graduate programs accept students from most biological and chemical backgrounds. With the increasing drive towards biophysical and computational research to describe systems, pharmacologists may even consider themselves mainly physical scientists. In many instances, Analytical Chemistry is closely related to the studies and needs of pharmacological research. Therefore, many institutions will include pharmacology under a Chemistry or Biochemistry Department, especially if a separate Pharmacology Dept. does not exist. What makes an institutional department independent of another, or exist in the first place, is usually an artifact of historical times.</p>
+<p>Whereas a pharmacy student will eventually work in a pharmacy dispensing medications, a pharmacologist will typically work within a laboratory setting. Careers for a pharmacologist include academic positions (medical and non-medical), governmental positions, private industrial positions, science writing, scientific patents and law, consultation, biotech and pharmaceutical employment, the alcohol industry, food industry, forensics/law enforcement, public health, and environmental/ecological sciences.</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=20" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word "pharmacology" is derived from <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> <span lang="grc" xml:lang="grc"><a href="https://en.wiktionary.org/wiki/%CF%86%CE%AC%CF%81%CE%BC%CE%B1%CE%BA%CE%BF%CE%BD" class="extiw" title="wiktionary:φάρμακον">φάρμακον</a></span>, <i>pharmakon</i>, "drug, <a href="/wiki/Poison" title="Poison">poison</a>, <a href="/wiki/Spell_(paranormal)" title="Spell (paranormal)">spell</a>" and <span lang="grc" xml:lang="grc"><a href="https://en.wiktionary.org/wiki/-%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" class="extiw" title="wiktionary:-λογία">-λογία</a></span>, <i><a href="https://en.wiktionary.org/wiki/-logia" class="extiw" title="wiktionary:-logia">-logia</a></i> "study of", "knowledge of"<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> (cf. the <a href="/wiki/Pharmacy#Etymology" title="Pharmacy">etymology of <i>pharmacy</i></a>).</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Certain_safety_factor" class="mw-redirect" title="Certain safety factor">Certain safety factor</a></li>
+<li><a href="/wiki/Cosmeceuticals" class="mw-redirect" title="Cosmeceuticals">Cosmeceuticals</a></li>
+<li><a href="/wiki/Crude_drugs" class="mw-redirect" title="Crude drugs">Crude drugs</a></li>
+<li><a href="/wiki/Nicholas_Culpeper" title="Nicholas Culpeper">Nicholas Culpeper</a> – 17th century English Physician who translated and used 'pharmacological texts'.</li>
+<li><a href="/wiki/Drug_design" title="Drug design">Drug design</a></li>
+<li><a href="/wiki/Drug_Discovery_Hit_to_Lead" class="mw-redirect" title="Drug Discovery Hit to Lead">Drug Discovery Hit to Lead</a></li>
+<li><a href="/wiki/Drug_metabolism" title="Drug metabolism">Drug metabolism</a></li>
+<li><a href="/wiki/Enzyme_inhibitor" title="Enzyme inhibitor">Enzyme inhibitors</a></li>
+<li><a href="/wiki/Herbalism" title="Herbalism">Herbalism</a></li>
+<li><a href="/wiki/History_of_pharmacy" title="History of pharmacy">History of pharmacy</a></li>
+<li><a href="/wiki/International_Union_of_Basic_and_Clinical_Pharmacology" title="International Union of Basic and Clinical Pharmacology">International Union of Basic and Clinical Pharmacology</a></li>
+<li><a href="/wiki/Inverse_benefit_law" title="Inverse benefit law">Inverse benefit law</a></li>
+<li><a href="/wiki/List_of_abbreviations_used_in_medical_prescriptions" title="List of abbreviations used in medical prescriptions">List of abbreviations used in medical prescriptions</a></li>
+<li><a href="/wiki/List_of_pharmaceutical_companies" title="List of pharmaceutical companies">List of pharmaceutical companies</a></li>
+<li><a href="/wiki/List_of_withdrawn_drugs" title="List of withdrawn drugs">List of withdrawn drugs</a></li>
+<li><a href="/wiki/Loewe_additivity" title="Loewe additivity">Loewe additivity</a></li>
+<li><a href="/wiki/Medical_School" class="mw-redirect" title="Medical School">Medical School</a></li>
+<li><a href="/wiki/Medicare_Part_D" title="Medicare Part D">Medicare Part D</a> – the new prescription drug plan in the U.S.</li>
+<li><a href="/wiki/Medication" title="Medication">Medication</a></li>
+<li><a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">Medicinal chemistry</a></li>
+<li><a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a> – The Molecular and Behavior study of Disease and Drugs in the Nervous System</li>
+<li><a href="/wiki/Neuropsychopharmacology" title="Neuropsychopharmacology">Neuropsychopharmacology</a> – The detailed comprehensive study of mind, brain and drugs.</li>
+<li><a href="/wiki/Pharmaceutical_company" class="mw-redirect" title="Pharmaceutical company">Pharmaceutical company</a></li>
+<li><a href="/wiki/Pharmaceutical_formulation" title="Pharmaceutical formulation">Pharmaceutical formulation</a></li>
+<li><a href="/wiki/Pharmaceuticals_and_personal_care_products_in_the_environment" class="mw-redirect" title="Pharmaceuticals and personal care products in the environment">Pharmaceuticals and personal care products in the environment</a></li>
+<li><a href="/wiki/Pharmacognosy" title="Pharmacognosy">Pharmacognosy</a></li>
+<li><a href="/wiki/Pharmacopoeia" title="Pharmacopoeia">Pharmacopoeia</a></li>
+<li><a href="/wiki/Pharmacotherapy" title="Pharmacotherapy">Pharmacotherapy</a></li>
+<li><a href="/wiki/Pharmakos" title="Pharmakos">Pharmakos</a></li>
+<li><a href="/wiki/Placebo_(origins_of_technical_term)" class="mw-redirect" title="Placebo (origins of technical term)">Placebo (origins of technical term)</a></li>
+<li><a href="/wiki/Prescription_drug" title="Prescription drug">Prescription drug</a></li>
+<li><a href="/wiki/Prescription_Drug_Marketing_Act_(PDMA)" class="mw-redirect" title="Prescription Drug Marketing Act (PDMA)">Prescription Drug Marketing Act (PDMA)</a></li>
+<li><a href="/wiki/Psychopharmacology" title="Psychopharmacology">Psychopharmacology</a> – medication for mental conditions</li>
+<li><a href="/wiki/Traditional_Chinese_Medicine" class="mw-redirect" title="Traditional Chinese Medicine">Traditional Chinese Medicine</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vallance P, Smart TG (January 2006). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1760753">"The future of pharmacology"</a>. <i><a href="/wiki/British_Journal_of_Pharmacology" title="British Journal of Pharmacology">British Journal of Pharmacology</a></i>. 147 Suppl 1 (S1): S304–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fsj.bjp.0706454">10.1038/sj.bjp.0706454</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1760753">1760753</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16402118">16402118</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=British+Journal+of+Pharmacology&amp;rft.atitle=The+future+of+pharmacology&amp;rft.volume=147+Suppl+1&amp;rft.issue=S1&amp;rft.pages=S304-7&amp;rft.date=2006-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1760753&amp;rft_id=info%3Apmid%2F16402118&amp;rft_id=info%3Adoi%2F10.1038%2Fsj.bjp.0706454&amp;rft.aulast=Vallance&amp;rft.aufirst=P&amp;rft.au=Smart%2C+TG&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1760753&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brater DC, Daly WJ (May 2000). "Clinical pharmacology in the Middle Ages: principles that presage the 21st century". <i>Clin. Pharmacol. Ther</i>. <b>67</b> (5): 447–50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1067%2Fmcp.2000.106465">10.1067/mcp.2000.106465</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10824622">10824622</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Clin.+Pharmacol.+Ther.&amp;rft.atitle=Clinical+pharmacology+in+the+Middle+Ages%3A+principles+that+presage+the+21st+century&amp;rft.volume=67&amp;rft.issue=5&amp;rft.pages=447-50&amp;rft.date=2000-05&amp;rft_id=info%3Adoi%2F10.1067%2Fmcp.2000.106465&amp;rft_id=info%3Apmid%2F10824622&amp;rft.aulast=Brater&amp;rft.aufirst=DC&amp;rft.au=Daly%2C+WJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Mannfred A. Hollinger (2003)."<i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=bx-WfLwrVH8C&amp;pg=PA4&amp;dq&amp;hl=en#v=onepage&amp;q=&amp;f=false">Introduction to pharmacology</a></i>". <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. p.4. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-28033-8" title="Special:BookSources/0-415-28033-8">0-415-28033-8</a></span></li>
+<li id="cite_note-rang2006-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-rang2006_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rang2006_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Rang HP (January 2006). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1760743">"The receptor concept: pharmacology's big idea"</a>. <i>Br. J. Pharmacol</i>. 147 Suppl 1 (S1): S9–16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fsj.bjp.0706457">10.1038/sj.bjp.0706457</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1760743">1760743</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16402126">16402126</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Br.+J.+Pharmacol.&amp;rft.atitle=The+receptor+concept%3A+pharmacology%27s+big+idea&amp;rft.volume=147+Suppl+1&amp;rft.issue=S1&amp;rft.pages=S9-16&amp;rft.date=2006-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1760743&amp;rft_id=info%3Apmid%2F16402126&amp;rft_id=info%3Adoi%2F10.1038%2Fsj.bjp.0706457&amp;rft.au=Rang+HP&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1760743&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AHM2002-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-AHM2002_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Maehle AH, Prüll CR, Halliwell RF (August 2002). "The emergence of the drug receptor theory". <i>Nat Rev Drug Discov</i>. <b>1</b> (8): 637–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnrd875">10.1038/nrd875</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12402503">12402503</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nat+Rev+Drug+Discov&amp;rft.atitle=The+emergence+of+the+drug+receptor+theory&amp;rft.volume=1&amp;rft.issue=8&amp;rft.pages=637-41&amp;rft.date=2002-08&amp;rft_id=info%3Adoi%2F10.1038%2Fnrd875&amp;rft_id=info%3Apmid%2F12402503&amp;rft.aulast=Maehle&amp;rft.aufirst=AH&amp;rft.au=Pr%C3%BCll%2C+CR&amp;rft.au=Halliwell%2C+RF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rang-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-rang_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Rang, H.P.; M.M. Dale; J.M. Ritter; R.J. Flower (2007). <i>Pharmacology</i>. <a href="/wiki/China" title="China">China</a>: <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-443-06911-5" title="Special:BookSources/0-443-06911-5">0-443-06911-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pharmacology&amp;rft.place=China&amp;rft.pub=Elsevier&amp;rft.date=2007&amp;rft.isbn=0-443-06911-5&amp;rft.aulast=Rang&amp;rft.aufirst=H.P.&amp;rft.au=M.M.+Dale&amp;rft.au=J.M.+Ritter&amp;rft.au=R.J.+Flower&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Krsiak, M (1991). "Ethopharmacology: A historical perspective". <i>Neuroscience and biobehavioral reviews</i>. <b>15</b> (4): 439–45. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs0149-7634%2805%2980124-1">10.1016/s0149-7634(05)80124-1</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1792005">1792005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuroscience+and+biobehavioral+reviews&amp;rft.atitle=Ethopharmacology%3A+A+historical+perspective&amp;rft.volume=15&amp;rft.issue=4&amp;rft.pages=439-45&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1016%2Fs0149-7634%2805%2980124-1&amp;rft_id=info%3Apmid%2F1792005&amp;rft.aulast=Krsiak&amp;rft.aufirst=M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dictionary.com/browse/posology">"posology"</a>. <i><a href="/wiki/Random_House_Webster%27s_Unabridged_Dictionary" title="Random House Webster's Unabridged Dictionary">Random House Webster's Unabridged Dictionary</a></i>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rahman, SZ; Khan, RA (Dec 2006). <a rel="nofollow" class="external text" href="http://www.ijp-online.com/text.asp?2006/38/4/229/27017">"Environmental pharmacology: A new discipline"</a>. <i>Indian J Pharmacol</i>. <b>38</b> (4): 229–30. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.4103%2F0253-7613.27017">10.4103/0253-7613.27017</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Indian+J+Pharmacol.&amp;rft.atitle=Environmental+pharmacology%3A+A+new+discipline&amp;rft.volume=38&amp;rft.issue=4&amp;rft.pages=229-30&amp;rft.date=2006-12&amp;rft_id=info%3Adoi%2F10.4103%2F0253-7613.27017&amp;rft.aulast=Rahman&amp;rft.aufirst=SZ&amp;rft.au=Khan%2C+RA&amp;rft_id=http%3A%2F%2Fwww.ijp-online.com%2Ftext.asp%3F2006%2F38%2F4%2F229%2F27017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sue Ruhoy Ilene; Daughton Christian G (2008). "Beyond the medicine cabinet: An analysis of where and why medications accumulate". <i>Environment International</i>. <b>34</b> (8): 1157–1169. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.envint.2008.05.002">10.1016/j.envint.2008.05.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environment+International&amp;rft.atitle=Beyond+the+medicine+cabinet%3A+An+analysis+of+where+and+why+medications+accumulate&amp;rft.volume=34&amp;rft.issue=8&amp;rft.pages=1157-1169&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.envint.2008.05.002&amp;rft.au=Sue+Ruhoy+Ilene&amp;rft.au=Daughton+Christian+G&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">James Smith; Viktor Stein (2009). "SPORCalc: A development of a database analysis that provides putative metabolic enzyme reactions for ligand-based drug design". <i>Computational Biology and Chemistry</i>. <b>33</b> (2): 149–159. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.compbiolchem.2008.11.002">10.1016/j.compbiolchem.2008.11.002</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19157988">19157988</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computational+Biology+and+Chemistry&amp;rft.atitle=SPORCalc%3A+A+development+of+a+database+analysis+that+provides+putative+metabolic+enzyme+reactions+for+ligand-based+drug+design&amp;rft.volume=33&amp;rft.issue=2&amp;rft.pages=149-159&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1016%2Fj.compbiolchem.2008.11.002&amp;rft_id=info%3Apmid%2F19157988&amp;rft.au=James+Smith&amp;rft.au=Viktor+Stein&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReviseALChem-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReviseALChem_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReviseALChem_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReviseALChem_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ReviseALChem_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ReviseALChem_12-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Newton, David; Alasdair Thorpe; Chris Otter (2004). <i>Revise A2 Chemistry</i>. <a href="/wiki/Heinemann_Educational_Publishers" class="mw-redirect" title="Heinemann Educational Publishers">Heinemann Educational Publishers</a>. p.&#160;1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-435-58347-6" title="Special:BookSources/0-435-58347-6">0-435-58347-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Revise+A2+Chemistry&amp;rft.pages=1&amp;rft.pub=Heinemann+Educational+Publishers&amp;rft.date=2004&amp;rft.isbn=0-435-58347-6&amp;rft.aulast=Newton&amp;rft.aufirst=David&amp;rft.au=Alasdair+Thorpe&amp;rft.au=Chris+Otter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nagle-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-nagle_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Nagle, Hinter; Barbara Nagle (2005). <i>Pharmacology: An Introduction</i>. <a href="/wiki/Boston" title="Boston">Boston</a>: <a href="/wiki/McGraw_Hill" class="mw-redirect" title="McGraw Hill">McGraw Hill</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-312275-0" title="Special:BookSources/0-07-312275-0">0-07-312275-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pharmacology%3A+An+Introduction&amp;rft.place=Boston&amp;rft.pub=McGraw+Hill&amp;rft.date=2005&amp;rft.isbn=0-07-312275-0&amp;rft.aulast=Nagle&amp;rft.aufirst=Hinter&amp;rft.au=Barbara+Nagle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APharmacology" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=pharmacy">Pharmacy (n.) - Online Etymology Dictionary</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=pharmacology">Pharmacology - Online Etymology Dictionary</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pharmacology&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Pharmacology" class="extiw" title="commons:Category:Pharmacology">Pharmacology</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.aspet.org">American Society for Pharmacology and Experimental Therapeutics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bps.ac.uk">British Pharmacological Society</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nndb.com/lists/623/000098329/">Pharmaceutical company profiles at NNDB</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ich.org/">International Conference on Harmonisation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.usp.org">US Pharmacopeia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.iuphar.org">International Union of Basic and Clinical Pharmacology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.iuphar-db.org">IUPHAR Committee on Receptor Nomenclature and Drug Classification</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Concepts_in_pharmacology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#efefef">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pharmacology" title="Template:Pharmacology"><abbr title="View this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pharmacology" title="Template talk:Pharmacology"><abbr title="Discuss this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pharmacology&amp;action=edit"><abbr title="Edit this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Concepts_in_pharmacology" style="font-size:114%;margin:0 4em">Concepts in <a class="mw-selflink selflink">pharmacology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">Pharmacokinetics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADME" title="ADME">(L)ADME</a>: (<a href="/wiki/Liberation_(pharmacology)" title="Liberation (pharmacology)">Liberation</a>)</li>
+<li><a href="/wiki/Absorption_(pharmacokinetics)" class="mw-redirect" title="Absorption (pharmacokinetics)">Absorption</a></li>
+<li><a href="/wiki/Distribution_(pharmacology)" title="Distribution (pharmacology)">Distribution</a></li>
+<li><a href="/wiki/Drug_metabolism" title="Drug metabolism">Metabolism</a></li>
+<li><a href="/wiki/Excretion" title="Excretion">Excretion</a> (<a href="/wiki/Clearance_(medicine)" class="mw-redirect" title="Clearance (medicine)">Clearance</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Loading_dose" title="Loading dose">Loading dose</a></li>
+<li><a href="/wiki/Volume_of_distribution" title="Volume of distribution">Volume of distribution</a> (<a href="/wiki/Initial_volume_of_distribution" title="Initial volume of distribution">Initial</a>)</li>
+<li><a href="/wiki/Rate_of_infusion" title="Rate of infusion">Rate of infusion</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Compartment_(pharmacokinetics)" title="Compartment (pharmacokinetics)">Compartment</a></li>
+<li><a href="/wiki/Bioequivalence" title="Bioequivalence">Bioequivalence</a></li>
+<li><a href="/wiki/Bioavailability" title="Bioavailability">Bioavailability</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Onset_of_action" title="Onset of action">Onset of action</a></li>
+<li><a href="/wiki/Biological_half-life" title="Biological half-life">Biological half-life</a></li>
+<li><a href="/wiki/Mean_residence_time" title="Mean residence time">Mean residence time</a></li>
+<li><a href="/wiki/Plasma_protein_binding" title="Plasma protein binding">Plasma protein binding</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Therapeutic_index" title="Therapeutic index">Therapeutic index</a> (<a href="/wiki/Median_lethal_dose" title="Median lethal dose">Median lethal dose</a>, <a href="/wiki/Effective_dose_(pharmacology)" title="Effective dose (pharmacology)">Effective dose</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">Pharmacodynamics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mechanism_of_action" title="Mechanism of action">Mechanism of action</a></li>
+<li><a href="/wiki/Toxicity" title="Toxicity">Toxicity</a> (<a href="/wiki/Neurotoxicology" class="mw-redirect" title="Neurotoxicology">Neurotoxicology</a>)</li>
+<li><a href="/wiki/Dose%E2%80%93response_relationship" title="Dose–response relationship">Dose–response relationship</a> (<a href="/wiki/Efficacy#Pharmacology" title="Efficacy">Efficacy</a>, <a href="/wiki/Potency_(pharmacology)" title="Potency (pharmacology)">Potency</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Antimicrobial_pharmacodynamics" title="Antimicrobial pharmacodynamics">Antimicrobial pharmacodynamics</a>: <a href="/wiki/Minimum_inhibitory_concentration" title="Minimum inhibitory concentration">Minimum inhibitory concentration</a> (<a href="/wiki/Bacteriostatic_agent" title="Bacteriostatic agent">Bacteriostatic</a>)</li>
+<li><a href="/wiki/Minimum_bactericidal_concentration" title="Minimum bactericidal concentration">Minimum bactericidal concentration</a> (<a href="/wiki/Bactericide" title="Bactericide">Bactericide</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Agonism and<br />
+antagonism</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agonist" title="Agonist">Agonist</a>: <a href="/wiki/Inverse_agonist" title="Inverse agonist">Inverse agonist</a></li>
+<li><a href="/wiki/Irreversible_agonist" title="Irreversible agonist">Irreversible agonist</a></li>
+<li><a href="/wiki/Partial_agonist" title="Partial agonist">Partial agonist</a></li>
+<li><a href="/wiki/Superagonist" title="Superagonist">Superagonist</a></li>
+<li><a href="/wiki/Physiological_agonism_and_antagonism" title="Physiological agonism and antagonism">Physiological agonist</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Receptor_antagonist" title="Receptor antagonist">Antagonist</a>: <a href="/wiki/Competitive_antagonist" class="mw-redirect" title="Competitive antagonist">Competitive antagonist</a></li>
+<li><a href="/wiki/Irreversible_antagonist" title="Irreversible antagonist">Irreversible antagonist</a></li>
+<li><a href="/wiki/Physiological_agonism_and_antagonism" title="Physiological agonism and antagonism">Physiological antagonist</a></li>
+</ul>
+<ul>
+<li>Other: <a href="/wiki/Molecular_binding" title="Molecular binding">Binding</a></li>
+<li><a href="/wiki/Dissociation_constant#Protein-ligand_binding" title="Dissociation constant">Affinity</a></li>
+<li><a href="/wiki/Binding_selectivity" title="Binding selectivity">Binding selectivity</a></li>
+<li><a href="/wiki/Functional_selectivity" title="Functional selectivity">Functional selectivity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Drug_tolerance" title="Drug tolerance">Drug tolerance</a>: <a href="/wiki/Tachyphylaxis" title="Tachyphylaxis">Tachyphylaxis</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Drug_resistance" title="Drug resistance">Drug resistance</a>: <a href="/wiki/Antibiotic_resistance" class="mw-redirect" title="Antibiotic resistance">Antibiotic resistance</a></li>
+<li><a href="/wiki/Multiple_drug_resistance" title="Multiple drug resistance">Multiple drug resistance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Drug_discovery" title="Drug discovery">Drug discovery</a><br />
+strategies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classical_pharmacology" title="Classical pharmacology">Classical pharmacology</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Reverse_pharmacology" title="Reverse pharmacology">Reverse pharmacology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related<br />
+fields/subfields</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pharmacogenetics" title="Pharmacogenetics">Pharmacogenetics</a></li>
+<li><a href="/wiki/Pharmacogenomics" title="Pharmacogenomics">Pharmacogenomics</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Neuropsychopharmacology" title="Neuropsychopharmacology">Neuropsychopharmacology</a> (<a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a>, <a href="/wiki/Psychopharmacology" title="Psychopharmacology">Psychopharmacology</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Pharmacology:_major_drug_groups" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Major_drug_groups" title="Template:Major drug groups"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Major_drug_groups" title="Template talk:Major drug groups"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Major_drug_groups&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Pharmacology:_major_drug_groups" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Pharmacology</a>: <a href="/wiki/Anatomical_Therapeutic_Chemical_Classification_System" title="Anatomical Therapeutic Chemical Classification System">major drug groups</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human_gastrointestinal_tract" class="mw-redirect" title="Human gastrointestinal tract">Gastrointestinal tract</a>/<br />
+<a href="/wiki/Metabolism" title="Metabolism">metabolism</a> (<a href="/wiki/ATC_code_A" title="ATC code A">A</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>stomach acid</i>
+<ul>
+<li><a href="/wiki/Antacid" title="Antacid">Antacids</a></li>
+<li><a href="/wiki/H2_antagonist" title="H2 antagonist">H<sub>2</sub> antagonists</a></li>
+<li><a href="/wiki/Proton_pump_inhibitor" class="mw-redirect" title="Proton pump inhibitor">Proton pump inhibitors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Antiemetic" title="Antiemetic">Antiemetics</a></li>
+<li><a href="/wiki/Laxative" title="Laxative">Laxatives</a></li>
+<li><a href="/wiki/Antidiarrhoeal" title="Antidiarrhoeal">Antidiarrhoeals</a>/<a href="/wiki/Antipropulsive" title="Antipropulsive">Antipropulsives</a></li>
+<li><a href="/wiki/Anti-obesity_medication" title="Anti-obesity medication">Anti-obesity drugs</a></li>
+<li><a href="/wiki/Anti-diabetic_drug" class="mw-redirect" title="Anti-diabetic drug">Anti-diabetics</a></li>
+<li><a href="/wiki/Vitamin" title="Vitamin">Vitamins</a></li>
+<li><a href="/wiki/Dietary_mineral" class="mw-redirect" title="Dietary mineral">Dietary minerals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Blood" title="Blood">Blood</a> and blood<br />
+forming organs (<a href="/wiki/ATC_code_B" title="ATC code B">B</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antithrombotic" title="Antithrombotic">Antithrombotics</a>
+<ul>
+<li><a href="/wiki/Antiplatelet_drug" title="Antiplatelet drug">Antiplatelets</a></li>
+<li><a href="/wiki/Anticoagulant" title="Anticoagulant">Anticoagulants</a></li>
+<li><a href="/wiki/Thrombolytic_drug" class="mw-redirect" title="Thrombolytic drug">Thrombolytics/fibrinolytics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Antihemorrhagic" title="Antihemorrhagic">Antihemorrhagics</a>
+<ul>
+<li><a href="/wiki/Platelet" title="Platelet">Platelets</a></li>
+<li><a href="/wiki/Coagulation" title="Coagulation">Coagulants</a></li>
+<li><a href="/wiki/Antifibrinolytic" title="Antifibrinolytic">Antifibrinolytics</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Circulatory_system" title="Circulatory system">Cardiovascular<br />
+system</a> (<a href="/wiki/ATC_code_C" title="ATC code C">C</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>cardiac therapy/<a href="/wiki/Antianginal" title="Antianginal">antianginals</a></i>
+<ul>
+<li><a href="/wiki/Cardiac_glycoside" title="Cardiac glycoside">Cardiac glycosides</a></li>
+<li><a href="/wiki/Antiarrhythmic_agent" title="Antiarrhythmic agent">Antiarrhythmics</a></li>
+<li><a href="/wiki/Cardiac_stimulant" title="Cardiac stimulant">Cardiac stimulants</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Antihypertensive_drug" title="Antihypertensive drug">Antihypertensives</a></li>
+<li><a href="/wiki/Diuretic" title="Diuretic">Diuretics</a></li>
+<li><a href="/wiki/Vasodilation" title="Vasodilation">Vasodilators</a></li>
+<li><a href="/wiki/Beta_blocker" title="Beta blocker">Beta blockers</a></li>
+<li><a href="/wiki/Calcium_channel_blocker" title="Calcium channel blocker">Calcium channel blockers</a></li>
+<li><i><a href="/wiki/Renin-angiotensin_system" class="mw-redirect" title="Renin-angiotensin system">renin-angiotensin system</a></i>
+<ul>
+<li><a href="/wiki/ACE_inhibitor" title="ACE inhibitor">ACE inhibitors</a></li>
+<li><a href="/wiki/Angiotensin_II_receptor_antagonist" class="mw-redirect" title="Angiotensin II receptor antagonist">Angiotensin II receptor antagonists</a></li>
+<li><a href="/wiki/Renin_inhibitor" title="Renin inhibitor">Renin inhibitors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hypolipidemic_agent" class="mw-redirect" title="Hypolipidemic agent">Antihyperlipidemics</a>
+<ul>
+<li><a href="/wiki/Statin" title="Statin">Statins</a></li>
+<li><a href="/wiki/Fibrate" title="Fibrate">Fibrates</a></li>
+<li><a href="/wiki/Bile_acid_sequestrant" title="Bile acid sequestrant">Bile acid sequestrants</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human_skin" title="Human skin">Skin</a> (<a href="/wiki/ATC_code_D" title="ATC code D">D</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Emollient" class="mw-redirect" title="Emollient">Emollients</a></li>
+<li><a href="/wiki/Cicatrizant" title="Cicatrizant">Cicatrizants</a></li>
+<li><a href="/wiki/Antipruritic" title="Antipruritic">Antipruritics</a></li>
+<li><a href="/wiki/Antipsoriatic" class="mw-redirect" title="Antipsoriatic">Antipsoriatics</a></li>
+<li><a href="/wiki/ATC_code_D09" title="ATC code D09">Medicated dressings</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Genitourinary_system" title="Genitourinary system">Genitourinary<br />
+system</a> (<a href="/wiki/ATC_code_G" title="ATC code G">G</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hormonal_contraception" title="Hormonal contraception">Hormonal contraception</a></li>
+<li><a href="/wiki/Fertility_medication" title="Fertility medication">Fertility agents</a></li>
+<li><a href="/wiki/Selective_estrogen_receptor_modulator" title="Selective estrogen receptor modulator">SERMs</a></li>
+<li><a href="/wiki/Sex_steroid" title="Sex steroid">Sex hormones</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Endocrine_system" title="Endocrine system">Endocrine<br />
+system</a> (<a href="/wiki/ATC_code_H" title="ATC code H">H</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypothalamic-pituitary_hormone" class="mw-redirect" title="Hypothalamic-pituitary hormone">Hypothalamic-pituitary hormones</a></li>
+<li><a href="/wiki/Corticosteroid" title="Corticosteroid">Corticosteroids</a>
+<ul>
+<li><a href="/wiki/Glucocorticoid" title="Glucocorticoid">Glucocorticoids</a></li>
+<li><a href="/wiki/Mineralocorticoid" title="Mineralocorticoid">Mineralocorticoids</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sex_steroid" title="Sex steroid">Sex hormones</a></li>
+<li><a href="/wiki/Thyroid_hormone" class="mw-redirect" title="Thyroid hormone">Thyroid hormones</a>/<a href="/wiki/Antithyroid_agent" title="Antithyroid agent">Antithyroid agents</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Infection" title="Infection">Infections</a> and<br />
+<a href="https://en.wiktionary.org/wiki/infestation" class="extiw" title="wikt:infestation">infestations</a> (<a href="/wiki/ATC_code_J" title="ATC code J">J</a>, <a href="/wiki/ATC_code_P" title="ATC code P">P</a>, <a href="/wiki/ATCvet_code_QI" title="ATCvet code QI">QI</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antimicrobial" title="Antimicrobial">Antimicrobials</a>: <a href="/wiki/Antibacterial" class="mw-redirect" title="Antibacterial">Antibacterials</a> (<a href="/wiki/Antimycobacterial" title="Antimycobacterial">Antimycobacterials</a>)</li>
+<li><a href="/wiki/Antifungal_drug" class="mw-redirect" title="Antifungal drug">Antifungals</a></li>
+<li><a href="/wiki/Antiviral_drug" title="Antiviral drug">Antivirals</a></li>
+<li><a href="/wiki/Antiparasitic" title="Antiparasitic">Antiparasitics</a>
+<ul>
+<li><a href="/wiki/Antiprotozoal_agent" class="mw-redirect" title="Antiprotozoal agent">Antiprotozoals</a></li>
+<li><a href="/wiki/Anthelmintic" title="Anthelmintic">Anthelmintics</a></li>
+<li><a href="/wiki/Ectoparasiticide" title="Ectoparasiticide">Ectoparasiticides</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intravenous_immunoglobulin" class="mw-redirect" title="Intravenous immunoglobulin">IVIG</a></li>
+<li><a href="/wiki/Vaccine" title="Vaccine">Vaccines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Malignant" class="mw-redirect" title="Malignant">Malignant</a> disease<br />
+(<a href="/wiki/ATC_code_L" title="ATC code L">L01-L02</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemotherapy" title="Chemotherapy">Anticancer agents</a>
+<ul>
+<li><a href="/wiki/Antimetabolite" title="Antimetabolite">Antimetabolites</a></li>
+<li><a href="/wiki/Alkylating_antineoplastic_agent" title="Alkylating antineoplastic agent">Alkylating</a></li>
+<li><a href="/wiki/Spindle_poison" title="Spindle poison">Spindle poisons</a></li>
+<li><a href="/wiki/Antineoplastic" class="mw-redirect" title="Antineoplastic">Antineoplastic</a></li>
+<li><a href="/wiki/Topoisomerase_inhibitor" title="Topoisomerase inhibitor">Topoisomerase inhibitors</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Immune_system" title="Immune system">Immune</a> disease<br />
+(<a href="/wiki/ATC_code_L" title="ATC code L">L03-L04</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Immunomodulator" class="mw-redirect" title="Immunomodulator">Immunomodulators</a>
+<ul>
+<li><a href="/wiki/Immunostimulant" title="Immunostimulant">Immunostimulants</a></li>
+<li><a href="/wiki/Immunosuppressive_drug" title="Immunosuppressive drug">Immunosuppressants</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Muscle" title="Muscle">Muscles</a>, <a href="/wiki/Bone" title="Bone">bones</a>,<br />
+and <a href="/wiki/Joint" title="Joint">joints</a> (<a href="/wiki/ATC_code_M" title="ATC code M">M</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anabolic_steroid" title="Anabolic steroid">Anabolic steroids</a></li>
+<li><a href="/wiki/Anti-inflammatory" title="Anti-inflammatory">Anti-inflammatories</a>
+<ul>
+<li><a href="/wiki/Non-steroidal_anti-inflammatory_drug" class="mw-redirect" title="Non-steroidal anti-inflammatory drug">NSAIDs</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Disease-modifying_antirheumatic_drug" title="Disease-modifying antirheumatic drug">Antirheumatics</a></li>
+<li><a href="/wiki/Corticosteroid" title="Corticosteroid">Corticosteroids</a></li>
+<li><a href="/wiki/Muscle_relaxant" title="Muscle relaxant">Muscle relaxants</a></li>
+<li><a href="/wiki/Bisphosphonate" title="Bisphosphonate">Bisphosphonates</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human_brain" title="Human brain">Brain</a> and<br />
+<a href="/wiki/Nervous_system" title="Nervous system">nervous system</a> (<a href="/wiki/ATC_code_N" title="ATC code N">N</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Analgesic" title="Analgesic">Analgesics</a></li>
+<li><a href="/wiki/Anesthetic" title="Anesthetic">Anesthetics</a>
+<ul>
+<li><a href="/wiki/General_anaesthetic" title="General anaesthetic">General</a></li>
+<li><a href="/wiki/Local_anesthetic" title="Local anesthetic">Local</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Anorectic" title="Anorectic">Anorectics</a></li>
+<li><a href="/wiki/Antihyperkinetic" class="mw-redirect" title="Antihyperkinetic">Anti-ADHD Agents</a></li>
+<li><a href="/wiki/Addiction_medicine" title="Addiction medicine">Antiaddictives</a></li>
+<li><a href="/wiki/Anticonvulsant" title="Anticonvulsant">Anticonvulsants</a></li>
+<li><a href="/wiki/Antidementia_drug" class="mw-redirect" title="Antidementia drug">Antidementia Agents</a></li>
+<li><a href="/wiki/Antidepressant" title="Antidepressant">Antidepressants</a></li>
+<li><a href="/wiki/Antimigraine" class="mw-redirect" title="Antimigraine">Antimigraine Agents</a></li>
+<li><a href="/wiki/Antiparkinson" class="mw-redirect" title="Antiparkinson">Antiparkinson's Agents</a></li>
+<li><a href="/wiki/Antipsychotic" title="Antipsychotic">Antipsychotics</a></li>
+<li><a href="/wiki/Anxiolytic" title="Anxiolytic">Anxiolytics</a></li>
+<li><a href="/wiki/Depressant" title="Depressant">Depressants</a></li>
+<li><a href="/wiki/Entactogen" class="mw-redirect" title="Entactogen">Entactogens</a></li>
+<li><a href="/wiki/Entheogen" title="Entheogen">Entheogens</a></li>
+<li><a href="/wiki/Euphoria" title="Euphoria">Euphoriants</a></li>
+<li><a href="/wiki/Psychedelics,_dissociatives_and_deliriants" class="mw-redirect" title="Psychedelics, dissociatives and deliriants">Hallucinogens</a>
+<ul>
+<li><a href="/wiki/Psychedelic_drug" title="Psychedelic drug">Psychedelics</a></li>
+<li><a href="/wiki/Dissociative" title="Dissociative">Dissociatives</a></li>
+<li><a href="/wiki/Deliriant" class="mw-redirect" title="Deliriant">Deliriants</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hypnotic" title="Hypnotic">Hypnotics</a>/<a href="/wiki/Sedative" title="Sedative">Sedatives</a></li>
+<li><a href="/wiki/Mood_stabilizer" title="Mood stabilizer">Mood Stabilizers</a></li>
+<li><a href="/wiki/Neuroprotective" class="mw-redirect" title="Neuroprotective">Neuroprotectives</a></li>
+<li><a href="/wiki/Nootropic" title="Nootropic">Nootropics</a></li>
+<li><a href="/wiki/Neurotoxin" title="Neurotoxin">Neurotoxins</a></li>
+<li><a href="/wiki/Orexigenic" title="Orexigenic">Orexigenics</a></li>
+<li><a href="/wiki/Serenic" title="Serenic">Serenics</a></li>
+<li><a href="/wiki/Stimulant" title="Stimulant">Stimulants</a></li>
+<li><a href="/wiki/Wakefulness-promoting_agent" class="mw-redirect" title="Wakefulness-promoting agent">Wakefulness-Promoting Agents</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Respiratory_system" title="Respiratory system">Respiratory<br />
+system</a> (<a href="/wiki/ATC_code_R" title="ATC code R">R</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Decongestant" title="Decongestant">Decongestants</a></li>
+<li><a href="/wiki/Bronchodilator" title="Bronchodilator">Bronchodilators</a></li>
+<li><a href="/wiki/Cough_medicine" title="Cough medicine">Cough medicines</a></li>
+<li><a href="/wiki/H1_antagonist" title="H1 antagonist">H<sub>1</sub> antagonists</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sense" title="Sense">Sensory organs</a> (<a href="/wiki/ATC_code_S" title="ATC code S">S</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ophthalmology" title="Ophthalmology">Ophthalmologicals</a></li>
+<li><a href="/wiki/Otology" title="Otology">Otologicals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other ATC (<a href="/wiki/ATC_code_V" title="ATC code V">V</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antidote" title="Antidote">Antidotes</a></li>
+<li><a href="/wiki/Contrast_medium" class="mw-redirect" title="Contrast medium">Contrast media</a></li>
+<li><a href="/wiki/Radiopharmacology" title="Radiopharmacology">Radiopharmaceuticals</a></li>
+<li><a href="/wiki/Dressing_(medical)" title="Dressing (medical)">Dressings</a></li>
+<li><a href="/wiki/Senotherapeutics" title="Senotherapeutics">Senotherapeutics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Branches_of_chemistry" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Branches_of_chemistry" title="Template:Branches of chemistry"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Branches_of_chemistry" title="Template talk:Branches of chemistry"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Branches_of_chemistry&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Branches_of_chemistry" style="font-size:114%;margin:0 4em">Branches of <a href="/wiki/Chemistry" title="Chemistry">chemistry</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Dictionary_of_chemical_formulas" class="mw-redirect" title="Dictionary of chemical formulas">Dictionary of chemical formulas</a></li>
+<li><a href="/wiki/List_of_biomolecules" title="List of biomolecules">List of biomolecules</a></li>
+<li><a href="/wiki/List_of_inorganic_compounds" title="List of inorganic compounds">List of inorganic compounds</a></li>
+<li><a href="/wiki/Periodic_table" title="Periodic table">Periodic table</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Physical_chemistry" title="Physical chemistry">Physical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemical_kinetics" title="Chemical kinetics">Chemical kinetics</a></li>
+<li><a href="/wiki/Chemical_physics" title="Chemical physics">Chemical physics</a></li>
+<li><a href="/wiki/Nuclear_chemistry" title="Nuclear chemistry">Nuclear chemistry</a></li>
+<li><b><a href="/wiki/Electrochemistry" title="Electrochemistry">Electrochemistry</a></b></li>
+<li><a href="/wiki/Femtochemistry" title="Femtochemistry">Femtochemistry</a></li>
+<li><a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a></li>
+<li><a href="/wiki/Photochemistry" title="Photochemistry">Photochemistry</a></li>
+<li><a href="/wiki/Quantum_chemistry" title="Quantum chemistry">Quantum chemistry</a></li>
+<li><a href="/wiki/Solid-state_chemistry" title="Solid-state chemistry">Solid-state chemistry</a></li>
+<li><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></li>
+<li><a href="/wiki/Surface_science" title="Surface science">Surface science</a></li>
+<li><a href="/wiki/Thermochemistry" title="Thermochemistry">Thermochemistry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Organic_chemistry" title="Organic chemistry">Organic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Biochemistry" title="Biochemistry">Biochemistry</a></b></li>
+<li><a href="/wiki/Bioorganic_chemistry" title="Bioorganic chemistry">Bioorganic chemistry</a></li>
+<li><a href="/wiki/Biophysical_chemistry" title="Biophysical chemistry">Biophysical chemistry</a></li>
+<li><a href="/wiki/Chemical_biology" title="Chemical biology">Chemical biology</a></li>
+<li><a href="/wiki/Clinical_chemistry" title="Clinical chemistry">Clinical chemistry</a></li>
+<li><a href="/wiki/Fullerene_chemistry" title="Fullerene chemistry">Fullerene chemistry</a></li>
+<li><a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">Medicinal chemistry</a></li>
+<li><a href="/wiki/Neurochemistry" title="Neurochemistry">Neurochemistry</a></li>
+<li><a href="/wiki/Pharmacy" title="Pharmacy">Pharmacy</a></li>
+<li><a href="/wiki/Physical_organic_chemistry" title="Physical organic chemistry">Physical organic chemistry</a></li>
+<li><b><a href="/wiki/Polymer_chemistry" title="Polymer chemistry">Polymer chemistry</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">Inorganic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bioinorganic_chemistry" title="Bioinorganic chemistry">Bioinorganic chemistry</a></li>
+<li><a href="/wiki/Cluster_chemistry" title="Cluster chemistry">Cluster chemistry</a></li>
+<li><a href="/wiki/Coordination_chemistry" class="mw-redirect" title="Coordination chemistry">Coordination chemistry</a></li>
+<li><b><a href="/wiki/Materials_science" title="Materials science">Materials science</a></b></li>
+<li><a href="/wiki/Organometallic_chemistry" title="Organometallic chemistry">Organometallic chemistry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actinide_chemistry" title="Actinide chemistry">Actinide chemistry</a></li>
+<li><b><a href="/wiki/Analytical_chemistry" title="Analytical chemistry">Analytical chemistry</a></b></li>
+<li><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></li>
+<li><a href="/wiki/Chemistry_education" title="Chemistry education">Chemistry education</a></li>
+<li><a href="/wiki/Clay_chemistry" title="Clay chemistry">Clay chemistry</a></li>
+<li><a href="/wiki/Click_chemistry" title="Click chemistry">Click chemistry</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Cosmochemistry" title="Cosmochemistry">Cosmochemistry</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Food_chemistry" title="Food chemistry">Food chemistry</a></li>
+<li><a href="/wiki/Forensic_chemistry" title="Forensic chemistry">Forensic chemistry</a></li>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">Green chemistry</a></li>
+<li><a href="/wiki/Post-mortem_chemistry" title="Post-mortem chemistry">Post-mortem chemistry</a></li>
+<li><a href="/wiki/Supramolecular_chemistry" title="Supramolecular chemistry">Supramolecular chemistry</a></li>
+<li><a href="/wiki/Theoretical_chemistry" title="Theoretical chemistry">Theoretical chemistry</a></li>
+<li><a href="/wiki/Wet_chemistry" title="Wet chemistry">Wet chemistry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Chemistry" title="Category:Chemistry">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">Portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Chemistry" class="extiw" title="commons:Category:Chemistry">Commons</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:Chemistry" class="mw-redirect" title="Wikipedia:Chemistry">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Tabletten.JPG" class="image"><img alt="Tabletten.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tabletten.JPG/24px-Tabletten.JPG" width="24" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tabletten.JPG/36px-Tabletten.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tabletten.JPG/48px-Tabletten.JPG 2x" data-file-width="544" data-file-height="450" /></a></span><a href="/wiki/Portal:Pharmacy_and_pharmacology" title="Portal:Pharmacy and pharmacology">Pharmacy and pharmacology portal</a></span></li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85100599">sh85100599</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4045687-0">4045687-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027410390">027410390</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11945810d">cb11945810d</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11945810d">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00574204">00574204</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX524409">XX524409</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20180213202911
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.496 seconds
+Real time usage: 0.661 seconds
+Preprocessor visited node count: 1853/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96285/2097152 bytes
+Template argument size: 7953/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.290/10.000 seconds
+Lua memory usage: 12.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  555.412      1 -total
+ 30.84%  171.300      2 Template:Lang
+ 28.33%  157.346      1 Template:Reflist
+ 15.09%   83.796      8 Template:Cite_journal
+  8.93%   49.588      1 Template:Citation_needed
+  8.48%   47.102      1 Template:Fix
+  5.76%   31.989      2 Template:Category_handler
+  5.64%   31.352      1 Template:Commons_category
+  5.49%   30.489      1 Template:ISBN
+  5.02%   27.909      1 Template:About
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24354-0!canonical and timestamp 20180213202910 and revision id 823708551
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pharmacology&amp;oldid=823708551">https://en.wikipedia.org/w/index.php?title=Pharmacology&amp;oldid=823708551</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pharmacology" title="Category:Pharmacology">Pharmacology</a></li><li><a href="/wiki/Category:Biochemistry" title="Category:Biochemistry">Biochemistry</a></li><li><a href="/wiki/Category:Life_sciences_industry" title="Category:Life sciences industry">Life sciences industry</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2014" title="Category:Use dmy dates from March 2014">Use dmy dates from March 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2017" title="Category:Articles with unsourced statements from July 2017">Articles with unsourced statements from July 2017</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2016" title="Category:Articles needing additional references from February 2016">Articles needing additional references from February 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">Pages using div col without cols and colwidth parameters</a></li><li><a href="/wiki/Category:Pages_using_Columns-list_with_deprecated_parameters" title="Category:Pages using Columns-list with deprecated parameters">Pages using Columns-list with deprecated parameters</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pharmacology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pharmacology" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Pharmacology" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Pharmacology" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Pharmacology">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Pharmacology&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pharmacology&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pharmacology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pharmacology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pharmacology&amp;oldid=823708551" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pharmacology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q128406" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pharmacology&amp;id=823708551" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pharmacology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pharmacology&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pharmacology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Pharmacology" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Pharmacology" hreflang="en">Wikibooks</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9" title="علم الأدوية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Farmacolox%C3%ADa" title="Farmacoloxía – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Farmakologiya" title="Farmakologiya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%85%D8%A7%DA%A9%D9%88%D9%84%D9%88%DA%98%DB%8C" title="فارماکولوژی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%8B%E0%A6%B2%E0%A6%9C%E0%A6%BF" title="ফার্মাকোলজি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Io%CC%8Dh-l%C3%AD-ha%CC%8Dk" title="Io̍h-lí-ha̍k – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Фармакалогія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D1%91%D0%B3%D1%96%D1%8F" title="Фармакалёгія – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Фармакология – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Farmakologija" title="Farmakologija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Farmacologia" title="Farmacologia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Farmakologie" title="Farmakologie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Ffarmacoleg" title="Ffarmacoleg – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pharmakologie" title="Pharmakologie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Farmakoloogia" title="Farmakoloogia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CF%81%CE%BC%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" title="Φαρμακολογία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Farmacolog%C3%ADa" title="Farmacología – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Farmakologio" title="Farmakologio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Farmakologia" title="Farmakologia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%D9%88%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" title="داروشناسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pharmacologie" title="Pharmacologie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/C%C3%B3gaseola%C3%ADocht" title="Cógaseolaíocht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Farmacolox%C3%ADa" title="Farmacoloxía – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%BD%EB%A6%AC%ED%95%99" title="약리학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B4%D5%A5%D5%B2%D5%A1%D5%A3%D5%AB%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Դեղագիտություն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%94%E0%A4%B7%E0%A4%A7%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="औषधशास्त्र – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Farmakologija" title="Farmakologija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Farmacologio" title="Farmacologio – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%8B%E0%A6%B2%E0%A6%9C%E0%A6%BF" title="ফার্মাকোলজি – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Pharmacologia" title="Pharmacologia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Lyfjafr%C3%A6%C3%B0i" title="Lyfjafræði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Farmacologia" title="Farmacologia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%9E%D7%A7%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94" title="פרמקולוגיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%94%E0%B2%B7%E0%B2%A7%E0%B2%B6%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B3%8D%E0%B2%B0" title="ಔಷಧಶಾಸ್ತ್ರ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%90%E1%83%A0%E1%83%9B%E1%83%90%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90" title="ფარმაკოლოგია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Фармакология – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Farmakoloj%C3%AE" title="Farmakolojî – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Pharmacologia" title="Pharmacologia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Farmakolo%C4%A3ija" title="Farmakoloģija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Farmakologija" title="Farmakologija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Farmacolojia" title="Farmacolojia – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Фармакологија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B4%BE%E0%B5%BC%E0%B4%AE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%B3%E0%B4%9C%E0%B4%BF" title="ഫാർമക്കോളജി – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%86%E1%80%B1%E1%80%B8%E1%80%9D%E1%80%AB%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92" title="ဆေးဝါးဗေဒ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Farmacologie" title="Farmacologie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%96%AC%E7%90%86%E5%AD%A6" title="薬理学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Farmacologia" title="Farmacologia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Farmakologiya" title="Farmakologiya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%AF%D8%B1%D9%85%D9%84%D9%BE%D9%88%D9%87%D9%86%D9%87" title="درملپوهنه – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Farmakologia" title="Farmakologia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Farmacologia" title="Farmacologia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Farmacologie" title="Farmacologie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Фармакология – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Pharmacology" title="Pharmacology – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Farmakologjia" title="Farmakologjia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%96%E0%B7%82%E0%B6%B0_%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B7%80_(%E0%B6%B7%E0%B7%92%E0%B7%82%E0%B6%9C%E0%B7%8A%E0%B7%80%E0%B7%9A%E0%B6%AF%E0%B6%BA)" title="ඖෂධ විද්‍යාව (භිෂග්වේදය) – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Pharmacology" title="Pharmacology – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Farmakol%C3%B3gia" title="Farmakológia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Farmakologija" title="Farmakologija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AF%DB%95%D8%B1%D9%85%D8%A7%D9%86%D8%B2%D8%A7%D9%86%DB%8C" title="دەرمانزانی – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Фармакологија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Farmakologija" title="Farmakologija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Farmakologia" title="Farmakologia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Farmakologi" title="Farmakologi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Parmakolohiya" title="Parmakolohiya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="மருந்தியல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Фармакология – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A0%E0%B8%AA%E0%B8%B1%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2" title="เภสัชวิทยา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Farmakoloji" title="Farmakoloji – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Фармакологія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/D%C6%B0%E1%BB%A3c_l%C3%BD_h%E1%BB%8Dc" title="Dược lý học – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Parmakolohiya" title="Parmakolohiya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%97%A5%E7%90%86%E5%AD%B8" title="藥理學 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8D%AF%E7%90%86%E5%AD%A6" title="药理学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q128406#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 February 2018, at 22:25.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pharmacology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.661","ppvisitednodes":{"value":1853,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96285,"limit":2097152},"templateargumentsize":{"value":7953,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  555.412      1 -total"," 30.84%  171.300      2 Template:Lang"," 28.33%  157.346      1 Template:Reflist"," 15.09%   83.796      8 Template:Cite_journal","  8.93%   49.588      1 Template:Citation_needed","  8.48%   47.102      1 Template:Fix","  5.76%   31.989      2 Template:Category_handler","  5.64%   31.352      1 Template:Commons_category","  5.49%   30.489      1 Template:ISBN","  5.02%   27.909      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.290","limit":"10.000"},"limitreport-memusage":{"value":12890991,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20180213202911","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":782,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

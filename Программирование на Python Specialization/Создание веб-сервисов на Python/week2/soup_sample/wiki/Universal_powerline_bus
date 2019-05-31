@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Universal powerline bus - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Universal_powerline_bus","wgTitle":"Universal powerline bus","wgCurRevisionId":824546136,"wgRevisionId":824546136,"wgArticleId":5761185,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2017","All articles containing potentially dated statements","Home automation","Networking standards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Universal_powerline_bus","wgRelevantArticleId":5761185,"wgRequestId":"WoWsHwpAAEQAAF-CISMAAAAS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7894148","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Universal_powerline_bus"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Universal_powerline_bus&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Universal_powerline_bus&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Universal_powerline_bus"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Universal_powerline_bus rootpage-Universal_powerline_bus skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Universal powerline bus</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Universal Powerline Bus</b> (<b>UPB</b>) is a <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary software</a> protocol for <a href="/wiki/Power-line_communication" title="Power-line communication">power-line communication</a> between devices used for <a href="/wiki/Home_automation" title="Home automation">home automation</a>. Household electrical wiring is used to send digital data between UPB devices via <a href="/wiki/Pulse-position_modulation" title="Pulse-position modulation">pulse-position modulation</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Communication can be <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer to peer</a>, with no central controller necessary.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>UPB addressing allows 250 devices per house and 250 houses per transformer, allowing over 64,000 total device addresses, and switches can co-exist with other powerline carrier systems within the same house.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>While UPB may be more efficient than <a href="/wiki/X10_(industry_standard)" title="X10 (industry standard)">X10</a>, it has far fewer products available on the market.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Interoperability">Interoperability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Universal_powerline_bus&amp;action=edit&amp;section=1" title="Edit section: Interoperability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Universal_powerline_bus&amp;action=edit">[update]</a></sup>, control of UPB devices is partially supported by the <a rel="nofollow" class="external text" href="https://docs.openhab.org/">openHAB</a> software project.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Universal_powerline_bus&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.simply-automated.com/UPB_Technology.php">"Simply Automated -- About UPB Technology"</a>. <i>www.simply-automated.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.simply-automated.com&amp;rft.atitle=Simply+Automated+--+About+UPB+Technology&amp;rft_id=http%3A%2F%2Fwww.simply-automated.com%2FUPB_Technology.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversal+powerline+bus" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smarthomeusa.com/universal-powerline-bus/">"About UPB (Universal Powerline Bus)"</a>. <i>www.smarthomeusa.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.smarthomeusa.com&amp;rft.atitle=About+UPB+%28Universal+Powerline+Bus%29&amp;rft_id=http%3A%2F%2Fwww.smarthomeusa.com%2Funiversal-powerline-bus%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversal+powerline+bus" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.simply-automated.com/UPB_Technology.php">"Simply Automated — About UPB Technology"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Simply+Automated+%E2%80%94+About+UPB+Technology&amp;rft_id=http%3A%2F%2Fwww.simply-automated.com%2FUPB_Technology.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversal+powerline+bus" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.homeauto.com/WhatWeCanDo/upbexplanation.asp">"Why UPB?"</a>. <i>www.homeauto.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.homeauto.com&amp;rft.atitle=Why+UPB%3F&amp;rft_id=http%3A%2F%2Fwww.homeauto.com%2FWhatWeCanDo%2Fupbexplanation.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversal+powerline+bus" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.homeautomationinfo.com/Drupal/technology_upb">"Universal Powerline Bus"</a>. <i>www.homeautomationinfo.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.homeautomationinfo.com&amp;rft.atitle=Universal+Powerline+Bus&amp;rft_id=http%3A%2F%2Fwww.homeautomationinfo.com%2FDrupal%2Ftechnology_upb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversal+powerline+bus" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://docs.openhab.org/addons/bindings/upb1/readme.html">https://docs.openhab.org/addons/bindings/upb1/readme.html</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Home_automation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Home_automation" title="Template:Home automation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Home_automation" title="Template talk:Home automation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Home_automation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Home_automation" style="font-size:114%;margin:0 4em"><a href="/wiki/Home_automation" title="Home automation">Home automation</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#System" title="Home automation">System</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Elements</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actuator" title="Actuator">Actuators</a></li>
+<li><a href="/wiki/Programmable_logic_controller" title="Programmable logic controller">Hardware controllers</a></li>
+<li><a href="/wiki/Sensor" title="Sensor">Sensors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#Interconnection" title="Home automation">Interconnection<br />
+type</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wire" title="Wire">Wired</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Cable (<a href="/wiki/Digital_subscriber_line" title="Digital subscriber line">xDSL</a>)</li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Power-line_communication" title="Power-line communication">Powerline</a>
+<ul>
+<li><a href="/wiki/PLCBUS" title="PLCBUS">PLCBUS</a></li>
+<li><a class="mw-selflink selflink">Universal powerline bus</a> (UPB)</li>
+<li><a href="/wiki/X10_(industry_standard)" title="X10 (industry standard)">X10</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wireless" title="Wireless">Wireless</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Radio_frequency" title="Radio frequency">Radio frequency</a>
+<ul>
+<li><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a></li>
+<li><a href="/wiki/Bluetooth_Low_Energy" title="Bluetooth Low Energy">Bluetooth Low Energy</a></li>
+<li><a href="/wiki/Digital_Enhanced_Cordless_Telecommunications" title="Digital Enhanced Cordless Telecommunications">DECT</a></li>
+<li><a href="/wiki/EnOcean" title="EnOcean">EnOcean</a></li>
+<li><a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a></li>
+<li><a href="/wiki/MyriaNed" title="MyriaNed">MyriaNed</a></li>
+<li><a href="/wiki/One-Net" title="One-Net">One-Net</a></li>
+<li><a href="/wiki/Universal_Mobile_Telecommunications_System" class="mw-redirect" title="Universal Mobile Telecommunications System">UMTS</a></li>
+<li><a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a></li>
+<li><a href="/wiki/ZigBee" class="mw-redirect" title="ZigBee">ZigBee</a></li>
+<li><a href="/wiki/Z-Wave" title="Z-Wave">Z-Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a> (<a href="/wiki/Consumer_IR" title="Consumer IR">Consumer IR</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Both</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Insteon" title="Insteon">Insteon</a></li>
+<li><a href="/wiki/KNX_(standard)" title="KNX (standard)">KNX</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#Classifications_of_domestic_network_technologies" title="Home automation">Network<br />
+technologies,<br />
+by function</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Device<br />
+interconnection</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a></li>
+<li><a href="/wiki/Bluetooth_Low_Energy" title="Bluetooth Low Energy">Bluetooth Low Energy</a></li>
+<li><a href="/wiki/IEEE_1394" title="IEEE 1394">FireWire</a></li>
+<li><a href="/wiki/Infrared_Data_Association" title="Infrared Data Association">IrDA</a></li>
+<li><a href="/wiki/USB" title="USB">USB</a></li>
+<li><a href="/wiki/ZigBee" class="mw-redirect" title="ZigBee">ZigBee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Control and<br />
+automation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AllJoyn" title="AllJoyn">AllJoyn</a></li>
+<li><a href="/wiki/Bus_SCS" title="Bus SCS">Bus SCS</a> with <a href="/wiki/OpenWebNet" title="OpenWebNet">OpenWebNet</a></li>
+<li><a href="/wiki/C-Bus_(protocol)" title="C-Bus (protocol)">C-Bus (protocol)</a></li>
+<li><a href="/wiki/CEBus" title="CEBus">CEBus</a></li>
+<li><a href="/wiki/EnOcean" title="EnOcean">EnOcean</a></li>
+<li><a href="/wiki/European_Home_Systems_Protocol" title="European Home Systems Protocol">EHS</a></li>
+<li><a href="/wiki/Insteon" title="Insteon">Insteon</a></li>
+<li><a href="/wiki/KNX_(standard)" title="KNX (standard)">KNX</a></li>
+<li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li>
+<li><a href="/wiki/One-Net" title="One-Net">One-Net</a></li>
+<li><a class="mw-selflink selflink">Universal powerline bus</a></li>
+<li><a href="/wiki/X10_(industry_standard)" title="X10 (industry standard)">X10</a></li>
+<li><a href="/wiki/ZigBee" class="mw-redirect" title="ZigBee">ZigBee</a></li>
+<li><a href="/wiki/Z-Wave" title="Z-Wave">Z-Wave</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Data<br />
+networking</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ethernet" title="Ethernet">Ethernet</a></li>
+<li><a href="/wiki/HomePlug" title="HomePlug">HomePlug</a></li>
+<li><a href="/wiki/HomePNA" title="HomePNA">HomePNA</a></li>
+<li><a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Patch_Panel.jpg" class="image"><img alt="Patch Panel.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patch_Panel.jpg/155px-Patch_Panel.jpg" width="155" height="207" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patch_Panel.jpg/233px-Patch_Panel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patch_Panel.jpg/310px-Patch_Panel.jpg 2x" data-file-width="2448" data-file-height="3264" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#Tasks" title="Home automation">Tasks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Home_automation#Audio_and_video" title="Home automation">Audio and video</a></li>
+<li><a href="/wiki/HVAC" title="HVAC">Heating, ventilation and air conditioning</a></li>
+<li><a href="/wiki/Lighting_control_system" title="Lighting control system">Lighting control system</a></li>
+<li><a href="/wiki/Home_automation#Other_systems" title="Home automation">Other systems</a></li>
+<li><a href="/wiki/Home_automation#Robotics" title="Home automation">Robotics</a></li>
+<li><a href="/wiki/Home_automation#Security" title="Home automation">Security</a></li>
+<li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Thermostat automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Home_automation#Costs" title="Home automation">Costs</a></li>
+<li><a href="/wiki/Mesh_networking" title="Mesh networking">Mesh networking</a></li>
+<li><a href="/wiki/Home_automation#Organizations" title="Home automation">Organizations</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<dl>
+<dt>See also</dt>
+<dd><a href="/wiki/Home_of_the_future" title="Home of the future">Home of the future</a></dd>
+<dd><a href="/wiki/Building_automation" title="Building automation">Building automation</a></dd>
+<dd><a href="/wiki/Floor_plan" title="Floor plan">Floor plan</a></dd>
+<dd><a href="/wiki/Home_automation" title="Home automation">Home automation</a></dd>
+<dd><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></dd>
+<dd><a href="/wiki/Home_network" title="Home network">Home network</a></dd>
+<dd><a href="/wiki/Home_server" title="Home server">Home server</a></dd>
+<dd><a href="/wiki/Robotic_mapping" title="Robotic mapping">House navigation system</a></dd>
+<dd><a href="/wiki/INTEGER_Millennium_House" title="INTEGER Millennium House">INTEGER Millennium House</a></dd>
+<dd><a href="/wiki/House_of_the_Future,_Cardiff" title="House of the Future, Cardiff">The House of the Future</a></dd>
+<dd><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></dd>
+<dd><a href="/wiki/Xanadu_Houses" title="Xanadu Houses">Xanadu Houses</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20180211081724
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.158 seconds
+Preprocessor visited node count: 428/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41400/2097152 bytes
+Template argument size: 347/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 2.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  127.651      1 -total
+ 45.17%   57.660      5 Template:Cite_web
+ 28.69%   36.629      4 Template:Navbox
+ 27.98%   35.721      1 Template:As_of
+ 24.12%   30.790      1 Template:DMCA
+ 22.76%   29.049      1 Template:Dated_maintenance_category
+ 20.99%   26.800      1 Template:Home_automation
+ 19.41%   24.772      1 Template:FULLROOTPAGENAME
+ 17.63%   22.510      1 Template:Ns_has_subpages
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5761185-0!canonical and timestamp 20180211081724 and revision id 824546136
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Universal_powerline_bus&amp;oldid=824546136">https://en.wikipedia.org/w/index.php?title=Universal_powerline_bus&amp;oldid=824546136</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Home_automation" title="Category:Home automation">Home automation</a></li><li><a href="/wiki/Category:Networking_standards" title="Category:Networking standards">Networking standards</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2017" title="Category:Articles containing potentially dated statements from 2017">Articles containing potentially dated statements from 2017</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Universal+powerline+bus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Universal+powerline+bus" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Universal_powerline_bus" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Universal_powerline_bus" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Universal_powerline_bus">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Universal_powerline_bus&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Universal_powerline_bus&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Universal_powerline_bus" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Universal_powerline_bus" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Universal_powerline_bus&amp;oldid=824546136" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Universal_powerline_bus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7894148" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Universal_powerline_bus&amp;id=824546136" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Universal+powerline+bus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Universal+powerline+bus&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Universal_powerline_bus&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D9%85%D9%88%D8%AD%D8%AF" title="بروتوكول اتصال موحد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7894148#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 February 2018, at 00:25.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Universal_powerline_bus&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.158","ppvisitednodes":{"value":428,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41400,"limit":2097152},"templateargumentsize":{"value":347,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  127.651      1 -total"," 45.17%   57.660      5 Template:Cite_web"," 28.69%   36.629      4 Template:Navbox"," 27.98%   35.721      1 Template:As_of"," 24.12%   30.790      1 Template:DMCA"," 22.76%   29.049      1 Template:Dated_maintenance_category"," 20.99%   26.800      1 Template:Home_automation"," 19.41%   24.772      1 Template:FULLROOTPAGENAME"," 17.63%   22.510      1 Template:Ns_has_subpages"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":2795140,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20180211081724","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

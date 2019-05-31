@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stratigraphy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stratigraphy","wgTitle":"Stratigraphy","wgCurRevisionId":819546581,"wgRevisionId":819546581,"wgArticleId":182783,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Petrology","Stratigraphy","Methods in archaeology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stratigraphy","wgRelevantArticleId":182783,"wgRequestId":"WoNT4gpAMFIAAKxvkGMAAAAH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q134783","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/1200px-SEUtahStrat.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stratigraphy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stratigraphy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stratigraphy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stratigraphy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Stratigraphy rootpage-Stratigraphy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Stratigraphy</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SEUtahStrat.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/220px-SEUtahStrat.JPG" width="220" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/330px-SEUtahStrat.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/440px-SEUtahStrat.JPG 2x" data-file-width="3161" data-file-height="1794" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SEUtahStrat.JPG" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Permian" title="Permian">Permian</a> through <a href="/wiki/Jurassic" title="Jurassic">Jurassic</a> strata of the <a href="/wiki/Colorado_Plateau" title="Colorado Plateau">Colorado Plateau</a> area of southeastern <a href="/wiki/Utah" title="Utah">Utah</a> demonstrate the principles of stratigraphy.</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">This article is about the branch of geology. For stratigraphy in <a href="/wiki/Archaeology" title="Archaeology">archaeology</a>, see <a href="/wiki/Stratigraphy_(archaeology)" title="Stratigraphy (archaeology)">Stratigraphy (archaeology)</a>.</div>
+<p><b>Stratigraphy</b> is a branch of <a href="/wiki/Geology" title="Geology">geology</a> concerned with the study of <a href="/wiki/Rock_(geology)" title="Rock (geology)">rock</a> layers (<a href="/wiki/Stratum" title="Stratum">strata</a>) and layering (stratification). It is primarily used in the study of <a href="/wiki/Sedimentary_rock" title="Sedimentary rock">sedimentary</a> and layered <a href="/wiki/Volcanic_rock" title="Volcanic rock">volcanic rocks</a>. Stratigraphy has two related subfields: lithologic stratigraphy or <a href="/wiki/Lithostratigraphy" title="Lithostratigraphy">lithostratigraphy</a>, and biologic stratigraphy or <a href="/wiki/Biostratigraphy" title="Biostratigraphy">biostratigraphy</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historical_development"><span class="tocnumber">1</span> <span class="toctext">Historical development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lithostratigraphy"><span class="tocnumber">2</span> <span class="toctext">Lithostratigraphy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Biostratigraphy"><span class="tocnumber">3</span> <span class="toctext">Biostratigraphy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Chronostratigraphy"><span class="tocnumber">4</span> <span class="toctext">Chronostratigraphy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Magnetostratigraphy"><span class="tocnumber">4.1</span> <span class="toctext">Magnetostratigraphy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Historical_development">Historical development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=1" title="Edit section: Historical development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Smith_fossils1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Smith_fossils1.jpg/220px-Smith_fossils1.jpg" width="220" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Smith_fossils1.jpg/330px-Smith_fossils1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Smith_fossils1.jpg/440px-Smith_fossils1.jpg 2x" data-file-width="978" data-file-height="705" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Smith_fossils1.jpg" class="internal" title="Enlarge"></a></div>
+Engraving from William Smith's monograph on identifying strata based on fossils</div>
+</div>
+</div>
+<p>Catholic priest <a href="/wiki/Nicholas_Steno" class="mw-redirect" title="Nicholas Steno">Nicholas Steno</a> established the theoretical basis for stratigraphy when he introduced the <a href="/wiki/Law_of_superposition" title="Law of superposition">law of superposition</a>, the <a href="/wiki/Principle_of_original_horizontality" title="Principle of original horizontality">principle of original horizontality</a> and the <a href="/wiki/Principle_of_lateral_continuity" title="Principle of lateral continuity">principle of lateral continuity</a> in a 1669 work on the fossilization of organic remains in layers of sediment.</p>
+<p>The first practical large-scale application of stratigraphy was by <a href="/wiki/William_Smith_(geologist)" title="William Smith (geologist)">William Smith</a> in the 1790s and early 19th century. Known as the "Father of English geology",<sup id="cite_ref-Davies_1-0" class="reference"><a href="#cite_note-Davies-1">[1]</a></sup> Smith recognized the significance of <a href="/wiki/Stratum" title="Stratum">strata</a> or rock layering and the importance of fossil markers for correlating strata; he created the first <a href="/wiki/Geologic_map" title="Geologic map">geologic map</a> of England. Other influential applications of stratigraphy in the early 19th century were by <a href="/wiki/Georges_Cuvier" title="Georges Cuvier">Georges Cuvier</a> and <a href="/wiki/Alexandre_Brongniart" title="Alexandre Brongniart">Alexandre Brongniart</a>, who studied the geology of the region around Paris.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Quebrada_de_Cafayate,_Salta_(Argentina).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg/220px-Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg/330px-Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg/440px-Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg 2x" data-file-width="1920" data-file-height="1280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Quebrada_de_Cafayate,_Salta_(Argentina).jpg" class="internal" title="Enlarge"></a></div>
+Strata in <a href="/wiki/Cafayate" title="Cafayate">Cafayate</a> (<a href="/wiki/Argentina" title="Argentina">Argentina</a>)</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Lithostratigraphy">Lithostratigraphy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=2" title="Edit section: Lithostratigraphy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Lithostratigraphy" title="Lithostratigraphy">Lithostratigraphy</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Geology_of_Cyprus-Chalk.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Geology_of_Cyprus-Chalk.jpg/220px-Geology_of_Cyprus-Chalk.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Geology_of_Cyprus-Chalk.jpg/330px-Geology_of_Cyprus-Chalk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Geology_of_Cyprus-Chalk.jpg/440px-Geology_of_Cyprus-Chalk.jpg 2x" data-file-width="1840" data-file-height="1232" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Geology_of_Cyprus-Chalk.jpg" class="internal" title="Enlarge"></a></div>
+Chalk layers in <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>, showing sedimentary layering</div>
+</div>
+</div>
+<p>Variation in rock units, most obviously displayed as visible layering, is due to physical contrasts in rock type (<a href="/wiki/Lithology" title="Lithology">lithology</a>). This variation can occur vertically as layering (bedding), or laterally, and reflects changes in <a href="/wiki/Sedimentary_depositional_environment" class="mw-redirect" title="Sedimentary depositional environment">environments of deposition</a> (known as <a href="/wiki/Facies" title="Facies">facies</a> change). These variations provide a lithostratigraphy or lithologic stratigraphy of the rock unit. Key concepts in stratigraphy involve understanding how certain geometric relationships between rock layers arise and what these geometries imply about their original depositional environment. The basic concept in stratigraphy, called the <a href="/wiki/Law_of_superposition" title="Law of superposition">law of superposition</a>, states: in an undeformed stratigraphic sequence, the oldest strata occur at the base of the sequence.</p>
+<p><a href="/wiki/Chemostratigraphy" title="Chemostratigraphy">Chemostratigraphy</a> studies the changes in the relative proportions of trace elements and <a href="/wiki/Isotope" title="Isotope">isotopes</a> within and between lithologic units. <a href="/wiki/Carbon" title="Carbon">Carbon</a> and <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> <a href="/wiki/Isotope_ratio" class="mw-redirect" title="Isotope ratio">isotope ratios</a> vary with time, and researchers can use those to map subtle changes that occurred in the paleoenvironment. This has led to the specialized field of isotopic stratigraphy.</p>
+<p><a href="/wiki/Cyclostratigraphy" title="Cyclostratigraphy">Cyclostratigraphy</a> documents the often cyclic changes in the relative proportions of <a href="/wiki/Mineral" title="Mineral">minerals</a> (particularly <a href="/wiki/Carbonate_mineral" class="mw-redirect" title="Carbonate mineral">carbonates</a>), grain size, thickness of sediment layers (<a href="/wiki/Varve" title="Varve">varves</a>) and fossil diversity with time, related to seasonal or longer term changes in <a href="/wiki/Paleoclimatology" title="Paleoclimatology">palaeoclimates</a>.</p>
+<h2><span class="mw-headline" id="Biostratigraphy">Biostratigraphy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=3" title="Edit section: Biostratigraphy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Biostratigraphy" title="Biostratigraphy">Biostratigraphy</a></div>
+<p>Biostratigraphy or <a href="/wiki/Paleontology" title="Paleontology">paleontologic</a> stratigraphy is based on <a href="/wiki/Fossil" title="Fossil">fossil</a> evidence in the rock layers. Strata from widespread locations containing the same fossil fauna and flora are said to be correlatable in time. Biologic stratigraphy was based on William Smith's <a href="/wiki/Principle_of_faunal_succession" title="Principle of faunal succession">principle of faunal succession</a>, which predated, and was one of the first and most powerful lines of evidence for, <a href="/wiki/Biological_evolution" class="mw-redirect" title="Biological evolution">biological evolution</a>. It provides strong evidence for the formation (<a href="/wiki/Speciation" title="Speciation">speciation</a>) and <a href="/wiki/Extinction" title="Extinction">extinction</a> of <a href="/wiki/Species" title="Species">species</a>. The <a href="/wiki/Geologic_time_scale" title="Geologic time scale">geologic time scale</a> was developed during the 19th century, based on the evidence of biologic stratigraphy and faunal succession. This timescale remained a relative scale until the development of <a href="/wiki/Radiometric_dating" title="Radiometric dating">radiometric dating</a>, which gave it and the stratigraphy it was based on an absolute time framework, leading to the development of chronostratigraphy.</p>
+<p>One important development is the <a href="/wiki/Vail_curve" class="mw-redirect" title="Vail curve">Vail curve</a>, which attempts to define a global historical sea-level curve according to inferences from worldwide stratigraphic patterns. Stratigraphy is also commonly used to delineate the nature and extent of <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a>-bearing reservoir rocks, seals, and traps of <a href="/wiki/Petroleum_geology" title="Petroleum geology">petroleum geology</a>.</p>
+<h2><span class="mw-headline" id="Chronostratigraphy">Chronostratigraphy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=4" title="Edit section: Chronostratigraphy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Chronostratigraphy" title="Chronostratigraphy">Chronostratigraphy</a></div>
+<p>Chronostratigraphy is the branch of stratigraphy that places an absolute age, rather than a relative age on rock <a href="/wiki/Stratum" title="Stratum">strata</a>. The branch is concerned with deriving <a href="/wiki/Geochronology" title="Geochronology">geochronological</a> data for rock units, both directly and inferentially, so that a sequence of time-relative events that created the rocks formation can be derived. The ultimate aim of chronostratigraphy is to place dates on the sequence of deposition of all rocks within a geological region, and then to every region, and by extension to provide an entire geologic record of the Earth.</p>
+<p>A gap or missing strata in the geological record of an area is called a stratigraphic hiatus. This may be the result of a halt in the deposition of sediment. Alternatively, the gap may be due to removal by erosion, in which case it may be called a stratigraphic vacuity.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Martinsen_3-0" class="reference"><a href="#cite_note-Martinsen-3">[3]</a></sup> It is called a <i>hiatus</i> because deposition was <i>on hold</i> for a period of time.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> A physical gap may represent both a period of non-deposition and a period of erosion.<sup id="cite_ref-Martinsen_3-1" class="reference"><a href="#cite_note-Martinsen-3">[3]</a></sup> A geologic fault may cause the appearance of a hiatus.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Magnetostratigraphy">Magnetostratigraphy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=5" title="Edit section: Magnetostratigraphy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Magnetostratigraphy" title="Magnetostratigraphy">Magnetostratigraphy</a></div>
+<p>Magnetostratigraphy is a chronostratigraphic technique used to date sedimentary and volcanic sequences. The method works by collecting oriented samples at measured intervals throughout a section. The samples are analyzed to determine their detrital <a href="https://en.wiktionary.org/wiki/remanent" class="extiw" title="wikt:remanent">remanent</a> magnetism (DRM), that is, the polarity of Earth's magnetic field at the time a stratum was deposited. For sedimentary rocks this is possible because, as they fall through the water column, very fine-grained magnetic minerals (&lt;&#160;17&#160;<a href="/wiki/Micrometre" title="Micrometre">μm</a>) behave like tiny compasses, orienting themselves with <a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">Earth's magnetic field</a>. Upon burial, that orientation is preserved. For volcanic rocks, magnetic minerals, which form in the melt, orient themselves with the ambient magnetic field, and are fixed in place upon crystallization of the lava.</p>
+<p>Oriented paleomagnetic core samples are collected in the field; mudstones, siltstones, and very fine-grained sandstones are the preferred lithologies because the magnetic grains are finer and more likely to orient with the ambient field during deposition. If the ancient magnetic field were oriented similar to today's field (<a href="/wiki/North_Magnetic_Pole" title="North Magnetic Pole">North Magnetic Pole</a> near the North Rotational Pole), the strata would retain a normal polarity. If the data indicate that the North Magnetic Pole were near the South Rotational Pole, the strata would exhibit reversed polarity.</p>
+<p>Results of the individual samples are analyzed by removing the <a href="/wiki/Natural_remanent_magnetization" title="Natural remanent magnetization">natural remanent magnetization</a> (NRM) to reveal the DRM. Following statistical analysis, the results are used to generate a local magnetostratigraphic column that can then be compared against the Global Magnetic Polarity Time Scale.</p>
+<p>This technique is used to date sequences that generally lack fossils or interbedded igneous rocks. The continuous nature of the sampling means that it is also a powerful technique for the estimation of sediment-accumulation rates.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Assise" title="Assise">Assise</a></li>
+<li><a href="/wiki/Bed_(geology)" title="Bed (geology)">Bed (geology)</a></li>
+<li><a href="/wiki/Conodont_biostratigraphy" title="Conodont biostratigraphy">Conodont biostratigraphy</a></li>
+<li><a href="/wiki/Erygmascope" title="Erygmascope">Erygmascope</a> (old instrument for studying strata)</li>
+<li><a href="/wiki/Harris_matrix" title="Harris matrix">Harris matrix</a></li>
+<li><a href="/wiki/List_of_important_publications_in_geology#Sedimentology_and_stratigraphy" title="List of important publications in geology">Important publications in stratigraphy</a></li>
+<li><a href="/wiki/International_Commission_on_Stratigraphy" title="International Commission on Stratigraphy">International Commission on Stratigraphy</a></li>
+<li><a href="/wiki/Key_bed" title="Key bed">Key bed</a></li>
+<li><a href="/wiki/Sedimentary_basin_analysis" title="Sedimentary basin analysis">Sedimentary basin analysis</a></li>
+<li><a href="/wiki/Sequence_stratigraphy" title="Sequence stratigraphy">Sequence stratigraphy</a></li>
+<li><a href="/wiki/Sadler_effect" title="Sadler effect">Sadler effect</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Davies-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Davies_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Davies G.L.H. (2007). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=8j-nmabapH0C&amp;pg=PA78&amp;lpg=PA78&amp;dq=1831+Sedgwick+Smith+Father+of+English+geology&amp;source=bl&amp;ots=1d8NkrqGhS&amp;sig=Y9KCP_buCwx5mHs2nMrqO0Xp750&amp;hl=en&amp;sa=X&amp;ei=EIxwVKuGEZfvaoqhgVA&amp;ved=0CC8Q6AEwAg#v=onepage&amp;q=1831%20Sedgwick%20Smith%20Father%20of%20English%20geology&amp;f=false"><i>Whatever is Under the Earth the Geological Society of London 1807-2007</i></a>. London: Geological Society. p.&#160;78. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781862392144" title="Special:BookSources/9781862392144">9781862392144</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Whatever+is+Under+the+Earth+the+Geological+Society+of+London+1807-2007&amp;rft.place=London&amp;rft.pages=78&amp;rft.pub=Geological+Society&amp;rft.date=2007&amp;rft.isbn=9781862392144&amp;rft.au=Davies+G.L.H.&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3D8j-nmabapH0C%26pg%3DPA78%26lpg%3DPA78%26dq%3D1831%2BSedgwick%2BSmith%2BFather%2Bof%2BEnglish%2Bgeology%26source%3Dbl%26ots%3D1d8NkrqGhS%26sig%3DY9KCP_buCwx5mHs2nMrqO0Xp750%26hl%3Den%26sa%3DX%26ei%3DEIxwVKuGEZfvaoqhgVA%26ved%3D0CC8Q6AEwAg%23v%3Donepage%26q%3D1831%2520Sedgwick%2520Smith%2520Father%2520of%2520English%2520geology%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStratigraphy" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sepmstrata.org/Terminology.aspx?id=hiatus">SEPM Strata, Society for Sedimentary Geology, Terminology=hiatus</a></span></li>
+<li id="cite_note-Martinsen-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Martinsen_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Martinsen_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Martinsen, O. J. <i>et al.</i> (1999) "Cenozoic development of the Norwegian margin 60–64N: sequences and sedimentary response to variable basin physiography and tectonic setting" pp. 293–304 <i>In</i> Fleet, A. J. and Boldy, S. A. R. (editors) (1999) <i>Petroleum Geology of Northwest Europe</i> Geological Society, London, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=YTqHqJfXwYEC&amp;pg=PA295">page 295</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-86239-039-3" title="Special:BookSources/978-1-86239-039-3">978-1-86239-039-3</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Kearey, Philip (2001). <i>Dictionary of Geology</i> (2nd ed.) London, New York, etc.: Penguin Reference, London, p. 123. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-14-051494-0" title="Special:BookSources/978-0-14-051494-0">978-0-14-051494-0</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Chapman, Richard E. (1983) <i>Petroleum Geology</i> Elsevier Scientific, Amsterdam, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=I8rXayF_0HIC&amp;pg=PA33">page 33</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-444-42165-4" title="Special:BookSources/978-0-444-42165-4">978-0-444-42165-4</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Christopherson, R. W., 2008. <i>Geosystems: An Introduction to Physical Geography</i>, 7th ed., New York: Pearson Prentice-Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-13-600598-8" title="Special:BookSources/978-0-13-600598-8">978-0-13-600598-8</a></li>
+<li>Montenari, M., 2016. <i><a rel="nofollow" class="external text" href="https://books.google.co.uk/books/about/Stratigraphy_Timescales.html?id=xzJQDAAAQBAJ&amp;redir_esc=y">Stratigraphy and Timescales</a></i>, 1st ed., Amsterdam: Academic Press (Elsevier). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-811549-7" title="Special:BookSources/978-0-12-811549-7">978-0-12-811549-7</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stratigraphy&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Stratigraphy" class="extiw" title="commons:Category:Stratigraphy">Stratigraphy</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://stratigraphy.science.purdue.edu/index.html">ICS Subcommission for Stratigraphic Information</a></li>
+<li><a rel="nofollow" class="external text" href="http://strata.geol.sc.edu/">University of South Carolina Sequence Stratigraphy Web</a></li>
+<li><a rel="nofollow" class="external text" href="http://snobear.colorado.edu/Markw/Mountains/03/week9.html">Front Range stratigraphy</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stratigraphy.org">International Commission on Stratigraphy</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.uga.edu/~strata/">University of Georgia (USA) Stratigraphy Lab</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stratigraphy.net">Stratigraphy.net</a> A stratigraphic data provider.</li>
+<li><a rel="nofollow" class="external text" href="http://www.agenames.org/">Agenames.org</a> A global index of stratigraphic terms</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Geologic_principles_and_processes" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Geologic_Principles" title="Template:Geologic Principles"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Geologic_Principles" title="Template talk:Geologic Principles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geologic_Principles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Geologic_principles_and_processes" style="font-size:114%;margin:0 4em">Geologic principles and processes</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Stratigraphic principles</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Principle_of_original_horizontality" title="Principle of original horizontality">Principle of original horizontality</a></li>
+<li><a href="/wiki/Law_of_superposition" title="Law of superposition">Law of superposition</a></li>
+<li><a href="/wiki/Principle_of_lateral_continuity" title="Principle of lateral continuity">Principle of lateral continuity</a></li>
+<li><a href="/wiki/Principle_of_cross-cutting_relationships" class="mw-redirect" title="Principle of cross-cutting relationships">Principle of cross-cutting relationships</a></li>
+<li><a href="/wiki/Principle_of_faunal_succession" title="Principle of faunal succession">Principle of faunal succession</a></li>
+<li><a href="/wiki/Law_of_included_fragments" title="Law of included fragments">Principle of inclusions and components</a></li>
+<li><a href="/wiki/Walther%27s_law" class="mw-redirect" title="Walther's law">Walther's law</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Wallula-Gap-the-sisters.JPG" class="image"><img alt="Wallula-Gap-the-sisters.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wallula-Gap-the-sisters.JPG/50px-Wallula-Gap-the-sisters.JPG" width="50" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wallula-Gap-the-sisters.JPG/75px-Wallula-Gap-the-sisters.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wallula-Gap-the-sisters.JPG/100px-Wallula-Gap-the-sisters.JPG 2x" data-file-width="1339" data-file-height="1786" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Petrology" title="Petrology">Petrologic principles</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Intrusive_rock" title="Intrusive rock">Intrusive</a></li>
+<li><a href="/wiki/Extrusive_rock" title="Extrusive rock">Extrusive</a></li>
+<li><a href="/wiki/Volcanic_rock" title="Volcanic rock">Volcanic</a></li>
+<li><a href="/wiki/Exfoliation_joint" title="Exfoliation joint">Exfoliation</a></li>
+<li><a href="/wiki/Weathering" title="Weathering">Weathering</a></li>
+<li><a href="/wiki/Pedogenesis" title="Pedogenesis">Pedogenesis</a></li>
+<li><a href="/wiki/Diagenesis" title="Diagenesis">Diagenesis</a></li>
+<li><a href="/wiki/Compaction_(geology)" title="Compaction (geology)">Compaction</a></li>
+<li><a href="/wiki/Metamorphism" title="Metamorphism">Metamorphism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geomorphology" title="Geomorphology">Geomorphologic processes</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></li>
+<li><a href="/wiki/Salt_tectonics" title="Salt tectonics">Salt tectonics</a></li>
+<li><a href="/wiki/Tectonic_uplift" title="Tectonic uplift">Tectonic uplift</a></li>
+<li><a href="/wiki/Subsidence" title="Subsidence">Subsidence</a></li>
+<li><a href="/wiki/Marine_transgression" title="Marine transgression">Marine transgression</a></li>
+<li><a href="/wiki/Marine_regression" title="Marine regression">Marine regression</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sediment_transport" title="Sediment transport">Sediment transport</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fluvial" title="Fluvial">Fluvial processes</a></li>
+<li><a href="/wiki/Aeolian_processes" title="Aeolian processes">Aeolian processes</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">Glacial processes</a></li>
+<li><a href="/wiki/Mass_wasting" title="Mass wasting">Mass wasting processes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Geology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Geology" title="Template:Geology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Geology" title="Template talk:Geology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Geology" style="font-size:114%;margin:0 4em"><a href="/wiki/Geology" title="Geology">Geology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Overviews</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Outline_of_geology" title="Outline of geology">Outline of geology</a></li>
+<li><a href="/wiki/Index_of_geology_articles" title="Index of geology articles">Index of geology articles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Сomposition and structure</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a></li>
+<li><a href="/wiki/Crystallography" title="Crystallography">Crystallography</a></li>
+<li><a href="/wiki/Mineralogy" title="Mineralogy">Mineralogy</a></li>
+<li><a href="/wiki/Petrography" title="Petrography">Petrography</a></li>
+<li><a href="/wiki/Petrology" title="Petrology">Petrology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Historical_geology" title="Historical geology">Historical geology</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Stratigraphy</a></li>
+<li><a href="/wiki/Paleontology" title="Paleontology">Paleontology</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Motion</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Structural_geology" title="Structural geology">Structural geology</a></li>
+<li><a href="/wiki/Geodynamics" title="Geodynamics">Geodynamics</a></li>
+<li><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></li>
+<li><a href="/wiki/Geomorphology" title="Geomorphology">Geomorphology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Water</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glaciology" title="Glaciology">Glaciology</a></li>
+<li><a href="/wiki/Hydrogeology" title="Hydrogeology">Hydrogeology</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Geomagnetism" class="mw-redirect" title="Geomagnetism">Geomagnetism</a></li>
+<li><a href="/wiki/Geophysical_survey" title="Geophysical survey">Geophysical survey</a></li>
+<li><a href="/wiki/Seismology" title="Seismology">Seismology</a></li>
+<li><a href="/wiki/Tectonophysics" title="Tectonophysics">Tectonophysics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applications</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Economic_geology" title="Economic geology">Economic geology</a></li>
+<li><a href="/wiki/Engineering_geology" title="Engineering geology">Engineering geology</a></li>
+<li><a href="/wiki/Planetary_geology" title="Planetary geology">Planetary geology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Geology" title="Category:Geology">Geology</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:Geology" class="mw-redirect" title="Wikipedia:Geology">Geology</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Lists_of_fossiliferous_stratigraphic_units_by_preserved_taxon" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lists-of-fossiliferous-stratigraphic-units-by-preserved-taxon" title="Template:Lists-of-fossiliferous-stratigraphic-units-by-preserved-taxon"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Lists-of-fossiliferous-stratigraphic-units-by-preserved-taxon&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Lists-of-fossiliferous-stratigraphic-units-by-preserved-taxon (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lists-of-fossiliferous-stratigraphic-units-by-preserved-taxon&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Lists_of_fossiliferous_stratigraphic_units_by_preserved_taxon" style="font-size:114%;margin:0 4em">Lists of <a href="/wiki/Fossil" title="Fossil">fossiliferous</a> <a class="mw-selflink selflink">stratigraphic units</a> by preserved <a href="/wiki/Evolutionary_taxonomy" title="Evolutionary taxonomy">taxon</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Category:Lists_of_fossiliferous_stratigraphic_units_by_preserved_taxon" title="Category:Lists of fossiliferous stratigraphic units by preserved taxon">Lists of fossiliferous stratigraphic units by preserved taxon</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Animals" class="mw-redirect" title="Animals">Animals</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vertebrates" class="mw-redirect" title="Vertebrates">Vertebrates</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Reptiles" class="mw-redirect" title="Reptiles">Reptiles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_dinosaur-bearing_stratigraphic_units" class="mw-redirect" title="List of dinosaur-bearing stratigraphic units">Dinosaurs</a></li>
+<li><a href="/wiki/List_of_mosasaur-bearing_stratigraphic_units" title="List of mosasaur-bearing stratigraphic units">Mosasaurs</a></li>
+<li><a href="/wiki/List_of_phytosaur-bearing_stratigraphic_units" title="List of phytosaur-bearing stratigraphic units">Phytosaurs</a></li>
+<li><a href="/wiki/List_of_plesiosaur-bearing_stratigraphic_units" title="List of plesiosaur-bearing stratigraphic units">Plesiosaurs</a></li>
+<li><a href="/wiki/List_of_pterosaur-bearing_stratigraphic_units" title="List of pterosaur-bearing stratigraphic units">Pterosaurs</a></li>
+<li><a href="/wiki/List_of_thalattosuchian-bearing_stratigraphic_units" title="List of thalattosuchian-bearing stratigraphic units">Thalattosuchians</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0"></table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4057956-6">4057956-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20180213203701
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.240 seconds
+Real time usage: 0.305 seconds
+Preprocessor visited node count: 1795/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52084/2097152 bytes
+Template argument size: 2442/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 2.92 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  248.295      1 -total
+ 36.04%   89.486      1 Template:Reflist
+ 28.19%   69.986      7 Template:Navbox
+ 19.15%   47.553      5 Template:ISBN
+ 17.71%   43.976      1 Template:Cite_book
+ 13.28%   32.982      1 Template:Commons_category
+ 11.44%   28.399      1 Template:Commons
+ 10.79%   26.788      1 Template:Sister_project
+ 10.51%   26.102      1 Template:About
+  9.85%   24.445      1 Template:Side_box
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:182783-0!canonical and timestamp 20180213203701 and revision id 819546581
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stratigraphy&amp;oldid=819546581">https://en.wikipedia.org/w/index.php?title=Stratigraphy&amp;oldid=819546581</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Petrology" title="Category:Petrology">Petrology</a></li><li><a href="/wiki/Category:Stratigraphy" title="Category:Stratigraphy">Stratigraphy</a></li><li><a href="/wiki/Category:Methods_in_archaeology" title="Category:Methods in archaeology">Methods in archaeology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stratigraphy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stratigraphy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Stratigraphy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Stratigraphy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Stratigraphy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Stratigraphy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stratigraphy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stratigraphy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stratigraphy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stratigraphy&amp;oldid=819546581" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stratigraphy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q134783" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stratigraphy&amp;id=819546581" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stratigraphy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stratigraphy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stratigraphy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Stratigraphy" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Geochronology/Stratigraphy" hreflang="en">Wikiversity</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Stratigrafie" title="Stratigrafie – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D9%88%D8%B5%D9%81_%D8%B7%D8%A8%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6" title="علم وصف طبقات الأرض – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Estratigraf%C3%ADa" title="Estratigrafía – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D1%8B%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Стратыграфія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D1%8B%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Стратыграфія – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Стратиграфия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Stratigrafija" title="Stratigrafija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Estratigrafia" title="Estratigrafia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Stratigrafie" title="Stratigrafie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Stratigraffeg" title="Stratigraffeg – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Stratigrafi" title="Stratigrafi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stratigraphie_(Geologie)" title="Stratigraphie (Geologie) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Stratigraafia" title="Stratigraafia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%84%CF%81%CF%89%CE%BC%CE%B1%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1" title="Στρωματογραφία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Estratigraf%C3%ADa" title="Estratigrafía – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Stratigrafio_(geologio)" title="Stratigrafio (geologio) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Estratigrafia" title="Estratigrafia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%DB%8C%D9%86%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" title="چینه‌شناسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Stratigraphie" title="Stratigraphie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Strataghrafa%C3%ADocht" title="Strataghrafaíocht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Estratigraf%C3%ADa" title="Estratigrafía – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B8%B5%EC%84%9C%ED%95%99" title="층서학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%87%D5%A5%D6%80%D5%BF%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_(%D5%A5%D6%80%D5%AF%D6%80%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6)" title="Շերտագրություն (երկրաբանություն) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80" title="स्तरिकी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Stratigrafija" title="Stratigrafija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Stratigrafi" title="Stratigrafi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Jar%C3%B0lagafr%C3%A6%C3%B0i" title="Jarðlagafræði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Stratigrafia_(geologia)" title="Stratigrafia (geologia) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%98%D7%A8%D7%98%D7%99%D7%92%D7%A8%D7%A4%D7%99%D7%94" title="סטרטיגרפיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%90%E1%83%A2%E1%83%98%E1%83%92%E1%83%A0%E1%83%90%E1%83%A4%E1%83%98%E1%83%90" title="სტრატიგრაფია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Стратиграфия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Stratigrafija" title="Stratigrafija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/R%C3%A9tegtan" title="Rétegtan – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D8%A7" title="استراتجرافيا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D1%85%D1%80%D0%B0%D0%B3%D0%B0_%D0%B7%D2%AF%D0%B9" title="Давхрага зүй – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Stratigrafie" title="Stratigrafie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%B1%A4%E5%BA%8F%E5%AD%A6" title="層序学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Stratigrafi" title="Stratigrafi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Stratigrafi" title="Stratigrafi – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B3%D9%B9%D8%B1%DB%8C%D9%B9%DB%8C%DA%AF%D8%B1%D8%A7%D9%81%DB%8C" title="سٹریٹیگرافی – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Stratigraphie_(Geologie)" title="Stratigraphie (Geologie) – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Stratygrafia" title="Stratygrafia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Estratigrafia" title="Estratigrafia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Stratigrafie" title="Stratigrafie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Стратиграфия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Stratigraphie_(Geologie)" title="Stratigraphie (Geologie) – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Stratigrafia" title="Stratigrafia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Stratigraphy" title="Stratigraphy – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Stratigrafia" title="Stratigrafia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Stratigrafija" title="Stratigrafija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DB%8C%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%D8%A7" title="ستراتیگرافیا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%98%D0%B0" title="Стратиграфија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Stratigrafija" title="Stratigrafija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Stratigrafia" title="Stratigrafia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Stratigrafi" title="Stratigrafi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Stratigrapiya" title="Stratigrapiya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%B1%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="பாறைப்படிவியல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B4%E0%B8%99" title="การลำดับชั้นหิน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Stratigrafi" title="Stratigrafi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Стратиграфія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_t%E1%BA%A7ng_h%E1%BB%8Dc" title="Địa tầng học – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%B1%82%E5%AD%A6" title="地层学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q134783#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 January 2018, at 23:44.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stratigraphy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.240","walltime":"0.305","ppvisitednodes":{"value":1795,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52084,"limit":2097152},"templateargumentsize":{"value":2442,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  248.295      1 -total"," 36.04%   89.486      1 Template:Reflist"," 28.19%   69.986      7 Template:Navbox"," 19.15%   47.553      5 Template:ISBN"," 17.71%   43.976      1 Template:Cite_book"," 13.28%   32.982      1 Template:Commons_category"," 11.44%   28.399      1 Template:Commons"," 10.79%   26.788      1 Template:Sister_project"," 10.51%   26.102      1 Template:About","  9.85%   24.445      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":3058077,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20180213203701","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1247"});});</script>
+	</body>
+</html>

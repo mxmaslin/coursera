@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>ZeroMQ - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ZeroMQ","wgTitle":"ZeroMQ","wgCurRevisionId":822175770,"wgRevisionId":822175770,"wgArticleId":28030695,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from July 2010","All articles lacking reliable references","Wikipedia external links cleanup from January 2017","Wikipedia spam cleanup from January 2017","Concurrent programming libraries","Free software programmed in C++","Free system software","Inter-process communication","Message-oriented middleware","2007 software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ZeroMQ","wgRelevantArticleId":28030695,"wgRequestId":"Wodn0wpAAEMAAF8qDFIAAACY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q8079189","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ZeroMQ"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ZeroMQ&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=ZeroMQ&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/ZeroMQ"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ZeroMQ rootpage-ZeroMQ skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">ZeroMQ</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(July 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">ZeroMQ</caption>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>iMatix</td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">4.2.3 / 13&#160;December 2017<span class="noprint">; 2 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2017-12-13</span>)</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Computing_platform" title="Computing platform">Platform</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Message_queue" title="Message queue">Message queue</a>, concurrency framework</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">LGPL</a> with static linking <a rel="nofollow" class="external text" href="http://www.zeromq.org/area:licensing">exception</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.zeromq.org">www<wbr />.zeromq<wbr />.org</a></span></td>
+</tr>
+</table>
+<p><b>ZeroMQ</b> (also spelled <b>ØMQ</b>, <b>0MQ</b> or <b>ZMQ</b>) is a <a href="/wiki/High-throughput_computing" title="High-throughput computing">high-performance</a> asynchronous <a href="/wiki/Message_passing" title="Message passing">messaging</a> library, aimed at use in <a href="/wiki/Distributed_application" class="mw-redirect" title="Distributed application">distributed</a> or concurrent applications. It provides a <a href="/wiki/Message_queue" title="Message queue">message queue</a>, but unlike <a href="/wiki/Message-oriented_middleware" title="Message-oriented middleware">message-oriented middleware</a>, a ZeroMQ system can run without a dedicated <a href="/wiki/Message_broker" title="Message broker">message broker</a>. The library's API is designed to resemble that of <a href="/wiki/Berkeley_sockets" title="Berkeley sockets">Berkeley sockets</a>.</p>
+<p>ZeroMQ is developed by a large community of contributors, founded by iMatix, which holds the domain name and trademarks. There are third-party bindings for many popular programming languages.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technology"><span class="tocnumber">1</span> <span class="toctext">Technology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Development_process"><span class="tocnumber">3</span> <span class="toctext">Development process</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ZeroMQ&amp;action=edit&amp;section=1" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ZeroMQ API provides <i>sockets</i> (a kind of generalization over the traditional <a href="/wiki/Internet_socket" class="mw-redirect" title="Internet socket">IP</a> and <a href="/wiki/Unix_domain_socket" title="Unix domain socket">Unix domain sockets</a>), each of which can represent a <a href="/wiki/Many-to-many" title="Many-to-many">many-to-many</a> connection between <a href="/wiki/Communication_endpoint" title="Communication endpoint">endpoints</a>. Operating with a message-wise granularity, they require that a <a href="/wiki/Messaging_pattern" title="Messaging pattern">messaging pattern</a> be used, and are particularly optimized for that kind of pattern.</p>
+<p>The basic ZeroMQ patterns are:</p>
+<dl>
+<dt><a href="/wiki/Request%E2%80%93response" title="Request–response">Request–reply</a></dt>
+<dd>Connects a set of clients to a set of services. This is a <a href="/wiki/Remote_procedure_call" title="Remote procedure call">remote procedure call</a> and task distribution pattern.</dd>
+<dt><a href="/wiki/Publish%E2%80%93subscribe_pattern" title="Publish–subscribe pattern">Publish–subscribe</a></dt>
+<dd>Connects a set of publishers to a set of subscribers. This is a data distribution pattern.</dd>
+<dt>Push–pull (pipeline)</dt>
+<dd>Connects nodes in a fan-out / fan-in pattern that can have multiple steps, and loops. This is a <a href="/wiki/Parallel_computing" title="Parallel computing">parallel</a> task distribution and collection pattern.</dd>
+<dt>Exclusive pair</dt>
+<dd>Connects two sockets in an exclusive pair. (This is an advanced low-level pattern for specific use cases.)</dd>
+</dl>
+<p>Each pattern defines a particular network topology. Request-reply defines a so-called "service bus", publish-subscribe defines a "data distribution tree", and push-pull defines "parallelised pipeline". All the patterns are deliberately designed in such a way as to be infinitely scalable and thus usable on Internet scale.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Any message through the socket is treated as an opaque <a href="/wiki/Blob_(computing)" class="mw-redirect" title="Blob (computing)">blob</a> of data. Delivery to a subscriber can be automatically filtered by the blob leading string. Available message transports include <a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">TCP</a>, <a href="/wiki/Pragmatic_General_Multicast" title="Pragmatic General Multicast">PGM</a> (reliable multicast), inter-process communication (<a href="/wiki/Inter-process_communication" title="Inter-process communication">IPC</a>) and inter-thread communication (ITC).</p>
+<p>The ZeroMQ core library performs very well due to its internal threading model, and can outperform conventional TCP applications in terms of throughput by utilizing an automatic message batching technique.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-cern_3-0" class="reference"><a href="#cite_note-cern-3">[3]</a></sup></p>
+<p>ZeroMQ implements ZMTP, the ZeroMQ Message Transfer Protocol.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ZMTP defines rules for backward interoperability, extensible security mechanisms, command and message framing, connection metadata, and other transport-level functionality. A growing number of projects implement ZMTP directly as an alternative to using the full ZeroMQ implementations.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ZeroMQ&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>iMatix CEO <a href="/wiki/Pieter_Hintjens" title="Pieter Hintjens">Pieter Hintjens</a> registered the zeromq.org domain in May 2007 and started the ZeroMQ project together with Martin Sustrik, who was its architect and lead developer until December 2011.</p>
+<p>On March 30, 2010, Hintjens announced that iMatix (the original designer of <a href="/wiki/Advanced_Message_Queuing_Protocol" title="Advanced Message Queuing Protocol">Advanced Message Queuing Protocol</a>) would leave the AMQP workgroup and did not plan to support AMQP/1.0 in favor of the significantly simpler and faster ZeroMQ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>In 2011, <a href="/wiki/CERN" title="CERN">CERN</a> was investigating ways to unify middleware solutions used to operate CERN accelerators. The CERN study compared two open source implementations of <a href="/wiki/CORBA" class="mw-redirect" title="CORBA">CORBA</a>, <a href="/wiki/Internet_Communications_Engine" title="Internet Communications Engine">Ice</a>, <a href="/wiki/Apache_Thrift" title="Apache Thrift">Thrift</a>, ZeroMQ, YAMI4,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/Run-Time_Infrastructure_(simulation)" class="mw-redirect" title="Run-Time Infrastructure (simulation)">RTI</a>, and <a href="/wiki/Apache_Qpid" title="Apache Qpid">Qpid</a> (AMQP) and scored ZeroMQ highest, in part for its versatility, including its easy adaptability to the <a href="/wiki/LynxOS" title="LynxOS">LynxOS</a>.<sup id="cite_ref-cern_3-1" class="reference"><a href="#cite_note-cern-3">[3]</a></sup></p>
+<p>At the start of 2012, two of the original developers <a href="/wiki/Fork_(software_development)" title="Fork (software development)">forked</a> ZeroMQ as Crossroads I/O.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Martin Sustrik has started nanomsg,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> a rewrite of the ZeroMQ core library.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>In August 2012, Dongmin Yu announced his pure Java conversion of ZeroMQ, JeroMQ.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> This has inspired further full-native ports of ZeroMQ, such as NetMQ for C#.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In March 2013, Pieter Hintjens announced a new draft of the ZMTP wire-level protocol bringing extensible security mechanisms to ZeroMQ.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Martin Hurton implemented the CurveZMQ authentication and encryption mechanism<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> in the core library shortly afterwards.</p>
+<h2><span class="mw-headline" id="Development_process">Development process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ZeroMQ&amp;action=edit&amp;section=3" title="Edit section: Development process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ZeroMQ community mostly uses the Collective Code Construction Contract (C4)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> as a development contract. C4 is inspired by <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> processes and <a href="/wiki/GitHub" title="GitHub">GitHub</a>'s fork + <a href="/wiki/Pull_request" class="mw-redirect" title="Pull request">pull request</a> model. It focuses on making it simpler for new contributors to participate and reducing dependency on older contributors.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ZeroMQ&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/RabbitMQ" title="RabbitMQ">RabbitMQ</a></li>
+<li><a href="/wiki/Xitami" title="Xitami">Xitami</a></li>
+<li><a href="/wiki/Gearman" title="Gearman">Gearman</a></li>
+<li><a href="/wiki/Enduro/X" title="Enduro/X">Enduro/X</a></li>
+<li><a href="/wiki/MQ_Telemetry_Transport" class="mw-redirect" title="MQ Telemetry Transport">MQ Telemetry Transport</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ZeroMQ&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.250bpm.com/hits">Scalability Layer Hits the Internet Stack</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zeromq.org/area:faq#toc6">"How come ØMQ has higher throughput than TCP although it's built on top of TCP?"</a>. <i>ZeroMQ FAQ</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ZeroMQ+FAQ&amp;rft.atitle=How+come+%C3%98MQ+has+higher+throughput+than+TCP+although+it%27s+built+on+top+of+TCP%3F&amp;rft_id=http%3A%2F%2Fwww.zeromq.org%2Farea%3Afaq%23toc6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cern-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-cern_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cern_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cds.cern.ch/record/1391410?ln=en">"Middleware Trends And Market Leaders 2011"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Middleware+Trends+And+Market+Leaders+2011&amp;rft_id=http%3A%2F%2Fcds.cern.ch%2Frecord%2F1391410%3Fln%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rfc.zeromq.org/spec:23">"ZeroMQ Message Transfer Protocol"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ZeroMQ+Message+Transfer+Protocol&amp;rft_id=http%3A%2F%2Frfc.zeromq.org%2Fspec%3A23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/search?q=zmtp&amp;ref=cmdform">"GitHub Search: ZMTP"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GitHub+Search%3A+ZMTP&amp;rft_id=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dzmtp%26ref%3Dcmdform&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://lists.openamq.org/pipermail/openamq-dev/2010-March/001598.html">"iMatix will end OpenAMQ support by 2011"</a>. openamq-dev maillist<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iMatix+will+end+OpenAMQ+support+by+2011&amp;rft.pub=openamq-dev+maillist&amp;rft_id=http%3A%2F%2Flists.openamq.org%2Fpipermail%2Fopenamq-dev%2F2010-March%2F001598.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.imatix.com/articles:whats-wrong-with-amqp">"What is wrong with AMQP (and how to fix it)"</a>. iMatix Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+wrong+with+AMQP+%28and+how+to+fix+it%29&amp;rft.pub=iMatix+Corporation&amp;rft_id=http%3A%2F%2Fwww.imatix.com%2Farticles%3Awhats-wrong-with-amqp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.inspirel.com/yami4">"Inspirel YAMI4"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Inspirel+YAMI4&amp;rft_id=http%3A%2F%2Fwww.inspirel.com%2Fyami4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://lwn.net/Articles/488732/">"ZeroMQ and Crossroads I/O: Forking over trademarks"</a>. <a href="/wiki/LWN.net" title="LWN.net">LWN.net</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ZeroMQ+and+Crossroads+I%2FO%3A+Forking+over+trademarks&amp;rft.pub=LWN.net&amp;rft_id=https%3A%2F%2Flwn.net%2FArticles%2F488732%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.crossroads.io/">"Crossroads I/O"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Crossroads+I%2FO&amp;rft_id=http%3A%2F%2Fwww.crossroads.io%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nanomsg.org/">"nanomsg"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=nanomsg&amp;rft_id=http%3A%2F%2Fnanomsg.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://250bpm.com/blog:4">"Why should I [sic] have written ZeroMQ in C, not C++"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+should+I+%5Bsic%5D+have+written+ZeroMQ+in+C%2C+not+C%2B%2B&amp;rft_id=http%3A%2F%2F250bpm.com%2Fblog%3A4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://lists.zeromq.org/pipermail/zeromq-dev/2012-August/018265.html">"jeromq - java pojo zeromq"</a>. zeromq-dev mailing list<span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=jeromq+-+java+pojo+zeromq&amp;rft.pub=zeromq-dev+mailing+list&amp;rft_id=http%3A%2F%2Flists.zeromq.org%2Fpipermail%2Fzeromq-dev%2F2012-August%2F018265.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/zeromq/netmq">"NetMQ"</a>. GitHub<span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NetMQ&amp;rft.pub=GitHub&amp;rft_id=https%3A%2F%2Fgithub.com%2Fzeromq%2Fnetmq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hintjens.com/blog:39">"Securing ZeroMQ: draft ZMTP v3.0 Protocol"</a>. Hintjens.com<span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Securing+ZeroMQ%3A+draft+ZMTP+v3.0+Protocol&amp;rft.pub=Hintjens.com&amp;rft_id=http%3A%2F%2Fhintjens.com%2Fblog%3A39&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://curvezmq.org">curvezmq.org</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rfc.zeromq.org/spec:22">"Collective Code Construction Contract (C4.1)"</a>. <i>ZeroMQ RFCs</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ZeroMQ+RFCs&amp;rft.atitle=Collective+Code+Construction+Contract+%28C4.1%29&amp;rft_id=http%3A%2F%2Frfc.zeromq.org%2Fspec%3A22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZeroMQ" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ZeroMQ&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=ZeroMQ&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links,_images,_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(January 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.zeromq.org">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/zeromq">The ØMQ community on GitHub</a></li>
+<li>Martin Sustrik, Martin Lucina (January 20, 2010). <a rel="nofollow" class="external text" href="https://lwn.net/Articles/370307/">0MQ: A new approach to messaging</a> – LWN.net.</li>
+<li><a rel="nofollow" class="external text" href="http://vimeo.com/20605470">ZeroMQ is the Answer</a> (a talk at PHP UK conference 2012)</li>
+<li><a rel="nofollow" class="external text" href="http://nichol.as/zeromq-an-introduction">ZeroMQ an introduction</a></li>
+<li><a rel="nofollow" class="external text" href="http://bhavin.directi.com/selecting-a-message-queue-amqp-or-zeromq/">Selecting a Message Queue – AMQP or ZeroMQ</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=_JCBphyciAs">Why ZeroMQ?</a> (introductory video)</li>
+<li><a rel="nofollow" class="external text" href="http://www.igvita.com/2010/09/03/zeromq-modern-fast-networking-stack/">ZeroMQ: Modern &amp; Fast Networking Stack</a> (overview with Ruby examples)</li>
+<li><a rel="nofollow" class="external text" href="http://www.250bpm.com/concepts">ØMQ: The Theoretical Foundation</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20180213204445
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.329 seconds
+Preprocessor visited node count: 1334/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33708/2097152 bytes
+Template argument size: 1277/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 5/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 5.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.276      1 -total
+ 41.25%  125.925      2 Template:Infobox
+ 34.27%  104.617      1 Template:Infobox_software
+ 31.03%   94.728      1 Template:Reflist
+ 25.16%   76.818     15 Template:Cite_web
+ 17.75%   54.172      1 Template:Primary_sources
+ 13.33%   40.691      1 Template:Infobox_software/simple
+ 12.11%   36.959      2 Template:Ambox
+  7.33%   22.363      1 Template:Start_date_and_age
+  6.66%   20.327      1 Template:Portal
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28030695-0!canonical and timestamp 20180213204445 and revision id 822175770
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ZeroMQ&amp;oldid=822175770">https://en.wikipedia.org/w/index.php?title=ZeroMQ&amp;oldid=822175770</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concurrent_programming_libraries" title="Category:Concurrent programming libraries">Concurrent programming libraries</a></li><li><a href="/wiki/Category:Free_software_programmed_in_C%2B%2B" title="Category:Free software programmed in C++">Free software programmed in C++</a></li><li><a href="/wiki/Category:Free_system_software" title="Category:Free system software">Free system software</a></li><li><a href="/wiki/Category:Inter-process_communication" title="Category:Inter-process communication">Inter-process communication</a></li><li><a href="/wiki/Category:Message-oriented_middleware" title="Category:Message-oriented middleware">Message-oriented middleware</a></li><li><a href="/wiki/Category:2007_software" title="Category:2007 software">2007 software</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2010" title="Category:Articles lacking reliable references from July 2010">Articles lacking reliable references from July 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_January_2017" title="Category:Wikipedia external links cleanup from January 2017">Wikipedia external links cleanup from January 2017</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_January_2017" title="Category:Wikipedia spam cleanup from January 2017">Wikipedia spam cleanup from January 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ZeroMQ" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ZeroMQ" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/ZeroMQ" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:ZeroMQ" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/ZeroMQ">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=ZeroMQ&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=ZeroMQ&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/ZeroMQ" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/ZeroMQ" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=ZeroMQ&amp;oldid=822175770" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=ZeroMQ&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8079189" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ZeroMQ&amp;id=822175770" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ZeroMQ">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=ZeroMQ&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=ZeroMQ&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/ZeroMQ" title="ZeroMQ – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%C3%98MQ" title="ØMQ – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%C3%98MQ" title="ØMQ – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8079189#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 January 2018, at 20:58.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ZeroMQ&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.329","ppvisitednodes":{"value":1334,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33708,"limit":2097152},"templateargumentsize":{"value":1277,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  305.276      1 -total"," 41.25%  125.925      2 Template:Infobox"," 34.27%  104.617      1 Template:Infobox_software"," 31.03%   94.728      1 Template:Reflist"," 25.16%   76.818     15 Template:Cite_web"," 17.75%   54.172      1 Template:Primary_sources"," 13.33%   40.691      1 Template:Infobox_software/simple"," 12.11%   36.959      2 Template:Ambox","  7.33%   22.363      1 Template:Start_date_and_age","  6.66%   20.327      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":5531884,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20180213204445","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

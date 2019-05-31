@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Merb - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Merb","wgTitle":"Merb","wgCurRevisionId":822368094,"wgRevisionId":822368094,"wgArticleId":14114542,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","All articles with dead external links","Articles with dead external links from January 2018","Articles with permanently dead external links","Pages using deprecated image syntax","Articles prone to spam from November 2014","Free computer libraries","Free software programmed in Ruby","Web frameworks","Software using the MIT license"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Merb","wgRelevantArticleId":14114542,"wgRequestId":"WogIpwpAME8AAKLPKv4AAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2658001","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/01/Merb_screenshot.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Merb"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Merb&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Merb&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Merb"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Merb rootpage-Merb skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Merb</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Merb_(disambiguation)" class="mw-disambig" title="Merb (disambiguation)">Merb (disambiguation)</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Merb: No code is faster than no code<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Merb_screenshot.png" class="image"><img alt="Merb screenshot.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Merb_screenshot.png/300px-Merb_screenshot.png" width="300" height="194" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Merb_screenshot.png/450px-Merb_screenshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Merb_screenshot.png/600px-Merb_screenshot.png 2x" data-file-width="970" data-file-height="628" /></a>
+<div><span class="nowrap">All you need… nil you don’t</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Original author(s)</a></th>
+<td>Ezra Zygmuntowicz</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>Ezra Zygmuntowicz &amp; Yehuda Katz</td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Last release</a></th>
+<td>
+<div style="margin:0px;">1.1.2<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> / June&#160;17,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-06-17</span>)</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external free" href="https://github.com/merb/merb">https://github.com/merb/merb</a></li>
+</ul>
+</div>
+<a href="https://www.wikidata.org/wiki/Q2658001#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>discontinued</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Web_application_framework" class="mw-redirect" title="Web application framework">Web application framework</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081204002911/http://merbivore.com/">http://www.merbivore.com</a></td>
+</tr>
+</table>
+<p><b>Merb</b> was a <a href="/wiki/Model%E2%80%93view%E2%80%93controller" title="Model–view–controller">model–view–controller</a> <a href="/wiki/Web_framework" title="Web framework">web framework</a> in <a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>, notable as a precursor to Rails 3. It brought increased focus on speed and modularity to Rails 3.<sup id="cite_ref-Boone_4-0" class="reference"><a href="#cite_note-Boone-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The name Merb is a contraction of “<a href="/wiki/Mongrel_(web_server)" title="Mongrel (web server)">Mongrel</a>” and “<a href="/wiki/ERuby#erb" title="ERuby">Erb</a>.”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Precursor_to_and_merge_with_Rails_3"><span class="tocnumber">1</span> <span class="toctext">Precursor to and merge with Rails 3</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Differences_from_Ruby_On_Rails"><span class="tocnumber">2</span> <span class="toctext">Differences from Ruby On Rails</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Modularity"><span class="tocnumber">2.1</span> <span class="toctext">Modularity</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Well-Defined_API"><span class="tocnumber">2.2</span> <span class="toctext">Well-Defined API</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Performance_and_Scalability"><span class="tocnumber">2.3</span> <span class="toctext">Performance and Scalability</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Precursor_to_and_merge_with_Rails_3">Precursor to and merge with Rails 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=1" title="Edit section: Precursor to and merge with Rails 3">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Merb began as a "clean-room" implementation<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> of the <a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Rails</a> <a href="/wiki/Model-View-Controller" class="mw-redirect" title="Model-View-Controller">controller stack</a>, but grew to incorporate several ideas that deviated from Rails's spirit and methodology at the time, most notably <a href="/wiki/Modular_programming" title="Modular programming">component modularity</a>, extensible <a href="/wiki/Application_programming_interface#Web_APIs" title="Application programming interface">API</a> design, and <a href="/wiki/Scalability#Scale_vertically_.28scale_up.29" title="Scalability">vertical scalability</a>. It was developed by Ezra Zygmuntowicz &amp; Yehuda Katz. Most of these capabilities were added to Rails during the Rails 3/Merb merger.<sup id="cite_ref-dhh-merged-into-rails_8-0" class="reference"><a href="#cite_note-dhh-merged-into-rails-8">[8]</a></sup><sup id="cite_ref-yehuda-rails3_9-0" class="reference"><a href="#cite_note-yehuda-rails3-9">[9]</a></sup> Merb was first released at the 2008 <a href="/wiki/RubyConf" class="mw-redirect" title="RubyConf">RubyConf</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and development has since stopped; Rails 3 therefore serves as both the successor to Rails 2 and the successor to Merb.</p>
+<h2><span class="mw-headline" id="Differences_from_Ruby_On_Rails">Differences from Ruby On Rails</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=2" title="Edit section: Differences from Ruby On Rails">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Merb's design attempted to address several criticisms of <a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Rails</a> 2:</p>
+<ul>
+<li>lack of component modularity (<a href="/wiki/Monolithic_system" title="Monolithic system">monolithic</a> design)</li>
+<li>lack of an extensible API</li>
+<li>lack of vertical scalability</li>
+</ul>
+<h3><span class="mw-headline" id="Modularity">Modularity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=3" title="Edit section: Modularity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Merb itself encompassed only the controller layer in <a href="/wiki/Model%E2%80%93view%E2%80%93controller" title="Model–view–controller">MVC</a> architecture, and used a suite of complementary, optional plugins together to assemble applications. The primary integration points were the web server interface, the model layer, the view layer, and controller extensions and add-ons. Merb's default application stack incorporated <a href="/wiki/Datamapper" class="mw-redirect" title="Datamapper">Datamapper</a> for models, <a href="/wiki/ERuby" title="ERuby">ERB</a> for views, and <a href="/wiki/Rack_(web_server_interface)" title="Rack (web server interface)">Rack</a> and <a href="/wiki/Mongrel_(web_server)" title="Mongrel (web server)">Mongrel</a> as the web server layer.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Well-Defined_API">Well-Defined API</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=4" title="Edit section: Well-Defined API">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Before the Merb / Rails 3 merge, Rails lacked a well-defined, documented, public API for extensions and plug-ins, leading to issues when Rails changes broke monkey-patches performed by plug-ins. With the Rails 3 / Merb merge, Rails gained a defined public API with a test suite,<sup id="cite_ref-yehuda-rails3_9-1" class="reference"><a href="#cite_note-yehuda-rails3-9">[9]</a></sup> giving users and plugin developers a clearer, more stable API to build against, reducing plugin breakage from release to release.<sup id="cite_ref-dhh-merged-into-rails_8-1" class="reference"><a href="#cite_note-dhh-merged-into-rails-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Performance_and_Scalability">Performance and Scalability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=5" title="Edit section: Performance and Scalability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some early versions of Rails received bad publicity for lack of performance, frequently due to developer confusion about ActiveRecord queries. <a href="/wiki/David_Heinemeier_Hansson" title="David Heinemeier Hansson">David Heinemeier Hansson</a>, the creator of Rails, stated that Merb re-wrote many core Rails pieces to be faster,<sup id="cite_ref-dhh-merged-into-rails_8-2" class="reference"><a href="#cite_note-dhh-merged-into-rails-8">[8]</a></sup> and incorporated those changes from Merb in the Rails 3 merge, promising users that “Rails 3 will get all the performance attention that the Merb guys are known for.”<sup id="cite_ref-dhh-merged-into-rails_8-3" class="reference"><a href="#cite_note-dhh-merged-into-rails-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Zygmuntowicz, Ezra. <a rel="nofollow" class="external text" href="https://twitter.com/ezmobius/status/154477982193418240">"No Code is Faster Than No Code"</a>. <i>Twitter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=No+Code+is+Faster+Than+No+Code&amp;rft.aulast=Zygmuntowicz&amp;rft.aufirst=Ezra&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fezmobius%2Fstatus%2F154477982193418240&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Grosenbach, Geoffrey. <a rel="nofollow" class="external text" href="https://twitter.com/ezmobius/status/61523924546093056">"Origin of, "No code is faster than no code.<span style="padding-right:0.2em;">"</span>"</a>. <i>Twitter</i>. Ezra Zygmuntowicz<span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=Origin+of%2C+%22No+code+is+faster+than+no+code.%22&amp;rft.aulast=Grosenbach&amp;rft.aufirst=Geoffrey&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fezmobius%2Fstatus%2F61523924546093056&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/merb/merb/wiki">"Merb on GitHub"</a>. <i>GitHub</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Merb+on+GitHub&amp;rft_id=https%3A%2F%2Fgithub.com%2Fmerb%2Fmerb%2Fwiki&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Boone-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Boone_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Boone, Paul (18 Sep 2008). <a rel="nofollow" class="external text" href="http://www.mindbucket.com/2008/09/18/rails-merb-performance-comparison-on-mongrel-jruby-tomcat-glassfish/">"Rails/Merb performance comparison (on mongrel, jruby, tomcat, glassfish)"</a>. <i><a rel="nofollow" class="external text" href="http://www.mindbucket.com/">mindbucket.com</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%5Bhttp%3A%2F%2Fwww.mindbucket.com%2F+mindbucket.com%5D&amp;rft.atitle=Rails%2FMerb+performance+comparison+%28on+mongrel%2C+jruby%2C+tomcat%2C+glassfish%29&amp;rft.date=2008-09-18&amp;rft.aulast=Boone&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.mindbucket.com%2F2008%2F09%2F18%2Frails-merb-performance-comparison-on-mongrel-jruby-tomcat-glassfish%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|work=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2018">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://edgeguides.rubyonrails.org/3_0_release_notes.html">Ruby on Rails 3.0 Release Notes</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Zygmuntowicz, Ezra (18 Oct 2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091231134535/http://osdir.com/ml/lang.ruby.mongrel.general/2006-10/msg00105.html">"ANN: Merb, Mongrel+Erb"</a>. <i><a rel="nofollow" class="external text" href="http://osdir.com/">osdir.com</a></i>. Archived from <a rel="nofollow" class="external text" href="http://osdir.com/ml/lang.ruby.mongrel.general/2006-10/msg00105.html">the original</a> on 2009-12-31.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%5Bhttp%3A%2F%2Fosdir.com%2F+osdir.com%5D&amp;rft.atitle=ANN%3A+Merb%2C+Mongrel%2BErb&amp;rft.date=2006-10-18&amp;rft.aulast=Zygmuntowicz&amp;rft.aufirst=Ezra&amp;rft_id=http%3A%2F%2Fosdir.com%2Fml%2Flang.ruby.mongrel.general%2F2006-10%2Fmsg00105.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|work=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Zygmuntowicz, Ezra (23 Dec 2008). <a rel="nofollow" class="external text" href="http://brainspl.at/articles/2008/12/23/merb-is-rails">"Merb *is* Rails"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Merb+%2Ais%2A+Rails&amp;rft.date=2008-12-23&amp;rft.aulast=Zygmuntowicz&amp;rft.aufirst=Ezra&amp;rft_id=http%3A%2F%2Fbrainspl.at%2Farticles%2F2008%2F12%2F23%2Fmerb-is-rails&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dhh-merged-into-rails-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-dhh-merged-into-rails_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dhh-merged-into-rails_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dhh-merged-into-rails_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-dhh-merged-into-rails_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/David_Heinemeier_Hansson" title="David Heinemeier Hansson">Hansson, David Heinemeier</a> (23 Dec 2008). <a rel="nofollow" class="external text" href="http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3/">"Merb gets merged into Rails 3!"</a>. <i><a rel="nofollow" class="external text" href="http://weblog.rubyonrails.org/">weblog.rubyonrails.org</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%5Bhttp%3A%2F%2Fweblog.rubyonrails.org%2F+weblog.rubyonrails.org%5D&amp;rft.atitle=Merb+gets+merged+into+Rails+3%21&amp;rft.date=2008-12-23&amp;rft.aulast=Hansson&amp;rft.aufirst=David+Heinemeier&amp;rft_id=http%3A%2F%2Fweblog.rubyonrails.org%2F2008%2F12%2F23%2Fmerb-gets-merged-into-rails-3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|work=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-yehuda-rails3-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-yehuda-rails3_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-yehuda-rails3_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a href="/w/index.php?title=Yehuda_Katz_(web_developer)&amp;action=edit&amp;redlink=1" class="new" title="Yehuda Katz (web developer) (page does not exist)">Katz, Yehuda</a> (23 Dec 2008). <a rel="nofollow" class="external text" href="http://yehudakatz.com/2008/12/23/rails-and-merb-merge/">"Rails and Merb Merge"</a>. <i><a rel="nofollow" class="external text" href="http://yehudakatz.com/">yehudakatz.com</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%5Bhttp%3A%2F%2Fyehudakatz.com%2F+yehudakatz.com%5D&amp;rft.atitle=Rails+and+Merb+Merge&amp;rft.date=2008-12-23&amp;rft.aulast=Katz&amp;rft.aufirst=Yehuda&amp;rft_id=http%3A%2F%2Fyehudakatz.com%2F2008%2F12%2F23%2Frails-and-merb-merge%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|work=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Aimonetti, Matt (9 Nov 2008). <a rel="nofollow" class="external text" href="http://merbist.com/2008/11/09/merb-1-0-released/">"Merb 1.0 released"</a>. <i>Merbist</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merbist&amp;rft.atitle=Merb+1.0+released&amp;rft.date=2008-11-09&amp;rft.aulast=Aimonetti&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fmerbist.com%2F2008%2F11%2F09%2Fmerb-1-0-released%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rubygems.org/gems/merb-core">"merb-core gem dependencies"</a>. 23 Mar 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=merb-core+gem+dependencies&amp;rft.date=2010-03-23&amp;rft_id=http%3A%2F%2Frubygems.org%2Fgems%2Fmerb-core&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rubygems.org/gems/merb">"merb gem dependencies"</a>. 23 Mar 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=merb+gem+dependencies&amp;rft.date=2010-03-23&amp;rft_id=http%3A%2F%2Frubygems.org%2Fgems%2Fmerb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMerb" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Merb&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081204002911/http://merbivore.com/">Merbivore - Official Merb Site</a></li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-labelledby="Ruby_programming_language" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ruby_programming_language" title="Template:Ruby programming language"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ruby_programming_language" title="Template talk:Ruby programming language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ruby_programming_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ruby_programming_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby programming language</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_implementation" title="Programming language implementation">Implementations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Active</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ruby_MRI" title="Ruby MRI">Ruby MRI</a>; <a href="/wiki/YARV" title="YARV">YARV</a></li>
+<li><a href="/wiki/Mruby" title="Mruby">mruby</a></li>
+<li><a href="/wiki/JRuby" title="JRuby">JRuby</a></li>
+<li><a href="/wiki/Rubinius" title="Rubinius">Rubinius</a></li>
+<li><a href="/wiki/MagLev_(software)" title="MagLev (software)">MagLev</a></li>
+<li><a href="/wiki/RubyMotion" title="RubyMotion">RubyMotion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Discontinued</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MacRuby" title="MacRuby">MacRuby</a></li>
+<li><a href="/wiki/IronRuby" title="IronRuby">IronRuby</a></li>
+<li><a href="/wiki/XRuby" title="XRuby">XRuby</a></li>
+<li><a href="/wiki/RubyJS" title="RubyJS">RubyJS</a></li>
+<li><a href="/wiki/HotRuby" title="HotRuby">HotRuby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Ruby_logo_64x64.png" class="image"><img alt="Ruby logo 64x64.png" src="//upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo_64x64.png" width="64" height="64" data-file-width="64" data-file-height="64" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ActiveState_Komodo" class="mw-redirect" title="ActiveState Komodo">Komodo</a></li>
+<li><a href="/wiki/NetBeans" title="NetBeans">NetBeans</a></li>
+<li><a href="/wiki/RadRails" title="RadRails">RadRails</a></li>
+<li><a href="/wiki/RubyMine" class="mw-redirect" title="RubyMine">RubyMine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Free_software_programmed_in_Ruby" title="Category:Free software programmed in Ruby">Applications</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capistrano_(software)" title="Capistrano (software)">Capistrano</a></li>
+<li><a href="/wiki/Chef_(software)" title="Chef (software)">Chef</a></li>
+<li><a href="/wiki/Hackety_Hack" title="Hackety Hack">Hackety Hack</a></li>
+<li><a href="/wiki/Homebrew_(package_management_software)" title="Homebrew (package management software)">Homebrew</a></li>
+<li><a href="/wiki/Interactive_Ruby_Shell" title="Interactive Ruby Shell">Interactive Ruby Shell</a></li>
+<li><a href="/wiki/Pry_(software)" title="Pry (software)">Pry</a></li>
+<li><a href="/wiki/Puppet_(software)" title="Puppet (software)">Puppet</a></li>
+<li><a href="/wiki/Rake_(software)" title="Rake (software)">Rake</a></li>
+<li><a href="/wiki/Redmine" title="Redmine">Redmine</a></li>
+<li><a href="/wiki/RSpec" title="RSpec">RSpec</a></li>
+<li><a href="/wiki/RubyGems" title="RubyGems">RubyGems</a></li>
+<li><a href="/wiki/Ruby_Version_Manager" title="Ruby Version Manager">RVM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Library_(computing)" title="Library (computing)">Libraries</a> and <a href="/wiki/Software_framework" title="Software framework">frameworks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adhearsion" title="Adhearsion">Adhearsion</a></li>
+<li><a href="/wiki/Camping_(microframework)" title="Camping (microframework)">Camping</a></li>
+<li><a href="/wiki/ERuby" title="ERuby">eRuby</a> (RHTML)</li>
+<li><a class="mw-selflink selflink">Merb</a></li>
+<li><a href="/wiki/Padrino_(web_framework)" title="Padrino (web framework)">Padrino</a></li>
+<li><a href="/wiki/RubyCocoa" title="RubyCocoa">RubyCocoa</a></li>
+<li><a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Ruby on Rails</a></li>
+<li><a href="/wiki/Shoes_(GUI_toolkit)" title="Shoes (GUI toolkit)">Shoes</a></li>
+<li><a href="/wiki/Sinatra_(software)" title="Sinatra (software)">Sinatra</a></li>
+<li><a href="/wiki/QtRuby" title="QtRuby">QtRuby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Server_(computing)" title="Server (computing)">Server</a> software</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mod_ruby" title="Mod ruby">mod_ruby</a></li>
+<li><a href="/wiki/Mongrel_(web_server)" title="Mongrel (web server)">Mongrel</a></li>
+<li><a href="/wiki/Phusion_Passenger" title="Phusion Passenger">Phusion Passenger</a> (mod_rails/mod_rack)</li>
+<li><a href="/wiki/Rack_(web_server_interface)" title="Rack (web server interface)">Rack</a></li>
+<li><a href="/wiki/WEBrick" title="WEBrick">WEBrick</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yukihiro_Matsumoto" title="Yukihiro Matsumoto">Yukihiro Matsumoto</a></li>
+<li><a href="/wiki/David_Heinemeier_Hansson" title="David Heinemeier Hansson">David Heinemeier Hansson</a></li>
+<li><a href="/wiki/Why_the_lucky_stiff" title="Why the lucky stiff">why the lucky stiff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ruby_Document_format" title="Ruby Document format">Document format</a></li>
+<li><i><a href="/wiki/Why%27s_(poignant)_Guide_to_Ruby" title="Why's (poignant) Guide to Ruby">why's (poignant) Guide to Ruby</a></i></li>
+<li><a href="/wiki/Ruby_Central" title="Ruby Central">Ruby Central</a></li>
+<li><a href="/wiki/RubyKaigi" title="RubyKaigi">RubyKaigi</a></li>
+<li><a href="/wiki/RubyForge" title="RubyForge">RubyForge</a></li>
+<li><a href="/wiki/Ruby_License" title="Ruby License">Ruby License</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Ruby_(programming_language)" title="Category:Ruby (programming language)">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Ruby_programming_language" class="extiw" title="commons:Category:Ruby programming language">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_frameworks" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_frameworks" title="Template:Web frameworks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_frameworks" title="Template talk:Web frameworks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_frameworks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_frameworks" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_framework" title="Web framework">Web frameworks</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">Comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/C%2B%2B" title="C++">C++</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CppCMS" title="CppCMS">CppCMS</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a>
+<ul>
+<li><a href="/wiki/ASP.NET_Core" title="ASP.NET Core">Core</a></li>
+<li><a href="/wiki/ASP.NET_AJAX" title="ASP.NET AJAX">AJAX</a></li>
+<li><a href="/wiki/ASP.NET_Dynamic_Data" title="ASP.NET Dynamic Data">Dynamic Data</a></li>
+<li><a href="/wiki/ASP.NET_MVC" title="ASP.NET MVC">MVC</a></li>
+<li><a href="/wiki/ASP.NET_Razor" title="ASP.NET Razor">Razor</a></li>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">Web Forms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DotNetNuke" title="DotNetNuke">DNN</a></li>
+<li><a href="/wiki/Base_One_Foundation_Component_Library" title="Base One Foundation Component Library">BFC</a></li>
+<li><a href="/wiki/MonoRail_(software)" title="MonoRail (software)">MonoRail</a></li>
+<li><a href="/wiki/OpenRasta" title="OpenRasta">OpenRasta</a></li>
+<li><a href="/wiki/Umbraco" title="Umbraco">Umbraco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Adobe_ColdFusion" title="Adobe ColdFusion">ColdFusion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ColdFusion_on_Wheels" title="ColdFusion on Wheels">CFWheels</a></li>
+<li><a href="/wiki/ColdBox_Platform" title="ColdBox Platform">ColdBox Platform</a></li>
+<li><a href="/wiki/ColdSpring_Framework" title="ColdSpring Framework">ColdSpring</a></li>
+<li><a href="/wiki/Fusebox_(programming)" title="Fusebox (programming)">Fusebox</a></li>
+<li><a href="/wiki/Mach-II" title="Mach-II">Mach-II</a></li>
+<li><a href="/wiki/Model-Glue" title="Model-Glue">Model-Glue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caveman2" title="Caveman2">Caveman2</a></li>
+<li><a href="/wiki/CL-HTTP" title="CL-HTTP">CL-HTTP</a></li>
+<li><a href="/wiki/UnCommon_Web" title="UnCommon Web">UnCommon Web</a></li>
+<li><a href="/wiki/Weblocks" title="Weblocks">Weblocks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Happstack" title="Happstack">Happstack</a></li>
+<li><a href="/wiki/Yesod_(web_framework)" title="Yesod (web framework)">Yesod</a></li>
+<li><a href="/wiki/Snap_(web_framework)" title="Snap (web framework)">Snap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppFuse" title="AppFuse">AppFuse</a></li>
+<li><a href="/wiki/Flexive" title="Flexive">Flexive</a></li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a></li>
+<li><a href="/wiki/ICEfaces" title="ICEfaces">ICEfaces</a></li>
+<li><a href="/wiki/ItsNat" title="ItsNat">ItsNat</a></li>
+<li><a href="/wiki/JavaServer_Faces" title="JavaServer Faces">JavaServer Faces</a></li>
+<li><a href="/wiki/JHipster" title="JHipster">JHipster</a></li>
+<li><a href="/wiki/Jspx-bay" title="Jspx-bay">Jspx</a></li>
+<li><a href="/wiki/JWt_(Java_web_toolkit)" title="JWt (Java web toolkit)">JWt</a></li>
+<li><a href="/wiki/OpenXava" title="OpenXava">OpenXava</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Reasonable_Server_Faces" title="Reasonable Server Faces">Reasonable Server Faces</a></li>
+<li><a href="/wiki/Remote_Application_Platform" title="Remote Application Platform">Remote Application Platform</a></li>
+<li><a href="/wiki/RIFE" title="RIFE">RIFE</a></li>
+<li><a href="/wiki/JBoss_Seam" title="JBoss Seam">Seam</a></li>
+<li><a href="/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="/wiki/Spring_Framework#Model-view-controller_framework" title="Spring Framework">Spring</a></li>
+<li><a href="/wiki/Stripes_(framework)" title="Stripes (framework)">Stripes</a></li>
+<li><a href="/wiki/Apache_Struts" class="mw-redirect" title="Apache Struts">Struts</a></li>
+<li><a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="/wiki/Vaadin" title="Vaadin">Vaadin</a></li>
+<li><a href="/wiki/Vert.x" title="Vert.x">Vert.x</a></li>
+<li><a href="/wiki/WebWork" title="WebWork">WebWork</a></li>
+<li><a href="/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+<li><a href="/wiki/ZK_(framework)" title="ZK (framework)">ZK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Angular_(application_platform)" title="Angular (application platform)">Angular</a>/<a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo Toolkit</a></li>
+<li><a href="/wiki/Ember.js" title="Ember.js">Ember.js</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/OpenUI5" title="OpenUI5">OpenUI5</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/React_(JavaScript_library)" title="React (JavaScript library)">React</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/Sencha_Touch" title="Sencha Touch">Sencha Touch</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/Wakanda_(software)" title="Wakanda (software)">Wakanda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Perl" title="Perl">Perl</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" class="mw-redirect" title="Maypole framework">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/WebGUI" title="WebGUI">WebGUI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/PHP" title="PHP">PHP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CakePHP" title="CakePHP">CakePHP</a></li>
+<li><a href="/wiki/CodeIgniter" title="CodeIgniter">CodeIgniter</a></li>
+<li><a href="/wiki/Drupal" title="Drupal">Drupal</a></li>
+<li><a href="/wiki/Fat-Free_Framework" title="Fat-Free Framework">Fat-Free</a></li>
+<li><a href="/wiki/FuelPHP" title="FuelPHP">FuelPHP</a></li>
+<li><a href="/wiki/TYPO3_Flow" title="TYPO3 Flow">Flow</a></li>
+<li><a href="/wiki/Gyroscope_(software)" title="Gyroscope (software)">Gyroscope</a></li>
+<li><a href="/wiki/Horde_(software)" title="Horde (software)">Horde</a></li>
+<li><a href="/wiki/Kohana_(framework)" title="Kohana (framework)">Kohana</a></li>
+<li><a href="/wiki/Laravel" title="Laravel">Laravel</a></li>
+<li><a href="/wiki/Lithium_(software)" class="mw-redirect" title="Lithium (software)">Lithium</a></li>
+<li><a href="/wiki/Midgard_(software)" title="Midgard (software)">Midgard</a></li>
+<li><a href="/wiki/MODX" title="MODX">MODX</a></li>
+<li><a href="/wiki/Nette_Framework" title="Nette Framework">Nette</a></li>
+<li><a href="/wiki/Phalcon_(framework)" title="Phalcon (framework)">Phalcon</a></li>
+<li><a href="/wiki/Pop_PHP_Framework" title="Pop PHP Framework">Pop PHP</a></li>
+<li><a href="/wiki/PRADO_(framework)" title="PRADO (framework)">PRADO</a></li>
+<li><a href="/wiki/ProcessWire" title="ProcessWire">ProcessWire</a></li>
+<li><a href="/wiki/Qcodo" title="Qcodo">Qcodo</a></li>
+<li><a href="/wiki/Silex_(web_framework)" title="Silex (web framework)">Silex</a></li>
+<li><a href="/wiki/SilverStripe" title="SilverStripe">SilverStripe</a></li>
+<li><a href="/wiki/Symfony" title="Symfony">Symfony</a></li>
+<li><a href="/wiki/TYPO3" title="TYPO3">TYPO3</a></li>
+<li><a href="/wiki/Xaraya" title="Xaraya">Xaraya</a></li>
+<li><a href="/wiki/XOOPS" title="XOOPS">XOOPS</a></li>
+<li><a href="/wiki/Yii" title="Yii">Yii</a></li>
+<li><a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope#BlueBream" title="Zope">BlueBream</a></li>
+<li><a href="/wiki/CherryPy" title="CherryPy">CherryPy</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Flask_(web_framework)" title="Flask (web framework)">Flask</a></li>
+<li><a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a></li>
+<li><a href="/wiki/Nevow" title="Nevow">Nevow</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Pylons_project#Pylons_Framework" title="Pylons project">Pylons</a></li>
+<li><a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid</a></li>
+<li><a href="/wiki/Quixote_(web_framework)" title="Quixote (web framework)">Quixote</a></li>
+<li><a href="/wiki/TACTIC_(web_framework)" title="TACTIC (web framework)">TACTIC</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/TurboGears" title="TurboGears">TurboGears</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Webware_for_Python" title="Webware for Python">Webware</a></li>
+<li><a href="/wiki/Zope#Zope_2" title="Zope">Zope 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Camping_(microframework)" title="Camping (microframework)">Camping</a></li>
+<li><a class="mw-selflink selflink">Merb</a></li>
+<li><a href="/wiki/Padrino_(web_framework)" title="Padrino (web framework)">Padrino</a></li>
+<li><a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Ruby on Rails</a></li>
+<li><a href="/wiki/Sinatra_(software)" title="Sinatra (software)">Sinatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lift_(web_framework)" title="Lift (web framework)">Lift</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Scalatra" title="Scalatra">Scalatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDA/Web" title="AIDA/Web">AIDA/Web</a></li>
+<li><a href="/wiki/Seaside_(software)" title="Seaside (software)">Seaside</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other languages</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vibe.d" title="Vibe.d">Vibe.d</a> (<a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>)</li>
+<li><a href="/wiki/Oracle_Application_Express" title="Oracle Application Express">Application Express</a> (<a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a>)</li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a> (<a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a>)</li>
+<li><a href="/wiki/Kepler_(software)" title="Kepler (software)">Kepler</a> (<a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>)</li>
+<li><a href="/wiki/Rocket" title="Rocket">Rocket</a> (<a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>)</li>
+<li><a href="/wiki/OpenACS" class="mw-redirect" title="OpenACS">OpenACS</a> (<a href="/wiki/Tcl" title="Tcl">Tcl</a>)</li>
+<li><a href="/w/index.php?title=Phoenix_(web_framework)&amp;action=edit&amp;redlink=1" class="new" title="Phoenix (web framework) (page does not exist)">Phoenix</a> (<a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a>)</li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a> (<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>-<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>)</li>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a> (<a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20180217073951
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.337 seconds
+Preprocessor visited node count: 1420/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72922/2097152 bytes
+Template argument size: 2452/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 4/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 4.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.260      1 -total
+ 41.05%  113.402      1 Template:Reflist
+ 38.63%  106.733      2 Template:Infobox
+ 35.13%   97.055      1 Template:Infobox_software
+ 23.97%   66.216     11 Template:Cite_web
+ 10.72%   29.610      1 Template:Dead_link
+  9.27%   25.602      1 Template:Fix
+  9.14%   25.250      1 Template:Other_uses
+  9.12%   25.184      1 Template:Infobox_software/simple
+  8.47%   23.406      3 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14114542-0!canonical and timestamp 20180217073951 and revision id 822368094
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Merb&amp;oldid=822368094">https://en.wikipedia.org/w/index.php?title=Merb&amp;oldid=822368094</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_computer_libraries" title="Category:Free computer libraries">Free computer libraries</a></li><li><a href="/wiki/Category:Free_software_programmed_in_Ruby" title="Category:Free software programmed in Ruby">Free software programmed in Ruby</a></li><li><a href="/wiki/Category:Web_frameworks" title="Category:Web frameworks">Web frameworks</a></li><li><a href="/wiki/Category:Software_using_the_MIT_license" title="Category:Software using the MIT license">Software using the MIT license</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2018" title="Category:Articles with dead external links from January 2018">Articles with dead external links from January 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_prone_to_spam_from_November_2014" title="Category:Articles prone to spam from November 2014">Articles prone to spam from November 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Merb" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Merb" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Merb" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Merb" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Merb">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Merb&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Merb&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Merb" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Merb" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Merb&amp;oldid=822368094" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Merb&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2658001" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Merb&amp;id=822368094" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Merb">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Merb&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Merb&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Merb" title="Merb – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Merb" title="Merb – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Merb" title="Merb – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Merb" title="Merb – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Merb" title="Merb – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Merb" title="Merb – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2658001#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 January 2018, at 23:48.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Merb&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.337","ppvisitednodes":{"value":1420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72922,"limit":2097152},"templateargumentsize":{"value":2452,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  276.260      1 -total"," 41.05%  113.402      1 Template:Reflist"," 38.63%  106.733      2 Template:Infobox"," 35.13%   97.055      1 Template:Infobox_software"," 23.97%   66.216     11 Template:Cite_web"," 10.72%   29.610      1 Template:Dead_link","  9.27%   25.602      1 Template:Fix","  9.14%   25.250      1 Template:Other_uses","  9.12%   25.184      1 Template:Infobox_software/simple","  8.47%   23.406      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":4311088,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20180217073951","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1244"});});</script>
+	</body>
+</html>

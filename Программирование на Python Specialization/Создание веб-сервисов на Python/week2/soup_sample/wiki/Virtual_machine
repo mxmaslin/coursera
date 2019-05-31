@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Virtual machine - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Virtual_machine","wgTitle":"Virtual machine","wgCurRevisionId":824721760,"wgRevisionId":824721760,"wgArticleId":32353,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2015","Articles with unsourced statements from March 2013","Articles needing additional references from July 2015","All articles needing additional references","Virtual machines","Operating system technology","Programming language implementation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Virtual_machine","wgRelevantArticleId":32353,"wgRequestId":"WoNKhgpAMFoAAG7qrJ4AAADM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q192726","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Virtual_machine"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Virtual_machine&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Virtual_machine&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Virtual_machine"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Virtual_machine rootpage-Virtual_machine skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Virtual machine</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;margin-top: 0.5em;">
+<tr>
+<th style="background-color: rgba(51, 153, 255, 0.15);;padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Execution_(computing)" title="Execution (computing)">Program execution</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">General concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Computer_code" title="Computer code">Code</a></li>
+<li><a href="/wiki/Translator_(computing)" title="Translator (computing)">Translation</a>
+<ul>
+<li><a href="/wiki/Compiler" title="Compiler">Compiler</a></li>
+<li><a href="/wiki/Optimizing_compiler" title="Optimizing compiler">Optimizing compiler</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intermediate_representation" title="Intermediate representation">Intermediate representation</a> (IR)</li>
+<li><a href="/wiki/Execution_(computing)" title="Execution (computing)">Execution</a>
+<ul>
+<li><a href="/wiki/Runtime_system" title="Runtime system">Runtime system</a></li>
+<li><a href="/wiki/Executable" title="Executable">Executable</a></li>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a class="mw-selflink selflink">Virtual machine</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Types of code</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Source_code" title="Source code">Source code</a></li>
+<li><a href="/wiki/Object_code" title="Object code">Object code</a></li>
+<li><a href="/wiki/Bytecode" title="Bytecode">Bytecode</a></li>
+<li><a href="/wiki/Machine_code" title="Machine code">Machine code</a></li>
+<li><a href="/wiki/Microcode" title="Microcode">Microcode</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Compilation strategies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">Just-in-time</a> (JIT)
+<ul>
+<li><a href="/wiki/Tracing_just-in-time_compilation" title="Tracing just-in-time compilation">Tracing just-in-time</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ahead-of-time_compilation" title="Ahead-of-time compilation">Ahead-of-time</a> (AOT)</li>
+<li><a href="/wiki/Source-to-source_compiler" title="Source-to-source compiler">Transcompilation</a></li>
+<li><a href="/wiki/Dynamic_recompilation" title="Dynamic recompilation">Recompilation</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Notable runtimes</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/Android_Runtime" title="Android Runtime">Android Runtime</a> (ART)</li>
+<li><a href="/wiki/Common_Language_Runtime" title="Common Language Runtime">Common Language Runtime</a> (CLR)</li>
+<li><a href="/wiki/Crt0" title="Crt0">crt0</a></li>
+<li><a href="/wiki/Java_virtual_machine" title="Java virtual machine">Java virtual machine</a> (JVM)</li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/Zend_Engine" title="Zend Engine">Zend Engine</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: rgba(51, 153, 255, 0.15);">Notable compilers &amp; toolchains</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul>
+<li><a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">GNU Compiler Collection</a> (GCC)</li>
+<li><a href="/wiki/LLVM" title="LLVM">LLVM</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Program_execution" title="Template:Program execution"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Program_execution" title="Template talk:Program execution"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Program_execution&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In computing, a <b>virtual machine</b> (VM) is an <a href="/wiki/Emulator" title="Emulator">emulation</a> of a computer system. Virtual machines are based on <a href="/wiki/Computer_architectures" class="mw-redirect" title="Computer architectures">computer architectures</a> and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination.</p>
+<p>There are different kinds of virtual machines, each with different functions:</p>
+<ul>
+<li>System virtual machines (also termed <a href="/wiki/Full_virtualization" title="Full virtualization">full virtualization</a> VMs) provide a substitute for a real machine. They provide functionality needed to execute entire <a href="/wiki/Operating_system" title="Operating system">operating systems</a>. A <a href="/wiki/Hypervisor" title="Hypervisor">hypervisor</a> uses <a href="/wiki/Native_code" class="mw-redirect" title="Native code">native execution</a> to share and manage hardware, allowing for multiple environments which are isolated from one another, yet exist on the same physical machine. Modern hypervisors use <a href="/wiki/Hardware-assisted_virtualization" title="Hardware-assisted virtualization">hardware-assisted virtualization</a>, virtualization-specific hardware, primarily from the host CPUs.</li>
+<li>Process virtual machines are designed to execute computer programs in a platform-independent environment.</li>
+</ul>
+<p>Some virtual machines, such as <a href="/wiki/QEMU" title="QEMU">QEMU</a>, are designed to also emulate different architectures and allow execution of software applications and operating systems written for another <a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a> or architecture. <a href="/wiki/Operating-system-level_virtualization" title="Operating-system-level virtualization">Operating-system-level virtualization</a> allows the resources of a computer to be partitioned via the <a href="/wiki/Kernel_(computer_science)" class="mw-redirect" title="Kernel (computer science)">kernel</a>'s support for multiple isolated <a href="/wiki/User_space" title="User space">user space</a> instances, which are usually called <a href="/wiki/Container_(virtualization)" class="mw-redirect" title="Container (virtualization)">containers</a> and may look and feel like real machines to the <a href="/wiki/End_user" title="End user">end users</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#System_virtual_machines"><span class="tocnumber">1.1</span> <span class="toctext">System virtual machines</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Process_virtual_machines"><span class="tocnumber">1.2</span> <span class="toctext">Process virtual machines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Full_virtualization"><span class="tocnumber">3</span> <span class="toctext">Full virtualization</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Hardware-assisted_virtualization"><span class="tocnumber">3.1</span> <span class="toctext">Hardware-assisted virtualization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Operating-system-level_virtualization"><span class="tocnumber">4</span> <span class="toctext">Operating-system-level virtualization</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A VM or <i>virtual machine</i> was originally defined by <a href="/wiki/Popek_and_Goldberg_virtualization_requirements" title="Popek and Goldberg virtualization requirements">Popek and Goldberg</a> as "an efficient, isolated duplicate of a real computer machine." Current use includes virtual machines which have no direct correspondence to any real hardware.<sup id="cite_ref-Smith_Nair_05_1-0" class="reference"><a href="#cite_note-Smith_Nair_05-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="System_virtual_machines">System virtual machines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=2" title="Edit section: System virtual machines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Hardware_virtualization" title="Hardware virtualization">Hardware virtualization</a> and <a href="/wiki/Comparison_of_platform_virtualization_software" title="Comparison of platform virtualization software">Comparison of platform virtualization software</a></div>
+<p>The desire to run multiple operating systems was the initial motive for virtual machines, so as to allow time-sharing among several single-tasking operating systems. In some respects, a system virtual machine can be considered a generalization of the concept of <a href="/wiki/Virtual_memory" title="Virtual memory">virtual memory</a> that historically preceded it. IBM's <a href="/wiki/CP/CMS" title="CP/CMS">CP/CMS</a>, the first systems to allow <a href="/wiki/Full_virtualization" title="Full virtualization">full virtualization</a>, implemented <a href="/wiki/Time_sharing" class="mw-redirect" title="Time sharing">time sharing</a> by providing each user with a single-user operating system, the <a href="/wiki/Conversational_Monitor_System" title="Conversational Monitor System">Conversational Monitor System</a> (CMS). Unlike virtual memory, a system virtual machine entitled the user to write privileged instructions in their code. This approach had certain advantages, such as adding input/output devices not allowed by the standard system.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>As technology evolves virtual memory for purposes of virtualization, new systems of <a href="/wiki/Memory_overcommitment" title="Memory overcommitment">memory overcommitment</a> may be applied to manage memory sharing among multiple virtual machines on one computer operating system. It may be possible to share <i>memory pages</i> that have identical contents among multiple virtual machines that run on the same physical machine, what may result in mapping them to the same physical page by a technique termed <a href="/wiki/Kernel_SamePage_Merging" class="mw-redirect" title="Kernel SamePage Merging">Kernel SamePage Merging</a>. This is especially useful for read-only pages, such as those holding code segments, which is the case for multiple virtual machines running the same or similar software, software libraries, web servers, middleware components, etc. The guest operating systems do not need to be compliant with the host hardware, thus making it possible to run different operating systems on the same computer (e.g., <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="/wiki/Linux" title="Linux">Linux</a>, or prior versions of an operating system) to support future software.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The use of virtual machines to support separate guest operating systems is popular in regard to <a href="/wiki/Embedded_system" title="Embedded system">embedded systems</a>. A typical use would be to run a <a href="/wiki/Real-time_operating_system" title="Real-time operating system">real-time operating system</a> simultaneously with a preferred complex operating system, such as Linux or Windows. Another use would be for novel and unproven software still in the developmental stage, so it runs inside a <a href="/wiki/Sandbox_(software_development)" title="Sandbox (software development)">sandbox</a>. Virtual machines have other advantages for operating system development, and may include improved debugging access and faster reboots.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Multiple VMs running their own guest operating system are frequently engaged for server consolidation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Process_virtual_machines">Process virtual machines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=3" title="Edit section: Process virtual machines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Application_virtualization" title="Application virtualization">Application virtualization</a>, <a href="/wiki/Runtime_system" title="Runtime system">Runtime system</a>, and <a href="/wiki/Comparison_of_application_virtualization_software" title="Comparison of application virtualization software">Comparison of application virtualization software</a></div>
+<p>A process VM, sometimes called an <i>application virtual machine</i>, or <i>Managed Runtime Environment</i> (MRE), runs as a normal application inside a host OS and supports a single process. It is created when that process is started and destroyed when it exits. Its purpose is to provide a <a href="/wiki/System_platform" class="mw-redirect" title="System platform">platform</a>-independent programming environment that abstracts away details of the underlying hardware or operating system, and allows a program to execute in the same way on any platform.</p>
+<p>A process VM provides a high-level abstraction&#160;–  that of a <a href="/wiki/High-level_programming_language" title="High-level programming language">high-level programming language</a> (compared to the low-level ISA abstraction of the system VM). Process VMs are implemented using an <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">interpreter</a>; performance comparable to compiled programming languages can be achieved by the use of <a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">just-in-time compilation</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup></p>
+<p>This type of VM has become popular with the <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java programming language</a>, which is implemented using the <a href="/wiki/Java_virtual_machine" title="Java virtual machine">Java virtual machine</a>. Other examples include the <a href="/wiki/Parrot_virtual_machine" title="Parrot virtual machine">Parrot virtual machine</a>, and the <a href="/wiki/.NET_Framework" title=".NET Framework">.NET Framework</a>, which runs on a VM called the <a href="/wiki/Common_Language_Runtime" title="Common Language Runtime">Common Language Runtime</a>. All of them can serve as an <a href="/wiki/Abstraction_layer" title="Abstraction layer">abstraction layer</a> for any computer language.</p>
+<p>A special case of process VMs are systems that abstract over the communication mechanisms of a (potentially heterogeneous) <a href="/wiki/Computer_cluster" title="Computer cluster">computer cluster</a>. Such a VM does not consist of a single process, but one process per physical machine in the cluster. They are designed to ease the task of programming concurrent applications by letting the programmer focus on algorithms rather than the communication mechanisms provided by the interconnect and the OS. They do not hide the fact that communication takes place, and as such do not attempt to present the cluster as a single machine.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2013)">citation needed</span></a></i>]</sup></p>
+<p>Unlike other process VMs, these systems do not provide a specific programming language, but are embedded in an existing language; typically such a system provides bindings for several languages (e.g., <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> and <a href="/wiki/Fortran" title="Fortran">Fortran</a>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2013)">citation needed</span></a></i>]</sup> Examples are <a href="/wiki/Parallel_Virtual_Machine" title="Parallel Virtual Machine">Parallel Virtual Machine</a> (PVM) and <a href="/wiki/Message_Passing_Interface" title="Message Passing Interface">Message Passing Interface</a> (MPI). They are not strictly virtual machines, as the applications running on top still have access to all OS services, and are therefore not confined to the system model.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/History_of_CP/CMS" title="History of CP/CMS">History of CP/CMS</a> and <a href="/wiki/Timeline_of_virtualization_development" title="Timeline of virtualization development">Timeline of virtualization development</a></div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Virtual_machine&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>Both system virtual machines and process virtual machines date to the 1960s, and continue to be areas of active development.</p>
+<p><i><b>System virtual machines</b></i> grew out of <a href="/wiki/Time-sharing" title="Time-sharing">time-sharing</a>, as notably implemented in the <a href="/wiki/Compatible_Time-Sharing_System" title="Compatible Time-Sharing System">Compatible Time-Sharing System</a> (CTSS). Time-sharing allowed multiple users to use a computer <a href="/wiki/Concurrent_computing" title="Concurrent computing">concurrently</a>: each program appeared to have full access to the machine, but only one program was executed at the time, with the system switching between programs in time slices, saving and restoring state each time. This evolved into virtual machines, notably via IBM's research systems: the <a href="/wiki/IBM_M44/44X" title="IBM M44/44X">M44/44X</a>, which used <a href="/wiki/Partial_virtualization" class="mw-redirect" title="Partial virtualization">partial virtualization</a>, and the <a href="/wiki/IBM_CP-40" title="IBM CP-40">CP-40</a> and <a href="/wiki/SIMMON" title="SIMMON">SIMMON</a>, which used <a href="/wiki/Full_virtualization" title="Full virtualization">full virtualization</a> and were early examples of <a href="/wiki/Hypervisor" title="Hypervisor">hypervisors</a>. The first widely available virtual machine architecture was the <a href="/wiki/CP-67" title="CP-67">CP-67</a>/CMS; see <a href="/wiki/History_of_CP/CMS" title="History of CP/CMS">History of CP/CMS</a> for details. An important distinction was between using multiple virtual machines on one host system for time-sharing, as in M44/44X and CP-40, and using one virtual machine on a host system for prototyping, as in SIMMON. <a href="/wiki/Emulator" title="Emulator">Emulators</a>, with hardware emulation of earlier systems for compatibility, date back to the <a href="/wiki/IBM_360" class="mw-redirect" title="IBM 360">IBM 360</a> in 1963,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> while the software emulation (then-called "simulation") predates it.</p>
+<p><i><b>Process virtual machines</b></i> arose originally as abstract platforms for an <a href="/wiki/Intermediate_language" class="mw-redirect" title="Intermediate language">intermediate language</a> used as the <a href="/wiki/Intermediate_representation" title="Intermediate representation">intermediate representation</a> of a program by a <a href="/wiki/Compiler" title="Compiler">compiler</a>; early examples date to around 1966. An early 1966 example was the <a href="/wiki/O-code_machine" class="mw-redirect" title="O-code machine">O-code machine</a>, a virtual machine which executes <a href="/wiki/O-code" title="O-code">O-code</a> (object code) emitted by the <a href="/wiki/Compiler#Front_end" title="Compiler">front end</a> of the <a href="/wiki/BCPL" title="BCPL">BCPL</a> compiler. This abstraction allowed the compiler to be easily ported to a new architecture by implementing a new <a href="/wiki/Compiler#Back_end" title="Compiler">back end</a> that took the existing O-code and compiled it to machine code for the underlying physical machine. The <a href="/wiki/Euler_(programming_language)" title="Euler (programming language)">Euler</a> language used a similar design, with the intermediate language named <i>P</i> (portable).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> This was popularized around 1970 by <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a>, notably in the <a href="/wiki/Pascal-P" class="mw-redirect" title="Pascal-P">Pascal-P</a> system (1973) and <a href="/wiki/Pascal-S" class="mw-redirect" title="Pascal-S">Pascal-S</a> compiler (1975), in which it was termed <a href="/wiki/P-code_machine" title="P-code machine">p-code</a> and the resulting machine as a <a href="/wiki/P-code_machine" title="P-code machine">p-code machine</a>. This has been influential, and virtual machines in this sense have been often generally called p-code machines. In addition to being an intermediate language, Pascal p-code was also executed directly by an interpreter implementing the virtual machine, notably in <a href="/wiki/UCSD_Pascal" title="UCSD Pascal">UCSD Pascal</a> (1978); this influenced later interpreters, notably the <a href="/wiki/Java_virtual_machine" title="Java virtual machine">Java virtual machine</a> (JVM). Another early example was <a href="/wiki/SNOBOL4" class="mw-redirect" title="SNOBOL4">SNOBOL4</a> (1967), which was written in the SNOBOL Implementation Language (SIL), an assembly language for a virtual machine, which was then targeted to physical machines by transpiling to their native assembler via a <a href="/wiki/Macro_assembler" class="mw-redirect" title="Macro assembler">macro assembler</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Macros have since fallen out of favor, however, so this approach has been less influential. Process virtual machines were a popular approach to implementing early microcomputer software, including <a href="/wiki/Tiny_BASIC" title="Tiny BASIC">Tiny BASIC</a> and adventure games, from one-off implementations such as <a href="/wiki/Pyramid_2000" title="Pyramid 2000">Pyramid 2000</a> to a general-purpose engine like <a href="/wiki/Infocom" title="Infocom">Infocom</a>'s <a href="/wiki/Z-machine" title="Z-machine">z-machine</a>, which <a href="/wiki/Graham_Nelson" title="Graham Nelson">Graham Nelson</a> argues is "possibly the most portable virtual machine ever created".<sup id="cite_ref-inform-interpreters_10-0" class="reference"><a href="#cite_note-inform-interpreters-10">[10]</a></sup></p>
+<p>Significant advances occurred in the implementation of <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>-80,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> particularly the Deutsch/Schiffmann implementation<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> which pushed <a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">just-in-time (JIT) compilation</a> forward as an implementation approach that uses process virtual machine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Later notable Smalltalk VMs were <a href="/wiki/VisualWorks" title="VisualWorks">VisualWorks</a>, the <a href="/wiki/Squeak_Virtual_Machine" class="mw-redirect" title="Squeak Virtual Machine">Squeak Virtual Machine</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> and <a href="/wiki/Strongtalk" title="Strongtalk">Strongtalk</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> A related language that produced a lot of virtual machine innovation was the <a href="/wiki/Self_(programming_language)" title="Self (programming language)">Self</a> programming language,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> which pioneered <a href="/wiki/Adaptive_optimization" title="Adaptive optimization">adaptive optimization</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> and <a href="/wiki/Tracing_garbage_collection#Generational_GC_(ephemeral_GC)" title="Tracing garbage collection">generational garbage collection</a>. These techniques proved commercially successful in 1999 in the <a href="/wiki/HotSpot" title="HotSpot">HotSpot</a> Java virtual machine.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Other innovations include having a register-based virtual machine, to better match the underlying hardware, rather than a stack-based virtual machine, which is a closer match for the programming language; in 1995, this was pioneered by the <a href="/wiki/Dis_virtual_machine" class="mw-redirect" title="Dis virtual machine">Dis virtual machine</a> for the <a href="/wiki/Limbo_(programming_language)" title="Limbo (programming language)">Limbo</a> language.</p>
+<h2><span class="mw-headline" id="Full_virtualization">Full virtualization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=5" title="Edit section: Full virtualization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Full_virtualization" title="Full virtualization">Full virtualization</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hardware_Virtualization_(copy).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hardware_Virtualization_%28copy%29.svg/220px-Hardware_Virtualization_%28copy%29.svg.png" width="220" height="288" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hardware_Virtualization_%28copy%29.svg/330px-Hardware_Virtualization_%28copy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hardware_Virtualization_%28copy%29.svg/440px-Hardware_Virtualization_%28copy%29.svg.png 2x" data-file-width="740" data-file-height="970" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hardware_Virtualization_(copy).svg" class="internal" title="Enlarge"></a></div>
+Logical diagram of full virtualization.</div>
+</div>
+</div>
+<p>In full virtualization, the virtual machine simulates enough hardware to allow an unmodified "guest" OS (one designed for the same <a href="/wiki/Instruction_set" class="mw-redirect" title="Instruction set">instruction set</a>) to be run in isolation. This approach was pioneered in 1966 with the IBM <a href="/wiki/CP-40" class="mw-redirect" title="CP-40">CP-40</a> and <a href="/wiki/CP-67" title="CP-67">CP-67</a>, predecessors of the <a href="/wiki/VM_(Operating_system)" class="mw-redirect" title="VM (Operating system)">VM</a> family.</p>
+<p>Examples outside the mainframe field include <a href="/wiki/Parallels_Workstation" title="Parallels Workstation">Parallels Workstation</a>, <a href="/wiki/Parallels_Desktop_for_Mac" title="Parallels Desktop for Mac">Parallels Desktop for Mac</a>, <a href="/wiki/VirtualBox" title="VirtualBox">VirtualBox</a>, <a href="/wiki/Virtual_Iron" title="Virtual Iron">Virtual Iron</a>, <a href="/wiki/Oracle_VM" class="mw-redirect" title="Oracle VM">Oracle VM</a>, <a href="/wiki/Microsoft_Virtual_PC" class="mw-redirect" title="Microsoft Virtual PC">Virtual PC</a>, <a href="/wiki/Microsoft_Virtual_Server" title="Microsoft Virtual Server">Virtual Server</a>, <a href="/wiki/Hyper-V" title="Hyper-V">Hyper-V</a>, <a href="/wiki/VMware_Workstation" title="VMware Workstation">VMware Workstation</a>, <a href="/wiki/VMware_Server" title="VMware Server">VMware Server</a> (discontinued, formerly called GSX Server), <a href="/wiki/VMware_ESXi" title="VMware ESXi">VMware ESXi</a>, <a href="/wiki/QEMU" title="QEMU">QEMU</a>, <a href="/wiki/Adaptive_Domain_Environment_for_Operating_Systems" title="Adaptive Domain Environment for Operating Systems">Adeos</a>, Mac-on-Linux, Win4BSD, <a href="/wiki/Win4Lin" title="Win4Lin">Win4Lin Pro</a>, and <a href="/wiki/Egenera" title="Egenera">Egenera</a> vBlade technology.</p>
+<h3><span class="mw-headline" id="Hardware-assisted_virtualization">Hardware-assisted virtualization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=6" title="Edit section: Hardware-assisted virtualization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Hardware-assisted_virtualization" title="Hardware-assisted virtualization">Hardware-assisted virtualization</a></div>
+<p>In hardware-assisted virtualization, the hardware provides architectural support that facilitates building a virtual machine monitor and allows guest OSes to be run in isolation.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Hardware-assisted virtualization was first introduced on the IBM System/370 in 1972, for use with VM/370, the first virtual machine operating system.</p>
+<p>In 2005 and 2006, <a href="/wiki/Intel" title="Intel">Intel</a> and <a href="/wiki/Advanced_Micro_Devices" title="Advanced Micro Devices">AMD</a> provided additional hardware to support virtualization. Sun Microsystems (now <a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle Corporation</a>) added similar features in their <a href="/wiki/SPARC_T3" title="SPARC T3">UltraSPARC T-Series</a> processors in 2005. Examples of virtualization platforms adapted to such hardware include <a href="/wiki/Kernel-based_Virtual_Machine" title="Kernel-based Virtual Machine">KVM</a>, <a href="/wiki/VMware_Workstation" title="VMware Workstation">VMware Workstation</a>, <a href="/wiki/VMware_Fusion" title="VMware Fusion">VMware Fusion</a>, <a href="/wiki/Hyper-V" title="Hyper-V">Hyper-V</a>, <a href="/wiki/Windows_Virtual_PC" title="Windows Virtual PC">Windows Virtual PC</a>, <a href="/wiki/Xen" title="Xen">Xen</a>, <a href="/wiki/Parallels_Desktop_for_Mac" title="Parallels Desktop for Mac">Parallels Desktop for Mac</a>, <a href="/wiki/Oracle_VM_Server_for_SPARC" title="Oracle VM Server for SPARC">Oracle VM Server for SPARC</a>, <a href="/wiki/VirtualBox" title="VirtualBox">VirtualBox</a> and <a href="/wiki/Parallels_Workstation" title="Parallels Workstation">Parallels Workstation</a>.</p>
+<p>In 2006, first-generation 32- and 64-bit x86 hardware support was found to rarely offer performance advantages over software virtualization.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="Operating-system-level_virtualization">Operating-system-level virtualization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=7" title="Edit section: Operating-system-level virtualization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Operating-system-level_virtualization" title="Operating-system-level virtualization">Operating-system-level virtualization</a></div>
+<p>In operating-system-level virtualization, a physical server is virtualized at the operating system level, enabling multiple isolated and secure virtualized servers to run on a single physical server. The "guest" operating system environments share the same running instance of the operating system as the host system. Thus, the same <a href="/wiki/Operating_system_kernel" class="mw-redirect" title="Operating system kernel">operating system kernel</a> is also used to implement the "guest" environments, and applications running in a given "guest" environment view it as a stand-alone system. The pioneer implementation was <a href="/wiki/FreeBSD_jail" title="FreeBSD jail">FreeBSD jails</a>; other examples include <a href="/wiki/Docker_(software)" title="Docker (software)">Docker</a>, <a href="/wiki/Solaris_Containers" title="Solaris Containers">Solaris Containers</a>, <a href="/wiki/OpenVZ" title="OpenVZ">OpenVZ</a>, <a href="/wiki/Linux-VServer" title="Linux-VServer">Linux-VServer</a>, <a href="/wiki/LXC" title="LXC">LXC</a>, AIX <a href="/wiki/Workload_Partitions" title="Workload Partitions">Workload Partitions</a>, Parallels Virtuozzo Containers, and <a href="/wiki/ICore_Virtual_Accounts" title="ICore Virtual Accounts">iCore Virtual Accounts</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/32px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/48px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/64px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="281" data-file-height="203" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Computing" class="mw-redirect" title="Portal:Computing">Computing portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Amazon_Machine_Image" title="Amazon Machine Image">Amazon Machine Image</a></li>
+<li><a href="/wiki/Linux_Containers" class="mw-redirect" title="Linux Containers">Linux Containers</a></li>
+<li><a href="/wiki/Native_development_kit" class="mw-redirect" title="Native development kit">Native development kit</a></li>
+<li><a href="/wiki/Storage_hypervisor" class="mw-redirect" title="Storage hypervisor">Storage hypervisor</a></li>
+<li><a href="/wiki/Universal_Turing_machine" title="Universal Turing machine">Universal Turing machine</a></li>
+<li><a href="/wiki/Virtual_appliance" title="Virtual appliance">Virtual appliance</a></li>
+<li><a href="/wiki/Virtual_backup_appliance" class="mw-redirect" title="Virtual backup appliance">Virtual backup appliance</a></li>
+<li><a href="/wiki/Virtual_disk_image" class="mw-redirect" title="Virtual disk image">Virtual disk image</a></li>
+<li><a href="/wiki/Virtual_machine_escape" title="Virtual machine escape">Virtual machine escape</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Smith_Nair_05-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith_Nair_05_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Smith, James; Nair, Ravi (2005). "The Architecture of Virtual Machines". <i><a href="/wiki/Computer_(magazine)" title="Computer (magazine)">Computer</a></i>. <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>. <b>38</b> (5): 32–38. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FMC.2005.173">10.1109/MC.2005.173</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computer&amp;rft.atitle=The+Architecture+of+Virtual+Machines&amp;rft.volume=38&amp;rft.issue=5&amp;rft.pages=32-38&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1109%2FMC.2005.173&amp;rft.aulast=Smith&amp;rft.aufirst=James&amp;rft.au=Nair%2C+Ravi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Smith and Nair, pp. 395–396</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Oliphant, Patrick. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160729182221/http://www.virtualcomputing.net/virtual-machines">"Virtual Machines"</a>. VirtualComputing. Archived from <a rel="nofollow" class="external text" href="http://www.virtualcomputing.net/virtual-machines">the original</a> on 2016-07-29<span class="reference-accessdate">. Retrieved <span class="nowrap">23 September</span> 2015</span>. <q>Some people use that capability to set up a separate virtual machine running Windows on a Mac, giving them access to the full range of applications available for both platforms.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Virtual+Machines&amp;rft.pub=VirtualComputing&amp;rft.aulast=Oliphant&amp;rft.aufirst=Patrick&amp;rft_id=http%3A%2F%2Fwww.virtualcomputing.net%2Fvirtual-machines&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060614120104/http://www.vmwarez.com/2006/05/super-fast-server-reboots-another.html">"Super Fast Server Reboots – Another reason Virtualization rocks"</a>. <i>vmwarez.com</i>. May 9, 2006. Archived from <a rel="nofollow" class="external text" href="http://www.vmwarez.com/2006/05/super-fast-server-reboots-another.html">the original</a> on 2006-06-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=vmwarez.com&amp;rft.atitle=Super+Fast+Server+Reboots+%E2%80%93+Another+reason+Virtualization+rocks&amp;rft.date=2006-05-09&amp;rft_id=http%3A%2F%2Fwww.vmwarez.com%2F2006%2F05%2Fsuper-fast-server-reboots-another.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vmware.com/pdf/server_consolidation.pdf">"Server Consolidation and Containment With Virtual Infrastructure"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/VMware" title="VMware">VMware</a>. 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131228142508/http://www.vmware.com/pdf/server_consolidation.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 2013-12-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Server+Consolidation+and+Containment+With+Virtual+Infrastructure&amp;rft.pub=VMware&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.vmware.com%2Fpdf%2Fserver_consolidation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Pugh, Emerson W. (1995). <i>Building IBM: Shaping an Industry and Its Technology</i>. MIT. p.&#160;274. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-16147-8" title="Special:BookSources/0-262-16147-8">0-262-16147-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Building+IBM%3A+Shaping+an+Industry+and+Its+Technology&amp;rft.pages=274&amp;rft.pub=MIT&amp;rft.date=1995&amp;rft.isbn=0-262-16147-8&amp;rft.aulast=Pugh&amp;rft.aufirst=Emerson+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Pugh, Emerson W.; et al. (1991). <i>IBM's 360 and Early 370 Systems</i>. MIT. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-16123-0" title="Special:BookSources/0-262-16123-0">0-262-16123-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IBM%27s+360+and+Early+370+Systems&amp;rft.pub=MIT&amp;rft.date=1991&amp;rft.isbn=0-262-16123-0&amp;rft.aulast=Pugh&amp;rft.aufirst=Emerson+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span> pages 160–161</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Wirth, N.; Weber, H. (1966). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?doid=365170.365202,"><i>EULER: a generalization of ALGOL, and its formal definition: Part II, Communications of the Association for Computing Machinery, Vol.9, No.2, pp.89–99</i></a>. New York: ACM.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=EULER%3A+a+generalization+of+ALGOL%2C+and+its+formal+definition%3A+Part+II%2C+Communications+of+the+Association+for+Computing+Machinery%2C+Vol.9%2C+No.2%2C+pp.89%E2%80%9399&amp;rft.place=New+York&amp;rft.pub=ACM&amp;rft.date=1966&amp;rft.aulast=Wirth&amp;rft.aufirst=N.&amp;rft.au=Weber%2C+H.&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fdoid%3D365170.365202%2C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Griswold, Ralph E. <i>The Macro Implementation of SNOBOL4</i>. San Francisco, CA: W. H. Freeman and Company, 1972 (<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7167-0447-1" title="Special:BookSources/0-7167-0447-1">0-7167-0447-1</a>), Chapter 1.</span></li>
+<li id="cite_note-inform-interpreters-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-inform-interpreters_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Nelson, Graham. <a rel="nofollow" class="external text" href="http://www.inform-fiction.org/zmachine/interpreters.html">"About Interpreters"</a>. <i>Inform website</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091203031858/http://www.inform-fiction.org/zmachine/interpreters.html">Archived</a> from the original on 2009-12-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Inform+website&amp;rft.atitle=About+Interpreters&amp;rft.aulast=Nelson&amp;rft.aufirst=Graham&amp;rft_id=http%3A%2F%2Fwww.inform-fiction.org%2Fzmachine%2Finterpreters.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Goldberg, Adele; Robson, David (1983). <i>Smalltalk-80: The Language and its Implementation</i>. Addison-Wesley Series in Computer Science. Addison-Wesley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-11371-6" title="Special:BookSources/0-201-11371-6">0-201-11371-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Smalltalk-80%3A+The+Language+and+its+Implementation&amp;rft.series=Addison-Wesley+Series+in+Computer+Science&amp;rft.pub=Addison-Wesley&amp;rft.date=1983&amp;rft.isbn=0-201-11371-6&amp;rft.aulast=Goldberg&amp;rft.aufirst=Adele&amp;rft.au=Robson%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation conference">Deutsch, L. Peter; Schiffman, Allan M. (1984). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=800017.800542">"Efficient implementation of the Smalltalk-80 system"</a>. <i>POPL</i>. Salt Lake City, Utah: ACM. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F800017.800542">10.1145/800017.800542</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89791-125-3" title="Special:BookSources/0-89791-125-3">0-89791-125-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Efficient+implementation+of+the+Smalltalk-80+system&amp;rft.btitle=POPL&amp;rft.place=Salt+Lake+City%2C+Utah&amp;rft.pub=ACM&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1145%2F800017.800542&amp;rft.isbn=0-89791-125-3&amp;rft.aulast=Deutsch&amp;rft.aufirst=L.+Peter&amp;rft.au=Schiffman%2C+Allan+M.&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D800017.800542&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aycock, John (2003). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=857077">"A brief history of just-in-time"</a>. <i>ACM Comput. Surv</i>. <b>35</b> (2): 97–113. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F857076.857077">10.1145/857076.857077</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Comput.+Surv.&amp;rft.atitle=A+brief+history+of+just-in-time&amp;rft.volume=35&amp;rft.issue=2&amp;rft.pages=97-113&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1145%2F857076.857077&amp;rft.aulast=Aycock&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D857077&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation conference">Ingalls, Dan; Kaehler, Ted; Maloney, John; Wallace, Scott; Kay, Alan (1997). "Back to the future: the story of Squeak, a practical Smalltalk written in itself". <i>OOPSLA '97: Proceedings of the 12th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications</i>. New York, NY, USA: ACM Press. pp.&#160;318–326. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F263698.263754">10.1145/263698.263754</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89791-908-4" title="Special:BookSources/0-89791-908-4">0-89791-908-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Back+to+the+future%3A+the+story+of+Squeak%2C+a+practical+Smalltalk+written+in+itself&amp;rft.btitle=OOPSLA+%2797%3A+Proceedings+of+the+12th+ACM+SIGPLAN+conference+on+Object-oriented+programming%2C+systems%2C+languages%2C+and+applications&amp;rft.place=New+York%2C+NY%2C+USA&amp;rft.pages=318-326&amp;rft.pub=ACM+Press&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1145%2F263698.263754&amp;rft.isbn=0-89791-908-4&amp;rft.aulast=Ingalls&amp;rft.aufirst=Dan&amp;rft.au=Kaehler%2C+Ted&amp;rft.au=Maloney%2C+John&amp;rft.au=Wallace%2C+Scott&amp;rft.au=Kay%2C+Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation conference">Bracha, Gilad; Griswold, David (1993). <a rel="nofollow" class="external text" href="http://doi.acm.org/10.1145/165854.165893">"Strongtalk: Typechecking Smalltalk in a Production Environment"</a>. <i>Proceedings of the Eighth Annual Conference on Object-oriented Programming Systems, Languages, and Applications</i>. OOPSLA '93. New York, NY, USA: ACM. pp.&#160;215–230. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F165854.165893">10.1145/165854.165893</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-89791-587-8" title="Special:BookSources/978-0-89791-587-8">978-0-89791-587-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Strongtalk%3A+Typechecking+Smalltalk+in+a+Production+Environment&amp;rft.btitle=Proceedings+of+the+Eighth+Annual+Conference+on+Object-oriented+Programming+Systems%2C+Languages%2C+and+Applications&amp;rft.place=New+York%2C+NY%2C+USA&amp;rft.series=OOPSLA+%2793&amp;rft.pages=215-230&amp;rft.pub=ACM&amp;rft.date=1993&amp;rft_id=info%3Adoi%2F10.1145%2F165854.165893&amp;rft.isbn=978-0-89791-587-8&amp;rft.aulast=Bracha&amp;rft.aufirst=Gilad&amp;rft.au=Griswold%2C+David&amp;rft_id=http%3A%2F%2Fdoi.acm.org%2F10.1145%2F165854.165893&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ungar, David; Smith, Randall B (December 1987). "Self: The power of simplicity". <i>ACM SIGPLAN Notices</i>. <b>22</b>: 227–242. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F38807.38828">10.1145/38807.38828</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-1340">0362-1340</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+SIGPLAN+Notices&amp;rft.atitle=Self%3A+The+power+of+simplicity&amp;rft.volume=22&amp;rft.pages=227-242&amp;rft.date=1987-12&amp;rft_id=info%3Adoi%2F10.1145%2F38807.38828&amp;rft.issn=0362-1340&amp;rft.aulast=Ungar&amp;rft.aufirst=David&amp;rft.au=Smith%2C+Randall+B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation conference">Hölzle, Urs; Ungar, David (1994). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=178243.178478">"Optimizing dynamically-dispatched calls with run-time type feedback"</a>. <i>PLDI</i>. Orlando, Florida, United States: ACM. pp.&#160;326–336. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F178243.178478">10.1145/178243.178478</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89791-662-X" title="Special:BookSources/0-89791-662-X">0-89791-662-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Optimizing+dynamically-dispatched+calls+with+run-time+type+feedback&amp;rft.btitle=PLDI&amp;rft.place=Orlando%2C+Florida%2C+United+States&amp;rft.pages=326-336&amp;rft.pub=ACM&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1145%2F178243.178478&amp;rft.isbn=0-89791-662-X&amp;rft.aulast=H%C3%B6lzle&amp;rft.aufirst=Urs&amp;rft.au=Ungar%2C+David&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D178243.178478&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation conference">Paleczny, Michael; Vick, Christopher; Click, Cliff (2001). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=1267848">"The Java HotSpot server compiler"</a>. <i>Proceedings of the Java Virtual Machine Research and Technology Symposium on Java Virtual Machine Research and Technology Symposium – Volume 1</i>. Monterey, California: USENIX Association.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=The+Java+HotSpot+server+compiler&amp;rft.btitle=Proceedings+of+the+Java+Virtual+Machine+Research+and+Technology+Symposium+on+Java+Virtual+Machine+Research+and+Technology+Symposium+%E2%80%93+Volume+1&amp;rft.place=Monterey%2C+California&amp;rft.pub=USENIX+Association&amp;rft.date=2001&amp;rft.aulast=Paleczny&amp;rft.aufirst=Michael&amp;rft.au=Vick%2C+Christopher&amp;rft.au=Click%2C+Cliff&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D1267848&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Uhlig, Rich; et al. (May 2005). "Intel virtualization technology". <i>Computer</i>. IEEE Computer Society. <b>38</b> (5): 48–56. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FMC.2005.163">10.1109/MC.2005.163</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computer&amp;rft.atitle=Intel+virtualization+technology&amp;rft.volume=38&amp;rft.issue=5&amp;rft.pages=48-56&amp;rft.date=2005-05&amp;rft_id=info%3Adoi%2F10.1109%2FMC.2005.163&amp;rft.aulast=Uhlig&amp;rft.aufirst=Rich&amp;rft.au=Neiger%2C+Gil&amp;rft.au=Rodgers%2C+Dion&amp;rft.au=Santoni%2C+Amy+L.&amp;rft.au=Martins%2C+Fernando+C.M.&amp;rft.au=Anderson%2C+Andrew+V.&amp;rft.au=Bennett%2C+Steven+M.&amp;rft.au=K%C3%A4gi%2C+Alain&amp;rft.au=Leung%2C+Felix+H.&amp;rft.au=Smith%2C+Larry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation conference">Keith Adams; Ole Agesen. <a rel="nofollow" class="external text" href="http://www.vmware.com/pdf/asplos235_adams.pdf"><i>A Comparison of Software and Hardware Techniques for x86 Virtualization</i></a> <span style="font-size:85%;">(PDF)</span>. ASPLOS’06 21–25 October 2006. San Jose, California, USA. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100820201944/http://www.vmware.com/pdf/asplos235_adams.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 20 August 2010. <q>Surprisingly, we find that the first-generation hardware support rarely offers performance advantages over existing software techniques. We ascribe this situation to high VMM/guest transition costs and a rigid programming model that leaves little room for software flexibility in managing either the frequency or cost of these transitions.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=A+Comparison+of+Software+and+Hardware+Techniques+for+x86+Virtualization&amp;rft.place=San+Jose%2C+California%2C+USA&amp;rft.au=Keith+Adams&amp;rft.au=Ole+Agesen&amp;rft_id=http%3A%2F%2Fwww.vmware.com%2Fpdf%2Fasplos235_adams.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+machine" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>James E. Smith, Ravi Nair, <i>Virtual Machines: Versatile Platforms For Systems And Processes</i>, Morgan Kaufmann, May 2005, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55860-910-5" title="Special:BookSources/1-55860-910-5">1-55860-910-5</a>, 656 pages (covers both process and system virtual machines)</li>
+<li>Craig, Iain D. <i>Virtual Machines</i>. <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, 2006, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85233-969-1" title="Special:BookSources/1-85233-969-1">1-85233-969-1</a>, 269 pages (covers only process virtual machines)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virtual_machine&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://acmqueue.com/modules.php?name=Content&amp;pa=showpage&amp;pid=168">The Reincarnation of Virtual Machines, Article on ACM Queue by Mendel Rosenblum, Co-Founder, VMware</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.net-security.org/secworld.php?id=7837">Sandia National Laboratories Runs 1 Million Linux Kernels as Virtual Machines</a></li>
+<li><a rel="nofollow" class="external text" href="http://doc.cat-v.org/inferno/4th_edition/dis_VM_design">The design of the Inferno virtual machine by Phil Winterbottom and Rob Pike</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stefanv.com/computers/masters_thesis.html">Software Portability by Virtual Machine Emulation by Stefan Vorkoetter</a></li>
+<li><a rel="nofollow" class="external text" href="http://winspark.net/2012/06/how-to-create-new-virtual-machine-in-windows-azure/">Create new Virtual Machine in Windows Azure by Rahul Vijay Manekari</a></li>
+<li><a rel="nofollow" class="external text" href="http://blog.unscramble.co.jp/post/153451312974/announcing-jidoteki-meta-on-prem-appliance-for">A Virtual Machine for building Virtual Machines</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Virtualization_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Virtualization_software" title="Template:Virtualization software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Virtualization_software" title="Template talk:Virtualization software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Virtualization_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Virtualization_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Virtualization" title="Virtualization">Virtualization</a> software</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Comparison_of_platform_virtualization_software" title="Comparison of platform virtualization software">Comparison of platform virtualization software</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hardware_virtualization" title="Hardware virtualization">Hardware<br />
+virtualization</a><br />
+(<a href="/wiki/Hypervisor" title="Hypervisor">hypervisors</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Native</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adaptive_Domain_Environment_for_Operating_Systems" title="Adaptive Domain Environment for Operating Systems">Adeos</a></li>
+<li><a href="/wiki/CP/CMS" title="CP/CMS">CP/CMS</a></li>
+<li><a href="/wiki/Hyper-V" title="Hyper-V">Hyper-V</a></li>
+<li><a href="/wiki/Kernel-based_Virtual_Machine" title="Kernel-based Virtual Machine">KVM</a>
+<ul>
+<li><a href="/wiki/Red_Hat_Enterprise_Virtualization" class="mw-redirect" title="Red Hat Enterprise Virtualization">Red Hat Enterprise Virtualization</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Oracle_VM_Server_for_SPARC" title="Oracle VM Server for SPARC">LDoms / Oracle VM Server for SPARC</a></li>
+<li><a href="/wiki/LynxSecure" title="LynxSecure">LynxSecure</a></li>
+<li><a href="/wiki/PikeOS" title="PikeOS">PikeOS</a></li>
+<li><a href="/wiki/Proxmox_VE" class="mw-redirect" title="Proxmox VE">Proxmox VE</a></li>
+<li><a href="/wiki/SIMMON" title="SIMMON">SIMMON</a></li>
+<li><a href="/wiki/VMware_ESXi" title="VMware ESXi">VMware ESXi</a>
+<ul>
+<li><a href="/wiki/VMware_vSphere" title="VMware vSphere">VMware vSphere</a></li>
+<li><a href="/wiki/VCloud_Air" title="VCloud Air">vCloud</a></li>
+</ul>
+</li>
+<li><a href="/wiki/VMware_Infrastructure" title="VMware Infrastructure">VMware Infrastructure</a></li>
+<li><a href="/wiki/Xen" title="Xen">Xen</a>
+<ul>
+<li><a href="/wiki/Oracle_VM_Server_for_x86" title="Oracle VM Server for x86">Oracle VM Server for x86</a></li>
+<li><a href="/wiki/XenClient" title="XenClient">XenClient</a></li>
+</ul>
+</li>
+<li><a href="/wiki/XtratuM" title="XtratuM">XtratuM</a></li>
+<li><a href="/wiki/Z/VM" title="Z/VM">z/VM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Hosted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Specialized</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basilisk_II" title="Basilisk II">Basilisk II</a></li>
+<li><a href="/wiki/Bhyve" title="Bhyve">bhyve</a></li>
+<li><a href="/wiki/Bochs" title="Bochs">Bochs</a></li>
+<li><a href="/wiki/Cooperative_Linux" title="Cooperative Linux">Cooperative Linux</a></li>
+<li><a href="/wiki/DOSBox" title="DOSBox">DOSBox</a></li>
+<li><a href="/wiki/DOSEMU" title="DOSEMU">DOSEMU</a></li>
+<li><a href="/wiki/PCem" title="PCem">PCem</a></li>
+<li><a href="/wiki/PikeOS" title="PikeOS">PikeOS</a></li>
+<li><a href="/wiki/SheepShaver" title="SheepShaver">SheepShaver</a></li>
+<li><a href="/wiki/SIMH" title="SIMH">SIMH</a></li>
+<li><a href="/wiki/Windows_on_Windows" title="Windows on Windows">Windows on Windows</a>
+<ul>
+<li><a href="/wiki/Virtual_DOS_machine" title="Virtual DOS machine">Virtual DOS machine</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Win4Lin" title="Win4Lin">Win4Lin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Independent</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Microsoft_Virtual_Server" title="Microsoft Virtual Server">Microsoft Virtual Server</a></li>
+<li><a href="/wiki/Parallels_Workstation" title="Parallels Workstation">Parallels Workstation</a></li>
+<li><a href="/wiki/Parallels_Desktop_for_Mac" title="Parallels Desktop for Mac">Parallels Desktop for Mac</a></li>
+<li><a href="/wiki/Parallels_Server_for_Mac" title="Parallels Server for Mac">Parallels Server for Mac</a></li>
+<li><a href="/wiki/PearPC" title="PearPC">PearPC</a></li>
+<li><a href="/wiki/QEMU" title="QEMU">QEMU</a></li>
+<li><a href="/wiki/VirtualBox" title="VirtualBox">VirtualBox</a></li>
+<li><a href="/wiki/Virtual_Iron" title="Virtual Iron">Virtual Iron</a></li>
+<li><a href="/wiki/VMware_Fusion" title="VMware Fusion">VMware Fusion</a></li>
+<li><a href="/wiki/VMware_Player" class="mw-redirect" title="VMware Player">VMware Player</a></li>
+<li><a href="/wiki/VMware_Server" title="VMware Server">VMware Server</a></li>
+<li><a href="/wiki/VMware_Workstation" title="VMware Workstation">VMware Workstation</a></li>
+<li><a href="/wiki/Windows_Virtual_PC" title="Windows Virtual PC">Windows Virtual PC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Tools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ganeti" title="Ganeti">Ganeti</a></li>
+<li><a href="/wiki/OVirt" title="OVirt">oVirt</a></li>
+<li><a href="/wiki/System_Center_Virtual_Machine_Manager" title="System Center Virtual Machine Manager">System Center Virtual Machine Manager</a></li>
+<li><a href="/wiki/Virtual_Machine_Manager" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Operating-system-level_virtualization" title="Operating-system-level virtualization">OS-level<br />
+virtualization</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Docker_(software)" title="Docker (software)">Docker</a></li>
+<li><a href="/wiki/Cgroups" title="Cgroups">cgroups</a>
+<ul>
+<li><a href="/wiki/Lmctfy" title="Lmctfy">lmctfy</a></li>
+<li><a href="/wiki/Linux-VServer" title="Linux-VServer">Linux-VServer</a></li>
+<li><a href="/wiki/LXC" title="LXC">LXC</a></li>
+<li><a href="/wiki/OpenVZ" title="OpenVZ">OpenVZ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/FreeBSD_jail" title="FreeBSD jail">FreeBSD jail</a></li>
+<li><a href="/wiki/ICore_Virtual_Accounts" title="ICore Virtual Accounts">iCore Virtual Accounts</a></li>
+<li><a href="/wiki/Kubernetes" title="Kubernetes">Kubernetes</a></li>
+<li><a href="/wiki/Linux_namespaces" title="Linux namespaces">Linux namespaces</a></li>
+<li><a href="/wiki/Solaris_Containers" title="Solaris Containers">Solaris Containers</a></li>
+<li><a href="/wiki/Workload_Partitions" title="Workload Partitions">Workload Partitions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Desktop_virtualization" title="Desktop virtualization">Desktop<br />
+virtualization</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Citrix_XenApp" class="mw-redirect" title="Citrix XenApp">Citrix XenApp</a></li>
+<li><a href="/wiki/Citrix_XenDesktop" class="mw-redirect" title="Citrix XenDesktop">Citrix XenDesktop</a></li>
+<li><a href="/wiki/Remote_Desktop_Services" title="Remote Desktop Services">Remote Desktop Services</a></li>
+<li><a href="/wiki/VMware_Horizon_View" title="VMware Horizon View">VMware Horizon View</a></li>
+<li><a href="/wiki/Ulteo_Open_Virtual_Desktop" title="Ulteo Open Virtual Desktop">Ulteo Open Virtual Desktop</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Application_virtualization" title="Application virtualization">Application<br />
+virtualization</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ceedo" title="Ceedo">Ceedo</a></li>
+<li><a href="/wiki/Citrix_XenApp" class="mw-redirect" title="Citrix XenApp">Citrix XenApp</a></li>
+<li><a href="/wiki/Dalvik_(software)" title="Dalvik (software)">Dalvik</a></li>
+<li><a href="/wiki/InstallFree" title="InstallFree">InstallFree</a></li>
+<li><a href="/wiki/Microsoft_App-V" title="Microsoft App-V">Microsoft App-V</a></li>
+<li><a href="/wiki/Remote_Desktop_Services" title="Remote Desktop Services">Remote Desktop Services</a></li>
+<li><a href="/wiki/Spoon_(software)" class="mw-redirect" title="Spoon (software)">Spoon</a></li>
+<li><a href="/wiki/Symantec_Workspace_Virtualization" title="Symantec Workspace Virtualization">Symantec Workspace Virtualization</a></li>
+<li><a href="/wiki/VMware_ThinApp" title="VMware ThinApp">VMware ThinApp</a></li>
+<li><a href="/wiki/ZeroVM" title="ZeroVM">ZeroVM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Network_virtualization" title="Network virtualization">Network<br />
+virtualization</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Distributed_Overlay_Virtual_Ethernet" title="Distributed Overlay Virtual Ethernet">Distributed Overlay Virtual Ethernet</a> (DOVE)</li>
+<li><a href="/wiki/Network_Virtualization_using_Generic_Routing_Encapsulation" title="Network Virtualization using Generic Routing Encapsulation">NVGRE</a></li>
+<li><a href="/wiki/Open_vSwitch" title="Open vSwitch">Open vSwitch</a></li>
+<li><a href="/wiki/Virtual_security_switch" title="Virtual security switch">Virtual security switch</a></li>
+<li><a href="/wiki/Virtual_Extensible_LAN" title="Virtual Extensible LAN">Virtual Extensible LAN</a> (VXLAN)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>See also: <a href="/wiki/List_of_emulators" title="List of emulators">List of emulators</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%;margin:0 4em">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a class="mw-selflink selflink">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20180213202854
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.336 seconds
+Real time usage: 0.456 seconds
+Preprocessor visited node count: 2707/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 115027/2097152 bytes
+Template argument size: 2910/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.152/10.000 seconds
+Lua memory usage: 5.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  360.090      1 -total
+ 43.36%  156.145      1 Template:Reflist
+ 16.30%   58.696      3 Template:Citation_needed
+ 14.55%   52.380      3 Template:Fix
+ 13.15%   47.335      4 Template:Cite_journal
+  9.07%   32.652      4 Template:Navbox
+  8.36%   30.104      3 Template:ISBN
+  8.05%   28.997      6 Template:Category_handler
+  7.71%   27.748      6 Template:Cite_conference
+  6.32%   22.755      1 Template:Program_execution
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32353-0!canonical and timestamp 20180213202854 and revision id 824721760
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Virtual_machine&amp;oldid=824721760">https://en.wikipedia.org/w/index.php?title=Virtual_machine&amp;oldid=824721760</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Virtual_machines" title="Category:Virtual machines">Virtual machines</a></li><li><a href="/wiki/Category:Operating_system_technology" title="Category:Operating system technology">Operating system technology</a></li><li><a href="/wiki/Category:Programming_language_implementation" title="Category:Programming language implementation">Programming language implementation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2013" title="Category:Articles with unsourced statements from March 2013">Articles with unsourced statements from March 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2015" title="Category:Articles needing additional references from July 2015">Articles needing additional references from July 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Virtual+machine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Virtual+machine" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Virtual_machine" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Virtual_machine" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Virtual_machine">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Virtual_machine&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Virtual_machine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Virtual_machine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Virtual_machine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Virtual_machine&amp;oldid=824721760" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Virtual_machine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q192726" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Virtual_machine&amp;id=824721760" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Virtual+machine">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Virtual+machine&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Virtual_machine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Virtuele_masjien" title="Virtuele masjien – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%84%D8%A9_%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9" title="آلة افتراضية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Virtual_ma%C5%9F%C4%B1n" title="Virtual maşın – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2_%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8" title="ভার্চুয়াল মেশিন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D1%8B%D0%BD%D0%B0" title="Віртуальная машына – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Виртуална машина – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Virtualna_ma%C5%A1ina" title="Virtualna mašina – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/M%C3%A0quina_virtual" title="Màquina virtual – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Virtu%C3%A1ln%C3%AD_stroj" title="Virtuální stroj – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Virtuel_maskine" title="Virtuel maskine – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Virtuelle_Maschine" title="Virtuelle Maschine – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Virtuaalmasin" title="Virtuaalmasin – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/M%C3%A1quina_virtual" title="Máquina virtual – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Makina_birtual" title="Makina birtual – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%D9%85%D8%AC%D8%A7%D8%B2%DB%8C" title="ماشین مجازی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Machine_virtuelle" title="Machine virtuelle – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%EB%A8%B8%EC%8B%A0" title="가상 머신 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Virtualni_stroj" title="Virtualni stroj – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Mesin_virtual" title="Mesin virtual – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Macchina_virtuale" title="Macchina virtuale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%94_%D7%95%D7%99%D7%A8%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%AA" title="מכונה וירטואלית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%84%E0%BA%AD%E0%BA%A1%E0%BA%9E%E0%BA%B4%E0%BA%A7%E0%BB%80%E0%BA%95%E0%BA%B5%E0%BA%88%E0%BB%8D%E0%BA%B2%E0%BA%A5%E0%BA%AD%E0%BA%87" title="ຄອມພິວເຕີຈໍາລອງ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Virtu%C3%A1lis_sz%C3%A1m%C3%ADt%C3%B3g%C3%A9p" title="Virtuális számítógép – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%86%E0%B5%BC%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D%E0%B4%B5%E0%B5%BD_%E0%B4%AE%E0%B5%86%E0%B4%B7%E0%B5%80%E0%B5%BB" title="വെർച്ച്വൽ മെഷീൻ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Mesin_maya" title="Mesin maya – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%92%E1%80%BC%E1%80%95%E1%80%BA%E1%80%99%E1%80%B2%E1%80%B7%E1%80%85%E1%80%80%E1%80%BA" title="ဒြပ်မဲ့စက် – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Virtuele_machine" title="Virtuele machine – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E6%83%B3%E6%A9%9F%E6%A2%B0" title="仮想機械 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Virtuell_maskin" title="Virtuell maskin – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Maszyna_wirtualna" title="Maszyna wirtualna – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/M%C3%A1quina_virtual" title="Máquina virtual – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Виртуальная машина – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Virtual_machine" title="Virtual machine – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Virtualno_izvajalsko_okolje" title="Virtualno izvajalsko okolje – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B5%D0%BB%D0%BD%D0%B0_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Виртуелна машина – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Virtuelna_ma%C5%A1ina" title="Virtuelna mašina – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Virtuaalikone" title="Virtuaalikone – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Virtuell_maskin" title="Virtuell maskin – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A8%E0%AE%BF%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%87%E0%AE%AF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D" title="மெய்நிகர் இயந்திரம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Sanal_makine" title="Sanal makine – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Віртуальна машина – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%AC%D8%A7%D8%B2%DB%8C_%D9%85%D8%B4%DB%8C%D9%86" title="مجازی مشین – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/M%C3%A1y_%E1%BA%A3o" title="Máy ảo – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A8%D7%98%D7%95%D7%A2%D7%9C_%D7%9E%D7%90%D7%A9%D7%99%D7%9F" title="ווירטועל מאשין – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8" title="虛擬機器 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q192726#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 February 2018, at 02:14.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Virtual_machine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.336","walltime":"0.456","ppvisitednodes":{"value":2707,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":115027,"limit":2097152},"templateargumentsize":{"value":2910,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  360.090      1 -total"," 43.36%  156.145      1 Template:Reflist"," 16.30%   58.696      3 Template:Citation_needed"," 14.55%   52.380      3 Template:Fix"," 13.15%   47.335      4 Template:Cite_journal","  9.07%   32.652      4 Template:Navbox","  8.36%   30.104      3 Template:ISBN","  8.05%   28.997      6 Template:Category_handler","  7.71%   27.748      6 Template:Cite_conference","  6.32%   22.755      1 Template:Program_execution"]},"scribunto":{"limitreport-timeusage":{"value":"0.152","limit":"10.000"},"limitreport-memusage":{"value":6157796,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20180213202854","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":550,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

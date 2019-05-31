@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mechanism of action - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mechanism_of_action","wgTitle":"Mechanism of action","wgCurRevisionId":804183297,"wgRevisionId":804183297,"wgArticleId":5105731,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Pages using div col without cols and colwidth parameters","Pages using Columns-list with deprecated parameters","Pharmacology","Pharmacodynamics","Medicinal chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mechanism_of_action","wgRelevantArticleId":5105731,"wgRequestId":"WobVFwpAAEMAAIn4w4oAAADB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3271540","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/ec/Mechanism_of_action_for_beta_blockers.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mechanism_of_action"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mechanism_of_action&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mechanism_of_action&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mechanism_of_action"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mechanism_of_action rootpage-Mechanism_of_action skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Mechanism of action</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mechanism_of_action_for_beta_blockers.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mechanism_of_action_for_beta_blockers.png/220px-Mechanism_of_action_for_beta_blockers.png" width="220" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mechanism_of_action_for_beta_blockers.png/330px-Mechanism_of_action_for_beta_blockers.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/ec/Mechanism_of_action_for_beta_blockers.png 2x" data-file-width="390" data-file-height="355" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mechanism_of_action_for_beta_blockers.png" class="internal" title="Enlarge"></a></div>
+Mechanism of action</div>
+</div>
+</div>
+<p>In <a href="/wiki/Pharmacology" title="Pharmacology">pharmacology</a>, the term <b>mechanism of action</b> (<b>MOA</b>) refers to the specific biochemical <a href="/wiki/Drug_interaction" title="Drug interaction">interaction</a> through which a <a href="/wiki/Medication" title="Medication">drug</a> substance produces its pharmacological effect.<sup id="cite_ref-spratto_1-0" class="reference"><a href="#cite_note-spratto-1">[1]</a></sup> A mechanism of action usually includes mention of the specific molecular targets to which the drug binds, such as an <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> or <a href="/wiki/Receptor_(biochemistry)" title="Receptor (biochemistry)">receptor</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Receptor sites have specific affinities for drugs based on the chemical structure of the drug, as well as the specific action that occurs there. Drugs that do not bind to receptors produce their corresponding therapeutic effect by simply interacting with chemical or physical properties in the body. Common examples of drugs that work in this way are <a href="/wiki/Antacid" title="Antacid">antacids</a> and <a href="/wiki/Laxative" title="Laxative">laxatives</a>.<sup id="cite_ref-spratto_1-1" class="reference"><a href="#cite_note-spratto-1">[1]</a></sup></p>
+<p>In comparison, a <a href="/wiki/Mode_of_action" title="Mode of action">mode of action (MoA)</a> describes functional or anatomical changes, at the cellular level, resulting from the exposure of a living organism to a substance.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Why_mechanism_of_action_is_important"><span class="tocnumber">1</span> <span class="toctext">Why mechanism of action is important</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_mechanism_of_action_is_determined"><span class="tocnumber">2</span> <span class="toctext">How mechanism of action is determined</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Microscopy-based_methods"><span class="tocnumber">2.1</span> <span class="toctext">Microscopy-based methods</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Direct_biochemical_methods"><span class="tocnumber">2.2</span> <span class="toctext">Direct biochemical methods</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Computation_inference_methods"><span class="tocnumber">2.3</span> <span class="toctext">Computation inference methods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Drugs_with_known_mechanisms_of_action"><span class="tocnumber">3</span> <span class="toctext">Drugs with known mechanisms of action</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Aspirin"><span class="tocnumber">3.1</span> <span class="toctext">Aspirin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Drugs_with_unknown_mechanisms_of_action"><span class="tocnumber">4</span> <span class="toctext">Drugs with unknown mechanisms of action</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Versus_mode_of_action"><span class="tocnumber">5</span> <span class="toctext">Versus mode of action</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Why_mechanism_of_action_is_important">Why mechanism of action is important</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=1" title="Edit section: Why mechanism of action is important">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Elucidating the mechanism of action of novel drugs and medications is important for several reasons:</p>
+<ul>
+<li>In the case of <a href="/wiki/Antimicrobial_chemotherapy" title="Antimicrobial chemotherapy">anti-infective drug</a> development, the information permits anticipation of problems relating to clinical safety. Drugs disrupting the <a href="/wiki/Cytoplasmic_membrane" class="mw-redirect" title="Cytoplasmic membrane">cytoplasmic membrane</a> or <a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chain</a>, for example, are more likely to cause <a href="/wiki/Toxicity" title="Toxicity">toxicity</a> problems than those targeting components of the cell wall (<a href="/wiki/Peptidoglycan" title="Peptidoglycan">peptidoglycan</a> or <a href="/wiki/Beta-glucan" title="Beta-glucan">β-glucans</a>) or <a href="/wiki/70S" class="mw-redirect" title="70S">70S ribosome</a>, structures which are absent in human cells.<sup id="cite_ref-:3_3-0" class="reference"><a href="#cite_note-:3-3">[3]</a></sup><sup id="cite_ref-archivesoftoxicology2017_4-0" class="reference"><a href="#cite_note-archivesoftoxicology2017-4">[4]</a></sup></li>
+<li>By knowing the interaction between a certain site of a drug and a receptor, other drugs can be formulated in a way that replicates this interaction, thus producing the same therapeutic effects. Indeed, this method is used to create new drugs.</li>
+<li>It can help identify which patients are most likely to respond to treatment. Because the <a href="/wiki/Breast_cancer" title="Breast cancer">breast cancer</a> medication <a href="/wiki/Herceptin" class="mw-redirect" title="Herceptin">trastuzumab</a> is known to target protein <a href="/wiki/HER2/neu" title="HER2/neu">HER2</a>, for example, <a href="/wiki/Neoplasm" title="Neoplasm">tumors</a> can be screened for the presence of this molecule to determine whether or not the patient will benefit from trastuzumab therapy.<sup id="cite_ref-nature2010_5-0" class="reference"><a href="#cite_note-nature2010-5">[5]</a></sup><sup id="cite_ref-cancertreatmentreviews2017_6-0" class="reference"><a href="#cite_note-cancertreatmentreviews2017-6">[6]</a></sup></li>
+<li>It can enable better <a href="/wiki/Effective_dose_(pharmacology)" title="Effective dose (pharmacology)">dosing</a> because the drug's effects on the target pathway can be monitored in the patient. <a href="/wiki/Statin" title="Statin">Statin</a> dosage, for example, is usually determined by measuring the patient’s blood <a href="/wiki/Cholesterol" title="Cholesterol">cholesterol</a> levels.<sup id="cite_ref-nature2010_5-1" class="reference"><a href="#cite_note-nature2010-5">[5]</a></sup></li>
+<li>It allows <a href="/wiki/Combination_therapy" title="Combination therapy">drugs to be combined</a> in such a way that the likelihood of drug resistance emerging is reduced. By knowing what cellular structure an anti-infective or <a href="/wiki/Chemotherapy" title="Chemotherapy">anticancer</a> drug acts upon, it is possible to administer a cocktail that inhibits multiple targets simultaneously, thereby reducing the risk that a single <a href="/wiki/Mutation" title="Mutation">mutation</a> in microbial or tumor <a href="/wiki/DNA" title="DNA">DNA</a> will lead to drug resistance and treatment failure.<sup id="cite_ref-:3_3-1" class="reference"><a href="#cite_note-:3-3">[3]</a></sup><sup id="cite_ref-currentopinioninvirology2016_7-0" class="reference"><a href="#cite_note-currentopinioninvirology2016-7">[7]</a></sup><sup id="cite_ref-tropicalparasitology2016_8-0" class="reference"><a href="#cite_note-tropicalparasitology2016-8">[8]</a></sup><sup id="cite_ref-eLIFE2013_9-0" class="reference"><a href="#cite_note-eLIFE2013-9">[9]</a></sup></li>
+<li>It may allow other indications for the drug to be identified. Discovery that <a href="/wiki/Sildenafil" title="Sildenafil">sildenafil</a> inhibits <a href="/wiki/CGMP-specific_phosphodiesterase_type_5" title="CGMP-specific phosphodiesterase type 5">phosphodiesterase-5 (PDE-5)</a> proteins, for example, enabled this drug to be <a href="/wiki/Repurposing" title="Repurposing">repurposed</a> for <a href="/wiki/Pulmonary_arterial_hypertension" class="mw-redirect" title="Pulmonary arterial hypertension">pulmonary arterial hypertension</a> treatment, since PDE-5 is expressed in pulmonary hypertensive lungs.<sup id="cite_ref-plosone2012_10-0" class="reference"><a href="#cite_note-plosone2012-10">[10]</a></sup><sup id="cite_ref-tauwebcast2014_11-0" class="reference"><a href="#cite_note-tauwebcast2014-11">[11]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="How_mechanism_of_action_is_determined">How mechanism of action is determined</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=2" title="Edit section: How mechanism of action is determined">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Microscopy-based_methods">Microscopy-based methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=3" title="Edit section: Microscopy-based methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bioactive compounds induce <a href="/wiki/Phenotype" title="Phenotype">phenotypic</a> changes in target cells, changes that are observable by <a href="/wiki/Microscopy" title="Microscopy">microscopy</a>, and which can give insight into the mechanism of action of the compound.<sup id="cite_ref-:2_12-0" class="reference"><a href="#cite_note-:2-12">[12]</a></sup> With <a href="/wiki/Antibiotic" class="mw-redirect" title="Antibiotic">antibacterial agents</a>, for example, the conversion of target cells to <a href="/wiki/Spheroplast" title="Spheroplast">spheroplasts</a> can be an indication that <a href="/wiki/Peptidoglycan" title="Peptidoglycan">peptidoglycan</a> synthesis is being targeted, and <a href="/wiki/Filamentation" title="Filamentation">filamentation</a> of target cells can be an indication that <a href="/wiki/FtsZ" title="FtsZ">FtsZ</a> or <a href="/wiki/DNA" title="DNA">DNA</a> is being targeted.<sup id="cite_ref-:3_3-2" class="reference"><a href="#cite_note-:3-3">[3]</a></sup> In the case of <a href="/wiki/Chemotherapy" title="Chemotherapy">anticancer agents</a>, <a href="/wiki/Bleb_(cell_biology)" title="Bleb (cell biology)">bleb</a> formation can be an indication that the compound is disrupting the <a href="/wiki/Cell_membrane" title="Cell membrane">plasma membrane</a>.<sup id="cite_ref-:4_13-0" class="reference"><a href="#cite_note-:4-13">[13]</a></sup> A current limitation of this approach is the time required to manually generate and interpret data, but advances in automated microscopy and image analysis software may help resolve this.<sup id="cite_ref-:3_3-3" class="reference"><a href="#cite_note-:3-3">[3]</a></sup><sup id="cite_ref-:2_12-1" class="reference"><a href="#cite_note-:2-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Direct_biochemical_methods">Direct biochemical methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=4" title="Edit section: Direct biochemical methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Direct biochemical methods include methods in which a protein or a small molecule, such as a drug candidate, is labeled and is traced throughout the body.<sup id="cite_ref-:1_14-0" class="reference"><a href="#cite_note-:1-14">[14]</a></sup> This proves to be the most direct approach to find target protein that will bind to small targets of interest, such as a basic representation of a drug outline, in order to identify the <a href="/wiki/Pharmacophore" title="Pharmacophore">pharmacophore</a> of the drug. Due to the physical interactions between the labeled molecule and a protein, biochemical methods can be used to determine the toxicity, efficacy, and the mechanism of action of the drug.</p>
+<h3><span class="mw-headline" id="Computation_inference_methods">Computation inference methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=5" title="Edit section: Computation inference methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Typically, computation inference methods are primarily used to predict protein targets for small molecule drugs based on computer based pattern recognition.<sup id="cite_ref-:1_14-1" class="reference"><a href="#cite_note-:1-14">[14]</a></sup> However, this method could also be used for finding new targets for existing or newly developed drugs. By identifying the <a href="/wiki/Pharmacophore" title="Pharmacophore">pharmacophore</a> of the drug molecule, the profiling method of pattern recognition can be carried out where a new target is identified.<sup id="cite_ref-:1_14-2" class="reference"><a href="#cite_note-:1-14">[14]</a></sup> This provides an insight at a possible mechanism of action, as it is known what certain functional components of the drug are responsible for interacting with a certain area on a protein, thus, leading to a therapeutic effect.</p>
+<h2><span class="mw-headline" id="Drugs_with_known_mechanisms_of_action">Drugs with known mechanisms of action</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=6" title="Edit section: Drugs with known mechanisms of action">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many drugs in which the mechanism of action is known. One example is aspirin.</p>
+<h3><span class="mw-headline" id="Aspirin">Aspirin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=7" title="Edit section: Aspirin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Mechanism_of_action_of_aspirin" title="Mechanism of action of aspirin">mechanism of action of aspirin</a> involves irreversible inhibition of the enzyme <a href="/wiki/Cyclooxygenase" title="Cyclooxygenase">cyclooxygenase</a>;<sup id="cite_ref-journalofmoleculargraphicsandmodelling2013_15-0" class="reference"><a href="#cite_note-journalofmoleculargraphicsandmodelling2013-15">[15]</a></sup> therefore suppressing the production of <a href="/wiki/Prostaglandin" title="Prostaglandin">prostaglandins</a> and <a href="/wiki/Thromboxane" title="Thromboxane">thromboxanes</a>, thus reducing pain and inflammation. This mechanism of action is specific to aspirin, and is not constant for all <a href="/wiki/Nonsteroidal_anti-inflammatory_drug" title="Nonsteroidal anti-inflammatory drug">nonsteroidal anti-inflammatory drugs</a> (NSAIDs). Rather, aspirin is the only NSAID that irreversibly inhibits COX-1.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Drugs_with_unknown_mechanisms_of_action">Drugs with unknown mechanisms of action</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=8" title="Edit section: Drugs with unknown mechanisms of action">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some drug mechanisms of action are still unknown. However, even though the mechanism of action of a certain drug is unknown, the drug still functions; it is just unknown or unclear how the drug interacts with receptors and produces its therapeutic effect.</p>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Acamprosate" title="Acamprosate">Acamprosate</a></li>
+<li><a href="/wiki/Antidepressants" class="mw-redirect" title="Antidepressants">Antidepressants</a></li>
+<li><a href="/wiki/Armodafinil" title="Armodafinil">Armodafinil</a></li>
+<li><a href="/wiki/Cyclobenzaprine" title="Cyclobenzaprine">Cyclobenzaprine</a></li>
+<li><a href="/wiki/Demeclocycline" title="Demeclocycline">Demeclocycline</a></li>
+<li><a href="/wiki/Fabomotizole" title="Fabomotizole">Fabomotizole</a></li>
+<li><a href="/wiki/Lithium_(medication)" title="Lithium (medication)">Lithium</a></li>
+<li><a href="/wiki/Meprobamate" title="Meprobamate">Meprobamate</a></li>
+<li><a href="/wiki/Methocarbamol" title="Methocarbamol">Methocarbamol</a></li>
+<li><a href="/wiki/Paracetamol" title="Paracetamol">Paracetamol</a></li>
+<li><a href="/wiki/Phenytoin" title="Phenytoin">Phenytoin</a></li>
+<li><a href="/wiki/PRL-8-53" title="PRL-8-53">PRL-8-53</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Versus_mode_of_action">Versus mode of action</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=9" title="Edit section: Versus mode of action">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In some literature articles, the term mechanism of action and <a href="/wiki/Mode_of_action" title="Mode of action">mode of action (MoA)</a> are used interchangeably; typically referring to the way in which the drug interacts and produces a medical effect. However, in actuality, a mode of action describes functional or anatomical changes, at the cellular level, resulting from the exposure of a living organism to a substance.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> This differs from a mechanism of action, as it is a more specific term that focuses on the interaction between the drug itself and an <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> or <a href="/wiki/Receptor_(biochemistry)" title="Receptor (biochemistry)">receptor</a> and its particular form of interaction, whether through <a href="/wiki/Enzyme_inhibitor" title="Enzyme inhibitor">inhibition</a>, <a href="/wiki/Activation" title="Activation">activation</a>, <a href="/wiki/Agonism" title="Agonism">agonism</a>, or <a href="/wiki/Receptor_antagonist" title="Receptor antagonist">antagonism</a>. Furthermore, the term mechanism of action is the main term that is primarily used in pharmacology, whereas mode of action will more often appear in the field of microbiology or certain aspects of biology.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mode_of_action" title="Mode of action">Mode of action (MoA)</a></li>
+<li><a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">Pharmacodynamics</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-spratto-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-spratto_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-spratto_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Spratto, G.R.; Woods, A.L. (2010). <i>Delmar Nurse's Drug Handbook</i>. Cengage Learning. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4390-5616-5" title="Special:BookSources/978-1-4390-5616-5">978-1-4390-5616-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Delmar+Nurse%27s+Drug+Handbook&amp;rft.pub=Cengage+Learning&amp;rft.date=2010&amp;rft.isbn=978-1-4390-5616-5&amp;rft.au=Spratto%2C+G.R.%3B+Woods%2C+A.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Grant, R.L.; Combs, A.B.; Acosta, D. (2010) "Experimental Models for the Investigation of Toxicological Mechanisms". In McQueen, C.A. <i>Comprehensive Toxicology</i> (2nd ed.). Oxford: Elsevier. p. 204. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-08-046884-6" title="Special:BookSources/978-0-08-046884-6">978-0-08-046884-6</a>.</span></li>
+<li id="cite_note-:3-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:3_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Cushnie, T.P.; O’Driscoll, N.H.; Lamb, A.J. (2016). <a rel="nofollow" class="external text" href="https://zenodo.org/record/883501#.WdiUZ1uCzIU">"Morphological and ultrastructural changes in bacterial cells as an indicator of antibacterial mechanism of action"</a>. <i>Cellular and Molecular Life Sciences</i>. <b>73</b> (23): 4471–4492. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00018-016-2302-2">10.1007/s00018-016-2302-2</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27392605">27392605</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cellular+and+Molecular+Life+Sciences&amp;rft.atitle=Morphological+and+ultrastructural+changes+in+bacterial+cells+as+an+indicator+of+antibacterial+mechanism+of+action&amp;rft.volume=73&amp;rft.issue=23&amp;rft.pages=4471-4492&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1007%2Fs00018-016-2302-2&amp;rft_id=info%3Apmid%2F27392605&amp;rft.au=Cushnie%2C+T.P.&amp;rft.au=O%E2%80%99Driscoll%2C+N.H.&amp;rft.au=Lamb%2C+A.J.&amp;rft_id=https%3A%2F%2Fzenodo.org%2Frecord%2F883501%23.WdiUZ1uCzIU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-archivesoftoxicology2017-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-archivesoftoxicology2017_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chang, C.C.; Slavin, M.A.; Chen, S.C. (2017). "New developments and directions in the clinical application of the echinocandins". <i>Archives of Toxicology</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00204-016-1916-3">10.1007/s00204-016-1916-3</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/28180946">28180946</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Archives+of+Toxicology&amp;rft.atitle=New+developments+and+directions+in+the+clinical+application+of+the+echinocandins&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1007%2Fs00204-016-1916-3&amp;rft_id=info%3Apmid%2F28180946&amp;rft.au=Chang%2C+C.C.%3B+Slavin%2C+M.A.%3B+Chen%2C+S.C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-nature2010-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nature2010_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nature2010_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">No authors listed (2010). "Mechanism matters". <i>Nature Medicine</i>. <b>16</b> (4): 347. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnm0410-347">10.1038/nm0410-347</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20376007">20376007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Medicine&amp;rft.atitle=Mechanism+matters&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=347&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1038%2Fnm0410-347&amp;rft_id=info%3Apmid%2F20376007&amp;rft.au=No+authors+listed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cancertreatmentreviews2017-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-cancertreatmentreviews2017_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Joensuu, H. (2017). <a rel="nofollow" class="external text" href="https://helda.helsinki.fi/handle/10138/176779">"Escalating and de-escalating treatment in HER2-positive early breast cancer"</a>. <i>Cancer Treatment Reviews</i>. <b>52</b>: 1–11. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ctrv.2016.11.002">10.1016/j.ctrv.2016.11.002</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27866067">27866067</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cancer+Treatment+Reviews&amp;rft.atitle=Escalating+and+de-escalating+treatment+in+HER2-positive+early+breast+cancer&amp;rft.volume=52&amp;rft.pages=1-11&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ctrv.2016.11.002&amp;rft_id=info%3Apmid%2F27866067&amp;rft.au=Joensuu%2C+H.&amp;rft_id=https%3A%2F%2Fhelda.helsinki.fi%2Fhandle%2F10138%2F176779&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-currentopinioninvirology2016-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-currentopinioninvirology2016_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cihlar, T.; Fordyce, M. (2016). "Current status and prospects of HIV treatment". <i>Current Opinion in Virology</i>. <b>18</b>: 50–56. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.coviro.2016.03.004">10.1016/j.coviro.2016.03.004</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27023283">27023283</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Current+Opinion+in+Virology&amp;rft.atitle=Current+status+and+prospects+of+HIV+treatment&amp;rft.volume=18&amp;rft.pages=50-56&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1016%2Fj.coviro.2016.03.004&amp;rft_id=info%3Apmid%2F27023283&amp;rft.au=Cihlar%2C+T.%3B+Fordyce%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-tropicalparasitology2016-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-tropicalparasitology2016_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Antony, H.A.; Parija, S.C. (2016). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4778180">"Antimalarial drug resistance: An overview"</a>. <i>Tropical Parasitology</i>. <b>6</b> (1): 30–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.4103%2F2229-5070.175081">10.4103/2229-5070.175081</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4778180">4778180</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tropical+Parasitology&amp;rft.atitle=Antimalarial+drug+resistance%3A+An+overview&amp;rft.volume=6&amp;rft.issue=1&amp;rft.pages=30-41&amp;rft.date=2016&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4778180&amp;rft_id=info%3Adoi%2F10.4103%2F2229-5070.175081&amp;rft.au=Antony%2C+H.A.%3B+Parija%2C+S.C.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4778180&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-eLIFE2013-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-eLIFE2013_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bozic, I.; Reiter, J.G.; Allen, B.; Antal, T.; Chatterjee, K.; Shah, P.; Moon, Y.S.; Yaqubie, A.; Kelly, N.; Le, D.T.; Lipson, E.J.; Chapman, P.B.; Diaz, L.A.; Vogelstein, B., Nowak, M.A. (2013). "Evolutionary dynamics of cancer in response to targeted combination therapy". <i>eLIFE</i>. <b>2</b>: Article ID e00747. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.7554%2FeLife.00747">10.7554/eLife.00747</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23805382">23805382</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=eLIFE&amp;rft.atitle=Evolutionary+dynamics+of+cancer+in+response+to+targeted+combination+therapy&amp;rft.volume=2&amp;rft.pages=Article+ID+e00747&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.7554%2FeLife.00747&amp;rft_id=info%3Apmid%2F23805382&amp;rft.au=Bozic%2C+I.%3B+Reiter%2C+J.G.%3B+Allen%2C+B.%3B+Antal%2C+T.%3B+Chatterjee%2C+K.%3B+Shah%2C+P.%3B+Moon%2C+Y.S.%3B+Yaqubie%2C+A.%3B+Kelly%2C+N.%3B+Le%2C+D.T.%3B+Lipson%2C+E.J.%3B+Chapman%2C+P.B.%3B+Diaz%2C+L.A.%3B+Vogelstein%2C+B.%2C+Nowak%2C+M.A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-plosone2012-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-plosone2012_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tari, L.; Vo, N.; Liang, S.; Patel, J.; Baral, C.; Cai, J. (2012). <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040946&amp;type=printable">"Identifying novel drug indications through automated reasoning"</a>. <i>PLoS One</i>. <b>7</b> (7): Article e40946. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1371%2Fjournal.pone.0040946">10.1371/journal.pone.0040946</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22911721">22911721</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLoS+One&amp;rft.atitle=Identifying+novel+drug+indications+through+automated+reasoning&amp;rft.volume=7&amp;rft.issue=7&amp;rft.pages=Article+e40946&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0040946&amp;rft_id=info%3Apmid%2F22911721&amp;rft.au=Tari%2C+L.%3B+Vo%2C+N.%3B+Liang%2C+S.%3B+Patel%2C+J.%3B+Baral%2C+C.%3B+Cai%2C+J.&amp;rft_id=http%3A%2F%2Fjournals.plos.org%2Fplosone%2Farticle%2Ffile%3Fid%3D10.1371%2Fjournal.pone.0040946%26type%3Dprintable&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-tauwebcast2014-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-tauwebcast2014_11-0">^</a></b></span> <span class="reference-text"><cite class="citation audio-visual">Hayardeny, L. (2014). <a rel="nofollow" class="external text" href="http://video.tau.ac.il/events/index.php?option=com_k2&amp;view=item&amp;id=5005:why-is-it-important-to-know-the-mode-of-action-of-drugs&amp;Itemid=557"><i>Why is it important to know the mode of action of drugs?</i></a> <span style="font-size:85%;">(Conference presentation)</span>. New Frontiers in Neuroscience and Methods of Transdisciplinary Education Workshop, Tel Aviv University, Israel: Tel Aviv University<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+is+it+important+to+know+the+mode+of+action+of+drugs%3F&amp;rft.place=New+Frontiers+in+Neuroscience+and+Methods+of+Transdisciplinary+Education+Workshop%2C+Tel+Aviv+University%2C+Israel&amp;rft.pub=Tel+Aviv+University&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fvideo.tau.ac.il%2Fevents%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D5005%3Awhy-is-it-important-to-know-the-mode-of-action-of-drugs%26Itemid%3D557&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:2-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Fetz, V.; Prochnow, H.; Brönstrup, M.; Sasse, F. (2016). "Target identification by image analysis". <i>Natural Product Reports</i>. <b>33</b> (5): 655–667. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1039%2Fc5np00113g">10.1039/c5np00113g</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26777141">26777141</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Natural+Product+Reports&amp;rft.atitle=Target+identification+by+image+analysis&amp;rft.volume=33&amp;rft.issue=5&amp;rft.pages=655-667&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1039%2Fc5np00113g&amp;rft_id=info%3Apmid%2F26777141&amp;rft.au=Fetz%2C+V.&amp;rft.au=Prochnow%2C+H.&amp;rft.au=Br%C3%B6nstrup%2C+M.&amp;rft.au=Sasse%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:4-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-:4_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dubovskii, P.V.; Vassilevski, A.A.; Kozlov, S.A.; Feofanov, A.V.; Grishin, E.V.; Efremov, R.G. (2015). "Latarcins: versatile spider venom peptides". <i>Cellular and Molecular Life Sciences</i>. <b>72</b> (23): 4501–4522. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00018-015-2016-x">10.1007/s00018-015-2016-x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26286896">26286896</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cellular+and+Molecular+Life+Sciences&amp;rft.atitle=Latarcins%3A+versatile+spider+venom+peptides&amp;rft.volume=72&amp;rft.issue=23&amp;rft.pages=4501-4522&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1007%2Fs00018-015-2016-x&amp;rft_id=info%3Apmid%2F26286896&amp;rft.au=Dubovskii%2C+P.V.&amp;rft.au=Vassilevski%2C+A.A.&amp;rft.au=Kozlov%2C+S.A.&amp;rft.au=Feofanov%2C+A.V.&amp;rft.au=Grishin%2C+E.V.&amp;rft.au=Efremov%2C+R.G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Schenone, M.; Dančík, V.; Wagner, B.K.; Clemons, P.A. (2013). <a rel="nofollow" class="external text" href="http://www.nature.com/nchembio/journal/v9/n4/full/nchembio.1199.html">"Target identification and mechanism of action in chemical biology and drug discovery"</a>. <i>Nature Chemical Biology</i>. <b>9</b> (4): 232–240. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnchembio.1199">10.1038/nchembio.1199</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1552-4450">1552-4450</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Chemical+Biology&amp;rft.atitle=Target+identification+and+mechanism+of+action+in+chemical+biology+and+drug+discovery&amp;rft.volume=9&amp;rft.issue=4&amp;rft.pages=232-240&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1038%2Fnchembio.1199&amp;rft.issn=1552-4450&amp;rft.aulast=Schenone&amp;rft.aufirst=M.&amp;rft.au=Dan%C4%8D%C3%ADk%2C+V.&amp;rft.au=Wagner%2C+B.K.&amp;rft.au=Clemons%2C+P.A.&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnchembio%2Fjournal%2Fv9%2Fn4%2Ffull%2Fnchembio.1199.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-journalofmoleculargraphicsandmodelling2013-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-journalofmoleculargraphicsandmodelling2013_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tóth, L.; Muszbek, L.;Komaromi, I. (2013). "Mechanism of the irreversible inhibition of human cyclooxygenase-1 by aspirin as predicted by QM/MM calculations". <i>Journal of Molecular Graphics and Modelling</i>. <b>40</b>: 99–109. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.jmgm.2012.12.013">10.1016/j.jmgm.2012.12.013</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23384979">23384979</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Molecular+Graphics+and+Modelling&amp;rft.atitle=Mechanism+of+the+irreversible+inhibition+of+human+cyclooxygenase-1+by+aspirin+as+predicted+by+QM%2FMM+calculations&amp;rft.volume=40&amp;rft.pages=99-109&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jmgm.2012.12.013&amp;rft_id=info%3Apmid%2F23384979&amp;rft.au=T%C3%B3th%2C+L.%3B+Muszbek%2C+L.%3BKomaromi%2C+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sharma, S.; Sharma, S. C. (1997). "An update on eicosanoids and inhibitors of cyclooxygenase enzyme systems". <i>Indian Journal of Experimental Biology</i>. <b>35</b> (10): 1025–1031. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0019-5189">0019-5189</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9475035">9475035</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Indian+Journal+of+Experimental+Biology&amp;rft.atitle=An+update+on+eicosanoids+and+inhibitors+of+cyclooxygenase+enzyme+systems&amp;rft.volume=35&amp;rft.issue=10&amp;rft.pages=1025-1031&amp;rft.date=1997&amp;rft_id=info%3Apmid%2F9475035&amp;rft.issn=0019-5189&amp;rft.aulast=Sharma&amp;rft.aufirst=S.&amp;rft.au=Sharma%2C+S.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://cfpub.epa.gov/ncea/iris_drafts/dioxin/nas-review/pdfs/part3/dioxin_pt3_ch03_oct2004.pdf">"Mechanisms and mode of dioxin action"</a> <span style="font-size:85%;">(PDF)</span>. U.S. Environmental Protection Agency<span class="reference-accessdate">. Retrieved <span class="nowrap">11 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mechanisms+and+mode+of+dioxin+action&amp;rft.pub=U.S.+Environmental+Protection+Agency&amp;rft_id=https%3A%2F%2Fcfpub.epa.gov%2Fncea%2Firis_drafts%2Fdioxin%2Fnas-review%2Fpdfs%2Fpart3%2Fdioxin_pt3_ch03_oct2004.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanism+of+action" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Concepts_in_pharmacology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#efefef">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pharmacology" title="Template:Pharmacology"><abbr title="View this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pharmacology" title="Template talk:Pharmacology"><abbr title="Discuss this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pharmacology&amp;action=edit"><abbr title="Edit this template" style=";background:#efefef;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Concepts_in_pharmacology" style="font-size:114%;margin:0 4em">Concepts in <a href="/wiki/Pharmacology" title="Pharmacology">pharmacology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">Pharmacokinetics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADME" title="ADME">(L)ADME</a>: (<a href="/wiki/Liberation_(pharmacology)" title="Liberation (pharmacology)">Liberation</a>)</li>
+<li><a href="/wiki/Absorption_(pharmacokinetics)" class="mw-redirect" title="Absorption (pharmacokinetics)">Absorption</a></li>
+<li><a href="/wiki/Distribution_(pharmacology)" title="Distribution (pharmacology)">Distribution</a></li>
+<li><a href="/wiki/Drug_metabolism" title="Drug metabolism">Metabolism</a></li>
+<li><a href="/wiki/Excretion" title="Excretion">Excretion</a> (<a href="/wiki/Clearance_(medicine)" class="mw-redirect" title="Clearance (medicine)">Clearance</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Loading_dose" title="Loading dose">Loading dose</a></li>
+<li><a href="/wiki/Volume_of_distribution" title="Volume of distribution">Volume of distribution</a> (<a href="/wiki/Initial_volume_of_distribution" title="Initial volume of distribution">Initial</a>)</li>
+<li><a href="/wiki/Rate_of_infusion" title="Rate of infusion">Rate of infusion</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Compartment_(pharmacokinetics)" title="Compartment (pharmacokinetics)">Compartment</a></li>
+<li><a href="/wiki/Bioequivalence" title="Bioequivalence">Bioequivalence</a></li>
+<li><a href="/wiki/Bioavailability" title="Bioavailability">Bioavailability</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Onset_of_action" title="Onset of action">Onset of action</a></li>
+<li><a href="/wiki/Biological_half-life" title="Biological half-life">Biological half-life</a></li>
+<li><a href="/wiki/Mean_residence_time" title="Mean residence time">Mean residence time</a></li>
+<li><a href="/wiki/Plasma_protein_binding" title="Plasma protein binding">Plasma protein binding</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Therapeutic_index" title="Therapeutic index">Therapeutic index</a> (<a href="/wiki/Median_lethal_dose" title="Median lethal dose">Median lethal dose</a>, <a href="/wiki/Effective_dose_(pharmacology)" title="Effective dose (pharmacology)">Effective dose</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">Pharmacodynamics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Mechanism of action</a></li>
+<li><a href="/wiki/Toxicity" title="Toxicity">Toxicity</a> (<a href="/wiki/Neurotoxicology" class="mw-redirect" title="Neurotoxicology">Neurotoxicology</a>)</li>
+<li><a href="/wiki/Dose%E2%80%93response_relationship" title="Dose–response relationship">Dose–response relationship</a> (<a href="/wiki/Efficacy#Pharmacology" title="Efficacy">Efficacy</a>, <a href="/wiki/Potency_(pharmacology)" title="Potency (pharmacology)">Potency</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Antimicrobial_pharmacodynamics" title="Antimicrobial pharmacodynamics">Antimicrobial pharmacodynamics</a>: <a href="/wiki/Minimum_inhibitory_concentration" title="Minimum inhibitory concentration">Minimum inhibitory concentration</a> (<a href="/wiki/Bacteriostatic_agent" title="Bacteriostatic agent">Bacteriostatic</a>)</li>
+<li><a href="/wiki/Minimum_bactericidal_concentration" title="Minimum bactericidal concentration">Minimum bactericidal concentration</a> (<a href="/wiki/Bactericide" title="Bactericide">Bactericide</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Agonism and<br />
+antagonism</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agonist" title="Agonist">Agonist</a>: <a href="/wiki/Inverse_agonist" title="Inverse agonist">Inverse agonist</a></li>
+<li><a href="/wiki/Irreversible_agonist" title="Irreversible agonist">Irreversible agonist</a></li>
+<li><a href="/wiki/Partial_agonist" title="Partial agonist">Partial agonist</a></li>
+<li><a href="/wiki/Superagonist" title="Superagonist">Superagonist</a></li>
+<li><a href="/wiki/Physiological_agonism_and_antagonism" title="Physiological agonism and antagonism">Physiological agonist</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Receptor_antagonist" title="Receptor antagonist">Antagonist</a>: <a href="/wiki/Competitive_antagonist" class="mw-redirect" title="Competitive antagonist">Competitive antagonist</a></li>
+<li><a href="/wiki/Irreversible_antagonist" title="Irreversible antagonist">Irreversible antagonist</a></li>
+<li><a href="/wiki/Physiological_agonism_and_antagonism" title="Physiological agonism and antagonism">Physiological antagonist</a></li>
+</ul>
+<ul>
+<li>Other: <a href="/wiki/Molecular_binding" title="Molecular binding">Binding</a></li>
+<li><a href="/wiki/Dissociation_constant#Protein-ligand_binding" title="Dissociation constant">Affinity</a></li>
+<li><a href="/wiki/Binding_selectivity" title="Binding selectivity">Binding selectivity</a></li>
+<li><a href="/wiki/Functional_selectivity" title="Functional selectivity">Functional selectivity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Drug_tolerance" title="Drug tolerance">Drug tolerance</a>: <a href="/wiki/Tachyphylaxis" title="Tachyphylaxis">Tachyphylaxis</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Drug_resistance" title="Drug resistance">Drug resistance</a>: <a href="/wiki/Antibiotic_resistance" class="mw-redirect" title="Antibiotic resistance">Antibiotic resistance</a></li>
+<li><a href="/wiki/Multiple_drug_resistance" title="Multiple drug resistance">Multiple drug resistance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Drug_discovery" title="Drug discovery">Drug discovery</a><br />
+strategies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classical_pharmacology" title="Classical pharmacology">Classical pharmacology</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Reverse_pharmacology" title="Reverse pharmacology">Reverse pharmacology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related<br />
+fields/subfields</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pharmacogenetics" title="Pharmacogenetics">Pharmacogenetics</a></li>
+<li><a href="/wiki/Pharmacogenomics" title="Pharmacogenomics">Pharmacogenomics</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Neuropsychopharmacology" title="Neuropsychopharmacology">Neuropsychopharmacology</a> (<a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a>, <a href="/wiki/Psychopharmacology" title="Psychopharmacology">Psychopharmacology</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Topics_in_medicinal_chemistry" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Medicinal_chemistry" title="Template:Medicinal chemistry"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Medicinal_chemistry" title="Template talk:Medicinal chemistry"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Medicinal_chemistry&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Topics_in_medicinal_chemistry" style="font-size:114%;margin:0 4em">Topics in <a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">medicinal chemistry</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADME" title="ADME">ADME</a></li>
+<li><a href="/wiki/Bioavailability" title="Bioavailability">Bioavailability</a></li>
+<li><a href="/wiki/Chemogenomics" title="Chemogenomics">Chemogenomics</a></li>
+<li><a href="/wiki/Drug_class" title="Drug class">Drug class</a></li>
+<li><a href="/wiki/Drug_delivery" title="Drug delivery">Drug delivery</a></li>
+<li><a href="/wiki/Drug_design" title="Drug design">Drug design</a></li>
+<li><a href="/wiki/Drug_discovery" title="Drug discovery">Drug discovery</a></li>
+<li><a href="/wiki/Targeted_drug_delivery" title="Targeted drug delivery">Drug targeting</a></li>
+<li><a href="/wiki/Enzyme_inhibitor" title="Enzyme inhibitor">Enzyme inhibitor</a></li>
+<li><a href="/wiki/Ligand_efficiency" title="Ligand efficiency">Ligand efficiency</a></li>
+<li><a class="mw-selflink selflink">Mechanism of action</a></li>
+<li><a href="/wiki/Mode_of_action" title="Mode of action">Mode of action</a></li>
+<li><a href="/wiki/New_chemical_entity" title="New chemical entity">New chemical entity</a></li>
+<li><a href="/wiki/Pharmacodynamics" title="Pharmacodynamics">Pharmacodynamics</a></li>
+<li><a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">Pharmacokinetics</a></li>
+<li><a href="/wiki/Pharmacology" title="Pharmacology">Pharmacology</a></li>
+<li><a href="/wiki/Pharmacophore" title="Pharmacophore">Pharmacophore</a></li>
+<li><a href="/wiki/Quantitative_structure-activity_relationship" class="mw-redirect" title="Quantitative structure-activity relationship">Quantitative structure-activity relationship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Tabletten.JPG" class="image"><img alt="Tabletten.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tabletten.JPG/24px-Tabletten.JPG" width="24" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tabletten.JPG/36px-Tabletten.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tabletten.JPG/48px-Tabletten.JPG 2x" data-file-width="544" data-file-height="450" /></a></span><a href="/wiki/Portal:Pharmacy_and_pharmacology" title="Portal:Pharmacy and pharmacology">Pharmacy and pharmacology portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20180216111808
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 1325/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58711/2097152 bytes
+Template argument size: 1965/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 3.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  204.383      1 -total
+ 73.55%  150.318      1 Template:Reflist
+ 26.36%   53.878     13 Template:Cite_journal
+ 14.67%   29.991      1 Template:Cite_book
+ 11.18%   22.857      1 Template:ISBN
+ 10.01%   20.463      1 Template:Cmn
+  8.41%   17.184      1 Template:Div_col
+  7.91%   16.159      2 Template:Navbox
+  7.80%   15.940      1 Template:Pharmacology
+  6.15%   12.579      1 Template:Portal_bar
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5105731-0!canonical and timestamp 20180216111808 and revision id 804183297
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mechanism_of_action&amp;oldid=804183297">https://en.wikipedia.org/w/index.php?title=Mechanism_of_action&amp;oldid=804183297</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pharmacology" title="Category:Pharmacology">Pharmacology</a></li><li><a href="/wiki/Category:Pharmacodynamics" title="Category:Pharmacodynamics">Pharmacodynamics</a></li><li><a href="/wiki/Category:Medicinal_chemistry" title="Category:Medicinal chemistry">Medicinal chemistry</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">Pages using div col without cols and colwidth parameters</a></li><li><a href="/wiki/Category:Pages_using_Columns-list_with_deprecated_parameters" title="Category:Pages using Columns-list with deprecated parameters">Pages using Columns-list with deprecated parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mechanism+of+action" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mechanism+of+action" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mechanism_of_action" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Mechanism_of_action" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mechanism_of_action">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mechanism_of_action&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mechanism_of_action&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mechanism_of_action" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mechanism_of_action" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mechanism_of_action&amp;oldid=804183297" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mechanism_of_action&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3271540" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mechanism_of_action&amp;id=804183297" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mechanism+of+action">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mechanism+of+action&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mechanism_of_action&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%84%D9%8A%D8%A9_%D8%B9%D9%85%D9%84_(%D8%B5%D9%8A%D8%AF%D9%84%D8%A9)" title="آلية عمل (صيدلة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%D8%B3%D9%85_%D8%B9%D9%85%D9%84" title="مکانیسم عمل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8%E6%A9%9F%E5%BA%8F" title="作用機序 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Mecanismo_de_a%C3%A7%C3%A3o" title="Mecanismo de ação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Mehanizam_akcije" title="Mehanizam akcije – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Mehanizam_akcije" title="Mehanizam akcije – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3271540#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 7 October 2017, at 09:10.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mechanism_of_action&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.258","ppvisitednodes":{"value":1325,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58711,"limit":2097152},"templateargumentsize":{"value":1965,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  204.383      1 -total"," 73.55%  150.318      1 Template:Reflist"," 26.36%   53.878     13 Template:Cite_journal"," 14.67%   29.991      1 Template:Cite_book"," 11.18%   22.857      1 Template:ISBN"," 10.01%   20.463      1 Template:Cmn","  8.41%   17.184      1 Template:Div_col","  7.91%   16.159      2 Template:Navbox","  7.80%   15.940      1 Template:Pharmacology","  6.15%   12.579      1 Template:Portal_bar"]},"scribunto":{"limitreport-timeusage":{"value":"0.095","limit":"10.000"},"limitreport-memusage":{"value":3775746,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20180216111808","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

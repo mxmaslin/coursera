@@ -1,0 +1,1352 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Outline of natural language processing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Outline_of_natural_language_processing","wgTitle":"Outline of natural language processing","wgCurRevisionId":824387096,"wgRevisionId":824387096,"wgArticleId":37764426,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 maint: Uses editors parameter","Wikipedia articles needing reorganization from May 2017","Wikipedia articles needing style editing from May 2017","All articles needing style editing","Pages using div col without cols and colwidth parameters","Pages using Columns-list with deprecated parameters","Natural language processing","Wikipedia outlines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Outline_of_natural_language_processing","wgRelevantArticleId":37764426,"wgRequestId":"WoXq7gpAICgAACXF9VwAAADW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"List_of_chatterbots","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Outline_of_natural_language_processing#Chatterbots","wgWikibaseItemId":"Q7112689","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Outline_of_natural_language_processing#Chatterbots"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Outline_of_natural_language_processing#Chatterbots"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Outline_of_natural_language_processing rootpage-Outline_of_natural_language_processing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Outline of natural language processing</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=List_of_chatterbots&amp;redirect=no" class="mw-redirect" title="List of chatterbots">List of chatterbots</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Ambox rewrite.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ambox_rewrite.svg/40px-Ambox_rewrite.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ambox_rewrite.svg/60px-Ambox_rewrite.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ambox_rewrite.svg/80px-Ambox_rewrite.svg.png 2x" data-file-width="620" data-file-height="620" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>may be in need of reorganization to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style/Layout" title="Wikipedia:Manual of Style/Layout">layout guidelines</a></b>. <span class="hide-when-compact">Please help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit">editing the article</a> to make improvements to the overall structure.</span> <small><i>(May 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>. <span class="hide-when-compact">See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(May 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p><b><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></b> – computer activity in which computers are entailed to <a href="/wiki/Natural_language_understanding" title="Natural language understanding">analyze, understand</a>, <a href="/wiki/Natural_language_generation" title="Natural language generation">alter, or generate</a> <a href="/wiki/Natural_language" title="Natural language">natural language</a>. This includes the <a href="/wiki/Automation" title="Automation">automation</a> of any or all linguistic forms, activities, or methods of communication, such as <a href="/wiki/Conversation" title="Conversation">conversation</a>, correspondence, <a href="/wiki/Reading_(process)" title="Reading (process)">reading</a>, <a href="/wiki/Composition_(language)" title="Composition (language)">written composition</a>, <a href="/wiki/Dictation_(exercise)" title="Dictation (exercise)">dictation</a>, <a href="/wiki/Publishing" title="Publishing">publishing</a>, <a href="/wiki/Translation" title="Translation">translation</a>, <a href="/wiki/Lip_reading" title="Lip reading">lip reading</a>, and so on. Natural language processing is also the name of the branch of <a href="/wiki/Computer_science" title="Computer science">computer science</a>, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, and <a href="/wiki/Linguistics" title="Linguistics">linguistics</a> concerned with enabling computers to engage in communication using natural language(s) in all forms, including but not limited to <a href="/wiki/Speech" title="Speech">speech</a>, <a href="/wiki/Written_language" title="Written language">print</a>, <a href="/wiki/Writing" title="Writing">writing</a>, and <a href="/wiki/Sign_language" title="Sign language">signing</a>.</p>
+<div class="toclimit-2">
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Natural_language_processing"><span class="tocnumber">1</span> <span class="toctext">Natural language processing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Prerequisite_technologies"><span class="tocnumber">2</span> <span class="toctext">Prerequisite technologies</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Subfields_of_natural_language_processing"><span class="tocnumber">3</span> <span class="toctext">Subfields of natural language processing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Related_fields"><span class="tocnumber">4</span> <span class="toctext">Related fields</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Structures_used_in_natural_language_processing"><span class="tocnumber">5</span> <span class="toctext">Structures used in natural language processing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Processes_of_NLP"><span class="tocnumber">6</span> <span class="toctext">Processes of NLP</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Applications"><span class="tocnumber">6.1</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Component_processes"><span class="tocnumber">6.2</span> <span class="toctext">Component processes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Component_processes_of_natural_language_understanding"><span class="tocnumber">6.2.1</span> <span class="toctext">Component processes of natural language understanding</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Component_processes_of_natural_language_generation"><span class="tocnumber">6.2.2</span> <span class="toctext">Component processes of natural language generation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#History_of_natural_language_processing"><span class="tocnumber">7</span> <span class="toctext">History of natural language processing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Timeline_of_NLP_software"><span class="tocnumber">7.1</span> <span class="toctext">Timeline of NLP software</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#General_natural_language_processing_concepts"><span class="tocnumber">8</span> <span class="toctext">General natural language processing concepts</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Natural_language_processing_tools"><span class="tocnumber">9</span> <span class="toctext">Natural language processing tools</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Corpora"><span class="tocnumber">9.1</span> <span class="toctext">Corpora</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Natural_language_processing_toolkits"><span class="tocnumber">9.2</span> <span class="toctext">Natural language processing toolkits</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Named_entity_recognizers"><span class="tocnumber">9.3</span> <span class="toctext">Named entity recognizers</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Translation_software"><span class="tocnumber">9.4</span> <span class="toctext">Translation software</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Other_software"><span class="tocnumber">9.5</span> <span class="toctext">Other software</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Chatterbots"><span class="tocnumber">9.6</span> <span class="toctext">Chatterbots</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Classic_chatterbots"><span class="tocnumber">9.6.1</span> <span class="toctext">Classic chatterbots</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#General_chatterbots"><span class="tocnumber">9.6.2</span> <span class="toctext">General chatterbots</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Instant_messenger_chatterbots"><span class="tocnumber">9.6.3</span> <span class="toctext">Instant messenger chatterbots</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Natural_Language_Understanding_chatterbots"><span class="tocnumber">9.6.4</span> <span class="toctext">Natural Language Understanding chatterbots</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Natural_language_processing_organizations"><span class="tocnumber">10</span> <span class="toctext">Natural language processing organizations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Natural_language_processing-related_conferences"><span class="tocnumber">10.1</span> <span class="toctext">Natural language processing-related conferences</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Companies_involved_in_natural_language_processing"><span class="tocnumber">10.2</span> <span class="toctext">Companies involved in natural language processing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Natural_language_processing_publications"><span class="tocnumber">11</span> <span class="toctext">Natural language processing publications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Books"><span class="tocnumber">11.1</span> <span class="toctext">Books</span></a>
+<ul>
+<li class="toclevel-3 tocsection-30"><a href="#Book_series"><span class="tocnumber">11.1.1</span> <span class="toctext">Book series</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-31"><a href="#Journals"><span class="tocnumber">11.2</span> <span class="toctext">Journals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Persons_influential_in_natural_language_processing"><span class="tocnumber">12</span> <span class="toctext">Persons influential in natural language processing</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Natural_language_processing">Natural language processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=1" title="Edit section: Natural language processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Natural language processing can be described as all of the following:</p>
+<ul>
+<li>A field of <a href="/wiki/Science" title="Science">science</a> – systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<ul>
+<li>An <a href="/wiki/Applied_science" title="Applied science">applied science</a> – field that applies human knowledge to build or design useful things.
+<ul>
+<li>A field of <a href="/wiki/Computer_science" title="Computer science">computer science</a> – scientific and practical approach to computation and its applications.
+<ul>
+<li>A branch of <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> – intelligence of machines and robots and the branch of computer science that aims to create it.</li>
+<li>A subfield of <a href="/wiki/Computational_linguistics" title="Computational linguistics">computational linguistics</a> – interdisciplinary field dealing with the statistical or rule-based modeling of natural language from a computational perspective.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>An application of <a href="/wiki/Engineering" title="Engineering">engineering</a> – science, skill, and profession of acquiring and applying scientific, economic, social, and practical knowledge, in order to design and also build structures, machines, devices, systems, materials and processes.
+<ul>
+<li>An application of <a href="/wiki/Software_engineering" title="Software engineering">software engineering</a> – application of a systematic, disciplined, quantifiable approach to the design, development, operation, and maintenance of software, and the study of these approaches; that is, the application of engineering to software.<sup id="cite_ref-BoDu04_2-0" class="reference"><a href="#cite_note-BoDu04-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<ul>
+<li>A subfield of <a href="/wiki/Computer_programming" title="Computer programming">computer programming</a> – process of designing, writing, testing, debugging, and maintaining the source code of computer programs. This source code is written in one or more programming languages (such as Java, C++, C#, Python, etc.). The purpose of programming is to create a set of instructions that computers use to perform specific operations or to exhibit desired behaviors.
+<ul>
+<li>A subfield of <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> programming –</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>A type of <a href="/wiki/System" title="System">system</a> – set of interacting or interdependent components forming an integrated whole or a set of elements (often called 'components' ) and relationships which are different from relationships of the set or its elements to other elements or sets.
+<ul>
+<li>A system that includes <a href="/wiki/Software" title="Software">software</a> – software is a collection of computer programs and related data that provides the instructions for telling a computer what to do and how to do it. Software refers to one or more computer programs and data held in the storage of the computer. In other words, software is a set of programs, procedures, algorithms and its documentation concerned with the operation of a data processing system.</li>
+</ul>
+</li>
+<li>A type of <a href="/wiki/Technology" title="Technology">technology</a> – making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, methods of organization, in order to solve a problem, improve a preexisting solution to a problem, achieve a goal, handle an applied input/output relation or perform a specific function. It can also refer to the collection of such tools, machinery, modifications, arrangements and procedures. Technologies significantly affect human as well as other animal species' ability to control and adapt to their natural environments.
+<ul>
+<li>A form of <a href="/wiki/Computer_technology" class="mw-redirect" title="Computer technology">computer technology</a> – computers and their application. NLP makes use of computers, image scanners, microphones, and many types of software programs.
+<ul>
+<li><a href="/wiki/Language_technology" title="Language technology">Language technology</a> – consists of natural language processing (NLP) and computational linguistics (CL) on the one hand, and speech technology on the other. It also includes many application oriented aspects of these. It is often called human language technology (HLT).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Prerequisite_technologies">Prerequisite technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=2" title="Edit section: Prerequisite technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following technologies make natural language processing possible:</p>
+<ul>
+<li><a href="/wiki/Communication" title="Communication">Communication</a> – the activity of a source sending a message to a <a href="/wiki/Receiver_(information_theory)" title="Receiver (information theory)">receiver</a>
+<ul>
+<li><a href="/wiki/Language" title="Language">Language</a> –
+<ul>
+<li><a href="/wiki/Speech" title="Speech">Speech</a> –</li>
+<li><a href="/wiki/Writing" title="Writing">Writing</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Computing" title="Computing">Computing</a> –
+<ul>
+<li><a href="/wiki/Computer" title="Computer">Computers</a> –</li>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a> –
+<ul>
+<li><a href="/wiki/Information_extraction" title="Information extraction">Information extraction</a> –</li>
+<li><a href="/wiki/User_interface" title="User interface">User interface</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Software" title="Software">Software</a> –
+<ul>
+<li><a href="/wiki/Text_editor" title="Text editor">Text editing</a> – program used to edit plain <a href="/wiki/Text_file" title="Text file">text files</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a> – piece of software used for composing, editing, formatting, printing documents</li>
+</ul>
+</li>
+<li><a href="/wiki/Input_device" title="Input device">Input devices</a> – pieces of hardware for sending data to a computer to be processed<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<ul>
+<li><a href="/wiki/Computer_keyboard" title="Computer keyboard">Computer keyboard</a> – typewriter style input device whose input is converted into various data depending on the circumstances</li>
+<li><a href="/wiki/Image_scanner" title="Image scanner">Image scanners</a> –</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Subfields_of_natural_language_processing">Subfields of natural language processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=3" title="Edit section: Subfields of natural language processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Information_extraction" title="Information extraction">Information extraction</a> (IE) – field concerned in general with the extraction of semantic information from text. This covers tasks such as <a href="/wiki/Named_entity_recognition" class="mw-redirect" title="Named entity recognition">named entity recognition</a>, <a href="/wiki/Coreference" title="Coreference">coreference resolution</a>, <a href="/wiki/Relationship_extraction" title="Relationship extraction">relationship extraction</a>, etc.</li>
+<li><a href="/wiki/Ontology_engineering" title="Ontology engineering">Ontology engineering</a> – field that studies the methods and methodologies for building ontologies, which are formal representations of a set of concepts within a domain and the relationships between those concepts.</li>
+<li><a href="/wiki/Speech_processing" title="Speech processing">Speech processing</a> – field that covers <a href="/wiki/Speech_recognition" title="Speech recognition">speech recognition</a>, <a href="/wiki/Text-to-speech" class="mw-redirect" title="Text-to-speech">text-to-speech</a> and related tasks.</li>
+<li><a href="/wiki/Statistical_natural_language_processing" class="mw-redirect" title="Statistical natural language processing">Statistical natural language processing</a> –
+<ul>
+<li><a href="/wiki/Statistical_semantics" title="Statistical semantics">Statistical semantics</a> – a subfield of <a href="/wiki/Computational_semantics" title="Computational semantics">computational semantics</a> that establishes semantic relations between words to examine their contexts.
+<ul>
+<li><a href="/wiki/Distributional_semantics" title="Distributional semantics">Distributional semantics</a> – a subfield of <a href="/wiki/Statistical_semantics" title="Statistical semantics">statistical semantics</a> that examines the semantic relationship of words across a corpora or in large samples of data.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Related_fields">Related fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=4" title="Edit section: Related fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Natural language processing contributes to, and makes use of (the theories, tools, and methodologies from), the following fields:</p>
+<ul>
+<li><a href="/wiki/Automated_reasoning" title="Automated reasoning">Automated reasoning</a> – area of computer science and mathematical logic dedicated to understanding various aspects of reasoning, and producing software which allows computers to reason completely, or nearly completely, automatically. A sub-field of artificial intelligence, automatic reasoning is also grounded in theoretical computer science and philosophy of mind.</li>
+<li><a href="/wiki/Linguistics" title="Linguistics">Linguistics</a> – scientific study of human language. Natural language processing requires understanding of the structure and application of language, and therefore it draws heavily from linguistics.
+<ul>
+<li><a href="/wiki/Applied_linguistics" title="Applied linguistics">Applied linguistics</a> – interdisciplinary field of study that identifies, investigates, and offers solutions to language-related real-life problems. Some of the academic fields related to applied linguistics are education, linguistics, psychology, computer science, anthropology, and sociology. Some of the subfields of applied linguistics relevant to natural language processing are:
+<ul>
+<li><a href="/wiki/Multilingualism" title="Multilingualism">Bilingualism / Multilingualism</a> –</li>
+<li><a href="/wiki/Computer-mediated_communication" title="Computer-mediated communication">Computer-mediated communication</a> (CMC) – any communicative transaction that occurs through the use of two or more networked computers.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Research on CMC focuses largely on the social effects of different computer-supported communication technologies. Many recent studies involve Internet-based <a href="/wiki/Social_networking" class="mw-redirect" title="Social networking">social networking</a> supported by <a href="/wiki/Social_software" title="Social software">social software</a>.</li>
+<li><a href="/wiki/Contrastive_linguistics" title="Contrastive linguistics">Contrastive linguistics</a> – practice-oriented linguistic approach that seeks to describe the differences and similarities between a pair of languages.</li>
+<li><a href="/wiki/Conversation_analysis" title="Conversation analysis">Conversation analysis</a> (CA) – approach to the study of social interaction, embracing both verbal and non-verbal conduct, in situations of everyday life. <a href="/wiki/Turn-taking" title="Turn-taking">Turn-taking</a> is one aspect of language use that is studied by CA.</li>
+<li><a href="/wiki/Discourse_analysis" title="Discourse analysis">Discourse analysis</a> – various approaches to analyzing written, vocal, or sign language use or any significant semiotic event.</li>
+<li><a href="/wiki/Forensic_linguistics" title="Forensic linguistics">Forensic linguistics</a> – application of linguistic knowledge, methods and insights to the forensic context of law, language, crime investigation, trial, and judicial procedure.</li>
+<li><a href="/wiki/Interlinguistics" title="Interlinguistics">Interlinguistics</a> – study of improving communications between people of different first languages with the use of ethnic and auxiliary languages (lingua franca). For instance by use of intentional international auxiliary languages, such as Esperanto or Interlingua, or spontaneous interlanguages known as pidgin languages.</li>
+<li><a href="/wiki/Language_assessment" title="Language assessment">Language assessment</a> – assessment of first, second or other language in the school, college, or university context; assessment of language use in the workplace; and assessment of language in the immigration, citizenship, and asylum contexts. The assessment may include analyses of listening, speaking, reading, writing or cultural understanding, with respect to understanding how the language works theoretically and the ability to use the language practically.</li>
+<li><a href="/wiki/Language_pedagogy" title="Language pedagogy">Language pedagogy</a> – science and art of language education, including approaches and methods of language teaching and study. Natural language processing is used in programs designed to teach language, including first and second language training.</li>
+<li><a href="/wiki/Language_planning" title="Language planning">Language planning</a> –</li>
+<li><a href="/wiki/Language_policy" title="Language policy">Language policy</a> –</li>
+<li><a href="/wiki/Lexicography" title="Lexicography">Lexicography</a> –</li>
+<li><a href="/wiki/Literacy" title="Literacy">Literacies</a> –</li>
+<li><a href="/wiki/Pragmatics" title="Pragmatics">Pragmatics</a> –</li>
+<li><a href="/wiki/Second_language_acquisition" class="mw-redirect" title="Second language acquisition">Second language acquisition</a> –</li>
+<li><a href="/wiki/Stylistics_(literature)" class="mw-redirect" title="Stylistics (literature)">Stylistics</a> –</li>
+<li><a href="/wiki/Translation" title="Translation">Translation</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Computational_linguistics" title="Computational linguistics">Computational linguistics</a> – interdisciplinary field dealing with the statistical or rule-based modeling of natural language from a computational perspective. The models and tools of computational linguistics are used extensively in the field of natural language processing, and vice versa.
+<ul>
+<li><a href="/wiki/Computational_semantics" title="Computational semantics">Computational semantics</a> –</li>
+<li><a href="/wiki/Corpus_linguistics" title="Corpus linguistics">Corpus linguistics</a> – study of language as expressed in samples <i>(corpora)</i> of "real world" text. <i>Corpora</i> is the plural of <i>corpus</i>, and a corpus is a specifically selected collection of texts (or speech segments) composed of natural language. After it is constructed (gathered or composed), a corpus is analyzed with the methods of computational linguistics to infer the meaning and context of its components (words, phrases, and sentences), and the relationships between them. Optionally, a corpus can be annotated ("tagged") with data (manually or automatically) to make the corpus easier to understand (e.g., <a href="/wiki/Part-of-speech_tagging" title="Part-of-speech tagging">part-of-speech tagging</a>). This data is then applied to make sense of user input, for example, to make better (automated) guesses of what people are talking about or saying, perhaps to achieve more narrowly focused web searches, or for speech recognition.</li>
+</ul>
+</li>
+<li><a href="/wiki/Metalinguistics" title="Metalinguistics">Metalinguistics</a> –</li>
+<li><a href="/wiki/Sign_language#Linguistics_of_sign" title="Sign language">Sign linguistics</a> – scientific study and analysis of natural sign languages, their features, their structure (phonology, morphology, syntax, and semantics), their acquisition (as a primary or secondary language), how they develop independently of other languages, their application in communication, their relationships to other languages (including spoken languages), and many other aspects.</li>
+</ul>
+</li>
+<li><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer interaction</a> – the intersection of computer science and behavioral sciences, this field involves the study, planning, and design of the interaction between people (users) and computers. Attention to human-machine interaction is important, because poorly designed human-machine interfaces can lead to many unexpected problems. A classic example of this is the <a href="/wiki/Three_Mile_Island_accident" title="Three Mile Island accident">Three Mile Island accident</a> where investigations concluded that the design of the human–machine interface was at least partially responsible for the disaster.</li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a> (IR) – field concerned with storing, searching and retrieving information. It is a separate field within computer science (closer to databases), but IR relies on some NLP methods (for example, stemming). Some current research and applications seek to bridge the gap between IR and NLP.</li>
+<li><a href="/wiki/Knowledge_representation" class="mw-redirect" title="Knowledge representation">Knowledge representation</a> (KR) – area of artificial intelligence research aimed at representing knowledge in symbols to facilitate inferencing from those knowledge elements, creating new elements of knowledge. Knowledge Representation research involves analysis of how to reason accurately and effectively and how best to use a set of symbols to represent a set of facts within a knowledge domain.
+<ul>
+<li><a href="/wiki/Semantic_network" title="Semantic network">Semantic network</a> – study of semantic relations between concepts.
+<ul>
+<li><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a> –</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a> – subfield of computer science that examines pattern recognition and computational learning theory in artificial intelligence. There are three broad approaches to machine learning. <a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a> occurs when the machine is given example inputs and outputs by a teacher so that it can learn a rule that maps inputs to outputs. <a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a> occurs when the machine determines the inputs structure without being provided example inputs or outputs. <a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a> occurs when a machine must perform a goal without teacher feedback.
+<ul>
+<li><a href="/wiki/Pattern_recognition" title="Pattern recognition">Pattern recognition</a> – branch of <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> that examines how machines recognize regularities in data. As with machine learning, teachers can train machines to recognize patterns by providing them with example inputs and outputs (i.e. <a href="/wiki/Supervised_learning" title="Supervised learning">Supervised Learning</a>), or the machines can recognize patterns without being trained on any example inputs or outputs (i.e. <a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised Learning</a>).</li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Statistical classification</a> –</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Structures_used_in_natural_language_processing">Structures used in natural language processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=5" title="Edit section: Structures used in natural language processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Anaphora_(linguistics)" title="Anaphora (linguistics)">Anaphora</a> – type of expression whose reference depends upon another referential element. E.g., in the sentence 'Sally preferred the company of herself', 'herself' is an anaphoric expression in that it is coreferential with 'Sally', the sentence's subject.</li>
+<li><a href="/wiki/Context-free_language" title="Context-free language">Context-free language</a> –</li>
+<li><a href="/wiki/Controlled_natural_language" title="Controlled natural language">Controlled natural language</a> – a natural language with a restriction introduced on its grammar and vocabulary in order to eliminate ambiguity and complexity</li>
+<li>Corpus – body of data, optionally tagged (for example, through <a href="/wiki/Part-of-speech_tagging" title="Part-of-speech tagging">part-of-speech tagging</a>), providing real world samples for analysis and comparison.
+<ul>
+<li><a href="/wiki/Text_corpus" title="Text corpus">Text corpus</a> – large and structured set of texts, nowadays usually electronically stored and processed. They are used to do statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific subject (or <i>domain</i>).</li>
+<li><a href="/wiki/Speech_corpus" title="Speech corpus">Speech corpus</a> – database of speech audio files and text transcriptions. In Speech technology, speech corpora are used, among other things, to create acoustic models (which can then be used with a speech recognition engine). In Linguistics, spoken corpora are used to do research into phonetic, conversation analysis, dialectology and other fields.</li>
+</ul>
+</li>
+<li><a href="/wiki/Grammar" title="Grammar">Grammar</a> –
+<ul>
+<li><a href="/wiki/Context-free_grammar" title="Context-free grammar">Context-free grammar</a> (CFG) –</li>
+<li><a href="/wiki/Constraint_grammar" title="Constraint grammar">Constraint grammar</a> (CG) –</li>
+<li><a href="/wiki/Definite_clause_grammar" title="Definite clause grammar">Definite clause grammar</a> (DCG) –</li>
+<li><a href="/w/index.php?title=Functional_unification_grammar&amp;action=edit&amp;redlink=1" class="new" title="Functional unification grammar (page does not exist)">Functional unification grammar</a> (FUG) –</li>
+<li><a href="/wiki/Generalized_phrase_structure_grammar" title="Generalized phrase structure grammar">Generalized phrase structure grammar</a> (GPSG) –</li>
+<li><a href="/wiki/Head-driven_phrase_structure_grammar" title="Head-driven phrase structure grammar">Head-driven phrase structure grammar</a> (HPSG) –</li>
+<li><a href="/wiki/Lexical_functional_grammar" title="Lexical functional grammar">Lexical functional grammar</a> (LFG) –</li>
+<li><a href="/wiki/Probabilistic_context-free_grammar" title="Probabilistic context-free grammar">Probabilistic context-free grammar</a> (PCFG) – another name for stochastic context-free grammar.</li>
+<li><a href="/wiki/Stochastic_context-free_grammar" class="mw-redirect" title="Stochastic context-free grammar">Stochastic context-free grammar</a> (SCFG) –</li>
+<li><a href="/wiki/Systemic_functional_grammar" title="Systemic functional grammar">Systemic functional grammar</a> (SFG) –</li>
+<li><a href="/wiki/Tree-adjoining_grammar" title="Tree-adjoining grammar">Tree-adjoining grammar</a> (TAG) –</li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_language" title="Natural language">Natural language</a> –</li>
+<li><a href="/wiki/N-gram" title="N-gram"><i>n</i>-gram</a> – sequence of <i>n</i> number of tokens, where a "token" is a character, syllable, or word. The <i>n</i> is replaced by a number. Therefore, a 5-gram is an <i>n</i>-gram of 5 letters, syllables, or words. "Eat this" is a 2-gram (also known as a bigram).
+<ul>
+<li><a href="/wiki/Bigram" title="Bigram">Bigram</a> – <i>n</i>-gram of 2 tokens. Every sequence of 2 adjacent elements in a string of tokens is a bigram. Bigrams are used for speech recognition, they can be used to solve cryptograms, and bigram frequency is one approach to statistical language identification.</li>
+<li><a href="/wiki/Trigram" title="Trigram">Trigram</a> – special case of the <i>n</i>-gram, where <i>n</i> is 3.</li>
+</ul>
+</li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a> – formal representation of a set of concepts within a domain and the relationships between those concepts.
+<ul>
+<li><a href="/wiki/Taxonomy_(general)" title="Taxonomy (general)">Taxonomy</a> – practice and science of classification, including the principles underlying classification, and the methods of classifying things or concepts.
+<ul>
+<li><a href="/wiki/Hyponymy_and_hypernymy" title="Hyponymy and hypernymy">Hyponymy and hypernymy</a> – the linguistics of hyponyms and hypernyms. A hyponym shares a type-of relationship with its hypernym. For example, pigeon, crow, eagle and seagull are all hyponyms of bird (their hypernym); which, in turn, is a hyponym of animal.</li>
+<li><a href="/wiki/Taxonomy_for_search_engines" title="Taxonomy for search engines">Taxonomy for search engines</a> – typically called a "taxonomy of entities". It is a <a href="/wiki/Tree_structure" title="Tree structure">tree</a> in which nodes are labelled with entities which are expected to occur in a web search query. These trees are used to match keywords from a search query with the keywords from relevant answers (or snippets).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Textual_entailment" title="Textual entailment">Textual entailment</a> – directional relation between text fragments. The relation holds whenever the truth of one text fragment follows from another text. In the TE framework, the entailing and entailed texts are termed text (t) and hypothesis (h), respectively. The relation is directional because even if "t entails h", the reverse "h entails t" is much less certain.</li>
+<li><a href="/wiki/Triphone" title="Triphone">Triphone</a> – sequence of three phonemes. Triphones are useful in models of natural language processing where they are used to establish the various contexts in which a phoneme can occur in a particular natural language.</li>
+</ul>
+<h2><span class="mw-headline" id="Processes_of_NLP">Processes of NLP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=6" title="Edit section: Processes of NLP">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=7" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Automated_essay_scoring" title="Automated essay scoring">Automated essay scoring</a> (AES) – the use of specialized computer programs to assign grades to essays written in an educational setting. It is a method of educational assessment and an application of natural language processing. Its objective is to classify a large set of textual entities into a small number of discrete categories, corresponding to the possible grades—for example, the numbers 1 to 6. Therefore, it can be considered a problem of statistical classification.</li>
+<li><a href="/wiki/Automatic_image_annotation" title="Automatic image annotation">Automatic image annotation</a> – process by which a computer system automatically assigns textual metadata in the form of captioning or keywords to a digital image. The annotations are used in image retrieval systems to organize and locate images of interest from a database.</li>
+<li><a href="/wiki/Automatic_summarization" title="Automatic summarization">Automatic summarization</a> – process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. Often used to provide summaries of text of a known type, such as articles in the financial section of a newspaper.
+<ul>
+<li>Types
+<ul>
+<li>Keyphrase extraction –</li>
+<li>Document summarization –
+<ul>
+<li><a href="/wiki/Multi-document_summarization" title="Multi-document summarization">Multi-document summarization</a> –</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Methods and techniques
+<ul>
+<li>Extraction-based summarization –</li>
+<li>Abstraction-based summarization –</li>
+<li>Maximum entropy-based summarization –</li>
+<li><a href="/wiki/Sentence_extraction" title="Sentence extraction">Sentence extraction</a> –</li>
+<li>Aided summarization –
+<ul>
+<li>Human aided machine summarization (HAMS) –</li>
+<li>Machine aided human summarization (MAHS) –</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Automatic_taxonomy_induction" class="mw-redirect" title="Automatic taxonomy induction">Automatic taxonomy induction</a> – automated construction of <a href="/wiki/Tree_structure" title="Tree structure">tree structures</a> from a corpus. This may be applied to building taxonomical classification systems for reading by end users, such as web directories or subject outlines.</li>
+<li><a href="/wiki/Coreference#Coreference_resolution" title="Coreference">Coreference resolution</a> – in order to derive the correct interpretation of text, or even to estimate the relative importance of various mentioned subjects, pronouns and other referring expressions need to be connected to the right individuals or objects. Given a sentence or larger chunk of text, coreference resolution determines which words ("mentions") refer to which objects ("entities") included in the text.
+<ul>
+<li><a href="/wiki/Anaphora_resolution" class="mw-redirect" title="Anaphora resolution">Anaphora resolution</a> – concerned with matching up pronouns with the nouns or names that they refer to. For example, in a sentence such as "He entered John's house through the front door", "the front door" is a referring expression and the bridging relationship to be identified is the fact that the door being referred to is the front door of John's house (rather than of some other structure that might also be referred to).</li>
+</ul>
+</li>
+<li><a href="/wiki/Dialog_system" title="Dialog system">Dialog system</a> –</li>
+<li><a href="/wiki/Foreign-language_reading_aid" class="mw-redirect" title="Foreign-language reading aid">Foreign-language reading aid</a> – computer program that assists a non-native language user to read properly in their target language. The proper reading means that the pronunciation should be correct and stress to different parts of the words should be proper.</li>
+<li><a href="/wiki/Foreign_language_writing_aid" title="Foreign language writing aid">Foreign language writing aid</a> – computer program or any other instrument that assists a non-native language user (also referred to as a foreign language learner) in writing decently in their target language. Assistive operations can be classified into two categories: on-the-fly prompts and post-writing checks.</li>
+<li><a href="/wiki/Grammar_checker" title="Grammar checker">Grammar checking</a> – the act of verifying the grammatical correctness of written text, especially if this act is performed by a <a href="/wiki/Computer_program" title="Computer program">computer program</a>.</li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a> –
+<ul>
+<li><a href="/wiki/Cross-language_information_retrieval" title="Cross-language information retrieval">Cross-language information retrieval</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Machine_translation" title="Machine translation">Machine translation</a> (MT) – aims to automatically translate text from one human language to another. This is one of the most difficult problems, and is a member of a class of problems colloquially termed "<a href="/wiki/AI-complete" title="AI-complete">AI-complete</a>", i.e. requiring all of the different types of knowledge that humans possess (grammar, semantics, facts about the real world, etc.) in order to solve properly.
+<ul>
+<li>Classical approach of machine translation – rules-based machine translation.</li>
+<li><a href="/wiki/Computer-assisted_translation" title="Computer-assisted translation">Computer-assisted translation</a> –
+<ul>
+<li><a href="/wiki/Interactive_machine_translation" title="Interactive machine translation">Interactive machine translation</a> –</li>
+<li><a href="/wiki/Translation_memory" title="Translation memory">Translation memory</a> – database that stores so-called "segments", which can be sentences, paragraphs or sentence-like units (headings, titles or elements in a list) that have previously been translated, in order to aid human translators.</li>
+</ul>
+</li>
+<li><a href="/wiki/Example-based_machine_translation" title="Example-based machine translation">Example-based machine translation</a> –</li>
+<li><a href="/wiki/Rule-based_machine_translation" title="Rule-based machine translation">Rule-based machine translation</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_language_programming" class="mw-redirect" title="Natural language programming">Natural language programming</a> – interpreting and compiling instructions communicated in natural language into computer instructions (machine code).</li>
+<li><a href="/wiki/Natural_language_user_interface" class="mw-redirect" title="Natural language user interface">Natural language search</a> –</li>
+<li><a href="/wiki/Optical_character_recognition" title="Optical character recognition">Optical character recognition</a> (OCR) – given an image representing printed text, determine the corresponding text.</li>
+<li><a href="/wiki/Question_answering" title="Question answering">Question answering</a> – given a human-language question, determine its answer. Typical questions have a specific right answer (such as "What is the capital of Canada?"), but sometimes open-ended questions are also considered (such as "What is the meaning of life?").
+<ul>
+<li><a href="/wiki/Open_domain_question_answering" class="mw-redirect" title="Open domain question answering">Open domain question answering</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Naive_Bayes_spam_filtering" title="Naive Bayes spam filtering">Spam filtering</a> –</li>
+<li><a href="/wiki/Sentiment_analysis" title="Sentiment analysis">Sentiment analysis</a> – extracts subjective information usually from a set of documents, often using online reviews to determine "polarity" about specific objects. It is especially useful for identifying trends of public opinion in the social media, for the purpose of marketing.</li>
+<li><a href="/wiki/Speech_recognition" title="Speech recognition">Speech recognition</a> – given a sound clip of a person or people speaking, determine the textual representation of the speech. This is the opposite of <a href="/wiki/Text_to_speech" class="mw-redirect" title="Text to speech">text to speech</a> and is one of the extremely difficult problems colloquially termed "<a href="/wiki/AI-complete" title="AI-complete">AI-complete</a>" (see above). In <a href="/wiki/Natural_speech" class="mw-redirect" title="Natural speech">natural speech</a> there are hardly any pauses between successive words, and thus <a href="/wiki/Speech_segmentation" title="Speech segmentation">speech segmentation</a> is a necessary subtask of speech recognition (see below). Note also that in most spoken languages, the sounds representing successive letters blend into each other in a process termed <a href="/wiki/Coarticulation" title="Coarticulation">coarticulation</a>, so the conversion of the analog signal to discrete characters can be a very difficult process.</li>
+<li><a href="/wiki/Speech_synthesis" title="Speech synthesis">Speech synthesis</a> (Text-to-speech) –</li>
+<li><a href="/wiki/Text-proofing" class="mw-redirect" title="Text-proofing">Text-proofing</a> –</li>
+<li><a href="/wiki/Text_simplification" title="Text simplification">Text simplification</a> – automated editing a document to include fewer words, or use easier words, while retaining its underlying meaning and information.</li>
+</ul>
+<h3><span class="mw-headline" id="Component_processes">Component processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=8" title="Edit section: Component processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Natural_language_understanding" title="Natural language understanding">Natural language understanding</a> – converts chunks of text into more formal representations such as <a href="/wiki/First-order_logic" title="First-order logic">first-order logic</a> structures that are easier for <a href="/wiki/Computer" title="Computer">computer</a> programs to manipulate. Natural language understanding involves the identification of the intended semantic from the multiple possible semantics which can be derived from a natural language expression which usually takes the form of organized notations of natural languages concepts. Introduction and creation of language metamodel and ontology are efficient however empirical solutions. An explicit formalization of natural languages semantics without confusions with implicit assumptions such as <a href="/wiki/Closed-world_assumption" title="Closed-world assumption">closed-world assumption</a> (CWA) vs. <a href="/wiki/Open-world_assumption" title="Open-world assumption">open-world assumption</a>, or subjective Yes/No vs. objective True/False is expected for the construction of a basis of semantics formalization.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/wiki/Natural_language_generation" title="Natural language generation">Natural language generation</a> – task of converting information from computer databases into readable human language.</li>
+</ul>
+<h4><span class="mw-headline" id="Component_processes_of_natural_language_understanding">Component processes of natural language understanding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=9" title="Edit section: Component processes of natural language understanding">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Automatic_document_classification" class="mw-redirect" title="Automatic document classification">Automatic document classification</a> (text categorization) –
+<ul>
+<li><a href="/wiki/Automatic_language_identification" class="mw-redirect" title="Automatic language identification">Automatic language identification</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Compound_term_processing" title="Compound term processing">Compound term processing</a> – category of techniques that identify compound terms and match them to their definitions. Compound terms are built by combining two (or more) simple terms, for example "triple" is a single word term but "triple heart bypass" is a compound term.</li>
+<li><a href="/wiki/Automatic_taxonomy_induction" class="mw-redirect" title="Automatic taxonomy induction">Automatic taxonomy induction</a> –</li>
+<li>Corpus processing –
+<ul>
+<li><a href="/wiki/Automatic_acquisition_of_lexicon" title="Automatic acquisition of lexicon">Automatic acquisition of lexicon</a> –</li>
+<li><a href="/wiki/Text_normalization" title="Text normalization">Text normalization</a> –</li>
+<li><a href="/wiki/Text_simplification" title="Text simplification">Text simplification</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Deep_linguistic_processing" title="Deep linguistic processing">Deep linguistic processing</a> –</li>
+<li><a href="/wiki/Discourse_analysis" title="Discourse analysis">Discourse analysis</a> – includes a number of related tasks. One task is identifying the <a href="/wiki/Discourse" title="Discourse">discourse</a> structure of connected text, i.e. the nature of the discourse relationships between sentences (e.g. elaboration, explanation, contrast). Another possible task is recognizing and classifying the <a href="/wiki/Speech_act" title="Speech act">speech acts</a> in a chunk of text (e.g. yes-no questions, content questions, statements, assertions, orders, suggestions, etc.).</li>
+<li><a href="/wiki/Information_extraction" title="Information extraction">Information extraction</a> –
+<ul>
+<li><a href="/wiki/Text_mining" title="Text mining">Text mining</a> – process of deriving high-quality information from text. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning.
+<ul>
+<li><a href="/wiki/Biomedical_text_mining" title="Biomedical text mining">Biomedical text mining</a> – (also known as BioNLP), this is text mining applied to texts and literature of the biomedical and molecular biology domain. It is a rather recent research field drawing elements from natural language processing, bioinformatics, medical informatics and computational linguistics. There is an increasing interest in text mining and information extraction strategies applied to the biomedical and molecular biology literature due to the increasing number of electronically available publications stored in databases such as PubMed.</li>
+<li><a href="/wiki/Decision_tree_learning" title="Decision tree learning">Decision tree learning</a> –</li>
+<li><a href="/wiki/Sentence_extraction" title="Sentence extraction">Sentence extraction</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Terminology_extraction" title="Terminology extraction">Terminology extraction</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Latent_semantic_indexing" class="mw-redirect" title="Latent semantic indexing">Latent semantic indexing</a> –</li>
+<li><a href="/wiki/Lemmatisation" title="Lemmatisation">Lemmatisation</a> – groups together all like terms that share a same lemma such that they are classified as a single item.</li>
+<li><a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">Morphological segmentation</a> – separates words into individual <a href="/wiki/Morphemes" class="mw-redirect" title="Morphemes">morphemes</a> and identifies the class of the morphemes. The difficulty of this task depends greatly on the complexity of the <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">morphology</a> (i.e. the structure of words) of the language being considered. <a href="/wiki/English_language" title="English language">English</a> has fairly simple morphology, especially <a href="/wiki/Inflectional_morphology" class="mw-redirect" title="Inflectional morphology">inflectional morphology</a>, and thus it is often possible to ignore this task entirely and simply model all possible forms of a word (e.g. "open, opens, opened, opening") as separate words. In languages such as <a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>, however, such an approach is not possible, as each dictionary entry has thousands of possible word forms.</li>
+<li><a href="/wiki/Named_entity_recognition" class="mw-redirect" title="Named entity recognition">Named entity recognition</a> (NER) – given a stream of text, determines which items in the text map to proper names, such as people or places, and what the type of each such name is (e.g. person, location, organization). Note that, although <a href="/wiki/Capitalization" title="Capitalization">capitalization</a> can aid in recognizing named entities in languages such as English, this information cannot aid in determining the type of named entity, and in any case is often inaccurate or insufficient. For example, the first word of a sentence is also capitalized, and named entities often span several words, only some of which are capitalized. Furthermore, many other languages in non-Western scripts (e.g. <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a> or <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>) do not have any capitalization at all, and even languages with capitalization may not consistently use it to distinguish names. For example, <a href="/wiki/German_language" title="German language">German</a> capitalizes all <a href="/wiki/Noun" title="Noun">nouns</a>, regardless of whether they refer to names, and <a href="/wiki/French_language" title="French language">French</a> and <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> do not capitalize names that serve as <a href="/wiki/Adjective" title="Adjective">adjectives</a>.</li>
+<li><a href="/wiki/Ontology_learning" title="Ontology learning">Ontology learning</a> – automatic or semi-automatic creation of <a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">ontologies</a>, including extracting the corresponding domain's terms and the relationships between those concepts from a corpus of natural language text, and encoding them with an <a href="/wiki/Ontology_language" title="Ontology language">ontology language</a> for easy retrieval. Also called "ontology extraction", "ontology generation", and "ontology acquisition".</li>
+<li><a href="/wiki/Parsing" title="Parsing">Parsing</a> – determines the <a href="/wiki/Parse_tree" title="Parse tree">parse tree</a> (grammatical analysis) of a given sentence. The <a href="/wiki/Grammar" title="Grammar">grammar</a> for <a href="/wiki/Natural_language" title="Natural language">natural languages</a> is <a href="/wiki/Ambiguous" class="mw-redirect" title="Ambiguous">ambiguous</a> and typical sentences have multiple possible analyses. In fact, perhaps surprisingly, for a typical sentence there may be thousands of potential parses (most of which will seem completely nonsensical to a human).
+<ul>
+<li><a href="/wiki/Shallow_parsing" title="Shallow parsing">Shallow parsing</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Part-of-speech_tagging" title="Part-of-speech tagging">Part-of-speech tagging</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> – given a sentence, determines the <a href="/wiki/Part_of_speech" title="Part of speech">part of speech</a> for each word. Many words, especially common ones, can serve as multiple <a href="/wiki/Parts_of_speech" class="mw-redirect" title="Parts of speech">parts of speech</a>. For example, "book" can be a <a href="/wiki/Noun" title="Noun">noun</a> ("the book on the table") or <a href="/wiki/Verb" title="Verb">verb</a> ("to book a flight"); "set" can be a <a href="/wiki/Noun" title="Noun">noun</a>, <a href="/wiki/Verb" title="Verb">verb</a> or <a href="/wiki/Adjective" title="Adjective">adjective</a>; and "out" can be any of at least five different parts of speech. Note that some languages have more such ambiguity than others. Languages with little <a href="/wiki/Inflectional_morphology" class="mw-redirect" title="Inflectional morphology">inflectional morphology</a>, such as <a href="/wiki/English_language" title="English language">English</a> are particularly prone to such ambiguity. <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a> is prone to such ambiguity because it is a <a href="/wiki/Tonal_language" class="mw-redirect" title="Tonal language">tonal language</a> during verbalization. Such inflection is not readily conveyed via the entities employed within the orthography to convey intended meaning.</li>
+<li><a href="/wiki/Query_expansion" title="Query expansion">Query expansion</a> –</li>
+<li><a href="/wiki/Relationship_extraction" title="Relationship extraction">Relationship extraction</a> – given a chunk of text, identifies the relationships among named entities (e.g. who is the wife of whom).</li>
+<li><a href="/wiki/Semantic_analysis_(computational)" title="Semantic analysis (computational)">Semantic analysis (computational)</a> – formal analysis of meaning, and "computational" refers to approaches that in principle support effective implementation.
+<ul>
+<li><a href="/wiki/Explicit_semantic_analysis" title="Explicit semantic analysis">Explicit semantic analysis</a> –</li>
+<li><a href="/wiki/Latent_semantic_analysis" title="Latent semantic analysis">Latent semantic analysis</a> –</li>
+<li><a href="/wiki/Semantic_analytics" title="Semantic analytics">Semantic analytics</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Sentence_breaking" class="mw-redirect" title="Sentence breaking">Sentence breaking</a> (also known as <a href="/wiki/Sentence_boundary_disambiguation" title="Sentence boundary disambiguation">sentence boundary disambiguation</a> and sentence detection) – given a chunk of text, finds the sentence boundaries. Sentence boundaries are often marked by <a href="/wiki/Full_stop" title="Full stop">periods</a> or other <a href="/wiki/Punctuation_mark" class="mw-redirect" title="Punctuation mark">punctuation marks</a>, but these same characters can serve other purposes (e.g. marking <a href="/wiki/Abbreviation" title="Abbreviation">abbreviations</a>).</li>
+<li><a href="/wiki/Speech_segmentation" title="Speech segmentation">Speech segmentation</a> – given a sound clip of a person or people speaking, separates it into words. A subtask of <a href="/wiki/Speech_recognition" title="Speech recognition">speech recognition</a> and typically grouped with it.</li>
+<li><a href="/wiki/Stemming" title="Stemming">Stemming</a> – reduces an inflected or derived word into its <a href="/wiki/Word_stem" title="Word stem">word stem</a>, base, or <a href="/wiki/Root_(linguistics)" title="Root (linguistics)">root</a> form.</li>
+<li><a href="/wiki/Shallow_parsing" title="Shallow parsing">Text chunking</a> –</li>
+<li><a href="/wiki/Tokenization_(lexical_analysis)" class="mw-redirect" title="Tokenization (lexical analysis)">Tokenization</a> – given a chunk of text, separates it into distinct words, symbols, sentences, or other units</li>
+<li><a href="/wiki/Topic_segmentation" class="mw-redirect" title="Topic segmentation">Topic segmentation</a> and recognition – given a chunk of text, separates it into segments each of which is devoted to a topic, and identifies the topic of the segment.</li>
+<li><a href="/wiki/Truecasing" title="Truecasing">Truecasing</a> –</li>
+<li><a href="/wiki/Word_segmentation" class="mw-redirect" title="Word segmentation">Word segmentation</a> – separates a chunk of continuous text into separate words. For a language like <a href="/wiki/English_language" title="English language">English</a>, this is fairly trivial, since words are usually separated by spaces. However, some written languages like <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>, <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> and <a href="/wiki/Thai_language" title="Thai language">Thai</a> do not mark word boundaries in such a fashion, and in those languages text segmentation is a significant task requiring knowledge of the <a href="/wiki/Vocabulary" title="Vocabulary">vocabulary</a> and <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">morphology</a> of words in the language.</li>
+<li><a href="/wiki/Word_sense_disambiguation" class="mw-redirect" title="Word sense disambiguation">Word sense disambiguation</a> (WSD) – because many words have more than one <a href="/wiki/Meaning_(linguistics)" title="Meaning (linguistics)">meaning</a>, word sense disambiguation is used to select the meaning which makes the most sense in context. For this problem, we are typically given a list of words and associated word senses, e.g. from a dictionary or from an online resource such as <a href="/wiki/WordNet" title="WordNet">WordNet</a>.
+<ul>
+<li><a href="/wiki/Word-sense_induction" title="Word-sense induction">Word-sense induction</a> – open problem of natural language processing, which concerns the automatic identification of the senses of a word (i.e. meanings). Given that the output of word-sense induction is a set of senses for the target word (sense inventory), this task is strictly related to that of word-sense disambiguation (WSD), which relies on a predefined sense inventory and aims to solve the ambiguity of words in context.</li>
+<li><a href="/wiki/Automatic_acquisition_of_sense-tagged_corpora" title="Automatic acquisition of sense-tagged corpora">Automatic acquisition of sense-tagged corpora</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/W-shingling" title="W-shingling">W-shingling</a> – set of unique "shingles"—contiguous subsequences of tokens in a document—that can be used to gauge the similarity of two documents. The w denotes the number of tokens in each shingle in the set.</li>
+</ul>
+<h4><span class="mw-headline" id="Component_processes_of_natural_language_generation">Component processes of natural language generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=10" title="Edit section: Component processes of natural language generation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Natural_language_generation" title="Natural language generation">Natural language generation</a> – task of converting information from computer databases into readable human language.</p>
+<ul>
+<li><a href="/wiki/Automatic_taxonomy_induction" class="mw-redirect" title="Automatic taxonomy induction">Automatic taxonomy induction</a> (ATI) – automated building of <a href="/wiki/Tree_structure" title="Tree structure">tree structures</a> from a corpus. While ATI is used to construct the core of ontologies (and doing so makes it a component process of natural language understanding), when the ontologies being constructed are end user readable (such as a subject outline), and these are used for the construction of further documentation (such as using an outline as the basis to construct a report or treatise) this also becomes a component process of natural language generation.</li>
+<li><a href="/wiki/Document_structuring" title="Document structuring">Document structuring</a> –</li>
+</ul>
+<h2><span class="mw-headline" id="History_of_natural_language_processing">History of natural language processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=11" title="Edit section: History of natural language processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/History_of_natural_language_processing" title="History of natural language processing">History of natural language processing</a></p>
+<ul>
+<li><a href="/wiki/History_of_machine_translation" title="History of machine translation">History of machine translation</a></li>
+<li><a href="/wiki/Automated_essay_scoring#History" title="Automated essay scoring">History of automated essay scoring</a></li>
+<li><a href="/wiki/Natural_language_user_interface#History" class="mw-redirect" title="Natural language user interface">History of natural language user interface</a></li>
+<li><a href="/wiki/Natural_language_understanding#History" title="Natural language understanding">History of natural language understanding</a></li>
+<li><a href="/wiki/Optical_character_recognition#History" title="Optical character recognition">History of optical character recognition</a></li>
+<li><a href="/wiki/Question_answering#History" title="Question answering">History of question answering</a></li>
+<li><a href="/wiki/Speech_synthesis#History" title="Speech synthesis">History of speech synthesis</a></li>
+<li><a href="/wiki/Turing_test" title="Turing test">Turing test</a> – test of a machine's ability to exhibit intelligent behavior, equivalent to or indistinguishable from, that of an actual human. In the original illustrative example, a human judge engages in a natural language conversation with a human and a machine designed to generate performance indistinguishable from that of a human being. All participants are separated from one another. If the judge cannot reliably tell the machine from the human, the machine is said to have passed the test. The test was introduced by Alan Turing in his 1950 paper "Computing Machinery and Intelligence," which opens with the words: "I propose to consider the question, 'Can machines think?'"</li>
+<li><a href="/wiki/Universal_grammar" title="Universal grammar">Universal grammar</a> – theory in <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, usually credited to <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a>, proposing that the ability to learn grammar is hard-wired into the brain.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The theory suggests that linguistic ability manifests itself without being taught (<i>see</i> <a href="/wiki/Poverty_of_the_stimulus" title="Poverty of the stimulus">poverty of the stimulus</a>), and that there are properties that all natural <a href="/wiki/Human_languages" class="mw-redirect" title="Human languages">human languages</a> share. It is a matter of observation and experimentation to determine precisely what abilities are innate and what properties are shared by all languages.</li>
+<li><a href="/wiki/ALPAC" title="ALPAC">ALPAC</a> – was a committee of seven scientists led by John R. Pierce, established in 1964 by the U. S. Government in order to evaluate the progress in computational linguistics in general and machine translation in particular. Its report, issued in 1966, gained notoriety for being very skeptical of research done in machine translation so far, and emphasizing the need for basic research in computational linguistics; this eventually caused the U. S. Government to reduce its funding of the topic dramatically.</li>
+<li><a href="/wiki/Conceptual_dependency_theory" title="Conceptual dependency theory">Conceptual dependency theory</a> – a model of natural language understanding used in artificial intelligence systems. <a href="/wiki/Roger_Schank" title="Roger Schank">Roger Schank</a> at Stanford University introduced the model in 1969, in the early days of artificial intelligence.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> This model was extensively used by Schank's students at Yale University such as Robert Wilensky, Wendy Lehnert, and Janet Kolodner.</li>
+<li><a href="/wiki/Augmented_transition_network" title="Augmented transition network">Augmented transition network</a> – type of graph theoretic structure used in the operational definition of formal languages, used especially in parsing relatively complex natural languages, and having wide application in artificial intelligence. Introduced by William A. Woods in 1970.</li>
+<li><a href="/wiki/Distributed_Language_Translation" title="Distributed Language Translation">Distributed Language Translation</a> (project) –</li>
+</ul>
+<h3><span class="mw-headline" id="Timeline_of_NLP_software">Timeline of NLP software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=12" title="Edit section: Timeline of NLP software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tr>
+<th style="background-color:#ECE9EF;">Software</th>
+<th style="background-color:#FFF6D6;">&#160;Year&#160;&#160;</th>
+<th style="background-color:#EEF6D6;">Creator</th>
+<th style="background-color:#EEF6D6;">Description</th>
+<th style="background-color:#EEF6D6;">Reference</th>
+</tr>
+<tr>
+<td><a href="/wiki/Georgetown-IBM_experiment" class="mw-redirect" title="Georgetown-IBM experiment">Georgetown experiment</a></td>
+<td>1954</td>
+<td><a href="/wiki/Georgetown_University" title="Georgetown University">Georgetown University</a> and <a href="/wiki/IBM" title="IBM">IBM</a></td>
+<td>involved fully automatic translation of more than sixty Russian sentences into English.</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/STUDENT_(computer_program)" title="STUDENT (computer program)">STUDENT</a></td>
+<td>1964</td>
+<td><a href="/wiki/Daniel_Bobrow" class="mw-redirect" title="Daniel Bobrow">Daniel Bobrow</a></td>
+<td>could solve high school algebra word problems.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/ELIZA" title="ELIZA">ELIZA</a></td>
+<td>1964</td>
+<td><a href="/wiki/Joseph_Weizenbaum" title="Joseph Weizenbaum">Joseph Weizenbaum</a></td>
+<td>a simulation of a <a href="/wiki/Rogerian_psychotherapy" class="mw-redirect" title="Rogerian psychotherapy">Rogerian psychotherapist</a>, rephrasing her (referred to as her not it) response with a few grammar rules.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/SHRDLU" title="SHRDLU">SHRDLU</a></td>
+<td>1970</td>
+<td><a href="/wiki/Terry_Winograd" title="Terry Winograd">Terry Winograd</a></td>
+<td>a natural language system working in restricted "<a href="/wiki/Blocks_world" title="Blocks world">blocks worlds</a>" with restricted vocabularies, worked extremely well</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/PARRY" title="PARRY">PARRY</a></td>
+<td>1972</td>
+<td><a href="/wiki/Kenneth_Colby" title="Kenneth Colby">Kenneth Colby</a></td>
+<td>A <a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">chatterbot</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/KL-ONE" title="KL-ONE">KL-ONE</a></td>
+<td>1974</td>
+<td>Sondheimer et al.</td>
+<td>a knowledge representation system in the tradition of <a href="/wiki/Semantic_networks" class="mw-redirect" title="Semantic networks">semantic networks</a> and frames; it is a <a href="/wiki/Frame_language" title="Frame language">frame language</a>.</td>
+<td></td>
+</tr>
+<tr>
+<td>MARGIE</td>
+<td>1975</td>
+<td><a href="/wiki/Roger_Schank" title="Roger Schank">Roger Schank</a></td>
+<td></td>
+</tr>
+<tr>
+<td>TaleSpin (software)</td>
+<td>1976</td>
+<td>Meehan</td>
+<td></td>
+</tr>
+<tr>
+<td>QUALM</td>
+<td></td>
+<td>Lehnert</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/LIFER/LADDER" title="LIFER/LADDER">LIFER/LADDER</a></td>
+<td>1978</td>
+<td>Hendrix</td>
+<td>a natural language interface to a database of information about US Navy ships.</td>
+<td></td>
+</tr>
+<tr>
+<td>SAM (software)</td>
+<td>1978</td>
+<td>Cullingford</td>
+<td></td>
+</tr>
+<tr>
+<td>PAM (software)</td>
+<td>1978</td>
+<td><a href="/wiki/Robert_Wilensky" title="Robert Wilensky">Robert Wilensky</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Politics (software)</td>
+<td>1979</td>
+<td>Carbonell</td>
+<td></td>
+</tr>
+<tr>
+<td>Plot Units (software)</td>
+<td>1981</td>
+<td>Lehnert</td>
+<td></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Jabberwacky" title="Jabberwacky">Jabberwacky</a></b></td>
+<td>1982</td>
+<td><a href="/wiki/Rollo_Carpenter" title="Rollo Carpenter">Rollo Carpenter</a></td>
+<td><a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">chatterbot</a> with stated aim to "simulate natural human chat in an interesting, entertaining and humorous manner".</td>
+<td></td>
+</tr>
+<tr>
+<td>MUMBLE (software)</td>
+<td>1982</td>
+<td>McDonald</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Racter" title="Racter">Racter</a></td>
+<td>1983</td>
+<td>William Chamberlain and Thomas Etter</td>
+<td><a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">chatterbot</a> that generated English language prose at random.</td>
+<td></td>
+</tr>
+<tr>
+<td>MOPTRANS</td>
+<td>1984</td>
+<td>Lytinen</td>
+<td></td>
+</tr>
+<tr>
+<td>KODIAK (software)</td>
+<td>1986</td>
+<td>Wilensky</td>
+<td></td>
+</tr>
+<tr>
+<td>Absity (software)</td>
+<td>1987</td>
+<td>Hirst</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=AeroText&amp;action=edit&amp;redlink=1" class="new" title="AeroText (page does not exist)">AeroText</a></td>
+<td>1999</td>
+<td><a href="/wiki/Lockheed_Martin" title="Lockheed Martin">Lockheed Martin</a></td>
+<td>Originally developed for the U.S. intelligence community (Department of Defense) for information extraction &amp; relational link analysis</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Watson_(artificial_intelligence_software)" class="mw-redirect" title="Watson (artificial intelligence software)">Watson</a></td>
+<td>2006</td>
+<td><a href="/wiki/IBM" title="IBM">IBM</a></td>
+<td>A question answering system that won the <a href="/wiki/Jeopardy!" title="Jeopardy!">Jeopardy!</a> contest, defeating the best human players in February 2011.</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Rosoka&amp;action=edit&amp;redlink=1" class="new" title="Rosoka (page does not exist)">Rosoka</a></td>
+<td>2007</td>
+<td><a href="/w/index.php?title=Rosoka_Software&amp;action=edit&amp;redlink=1" class="new" title="Rosoka Software (page does not exist)">Rosoka Software</a></td>
+<td>Multilingual NLP processing for government and commercial applications. Extracts entities, relationships, provides entity resolution, language ID, sentiment analysis and geotagging.</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Tay_(bot)" title="Tay (bot)">Tay</a></td>
+<td>2016</td>
+<td><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></td>
+<td>An artificial intelligence chatterbot that caused controversy on Twitter by releasing inflammatory tweets and was taken offline shortly after.</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="General_natural_language_processing_concepts">General natural language processing concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=13" title="Edit section: General natural language processing concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Sukhotin%27s_algorithm" title="Sukhotin's algorithm">Sukhotin's algorithm</a> – statistical classification algorithm for classifying characters in a text as vowels or consonants. It was initially created by Boris V. Sukhotin.</li>
+<li><a href="/wiki/T9_(predictive_text)" title="T9 (predictive text)">T9 (predictive text)</a> – stands for "Text on 9 keys", is a USA-patented predictive text technology for mobile phones (specifically those that contain a 3x4 numeric keypad), originally developed by Tegic Communications, now part of Nuance Communications.</li>
+<li><a href="/wiki/Tatoeba" title="Tatoeba">Tatoeba</a> – free collaborative online database of example sentences geared towards foreign language learners.</li>
+<li><a href="/wiki/Teragram_Corporation" title="Teragram Corporation">Teragram Corporation</a> – fully owned subsidiary of SAS Institute, a major producer of statistical analysis software, headquartered in Cary, North Carolina, USA. Teragram is based in Cambridge, Massachusetts and specializes in the application of computational linguistics to multilingual natural language processing.</li>
+<li><a href="/wiki/TipTop_Technologies" title="TipTop Technologies">TipTop Technologies</a> – company that developed TipTop Search, a real-time web, social search engine with a unique platform for semantic analysis of natural language. TipTop Search provides results capturing individual and group sentiment, opinions, and experiences from content of various sorts including real-time messages from Twitter or consumer product reviews on Amazon.com.</li>
+<li><a href="/wiki/Transderivational_search" title="Transderivational search">Transderivational search</a> – when a search is being conducted for a fuzzy match across a broad field. In computing the equivalent function can be performed using content-addressable memory.</li>
+<li><a href="/wiki/Vocabulary_mismatch" title="Vocabulary mismatch">Vocabulary mismatch</a> – common phenomenon in the usage of natural languages, occurring when different people name the same thing or concept differently.</li>
+<li><a href="/wiki/LRE_Map" title="LRE Map">LRE Map</a> –</li>
+<li><a href="/wiki/Reification_(linguistics)" title="Reification (linguistics)">Reification (linguistics)</a> –</li>
+<li><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a> –
+<ul>
+<li><a href="/wiki/Metadata" title="Metadata">Metadata</a> –</li>
+</ul>
+</li>
+<li><a href="/wiki/Spoken_dialogue_system" class="mw-redirect" title="Spoken dialogue system">Spoken dialogue system</a> –</li>
+<li><a href="/wiki/Affix_grammar_over_a_finite_lattice" title="Affix grammar over a finite lattice">Affix grammar over a finite lattice</a> –</li>
+<li><a href="/wiki/Aggregation_(linguistics)" title="Aggregation (linguistics)">Aggregation (linguistics)</a> –</li>
+<li><a href="/wiki/Bag-of-words_model" title="Bag-of-words model">Bag-of-words model</a> – model that represents a text as a <a href="/wiki/Multiset" title="Multiset">bag (multiset)</a> of its words that disregards grammar and word sequence, but maintains multiplicity. This model is a commonly used to train document <a href="/wiki/Statistical_classification" title="Statistical classification">classifiers</a></li>
+<li><a href="/wiki/Brill_tagger" title="Brill tagger">Brill tagger</a> –</li>
+<li><a href="/wiki/Cache_language_model" title="Cache language model">Cache language model</a> –</li>
+<li><a href="/wiki/ChaSen" title="ChaSen">ChaSen</a>, <a href="/wiki/MeCab" title="MeCab">MeCab</a> – provide morphological analysis and word splitting for <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></li>
+<li><a href="/wiki/Classic_monolingual_WSD" class="mw-redirect" title="Classic monolingual WSD">Classic monolingual WSD</a> –</li>
+<li><a href="/wiki/ClearForest" title="ClearForest">ClearForest</a> –</li>
+<li><a href="/wiki/CMU_Pronouncing_Dictionary" title="CMU Pronouncing Dictionary">CMU Pronouncing Dictionary</a> – also known as <i>cmudict</i>, is a public domain pronouncing dictionary designed for uses in speech technology, and was created by <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> (CMU). It defines a mapping from English words to their North American pronunciations, and is commonly used in speech processing applications such as the <a href="/wiki/Festival_Speech_Synthesis_System" title="Festival Speech Synthesis System">Festival Speech Synthesis System</a> and the <a href="/wiki/CMU_Sphinx" title="CMU Sphinx">CMU Sphinx</a> speech recognition system.</li>
+<li><a href="/wiki/Concept_mining" title="Concept mining">Concept mining</a> –</li>
+<li><a href="/wiki/Content_determination" title="Content determination">Content determination</a> –</li>
+<li><a href="/w/index.php?title=Converseon&amp;action=edit&amp;redlink=1" class="new" title="Converseon (page does not exist)">Converseon</a> –</li>
+<li><a href="/wiki/DATR" title="DATR">DATR</a> –</li>
+<li><a href="/wiki/DBpedia_Spotlight" class="mw-redirect" title="DBpedia Spotlight">DBpedia Spotlight</a> –</li>
+<li><a href="/wiki/Deep_linguistic_processing" title="Deep linguistic processing">Deep linguistic processing</a> –</li>
+<li><a href="/wiki/Discourse_relation" title="Discourse relation">Discourse relation</a> –</li>
+<li><a href="/wiki/Document-term_matrix" title="Document-term matrix">Document-term matrix</a> –</li>
+<li><a href="/wiki/Dragomir_R._Radev" title="Dragomir R. Radev">Dragomir R. Radev</a> –</li>
+<li><a href="/wiki/ETBLAST" title="ETBLAST">ETBLAST</a> –</li>
+<li><a href="/wiki/Filtered-popping_recursive_transition_network" title="Filtered-popping recursive transition network">Filtered-popping recursive transition network</a> –</li>
+<li><a href="/wiki/Robby_Garner" title="Robby Garner">Robby Garner</a> –</li>
+<li><a href="/wiki/GeneRIF" title="GeneRIF">GeneRIF</a> –</li>
+<li><a href="/wiki/Gorn_address" title="Gorn address">Gorn address</a> –</li>
+<li><a href="/wiki/Grammar_induction" title="Grammar induction">Grammar induction</a> –</li>
+<li><a href="/wiki/Grammatik" title="Grammatik">Grammatik</a> –</li>
+<li><a href="/wiki/Hashing-Trick" class="mw-redirect" title="Hashing-Trick">Hashing-Trick</a> –</li>
+<li><a href="/wiki/Hidden_markov_model" class="mw-redirect" title="Hidden markov model">Hidden markov model</a> –</li>
+<li><a href="/wiki/Human_language_technology" class="mw-redirect" title="Human language technology">Human language technology</a> –</li>
+<li><a href="/wiki/Information_extraction" title="Information extraction">Information extraction</a> –</li>
+<li><a href="/wiki/International_Conference_on_Language_Resources_and_Evaluation" title="International Conference on Language Resources and Evaluation">International Conference on Language Resources and Evaluation</a> –</li>
+<li><a href="/wiki/Kleene_star" title="Kleene star">Kleene star</a> –</li>
+<li><a href="/wiki/Language_Computer_Corporation" title="Language Computer Corporation">Language Computer Corporation</a> –</li>
+<li><a href="/wiki/Language_model" title="Language model">Language model</a> –</li>
+<li><a href="/wiki/Languageware" class="mw-redirect" title="Languageware">Languageware</a> –</li>
+<li><a href="/wiki/Latent_semantic_mapping" title="Latent semantic mapping">Latent semantic mapping</a> –</li>
+<li><a href="/wiki/Legal_information_retrieval" title="Legal information retrieval">Legal information retrieval</a> –</li>
+<li><a href="/wiki/Lesk_algorithm" title="Lesk algorithm">Lesk algorithm</a> –</li>
+<li><a href="/wiki/Lessac_Technologies" title="Lessac Technologies">Lessac Technologies</a> –</li>
+<li><a href="/wiki/Lexalytics" title="Lexalytics">Lexalytics</a> –</li>
+<li><a href="/wiki/Lexical_choice" title="Lexical choice">Lexical choice</a> –</li>
+<li><a href="/wiki/Lexical_Markup_Framework" title="Lexical Markup Framework">Lexical Markup Framework</a> –</li>
+<li><a href="/wiki/Lexical_substitution" title="Lexical substitution">Lexical substitution</a> –</li>
+<li><a href="/wiki/LKB" title="LKB">LKB</a> –</li>
+<li><a href="/wiki/Logic_form" title="Logic form">Logic form</a> –</li>
+<li><a href="/wiki/LRE_Map" title="LRE Map">LRE Map</a> –</li>
+<li><a href="/wiki/Machine_translation_software_usability" title="Machine translation software usability">Machine translation software usability</a> –</li>
+<li><a href="/wiki/MAREC" title="MAREC">MAREC</a> –</li>
+<li><a href="/wiki/Principle_of_maximum_entropy" title="Principle of maximum entropy">Maximum entropy</a> –</li>
+<li><a href="/wiki/Message_Understanding_Conference" title="Message Understanding Conference">Message Understanding Conference</a> –</li>
+<li><a href="/wiki/METEOR" title="METEOR">METEOR</a> –</li>
+<li><a href="/wiki/Minimal_recursion_semantics" title="Minimal recursion semantics">Minimal recursion semantics</a> –</li>
+<li><a href="/wiki/Morphological_pattern" title="Morphological pattern">Morphological pattern</a> –</li>
+<li><a href="/wiki/Multi-document_summarization" title="Multi-document summarization">Multi-document summarization</a> –</li>
+<li><a href="/wiki/Multilingual_notation" title="Multilingual notation">Multilingual notation</a> –</li>
+<li><a href="/wiki/Naive_semantics" title="Naive semantics">Naive semantics</a> –</li>
+<li><a href="/wiki/Natural_language" title="Natural language">Natural language</a> –</li>
+<li><a href="/wiki/Natural_language_interface" class="mw-redirect" title="Natural language interface">Natural language interface</a> –</li>
+<li><a href="/wiki/Natural_language_user_interface" class="mw-redirect" title="Natural language user interface">Natural language user interface</a> –</li>
+<li><a href="/wiki/NetBase_Solutions,_Inc." class="mw-redirect" title="NetBase Solutions, Inc.">NetBase Solutions, Inc.</a> –</li>
+<li><a href="/wiki/News_analytics" title="News analytics">News analytics</a> –</li>
+<li><a href="/wiki/Nondeterministic_polynomial" class="mw-redirect" title="Nondeterministic polynomial">Nondeterministic polynomial</a> –</li>
+<li><a href="/wiki/Open_domain_question_answering" class="mw-redirect" title="Open domain question answering">Open domain question answering</a> –</li>
+<li><a href="/wiki/Optimality_theory" class="mw-redirect" title="Optimality theory">Optimality theory</a> –</li>
+<li><a href="/wiki/Paco_Nathan" title="Paco Nathan">Paco Nathan</a> –</li>
+<li><a href="/wiki/Phrase_structure_grammar" title="Phrase structure grammar">Phrase structure grammar</a> –</li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset (company)</a> –</li>
+<li><a href="/wiki/Production_(computer_science)" title="Production (computer science)">Production (computer science)</a> –</li>
+<li><a href="/wiki/PropBank" title="PropBank">PropBank</a> –</li>
+<li><a href="/wiki/Question_answering" title="Question answering">Question answering</a> –</li>
+<li><a href="/wiki/Realization_(linguistics)" title="Realization (linguistics)">Realization (linguistics)</a> –</li>
+<li><a href="/wiki/Recursive_transition_network" title="Recursive transition network">Recursive transition network</a> –</li>
+<li><a href="/wiki/Referring_expression_generation" title="Referring expression generation">Referring expression generation</a> –</li>
+<li><a href="/wiki/Rewrite_rule" class="mw-redirect" title="Rewrite rule">Rewrite rule</a> –</li>
+<li><a href="/wiki/Semantic_compression" title="Semantic compression">Semantic compression</a> –</li>
+<li><a href="/wiki/Semantic_neural_network" title="Semantic neural network">Semantic neural network</a> –</li>
+<li><a href="/wiki/SemEval" title="SemEval">SemEval</a> –</li>
+<li><a href="/wiki/SPL_notation" title="SPL notation">SPL notation</a> –</li>
+<li><a href="/wiki/Stemming" title="Stemming">Stemming</a> – reduces an inflected or derived word into its <a href="/wiki/Word_stem" title="Word stem">word stem</a>, base, or <a href="/wiki/Root_(linguistics)" title="Root (linguistics)">root</a> form.</li>
+<li><a href="/wiki/String_kernel" title="String kernel">String kernel</a> –</li>
+</ul>
+<h2><span class="mw-headline" id="Natural_language_processing_tools">Natural language processing tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=14" title="Edit section: Natural language processing tools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Google_Ngram_Viewer" title="Google Ngram Viewer">Google Ngram Viewer</a> – graphs <i>n</i>-gram usage from a corpus of more than 5.2 million books</li>
+</ul>
+<h3><span class="mw-headline" id="Corpora">Corpora</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=15" title="Edit section: Corpora">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Text_corpus" title="Text corpus">Text corpus</a> (see <a href="/wiki/List_of_text_corpora" title="List of text corpora">list</a>) – large and structured set of texts (nowadays usually electronically stored and processed). They are used to do statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific language territory.
+<ul>
+<li><a href="/wiki/Bank_of_English" title="Bank of English">Bank of English</a></li>
+<li><a href="/wiki/British_National_Corpus" title="British National Corpus">British National Corpus</a></li>
+<li><a href="/wiki/Corpus_of_Contemporary_American_English" title="Corpus of Contemporary American English">Corpus of Contemporary American English</a> (COCA)</li>
+<li><a href="/wiki/Oxford_English_Corpus" title="Oxford English Corpus">Oxford English Corpus</a></li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Natural_language_processing_toolkits">Natural language processing toolkits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=16" title="Edit section: Natural language processing toolkits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following <b>natural language processing <a href="/wiki/List_of_toolkits" title="List of toolkits">toolkits</a></b> are popular collections of <a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">natural language processing</a> software. They are suites of <a href="/wiki/Library_(computer_science)" class="mw-redirect" title="Library (computer science)">libraries</a>, <a href="/wiki/Software_framework" title="Software framework">frameworks</a>, and <a href="/wiki/Software_application" class="mw-redirect" title="Software application">applications</a> for symbolic, statistical natural language and speech processing.</p>
+<table class="wikitable sortable">
+<tr>
+<th>Name</th>
+<th>Language</th>
+<th>License</th>
+<th>Creators</th>
+<th>Website</th>
+</tr>
+<tr>
+<td><a href="/wiki/Apertium" title="Apertium">Apertium</a></td>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="/wiki/GPL" class="mw-redirect" title="GPL">GPL</a></td>
+<td>(various)</td>
+<td><a rel="nofollow" class="external autonumber" href="http://wiki.apertium.org/">[1]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/ChatScript" title="ChatScript">ChatScript</a></td>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="/wiki/GPL" class="mw-redirect" title="GPL">GPL</a></td>
+<td><a href="/wiki/Bruce_Wilcox" title="Bruce Wilcox">Bruce Wilcox</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://brilligunderstanding.com/">[2]</a></td>
+</tr>
+<tr>
+<td>Ariane</td>
+<td>GETA's Specialized Languages for Linguistic Programming (Ariane-G5)</td>
+<td><a href="/wiki/BSD" class="mw-redirect" title="BSD">BSD</a> + miscellaneous</td>
+<td>Vincent Berment (Ariane-H online version)</td>
+<td><a rel="nofollow" class="external autonumber" href="http://lingwarium.org/">[3]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Deeplearning4j" title="Deeplearning4j">Deeplearning4j</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></td>
+<td><a href="/wiki/Apache_License" title="Apache License">Apache 2.0</a></td>
+<td>Adam Gibson, Skymind</td>
+<td><a rel="nofollow" class="external autonumber" href="http://deeplearning4j.org/">[4]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/DELPH-IN" title="DELPH-IN">DELPH-IN</a></td>
+<td><a href="/wiki/LISP" class="mw-redirect" title="LISP">LISP</a>, <a href="/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="/wiki/LGPL" class="mw-redirect" title="LGPL">LGPL</a>, <a href="/wiki/MIT_License" title="MIT License">MIT</a>, ...</td>
+<td>Deep Linguistic Processing with <a href="/wiki/HPSG" class="mw-redirect" title="HPSG">HPSG</a> Initiative</td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.delph-in.net/">[5]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Distinguo" title="Distinguo">Distinguo</a></td>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a></td>
+<td>Commercial</td>
+<td><a href="/w/index.php?title=Ultralingua_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Ultralingua Inc. (page does not exist)">Ultralingua Inc.</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://ultralingua.com/en/semantic-search.htm">[6]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/DKPro" class="mw-redirect" title="DKPro">DKPro</a> Core</td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="/wiki/Apache_License" title="Apache License">Apache 2.0</a> / Varying for individual modules</td>
+<td><a href="/wiki/Technische_Universit%C3%A4t_Darmstadt" title="Technische Universität Darmstadt">Technische Universität Darmstadt</a> / Online community</td>
+<td><a rel="nofollow" class="external autonumber" href="https://dkpro.github.io/dkpro-core/">[7]</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=FreeLing&amp;action=edit&amp;redlink=1" class="new" title="FreeLing (page does not exist)">FreeLing</a></td>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a> (with <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, and <a href="/wiki/Perl" title="Perl">Perl</a> APIs)</td>
+<td>Affero GPL</td>
+<td><a rel="nofollow" class="external text" href="http://www.talp.upc.edu">TALP Research Center</a>, <a href="/wiki/Universitat_Polit%C3%A8cnica_de_Catalunya" class="mw-redirect" title="Universitat Politècnica de Catalunya">Universitat Politècnica de Catalunya</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://nlp.cs.upc.edu/freeling">[8]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/General_Architecture_for_Text_Engineering" title="General Architecture for Text Engineering">General Architecture for Text Engineering</a> (GATE)</td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="/wiki/LGPL" class="mw-redirect" title="LGPL">LGPL</a></td>
+<td>GATE open source community</td>
+<td><a rel="nofollow" class="external autonumber" href="http://gate.ac.uk/">[9]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Gensim" title="Gensim">Gensim</a></td>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="/wiki/LGPL" class="mw-redirect" title="LGPL">LGPL</a></td>
+<td>Radim Řehůřek</td>
+<td><a rel="nofollow" class="external autonumber" href="https://github.com/piskvorky/gensim/">[10]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/LinguaStream" title="LinguaStream">LinguaStream</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td>Free for research</td>
+<td><a href="/wiki/University_of_Caen" class="mw-redirect" title="University of Caen">University of Caen</a>, <a href="/wiki/France" title="France">France</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.linguastream.org/">[11]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mallet_(software_project)" title="Mallet (software project)">Mallet</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="/wiki/Common_Public_License" title="Common Public License">Common Public License</a></td>
+<td><a href="/wiki/University_of_Massachusetts_Amherst" title="University of Massachusetts Amherst">University of Massachusetts Amherst</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://mallet.cs.umass.edu/">[12]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Modular_Audio_Recognition_Framework" title="Modular Audio Recognition Framework">Modular Audio Recognition Framework</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="/wiki/BSD_license" class="mw-redirect" title="BSD license">BSD</a></td>
+<td>The MARF Research and Development Group, <a href="/wiki/Concordia_University_(Quebec)" class="mw-redirect" title="Concordia University (Quebec)">Concordia University</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://marf.sf.net">[13]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/MontyLingua" title="MontyLingua">MontyLingua</a></td>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td>Free for research</td>
+<td><a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://web.media.mit.edu/~hugo/montylingua/">[14]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Natural_Language_Toolkit" title="Natural Language Toolkit">Natural Language Toolkit</a> (NLTK)</td>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="/wiki/Apache_License" title="Apache License">Apache 2.0</a></td>
+<td></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.nltk.org">[15]</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=TextBlob&amp;action=edit&amp;redlink=1" class="new" title="TextBlob (page does not exist)">TextBlob</a></td>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="/wiki/MIT_License" title="MIT License">MIT</a></td>
+<td>Steven Loria et al</td>
+<td><a rel="nofollow" class="external autonumber" href="https://textblob.readthedocs.io/en/dev/">[16]</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Rosoka_Toolkit&amp;action=edit&amp;redlink=1" class="new" title="Rosoka Toolkit (page does not exist)">Rosoka Toolkit</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td>Commercial</td>
+<td><a href="/w/index.php?title=Rosoka_Software,_Corp.&amp;action=edit&amp;redlink=1" class="new" title="Rosoka Software, Corp. (page does not exist)">Rosoka Software, Corp.</a></td>
+<td><a rel="nofollow" class="external autonumber" href="https://www.rosoka.com/natural-language-processing">[17]</a></td>
+</tr>
+<tr>
+<td>Apache <a href="/wiki/OpenNLP" class="mw-redirect" title="OpenNLP">OpenNLP</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="/wiki/Apache_Software_Foundation" title="Apache Software Foundation">Apache License 2.0</a></td>
+<td>Online community</td>
+<td><a rel="nofollow" class="external autonumber" href="http://opennlp.apache.org">[18]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/SpaCy" title="SpaCy">spaCy</a></td>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/Cython" title="Cython">Cython</a></td>
+<td><a href="/wiki/MIT_License" title="MIT License">MIT</a></td>
+<td>Matthew Honnibal, Explosion AI</td>
+<td><a rel="nofollow" class="external autonumber" href="https://spacy.io">[19]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/UIMA" title="UIMA">UIMA</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> / <a href="/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="/wiki/Apache_License" title="Apache License">Apache 2.0</a></td>
+<td><a href="/wiki/Apache_Software_Foundation" title="Apache Software Foundation">Apache</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://incubator.apache.org/uima/index.html">[20]</a></td>
+</tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://github.com/IllinoisCogComp/illinois-cogcomp-nlp">CogcompNLP</a></td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td>Research and Academic Use License</td>
+<td>Cognitive Computation Group (Dan Roth)</td>
+<td><a rel="nofollow" class="external autonumber" href="https://github.com/IllinoisCogComp/illinois-cogcomp-nlp">[21]</a></td>
+</tr>
+<tr>
+<td>CoreNLP</td>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td>GNU GPL</td>
+<td>Stanford</td>
+<td><a rel="nofollow" class="external autonumber" href="https://stanfordnlp.github.io/CoreNLP/index.html">[22]</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Named_entity_recognizers">Named entity recognizers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=17" title="Edit section: Named entity recognizers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>ABNER (A Biomedical Named Entity Recognizer) – open source text mining program that uses linear-chain conditional random field sequence models. It automatically tags genes, proteins and other entity names in text. Written by Burr Settles of the University of Wisconsin-Madison.</li>
+<li><a rel="nofollow" class="external text" href="http://nlp.stanford.edu/software/CRF-NER.shtml">Stanford NER</a> (Named Entity Recognizer) — java implementation of a Named Entity Recognizer that uses linear-chain conditional random field sequence models. It automatically tags persons, organizations, and locations in text in English, German, Chinese, and Spanish languages. Written by Jenny Finkle and other members of the Stanford NLP Group at Stanford University.</li>
+</ul>
+<h3><span class="mw-headline" id="Translation_software">Translation software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=18" title="Edit section: Translation software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Comparison_of_machine_translation_applications" title="Comparison of machine translation applications">Comparison of machine translation applications</a></li>
+<li>Machine translation applications
+<ul>
+<li><a href="/wiki/Google_Translate" title="Google Translate">Google Translate</a></li>
+<li><a href="/wiki/Linguee" title="Linguee">Linguee</a> – web service that provides an online dictionary for a number of language pairs. Unlike similar services, such as LEO, Linguee incorporates a search engine that provides access to large amounts of bilingual, translated sentence pairs, which come from the World Wide Web. As a translation aid, Linguee therefore differs from machine translation services like Babelfish and is more similar in function to a translation memory.</li>
+<li><a href="/wiki/Hindi-to-Punjabi_Machine_Translation_System" title="Hindi-to-Punjabi Machine Translation System">Hindi-to-Punjabi Machine Translation System</a></li>
+<li><a href="/wiki/Universal_Networking_Language" title="Universal Networking Language">UNL</a> Universal Networking Language</li>
+<li><a href="/wiki/Yahoo!_Babel_Fish" class="mw-redirect" title="Yahoo! Babel Fish">Yahoo! Babel Fish</a></li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Other_software">Other software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=19" title="Edit section: Other software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/w/index.php?title=Boris_(software)&amp;action=edit&amp;redlink=1" class="new" title="Boris (software) (page does not exist)">BORIS</a> –</li>
+<li><a href="/wiki/CTAKES" title="CTAKES">CTAKES</a> – open-source natural language processing system for information extraction from electronic medical record clinical free-text. It processes clinical notes, identifying types of clinical named entities — drugs, diseases/disorders, signs/symptoms, anatomical sites and procedures. Each named entity has attributes for the text span, the ontology mapping code, context (family history of, current, unrelated to patient), and negated/not negated. Also known as Apache cTAKES.</li>
+<li><a rel="nofollow" class="external text" href="http://cubic.ai/">Cubic.ai</a> - voice assistant for a smart home. Cubic is a mobile app for Android devices which enables user to control smart home devices with voice commands.</li>
+<li><a href="/wiki/Digital_Media_Access_Protocol" title="Digital Media Access Protocol">DMAP</a> –</li>
+<li><a href="/wiki/ETAP-3" title="ETAP-3">ETAP-3</a> – proprietary linguistic processing system focusing on English and Russian.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> It is a <a href="/wiki/Rule-based_machine_translation" title="Rule-based machine translation">rule-based system</a> which uses the <a href="/wiki/Meaning-Text_Theory" class="mw-redirect" title="Meaning-Text Theory">Meaning-Text Theory</a> as its theoretical foundation.</li>
+<li><a href="/wiki/JAPE_(linguistics)" title="JAPE (linguistics)">JAPE</a> – the Java Annotation Patterns Engine, a component of the open-source General Architecture for Text Engineering (GATE) platform. JAPE is a finite state transducer that operates over annotations based on regular expressions.</li>
+<li><a href="/wiki/LOLITA" title="LOLITA">LOLITA</a> – "Large-scale, Object-based, Linguistic Interactor, Translator and Analyzer". LOLITA was developed by Roberto Garigliano and colleagues between 1986 and 2000. It was designed as a general-purpose tool for processing unrestricted text that could be the basis of a wide variety of applications. At its core was a semantic network containing some 90,000 interlinked concepts.</li>
+<li><a href="/wiki/Maluuba" title="Maluuba">Maluuba</a> – intelligent personal assistant for Android devices, that uses a contextual approach to search which takes into account the user's geographic location, contacts, and language.</li>
+<li><a href="/wiki/METAL_MT" title="METAL MT">METAL MT</a> – machine translation system developed in the 1980s at the University of Texas and at Siemens which ran on Lisp Machines.</li>
+<li><a href="/wiki/Never-Ending_Language_Learning" title="Never-Ending Language Learning">Never-Ending Language Learning</a> – semantic machine learning system developed by a research team at Carnegie Mellon University, and supported by grants from DARPA, Google, and the NSF, with portions of the system running on a supercomputing cluster provided by Yahoo!.<sup id="cite_ref-NYT2010_14-0" class="reference"><a href="#cite_note-NYT2010-14">[14]</a></sup> NELL was programmed by its developers to be able to identify a basic set of fundamental semantic relationships between a few hundred predefined categories of data, such as cities, companies, emotions and sports teams. Since the beginning of 2010, the Carnegie Mellon research team has been running NELL around the clock, sifting through hundreds of millions of web pages looking for connections between the information it already knows and what it finds through its search process – to make new connections in a manner that is intended to mimic the way humans learn new information.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li><a href="/wiki/NLTK" class="mw-redirect" title="NLTK">NLTK</a> –</li>
+<li><a href="/wiki/Online-translator.com" class="mw-redirect" title="Online-translator.com">Online-translator.com</a> –</li>
+<li><a href="/wiki/Regulus_Grammar_Compiler" title="Regulus Grammar Compiler">Regulus Grammar Compiler</a> – software system for compiling unification grammars into grammars for speech recognition systems.</li>
+<li><a href="/wiki/S_Voice" title="S Voice">S Voice</a> –</li>
+<li><a href="/wiki/Siri_(software)" class="mw-redirect" title="Siri (software)">Siri (software)</a> –</li>
+<li><a href="/wiki/Speaktoit" class="mw-redirect" title="Speaktoit">Speaktoit</a> –</li>
+<li><a href="/wiki/TeLQAS" title="TeLQAS">TeLQAS</a> –</li>
+<li><a href="/wiki/Weka_(machine_learning)" title="Weka (machine learning)">Weka's</a> classification tools –</li>
+<li><a href="/wiki/Word2vec" title="Word2vec">word2vec</a> – models that were developed by a team of researchers led by Thomas Milkov at Google to generate word embeddings that can reconstruct some of the linguistic context of words using shallow, two dimensional neural nets derived from a much larger vector space.</li>
+<li><a href="/wiki/Festival_Speech_Synthesis_System" title="Festival Speech Synthesis System">Festival Speech Synthesis System</a> –</li>
+<li><a href="/wiki/CMU_Sphinx" title="CMU Sphinx">CMU Sphinx</a> speech recognition system –</li>
+<li><a rel="nofollow" class="external text" href="http://parlo.io">Parlo Broca</a> - Enterprise Natural Language Understanding system for building enterprise chatbots</li>
+</ul>
+<h3><span class="mw-headline" id="Chatterbots">Chatterbots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=20" title="Edit section: Chatterbots">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">For online chatterbots with <a href="/wiki/Avatar_(computing)" title="Avatar (computing)">avatars</a>, see <a href="/wiki/Automated_online_assistant" class="mw-redirect" title="Automated online assistant">Automated online assistant</a>.</div>
+<p><a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">Chatterbot</a> – text-based conversation <a href="/wiki/Software_agent" title="Software agent">agent</a> that can interact with human users through some medium, such as an <a href="/wiki/Instant_message" class="mw-redirect" title="Instant message">instant message</a> service. Some chatterbots are designed for specific purposes, while others converse with human users on a wide range of topics.</p>
+<h4><span class="mw-headline" id="Classic_chatterbots">Classic chatterbots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=21" title="Edit section: Classic chatterbots">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Dr._Sbaitso" title="Dr. Sbaitso">Dr. Sbaitso</a></li>
+<li><a href="/wiki/ELIZA" title="ELIZA">ELIZA</a></li>
+<li><a href="/wiki/PARRY" title="PARRY">PARRY</a></li>
+<li><a href="/wiki/Racter" title="Racter">Racter</a> (or Claude Chatterbot)</li>
+<li><a href="/wiki/Mark_V_Shaney" class="mw-redirect" title="Mark V Shaney">Mark V Shaney</a></li>
+</ul>
+<h4><span class="mw-headline" id="General_chatterbots">General chatterbots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=22" title="Edit section: General chatterbots">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Albert_One" title="Albert One">Albert One</a> - 1998 and 1999 <a href="/wiki/Loebner_Prize" title="Loebner Prize">Loebner</a> winner, by <a href="/wiki/Robby_Garner" title="Robby Garner">Robby Garner</a>.</li>
+<li><a href="/wiki/Artificial_Linguistic_Internet_Computer_Entity" title="Artificial Linguistic Internet Computer Entity">A.L.I.C.E.</a> - 2001, 2002, and 2004 <a href="/wiki/Loebner_Prize" title="Loebner Prize">Loebner Prize</a> winner developed by <a href="/wiki/Richard_Wallace_(scientist)" title="Richard Wallace (scientist)">Richard Wallace</a>.</li>
+<li><a href="/wiki/Charlix" class="mw-redirect" title="Charlix">Charlix</a></li>
+<li><a href="/wiki/Cleverbot" title="Cleverbot">Cleverbot</a> (winner of the 2010 Mechanical Intelligence Competition)</li>
+<li><a href="/w/index.php?title=Elbot&amp;action=edit&amp;redlink=1" class="new" title="Elbot (page does not exist)">Elbot</a> - 2008 <a href="/wiki/Loebner_Prize" title="Loebner Prize">Loebner Prize</a> winner, by <a href="/wiki/Fred_Roberts" title="Fred Roberts">Fred Roberts</a>.</li>
+<li><a href="/wiki/Eugene_Goostman" title="Eugene Goostman">Eugene Goostman</a> - 2012 Turing 100 winner, by <a href="/w/index.php?title=Vladimir_Veselov&amp;action=edit&amp;redlink=1" class="new" title="Vladimir Veselov (page does not exist)">Vladimir Veselov</a>.</li>
+<li><a href="/wiki/Fred_(chatterbot)" title="Fred (chatterbot)">Fred</a> - an early chatterbot by <a href="/wiki/Robby_Garner" title="Robby Garner">Robby Garner</a>.</li>
+<li><a href="/wiki/Jabberwacky" title="Jabberwacky">Jabberwacky</a></li>
+<li><a href="/wiki/Jeeney_AI" title="Jeeney AI">Jeeney AI</a></li>
+<li><a href="/wiki/MegaHAL" title="MegaHAL">MegaHAL</a></li>
+<li><a href="/wiki/Mitsuku" title="Mitsuku">Mitsuku</a>, 2013 and 2016 <a href="/wiki/Loebner_Prize" title="Loebner Prize">Loebner Prize</a> winner<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>Rose - ... 2015 - 3x <a href="/wiki/Loebner_Prize" title="Loebner Prize">Loebner Prize</a> winner, by <a href="/wiki/Bruce_Wilcox" title="Bruce Wilcox">Bruce Wilcox</a>.</li>
+<li><a href="/wiki/SimSimi" title="SimSimi">SimSimi</a> - A popular artificial intelligence conversation program that was created in 2002 by ISMaker.</li>
+<li><a href="/wiki/Starship_Titanic#Gameplay" title="Starship Titanic">Spookitalk</a> - A chatterbot used for <a href="/wiki/Non-player_character" title="Non-player character">NPCs</a> in <a href="/wiki/Douglas_Adams" title="Douglas Adams">Douglas Adams</a>' <i><a href="/wiki/Starship_Titanic" title="Starship Titanic">Starship Titanic</a></i> video game.</li>
+<li><a href="/wiki/Ultra_Hal_Assistant" title="Ultra Hal Assistant">Ultra Hal</a> - 2007 <a href="/wiki/Loebner_Prize" title="Loebner Prize">Loebner Prize</a> winner, by <a href="/w/index.php?title=Robert_Medeksza&amp;action=edit&amp;redlink=1" class="new" title="Robert Medeksza (page does not exist)">Robert Medeksza</a>.</li>
+<li><a href="/wiki/Verbot" title="Verbot">Verbot</a></li>
+<li><a rel="nofollow" class="external text" href="http://ai.cronusbot.com/cronus/">Cronus Bot</a>, by Innovative Solutions.</li>
+</ul>
+<h4><span class="mw-headline" id="Instant_messenger_chatterbots">Instant messenger chatterbots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=23" title="Edit section: Instant messenger chatterbots">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/GooglyMinotaur" title="GooglyMinotaur">GooglyMinotaur</a>, specializing in <a href="/wiki/Radiohead" title="Radiohead">Radiohead</a>, the first bot released by <a href="/wiki/ActiveBuddy" class="mw-redirect" title="ActiveBuddy">ActiveBuddy</a> (June 2001-March 2002)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li><a href="/wiki/SmarterChild" title="SmarterChild">SmarterChild</a>, developed by <a href="/wiki/ActiveBuddy" class="mw-redirect" title="ActiveBuddy">ActiveBuddy</a> and released in June 2001<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li><a href="/wiki/Infobot" title="Infobot">Infobot</a>, an assistant on <a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">IRC</a> channels such as <i>#perl</i>, primarily to help out with answering <a href="/wiki/Frequently_Asked_Questions" class="mw-redirect" title="Frequently Asked Questions">Frequently Asked Questions</a> (June 1995-today)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li>
+<li><a href="/wiki/Negobot" title="Negobot">Negobot</a>, a bot designed to catch online pedophiles by posing as a young girl and attempting to elicit personal details from people it speaks to.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="Natural_Language_Understanding_chatterbots">Natural Language Understanding chatterbots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=24" title="Edit section: Natural Language Understanding chatterbots">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/w/index.php?title=OnlineBotBuilder&amp;action=edit&amp;redlink=1" class="new" title="OnlineBotBuilder (page does not exist)">OnlineBotBuilder</a>, the first Online Chatbot Builder for <a href="/w/index.php?title=Microsoft%27s_Luis.ai_service&amp;action=edit&amp;redlink=1" class="new" title="Microsoft's Luis.ai service (page does not exist)">Microsoft's Luis.ai service</a> (March 2017 to present)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Natural_language_processing_organizations">Natural language processing organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=25" title="Edit section: Natural language processing organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/AFNLP" title="AFNLP">AFNLP</a> (Asian Federation of Natural Language Processing Associations) – the organization for coordinating the natural language processing related activities and events in the Asia-Pacific region.</li>
+<li><a href="/wiki/Australasian_Language_Technology_Association" title="Australasian Language Technology Association">Australasian Language Technology Association</a> –</li>
+<li><a href="/wiki/Association_for_Computational_Linguistics" title="Association for Computational Linguistics">Association for Computational Linguistics</a> – international scientific and professional society for people working on problems involving natural language processing.</li>
+</ul>
+<h3><span class="mw-headline" id="Natural_language_processing-related_conferences">Natural language processing-related conferences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=26" title="Edit section: Natural language processing-related conferences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Annual_Meeting_of_the_Association_for_Computational_Linguistics" class="mw-redirect" title="Annual Meeting of the Association for Computational Linguistics">Annual Meeting of the Association for Computational Linguistics</a> (ACL)</li>
+<li><a href="/wiki/International_Conference_on_Intelligent_Text_Processing_and_Computational_Linguistics" class="mw-redirect" title="International Conference on Intelligent Text Processing and Computational Linguistics">International Conference on Intelligent Text Processing and Computational Linguistics</a> (CICLing)</li>
+<li><a href="/wiki/International_Conference_on_Language_Resources_and_Evaluation" title="International Conference on Language Resources and Evaluation">International Conference on Language Resources and Evaluation</a> – biennial conference organised by the European Language Resources Association with the support of institutions and organisations involved in Natural language processing</li>
+<li><a href="/wiki/Annual_Conference_of_the_North_American_Chapter_of_the_Association_for_Computational_Linguistics" class="mw-redirect" title="Annual Conference of the North American Chapter of the Association for Computational Linguistics">Annual Conference of the North American Chapter of the Association for Computational Linguistics</a> (NAACL)</li>
+<li><a href="/wiki/Text,_Speech_and_Dialogue" title="Text, Speech and Dialogue">Text, Speech and Dialogue</a> (TSD) – annual conference</li>
+<li><a href="/wiki/Text_Retrieval_Conference" title="Text Retrieval Conference">Text Retrieval Conference</a> (TREC) – on-going series of workshops focusing on various information retrieval (IR) research areas, or tracks</li>
+</ul>
+<h3><span class="mw-headline" id="Companies_involved_in_natural_language_processing">Companies involved in natural language processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=27" title="Edit section: Companies involved in natural language processing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/AlchemyAPI" title="AlchemyAPI">AlchemyAPI</a> – service provider of a natural language processing API.</li>
+<li><a href="/wiki/Google,_Inc." class="mw-redirect" title="Google, Inc.">Google, Inc.</a> – the Google search engine is an example of automatic summarization, utilizing keyphrase extraction.</li>
+<li><a href="/wiki/Calais_(Reuters_product)" title="Calais (Reuters product)">Calais (Reuters product)</a> – provider of a natural language processing services.</li>
+<li><a href="/wiki/NetBase_Solutions,_Inc." class="mw-redirect" title="NetBase Solutions, Inc.">NetBase Solutions, Inc.</a> – developer of natural language processing technology.</li>
+<li><a href="/wiki/Wolfram_Research,_Inc." class="mw-redirect" title="Wolfram Research, Inc.">Wolfram Research, Inc.</a> developer of natural language processing computation engine <a href="/wiki/Wolfram_Alpha" title="Wolfram Alpha">Wolfram Alpha</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Natural_language_processing_publications">Natural language processing publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=28" title="Edit section: Natural language processing publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=29" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="https://www.amazon.com/Connectionist-Statistical-Symbolic-Approaches-Processing/dp/3540609253">Connectionist, Statistical and Symbolic Approaches to Learning for Natural Language Processing</a></i> – Wermter, S., Riloff E. and Scheler, G. (editors).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> First book that addressed statistical and neural network learning of language.</li>
+<li><i><a rel="nofollow" class="external text" href="http://www.cs.colorado.edu/~martin/slp.html">Speech and Language Processing: An Introduction to Natural Language Processing, Speech Recognition, and Computational Linguistics</a></i> – by <a href="/wiki/Daniel_Jurafsky" title="Daniel Jurafsky">Daniel Jurafsky</a> and <a href="/w/index.php?title=James_H._Martin&amp;action=edit&amp;redlink=1" class="new" title="James H. Martin (page does not exist)">James H. Martin</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Introductory book on language technology.</li>
+</ul>
+<h4><span class="mw-headline" id="Book_series">Book series</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=30" title="Edit section: Book series">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><i><a href="/wiki/Studies_in_Natural_Language_Processing" title="Studies in Natural Language Processing">Studies in Natural Language Processing</a></i> – book series of the Association for Computational Linguistics, published by Cambridge University Press.</li>
+</ul>
+<h3><span class="mw-headline" id="Journals">Journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=31" title="Edit section: Journals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Computational_Linguistics_(journal)" title="Computational Linguistics (journal)">Computational Linguistics</a></i> – peer-reviewed academic journal in the field of computational linguistics. It is published quarterly by MIT Press for the Association for Computational Linguistics (ACL)</li>
+</ul>
+<h2><span class="mw-headline" id="Persons_influential_in_natural_language_processing">Persons influential in natural language processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=32" title="Edit section: Persons influential in natural language processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Daniel_Bobrow" class="mw-redirect" title="Daniel Bobrow">Daniel Bobrow</a> –</li>
+<li><a href="/wiki/Rollo_Carpenter" title="Rollo Carpenter">Rollo Carpenter</a> – creator of Jabberwacky and Cleverbot.</li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a> – author of the seminal work <i><a href="/wiki/Syntactic_Structures" title="Syntactic Structures">Syntactic Structures</a></i>, which revolutionized Linguistics with '<a href="/wiki/Universal_grammar" title="Universal grammar">universal grammar</a>', a rule based system of syntactic structures.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li><a href="/wiki/Kenneth_Colby" title="Kenneth Colby">Kenneth Colby</a> –</li>
+<li><a href="/wiki/David_Ferrucci" title="David Ferrucci">David Ferrucci</a> – principal investigator of the team that created <a href="/wiki/Watson_(computer)" title="Watson (computer)">Watson</a>, IBM's AI computer that won the quiz show <i>Jeopardy!</i></li>
+<li><a href="/wiki/Lyn_Frazier" title="Lyn Frazier">Lyn Frazier</a> –</li>
+<li><a href="/wiki/Daniel_Jurafsky" title="Daniel Jurafsky">Daniel Jurafsky</a> – Professor of Linguistics and Computer Science at Stanford University. With <a href="/w/index.php?title=James_H._Martin&amp;action=edit&amp;redlink=1" class="new" title="James H. Martin (page does not exist)">James H. Martin</a>, he wrote the textbook <i>Speech and Language Processing: An Introduction to Natural Language Processing, Speech Recognition, and Computational Linguistics</i></li>
+<li><a href="/wiki/Roger_Schank" title="Roger Schank">Roger Schank</a> – introduced the <a href="/wiki/Conceptual_dependency_theory" title="Conceptual dependency theory">conceptual dependency theory</a> for natural language understanding.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li><a href="/wiki/Jean_E._Fox_Tree" title="Jean E. Fox Tree">Jean E. Fox Tree</a> –</li>
+<li><a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a> – originator of the <a href="/wiki/Turing_Test" class="mw-redirect" title="Turing Test">Turing Test</a>.</li>
+<li><a href="/wiki/Joseph_Weizenbaum" title="Joseph Weizenbaum">Joseph Weizenbaum</a> – author of the <a href="/wiki/ELIZA" title="ELIZA">ELIZA</a> <a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">chatterbot</a>.</li>
+<li><a href="/wiki/Terry_Winograd" title="Terry Winograd">Terry Winograd</a> – professor of computer science at Stanford University, and co-director of the Stanford Human-Computer Interaction Group. He is known within the philosophy of mind and artificial intelligence fields for his work on natural language using the SHRDLU program.</li>
+<li><a href="/wiki/William_Aaron_Woods" title="William Aaron Woods">William Aaron Woods</a> –</li>
+<li><a href="/wiki/Maurice_Gross" title="Maurice Gross">Maurice Gross</a> – author of the concept of local grammar,<sup id="cite_ref-AHI_26-0" class="reference"><a href="#cite_note-AHI-26">[26]</a></sup> taking finite automata as the competence model of language.<sup id="cite_ref-RD_27-0" class="reference"><a href="#cite_note-RD-27">[27]</a></sup> Local grammars consisting of finite automata, coupled with morpho-syntactic dictionaries support automatic text analysis<sup id="cite_ref-AHI_26-1" class="reference"><a href="#cite_note-AHI-26">[26]</a></sup><sup id="cite_ref-BL_28-0" class="reference"><a href="#cite_note-BL-28">[28]</a></sup> by Intex software (now <a rel="nofollow" class="external text" href="http://www.nooj4nlp.net">NooJ</a>) developed by Max Silberztein and by <a rel="nofollow" class="external text" href="http://www-igm.univ-mlv.fr/~unitex/index.php">Unitex/GramLab</a> developed by the <a rel="nofollow" class="external text" href="http://ligm.u-pem.fr/">Gaspard-Monge Computer Science Laboratory (LIGM)</a>.</li>
+<li><a href="/wiki/Stephen_Wolfram" title="Stephen Wolfram">Stephen Wolfram</a> – CEO and founder of <a href="/wiki/Wolfram_Research" title="Wolfram Research">Wolfram Research</a>, creator of the programming language (natural language understanding) <a href="/wiki/Wolfram_Language" title="Wolfram Language">Wolfram Language</a>, and natural language processing computation engine <a href="/wiki/Wolfram_Alpha" title="Wolfram Alpha">Wolfram Alpha</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li><a href="/wiki/Victor_Yngve" title="Victor Yngve">Victor Yngve</a> –</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=33" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Computer-assisted_reviewing" title="Computer-assisted reviewing">Computer-assisted reviewing</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Watson_(computer)" title="Watson (computer)">Watson (computer)</a></li>
+<li><a href="/wiki/Biomedical_text_mining" title="Biomedical text mining">Biomedical text mining</a></li>
+<li><a href="/wiki/Compound_term_processing" title="Compound term processing">Compound term processing</a></li>
+<li><a href="/wiki/Computer-assisted_reviewing" title="Computer-assisted reviewing">Computer-assisted reviewing</a></li>
+<li><a href="/wiki/Controlled_natural_language" title="Controlled natural language">Controlled natural language</a></li>
+<li><a href="/wiki/Deep_linguistic_processing" title="Deep linguistic processing">Deep linguistic processing</a></li>
+<li><a href="/wiki/Foreign_language_reading_aid" class="mw-redirect" title="Foreign language reading aid">Foreign language reading aid</a></li>
+<li><a href="/wiki/Foreign_language_writing_aid" title="Foreign language writing aid">Foreign language writing aid</a></li>
+<li><a href="/wiki/Language_technology" title="Language technology">Language technology</a></li>
+<li><a href="/wiki/Latent_Dirichlet_allocation" title="Latent Dirichlet allocation">Latent Dirichlet allocation (LDA)</a></li>
+<li><a href="/wiki/Latent_semantic_indexing" class="mw-redirect" title="Latent semantic indexing">Latent semantic indexing</a></li>
+<li><a href="/wiki/List_of_natural_language_processing_toolkits" class="mw-redirect" title="List of natural language processing toolkits">List of natural language processing toolkits</a></li>
+<li><a href="/wiki/LRE_Map" title="LRE Map">LRE Map</a></li>
+<li><a href="/wiki/Natural_language_programming" class="mw-redirect" title="Natural language programming">Natural language programming</a></li>
+<li><a href="/wiki/Reification_(linguistics)" title="Reification (linguistics)">Reification (linguistics)</a></li>
+<li><a href="/wiki/Semantic_folding" title="Semantic folding">Semantic folding</a></li>
+<li><a href="/wiki/Spoken_dialogue_system" class="mw-redirect" title="Spoken dialogue system">Spoken dialogue system</a></li>
+<li><a href="/wiki/Thought_vector" title="Thought vector">Thought vector</a></li>
+<li><a href="/wiki/Transderivational_search" title="Transderivational search">Transderivational search</a></li>
+<li><a href="/wiki/Word2vec" title="Word2vec">Word2vec</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=34" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+<div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Natural language processing</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div>
+<ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="wikt:Special:Search/Natural language processing">Definitions</a> from Wiktionary</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="c:Special:Search/Natural language processing">Media</a> from Wikimedia Commons</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikinews.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="n:Special:Search/Natural language processing">News</a> from Wikinews</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="q:Special:Search/Natural language processing">Quotations</a> from Wikiquote</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" width="26" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikisource.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="s:Special:Search/Natural language processing">Texts</a> from Wikisource</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikibooks.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="b:Special:Search/Natural language processing">Textbooks</a> from Wikibooks</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Special:Search/Natural_language_processing" class="extiw" title="v:Special:Search/Natural language processing">Learning resources</a> from Wikiversity</span></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://wikimindmap.com/viewmap.php?wiki=en.wikipedia.org&amp;topic=Outline+of+natural+language+processing&amp;Submit=Search">This outline displayed as a mindmap</a>, at <i>wikimindmap.com</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.avaamo.com/">Chatbot Platform</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit&amp;section=35" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">"... modern science is a discovery as well as an invention. It was a discovery that nature generally acts regularly enough to be described by laws and even by mathematics; and required invention to devise the techniques, abstractions, apparatus, and organization for exhibiting the regularities and securing their law-like descriptions."&#160;—p.vii, <a href="/wiki/J._L._Heilbron" class="mw-redirect" title="J. L. Heilbron">J. L. Heilbron</a>, (2003, editor-in-chief) <i>The Oxford Companion to the History of Modern Science</i> New York: Oxford University Press <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-511229-6" title="Special:BookSources/0-19-511229-6">0-19-511229-6</a></span>
+<ul>
+<li><span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/science">"science"</a>. <i>Merriam-Webster Online Dictionary</i>. <a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a>, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-16</span></span>. <q><b>3 a:</b> knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method <b>b:</b> such knowledge or such a system of knowledge concerned with the physical world and its phenomena</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=science&amp;rft.btitle=Merriam-Webster+Online+Dictionary&amp;rft.pub=Merriam-Webster%2C+Inc&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fscience&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ul>
+</li>
+<li id="cite_note-BoDu04-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-BoDu04_2-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Software_Engineering_Body_of_Knowledge" title="Software Engineering Body of Knowledge">SWEBOK</a> <cite class="citation book">executive editors, Alain Abran, James W. Moore&#160;; editors, Pierre Bourque, Robert Dupuis. (2004). Pierre Bourque and Robert Dupuis, eds. <a rel="nofollow" class="external text" href="http://www.swebok.org"><i>Guide to the Software Engineering Body of Knowledge - 2004 Version</i></a>. <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>. pp.&#160;1–1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7695-2330-7" title="Special:BookSources/0-7695-2330-7">0-7695-2330-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Guide+to+the+Software+Engineering+Body+of+Knowledge+-+2004+Version&amp;rft.pages=1-1&amp;rft.pub=IEEE+Computer+Society&amp;rft.date=2004&amp;rft.isbn=0-7695-2330-7&amp;rft.au=executive+editors%2C+Alain+Abran%2C+James+W.+Moore+%3B+editors%2C+Pierre+Bourque%2C+Robert+Dupuis.&amp;rft_id=http%3A%2F%2Fwww.swebok.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>) CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">ACM (2006). <a rel="nofollow" class="external text" href="http://computingcareers.acm.org/?page_id=12">"Computing Degrees &amp; Careers"</a>. ACM<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Computing+Degrees+%26+Careers&amp;rft.pub=ACM&amp;rft.date=2006&amp;rft.au=ACM&amp;rft_id=http%3A%2F%2Fcomputingcareers.acm.org%2F%3Fpage_id%3D12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Laplante, Phillip (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pFHYk0KWAEgC&amp;lpg=PP1&amp;dq=What%20Every%20Engineer%20Should%20Know%20about%20Software%20Engineering.&amp;pg=PA1#v=onepage&amp;q&amp;f=false"><i>What Every Engineer Should Know about Software Engineering</i></a>. Boca Raton: CRC. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8493-7228-5" title="Special:BookSources/978-0-8493-7228-5">978-0-8493-7228-5</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=What+Every+Engineer+Should+Know+about+Software+Engineering&amp;rft.place=Boca+Raton&amp;rft.pub=CRC&amp;rft.date=2007&amp;rft.isbn=978-0-8493-7228-5&amp;rft.aulast=Laplante&amp;rft.aufirst=Phillip&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpFHYk0KWAEgC%26lpg%3DPP1%26dq%3DWhat%2520Every%2520Engineer%2520Should%2520Know%2520about%2520Software%2520Engineering.%26pg%3DPA1%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerhope.com/jargon/i/inputdev.htm">Input device</a> Computer Hope</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">McQuail, Denis. (2005). <i>Mcquail's Mass Communication Theory</i>. 5th ed. London: SAGE Publications.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Yucong Duan, Christophe Cruz (2011), <i>[http –//www.ijimt.org/abstract/100-E00187.htm Formalizing Semantic of Natural Language through Conceptualization from Existence]</i>. International Journal of Innovation, Management and Technology(2011) 2 (1), pp. 37-42.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ijsmi, Editor (2017-08-27). <a rel="nofollow" class="external text" href="http://www.ijsmi.com/Journal/index.php/IJSMI/article/view/8">"Natural Language Processing concepts and methods revisited"</a>. <i>International Journal of Statistics and Medical Informatics</i>. <b>4</b> (1). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3000%2Fijsmi.v4i1.8.g23">10.3000/ijsmi.v4i1.8.g23</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Statistics+and+Medical+Informatics&amp;rft.atitle=Natural+Language+Processing+concepts+and+methods+revisited&amp;rft.volume=4&amp;rft.issue=1&amp;rft.date=2017-08-27&amp;rft_id=info%3Adoi%2F10.3000%2Fijsmi.v4i1.8.g23&amp;rft.aulast=Ijsmi&amp;rft.aufirst=Editor&amp;rft_id=http%3A%2F%2Fwww.ijsmi.com%2FJournal%2Findex.php%2FIJSMI%2Farticle%2Fview%2F8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://thebrain.mcgill.ca/flash/capsules/outil_rouge06.html">McGill University, Tool Module: Chomsky’s Universal Grammar</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="/wiki/Roger_Schank" title="Roger Schank">Roger Schank</a>, 1969, <i>A conceptual dependency parser for natural language</i> Proceedings of the 1969 conference on Computational linguistics, Sång-Säby, Sweden pages 1-3</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="#CITEREFMcCorduck2004">McCorduck 2004</a>, p.&#160;286, <a href="#CITEREFCrevier1993">Crevier 1993</a>, pp.&#160;76−79, <a href="#CITEREFRussellNorvig2003">Russell &amp; Norvig 2003</a>, p.&#160;19</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#CITEREFMcCorduck2004">McCorduck 2004</a>, pp.&#160;291–296, <a href="#CITEREFCrevier1993">Crevier 1993</a>, pp.&#160;134−139</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iitp.ru/ru/science/works/452.htm">"МНОГОЦЕЛЕВОЙ ЛИНГВИСТИЧЕСКИЙ ПРОЦЕССОР ЭТАП-3"</a>. Iitp.ru<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%9C%D0%9D%D0%9E%D0%93%D0%9E%D0%A6%D0%95%D0%9B%D0%95%D0%92%D0%9E%D0%99+%D0%9B%D0%98%D0%9D%D0%93%D0%92%D0%98%D0%A1%D0%A2%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%98%D0%99+%D0%9F%D0%A0%D0%9E%D0%A6%D0%95%D0%A1%D0%A1%D0%9E%D0%A0+%D0%AD%D0%A2%D0%90%D0%9F-3&amp;rft.pub=Iitp.ru&amp;rft_id=http%3A%2F%2Fwww.iitp.ru%2Fru%2Fscience%2Fworks%2F452.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYT2010-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYT2010_14-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2010/10/05/science/05compute.html?hpw=&amp;pagewanted=all">"Aiming to Learn as We Do, a Machine Teaches Itself"</a>. <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i>. October 4, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-05</span></span>. <q>Since the start of the year, a team of researchers at Carnegie Mellon University — supported by grants from the Defense Advanced Research Projects Agency and Google, and tapping into a research supercomputing cluster provided by Yahoo — has been fine-tuning a computer system that is trying to master semantics by learning more like a human.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Aiming+to+Learn+as+We+Do%2C+a+Machine+Teaches+Itself&amp;rft.date=2010-10-04&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2010%2F10%2F05%2Fscience%2F05compute.html%3Fhpw%3D%26pagewanted%3Dall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rtw.ml.cmu.edu/rtw/overview">Project Overview</a>, <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>. Accessed October 5, 2010.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.paulmckevitt.com/loebner2013/">"Loebner Prize Contest 2013"</a>. People.exeter.ac.uk. 2013-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Loebner+Prize+Contest+2013&amp;rft.pub=People.exeter.ac.uk&amp;rft.date=2013-09-14&amp;rft_id=http%3A%2F%2Fwww.paulmckevitt.com%2Floebner2013%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Gibes, Al (2002-03-25). "Circle of buddies grows ever wider". <i>Las Vegas Review-Journal (Nevada)</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Las+Vegas+Review-Journal+%28Nevada%29&amp;rft.atitle=Circle+of+buddies+grows+ever+wider&amp;rft.date=2002-03-25&amp;rft.aulast=Gibes&amp;rft.aufirst=Al&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thefreelibrary.com/ActiveBuddy+Introduces+Software+to+Create+and+Deploy+Interactive...-a088988298">"ActiveBuddy Introduces Software to Create and Deploy Interactive Agents for Text Messaging; ActiveBuddy Developer Site Now Open: www.BuddyScript.com"</a>. <i>Business Wire</i>. 2002-07-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Wire&amp;rft.atitle=ActiveBuddy+Introduces+Software+to+Create+and+Deploy+Interactive+Agents+for+Text+Messaging%3B+ActiveBuddy+Developer+Site+Now+Open%3A+www.BuddyScript.com&amp;rft.date=2002-07-15&amp;rft_id=http%3A%2F%2Fwww.thefreelibrary.com%2FActiveBuddy%2BIntroduces%2BSoftware%2Bto%2BCreate%2Band%2BDeploy%2BInteractive...-a088988298&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lenzo, Kevin (Summer 1998). <a rel="nofollow" class="external text" href="http://www.foo.be/docs/tpj/issues/vol3_2/tpj0302-0002.html">"Infobots and Purl"</a>. <i>The Perl Journal</i>. <b>3</b> (2)<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Perl+Journal&amp;rft.atitle=Infobots+and+Purl&amp;rft.ssn=spring&amp;rft.volume=3&amp;rft.issue=2&amp;rft.date=1998&amp;rft.aulast=Lenzo&amp;rft.aufirst=Kevin&amp;rft_id=http%3A%2F%2Fwww.foo.be%2Fdocs%2Ftpj%2Fissues%2Fvol3_2%2Ftpj0302-0002.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Laorden, Carlos; Galan-Garcia, Patxi; Santos, Igor; Sanz, Borja; Hidalgo, Jose Maria Gomez; Bringas, Pablo G. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130917013039/http://paginaspersonales.deusto.es/isantos/publications/2012/Laorden_2012_CISIS_Negobot.pdf">"Negobot: A conversational agent based on game theory for the detection of paedophile behaviour"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-33018-6" title="Special:BookSources/978-3-642-33018-6">978-3-642-33018-6</a>. Archived from <a rel="nofollow" class="external text" href="http://paginaspersonales.deusto.es/isantos/publications/2012/Laorden_2012_CISIS_Negobot.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2013-09-17.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Negobot%3A+A+conversational+agent+based+on+game+theory+for+the+detection+of+paedophile+behaviour&amp;rft.isbn=978-3-642-33018-6&amp;rft.aulast=Laorden&amp;rft.aufirst=Carlos&amp;rft.au=Galan-Garcia%2C+Patxi&amp;rft.au=Santos%2C+Igor&amp;rft.au=Sanz%2C+Borja&amp;rft.au=Hidalgo%2C+Jose+Maria+Gomez&amp;rft.au=Bringas%2C+Pablo+G.&amp;rft_id=http%3A%2F%2Fpaginaspersonales.deusto.es%2Fisantos%2Fpublications%2F2012%2FLaorden_2012_CISIS_Negobot.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Potschka, Rob (2017-03-04). <a rel="nofollow" class="external text" href="http://OnlineBotBuilder.com">"Online Bot Builder! Always Free! OnlineBotBuilder.com"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Online+Bot+Builder%21+Always+Free%21+OnlineBotBuilder.com&amp;rft.date=2017-03-04&amp;rft.aulast=Potschka&amp;rft.aufirst=Rob&amp;rft_id=http%3A%2F%2FOnlineBotBuilder.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Wermter, Stephan; Ellen Riloff; Gabriele Scheler (1996). <i>Connectionist, Statistical and Symbolic Approaches to Learning for Natural Language Processing</i>. Springer.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Connectionist%2C+Statistical+and+Symbolic+Approaches+to+Learning+for+Natural+Language+Processing&amp;rft.pub=Springer&amp;rft.date=1996&amp;rft.aulast=Wermter&amp;rft.aufirst=Stephan&amp;rft.au=Ellen+Riloff&amp;rft.au=Gabriele+Scheler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">Jurafsky, Dan; James H. Martin (2008). <a rel="nofollow" class="external text" href="http://www.cs.colorado.edu/~martin/slp.html"><i>Speech and Language Processing. An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition</i></a> (2nd ed.). Upper Saddle River (N.J.): Prentice Hall. p.&#160;2.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Speech+and+Language+Processing.+An+Introduction+to+Natural+Language+Processing%2C+Computational+Linguistics%2C+and+Speech+Recognition&amp;rft.place=Upper+Saddle+River+%28N.J.%29&amp;rft.pages=2&amp;rft.edition=2nd&amp;rft.pub=Prentice+Hall&amp;rft.date=2008&amp;rft.aulast=Jurafsky&amp;rft.aufirst=Dan&amp;rft.au=James+H.+Martin&amp;rft_id=http%3A%2F%2Fwww.cs.colorado.edu%2F~martin%2Fslp.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.bham.ac.uk/~pjh/sem1a5/pt1/pt1_history.html">"SEM1A5 - Part 1 - A brief history of NLP"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SEM1A5+-+Part+1+-+A+brief+history+of+NLP&amp;rft_id=http%3A%2F%2Fwww.cs.bham.ac.uk%2F~pjh%2Fsem1a5%2Fpt1%2Fpt1_history.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+natural+language+processing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a href="/wiki/Roger_Schank" title="Roger Schank">Roger Schank</a>, 1969, <i>A conceptual dependency parser for natural language</i> Proceedings of the 1969 conference on Computational linguistics, Sång-Säby, Sweden, pages 1-3</span></li>
+<li id="cite_note-AHI-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-AHI_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AHI_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hdl.handle.net/2042/14456">Ibrahim, Amr Helmy. 2002. "Maurice Gross (1934-2001). À la mémoire de Maurice Gross". <i>Hermès</i> 34.</a></span></li>
+<li id="cite_note-RD-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-RD_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nyu.edu/pages/linguistics/kaliedoscope/mauricegross13.pdf">Dougherty, Ray. 2001. <i>Maurice Gross Memorial Letter</i>.</a></span></li>
+<li id="cite_note-BL-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-BL_28-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cairn.info/article.php?ID_ARTICLE=TL_046_0145">Lamiroy, Béatrice. 2003. " In memoriam Maurice Gross ", <i>Travaux de linguistique</i> 46:1, pp. 145-158.</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://blog.wolfram.com/2010/11/16/programming-with-natural-language-is-actually-going-to-work/">http://blog.wolfram.com/2010/11/16/programming-with-natural-language-is-actually-going-to-work/</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Outlines" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Outline_footer" title="Template:Outline footer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Outline_footer" title="Template talk:Outline footer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Outline_footer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Outlines" style="font-size:114%;margin:0 4em"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Outlines</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/Portal:Contents/Outlines#General_reference" title="Portal:Contents/Outlines">General reference</a>
+<ul>
+<li><a href="/wiki/Portal:Contents/Outlines#Culture_and_the_arts" title="Portal:Contents/Outlines">Culture and the arts</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Geography_and_places" title="Portal:Contents/Outlines">Geography and places</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Health_and_fitness" title="Portal:Contents/Outlines">Health and fitness</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#History_and_events" title="Portal:Contents/Outlines">History and events</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Mathematics_and_logic" title="Portal:Contents/Outlines">Mathematics and logic</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Natural_and_physical_sciences" title="Portal:Contents/Outlines">Natural and physical sciences</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#People_and_self" title="Portal:Contents/Outlines">People and self</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Philosophy_and_thinking" title="Portal:Contents/Outlines">Philosophy and thinking</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Religion_and_belief_systems" title="Portal:Contents/Outlines">Religion and belief systems</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Society_and_social_sciences" title="Portal:Contents/Outlines">Society and social sciences</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Technology_and_applied_sciences" title="Portal:Contents/Outlines">Technology and applied sciences</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20180215124003
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.391 seconds
+Preprocessor visited node count: 2204/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54988/2097152 bytes
+Template argument size: 4429/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 4.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  261.532      1 -total
+ 59.23%  154.912      1 Template:Reflist
+ 16.61%   43.431      1 Template:Cleanup_reorganize
+ 12.03%   31.475      2 Template:Ambox
+ 11.90%   31.118      1 Template:Cite_dictionary
+  8.18%   21.390      5 Template:Cite_web
+  8.11%   21.205      1 Template:ISBN
+  6.50%   16.995      4 Template:Cite_book
+  6.45%   16.867      4 Template:Cite_news
+  5.63%   14.729      1 Template:Columns-list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37764426-0!canonical and timestamp 20180215124002 and revision id 824387096
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Outline_of_natural_language_processing&amp;oldid=824387096#Chatterbots">https://en.wikipedia.org/w/index.php?title=Outline_of_natural_language_processing&amp;oldid=824387096#Chatterbots</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Natural_language_processing" title="Category:Natural language processing">Natural language processing</a></li><li><a href="/wiki/Category:Wikipedia_outlines" title="Category:Wikipedia outlines">Wikipedia outlines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_reorganization_from_May_2017" title="Category:Wikipedia articles needing reorganization from May 2017">Wikipedia articles needing reorganization from May 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_May_2017" title="Category:Wikipedia articles needing style editing from May 2017">Wikipedia articles needing style editing from May 2017</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">Pages using div col without cols and colwidth parameters</a></li><li><a href="/wiki/Category:Pages_using_Columns-list_with_deprecated_parameters" title="Category:Pages using Columns-list with deprecated parameters">Pages using Columns-list with deprecated parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Outline+of+natural+language+processing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Outline+of+natural+language+processing" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Outline_of_natural_language_processing" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Outline_of_natural_language_processing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Outline_of_natural_language_processing">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Outline_of_natural_language_processing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Outline_of_natural_language_processing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;oldid=824387096" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7112689" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Outline_of_natural_language_processing&amp;id=824387096" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Outline+of+natural+language+processing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Outline+of+natural+language+processing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Outline_of_natural_language_processing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7112689#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 7 February 2018, at 01:13.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Outline_of_natural_language_processing&amp;mobileaction=toggle_view_mobile#Chatterbots" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.391","ppvisitednodes":{"value":2204,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54988,"limit":2097152},"templateargumentsize":{"value":4429,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  261.532      1 -total"," 59.23%  154.912      1 Template:Reflist"," 16.61%   43.431      1 Template:Cleanup_reorganize"," 12.03%   31.475      2 Template:Ambox"," 11.90%   31.118      1 Template:Cite_dictionary","  8.18%   21.390      5 Template:Cite_web","  8.11%   21.205      1 Template:ISBN","  6.50%   16.995      4 Template:Cite_book","  6.45%   16.867      4 Template:Cite_news","  5.63%   14.729      1 Template:Columns-list"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":4515217,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20180215124003","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1319"});});</script>
+	</body>
+</html>

@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ganglion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ganglion","wgTitle":"Ganglion","wgCurRevisionId":822057687,"wgRevisionId":822057687,"wgArticleId":12278,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from February 2014","Neurohistology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ganglion","wgRelevantArticleId":12278,"wgRequestId":"WoVm3wpAIC8AAJlFBOwAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q108158","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ganglion_high_mag.jpg/1200px-Ganglion_high_mag.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ganglion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ganglion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ganglion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ganglion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ganglion rootpage-Ganglion skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Ganglion</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about neuron clusters. For other uses, see <a href="/wiki/Ganglion_(disambiguation)" class="mw-disambig" title="Ganglion (disambiguation)">Ganglion (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Ganglia" redirects here. For other uses, see <a href="/wiki/Ganglia_(disambiguation)" class="mw-disambig" title="Ganglia (disambiguation)">Ganglia (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:dimgray; color: white"><i>Ganglion</i></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ganglion_high_mag.jpg" class="image"><img alt="Ganglion high mag.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ganglion_high_mag.jpg/250px-Ganglion_high_mag.jpg" width="250" height="375" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ganglion_high_mag.jpg/375px-Ganglion_high_mag.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ganglion_high_mag.jpg/500px-Ganglion_high_mag.jpg 2x" data-file-width="2848" data-file-height="4272" /></a>
+<div><a href="/wiki/Micrograph" title="Micrograph">Micrograph</a> of a ganglion. <a href="/wiki/H%26E_stain" title="H&amp;E stain">H&amp;E stain</a>.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef">Details</th>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.25em"><a href="/wiki/Organ_system" title="Organ system">System</a></th>
+<td><a href="/wiki/Nervous_system" title="Nervous system">Nervous system</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.25em"><a href="/wiki/Latin" title="Latin">Latin</a></th>
+<td><i>ganglion</i></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.25em"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="https://meshb.nlm.nih.gov/record/ui?ui=D005724">D005724</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.25em"><a href="/wiki/Terminologia_Anatomica" title="Terminologia Anatomica">TA</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/14.2.00.002%20Entity%20TA98%20EN.htm">A14.2.00.002</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.25em"><a href="/wiki/Foundational_Model_of_Anatomy" title="Foundational Model of Anatomy">FMA</a></th>
+<td><a rel="nofollow" class="external text" href="https://bioportal.bioontology.org/ontologies/FMA/?p=classes&amp;conceptid=http%3A%2F%2Fpurl.org%2Fsig%2Font%2Ffma%2Ffma5884">5884</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b><i><a href="/wiki/Anatomical_terminology" title="Anatomical terminology">Anatomical terminology</a></i></b>
+<div style="text-align: right;"><small class="noprint">[<a href="https://www.wikidata.org/wiki/Q108158" class="extiw" title="d:Q108158">edit on Wikidata</a>]</small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:DRG_Chicken_e7.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/DRG_Chicken_e7.jpg/220px-DRG_Chicken_e7.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/DRG_Chicken_e7.jpg/330px-DRG_Chicken_e7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/DRG_Chicken_e7.jpg/440px-DRG_Chicken_e7.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DRG_Chicken_e7.jpg" class="internal" title="Enlarge"></a></div>
+A dorsal root ganglion (DRG) from a chicken embryo (around stage of day 7) after incubation overnight in NGF growth medium stained with anti-neurofilament antibody. Note the axons growing out of the ganglion.</div>
+</div>
+</div>
+<p>A <b>ganglion</b> is a <a href="/wiki/Neuron" title="Neuron">nerve cell</a> cluster<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> or a group of <a href="/wiki/Soma_(biology)" title="Soma (biology)">nerve cell bodies</a> located in the <a href="/wiki/Autonomic_nervous_system" title="Autonomic nervous system">autonomic nervous system</a> and <a href="/wiki/Sensory_system" class="mw-redirect" title="Sensory system">sensory system</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ganglia house the cell bodies of <a href="/wiki/Afferent_nerve" class="mw-redirect" title="Afferent nerve">afferent nerves</a> and efferent nerves.</p>
+<p>A <b>pseudoganglion</b> looks like a ganglion, but only has nerve fibers and has no nerve cell bodies.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Basal_ganglia"><span class="tocnumber">1.1</span> <span class="toctext">Basal ganglia</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pseudoganglion"><span class="tocnumber">1.2</span> <span class="toctext">Pseudoganglion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ganglion&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ganglia are primarily made up of <a href="/wiki/Soma_(biology)" title="Soma (biology)">somata</a> and <a href="/wiki/Dendrite" title="Dendrite">dendritic structures</a> which are bundled or connected. Ganglia often interconnect with other ganglia to form a complex system of ganglia known as a <a href="/wiki/Nerve_plexus" title="Nerve plexus">plexus</a>. Ganglia provide relay points and intermediary connections between different neurological structures in the body, such as the <a href="/wiki/Peripheral_nervous_system" title="Peripheral nervous system">peripheral</a> and <a href="/wiki/Central_nervous_system" title="Central nervous system">central</a> nervous systems.</p>
+<p>Among vertebrates there are three major groups of ganglia:</p>
+<ul>
+<li><a href="/wiki/Dorsal_root_ganglion" title="Dorsal root ganglion">Dorsal root ganglia</a> (also known as the spinal ganglia) contain the cell bodies of <a href="/wiki/Afferent_nerve" class="mw-redirect" title="Afferent nerve">sensory (afferent)</a> <a href="/wiki/Neurons" class="mw-redirect" title="Neurons">neurons</a>.</li>
+<li><a href="/wiki/Cranial_nerve_ganglia" title="Cranial nerve ganglia">Cranial nerve ganglia</a> contain the cell bodies of cranial nerve neurons.</li>
+<li><a href="/wiki/Autonomic_ganglion" title="Autonomic ganglion">Autonomic ganglia</a> contain the cell bodies of <a href="/wiki/Autonomic_nervous_system" title="Autonomic nervous system">autonomic</a> nerves.</li>
+</ul>
+<p>In the autonomic nervous system, fibers from the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a> to the ganglia are known as <a href="/wiki/Preganglionic_fibers" class="mw-redirect" title="Preganglionic fibers">preganglionic fibers</a>, while those from the ganglia to the effector organ are called <a href="/wiki/Postganglionic_fibers" class="mw-redirect" title="Postganglionic fibers">postganglionic fibers</a>.</p>
+<h3><span class="mw-headline" id="Basal_ganglia">Basal ganglia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ganglion&amp;action=edit&amp;section=2" title="Edit section: Basal ganglia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term "ganglion" refers to the <a href="/wiki/Peripheral_nervous_system" title="Peripheral nervous system">peripheral nervous system</a>.<sup id="cite_ref-titleUNSW_Embryology-_Glossary_G_4-0" class="reference"><a href="#cite_note-titleUNSW_Embryology-_Glossary_G-4">[4]</a></sup></p>
+<p>However, in the brain (part of the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a>), the "<a href="/wiki/Basal_ganglia" title="Basal ganglia">basal ganglia</a>" is a group of nuclei interconnected with the <a href="/wiki/Cerebral_cortex" title="Cerebral cortex">cerebral cortex</a>, <a href="/wiki/Thalamus" title="Thalamus">thalamus</a>, and <a href="/wiki/Brainstem" title="Brainstem">brainstem</a>, associated with a variety of functions: motor control, cognition, emotions, and learning.</p>
+<p>Partly due to this ambiguity, the <a href="/wiki/Terminologia_Anatomica" title="Terminologia Anatomica">Terminologia Anatomica</a> recommends using the term basal nuclei instead of basal ganglia; however, this usage has not been generally adopted.</p>
+<h3><span class="mw-headline" id="Pseudoganglion">Pseudoganglion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ganglion&amp;action=edit&amp;section=3" title="Edit section: Pseudoganglion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A pseudoganglion is a localized thickening of the main part or trunk of a nerve that has the appearance of a ganglion<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> but has only nerve fibers and no nerve cell bodies.</p>
+<p>Pseudoganglia are found in the <a href="/wiki/Teres_minor_muscle" title="Teres minor muscle">teres minor muscle</a><sup id="cite_ref-pmid13475146_6-0" class="reference"><a href="#cite_note-pmid13475146-6">[6]</a></sup> and <a href="/wiki/Radial_nerve" title="Radial nerve">radial nerve</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ganglion&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Sympathetic_ganglion" title="Sympathetic ganglion">Sympathetic ganglion</a></li>
+<li><a href="/wiki/Ganglion_cyst" title="Ganglion cyst">Ganglion cyst</a></li>
+<li><a href="/wiki/Nervous_system" title="Nervous system">Nervous system</a></li>
+<li><a href="/wiki/Neuron" title="Neuron">Neuron</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ganglion&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Sadava, David; Heller, H. Craig; Orians, Gordon H.; Purves, William K.; Hillis, David M. (2008). <i>Life: The Science of Biology</i> (8th ed.). W. H. Freeman. p.&#160;943. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780716776710" title="Special:BookSources/9780716776710">9780716776710</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Life%3A+The+Science+of+Biology&amp;rft.pages=943&amp;rft.edition=8th&amp;rft.pub=W.+H.+Freeman&amp;rft.date=2008&amp;rft.isbn=9780716776710&amp;rft.aulast=Sadava&amp;rft.aufirst=David&amp;rft.au=Heller%2C+H.+Craig&amp;rft.au=Orians%2C+Gordon+H.&amp;rft.au=Purves%2C+William+K.&amp;rft.au=Hillis%2C+David+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGanglion" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="https://archive.org/web/20090616022448/http://www.mercksource.com/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/four/000043442.htm">ganglion</a>" at <i><a href="/wiki/Dorland%27s_medical_reference_works" title="Dorland's medical reference works">Dorland's Medical Dictionary</a></i></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Brodal, Per (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=iJjI6yDNmr8C&amp;pg=PA5"><i>The Central Nervous System</i></a>. Oxford University Press. p.&#160;5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780195381153" title="Special:BookSources/9780195381153">9780195381153</a>. <q>In the <abbr title="Central Nervous System">CNS</abbr>, such a group is called a <b>nucleus</b> and in the peripheral nervous system (PNS), a <b>ganglion</b>.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Central+Nervous+System&amp;rft.pages=5&amp;rft.pub=Oxford+University+Press&amp;rft.date=2010&amp;rft.isbn=9780195381153&amp;rft.aulast=Brodal&amp;rft.aufirst=Per&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DiJjI6yDNmr8C%26pg%3DPA5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGanglion" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-titleUNSW_Embryology-_Glossary_G-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-titleUNSW_Embryology-_Glossary_G_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071214053205/http://embryology.med.unsw.edu.au/Notes/Index/G.htm">"UNSW Embryology- Glossary G"</a>. Archived from <a rel="nofollow" class="external text" href="http://embryology.med.unsw.edu.au/Notes/Index/G.htm">the original</a> on 14 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNSW+Embryology-+Glossary+G&amp;rft_id=http%3A%2F%2Fembryology.med.unsw.edu.au%2FNotes%2FIndex%2FG.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGanglion" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://medical-dictionary.thefreedictionary.com/pseudoganglion">"pseudoganglion"</a>. <i><a href="/wiki/The_Free_Dictionary" class="mw-redirect" title="The Free Dictionary">The Free Dictionary</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Free+Dictionary&amp;rft.atitle=pseudoganglion&amp;rft_id=http%3A%2F%2Fmedical-dictionary.thefreedictionary.com%2Fpseudoganglion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGanglion" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid13475146-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid13475146_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gitlin, G. (Oct 1957). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1244902">"Concerning the gangliform enlargement (pseudoganglion) on the nerve to the teres minor muscle"</a>. <i>Journal of Anatomy</i>. <b>91</b> (4): 466–70. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1244902">1244902</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13475146">13475146</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Anatomy&amp;rft.atitle=Concerning+the+gangliform+enlargement+%28pseudoganglion%29+on+the+nerve+to+the+teres+minor+muscle&amp;rft.volume=91&amp;rft.issue=4&amp;rft.pages=466-70&amp;rft.date=1957-10&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1244902&amp;rft_id=info%3Apmid%2F13475146&amp;rft.aulast=Gitlin&amp;rft.aufirst=G.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1244902&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGanglion" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Nervous_tissue" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nervous_tissue" title="Template:Nervous tissue"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nervous_tissue" title="Template talk:Nervous tissue"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nervous_tissue&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Nervous_tissue" style="font-size:114%;margin:0 4em"><a href="/wiki/Nervous_tissue" title="Nervous tissue">Nervous tissue</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Central_nervous_system" title="Central nervous system">CNS</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Tissue Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grey_matter" title="Grey matter">Grey matter</a></li>
+<li><a href="/wiki/White_matter" title="White matter">White matter</a>
+<ul>
+<li><a href="/wiki/Projection_fiber" title="Projection fiber">Projection fibers</a></li>
+<li><a href="/wiki/Association_fiber" title="Association fiber">Association fiber</a></li>
+<li><a href="/wiki/Commissural_fiber" title="Commissural fiber">Commissural fiber</a></li>
+<li><a href="/wiki/Lemniscus_(anatomy)" title="Lemniscus (anatomy)">Lemniscus</a></li>
+<li><a href="/wiki/Funiculus_(neurology)" class="mw-redirect" title="Funiculus (neurology)">Funiculus</a></li>
+<li><a href="/wiki/Nerve_fascicle" title="Nerve fascicle">Fasciculus</a></li>
+<li><a href="/wiki/Nerve_tract" title="Nerve tract">Nerve tract</a></li>
+<li><a href="/wiki/Decussation" title="Decussation">Decussation</a></li>
+<li><a href="/wiki/Commissure" title="Commissure">Commissure</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neuropil" title="Neuropil">Neuropil</a></li>
+<li><a href="/wiki/Meninges" title="Meninges">Meninges</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Cell Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neuron" title="Neuron">Neuronal</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyramidal_cell" title="Pyramidal cell">Pyramidal</a></li>
+<li><a href="/wiki/Purkinje_cell" title="Purkinje cell">Purkinje</a></li>
+<li><a href="/wiki/Granule_cell" title="Granule cell">Granule</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neuroglia" title="Neuroglia">Glial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><span style="font-weight:normal;"><i>insulating:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Myelin" title="Myelin">Myelination</a>: <a href="/wiki/Oligodendrocyte" title="Oligodendrocyte">Oligodendrocyte</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><span style="font-weight:normal;"><i>other</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astrocyte" title="Astrocyte">Astrocyte</a>
+<ul>
+<li><a href="/wiki/Radial_glial_cell" title="Radial glial cell">Radial glial cell</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ependyma" title="Ependyma">Ependymal cells</a>
+<ul>
+<li><a href="/wiki/Tanycyte" title="Tanycyte">Tanycyte</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Microglia" title="Microglia">Microglia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Peripheral_nervous_system" title="Peripheral nervous system">PNS</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Dorsal</i>
+<ul>
+<li><a href="/wiki/Dorsal_root_of_spinal_nerve" title="Dorsal root of spinal nerve">Root</a></li>
+<li><a href="/wiki/Dorsal_root_ganglion" title="Dorsal root ganglion">Ganglion</a></li>
+<li><a href="/wiki/Dorsal_ramus_of_spinal_nerve" title="Dorsal ramus of spinal nerve">Ramus</a></li>
+</ul>
+</li>
+<li><i>Ventral</i>
+<ul>
+<li><a href="/wiki/Ventral_root_of_spinal_nerve" title="Ventral root of spinal nerve">Root</a></li>
+<li><a href="/wiki/Ventral_ramus_of_spinal_nerve" title="Ventral ramus of spinal nerve">Ramus</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Ramus_communicans" title="Ramus communicans">Ramus communicans</a></i>
+<ul>
+<li><a href="/wiki/Gray_ramus_communicans" title="Gray ramus communicans">Gray</a></li>
+<li><a href="/wiki/White_ramus_communicans" title="White ramus communicans">White</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Autonomic_ganglion" title="Autonomic ganglion">Autonomic ganglion</a> (<a href="/wiki/Preganglionic_nerve_fibers" title="Preganglionic nerve fibers">Preganglionic nerve fibers</a></li>
+<li><a href="/wiki/Postganglionic_nerve_fibers" title="Postganglionic nerve fibers">Postganglionic nerve fibers</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Connective_tissue" title="Connective tissue">Connective tissues</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Epineurium" title="Epineurium">Epineurium</a></li>
+<li><a href="/wiki/Perineurium" title="Perineurium">Perineurium</a></li>
+<li><a href="/wiki/Endoneurium" title="Endoneurium">Endoneurium</a></li>
+<li><a href="/wiki/Nerve_fascicle" title="Nerve fascicle">Nerve fascicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neuroglia" title="Neuroglia">Neuroglia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Myelin" title="Myelin">Myelination</a>: <a href="/wiki/Schwann_cell" title="Schwann cell">Schwann cell</a>
+<ul>
+<li><a href="/wiki/Neurolemma" title="Neurolemma">Neurolemma</a></li>
+<li><a href="/wiki/Myelin_incisure" title="Myelin incisure">Myelin incisure</a></li>
+<li><a href="/wiki/Node_of_Ranvier" title="Node of Ranvier">Node of Ranvier</a></li>
+<li><a href="/wiki/Internodal_segment" title="Internodal segment">Internodal segment</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Satellite_glial_cell" title="Satellite glial cell">Satellite glial cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neuron" title="Neuron">Neurons</a>/<br />
+<a href="/wiki/Nerve_fiber" class="mw-redirect" title="Nerve fiber">nerve fibers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Parts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Soma_(biology)" title="Soma (biology)">Soma</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Axon_hillock" title="Axon hillock">Axon hillock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Axon" title="Axon">Axon</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Telodendron" class="mw-redirect" title="Telodendron">Telodendron</a></li>
+<li><a href="/wiki/Axon_terminal" title="Axon terminal">Axon terminals</a></li>
+<li><a href="/wiki/Axoplasm" title="Axoplasm">Axoplasm</a></li>
+<li><a href="/wiki/Axolemma" title="Axolemma">Axolemma</a></li>
+<li><a href="/wiki/Neurofilament" title="Neurofilament">Neurofibril/neurofilament</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dendrite" title="Dendrite">Dendrite</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/Nissl_body" title="Nissl body">Nissl body</a></li>
+<li><a href="/wiki/Dendritic_spine" title="Dendritic spine">Dendritic spine</a></li>
+<li><a href="/wiki/Apical_dendrite" title="Apical dendrite">Apical dendrite</a>/<a href="/wiki/Basal_dendrite" title="Basal dendrite">Basal dendrite</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bipolar_neuron" title="Bipolar neuron">Bipolar</a></li>
+<li><a href="/wiki/Unipolar_neuron" title="Unipolar neuron">Unipolar</a></li>
+<li><a href="/wiki/Pseudounipolar_neuron" title="Pseudounipolar neuron">Pseudounipolar</a></li>
+<li><a href="/wiki/Multipolar_neuron" title="Multipolar neuron">Multipolar</a></li>
+<li><a href="/wiki/Interneuron" title="Interneuron">Interneuron</a>
+<ul>
+<li><a href="/wiki/Renshaw_cell" title="Renshaw cell">Renshaw</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Afferent_nerve_fiber" title="Afferent nerve fiber">Afferent nerve fiber</a>/<br />
+<a href="/wiki/Sensory_neuron" title="Sensory neuron">Sensory neuron</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_somatic_afferent_fibers" title="General somatic afferent fibers">GSA</a></li>
+<li><a href="/wiki/General_visceral_afferent_fibers" title="General visceral afferent fibers">GVA</a></li>
+<li><a href="/wiki/Special_somatic_afferent" class="mw-redirect" title="Special somatic afferent">SSA</a></li>
+<li><a href="/wiki/Special_visceral_afferent" class="mw-redirect" title="Special visceral afferent">SVA</a></li>
+<li><a href="/wiki/Axon#types" title="Axon">fibers</a>
+<ul>
+<li><a href="/wiki/Type_Ia_sensory_fiber" title="Type Ia sensory fiber">Ia or Aα</a></li>
+<li><a href="/wiki/Golgi_tendon_organ" title="Golgi tendon organ">Ib or Golgi or Aα</a></li>
+<li><a href="/wiki/Type_II_sensory_fiber" title="Type II sensory fiber">II or Aβ and Aγ</a></li>
+<li><a href="/wiki/Group_A_nerve_fiber" title="Group A nerve fiber">III or Aδ or fast pain</a></li>
+<li><a href="/wiki/Group_C_nerve_fiber" title="Group C nerve fiber">IV or C or slow pain</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Efferent_nerve_fiber" title="Efferent nerve fiber">Efferent nerve fiber</a>/<br />
+<a href="/wiki/Motor_neuron" title="Motor neuron">Motor neuron</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_somatic_efferent_fibers" title="General somatic efferent fibers">GSE</a></li>
+<li><a href="/wiki/General_visceral_efferent_fibers" title="General visceral efferent fibers">GVE</a></li>
+<li><a href="/wiki/Special_visceral_efferent" class="mw-redirect" title="Special visceral efferent">SVE</a></li>
+<li><a href="/wiki/Upper_motor_neuron" title="Upper motor neuron">Upper motor neuron</a></li>
+<li><a href="/wiki/Lower_motor_neuron" title="Lower motor neuron">Lower motor neuron</a>
+<ul>
+<li><a href="/wiki/Alpha_motor_neuron" title="Alpha motor neuron">α motorneuron</a></li>
+<li><a href="/wiki/Beta_motor_neuron" title="Beta motor neuron">β motorneuron</a></li>
+<li><a href="/wiki/Gamma_motor_neuron" title="Gamma motor neuron">γ motorneuron</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Termination</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Synapse" title="Synapse">Synapse</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electrical_synapse" title="Electrical synapse">Electrical synapse</a>/<a href="/wiki/Gap_junction" title="Gap junction">Gap junction</a></li>
+<li><a href="/wiki/Chemical_synapse" title="Chemical synapse">Chemical synapse</a>
+<ul>
+<li><a href="/wiki/Synaptic_vesicle" title="Synaptic vesicle">Synaptic vesicle</a></li>
+<li><a href="/wiki/Active_zone" title="Active zone">Active zone</a></li>
+<li><a href="/wiki/Postsynaptic_density" title="Postsynaptic density">Postsynaptic density</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Autapse" title="Autapse">Autapse</a></li>
+<li><a href="/wiki/Ribbon_synapse" title="Ribbon synapse">Ribbon synapse</a></li>
+<li><a href="/wiki/Neuromuscular_junction" title="Neuromuscular junction">Neuromuscular junction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sensory_receptor" class="mw-redirect" title="Sensory receptor">Sensory receptors</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tactile_corpuscle" title="Tactile corpuscle">Meissner's corpuscle</a></li>
+<li><a href="/wiki/Merkel_nerve_ending" title="Merkel nerve ending">Merkel nerve ending</a></li>
+<li><a href="/wiki/Lamellar_corpuscle" title="Lamellar corpuscle">Pacinian corpuscle</a></li>
+<li><a href="/wiki/Bulbous_corpuscle" title="Bulbous corpuscle">Ruffini ending</a></li>
+<li><a href="/wiki/Muscle_spindle" title="Muscle spindle">Muscle spindle</a></li>
+<li><a href="/wiki/Free_nerve_ending" title="Free nerve ending">Free nerve ending</a></li>
+<li><a href="/wiki/Nociceptor" title="Nociceptor">Nociceptor</a></li>
+<li><a href="/wiki/Olfactory_receptor_neuron" title="Olfactory receptor neuron">Olfactory receptor neuron</a></li>
+<li><a href="/wiki/Photoreceptor_cell" title="Photoreceptor cell">Photoreceptor cell</a></li>
+<li><a href="/wiki/Hair_cell" title="Hair cell">Hair cell</a></li>
+<li><a href="/wiki/Taste_bud" title="Taste bud">Taste bud</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20180215104907
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.334 seconds
+Preprocessor visited node count: 1369/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72276/2097152 bytes
+Template argument size: 971/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.112/10.000 seconds
+Lua memory usage: 4.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  290.481      1 -total
+ 39.88%  115.851      1 Template:Infobox_anatomy
+ 33.38%   96.957      1 Template:Infobox
+ 24.49%   71.147      1 Template:Reflist
+ 16.40%   47.638      8 Template:Navbox
+ 15.30%   44.436      2 Template:Cite_book
+ 13.20%   38.337      1 Template:Citation_needed
+ 11.52%   33.454      1 Template:Fix
+  9.21%   26.743      1 Template:About
+  8.89%   25.827      1 Template:Nervous_tissue
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12278-0!canonical and timestamp 20180215104907 and revision id 822057687
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ganglion&amp;oldid=822057687">https://en.wikipedia.org/w/index.php?title=Ganglion&amp;oldid=822057687</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Neurohistology" title="Category:Neurohistology">Neurohistology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ganglion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ganglion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ganglion" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ganglion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ganglion">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ganglion&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ganglion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ganglion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ganglion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ganglion&amp;oldid=822057687" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ganglion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q108158" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ganglion&amp;id=822057687" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ganglion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ganglion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ganglion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D8%AF%D8%A9_(%D8%AA%D8%B4%D8%B1%D9%8A%D8%AD)" title="عقدة (تشريح) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Qanqli" title="Qanqli – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%BB%D1%96%D0%B9" title="Ганглій – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Ganglija" title="Ganglija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gangli_nervi%C3%B3s" title="Gangli nerviós – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ganglion" title="Ganglion – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Ganglion" title="Ganglion – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ganglion" title="Ganglion – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ganglion_(Nervensystem)" title="Ganglion (Nervensystem) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Ganglion" title="Ganglion – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ganglio_nervioso" title="Ganglio nervioso – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ganglio" title="Ganglio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D9%88%D9%86" title="گانگلیون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ganglion_nerveux" title="Ganglion nerveux – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Gaingl%C3%ADn" title="Gainglín – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ganglio" title="Ganglio – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%BE" title="गंडिका – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Ganglij" title="Ganglij – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Gangliono" title="Gangliono – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ganglion" title="Ganglion – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ganglio" title="Ganglio – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%92%D7%9C%D7%99%D7%95%D7%9F" title="גנגליון – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9" title="Ганглий – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Idegd%C3%BAc" title="Idegdúc – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%98%D0%B0" title="Ганглија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Zenuwknoop" title="Zenuwknoop – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%AF%80" title="神経節 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ganglion" title="Ganglion – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Ganglion" title="Ganglion – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zw%C3%B3j_nerwowy" title="Zwój nerwowy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/G%C3%A2nglio_nervoso" title="Gânglio nervoso – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ganglion_nervos" title="Ganglion nervos – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9" title="Ганглий – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Ganglion" title="Ganglion – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Ganglioni" title="Ganglioni – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ganglion" title="Ganglion – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Ganglij" title="Ganglij – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%AF%DB%95%D9%86%DA%AF%D9%84%DB%8C%DB%86%D9%86" title="گەنگلیۆن – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%BE%D0%BD" title="Ганглион – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ganglion" title="Ganglion – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hermosolmu" title="Hermosolmu – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ganglion" title="Ganglion – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8" title="Гангли – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Gangliyon" title="Gangliyon – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B2%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B2%D1%83%D0%B7%D0%BE%D0%BB" title="Нервовий вузол – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D8%AA%D9%84%DB%81" title="کتلہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/H%E1%BA%A1ch_th%E1%BA%A7n_kinh" title="Hạch thần kinh – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%BB%8F%E8%8A%82" title="神经节 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q108158#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 January 2018, at 04:07.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ganglion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.334","ppvisitednodes":{"value":1369,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72276,"limit":2097152},"templateargumentsize":{"value":971,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  290.481      1 -total"," 39.88%  115.851      1 Template:Infobox_anatomy"," 33.38%   96.957      1 Template:Infobox"," 24.49%   71.147      1 Template:Reflist"," 16.40%   47.638      8 Template:Navbox"," 15.30%   44.436      2 Template:Cite_book"," 13.20%   38.337      1 Template:Citation_needed"," 11.52%   33.454      1 Template:Fix","  9.21%   26.743      1 Template:About","  8.89%   25.827      1 Template:Nervous_tissue"]},"scribunto":{"limitreport-timeusage":{"value":"0.112","limit":"10.000"},"limitreport-memusage":{"value":4884853,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20180215104907","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1326"});});</script>
+	</body>
+</html>

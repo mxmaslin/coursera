@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Computer hardware - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computer_hardware","wgTitle":"Computer hardware","wgCurRevisionId":825658951,"wgRevisionId":825658951,"wgArticleId":21808348,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2017","Articles containing potentially dated statements from June 2016","All articles containing potentially dated statements","Wikipedia articles with GND identifiers","Computer hardware","Digital electronics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Computer_hardware","wgRelevantArticleId":21808348,"wgRequestId":"WoRvrApAMF0AAET4VIwAAACK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3966","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PDP-11-M7270.jpg/1200px-PDP-11-M7270.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Computer_hardware"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Computer_hardware&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Computer_hardware&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Computer_hardware"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Computer_hardware rootpage-Computer_hardware skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Computer hardware</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:PDP-11-M7270.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/PDP-11-M7270.jpg/170px-PDP-11-M7270.jpg" width="170" height="185" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/PDP-11-M7270.jpg/255px-PDP-11-M7270.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/PDP-11-M7270.jpg/340px-PDP-11-M7270.jpg 2x" data-file-width="1767" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PDP-11-M7270.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/PDP-11" title="PDP-11">PDP-11</a> CPU board</div>
+</div>
+</div>
+<p><b>Computer hardware</b> are the physical parts or components of a computer, such as the <a href="/wiki/Computer_monitor" title="Computer monitor">monitor</a>, keyboard, <a href="/wiki/Computer_data_storage" title="Computer data storage">computer data storage</a>, <a href="/wiki/Graphic_card" class="mw-redirect" title="Graphic card">graphic card</a>, <a href="/wiki/Sound_card" title="Sound card">sound card</a> and <a href="/wiki/Motherboard" title="Motherboard">motherboard</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> By contrast, <a href="/wiki/Software" title="Software">software</a> is instructions that can be stored and ran by hardware.</p>
+<p>Hardware is directed by the <a href="/wiki/Software" title="Software">software</a> to execute any command or <a href="/wiki/Instruction_set" class="mw-redirect" title="Instruction set">instruction</a>. A combination of hardware and software forms a usable <a href="/wiki/Computing" title="Computing">computing</a> system.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Von_Neumann_architecture"><span class="tocnumber">1</span> <span class="toctext">Von Neumann architecture</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sales"><span class="tocnumber">2</span> <span class="toctext">Sales</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Different_systems"><span class="tocnumber">3</span> <span class="toctext">Different systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Personal_computer"><span class="tocnumber">3.1</span> <span class="toctext">Personal computer</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Case"><span class="tocnumber">3.1.1</span> <span class="toctext">Case</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Power_supply"><span class="tocnumber">3.1.2</span> <span class="toctext">Power supply</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Motherboard"><span class="tocnumber">3.1.3</span> <span class="toctext">Motherboard</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Expansion_cards"><span class="tocnumber">3.1.4</span> <span class="toctext">Expansion cards</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Storage_devices"><span class="tocnumber">3.1.5</span> <span class="toctext">Storage devices</span></a>
+<ul>
+<li class="toclevel-4 tocsection-10"><a href="#Fixed_media"><span class="tocnumber">3.1.5.1</span> <span class="toctext">Fixed media</span></a></li>
+<li class="toclevel-4 tocsection-11"><a href="#Removable_media"><span class="tocnumber">3.1.5.2</span> <span class="toctext">Removable media</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-12"><a href="#Input_and_output_peripherals"><span class="tocnumber">3.1.6</span> <span class="toctext">Input and output peripherals</span></a>
+<ul>
+<li class="toclevel-4 tocsection-13"><a href="#Input"><span class="tocnumber">3.1.6.1</span> <span class="toctext">Input</span></a></li>
+<li class="toclevel-4 tocsection-14"><a href="#Output_device"><span class="tocnumber">3.1.6.2</span> <span class="toctext">Output device</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Mainframe_computer"><span class="tocnumber">3.2</span> <span class="toctext">Mainframe computer</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Departmental_computing"><span class="tocnumber">3.3</span> <span class="toctext">Departmental computing</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Supercomputer"><span class="tocnumber">3.4</span> <span class="toctext">Supercomputer</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Hardware_upgrade"><span class="tocnumber">4</span> <span class="toctext">Hardware upgrade</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Recycling"><span class="tocnumber">5</span> <span class="toctext">Recycling</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Toxic_computer_components"><span class="tocnumber">5.1</span> <span class="toctext">Toxic computer components</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Environmental_effects"><span class="tocnumber">5.2</span> <span class="toctext">Environmental effects</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#National_services"><span class="tocnumber">5.3</span> <span class="toctext">National services</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Sources"><span class="tocnumber">7</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Von_Neumann_architecture">Von Neumann architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=1" title="Edit section: Von Neumann architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Von_Neumann_architecture" title="Von Neumann architecture">Von Neumann architecture</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Von_Neumann_Architecture.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/220px-Von_Neumann_Architecture.svg.png" width="220" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/330px-Von_Neumann_Architecture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/440px-Von_Neumann_Architecture.svg.png 2x" data-file-width="510" data-file-height="295" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Von_Neumann_Architecture.svg" class="internal" title="Enlarge"></a></div>
+Von Neumann architecture scheme</div>
+</div>
+</div>
+<p>The template for all modern computers is the <a href="/wiki/Von_Neumann_architecture" title="Von Neumann architecture">Von Neumann architecture</a>, detailed in a <a href="/wiki/First_Draft_of_a_Report_on_the_EDVAC" title="First Draft of a Report on the EDVAC">1945 paper</a> by Hungarian mathematician <a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a>. This describes a design architecture for an electronic <a href="/wiki/Digital_computer" class="mw-redirect" title="Digital computer">digital computer</a> with subdivisions of a <a href="/wiki/Central_processing_unit" title="Central processing unit">processing unit</a> consisting of an <a href="/wiki/Arithmetic_logic_unit" title="Arithmetic logic unit">arithmetic logic unit</a> and <a href="/wiki/Processor_register" title="Processor register">processor registers</a>, a <a href="/wiki/Control_unit" title="Control unit">control unit</a> containing an <a href="/wiki/Instruction_register" title="Instruction register">instruction register</a> and <a href="/wiki/Program_counter" title="Program counter">program counter</a>, a <a href="/wiki/Computer_memory" title="Computer memory">memory</a> to store both data and <a href="/wiki/Instruction_(computer_science)" class="mw-redirect" title="Instruction (computer science)">instructions</a>, external <a href="/wiki/Mass_storage" title="Mass storage">mass storage</a>, and <a href="/wiki/Input_and_output" class="mw-redirect" title="Input and output">input and output</a> mechanisms.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The meaning of the term has evolved to mean a <a href="/wiki/Stored-program_computer" title="Stored-program computer">stored-program computer</a> in which an instruction fetch and a data operation cannot occur at the same time because they share a common <a href="/wiki/Bus_(computing)" title="Bus (computing)">bus</a>. This is referred to as the <a href="/wiki/Von_Neumann_bottleneck" class="mw-redirect" title="Von Neumann bottleneck">Von Neumann bottleneck</a> and often limits the performance of the system.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Sales">Sales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=2" title="Edit section: Sales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For the third consecutive year, U.S. business-to-business channel sales (sales through distributors and commercial resellers) increased, ending 2013 up nearly 6 percent at $61.7 billion. The impressive growth was the fastest sales increase since the end of the recession. Sales growth accelerated in the second half of the year peaking in fourth quarter with a 6.9 percent increase over the fourth quarter of 2012.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Different_systems">Different systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=3" title="Edit section: Different systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are a number of different types of computer system in use today.</p>
+<h3><span class="mw-headline" id="Personal_computer">Personal computer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=4" title="Edit section: Personal computer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Personal_computer,_exploded_6.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Personal_computer%2C_exploded_6.svg/220px-Personal_computer%2C_exploded_6.svg.png" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Personal_computer%2C_exploded_6.svg/330px-Personal_computer%2C_exploded_6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Personal_computer%2C_exploded_6.svg/440px-Personal_computer%2C_exploded_6.svg.png 2x" data-file-width="1448" data-file-height="872" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Personal_computer,_exploded_6.svg" class="internal" title="Enlarge"></a></div>
+Basic hardware components of a modern personal computer, including a <a href="/wiki/Computer_monitor" title="Computer monitor">monitor</a>, a <a href="/wiki/Motherboard" title="Motherboard">motherboard</a>, a <a href="/wiki/Central_Processing_Unit" class="mw-redirect" title="Central Processing Unit">CPU</a>, a <a href="/wiki/Random-access_memory" title="Random-access memory">RAM</a>, two <a href="/wiki/Expansion_card" title="Expansion card">expansion cards</a>, a <a href="/wiki/Power_supply_unit_(computer)" title="Power supply unit (computer)">power supply</a>, an <a href="/wiki/Optical_disc_drive" title="Optical disc drive">optical disc drive</a>, a <a href="/wiki/Hard_disk_drive" title="Hard disk drive">hard disk drive</a>, a <a href="/wiki/Computer_keyboard" title="Computer keyboard">keyboard</a> and a <a href="/wiki/Mouse_(computing)" class="mw-redirect" title="Mouse (computing)">mouse</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Computer_from_inside_018.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Computer_from_inside_018.jpg/220px-Computer_from_inside_018.jpg" width="220" height="208" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Computer_from_inside_018.jpg/330px-Computer_from_inside_018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Computer_from_inside_018.jpg/440px-Computer_from_inside_018.jpg 2x" data-file-width="1415" data-file-height="1337" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Computer_from_inside_018.jpg" class="internal" title="Enlarge"></a></div>
+Inside a custom-built computer: power supply at the bottom has its own cooling fan</div>
+</div>
+</div>
+<p>The <a href="/wiki/Personal_computer" title="Personal computer">personal computer</a>, also known as the PC, is one of the most common types of computer due to its versatility and relatively low price. <a href="/wiki/Laptop" title="Laptop">Laptops</a> are generally very similar, although they may use lower-power or reduced size components, thus lower performance.</p>
+<h4><span class="mw-headline" id="Case">Case</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=5" title="Edit section: Case">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Computer_case" title="Computer case">Computer case</a></div>
+<p>The computer case encloses most of the components of the system. It provides mechanical support and protection for internal elements such as the motherboard, disk drives, and power supplies, and controls and directs the flow of cooling air over internal components. The case is also part of the system to control electromagnetic interference radiated by the computer, and protects internal parts from electrostatic discharge. Large tower cases provide extra internal space for multiple disk drives or other peripherals and usually stand on the floor, while desktop cases provide less expansion room. All-in-one style designs from <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>, namely the <a href="/wiki/IMac" title="IMac">iMac</a>, and similar types, include a video display built into the same case. Portable and laptop computers require cases that provide impact protection for the unit. A current development in laptop computers is a detachable keyboard, which allows the system to be configured as a touch-screen tablet. Hobbyists may decorate the cases with colored lights, paint, or other features, in an activity called <a href="/wiki/Case_modding" title="Case modding">case modding</a>.</p>
+<h4><span class="mw-headline" id="Power_supply">Power supply</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=6" title="Edit section: Power supply">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Power_supply_unit_(computer)" title="Power supply unit (computer)">Power supply unit (computer)</a></div>
+<p>A power supply unit (PSU) converts alternating current (AC) electric power to low-voltage DC power for the internal components of the computer. Laptops are capable of running from a built-in battery, normally for a period of hours.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h4><span class="mw-headline" id="Motherboard">Motherboard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=7" title="Edit section: Motherboard">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Motherboard" title="Motherboard">Motherboard</a></div>
+<p>The motherboard is the main component of a computer. It is a board with integrated circuitry that connects the other parts of the computer including the <a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a>, the <a href="/wiki/RAM" class="mw-redirect" title="RAM">RAM</a>, the disk drives (<a href="/wiki/CD" class="mw-redirect" title="CD">CD</a>, <a href="/wiki/DVD" title="DVD">DVD</a>, <a href="/wiki/Hard_disk" class="mw-redirect" title="Hard disk">hard disk</a>, or any others) as well as any peripherals connected via the ports or the <a href="/wiki/Expansion_slot" class="mw-redirect" title="Expansion slot">expansion slots</a>.</p>
+<p>Components directly attached to or to part of the motherboard include:</p>
+<ul>
+<li>The <b><a href="/wiki/Central_processing_unit" title="Central processing unit">CPU</a></b> (central processing unit), which performs most of the calculations which enable a computer to function, and is sometimes referred to as the brain of the computer. It is usually <a href="/wiki/CPU_cooling" class="mw-redirect" title="CPU cooling">cooled</a> by a heatsink and fan, or water-cooling system. Most newer CPUs include an on-die <a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics Processing Unit (GPU)</a>. The <a href="/wiki/Clock_speed" class="mw-redirect" title="Clock speed">clock speed</a> of CPUs governs how fast it executes instructions, and is measured in GHz; typical values lie between 1&#160;GHz and 5&#160;GHz. Many modern computers have the option to overclock the CPU which enhances performance at the expense of greater thermal output and thus a need for improved cooling.</li>
+<li>The <b><a href="/wiki/Chipset" title="Chipset">chipset</a></b>, which includes the <a href="/wiki/Northbridge_(computing)" title="Northbridge (computing)">north bridge</a>, mediates communication between the CPU and the other components of the system, including main memory.</li>
+<li><b><a href="/wiki/Random-access_memory" title="Random-access memory">Random-access memory</a></b> (RAM), which stores the code and data that are being actively accessed by the CPU. For example, when a web browser is opened on the computer it takes up memory; this is stored in the RAM until the web browser is closed. RAM usually comes on <a href="/wiki/DIMM" title="DIMM">DIMMs</a> in the sizes 2GB, 4GB, and 8GB, but can be much larger.</li>
+<li><b><a href="/wiki/Read-only_memory" title="Read-only memory">Read-only memory</a></b> (ROM), which stores the <a href="/wiki/BIOS" title="BIOS">BIOS</a> that runs when the computer is powered on or otherwise begins execution, a process known as <a href="/wiki/Bootstrapping_(computing)" class="mw-redirect" title="Bootstrapping (computing)">Bootstrapping</a>, or "<a href="/wiki/Booting" title="Booting">booting</a>" or "booting up". The <b><a href="/wiki/BIOS" title="BIOS">BIOS</a></b> (Basic Input Output System) includes boot <a href="/wiki/Firmware" title="Firmware">firmware</a> and power management firmware. Newer motherboards use <a href="/wiki/Unified_Extensible_Firmware_Interface" title="Unified Extensible Firmware Interface">Unified Extensible Firmware Interface</a> (UEFI) instead of BIOS.</li>
+<li><b><a href="/wiki/Bus_(computing)" title="Bus (computing)">Buses</a></b> that connect the CPU to various internal components and to expand cards for graphics and sound.</li>
+<li>The <a href="/wiki/CMOS_battery" class="mw-redirect" title="CMOS battery">CMOS battery</a>, which powers the memory for date and time in the BIOS chip. This battery is generally a watch battery.</li>
+<li>The <b><a href="/wiki/Video_card" title="Video card">video card</a></b> (also known as the graphics card), which processes computer graphics. More powerful graphics cards are better suited to handle strenuous tasks, such as playing intensive video games.</li>
+</ul>
+<h4><span class="mw-headline" id="Expansion_cards">Expansion cards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=8" title="Edit section: Expansion cards">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Expansion_card" title="Expansion card">Expansion card</a></div>
+<p>An <a href="/wiki/Expansion_card" title="Expansion card">expansion card</a> in computing is a printed circuit board that can be inserted into an expansion slot of a computer motherboard or backplane to add functionality to a computer system via the expansion bus. Expansions cards can be used to obtain or expand on features not offered by the motherboard.</p>
+<h4><span class="mw-headline" id="Storage_devices">Storage devices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=9" title="Edit section: Storage devices">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Computer_data_storage" title="Computer data storage">Computer data storage</a></div>
+<p>A storage device is any computing hardware and <a href="/wiki/Digital_media" title="Digital media">digital media</a> that is used for storing, porting and extracting data files and objects. It can hold and store information both temporarily and permanently, and can be internal or external to a computer, server or any similar computing device. Data storage is a core function and fundamental component of computers.</p>
+<h5><span class="mw-headline" id="Fixed_media">Fixed media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=10" title="Edit section: Fixed media">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Data is stored by a computer using a variety of media. <a href="/wiki/Hard_disk_drive" title="Hard disk drive">Hard disk drives</a> are found in virtually all older computers, due to their high capacity and low cost, but <a href="/wiki/Solid-state_drive" title="Solid-state drive">solid-state drives</a> are faster and more power efficient, although currently more expensive than hard drives in terms of dollar per gigabyte,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> so are often found in personal computers built post-2007.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Some systems may use a <a href="/wiki/Disk_array_controller" title="Disk array controller">disk array controller</a> for greater performance or reliability.</p>
+<h5><span class="mw-headline" id="Removable_media">Removable media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=11" title="Edit section: Removable media">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>To transfer data between computers, a <a href="/wiki/USB_flash_drive" title="USB flash drive">USB flash drive</a> or <a href="/wiki/Optical_disc" title="Optical disc">optical disc</a> may be used. Their usefulness depends on being readable by other systems; the majority of machines have an optical disk drive, and virtually all have at least one <a href="/wiki/USB" title="USB">USB</a> port.</p>
+<h4><span class="mw-headline" id="Input_and_output_peripherals">Input and output peripherals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=12" title="Edit section: Input and output peripherals">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></div>
+<p><a href="/wiki/Input_device" title="Input device">Input</a> and <a href="/wiki/Output_device" title="Output device">output</a> devices are typically housed externally to the main computer chassis. The following are either standard or very common to many computer systems.</p>
+<h5><span class="mw-headline" id="Input">Input</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=13" title="Edit section: Input">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Input_devices" class="mw-redirect" title="Input devices">Input devices</a> allow the user to enter information into the system, or control its operation. Most personal computers have a <a href="/wiki/Mouse_(computing)" class="mw-redirect" title="Mouse (computing)">mouse</a> and <a href="/wiki/Keyboard_(computing)" class="mw-redirect" title="Keyboard (computing)">keyboard</a>, but laptop systems typically use a <a href="/wiki/Touchpad" title="Touchpad">touchpad</a> instead of a mouse. Other input devices include <a href="/wiki/Webcam" title="Webcam">webcams</a>, <a href="/wiki/Microphone" title="Microphone">microphones</a>, <a href="/wiki/Joystick" title="Joystick">joysticks</a>, and <a href="/wiki/Image_scanner" title="Image scanner">image scanners</a>.</p>
+<h5><span class="mw-headline" id="Output_device">Output device</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=14" title="Edit section: Output device">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Output_device" title="Output device">Output devices</a> display information in a human readable form. Such devices could include <a href="/wiki/Printer_(computing)" title="Printer (computing)">printers</a>, <a href="/wiki/Computer_speaker" class="mw-redirect" title="Computer speaker">speakers</a>, <a href="/wiki/Computer_monitor" title="Computer monitor">monitors</a> or a <a href="/wiki/Braille_embosser" title="Braille embosser">Braille embosser</a>.</p>
+<h3><span class="mw-headline" id="Mainframe_computer">Mainframe computer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=15" title="Edit section: Mainframe computer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Mainframe_Computer" class="mw-redirect" title="Mainframe Computer">Mainframe Computer</a></div>
+<p>A <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframe computer</a> is a much larger computer that typically fills a room and may cost many hundreds or thousands of times as much as a personal computer. They are designed to perform large numbers of calculations for governments and large enterprises.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Front_Z9_2094.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Front_Z9_2094.jpg/170px-Front_Z9_2094.jpg" width="170" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Front_Z9_2094.jpg/255px-Front_Z9_2094.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Front_Z9_2094.jpg/340px-Front_Z9_2094.jpg 2x" data-file-width="2088" data-file-height="2561" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Front_Z9_2094.jpg" class="internal" title="Enlarge"></a></div>
+An <a href="/wiki/IBM_System_z9" title="IBM System z9">IBM System z9</a> mainframe</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Departmental_computing">Departmental computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=16" title="Edit section: Departmental computing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Minicomputer" title="Minicomputer">Minicomputer</a></div>
+<p>In the 1960s and 1970s, more and more departments started to use cheaper and dedicated systems for specific purposes like <a href="/wiki/Process_control" title="Process control">process control</a> and <a href="/wiki/Laboratory_automation" title="Laboratory automation">laboratory automation</a>.</p>
+<h3><span class="mw-headline" id="Supercomputer">Supercomputer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=17" title="Edit section: Supercomputer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Supercomputer" title="Supercomputer">Supercomputer</a></div>
+<p>A <a href="/wiki/Supercomputer" title="Supercomputer">supercomputer</a> is superficially similar to a mainframe, but is instead intended for extremely demanding computational tasks. As of June 2016<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Computer_hardware&amp;action=edit">[update]</a></sup>, the <a href="/wiki/TOP500#Top_10_ranking" title="TOP500">fastest supercomputer in the world</a> is the <a href="/wiki/Sunway_TaihuLight" title="Sunway TaihuLight">Sunway TaihuLight</a>, in <a href="/wiki/Jiangsu" title="Jiangsu">Jiangsu</a>, China.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The term supercomputer does not refer to a specific technology. Rather it indicates the fastest computations available at any given time. In mid 2011, the fastest supercomputers boasted speeds exceeding one petaflop, or 1 quadrillion (10^15 or 1,000 trillion) floating point operations per second. Super computers are fast but extremely costly so they are generally used by large organizations to execute computationally demanding tasks involving large data sets. Super computers typically run military and scientific applications. Although they cost millions of dollars, they are also being used for commercial applications where huge amounts of data must be analyzed. For example, large banks employ supercomputers to calculate the risks and returns of various investment strategies, and healthcare organizations use them to analyze giant databases of patient data to determine optimal treatments for various diseases and problems incurring to the country.</p>
+<h2><span class="mw-headline" id="Hardware_upgrade">Hardware upgrade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=18" title="Edit section: Hardware upgrade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When using computer hardware, an <a href="/wiki/Upgrade" title="Upgrade">upgrade</a> means adding new hardware to a computer that improves its performance, adds capacity or new features. For example, a user could perform a hardware upgrade to replace the <a href="/wiki/Hard_drive" class="mw-redirect" title="Hard drive">hard drive</a> with a <a href="/wiki/SSD" class="mw-redirect" title="SSD">SSD</a> to get a boost in performance or increase the amount of files that may be stored. Also, the user could increase the RAM so the computer may run more smoothly. The user could add a <a href="/wiki/USB_3.0" title="USB 3.0">USB 3.0</a> <a href="/wiki/Expansion_card" title="Expansion card">expansion card</a> in order to fully use USB 3.0 devices, or could upgrade the <a href="/wiki/GPU" class="mw-redirect" title="GPU">GPU</a> for extra rendering power. Performing such hardware upgrades may be necessary for older computers to meet a programs' system requirements.</p>
+<h2><span class="mw-headline" id="Recycling">Recycling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=19" title="Edit section: Recycling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Re-computer.png" class="image"><img alt="Re-computer.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Re-computer.png/220px-Re-computer.png" width="220" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Re-computer.png/330px-Re-computer.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Re-computer.png/440px-Re-computer.png 2x" data-file-width="2000" data-file-height="2083" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Re-computer.png" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+<p>Because computer parts contain <a href="/wiki/Hazard" title="Hazard">hazardous</a> materials, there is a growing movement to recycle old and outdated parts.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Computer hardware contain dangerous chemicals such as: lead, mercury, nickel, and cadmium. According to the <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">EPA</a> these e-wastes have a harmful effect on the <a href="/wiki/Natural_environment" title="Natural environment">environment</a> unless they are disposed of properly. Making hardware requires energy, and <a href="/wiki/Recycling" title="Recycling">recycling</a> parts will reduce air <a href="/wiki/Pollution" title="Pollution">pollution</a>, water pollution, as well as greenhouse gas emissions.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Disposing unauthorized computer equipment is in fact illegal. Legislation makes it mandatory to <a href="/wiki/Recycling" title="Recycling">recycle</a> computers through the <a href="/wiki/Government" title="Government">government</a> approved facilities. Recycling a computer can be made easier by taking out certain reusable parts. For example, the <a href="/wiki/Random-access_memory" title="Random-access memory">RAM</a>, DVD drive, the <a href="/wiki/Graphics_hardware" title="Graphics hardware">graphics card</a>, <a href="/wiki/Hard_disk_drive" title="Hard disk drive">hard drive</a> or <a href="/wiki/Solid-state_drive" title="Solid-state drive">SSD</a>, and other similar removable parts can be reused.</p>
+<h3><span class="mw-headline" id="Toxic_computer_components">Toxic computer components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=20" title="Edit section: Toxic computer components">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Central_processing_unit" title="Central processing unit">central processing unit</a> contains many toxic materials. It contains lead and chromium in the metal plates. Resistors, semi-conductors, infrared detectors, stabilizers, cables, and wires contain cadmium. The circuit boards in a computer contain mercury, and chromium.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> When these types of materials, and chemicals are disposed improperly will become hazardous for the environment.</p>
+<h3><span class="mw-headline" id="Environmental_effects">Environmental effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=21" title="Edit section: Environmental effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to the <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">United States Environmental Protection Agency</a> only around 15% of the <a href="/wiki/E-waste" class="mw-redirect" title="E-waste">e-waste</a> actually is recycled. When e-waste byproducts leach into ground water are burned or get mishandled during recycling it causes harm. Health problems associated with such toxins include impaired mental development, cancer, and damage to the lungs, liver, and kidneys.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> That's why even wires have to be recycled. Different companies have different techniques to recycle a wire. The most popular one is the grinder that separates the copper wires form the plastic/rubber casing. When the processes is done there are two different piles left; one containing the copper powder, and the other containing plastic/rubber pieces.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Computer monitors, <a href="/wiki/Computer_mouse" title="Computer mouse">mice</a>, and <a href="/wiki/Computer_keyboard" title="Computer keyboard">keyboards</a> all have a similar way of being recycled. For example, first each of the parts are taken apart then all of the inner parts get separated and placed into its own bin.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="National_services">National services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=22" title="Edit section: National services">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Recycling a computer is made easier by a few of the national services, such as <a href="/wiki/Dell" title="Dell">Dell</a> and <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>. Both companies will take back the computer of their make or any other make. Otherwise a computer can be donated to <a href="/wiki/Computer_Aid_International" title="Computer Aid International">Computer Aid International</a> which is an organization that recycles and refurbishes old computers for hospitals, schools, universities, etc.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/32px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/48px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/64px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="281" data-file-height="203" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Information_technology" title="Portal:Information technology">Information technology portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Electronic_hardware" title="Electronic hardware">Electronic hardware</a></li>
+<li><a href="/wiki/Glossary_of_computer_hardware_terms" title="Glossary of computer hardware terms">Glossary of computer hardware terms</a></li>
+<li><a href="/wiki/History_of_computing_hardware" title="History of computing hardware">History of computing hardware</a></li>
+<li><a href="/wiki/List_of_computer_hardware_manufacturers" title="List of computer hardware manufacturers">List of computer hardware manufacturers</a></li>
+<li><a href="/wiki/Open-source_computing_hardware" title="Open-source computing hardware">Open-source computing hardware</a></li>
+</ul>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=24" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://windows.microsoft.com/en-us/windows-vista/parts-of-a-computer">"Parts of computer"</a>. Microsoft. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131127145607/http://windows.microsoft.com/en-US/windows-vista/Parts-of-a-computer">Archived</a> from the original on 27 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Parts+of+computer&amp;rft.pub=Microsoft&amp;rft_id=http%3A%2F%2Fwindows.microsoft.com%2Fen-us%2Fwindows-vista%2Fparts-of-a-computer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/John_von_Neumann" title="John von Neumann">von Neumann, John</a> (1945). <a rel="nofollow" class="external text" href="http://virtualtravelog.net.s115267.gridserver.com/wp/wp-content/media/2003-08-TheFirstDraft.pdf">"First Draft of a Report on the EDVAC"</a> <span style="font-size:85%;">(PDF)</span>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130809184824/http://virtualtravelog.net.s115267.gridserver.com/wp/wp-content/media/2003-08-TheFirstDraft.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 9 August 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=First+Draft+of+a+Report+on+the+EDVAC&amp;rft.date=1945&amp;rft.aulast=von+Neumann&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fvirtualtravelog.net.s115267.gridserver.com%2Fwp%2Fwp-content%2Fmedia%2F2003-08-TheFirstDraft.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Markgraf, Joey D. (2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110609220643/http://aws.linnbenton.edu/cs271c/markgrj/">"The Von Neumann bottleneck"</a>. Archived from <a rel="nofollow" class="external text" href="http://aws.linnbenton.edu/cs271c/markgrj/">the original</a> on 9 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Von+Neumann+bottleneck&amp;rft.date=2007&amp;rft.aulast=Markgraf&amp;rft.aufirst=Joey+D.&amp;rft_id=http%3A%2F%2Faws.linnbenton.edu%2Fcs271c%2Fmarkgrj%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.npd.com/wps/portal/npd/us/news/press-releases/us-b2bchannel-sales-reach-nearly-62-billion-in-2013-according-to-the-npd-group/">"US B2B Channel sales reach nearly $62 Billion in 2013, According to The NPD Group"</a>. NPD Group. 4 February 2014. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140808050253/https://www.npd.com/wps/portal/npd/us/news/press-releases/us-b2bchannel-sales-reach-nearly-62-billion-in-2013-according-to-the-npd-group/">Archived</a> from the original on 8 August 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=US+B2B+Channel+sales+reach+nearly+%2462+Billion+in+2013%2C+According+to+The+NPD+Group&amp;rft.pub=NPD+Group&amp;rft.date=2014-02-04&amp;rft_id=https%3A%2F%2Fwww.npd.com%2Fwps%2Fportal%2Fnpd%2Fus%2Fnews%2Fpress-releases%2Fus-b2bchannel-sales-reach-nearly-62-billion-in-2013-according-to-the-npd-group%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhope.com/issues/ch001236.htm">"How long should a laptop battery last?"</a>. Computer Hope. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131221220614/http://www.computerhope.com/issues/ch001236.htm">Archived</a> from the original on 21 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+long+should+a+laptop+battery+last%3F&amp;rft.pub=Computer+Hope&amp;rft_id=http%3A%2F%2Fwww.computerhope.com%2Fissues%2Fch001236.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Domingo, Joel. <a rel="nofollow" class="external text" href="https://www.pcmag.com/article2/0,2817,2404258,00.asp">"SSD vs. HDD: What's the Difference?"</a>. <a href="/wiki/PCMag" class="mw-redirect" title="PCMag">PCMag</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170319184712/http://www.pcmag.com/article2/0,2817,2404258,00.asp">Archived</a> from the original on 19 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SSD+vs.+HDD%3A+What%27s+the+Difference%3F&amp;rft.pub=PCMag&amp;rft.aulast=Domingo&amp;rft.aufirst=Joel&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C2817%2C2404258%2C00.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Edwards, Benj. <a rel="nofollow" class="external text" href="http://www.pcworld.com/article/246617/storage/evolution-of-the-solid-state-drive.html#slide13">"Evolution of the Solid-State Drive"</a>. <a href="/wiki/PCWorld" class="mw-redirect" title="PCWorld">PCWorld</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170325201429/http://www.pcworld.com/article/246617/storage/evolution-of-the-solid-state-drive.html#slide13">Archived</a> from the original on 25 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Evolution+of+the+Solid-State+Drive&amp;rft.pub=PCWorld&amp;rft.aulast=Edwards&amp;rft.aufirst=Benj&amp;rft_id=http%3A%2F%2Fwww.pcworld.com%2Farticle%2F246617%2Fstorage%2Fevolution-of-the-solid-state-drive.html%23slide13&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Alba, Davey. <a rel="nofollow" class="external text" href="http://spectrum.ieee.org/tech-talk/computing/hardware/tianhe2-caps-top-10-supercomputers">"China's Tianhe-2 Caps Top 10 Supercomputers"</a>. IEEE. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131211012433/http://spectrum.ieee.org/tech-talk/computing/hardware/tianhe2-caps-top-10-supercomputers">Archived</a> from the original on 11 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=China%27s+Tianhe-2+Caps+Top+10+Supercomputers&amp;rft.pub=IEEE&amp;rft.aulast=Alba&amp;rft.aufirst=Davey&amp;rft_id=http%3A%2F%2Fspectrum.ieee.org%2Ftech-talk%2Fcomputing%2Fhardware%2Ftianhe2-caps-top-10-supercomputers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.digitaltrends.com/computing/how-to-recycle-your-old-computer/">"How to recycle your old computer"</a>. <i>Digital Trends</i>. 18 December 2016. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170417055533/http://www.digitaltrends.com/computing/how-to-recycle-your-old-computer/">Archived</a> from the original on 17 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Digital+Trends&amp;rft.atitle=How+to+recycle+your+old+computer&amp;rft.date=2016-12-18&amp;rft_id=http%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fhow-to-recycle-your-old-computer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Inc, Chris Keenan - Newtech Recycling. <a rel="nofollow" class="external text" href="https://www.newtechrecycling.com/disposal/computer-recycling/computer-recycling.html">"Newtech Recycling Specializes in Computer Disposal, Laptop Disposal, Desktop Disposal Mainframe Disposal and Server Disposal"</a>. <i>www.newtechrecycling.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170329142805/https://www.newtechrecycling.com/disposal/computer-recycling/computer-recycling.html">Archived</a> from the original on 29 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.newtechrecycling.com&amp;rft.atitle=Newtech+Recycling+Specializes+in+Computer+Disposal%2C+Laptop+Disposal%2C+Desktop+Disposal+Mainframe+Disposal+and+Server+Disposal&amp;rft.aulast=Inc&amp;rft.aufirst=Chris+Keenan+-+Newtech+Recycling&amp;rft_id=https%3A%2F%2Fwww.newtechrecycling.com%2Fdisposal%2Fcomputer-recycling%2Fcomputer-recycling.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://smallbusiness.chron.com/toxic-components-computers-monitors-69693.html">"The Toxic Components of Computers and Monitors"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170427192255/http://smallbusiness.chron.com/toxic-components-computers-monitors-69693.html">Archived</a> from the original on 27 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Toxic+Components+of+Computers+and+Monitors&amp;rft_id=http%3A%2F%2Fsmallbusiness.chron.com%2Ftoxic-components-computers-monitors-69693.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.electronicstakeback.com/2015/05/28/whats-going-on-with-electronic-waste/">"What's Going On with Electronic Waste? – Electronics TakeBack Coalition"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170427103038/http://www.electronicstakeback.com/2015/05/28/whats-going-on-with-electronic-waste/">Archived</a> from the original on 27 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What%E2%80%99s+Going+On+with+Electronic+Waste%3F+%E2%80%93+Electronics+TakeBack+Coalition&amp;rft_id=http%3A%2F%2Fwww.electronicstakeback.com%2F2015%2F05%2F28%2Fwhats-going-on-with-electronic-waste%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.all-recycling-facts.com/wire-recycling.html">"Wire Recycling"</a>. <i>All-Recycling-Facts.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170710232319/http://www.all-recycling-facts.com/wire-recycling.html">Archived</a> from the original on 10 July 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">5 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=All-Recycling-Facts.com&amp;rft.atitle=Wire+Recycling&amp;rft_id=http%3A%2F%2Fwww.all-recycling-facts.com%2Fwire-recycling.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.computerweekly.com/feature/Computer-equipment-recycling-Essential-Guide">"Computer equipment recycling – Essential Guide"</a>. <i>ComputerWeekly</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161221184215/http://www.computerweekly.com/feature/Computer-equipment-recycling-Essential-Guide/">Archived</a> from the original on 21 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ComputerWeekly&amp;rft.atitle=Computer+equipment+recycling+%E2%80%93+Essential+Guide&amp;rft_id=http%3A%2F%2Fwww.computerweekly.com%2Ffeature%2FComputer-equipment-recycling-Essential-Guide&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Schofield, Jack (19 February 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/technology/askjack/2015/feb/19/how-safely-recycle-old-pcs-computers">"How can I safely recycle my old PCs?"</a>. <i>The Guardian</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0261-3077">0261-3077</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170427103349/https://www.theguardian.com/technology/askjack/2015/feb/19/how-safely-recycle-old-pcs-computers">Archived</a> from the original on 27 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=How+can+I+safely+recycle+my+old+PCs%3F&amp;rft.date=2015-02-19&amp;rft.issn=0261-3077&amp;rft.aulast=Schofield&amp;rft.aufirst=Jack&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2015%2Ffeb%2F19%2Fhow-safely-recycle-old-pcs-computers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+hardware" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_hardware&amp;action=edit&amp;section=25" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Computer_hardware" class="extiw" title="commons:Category:Computer hardware">Computer hardware</a> at Wikimedia Commons</li>
+<li><a href="/wiki/File:Wikiversity-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/16px-Wikiversity-logo.svg.png" width="16" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/24px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/32px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a> Learning materials related to <a href="https://en.wikiversity.org/wiki/Computer_hardware" class="extiw" title="v:Computer hardware">Computer hardware</a> at Wikiversity</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Basic_computer_components" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Basic_computer_components" title="Template:Basic computer components"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Basic_computer_components" title="Template talk:Basic computer components"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Basic_computer_components&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Basic_computer_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer" title="Computer">Basic computer components</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Input_device" title="Input device">Input devices</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_keyboard" title="Computer keyboard">Keyboard</a></li>
+<li><a href="/wiki/Image_scanner" title="Image scanner">Image scanner</a></li>
+<li><a href="/wiki/Microphone" title="Microphone">Microphone</a></li>
+<li><a href="/wiki/Pointing_device" title="Pointing device">Pointing device</a>
+<ul>
+<li><a href="/wiki/Graphics_tablet" title="Graphics tablet">Graphics tablet</a></li>
+<li><a href="/wiki/Joystick" title="Joystick">Joystick</a></li>
+<li><a href="/wiki/Light_pen" title="Light pen">Light pen</a></li>
+<li><a href="/wiki/Computer_mouse" title="Computer mouse">Mouse</a>
+<ul>
+<li><a href="/wiki/Optical_mouse" title="Optical mouse">Optical</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pointing_stick" title="Pointing stick">Pointing stick</a></li>
+<li><a href="/wiki/Touchpad" title="Touchpad">Touchpad</a></li>
+<li><a href="/wiki/Touchscreen" title="Touchscreen">Touchscreen</a></li>
+<li><a href="/wiki/Trackball" title="Trackball">Trackball</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Webcam" title="Webcam">Webcam</a>
+<ul>
+<li><a href="/wiki/Softcam" title="Softcam">Softcam</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Refreshable_braille_display" title="Refreshable braille display">Refreshable braille display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Output_device" title="Output device">Output devices</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_monitor" title="Computer monitor">Monitor</a></li>
+<li><a href="/wiki/Refreshable_braille_display" title="Refreshable braille display">Refreshable braille display</a></li>
+<li><a href="/wiki/Printer_(computing)" title="Printer (computing)">Printer</a></li>
+<li><a href="/wiki/Computer_speakers" title="Computer speakers">Speakers</a></li>
+<li><a href="/wiki/Plotter" title="Plotter">Plotter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Removable_media" title="Removable media">Removable<br />
+data storage</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Optical_disc" title="Optical disc">Optical disc</a>
+<ul>
+<li><a href="/wiki/Compact_disc" title="Compact disc">CD</a></li>
+<li><a href="/wiki/DVD" title="DVD">DVD</a></li>
+<li><a href="/wiki/Blu-ray" title="Blu-ray">Blu-ray</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Disk_pack" title="Disk pack">Disk pack</a></li>
+<li><a href="/wiki/Floppy_disk" title="Floppy disk">Floppy disk</a></li>
+<li><a href="/wiki/Memory_card" title="Memory card">Memory card</a></li>
+<li><a href="/wiki/USB_flash_drive" title="USB flash drive">USB flash drive</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_case" title="Computer case">Computer case</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Central_processing_unit" title="Central processing unit">Central processing unit</a> (CPU)</li>
+<li><a href="/wiki/Hard_disk_drive" title="Hard disk drive">HDD</a> / <a href="/wiki/Solid-state_drive" title="Solid-state drive">SSD</a> / <a href="/wiki/Solid-state_hybrid_drive" class="mw-redirect" title="Solid-state hybrid drive">SSHD</a></li>
+<li><a href="/wiki/Motherboard" title="Motherboard">Motherboard</a></li>
+<li><a href="/wiki/Network_interface_controller" title="Network interface controller">Network interface controller</a></li>
+<li><a href="/wiki/Power_supply_unit_(computer)" title="Power supply unit (computer)">Power supply</a></li>
+<li><a href="/wiki/Random-access_memory" title="Random-access memory">Random-access memory</a> (RAM)</li>
+<li><a href="/wiki/Sound_card" title="Sound card">Sound card</a></li>
+<li><a href="/wiki/Video_card" title="Video card">Video card</a></li>
+<li><a href="/wiki/Fax_modem" title="Fax modem">Fax modem</a></li>
+<li><a href="/wiki/Expansion_card" title="Expansion card">Expansion card</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_port_(hardware)" title="Computer port (hardware)">Ports</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ethernet" title="Ethernet">Ethernet</a></li>
+<li><a href="/wiki/IEEE_1394" title="IEEE 1394">FireWire</a> (IEEE 1394)</li>
+<li><a href="/wiki/Parallel_port" title="Parallel port">Parallel port</a></li>
+<li><a href="/wiki/Serial_port" title="Serial port">Serial port</a></li>
+<li><a href="/wiki/PS/2_port" title="PS/2 port">PS/2 port</a></li>
+<li><a href="/wiki/USB" title="USB">USB</a></li>
+<li><a href="/wiki/Thunderbolt_(interface)" title="Thunderbolt (interface)">Thunderbolt</a></li>
+<li><a href="/wiki/HDMI" title="HDMI">HDMI</a> / <a href="/wiki/Digital_Visual_Interface" title="Digital Visual Interface">DVI</a> / <a href="/wiki/VGA_connector" title="VGA connector">VGA</a></li>
+<li><a href="/wiki/Serial_ATA#eSATA" title="Serial ATA">eSATA</a></li>
+<li><a href="/wiki/Phone_connector_(audio)" title="Phone connector (audio)">Audio jack</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%;margin:0 4em">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4023422-8">4023422-8</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1233
+Cached time: 20180214171731
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.712 seconds
+Real time usage: 1.108 seconds
+Preprocessor visited node count: 1609/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78728/2097152 bytes
+Template argument size: 777/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.292/10.000 seconds
+Lua memory usage: 3.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  782.727      1 -total
+ 44.38%  347.370      1 Template:Reflist
+ 24.22%  189.562      9 Template:Cite_web
+ 12.37%   96.820      1 Template:Use_dmy_dates
+  9.27%   72.552      2 Template:Navbox
+  9.25%   72.374      5 Template:Cite_news
+  8.52%   66.707     10 Template:Main_article
+  7.89%   61.748      1 Template:Commons_category-inline
+  7.70%   60.255      2 Template:DMCA
+  7.56%   59.188      2 Template:Sister-inline
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21808348-0!canonical and timestamp 20180214171731 and revision id 825658951
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_hardware&amp;oldid=825658951">https://en.wikipedia.org/w/index.php?title=Computer_hardware&amp;oldid=825658951</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_hardware" title="Category:Computer hardware">Computer hardware</a></li><li><a href="/wiki/Category:Digital_electronics" title="Category:Digital electronics">Digital electronics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2017" title="Category:Use dmy dates from March 2017">Use dmy dates from March 2017</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_June_2016" title="Category:Articles containing potentially dated statements from June 2016">Articles containing potentially dated statements from June 2016</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Computer+hardware" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Computer+hardware" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Computer_hardware" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Computer_hardware" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Computer_hardware">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Computer_hardware&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Computer_hardware&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Computer_hardware" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Computer_hardware" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Computer_hardware&amp;oldid=825658951" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Computer_hardware&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3966" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_hardware&amp;id=825658951" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Computer+hardware">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Computer+hardware&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Computer_hardware&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Computer_hardware" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Computer_Hardware" hreflang="en">Wikibooks</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Rekenaarhardeware" title="Rekenaarhardeware – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Hardware" title="Hardware – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D8%AA%D8%A7%D8%AF_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8" title="عتاد الحاسوب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Tarabidau_fisico" title="Tarabidau fisico – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Soporte_f%C3%ADsicu" title="Soporte físicu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0" title="কম্পিউটার হার্ডওয়্যার – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D1%81%D0%BF%D1%8F%D1%87%D1%8D%D0%BD%D0%BD%D0%B5" title="Апаратнае забеспячэнне – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%B5%D0%BD_%D1%85%D0%B0%D1%80%D0%B4%D1%83%D0%B5%D1%80" title="Компютърен хардуер – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Hardver" title="Hardver – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Periant" title="Periant – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Maquinari" title="Maquinari – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hardware" title="Hardware – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Caledwedd" title="Caledwedd – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hardware" title="Hardware – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hardware" title="Hardware – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Riistvara" title="Riistvara – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A5%CE%BB%CE%B9%CE%BA%CF%8C_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CF%8E%CE%BD" title="Υλικό υπολογιστών – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es badge-Q17437798 badge-goodarticle" title="good article"><a href="https://es.wikipedia.org/wiki/Hardware" title="Hardware – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Aparataro" title="Aparataro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Hardware" title="Hardware – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%AE%D8%AA%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87" title="سخت‌افزار رایانه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/T%C3%B3lb%C3%BAna%C3%B0ur" title="Tólbúnaður – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mat%C3%A9riel_informatique" title="Matériel informatique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Crua-earra%C3%AD_r%C3%ADomhaire" title="Crua-earraí ríomhaire – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Bathar-cruaidh" title="Bathar-cruaidh – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Hardware" title="Hardware – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%95%E0%AA%AE%E0%AB%8D%E0%AA%AA%E0%AB%8D%E0%AA%AF%E0%AB%81%E0%AA%9F%E0%AA%B0_%E0%AA%B9%E0%AA%BE%E0%AA%B0%E0%AB%8D%E0%AA%A1%E0%AA%B5%E0%AB%87%E0%AA%B0" title="કમ્પ્યુટર હાર્ડવેર – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4" title="컴퓨터 하드웨어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0" title="हार्डवेयर – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Ra%C4%8Dunalna_sklopovska_podr%C5%A1ka" title="Računalna sklopovska podrška – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Hardware" title="Hardware – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Perangkat_keras" title="Perangkat keras – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Hardware" title="Hardware – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-xh"><a href="https://xh.wikipedia.org/wiki/I-computer_hardware" title="I-computer hardware – Xhosa" lang="xh" hreflang="xh" class="interlanguage-link-target">IsiXhosa</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/V%C3%A9lb%C3%BAna%C3%B0ur" title="Vélbúnaður – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hardware" title="Hardware – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%A8%D7%94" title="חומרה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Piranti_kasar" title="Piranti kasar – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/K%C3%B2mp%C3%B9trow%C3%B4_hard-w%C3%B4ra" title="Kòmpùtrowô hard-wôra – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BB%D1%96%D0%BA_%D0%B6%D0%B0%D0%B1%D0%B4%D1%8B%D2%9B%D1%82%D0%B0%D0%BC%D0%B0" title="Компьютерлік жабдықтама – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Hi%C5%9Fkalav" title="Hişkalav – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%AE%E0%BA%B2%E0%BA%94%E0%BB%81%E0%BA%A7" title="ຮາດແວ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Apparatus_computatralis" title="Apparatus computatralis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Datoru_aparat%C5%ABra" title="Datoru aparatūra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Hardware" title="Hardware – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Technin%C4%97_%C4%AFranga" title="Techninė įranga – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Mabend%C3%A9_ma_es%C3%A1lela" title="Mabendé ma esálela – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hardver" title="Hardver – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0" title="Машинска опрема – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Hardware" title="Hardware – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%B9%E0%B4%BE%E0%B5%BC%E0%B4%A1%E0%B5%8D%E2%80%8C%E0%B4%B5%E0%B5%86%E0%B4%AF%E0%B5%BC" title="കമ്പ്യൂട്ടർ ഹാർഡ്‌വെയർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Perkakasan_komputer" title="Perkakasan komputer – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Hardware" title="Hardware – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B%D0%BD_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA_%D1%85%D0%B0%D0%BD%D0%B3%D0%B0%D0%BC%D0%B6" title="Компьютерын техник хангамж – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%95%E1%80%BB%E1%80%B0%E1%80%90%E1%80%AC_%E1%80%9F%E1%80%90%E1%80%BA%E1%80%92%E1%80%BA%E1%80%9D%E1%80%B2%E1%80%9C%E1%80%BA" title="ကွန်ပျူတာ ဟတ်ဒ်ဝဲလ် – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hardware" title="Hardware – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%E0%A4%B0_%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A5%87%E0%A4%B0" title="कम्प्युटर हार्डवेर – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0" title="हार्डवेयर – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2" title="ハードウェア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Maskinvare" title="Maskinvare – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Maskinvare" title="Maskinvare – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82_%D0%B2%D0%BE%D1%80%D0%B0%D2%A5%D0%B4%D1%8B%D1%88" title="Аппарат вораҥдыш – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%B9%E0%AC%BE%E0%AC%B0%E0%AD%8D%E0%AC%A1%E0%AD%B1%E0%AD%87%E0%AC%B0" title="ହାର୍ଡୱେର – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%B0%E0%A8%AA%E0%A8%BF%E0%A8%8A%E0%A8%9F%E0%A8%B0_%E0%A8%B9%E0%A8%BE%E0%A8%B0%E0%A8%A1%E0%A8%B5%E0%A9%87%E0%A8%85%E0%A8%B0" title="ਕੰਪਿਊਟਰ ਹਾਰਡਵੇਅਰ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Hardware" title="Hardware – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sprz%C4%99t_komputerowy" title="Sprzęt komputerowy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hardware" title="Hardware – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Hardware" title="Hardware – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Sinchi_kaq" title="Sinchi kaq – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B4%D0%B2%D0%B5%D1%80" title="Гардвер – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Аппаратное обеспечение – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Computer_haurdware" title="Computer haurdware – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Harduer_kompjuterik" title="Harduer kompjuterik – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B6%9C%E0%B6%AB%E0%B6%9A_%E0%B6%AF%E0%B7%98%E0%B6%A9%E0%B7%8F%E0%B6%82%E0%B6%9C" title="පරිගණක දෘඩාංග – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Computer_hardware" title="Computer hardware – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Hardv%C3%A9r" title="Hardvér – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Strojna_oprema_ra%C4%8Dunalnika" title="Strojna oprema računalnika – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Computer_Hardware" title="Computer Hardware – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%95%DB%95%D9%82%D8%A7%D9%85%DB%8E%D8%B1" title="ڕەقامێر – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8_%D1%85%D0%B0%D1%80%D0%B4%D0%B2%D0%B5%D1%80" title="Рачунарски хардвер – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Hardver" title="Hardver – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tietokonelaitteisto" title="Tietokonelaitteisto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Maskinvara" title="Maskinvara – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Hardware_(kompyuter)" title="Hardware (kompyuter) – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A9%E0%AE%BF_%E0%AE%B5%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D" title="கணினி வன்பொருள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%8D_%E0%B0%B9%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%A1%E0%B1%8D%E2%80%8C%E0%B0%B5%E0%B1%87%E0%B0%B0%E0%B1%8D" title="కంప్యూటర్ హార్డ్‌వేర్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="ฮาร์ดแวร์คอมพิวเตอร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A2%D0%B0%D1%8A%D0%BC%D0%B8%D0%BD%D0%BE%D1%82%D0%B8_%D1%82%D0%B0%D2%B7%D2%B3%D0%B8%D0%B7%D0%BE%D1%82%D3%A3" title="Таъминоти таҷҳизотӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bilgisayar_donan%C4%B1m%C4%B1" title="Bilgisayar donanımı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Апаратне забезпечення – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%B9%D8%B1_%DB%81%D8%A7%D8%B1%DA%88%D9%88%DB%8C%D8%A6%D8%B1" title="کمپیوٹر ہارڈویئر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Hardware" title="Hardware – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_c%E1%BB%A9ng" title="Phần cứng – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Kompyuter_hardware" title="Kompyuter hardware – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%94%D7%90%D7%A8%D7%98%D7%95%D7%95%D7%90%D7%A8%D7%92" title="הארטווארג – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%A1%AC%E4%BB%B6" title="硬件 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A1%AC%E4%BB%B6" title="硬件 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3966#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 February 2018, at 17:17.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Computer_hardware&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.712","walltime":"1.108","ppvisitednodes":{"value":1609,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":78728,"limit":2097152},"templateargumentsize":{"value":777,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  782.727      1 -total"," 44.38%  347.370      1 Template:Reflist"," 24.22%  189.562      9 Template:Cite_web"," 12.37%   96.820      1 Template:Use_dmy_dates","  9.27%   72.552      2 Template:Navbox","  9.25%   72.374      5 Template:Cite_news","  8.52%   66.707     10 Template:Main_article","  7.89%   61.748      1 Template:Commons_category-inline","  7.70%   60.255      2 Template:DMCA","  7.56%   59.188      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.292","limit":"10.000"},"limitreport-memusage":{"value":3946864,"limit":52428800}},"cachereport":{"origin":"mw1233","timestamp":"20180214171731","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1258"});});</script>
+	</body>
+</html>

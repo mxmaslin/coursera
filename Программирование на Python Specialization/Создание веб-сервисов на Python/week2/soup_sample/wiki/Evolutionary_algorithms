@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Evolutionary algorithm - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Evolutionary_algorithm","wgTitle":"Evolutionary algorithm","wgCurRevisionId":823093518,"wgRevisionId":823093518,"wgArticleId":190837,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from January 2018","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from May 2013","Articles that may contain original research from May 2013","Cybernetics","Evolution","Evolutionary algorithms","Optimization algorithms and methods"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Evolutionary_algorithm","wgRelevantArticleId":190837,"wgRequestId":"WoReNQpAAEIAAFBznUkAAACI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Evolutionary_algorithms","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Evolutionary_algorithm","wgWikibaseItemId":"Q14489129","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Evolutionary_algorithm"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Evolutionary_algorithm"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Evolutionary_algorithm rootpage-Evolutionary_algorithm skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Evolutionary algorithm</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Evolutionary_algorithms&amp;redirect=no" class="mw-redirect" title="Evolutionary algorithms">Evolutionary algorithms</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, an <b>evolutionary algorithm</b> (<b>EA</b>) is a <a href="/wiki/Subset" title="Subset">subset</a> of <a href="/wiki/Evolutionary_computation" title="Evolutionary computation">evolutionary computation</a><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title=" (January 2018)">why?</span></a></i>]</sup>, a generic population-based <a href="/wiki/Metaheuristic" title="Metaheuristic">metaheuristic</a> <a href="/wiki/Optimization_(mathematics)" class="mw-redirect" title="Optimization (mathematics)">optimization</a> <a href="/wiki/Algorithm" title="Algorithm">algorithm</a>. An EA uses mechanisms inspired by <a href="/wiki/Biological_evolution" class="mw-redirect" title="Biological evolution">biological evolution</a>, such as <a href="/wiki/Reproduction" title="Reproduction">reproduction</a>, <a href="/wiki/Mutation" title="Mutation">mutation</a>, <a href="/wiki/Genetic_recombination" title="Genetic recombination">recombination</a>, and <a href="/wiki/Natural_selection" title="Natural selection">selection</a>. <a href="/wiki/Candidate_solution" class="mw-redirect" title="Candidate solution">Candidate solutions</a> to the <a href="/wiki/Optimization_problem" title="Optimization problem">optimization problem</a> play the role of individuals in a population, and the <a href="/wiki/Fitness_function" title="Fitness function">fitness function</a> determines the quality of the solutions (see also <a href="/wiki/Loss_function" title="Loss function">loss function</a>). <a href="/wiki/Evolution" title="Evolution">Evolution</a> of the population then takes place after the repeated application of the above operators.</p>
+<p>Evolutionary algorithms often perform well approximating solutions to all types of problems because they ideally do not make any assumption about the underlying <a href="/wiki/Fitness_landscape" title="Fitness landscape">fitness landscape</a>. Techniques from evolutionary algorithms applied to the modeling of biological evolution are generally limited to explorations of <a href="/wiki/Microevolution" title="Microevolution">microevolutionary processes</a> and planning models based upon cellular processes. In most real applications of EAs, computational complexity is a prohibiting factor. In fact, this computational complexity is due to fitness function evaluation. <a href="/wiki/Fitness_approximation" title="Fitness approximation">Fitness approximation</a> is one of the solutions to overcome this difficulty. However, seemingly simple EA can solve often complex problems; therefore, there may be no direct link between algorithm complexity and problem complexity.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Implementation"><span class="tocnumber">1</span> <span class="toctext">Implementation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Comparison_to_biological_processes"><span class="tocnumber">3</span> <span class="toctext">Comparison to biological processes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Related_techniques"><span class="tocnumber">4</span> <span class="toctext">Related techniques</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_population-based_metaheuristic_methods"><span class="tocnumber">5</span> <span class="toctext">Other population-based metaheuristic methods</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Examples"><span class="tocnumber">6</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Bibliography"><span class="tocnumber">9</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Implementation">Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=1" title="Edit section: Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Step One: Generate the initial <a href="/wiki/Population" title="Population">population</a> of <a href="/wiki/Individual" title="Individual">individuals</a> randomly. (First generation)</p>
+<p>Step Two: Evaluate the <a href="/wiki/Fitness_function" title="Fitness function">fitness</a> of each individual in that population (time limit, sufficient fitness achieved, etc.)</p>
+<p>Step Three: Repeat the following regenerational steps until termination:</p>
+<ol>
+<li>Select the best-fit individuals for <a href="/wiki/Reproduce" class="mw-redirect" title="Reproduce">reproduction</a>. (Parents)</li>
+<li><a href="/wiki/Breed" title="Breed">Breed</a> new individuals through <a href="/wiki/Crossover_(genetic_algorithm)" title="Crossover (genetic algorithm)">crossover</a> and <a href="/wiki/Mutation_(genetic_algorithm)" title="Mutation (genetic algorithm)">mutation</a> operations to give birth to <a href="/wiki/Offspring" title="Offspring">offspring</a>.</li>
+<li>Evaluate the individual fitness of new individuals.</li>
+<li>Replace least-fit population with new individuals.</li>
+</ol>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Similar techniques differ in <a href="/wiki/Genetic_representation" title="Genetic representation">genetic representation</a> and other implementation details, and the nature of the particular applied problem.</p>
+<ul>
+<li><a href="/wiki/Genetic_algorithm" title="Genetic algorithm">Genetic algorithm</a> – This is the most popular type of EA. One seeks the solution of a problem in the form of strings of numbers (traditionally binary, although the best representations are usually those that reflect something about the problem being solved), by applying operators such as recombination and mutation (sometimes one, sometimes both). This type of EA is often used in <a href="/wiki/Optimization_(mathematics)" class="mw-redirect" title="Optimization (mathematics)">optimization</a> problems. Another name for it is <i>fetura</i>, from the Latin for breeding.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/Genetic_programming" title="Genetic programming">Genetic programming</a> – Here the solutions are in the form of computer programs, and their fitness is determined by their ability to solve a computational problem.</li>
+<li><a href="/wiki/Evolutionary_programming" title="Evolutionary programming">Evolutionary programming</a> – Similar to genetic programming, but the structure of the program is fixed and its numerical parameters are allowed to evolve.</li>
+<li><a href="/wiki/Gene_expression_programming" title="Gene expression programming">Gene expression programming</a> – Like genetic programming, GEP also evolves computer programs but it explores a genotype-phenotype system, where computer programs of different sizes are encoded in linear chromosomes of fixed length.</li>
+<li><a href="/wiki/Evolution_strategy" title="Evolution strategy">Evolution strategy</a> – Works with vectors of real numbers as representations of solutions, and typically uses self-adaptive mutation rates.</li>
+<li><a href="/wiki/Differential_evolution" title="Differential evolution">Differential evolution</a> – Based on vector differences and is therefore primarily suited for <a href="/wiki/Numerical_optimization" class="mw-redirect" title="Numerical optimization">numerical optimization</a> problems.</li>
+<li><a href="/wiki/Neuroevolution" title="Neuroevolution">Neuroevolution</a> – Similar to genetic programming but the genomes represent artificial neural networks by describing structure and connection weights. The genome encoding can be direct or indirect.</li>
+<li><a href="/wiki/Learning_classifier_system" title="Learning classifier system">Learning classifier system</a> – Here the solution is a set of classifiers (rules or conditions). A Michigan-LCS evolves at the level of individual classifiers whereas a Pittsburgh-LCS uses populations of classifier-sets. Initially, classifiers were only binary, but now include real, neural net, or <a href="/wiki/S-expression" title="S-expression">S-expression</a> types. Fitness is typically determined with either a strength or accuracy based <a href="/wiki/Reinforcement_learning" title="Reinforcement learning">reinforcement learning</a> or <a href="/wiki/Supervised_learning" title="Supervised learning">supervised learning</a> approach.</li>
+</ul>
+<h2><span class="mw-headline" id="Comparison_to_biological_processes">Comparison to biological processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=3" title="Edit section: Comparison to biological processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A possible limitation<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (May 2013)">according to whom?</span></a></i>]</sup> of many evolutionary algorithms is their lack of a clear <a href="/wiki/Genotype-phenotype_distinction" class="mw-redirect" title="Genotype-phenotype distinction">genotype-phenotype distinction</a>. In nature, the fertilized egg cell undergoes a complex process known as <a href="/wiki/Embryogenesis" title="Embryogenesis">embryogenesis</a> to become a mature <a href="/wiki/Phenotype" title="Phenotype">phenotype</a>. This indirect <a href="/wiki/Encoding" class="mw-redirect" title="Encoding">encoding</a> is believed to make the genetic search more robust (i.e. reduce the probability of fatal mutations), and also may improve the <a href="/wiki/Evolvability" title="Evolvability">evolvability</a> of the organism.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Such indirect (a.k.a. generative or developmental) encodings also enable evolution to exploit the regularity in the environment.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Recent work in the field of <a href="/wiki/Artificial_development" title="Artificial development">artificial embryogeny</a>, or artificial developmental systems, seeks to address these concerns. And <a href="/wiki/Gene_expression_programming" title="Gene expression programming">gene expression programming</a> successfully explores a genotype-phenotype system, where the genotype consists of linear multigenic chromosomes of fixed length and the phenotype consists of multiple expression trees or computer programs of different sizes and shapes.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Synthesis_of_published_material" title="Wikipedia:No original research"><span title="The material near this tag may be based upon an improper synthesis of sources. (May 2013)">improper synthesis?</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Related_techniques">Related techniques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=4" title="Edit section: Related techniques">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Swarm_intelligence" title="Swarm intelligence">Swarm algorithms</a><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Why are swarm algorithms associated with evolutionary ones? (January 2018)">clarification needed</span></a></i>]</sup> include</p>
+<ul>
+<li><a href="/wiki/Ant_colony_optimization" class="mw-redirect" title="Ant colony optimization">Ant colony optimization</a> – Based on the ideas of ant foraging by pheromone communication to form paths. Primarily suited for <a href="/wiki/Combinatorial_optimization" title="Combinatorial optimization">combinatorial optimization</a> and <a href="/wiki/Graph_theory" title="Graph theory">graph</a> problems.</li>
+<li>The runner-root algorithm (RRA) is inspired by the function of runners and roots of plants in nature <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li><a href="/wiki/Artificial_bee_colony_algorithm" title="Artificial bee colony algorithm">Artificial bee colony algorithm</a> – Based on the honey bee foraging behaviour. Primarily proposed for numerical optimization and extended to solve combinatorial, constrained and multi-objective optimization problems.</li>
+<li><a href="/wiki/Bees_algorithm" title="Bees algorithm">Bees algorithm</a> is based on the foraging behaviour of honey bees. It has been applied in many applications such as routing and scheduling.</li>
+<li><a href="/wiki/Cuckoo_search" title="Cuckoo search">Cuckoo search</a> is inspired by the brooding parasitism of the <a href="/wiki/Cuckoo" title="Cuckoo">cuckoo</a> species. It also uses <a href="/wiki/L%C3%A9vy_flight" title="Lévy flight">Lévy flights</a>, and thus it suits for global <a href="/wiki/Optimization" class="mw-redirect" title="Optimization">optimization</a> problems.</li>
+<li><a href="/wiki/Particle_swarm_optimization" title="Particle swarm optimization">Particle swarm optimization</a> – Based on the ideas of animal flocking behaviour. Also primarily suited for <a href="/wiki/Numerical_optimization" class="mw-redirect" title="Numerical optimization">numerical optimization</a> problems.</li>
+</ul>
+<h2><span class="mw-headline" id="Other_population-based_metaheuristic_methods">Other population-based <a href="/wiki/Metaheuristic" title="Metaheuristic">metaheuristic</a> methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=5" title="Edit section: Other population-based metaheuristic methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Hunting_Search" class="mw-redirect" title="Hunting Search">Hunting Search</a> - A method inspired by the group hunting of some animals such as wolves that organize their position to surround the prey, each of them relative to the position of the others and especially that of their leader. It is a continuous optimization method <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> adapted as a combinatorial optimization method.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><a href="/wiki/Adaptive_dimensional_search" title="Adaptive dimensional search">Adaptive dimensional search</a> – Unlike nature-inspired metaheuristic techniques, an adaptive dimensional search algorithm does not implement any metaphor as an underlying principle. Rather it uses a simple performance-oriented method, based on the update of the search dimensionality ratio (SDR) parameter at each iteration.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><a href="/wiki/Firefly_algorithm" title="Firefly algorithm">Firefly algorithm</a> is inspired by the behavior of fireflies, attracting each other by flashing light. This is especially useful for multimodal optimization.</li>
+<li><a href="/wiki/Harmony_search" title="Harmony search">Harmony search</a> – Based on the ideas of musicians' behavior in searching for better harmonies. This algorithm is suitable for combinatorial optimization as well as parameter optimization.</li>
+<li><a href="/wiki/Gaussian_adaptation" title="Gaussian adaptation">Gaussian adaptation</a> – Based on information theory. Used for maximization of manufacturing yield, <a href="/wiki/Mean_fitness" class="mw-redirect" title="Mean fitness">mean fitness</a> or <a href="/wiki/Average_information" class="mw-redirect" title="Average information">average information</a>. See for instance <a href="/wiki/Entropy_in_thermodynamics_and_information_theory" title="Entropy in thermodynamics and information theory">Entropy in thermodynamics and information theory</a>.</li>
+<li><a href="/wiki/Memetic_algorithm" title="Memetic algorithm">Memetic algorithm</a> – A hybrid method, inspired by <a href="/wiki/Richard_Dawkins" title="Richard Dawkins">Richard Dawkins</a>' notion of a meme, it commonly takes the form of a population-based algorithm coupled with individual learning procedures capable of performing local refinements. Emphasizes the exploitation of problem-specific knowledge, and tries to orchestrate local and global search in a synergistic way.</li>
+</ul>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=6" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The computer simulations <i><a href="/wiki/Tierra_(computer_simulation)" title="Tierra (computer simulation)">Tierra</a></i> and <i><a href="/wiki/Avida" title="Avida">Avida</a></i> attempt to model <a href="/wiki/Macroevolution" title="Macroevolution">macroevolutionary</a> dynamics.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=7" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Two-population_EA_search_(2).gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Two-population_EA_search_%282%29.gif/120px-Two-population_EA_search_%282%29.gif" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Two-population_EA_search_%282%29.gif/180px-Two-population_EA_search_%282%29.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Two-population_EA_search_%282%29.gif/240px-Two-population_EA_search_%282%29.gif 2x" data-file-width="640" data-file-height="480" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A two-population EA search over a constrained <a href="/wiki/Rosenbrock_function" title="Rosenbrock function">Rosenbrock function</a> with bounded global optimum.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Two-population_EA_search_(3).gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Two-population_EA_search_%283%29.gif/120px-Two-population_EA_search_%283%29.gif" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Two-population_EA_search_%283%29.gif/180px-Two-population_EA_search_%283%29.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Two-population_EA_search_%283%29.gif/240px-Two-population_EA_search_%283%29.gif 2x" data-file-width="640" data-file-height="480" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A two-population EA search over a constrained <a href="/wiki/Rosenbrock_function" title="Rosenbrock function">Rosenbrock function</a>. Global optimum is not bounded.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Estimation_of_Distribution_Algorithm_animation.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Estimation_of_Distribution_Algorithm_animation.gif/120px-Estimation_of_Distribution_Algorithm_animation.gif" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Estimation_of_Distribution_Algorithm_animation.gif/180px-Estimation_of_Distribution_Algorithm_animation.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Estimation_of_Distribution_Algorithm_animation.gif/240px-Estimation_of_Distribution_Algorithm_animation.gif 2x" data-file-width="640" data-file-height="480" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Estimation_of_distribution_algorithm" title="Estimation of distribution algorithm">Estimation of distribution algorithm</a> over <a href="/w/index.php?title=Keane%27s_function&amp;action=edit&amp;redlink=1" class="new" title="Keane's function (page does not exist)">Keane's function</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:19px auto;"><a href="/wiki/File:Two_population_EA_animation.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Two_population_EA_animation.gif/120px-Two_population_EA_animation.gif" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Two_population_EA_animation.gif/180px-Two_population_EA_animation.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Two_population_EA_animation.gif/240px-Two_population_EA_animation.gif 2x" data-file-width="750" data-file-height="698" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A two-population EA search of a bounded optima of <a href="/wiki/Test_functions_for_optimization" title="Test functions for optimization">Simionescu's function</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B01MPW3Y10">Wayward World</a>, by Jon Roland. Novel that uses fetura to select candidates for public office.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">G.S. Hornby and J.B. Pollack. Creating high-level components with a generative representation for body-brain evolution. <a href="/wiki/Artificial_Life_(journal)" title="Artificial Life (journal)">Artificial Life</a>, 8(3):223–246, 2002.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Jeff Clune, Benjamin Beckmann, Charles Ofria, and Robert Pennock. <a rel="nofollow" class="external text" href="http://www.ofria.com/pubs/2009CluneEtAl.pdf">"Evolving Coordinated Quadruped Gaits with the HyperNEAT Generative Encoding"</a>. <i>Proceedings of the IEEE Congress on Evolutionary Computing Special Section on Evolutionary Robotics</i>, 2009. Trondheim, Norway.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">J. Clune, C. Ofria, and R. T. Pennock, "<a rel="nofollow" class="external text" href="http://jeffclune.com/publications/Clune-HyperNEATandRegularity.pdf">How a generative encoding fares as problem-regularity decreases</a>," in PPSN (G. Rudolph, T. Jansen, S. M. Lucas, C. Poloni, and N. Beume, eds.), vol. 5199 of Lecture Notes in Computer Science, pp. 358–367, Springer, 2008.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gene-expression-programming.com/webpapers/GEP.pdf">Ferreira, C., 2001. Gene Expression Programming: A New Adaptive Algorithm for Solving Problems. Complex Systems, Vol. 13, issue 2: 87–129.</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">F. Merrikh-Bayat, The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature, Applied Soft Computing, Vol. 33, pp. 292–303, 2015</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">R. Oftadeh et al. (2010), <a rel="nofollow" class="external text" href="https://www.sciencedirect.com/science/article/pii/S0898122110005419">A novel meta-heuristic optimization algorithm inspired by group hunting of animals: Hunting search</a>, 60, 2087–2098.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">A. Agharghor and M,E. Riffi (2017), First Adaptation of Hunting Search Algorithm for the Quadratic Assignment Problem, 520, 263–267. doi=<a rel="nofollow" class="external text" href="https://dx.doi.org/10.1007/978-3-319-46568-5_27">10.1007/978-3-319-46568-5_27</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Hasançebi, O., Kazemzadeh Azad, S. (2015), Adaptive Dimensional Search: A New Metaheuristic Algorithm for Discrete Truss Sizing Optimization, Computers and Structures, 154, 1–16.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFSimionescuBealeDozier2004" class="citation">Simionescu, P.A.; Beale, D.G.; Dozier, G.V. (2004), <a rel="nofollow" class="external text" href="http://faculty.tamucc.edu/psimionescu/PDFs/WCCI2004-Paper1361.pdf"><i>Constrained optimization problem solving using estimation of distribution algorithms</i></a> <span style="font-size:85%;">(PDF)</span>, Proc. of the 2004 Congress on Evolutionary Computation - CEC2004, Portland, OR, pp.&#160;1647–1653, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FCEC.2006.1688506">10.1109/CEC.2006.1688506</a><span class="reference-accessdate">, retrieved <span class="nowrap">7 January</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Constrained+optimization+problem+solving+using+estimation+of+distribution+algorithms&amp;rft.place=Portland%2C+OR&amp;rft.series=Proc.+of+the+2004+Congress+on+Evolutionary+Computation+-+CEC2004&amp;rft.pages=1647-1653&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1109%2FCEC.2006.1688506&amp;rft.aulast=Simionescu&amp;rft.aufirst=P.A.&amp;rft.au=Beale%2C+D.G.&amp;rft.au=Dozier%2C+G.V.&amp;rft_id=http%3A%2F%2Ffaculty.tamucc.edu%2Fpsimionescu%2FPDFs%2FWCCI2004-Paper1361.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvolutionary+algorithm" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFSimionescuDozierWainwright2006" class="citation">Simionescu, P.A.; Dozier, G.V.; Wainwright, R.L. (2006), <a rel="nofollow" class="external text" href="http://faculty.tamucc.edu/psimionescu/PDFs/WCCI2006-Paper7204(1).pdf"><i>A Two-Population Evolutionary Algorithm for Constrained Optimization Problems</i></a> <span style="font-size:85%;">(PDF)</span>, Proc 2006 IEEE International Conference on Evolutionary Computation, Vancouver, Canada, pp.&#160;1647–1653, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FCEC.2006.1688506">10.1109/CEC.2006.1688506</a><span class="reference-accessdate">, retrieved <span class="nowrap">7 January</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Two-Population+Evolutionary+Algorithm+for+Constrained+Optimization+Problems&amp;rft.place=Vancouver%2C+Canada&amp;rft.series=Proc+2006+IEEE+International+Conference+on+Evolutionary+Computation&amp;rft.pages=1647-1653&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1109%2FCEC.2006.1688506&amp;rft.aulast=Simionescu&amp;rft.aufirst=P.A.&amp;rft.au=Dozier%2C+G.V.&amp;rft.au=Wainwright%2C+R.L.&amp;rft_id=http%3A%2F%2Ffaculty.tamucc.edu%2Fpsimionescu%2FPDFs%2FWCCI2006-Paper7204%281%29.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvolutionary+algorithm" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Simionescu, P.A. (2014). <i>Computer Aided Graphing and Simulation Tools for AutoCAD Users</i> (1st ed.). Boca Raton, FL: <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4822-5290-3" title="Special:BookSources/978-1-4822-5290-3">978-1-4822-5290-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computer+Aided+Graphing+and+Simulation+Tools+for+AutoCAD+Users&amp;rft.place=Boca+Raton%2C+FL&amp;rft.edition=1st&amp;rft.pub=CRC+Press&amp;rft.date=2014&amp;rft.isbn=978-1-4822-5290-3&amp;rft.aulast=Simionescu&amp;rft.aufirst=P.A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvolutionary+algorithm" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit&amp;section=9" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Ashlock, D. (2006), <i>Evolutionary Computation for Modeling and Optimization</i>, Springer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-22196-4" title="Special:BookSources/0-387-22196-4">0-387-22196-4</a>.</li>
+<li>Bäck, T. (1996), <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=htJHI1UrL7IC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Evolutionary Algorithms in Theory and Practice: Evolution Strategies, Evolutionary Programming, Genetic Algorithms</a></i>, Oxford Univ. Press.</li>
+<li>Bäck, T., Fogel, D., Michalewicz, Z. (1997), <i>Handbook of Evolutionary Computation</i>, Oxford Univ. Press.</li>
+<li>Banzhaf, W., Nordin, P., Keller, R., Francone, F. (1998), <i>Genetic Programming - An Introduction</i>, Morgan Kaufmann, San Francisco</li>
+<li>Eiben, A.E., Smith, J.E. (2003), <i>Introduction to Evolutionary Computing</i>, Springer.</li>
+<li>Holland, J. H. (1992), <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=5EgGaBkwvWcC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Adaptation in Natural and Artificial Systems</a></i>, The University of Michigan Press, Ann Arbor</li>
+<li>Michalewicz Z., Fogel D.B. (2004). How To Solve It: Modern Heuristics, Springer.</li>
+<li>Benkő A., Dósa G., Tuza Z. (2010), <i>Bin Packing/Covering with Delivery, Solved with the Evolution of Algorithms</i>, Proc. 2010 IEEE 5th International Conference on Bio-Inspired Computing: Theories and Applications, BIC-TA 2010, pp.&#160;298–302.</li>
+<li><cite class="citation book">Poli, R.; Langdon, W. B.; McPhee, N. F. (2008). <a rel="nofollow" class="external text" href="http://cswww.essex.ac.uk/staff/rpoli/gp-field-guide/"><i>A Field Guide to Genetic Programming</i></a>. Lulu.com, freely available from the internet. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4092-0073-4" title="Special:BookSources/978-1-4092-0073-4">978-1-4092-0073-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Field+Guide+to+Genetic+Programming&amp;rft.pub=Lulu.com%2C+freely+available+from+the+internet&amp;rft.date=2008&amp;rft.isbn=978-1-4092-0073-4&amp;rft.au=Poli%2C+R.&amp;rft.au=Langdon%2C+W.+B.&amp;rft.au=McPhee%2C+N.+F.&amp;rft_id=http%3A%2F%2Fcswww.essex.ac.uk%2Fstaff%2Frpoli%2Fgp-field-guide%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvolutionary+algorithm" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Price, K., Storn, R.M., Lampinen, J.A., (2005). "<a rel="nofollow" class="external text" href="https://books.google.com/books?id=hakXI-dEhTkC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Differential Evolution: A Practical Approach to Global Optimization</a>", Springer.</li>
+<li><a href="/wiki/Ingo_Rechenberg" title="Ingo Rechenberg">Ingo Rechenberg</a> (1971): Evolutionsstrategie - Optimierung technischer Systeme nach Prinzipien der biologischen Evolution (PhD thesis). Reprinted by Fromman-Holzboog (1973).</li>
+<li>Hans-Paul Schwefel (1974): Numerische Optimierung von Computer-Modellen (PhD thesis). Reprinted by Birkhäuser (1977).</li>
+<li>Simon, D. (2013): <a rel="nofollow" class="external text" href="http://academic.csuohio.edu/simond/EvolutionaryOptimization">Evolutionary Optimization Algorithms</a>, Wiley.</li>
+<li><i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=yQVGAAAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Computational Intelligence: A Methodological Introduction</a></i> by Kruse, Borgelt, Klawonn, Moewes, Steinbrecher, Held, 2013, Springer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4471-5012-1" title="Special:BookSources/978-1-4471-5012-1">978-1-4471-5012-1</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Evolutionary_computation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Evolutionary_computation" title="Template:Evolutionary computation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Evolutionary_computation" title="Template talk:Evolutionary computation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Evolutionary_computation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Evolutionary_computation" style="font-size:114%;margin:0 4em"><a href="/wiki/Evolutionary_computation" title="Evolutionary computation">Evolutionary computation</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Main Topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convergence_(evolutionary_computing)" title="Convergence (evolutionary computing)">Convergence (evolutionary computing)</a></li>
+<li><a class="mw-selflink selflink">Evolutionary algorithm</a></li>
+<li><a href="/wiki/Evolutionary_data_mining" title="Evolutionary data mining">Evolutionary data mining</a></li>
+<li><a href="/wiki/Evolutionary_multimodal_optimization" title="Evolutionary multimodal optimization">Evolutionary multimodal optimization</a></li>
+<li><a href="/wiki/Human-based_evolutionary_computation" title="Human-based evolutionary computation">Human-based evolutionary computation</a></li>
+<li><a href="/wiki/Interactive_evolutionary_computation" title="Interactive evolutionary computation">Interactive evolutionary computation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cellular_evolutionary_algorithm" title="Cellular evolutionary algorithm">Cellular evolutionary algorithm</a></li>
+<li><a href="/wiki/CMA-ES" title="CMA-ES">Covariance Matrix Adaptation Evolution Strategy (CMA-ES)</a></li>
+<li><a href="/wiki/Differential_evolution" title="Differential evolution">Differential evolution</a></li>
+<li><a href="/wiki/Evolutionary_programming" title="Evolutionary programming">Evolutionary programming</a></li>
+<li><a href="/wiki/Genetic_algorithm" title="Genetic algorithm">Genetic algorithm</a></li>
+<li><a href="/wiki/Genetic_programming" title="Genetic programming">Genetic programming</a></li>
+<li><a href="/wiki/Gene_expression_programming" title="Gene expression programming">Gene expression programming</a></li>
+<li><a href="/wiki/Evolution_strategy" title="Evolution strategy">Evolution strategy</a></li>
+<li><a href="/wiki/Natural_evolution_strategy" title="Natural evolution strategy">Natural evolution strategy</a></li>
+<li><a href="/wiki/Neuroevolution" title="Neuroevolution">Neuroevolution</a></li>
+<li><a href="/wiki/Learning_classifier_system" title="Learning classifier system">Learning classifier system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related techniques</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swarm_intelligence" title="Swarm intelligence">Swarm intelligence</a></li>
+<li><a href="/wiki/Ant_colony_optimization" class="mw-redirect" title="Ant colony optimization">Ant colony optimization</a></li>
+<li><a href="/wiki/Bees_algorithm" title="Bees algorithm">Bees algorithm</a></li>
+<li><a href="/wiki/Cuckoo_search" title="Cuckoo search">Cuckoo search</a></li>
+<li><a href="/wiki/Particle_swarm_optimization" title="Particle swarm optimization">Particle swarm optimization</a></li>
+<li><a href="/wiki/Bacterial_Colony_Optimization" class="mw-redirect" title="Bacterial Colony Optimization">Bacterial Colony Optimization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Metaheuristic" title="Metaheuristic">Metaheuristic methods</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Grey_Wolf_Optimizer&amp;action=edit&amp;redlink=1" class="new" title="Grey Wolf Optimizer (page does not exist)">Grey Wolf Optimizer</a></li>
+<li><a href="/wiki/Firefly_algorithm" title="Firefly algorithm">Firefly algorithm</a></li>
+<li><a href="/wiki/Harmony_search" title="Harmony search">Harmony search</a></li>
+<li><a href="/wiki/Gaussian_adaptation" title="Gaussian adaptation">Gaussian adaptation</a></li>
+<li><a href="/wiki/Memetic_algorithm" title="Memetic algorithm">Memetic algorithm</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_development" title="Artificial development">Artificial development</a></li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Artificial_life" title="Artificial life">Artificial life</a></li>
+<li><a href="/wiki/Digital_organism" title="Digital organism">Digital organism</a></li>
+<li><a href="/wiki/Evolutionary_robotics" title="Evolutionary robotics">Evolutionary robotics</a></li>
+<li><a href="/wiki/Fitness_function" title="Fitness function">Fitness function</a></li>
+<li><a href="/wiki/Fitness_landscape" title="Fitness landscape">Fitness landscape</a></li>
+<li><a href="/wiki/Fitness_approximation" title="Fitness approximation">Fitness approximation</a></li>
+<li><a href="/wiki/Genetic_operators" class="mw-redirect" title="Genetic operators">Genetic operators</a></li>
+<li><a href="/wiki/Interactive_evolutionary_computation" title="Interactive evolutionary computation">Interactive evolutionary computation</a></li>
+<li><a href="/wiki/No_free_lunch_in_search_and_optimization" title="No free lunch in search and optimization">No free lunch in search and optimization</a></li>
+<li><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></li>
+<li><a href="/wiki/Mating_pool" title="Mating pool">Mating pool</a></li>
+<li><a href="/wiki/Program_synthesis" title="Program synthesis">Program synthesis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Academic_journal" title="Academic journal">Journals</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Evolutionary_Computation_(journal)" title="Evolutionary Computation (journal)">Evolutionary Computation (journal)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20180213203014
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.281 seconds
+Preprocessor visited node count: 1411/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33637/2097152 bytes
+Template argument size: 2925/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 2.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  242.499      1 -total
+ 24.85%   60.249      1 Template:Why
+ 21.99%   53.333      2 Template:Citation
+ 19.92%   48.316      2 Template:Fix
+ 15.14%   36.725      5 Template:Category_handler
+ 14.96%   36.285      2 Template:ISBN
+  7.70%   18.682      2 Template:Fix-span
+  7.54%   18.275      1 Template:Evolutionary_computation
+  7.16%   17.371      3 Template:Delink
+  6.11%   14.828      2 Template:Catalog_lookup_link
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:190837-0!canonical and timestamp 20180213203013 and revision id 823093518
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Evolutionary_algorithm&amp;oldid=823093518">https://en.wikipedia.org/w/index.php?title=Evolutionary_algorithm&amp;oldid=823093518</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cybernetics" title="Category:Cybernetics">Cybernetics</a></li><li><a href="/wiki/Category:Evolution" title="Category:Evolution">Evolution</a></li><li><a href="/wiki/Category:Evolutionary_algorithms" title="Category:Evolutionary algorithms">Evolutionary algorithms</a></li><li><a href="/wiki/Category:Optimization_algorithms_and_methods" title="Category:Optimization algorithms and methods">Optimization algorithms and methods</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_January_2018" title="Category:Wikipedia articles needing clarification from January 2018">Wikipedia articles needing clarification from January 2018</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_May_2013" title="Category:Articles with specifically marked weasel-worded phrases from May 2013">Articles with specifically marked weasel-worded phrases from May 2013</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_May_2013" title="Category:Articles that may contain original research from May 2013">Articles that may contain original research from May 2013</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Evolutionary+algorithm" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Evolutionary+algorithm" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Evolutionary_algorithm" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Evolutionary_algorithm" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Evolutionary_algorithm">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Evolutionary_algorithm" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Evolutionary_algorithm" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Evolutionary_algorithm&amp;oldid=823093518" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Evolutionary_algorithm&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14489129" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Evolutionary_algorithm&amp;id=823093518" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Evolutionary+algorithm">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Evolutionary+algorithm&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Evolutionary_algorithm&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Evolutionary_algorithms" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A9_%D8%AA%D8%B7%D9%88%D8%B1%D9%8A%D8%A9" title="خوارزمية تطورية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ch%C3%ACn-h%C3%B2a_i%C3%A1n-s%C7%B9g-hoat" title="Chìn-hòa ián-sǹg-hoat – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Evolution%C3%A4ra_Algorithmus" title="Evolutionära Algorithmus – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Evolution%C3%A4rer_Algorithmus" title="Evolutionärer Algorithmus – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Algoritmo_evolutivo" title="Algoritmo evolutivo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D9%81%D8%B1%DA%AF%D8%B4%D8%AA%DB%8C" title="الگوریتم فرگشتی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Algorithme_%C3%A9volutionniste" title="Algorithme évolutionniste – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Algoritmo_evolutivo" title="Algoritmo evolutivo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95_%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF" title="विकासात्मक कलनविधि – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Algoritmo_evolutivo" title="Algoritmo evolutivo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" title="進化的アルゴリズム – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Algorytm_ewolucyjny" title="Algorytm ewolucyjny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Algoritmo_evolutivo" title="Algoritmo evolutivo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B" title="Эволюционные алгоритмы – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Evolutionary_algorithm" title="Evolutionary algorithm – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Evolucijski_algoritem" title="Evolucijski algoritem – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%95%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%B8_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%B0%D0%BC" title="Еволуциони алгоритам – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Evoluutioalgoritmi" title="Evoluutioalgoritmi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3" title="ขั้นตอนวิธีเชิงวิวัฒนาการ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Evrimsel_algoritma" title="Evrimsel algoritma – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Еволюційний алгоритм – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14489129#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 January 2018, at 05:41.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Evolutionary_algorithm&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.281","ppvisitednodes":{"value":1411,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33637,"limit":2097152},"templateargumentsize":{"value":2925,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  242.499      1 -total"," 24.85%   60.249      1 Template:Why"," 21.99%   53.333      2 Template:Citation"," 19.92%   48.316      2 Template:Fix"," 15.14%   36.725      5 Template:Category_handler"," 14.96%   36.285      2 Template:ISBN","  7.70%   18.682      2 Template:Fix-span","  7.54%   18.275      1 Template:Evolutionary_computation","  7.16%   17.371      3 Template:Delink","  6.11%   14.828      2 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":2947249,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20180213203014","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

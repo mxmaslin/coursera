@@ -1,0 +1,2241 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Amaya (web editor) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Amaya_(web_editor)","wgTitle":"Amaya (web editor)","wgCurRevisionId":808805711,"wgRevisionId":808805711,"wgArticleId":685869,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2012","Articles to be expanded from June 2010","All articles to be expanded","Articles using small message boxes","Official website different in Wikidata and Wikipedia","Free HTML editors","Free software programmed in C","Free web browsers","Discontinued web browsers","Discontinued development tools","Web browsers for AmigaOS","MacOS web browsers","POSIX web browsers","Windows web browsers","1996 software","World Wide Web Consortium","Gopher clients","Software that uses wxWidgets","Software using the W3C license"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Amaya_(web_editor)","wgRelevantArticleId":685869,"wgRequestId":"WoNL3wpAIEIAABGgVDoAAACM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q455973","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/82/Amaya_inuse.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Amaya_(web_editor)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Amaya_(web_editor)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Amaya_web_editor rootpage-Amaya_web_editor skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Amaya (web editor)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em">
+<caption class="summary">Amaya</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Amaya_logo_65x50.png" class="image"><img alt="Amaya logo 65x50.png" src="//upload.wikimedia.org/wikipedia/en/f/f4/Amaya_logo_65x50.png" width="65" height="50" data-file-width="65" data-file-height="50" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Amaya_inuse.png" class="image" title="Amaya 11.3 under Windows 7"><img alt="Amaya 11.3 under Windows 7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Amaya_inuse.png/300px-Amaya_inuse.png" width="300" height="238" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Amaya_inuse.png/450px-Amaya_inuse.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Amaya_inuse.png/600px-Amaya_inuse.png 2x" data-file-width="1089" data-file-height="864" /></a>
+<div>Amaya 11.3 under <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a>, <a href="/wiki/Institut_National_de_Recherche_en_Informatique_et_en_Automatique" class="mw-redirect" title="Institut National de Recherche en Informatique et en Automatique">INRIA</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>July&#160;1996<span class="noprint">; 21&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1996-07</span>)</span><sup id="cite_ref-inria-thot_1-0" class="reference"><a href="#cite_note-inria-thot-1">[1]</a></sup></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>11.4.4 <small>(January&#160;18, 2012<span class="noprint">; 6 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2012-01-18</span>)</span>)</small> <small class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/Amaya&amp;action=edit">[±]</a></small></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Preview release</a></th>
+<td>11.4.7 <small>(July&#160;23, 2013<span class="noprint">; 4 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2013-07-23</span>)</span>)</small> <small class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Latest_preview_software_release/Amaya&amp;action=edit">[±]</a></small></td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a>, <a href="/wiki/OS_X" class="mw-redirect" title="OS X">OS X</a>, <a href="/wiki/Linux" title="Linux">Linux</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Computing_platform" title="Computing platform">Platform</a></th>
+<td><a href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/X86-64" title="X86-64">x86-64</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Available in</th>
+<td>English, French, German, Spanish, Italian, Hungarian, Georgian, Norwegian, Portuguese, Russian, Japanese, Chinese, Finnish, Dutch, Slovak, Ukrainian<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/HTML_editor" title="HTML editor">HTML editor</a>, <a href="/wiki/Web_browser" title="Web browser">web browser</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/W3C_Software_Notice_and_License" title="W3C Software Notice and License">W3C</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.w3.org/Amaya/">www<wbr />.w3<wbr />.org<wbr />/Amaya<wbr />/</a></span></td>
+</tr>
+</table>
+<p><b>Amaya</b> (formerly <b>Amaya World</b>)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> is a discontinued <a href="/wiki/Free_and_open_source" class="mw-redirect" title="Free and open source">free and open source</a> <a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a> web <a href="/wiki/Authoring_tool" class="mw-redirect" title="Authoring tool">authoring tool</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> with <a href="/wiki/Web_browser" title="Web browser">browsing</a> abilities.</p>
+<p>It was created by a structured editor project at the <a href="/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique" class="mw-redirect" title="Institut national de recherche en informatique et en automatique">INRIA</a>, a French national research institution, and later adopted by the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a> (W3C) as their <a href="/wiki/Testbed" title="Testbed">testbed</a> for <a href="/wiki/Web_standard" class="mw-redirect" title="Web standard">web standards</a>;<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> a role it took over from the <a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena web browser</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Since the last release in January 2012, INRIA and the W3C have stopped supporting the project and active development has ceased.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Amaya has relatively low <a href="/wiki/System_requirements" title="System requirements">system requirements</a>, even in comparison with other <a href="/wiki/Web_browser" title="Web browser">web browsers</a> from the era of its active development period, so it has been considered a "lightweight" browser.<sup id="cite_ref-freshmeat_12-0" class="reference"><a href="#cite_note-freshmeat-12">[12]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Features"><span class="tocnumber">2</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Codebase_timeline"><span class="tocnumber">3</span> <span class="toctext">Codebase timeline</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#A_test_bed_application"><span class="tocnumber">4</span> <span class="toctext">A test bed application</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Naming_and_logo"><span class="tocnumber">5</span> <span class="toctext">Naming and logo</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(June 2010)</i></small></div>
+</td>
+</tr>
+</table>
+<p>Ramzi Guetari joined the team in October 1996.<sup id="cite_ref-w3calumni_13-0" class="reference"><a href="#cite_note-w3calumni-13">[13]</a></sup> Daniel Veillard was responsible for the integration of CSS in Amaya and maintained the Linux version.<sup id="cite_ref-w3calumni_13-1" class="reference"><a href="#cite_note-w3calumni-13">[13]</a></sup></p>
+<p>The last change of code of Amaya was on Feb 22, 2013.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=2" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Access keys</li>
+<li>Caret navigation</li>
+<li>Page zooming</li>
+<li>Password management</li>
+<li>Spell checking</li>
+<li>Transport protocols</li>
+<li>Support for CSS, MathML, SVG, RDF and Xpointer</li>
+<li>Displays <a href="/wiki/Free_file_format" class="mw-redirect" title="Free file format">free</a> and <a href="/wiki/Open_format" title="Open format">open</a> <a href="/wiki/Image_format" class="mw-redirect" title="Image format">image formats</a> such as <a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">PNG</a> and SVG, as well as a subset of <a href="/wiki/SVG_animation" title="SVG animation">SVG animation</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Codebase_timeline">Codebase timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=3" title="Edit section: Codebase timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Amaya originated as a direct descendant of the <i>Grif</i> WYSIWYG<sup id="cite_ref-xml.com_15-0" class="reference"><a href="#cite_note-xml.com-15">[15]</a></sup> <a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">SGML</a> editor created by <a href="/w/index.php?title=Vincent_Quint&amp;action=edit&amp;redlink=1" class="new" title="Vincent Quint (page does not exist)">Vincent Quint</a> and <a href="/w/index.php?title=Ir%C3%A8ne_Vatton&amp;action=edit&amp;redlink=1" class="new" title="Irène Vatton (page does not exist)">Irène Vatton</a> at INRIA in the early 1980s,<sup id="cite_ref-w3calumni_13-2" class="reference"><a href="#cite_note-w3calumni-13">[13]</a></sup> and of the <a href="/wiki/HTML_editor" title="HTML editor">HTML editor</a> Symposia, itself based on Grif, both developed and sold by French software company Grif SA.</p>
+<p>Originally designed as a structured text editor (predating SGML) and later as an <a href="/wiki/HTML" title="HTML">HTML</a> and <a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a> (CSS) editor, it was then expanded to include <a href="/wiki/XML" title="XML">XML</a>-based capabilities such as <a href="/wiki/XHTML" title="XHTML">XHTML</a>,<sup id="cite_ref-xml.com_15-1" class="reference"><a href="#cite_note-xml.com-15">[15]</a></sup> <a href="/wiki/MathML" title="MathML">MathML</a><sup id="cite_ref-xml.com_15-2" class="reference"><a href="#cite_note-xml.com-15">[15]</a></sup> and <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">Scalable Vector Graphics</a> (SVG).<sup id="cite_ref-xml.com_15-3" class="reference"><a href="#cite_note-xml.com-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="A_test_bed_application">A test bed application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=4" title="Edit section: A test bed application">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It was used as a test-bed for new web technologies that were not supported in major browsers.<sup id="cite_ref-freshmeat_12-1" class="reference"><a href="#cite_note-freshmeat-12">[12]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>Amaya was the first client that supported the <a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a> annotation schema using <a href="/wiki/XPointer" title="XPointer">XPointer</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> The browser was available for <a href="/wiki/Linux" title="Linux">Linux</a>,<sup id="cite_ref-hoary_21-0" class="reference"><a href="#cite_note-hoary-21">[21]</a></sup> <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> (<a href="/wiki/Windows_NT" title="Windows NT">NT</a> and <a href="/wiki/Windows_95" title="Windows 95">95</a>),<sup id="cite_ref-hoary_21-1" class="reference"><a href="#cite_note-hoary-21">[21]</a></sup> <a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a>, <a href="/wiki/SPARC" title="SPARC">SPARC</a> / <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a>,<sup id="cite_ref-hoary_21-2" class="reference"><a href="#cite_note-hoary-21">[21]</a></sup> <a href="/wiki/IBM_AIX" title="IBM AIX">AIX</a>,<sup id="cite_ref-hoary_21-3" class="reference"><a href="#cite_note-hoary-21">[21]</a></sup> <a href="/wiki/OSF/1" class="mw-redirect" title="OSF/1">OSF/1</a>.<sup id="cite_ref-hoary_21-4" class="reference"><a href="#cite_note-hoary-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Naming_and_logo">Naming and logo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=5" title="Edit section: Naming and logo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:59px;"><a href="/wiki/File:Amaya.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/0/05/Amaya.gif" width="57" height="49" class="thumbimage" data-file-width="57" data-file-height="49" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Amaya.gif" class="internal" title="Enlarge"></a></div>
+The old icon</div>
+</div>
+</div>
+<p>Amaya was formerly called <b>Tamaya</b>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Tamaya is the name of the type of tree represented in the logo, but it was later discovered that Tamaya is also a trademark used by a French company, so the developers chose to drop the first letter to make it "Amaya".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena (web browser)</a></li>
+<li><a href="/wiki/Libwww" title="Libwww">Libwww</a></li>
+<li><a href="/wiki/Web_design_program" class="mw-redirect" title="Web design program">Web design program</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-inria-thot-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-inria-thot_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110719224733/http://opera.inrialpes.fr/Thot/AboutThot.html">"About Thot"</a>. <a href="/wiki/Institut_National_de_Recherche_en_Informatique_et_en_Automatique" class="mw-redirect" title="Institut National de Recherche en Informatique et en Automatique">INRIA</a>. Archived from <a rel="nofollow" class="external text" href="http://opera.inrialpes.fr/Thot/AboutThot.html">the original</a> on 19 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Thot&amp;rft.pub=INRIA&amp;rft_id=http%3A%2F%2Fopera.inrialpes.fr%2FThot%2FAboutThot.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Vatton, Irène (9 December 2009). <a rel="nofollow" class="external text" href="http://www.w3.org/Amaya/User/BinDist.html">"Amaya Binary Releases"</a>. World Wide Web Consortium. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100630135335/http://www.w3.org/Amaya/User/BinDist.html">Archived</a> from the original on 30 June 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amaya+Binary+Releases&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=2009-12-09&amp;rft.aulast=Vatton&amp;rft.aufirst=Ir%C3%A8ne&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FAmaya%2FUser%2FBinDist.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Amaya/User/FAQ.html#1.8.">"Amaya Frequently Asked Questions Section I.7. Can I change the dialogue language?"</a>. World Wide Web Consortium<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amaya+Frequently+Asked+Questions+Section+I.7.+Can+I+change+the+dialogue+language%3F&amp;rft.pub=World+Wide+Web+Consortium&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FAmaya%2FUser%2FFAQ.html%231.8.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.harrold.org/rfhextra/browsers.html">"Internet Browsers"</a>. 24 Mar 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Internet+Browsers&amp;rft.date=2009-03-24&amp;rft_id=http%3A%2F%2Fwww.harrold.org%2Frfhextra%2Fbrowsers.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Dubie, Bill; Sciuto, Dave (30 November 2006). <a rel="nofollow" class="external text" href="http://archive.seacoastonline.com/news/11302006/business-b-11.30_shareware.html">"Amaya a win for Web coding"</a>. Seacoast online. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090309101530/http://archive.seacoastonline.com/news/11302006/business-b-11.30_shareware.html">Archived</a> from the original on 9 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amaya+a+win+for+Web+coding&amp;rft.pub=Seacoast+online&amp;rft.date=2006-11-30&amp;rft.aulast=Dubie&amp;rft.aufirst=Bill&amp;rft.au=Sciuto%2C+Dave&amp;rft_id=http%3A%2F%2Farchive.seacoastonline.com%2Fnews%2F11302006%2Fbusiness-b-11.30_shareware.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100925204436/http://www.w3c.rl.ac.uk/primers/history/origins.htm">"History of the Web"</a>. Oxford Brookes University. 2002. Archived from <a rel="nofollow" class="external text" href="http://www.w3c.rl.ac.uk/primers/history/origins.htm">the original</a> on 25 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+of+the+Web&amp;rft.pub=Oxford+Brookes+University&amp;rft.date=2002&amp;rft_id=http%3A%2F%2Fwww.w3c.rl.ac.uk%2Fprimers%2Fhistory%2Forigins.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Lafon, Yves; <a href="/wiki/H%C3%A5kon_Wium_Lie" title="Håkon Wium Lie">Lie, Håkon Wium</a> (15 June 1996). <a rel="nofollow" class="external text" href="http://www.w3.org/Arena/Status.html">"Welcome to Arena"</a>. World Wide Web Consortium<span class="reference-accessdate">. Retrieved <span class="nowrap">6 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Welcome+to+Arena&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=1996-06-15&amp;rft.aulast=Lafon&amp;rft.aufirst=Yves&amp;rft.au=Lie%2C+H%C3%A5kon+Wium&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FArena%2FStatus.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bowers, Neil. <a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.7191">"Weblint: Just Another Perl Hack"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Weblint%3A+Just+Another+Perl+Hack&amp;rft.aulast=Bowers&amp;rft.aufirst=Neil&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.54.7191&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Bert_Bos" title="Bert Bos">Bos, Bert</a>; <a href="/wiki/H%C3%A5kon_Wium_Lie" title="Håkon Wium Lie">Lie, Håkon Wium</a> (April 1997). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=q0jbAAAAMAAJ"><i>Cascading style sheets: designing for the Web</i></a>. Addison Wesley Longman. p.&#160;263<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cascading+style+sheets%3A+designing+for+the+Web&amp;rft.pages=263&amp;rft.pub=Addison+Wesley+Longman&amp;rft.date=1997-04&amp;rft.aulast=Bos&amp;rft.aufirst=Bert&amp;rft.au=Lie%2C+H%C3%A5kon+Wium&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dq0jbAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Laurent Carcone (9 April 2013). <a rel="nofollow" class="external text" href="http://lists.w3.org/Archives/Public/www-amaya/2013AprJun/0003.html">"Re: When will the next release be posted?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Re%3A+When+will+the+next+release+be+posted%3F&amp;rft.date=2013-04-09&amp;rft.au=Laurent+Carcone&amp;rft_id=http%3A%2F%2Flists.w3.org%2FArchives%2FPublic%2Fwww-amaya%2F2013AprJun%2F0003.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Amaya/Overview.html">"Welcome to Amaya"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2014</span>. <q>The application was jointly developed by W3C and the WAM project (Web, Adaptation and Multimedia) at INRIA. It is no more developed.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Welcome+to+Amaya&amp;rft.pub=W3C&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FAmaya%2FOverview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-freshmeat-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-freshmeat_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-freshmeat_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Klimkiewicz, Kamil (18 January 2003). <a rel="nofollow" class="external text" href="http://freshmeat.net/articles/view/695/#Amaya">"Lightweight Web Browsers"</a>. <a href="/wiki/Freshmeat" class="mw-redirect" title="Freshmeat">freshmeat</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lightweight+Web+Browsers&amp;rft.pub=freshmeat&amp;rft.date=2003-01-18&amp;rft.aulast=Klimkiewicz&amp;rft.aufirst=Kamil&amp;rft_id=http%3A%2F%2Ffreshmeat.net%2Farticles%2Fview%2F695%2F%23Amaya&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-w3calumni-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-w3calumni_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-w3calumni_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-w3calumni_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/People/Alumni.html">"W3C Alumni"</a>. World Wide Web Consortium. 11 June 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=W3C+Alumni&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=2010-06-11&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FPeople%2FAlumni.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/w3c/Amaya-Editor/commits/master">move write password call</a></span></li>
+<li id="cite_note-xml.com-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-xml.com_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xml.com_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xml.com_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-xml.com_15-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Quint, Antoine (21 November 2001). <a rel="nofollow" class="external text" href="http://www.xml.com/pub/a/2001/11/21/svgtools.html">"SVG: Where Are We Now?"</a>. <a href="/w/index.php?title=XML.com&amp;action=edit&amp;redlink=1" class="new" title="XML.com (page does not exist)">XML.com</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090309234703/http://www.xml.com/pub/a/2001/11/21/svgtools.html">Archived</a> from the original on 9 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SVG%3A+Where+Are+We+Now%3F&amp;rft.pub=XML.com&amp;rft.date=2001-11-21&amp;rft.aulast=Quint&amp;rft.aufirst=Antoine&amp;rft_id=http%3A%2F%2Fwww.xml.com%2Fpub%2Fa%2F2001%2F11%2F21%2Fsvgtools.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/w/index.php?title=Vincent_Quint&amp;action=edit&amp;redlink=1" class="new" title="Vincent Quint (page does not exist)">Vincent Quint</a>; <a href="/w/index.php?title=Ir%C3%A8ne_Vatton&amp;action=edit&amp;redlink=1" class="new" title="Irène Vatton (page does not exist)">Irène Vatton</a> (20 February 1997). <a rel="nofollow" class="external text" href="http://www.w3.org/TR/NOTE-amaya">"An Introduction to Amaya"</a>. World Wide Web Consortium. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090202152023/http://www.w3.org/TR/NOTE-amaya">Archived</a> from the original on 2 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=An+Introduction+to+Amaya&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=1997-02-20&amp;rft.au=Vincent+Quint&amp;rft.au=Ir%C3%A8ne+Vatton&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FTR%2FNOTE-amaya&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Dumbill, Edd (9 May 2001). <a rel="nofollow" class="external text" href="http://www.xml.com/pub/a/2001/05/09/www10/index.html">"Reports from WWW10"</a>. XML.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090310010023/http://www.xml.com/pub/a/2001/05/09/www10/index.html">Archived</a> from the original on 10 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Reports+from+WWW10&amp;rft.pub=XML.com&amp;rft.date=2001-05-09&amp;rft.aulast=Dumbill&amp;rft.aufirst=Edd&amp;rft_id=http%3A%2F%2Fwww.xml.com%2Fpub%2Fa%2F2001%2F05%2F09%2Fwww10%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://annotest.w3.org/">"Annotea Project"</a>. World Wide Web Consortium. 2 March 2001. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090204025611/http://annotest.w3.org/">Archived</a> from the original on 4 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annotea+Project&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=2001-03-02&amp;rft_id=http%3A%2F%2Fannotest.w3.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Dodds, Leigh (13 November 2000). <a rel="nofollow" class="external text" href="http://www.xmlhack.com/read.php?item=888">"Annotate the Web with Amaya and RDF"</a>. <a href="/w/index.php?title=XMLhack&amp;action=edit&amp;redlink=1" class="new" title="XMLhack (page does not exist)">XMLhack</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090317055324/http://www.xmlhack.com/read.php?item=888">Archived</a> from the original on 17 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annotate+the+Web+with+Amaya+and+RDF&amp;rft.pub=XMLhack&amp;rft.date=2000-11-13&amp;rft.aulast=Dodds&amp;rft.aufirst=Leigh&amp;rft_id=http%3A%2F%2Fwww.xmlhack.com%2Fread.php%3Fitem%3D888&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://xml.coverpages.org/ni2001-03-09-c.html">"W3C Annotea Project Supports Collaboration on the Web"</a>. <a href="/w/index.php?title=Coverpages&amp;action=edit&amp;redlink=1" class="new" title="Coverpages (page does not exist)">Coverpages</a>. 9 March 2001. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090305122702/http://xml.coverpages.org/ni2001-03-09-c.html">Archived</a> from the original on 5 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=W3C+Annotea+Project+Supports+Collaboration+on+the+Web.&amp;rft.pub=Coverpages&amp;rft.date=2001-03-09&amp;rft_id=http%3A%2F%2Fxml.coverpages.org%2Fni2001-03-09-c.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hoary-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-hoary_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hoary_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hoary_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hoary_21-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hoary_21-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Evans, Peter (7 September 2003). <a rel="nofollow" class="external text" href="http://hoary.org/browse/">"Optimized for no one, but pretty much OK with . ."</a> <span class="reference-accessdate">Retrieved <span class="nowrap">3 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Optimized+for+no+one%2C+but++pretty+much+OK+with+.+.+.&amp;rft.date=2003-09-07&amp;rft.aulast=Evans&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fhoary.org%2Fbrowse%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Bert_Bos" title="Bert Bos">Bert Bos</a> (11 March 1996). <a rel="nofollow" class="external text" href="http://www.w3.org/Arena/bert.html">"Re: tamaya tigers"</a>. World Wide Web Consortium<span class="reference-accessdate">. Retrieved <span class="nowrap">15 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Re%3A+tamaya+tigers&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=1996-03-11&amp;rft.au=Bert+Bos&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FArena%2Fbert.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Amaya/User/FAQ.html#1.9">"Amaya Frequently Asked Questions"</a>. World Wide Web Consortium. 26 February 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090310010649/http://www.w3.org/Amaya/User/FAQ.html">Archived</a> from the original on 10 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amaya+Frequently+Asked+Questions&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=2009-02-26&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FAmaya%2FUser%2FFAQ.html%231.9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaya+%28web+editor%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.w3.org/Amaya/">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="HTML_editors" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:HTML_editors" title="Template:HTML editors"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:HTML_editors" title="Template talk:HTML editors"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HTML_editors&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="HTML_editors" style="font-size:114%;margin:0 4em"><a href="/wiki/HTML_editor" title="HTML editor">HTML editors</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Web_design" title="Web design">Web design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Open-source" class="mw-redirect" title="Open-source">Open-source</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aptana" title="Aptana">Aptana</a></li>
+<li><a href="/wiki/Arachnophilia" title="Arachnophilia">Arachnophilia</a></li>
+<li><a href="/wiki/Atom_(text_editor)" title="Atom (text editor)">Atom</a></li>
+<li><a href="/wiki/Bluefish_(software)" title="Bluefish (software)">Bluefish</a></li>
+<li><a href="/wiki/Eclipse_(software)" title="Eclipse (software)">Eclipse</a></li>
+<li><a href="/wiki/Emacs" title="Emacs">Emacs</a></li>
+<li><a href="/wiki/Komodo_Edit" title="Komodo Edit">Komodo Edit</a></li>
+<li><a href="/wiki/NetBeans" title="NetBeans">NetBeans</a></li>
+<li><a href="/wiki/TextMate" title="TextMate">TextMate</a></li>
+<li><a href="/wiki/Visual_Studio_Code" title="Visual Studio Code">Visual Studio Code</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/CodeMirror" title="CodeMirror">CodeMirror</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brackets_(text_editor)" title="Brackets (text editor)">Brackets</a></li>
+<li><a href="/wiki/Light_Table_(software)" title="Light Table (software)">Light Table</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Mozilla_Composer" title="Mozilla Composer">Mozilla Composer</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BlueGriffon" title="BlueGriffon">BlueGriffon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Scintilla_(software)" title="Scintilla (software)">Scintilla</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/FlashDevelop" title="FlashDevelop">FlashDevelop</a></li>
+<li><a href="/wiki/Geany" title="Geany">Geany</a></li>
+<li><a href="/wiki/Notepad%2B%2B" title="Notepad++">Notepad++</a></li>
+<li><a href="/wiki/Notepad2" title="Notepad2">Notepad2</a></li>
+<li><a href="/wiki/Programmer%27s_Notepad" title="Programmer's Notepad">Programmer's Notepad</a></li>
+<li><a href="/wiki/SciTE" title="SciTE">SciTE</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Web-based" class="mw-redirect" title="Web-based">Web-based</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ace_(editor)" title="Ace (editor)">Ace</a></li>
+<li><a href="/wiki/Aloha_Editor" title="Aloha Editor">Aloha Editor</a></li>
+<li><a href="/wiki/CKEditor" title="CKEditor">CKEditor</a></li>
+<li><a href="/wiki/CodeMirror" title="CodeMirror">CodeMirror</a></li>
+<li><a href="/wiki/ContentTools" title="ContentTools">ContentTools</a></li>
+<li><a href="/wiki/Maqetta" title="Maqetta">Maqetta</a></li>
+<li><a href="/wiki/TinyMCE" title="TinyMCE">TinyMCE</a></li>
+<li><a href="/wiki/WYMeditor" title="WYMeditor">WYMeditor</a></li>
+<li><a href="/wiki/YUI_Rich_Text_Editor" title="YUI Rich Text Editor">YUI Rich Text Editor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Freeware" title="Freeware">Freeware</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/FirstPage" title="FirstPage">FirstPage</a></li>
+<li><a href="/wiki/Google_Web_Designer" title="Google Web Designer">Google Web Designer</a></li>
+<li><a href="/wiki/HTML-Kit" title="HTML-Kit">HTML-Kit</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio#Community" title="Microsoft Visual Studio">Visual Studio Community</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio_Express" title="Microsoft Visual Studio Express">Visual Studio Express</a></li>
+<li><a href="/wiki/Mobirise" title="Mobirise">Mobirise</a></li>
+<li><a href="/wiki/OpenElement" title="OpenElement">openElement</a></li>
+<li><a href="/wiki/PSPad" title="PSPad">PSPad</a></li>
+<li><a href="/wiki/RJ_TextEd" title="RJ TextEd">RJ TextEd</a></li>
+<li><a href="/wiki/TED_Notepad" title="TED Notepad">TED Notepad</a></li>
+<li><a href="/wiki/TextWrangler" class="mw-redirect" title="TextWrangler">TextWrangler</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commercial_software" title="Commercial software">Commercial<br />
+software</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adobe_Dreamweaver" title="Adobe Dreamweaver">Adobe Dreamweaver</a></li>
+<li><a href="/wiki/Adobe_Muse" title="Adobe Muse">Adobe Muse</a></li>
+<li><a href="/wiki/Froala_Editor" title="Froala Editor">Froala Editor</a></li>
+<li><a href="/wiki/Komodo_IDE" title="Komodo IDE">Komodo IDE</a></li>
+<li><a href="/wiki/Macaw_(web_editor)" title="Macaw (web editor)">Macaw</a></li>
+<li><a href="/wiki/Oxygen_XML_Editor" title="Oxygen XML Editor">Oxygen XML Editor</a></li>
+<li><a href="/wiki/PhpStorm" title="PhpStorm">PhpStorm</a></li>
+<li><a href="/wiki/Sublime_Text" title="Sublime Text">Sublime Text</a></li>
+<li><a href="/wiki/UltraEdit" title="UltraEdit">UltraEdit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/MacOS" title="MacOS">macOS</a> only</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BBEdit" title="BBEdit">BBEdit</a></li>
+<li><a href="/wiki/Coda_(web_development_software)" title="Coda (web development software)">Coda</a></li>
+<li><a href="/wiki/Freeway_(software)" title="Freeway (software)">Freeway</a></li>
+<li><a href="/wiki/PageSpinner" title="PageSpinner">PageSpinner</a></li>
+<li><a href="/wiki/Sandvox" title="Sandvox">Sandvox</a></li>
+<li><a href="/wiki/Smultron" title="Smultron">Smultron</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a> only</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Codelobster" title="Codelobster">Codelobster</a></li>
+<li><a href="/wiki/CoffeeCup_HTML_Editor" title="CoffeeCup HTML Editor">CoffeeCup HTML Editor</a></li>
+<li><a href="/wiki/EZGenerator" title="EZGenerator">EZGenerator</a></li>
+<li><a href="/wiki/EditPlus" title="EditPlus">EditPlus</a></li>
+<li><a href="/wiki/EmEditor" title="EmEditor">EmEditor</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio" title="Microsoft Visual Studio">Visual Studio</a></li>
+<li><a href="/wiki/Multi-Edit" title="Multi-Edit">Multi-Edit</a></li>
+<li><a href="/wiki/NetObjects_Fusion" title="NetObjects Fusion">NetObjects Fusion</a></li>
+<li><a href="/wiki/NoteTab" title="NoteTab">NoteTab</a></li>
+<li><a href="/wiki/PHPEdit" title="PHPEdit">PHPEdit</a></li>
+<li><a href="/wiki/TextPad" title="TextPad">TextPad</a></li>
+<li><a href="/wiki/TopStyle" title="TopStyle">TopStyle</a></li>
+<li><a href="/wiki/Xara" title="Xara">Xara Web Designer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Discontinued</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AOLpress" title="AOLpress">AOLpress</a></li>
+<li><a href="/wiki/Adobe_Contribute" title="Adobe Contribute">Adobe Contribute</a></li>
+<li><a href="/wiki/Adobe_GoLive" title="Adobe GoLive">Adobe GoLive</a></li>
+<li><a href="/wiki/Adobe_PageMill" title="Adobe PageMill">Adobe PageMill</a></li>
+<li><a href="/wiki/Alleycode_HTML_Editor" title="Alleycode HTML Editor">Alleycode HTML Editor</a></li>
+<li><a class="mw-selflink selflink">Amaya</a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></li>
+<li><a href="/wiki/Claris_Home_Page" title="Claris Home Page">Home Page</a></li>
+<li><a href="/wiki/ConTEXT" class="mw-redirect" title="ConTEXT">ConTEXT</a></li>
+<li><a href="/wiki/Frame-IT!" title="Frame-IT!">Frame-IT!</a></li>
+<li><a href="/wiki/GPHPedit" title="GPHPedit">gPHPedit</a></li>
+<li><a href="/wiki/Gwrite" title="Gwrite">gwrite</a></li>
+<li><a href="/wiki/HoTMetaL" title="HoTMetaL">HoTMetaL</a></li>
+<li><a href="/wiki/HotDog" title="HotDog">HotDog</a></li>
+<li><a href="/wiki/IWeb" title="IWeb">iWeb</a></li>
+<li><a href="/wiki/KompoZer" title="KompoZer">KompoZer</a></li>
+<li><a href="/wiki/Macromedia_HomeSite" title="Macromedia HomeSite">HomeSite</a></li>
+<li><a href="/wiki/Microsoft_Expression_Web" title="Microsoft Expression Web">Microsoft Expression Web</a></li>
+<li><a href="/wiki/Microsoft_FrontPage" title="Microsoft FrontPage">Microsoft FrontPage</a></li>
+<li><a href="/wiki/Microsoft_SharePoint_Designer" title="Microsoft SharePoint Designer">Microsoft SharePoint Designer</a></li>
+<li><a href="/wiki/Microsoft_WebMatrix" title="Microsoft WebMatrix">Microsoft WebMatrix</a></li>
+<li><a href="/wiki/Mozilla_Composer" title="Mozilla Composer">Mozilla Composer</a></li>
+<li><a href="/wiki/Netscape_Composer" title="Netscape Composer">Netscape Composer</a></li>
+<li><a href="/wiki/Nvu" title="Nvu">Nvu</a></li>
+<li><a href="/wiki/Quanta_Plus" title="Quanta Plus">Quanta Plus</a></li>
+<li><a href="/wiki/SeaMonkey#Composer" title="SeaMonkey">SeaMonkey Composer</a></li>
+<li><a href="/wiki/TkWWW" title="TkWWW">tkWWW</a></li>
+<li><a href="/wiki/WorldWideWeb" title="WorldWideWeb">Nexus (WorldWideWeb)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Helper tools</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CSE_HTML_Validator" title="CSE HTML Validator">CSE HTML Validator</a></li>
+<li><a href="/wiki/CSSTidy" title="CSSTidy">CSSTidy</a></li>
+<li><a href="/wiki/FrameGang" title="FrameGang">FrameGang</a></li>
+<li><a href="/wiki/HTML_Tidy" title="HTML Tidy">HTML Tidy</a></li>
+<li><a href="/wiki/Pandoc" title="Pandoc">Pandoc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:HTML_editors" title="Category:HTML editors">Category</a></b></li>
+<li><b><img alt="Non-article page" src="//upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/16px-Symbol_neutral_vote.svg.png" title="Non-article page" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/23px-Symbol_neutral_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/31px-Symbol_neutral_vote.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Comparison_of_HTML_editors" title="Comparison of HTML editors">Comparison</a></b></li>
+<li><b><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/List_of_HTML_editors" title="List of HTML editors">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Timeline_of_web_browsers" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Timeline_of_web_browsers" title="Template:Timeline of web browsers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Timeline_of_web_browsers" title="Template talk:Timeline of web browsers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Timeline_of_web_browsers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Timeline_of_web_browsers" style="font-size:114%;margin:0 4em"><a href="/wiki/Timeline_of_web_browsers" title="Timeline of web browsers">Timeline</a> of <a href="/wiki/Web_browser" title="Web browser">web browsers</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="General" style="font-size:114%;margin:0 4em">General</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison</a>
+<ul>
+<li><a href="/wiki/Comparison_of_lightweight_web_browsers" title="Comparison of lightweight web browsers">lightweight</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_the_web_browser" title="History of the web browser">History</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List</a>
+<ul>
+<li><a href="/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems" title="List of web browsers for Unix and Unix-like operating systems">for Unix</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">Usage share</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="1990s" style="font-size:114%;margin:0 4em">1990s</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1990</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/WorldWideWeb" title="WorldWideWeb">WorldWideWeb (Nexus)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1991</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a>
+<ul>
+<li><a href="/wiki/Libwww" title="Libwww">libwww</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1992</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erwise" title="Erwise">Erwise</a></li>
+<li><a href="/wiki/MacWWW" title="MacWWW">MacWWW (Samba)</a></li>
+<li><a href="/wiki/MidasWWW" title="MidasWWW">MidasWWW</a></li>
+<li><a href="/wiki/TkWWW" title="TkWWW">tkWWW</a></li>
+<li><a href="/wiki/ViolaWWW" title="ViolaWWW">ViolaWWW</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1993</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AMosaic" title="AMosaic">AMosaic</a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></li>
+<li><a href="/wiki/Cello_(web_browser)" title="Cello (web browser)">Cello</a></li>
+<li><a href="/wiki/Emacs/W3" class="mw-redirect" title="Emacs/W3">Emacs/W3</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx 2</a></li>
+<li><a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">NCSA Mosaic</a></li>
+<li><a href="/wiki/VMS_Mosaic" class="mw-redirect" title="VMS Mosaic">VMS Mosaic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1994</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AirMosaic" title="AirMosaic">AirMosaic</a>
+<ul>
+<li><a href="/wiki/Internet_in_a_Box" class="mw-redirect" title="Internet in a Box">Internet in a Box</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fresco_(web_browser)" title="Fresco (web browser)">ANT Fresco</a></li>
+<li><a href="/wiki/Argo_(web_browser)" title="Argo (web browser)">Argo</a></li>
+<li><a href="/wiki/IBM_WebExplorer" title="IBM WebExplorer">IBM WebExplorer</a></li>
+<li><a href="/wiki/SlipKnot_(web_browser)" title="SlipKnot (web browser)">SlipKnot</a></li>
+<li><a href="/wiki/Minnesota_Internet_Users_Essential_Tool" title="Minnesota Internet Users Essential Tool">Minuet</a></li>
+<li><a href="/wiki/AOLpress" title="AOLpress">Navipress</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Mosaic/Mosaic Netscape/Netscape Navigator</a></li>
+<li><a href="/wiki/Spyglass,_Inc." title="Spyglass, Inc.">Spyglass Mosaic</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#TCP.2FConnect_II" title="InterCon Systems Corporation">TCP/Connect II</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1995</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora</a></li>
+<li><a href="/wiki/ALynx" class="mw-redirect" title="ALynx">ALynx</a></li>
+<li><a href="/wiki/AMSD_Ariadna" title="AMSD Ariadna">AMSD Ariadna</a></li>
+<li><a href="/wiki/Cyberjack" title="Cyberjack">Cyberjack</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#WebShark" title="InterCon Systems Corporation">eWorld Web Browser</a></li>
+<li><a href="/wiki/Grail_(web_browser)" title="Grail (web browser)">Grail</a></li>
+<li><a href="/wiki/Internet_Explorer_1" class="mw-redirect" title="Internet Explorer 1">Internet Explorer 1</a></li>
+<li><a href="/wiki/Internet_Explorer_2" title="Internet Explorer 2">Internet Explorer 2</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Netscape Navigator 2</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#NetShark" title="InterCon Systems Corporation">NetShark</a></li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+<li><a href="/wiki/HotJava" title="HotJava">HotJava</a></li>
+<li><a href="/wiki/UdiWWW" title="UdiWWW">UdiWWW</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#WebShark" title="InterCon Systems Corporation">WebShark</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1996</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cyberdog" title="Cyberdog">Cyberdog</a></li>
+<li><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></li>
+<li><a href="/wiki/AWeb" title="AWeb">AWeb</a></li>
+<li><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></li>
+<li><a class="mw-selflink selflink">Amaya</a></li>
+<li><a href="/wiki/Internet_Explorer_3" title="Internet Explorer 3">Internet Explorer 3</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Netscape Navigator 3</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_2" title="History of the Opera web browser">Opera 2</a></li>
+<li><a href="/wiki/Oracle_PowerBrowser" title="Oracle PowerBrowser">Oracle PowerBrowser</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation" title="InterCon Systems Corporation">tcpCONNECT4</a></li>
+<li><a href="/wiki/Voyager_(web_browser)" title="Voyager (web browser)">Voyager</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1997</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Netscape_Communicator" title="Netscape Communicator">Netscape Communicator</a></li>
+<li><a href="/wiki/Internet_Explorer_4" title="Internet Explorer 4">Internet Explorer 4</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_2" title="History of the Opera web browser">Opera 2.1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1998</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/NeoPlanet" title="NeoPlanet">NeoPlanet</a></li>
+<li><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla Application Suite</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_3" title="History of the Opera web browser">Opera 3–3.21</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1999</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Internet_Explorer_5" title="Internet Explorer 5">Internet Explorer 5</a></li>
+<li><a href="/wiki/Omniweb" class="mw-redirect" title="Omniweb">Omniweb 3</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_3" title="History of the Opera web browser">Opera 3.5–3.62</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="2000s" style="font-size:114%;margin:0 4em">2000s</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2000</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></li>
+<li><a href="/wiki/Galeon" title="Galeon">Galeon</a></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><a href="/wiki/MediaBrowser" title="MediaBrowser">MediaBrowser</a></li>
+<li><a href="/wiki/Netscape_6" title="Netscape 6">Netscape 6</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_4" title="History of the Opera web browser">Opera 4–4.02</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2001</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ICab" title="ICab">iCab 2.5</a></li>
+<li><a href="/wiki/Internet_Explorer_6" title="Internet Explorer 6">Internet Explorer 6</a></li>
+<li><a href="/wiki/Omniweb" class="mw-redirect" title="Omniweb">Omniweb 4</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_5" title="History of the Opera web browser">Opera 5–5.12</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2002</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 7</a></li>
+<li><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></li>
+<li><a href="/wiki/GNOME_Web" title="GNOME Web">Epiphany</a></li>
+<li><a href="/wiki/Netscape_7" title="Netscape 7">Netscape 7</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_6" title="History of the Opera web browser">Opera 6–6.1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2003</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GreenBrowser" title="GreenBrowser">GreenBrowser</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_7" title="History of the Opera web browser">Opera 7–7.3</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBrowser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2004</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 9</a></li>
+<li><a href="/wiki/History_of_Firefox" title="History of Firefox">Phoenix/Firebird/Firefox</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_7" title="History of the Opera web browser">Opera 7.5–7.55</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2005</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AOL_Explorer" title="AOL Explorer">AOL Explorer</a></li>
+<li><a href="/wiki/Deepnet_Explorer" title="Deepnet Explorer">Deepnet Explorer</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 1.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_8" title="History of the Opera web browser">Opera 8–8.54</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_2" title="Safari (web browser)">Safari 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2006</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 11</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 2</a></li>
+<li><a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">Internet Explorer 7</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_9" title="History of the Opera web browser">Opera 9–9.27</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2007</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 2</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_9" title="History of the Opera web browser">Opera 9.5–9.64</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_3" title="Safari (web browser)">Safari 3</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 1.1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2008</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3</a></li>
+<li><a href="/wiki/Netscape_Browser" title="Netscape Browser">Netscape Browser</a></li>
+<li><a href="/wiki/Netscape_Navigator_9" title="Netscape Navigator 9">Netscape Navigator 9</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 1.2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2009</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 11.7</a></li>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 2–3</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3.5</a></li>
+<li><a href="/wiki/Internet_Explorer_8" title="Internet Explorer 8">Internet Explorer 8</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_10" title="History of the Opera web browser">Opera 10–10.63</a></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_4" title="Safari (web browser)">Safari 4</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.0</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="2010s" style="font-size:114%;margin:0 4em">2010s</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2010</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 4–8</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3.6</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.0.1</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 3</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 2.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_11" title="History of the Opera web browser">Opera 11–11.64</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_5" title="Safari (web browser)">Safari 5</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2011</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 9–16</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 4–9</a></li>
+<li><a href="/wiki/Internet_Explorer_9" title="Internet Explorer 9">Internet Explorer 9</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_12" title="History of the Opera web browser">Opera 12–12.17</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.1–2.4</a></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2012</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 17–23</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 10–17</a></li>
+<li><a href="/wiki/Internet_Explorer_10" title="Internet Explorer 10">Internet Explorer 10</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.7</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 3.4</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 2.9</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_6" title="Safari (web browser)">Safari 6</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2013</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 24–31</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 18–26</a></li>
+<li><a href="/wiki/Internet_Explorer_11" title="Internet Explorer 11">Internet Explorer 11</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 15–18</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_7" title="Safari (web browser)">Safari 7</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.15–2.22</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2014</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 32–39</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 27–34</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.9</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 3.1</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 19–26</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_8" title="Safari (web browser)">Safari 8</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.23–2.31</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2015</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 40–47</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 35–43</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.10–6.12</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 20, 25</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 27–34</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_9" title="Safari (web browser)">Safari 9</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.32–2.39</a></li>
+<li><a href="/wiki/Vivaldi_(web_browser)" title="Vivaldi (web browser)">Vivaldi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2016</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 48–55</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 44–50</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.13–6.15</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 38</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 35–42</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_10" title="Safari (web browser)">Safari 10</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2017</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basilisk_(web_browser)" title="Basilisk (web browser)">Basilisk</a></li>
+<li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 56–63</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 51–57</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 40–41</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 43–49</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_11" title="Safari (web browser)">Safari 11</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.46–2.49</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Related_topics" style="font-size:114%;margin:0 4em">Related topics</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/3DMLW" title="3DMLW">3D Markup Language for Web</a></i></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><i><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></i></li>
+<li><a href="/wiki/ASCII" title="ASCII">ASCII</a></li>
+<li><i><a href="/wiki/BITNET" title="BITNET">BITNET</a></i></li>
+<li><a href="/wiki/Browser_wars" title="Browser wars">Browser wars</a></li>
+<li><i><a href="/wiki/CompuServe" title="CompuServe">CompuServe</a></i></li>
+<li><a href="/wiki/Elm_(email_client)" title="Elm (email client)">Elm</a></li>
+<li><a href="/wiki/Email" title="Email">Email</a></li>
+<li><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a></li>
+<li><a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><i><a href="/wiki/HyperCard" title="HyperCard">HyperCard</a></i></li>
+<li><i><a href="/wiki/HyTelnet" title="HyTelnet">HyTelnet</a></i></li>
+<li><i><a href="/wiki/NCSA_Telnet" title="NCSA Telnet">NCSA Telnet</a></i></li>
+<li><a href="/wiki/NLS_(computer_system)" title="NLS (computer system)">NLS</a></li>
+<li><i><a href="/wiki/Prodigy_(online_service)" title="Prodigy (online service)">Prodigy</a></i></li>
+<li><a href="/wiki/Teletext" title="Teletext">Teletext</a></li>
+<li><a href="/wiki/Telnet" title="Telnet">Telnet</a></li>
+<li><a href="/wiki/Usenet" title="Usenet">Usenet</a></li>
+<li><i><a href="/wiki/UUCP" title="UUCP">UUCP</a></i></li>
+<li><i><a href="/wiki/Videotex" title="Videotex">Videotex</a></i></li>
+<li><a href="/wiki/Viewdata" title="Viewdata">Viewdata</a></li>
+<li><i><a href="/wiki/VRML" title="VRML">Virtual Reality Markup Language</a></i></li>
+<li><a href="/wiki/Web_page" title="Web page">Web page</a></li>
+<li><a href="/wiki/Whole_Internet_User%27s_Guide_and_Catalog" title="Whole Internet User's Guide and Catalog">Whole Internet User's Guide and Catalog</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><i><a href="/wiki/X.25" title="X.25">X.25</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_browsers" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_browsers" title="Template:Web browsers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_browsers" title="Template talk:Web browsers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_browsers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_browsers" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_browser" title="Web browser">Web browsers</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison</a>
+<ul>
+<li><a href="/wiki/Comparison_of_lightweight_web_browsers" title="Comparison of lightweight web browsers">lightweight</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_the_web_browser" title="History of the web browser">History</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List</a>
+<ul>
+<li><a href="/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems" title="List of web browsers for Unix and Unix-like operating systems">for Unix</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Timeline_of_web_browsers" title="Timeline of web browsers">Timeline</a></li>
+<li><a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">Usage share</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Features</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ad_filtering" class="mw-redirect" title="Ad filtering">Ad filtering</a></li>
+<li><a href="/wiki/Augmented_browsing" title="Augmented browsing">Augmented browsing</a></li>
+<li><a href="/wiki/Bookmark_(World_Wide_Web)" title="Bookmark (World Wide Web)">Bookmarks</a>
+<ul>
+<li><a href="/wiki/Bookmarklet" title="Bookmarklet">Bookmarklet</a></li>
+<li><a href="/wiki/Features_of_Firefox#Live_bookmarks" title="Features of Firefox">Live bookmark</a></li>
+<li><a href="/wiki/Smart_Bookmarks" title="Smart Bookmarks">Smart Bookmarks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Browser_extension" title="Browser extension">Browser extension</a></li>
+<li><a href="/wiki/Browser_security" title="Browser security">Browser security</a></li>
+<li><a href="/wiki/Browser_synchronizer" title="Browser synchronizer">Browser synchronizer</a>
+<ul>
+<li><a href="/wiki/Comparison_of_browser_synchronizers" title="Comparison of browser synchronizers">comparison</a></li>
+</ul>
+</li>
+<li><a href="/wiki/HTTP_cookie" title="HTTP cookie">Cookies</a></li>
+<li><a href="/wiki/Download_manager" title="Download manager">Download manager</a></li>
+<li><a href="/wiki/Favicon" title="Favicon">Favicon</a></li>
+<li><a href="/wiki/Incremental_search" title="Incremental search">Incremental search</a></li>
+<li><a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">Plug-in</a></li>
+<li><a href="/wiki/Privacy_mode" title="Privacy mode">Privacy mode</a></li>
+<li><a href="/wiki/Tab_(GUI)" title="Tab (GUI)">Tabs</a></li>
+<li><a href="/wiki/Universal_Edit_Button" title="Universal Edit Button">Universal Edit Button</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Web standards</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Web_Standards_Project" title="Web Standards Project">Acid tests</a></li>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><a href="/wiki/HTML5" title="HTML5">HTML5</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li>
+<li><a href="/wiki/MathML" title="MathML">MathML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/WebGL" title="WebGL">WebGL</a></li>
+<li><a href="/wiki/XHTML" title="XHTML">XHTML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Protocols</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a></li>
+<li><a href="/wiki/HTTPS" title="HTTPS">HTTPS</a></li>
+<li><a href="/wiki/Online_Certificate_Status_Protocol" title="Online Certificate Status Protocol">OCSP</a></li>
+<li><a href="/wiki/SPDY" title="SPDY">SPDY</a></li>
+<li><a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">SSL/TLS</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">WebSocket</a></li>
+<li><a href="/wiki/Web_Proxy_Autodiscovery_Protocol" class="mw-redirect" title="Web Proxy Autodiscovery Protocol">WPAD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Related topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BrowserChoice.eu" title="BrowserChoice.eu">BrowserChoice.eu</a></li>
+<li><a href="/wiki/Revocation_list" class="mw-redirect" title="Revocation list">CRL</a></li>
+<li><a href="/wiki/ILoo" title="ILoo">iLoo</a></li>
+<li><a href="/wiki/Internet_suite" title="Internet suite">Internet suite</a></li>
+<li><a href="/wiki/Man-in-the-browser" title="Man-in-the-browser">Man-in-the-browser</a></li>
+<li><a href="/wiki/Mobile_Web" title="Mobile Web">Mobile Web</a></li>
+<li><a href="/wiki/Offline_reader" title="Offline reader">Offline reader</a></li>
+<li><a href="/wiki/Proxy_auto-config" title="Proxy auto-config">PAC</a></li>
+<li><a href="/wiki/Pwn2Own" title="Pwn2Own">Pwn2Own</a></li>
+<li><a href="/wiki/Rich_Internet_application" title="Rich Internet application">Rich Internet application</a></li>
+<li><a href="/wiki/Site-specific_browser" title="Site-specific browser">Site-specific browser</a></li>
+<li><a href="/wiki/Graphical_control_element" class="mw-redirect" title="Graphical control element">Widget</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Desktop" style="font-size:114%;margin:0 4em"><a href="/wiki/Desktop_computer" title="Desktop computer">Desktop</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Blink_(layout_engine)" class="mw-redirect" title="Blink (layout engine)">Blink</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chromium_(web_browser)" title="Chromium (web browser)">Chromium</a>
+<ul>
+<li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a></li>
+<li><a href="/wiki/Comodo_Dragon" title="Comodo Dragon">Dragon</a></li>
+<li><a href="/wiki/Opera_(web_browser)" title="Opera (web browser)">Opera</a></li>
+<li><a href="/wiki/QupZilla" title="QupZilla">QupZilla</a></li>
+<li><a href="/wiki/Sleipnir_(web_browser)" title="Sleipnir (web browser)">Sleipnir</a></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">Slimjet</a></li>
+<li><a href="/wiki/SRWare_Iron" title="SRWare Iron">SRWare Iron</a></li>
+<li><a href="/wiki/UC_Browser" title="UC Browser">UC Browser</a></li>
+<li><a href="/wiki/Vivaldi_(web_browser)" title="Vivaldi (web browser)">Vivaldi</a></li>
+<li><a href="/wiki/Yandex_Browser" title="Yandex Browser">Yandex Browser</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/SafeZone" title="SafeZone">SafeZone</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/AT%26T_Pogo" title="AT&amp;T Pogo">AT&amp;T Pogo</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><i><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></i></li>
+<li><a href="/wiki/Firefox" title="Firefox">Firefox</a>
+<ul>
+<li><a href="/wiki/Conkeror" title="Conkeror">Conkeror</a></li>
+<li><a href="/wiki/GNU_IceCat" title="GNU IceCat">GNU IceCat</a></li>
+<li><a href="/wiki/Comodo_IceDragon" title="Comodo IceDragon">IceDragon</a></li>
+<li><i><a href="/wiki/Swiftfox" title="Swiftfox">Swiftfox</a></i></li>
+<li><i><a href="/wiki/Swiftweasel" title="Swiftweasel">Swiftweasel</a></i></li>
+<li><a href="/wiki/TenFourFox" title="TenFourFox">TenFourFox</a></li>
+<li><a href="/wiki/Timberwolf_(web_browser)" title="Timberwolf (web browser)">Timberwolf</a></li>
+<li><a href="/wiki/Tor_(anonymity_network)#Tor_Browser" title="Tor (anonymity network)">Tor Browser</a></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li>
+<li><i><a href="/wiki/XB_Browser" title="XB Browser">xB Browser</a></i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Galeon" title="Galeon">Galeon</a></i></li>
+<li><i><a href="/wiki/Ghostzilla" title="Ghostzilla">Ghostzilla</a></i></li>
+<li><a href="/wiki/Goanna_(software)" title="Goanna (software)">Goanna</a>
+<ul>
+<li><a href="/wiki/Basilisk_(web_browser)" title="Basilisk (web browser)">Basilisk</a></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><i><a href="/wiki/Kazehakase" title="Kazehakase">Kazehakase</a></i></li>
+<li><a href="/wiki/Kirix_Strata" title="Kirix Strata">Kirix Strata</a></li>
+<li><i><a href="/wiki/IBM_Lotus_Symphony" title="IBM Lotus Symphony">Lotus Symphony</a></i></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><i><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla</a></i>
+<ul>
+<li><i><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></i></li>
+<li><a href="/wiki/Classilla" title="Classilla">Classilla</a></li>
+<li><i><a href="/wiki/Netscape_(web_browser)" title="Netscape (web browser)">Netscape</a></i></li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Trident_(layout_engine)" title="Trident (layout engine)">Trident</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/AOL_Explorer" title="AOL Explorer">AOL Explorer</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><i><a href="/wiki/Deepnet_Explorer" title="Deepnet Explorer">Deepnet Explorer</a></i></li>
+<li><a href="/wiki/GreenBrowser" title="GreenBrowser">GreenBrowser</a></li>
+<li><i><a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a></i></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><i><a href="/wiki/MediaBrowser" title="MediaBrowser">MediaBrowser</a></i></li>
+<li><a href="/wiki/MenuBox" title="MenuBox">MenuBox</a></li>
+<li><i><a href="/wiki/NeoPlanet" title="NeoPlanet">NeoPlanet</a></i></li>
+<li><i><a href="/wiki/NetCaptor" title="NetCaptor">NetCaptor</a></i></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBrowser</a></li>
+<li><a href="/wiki/SpaceTime_(software)#SpaceTime_Browser" title="SpaceTime (software)"><i>SpaceTime</i></a></li>
+<li><i><a href="/wiki/UltraBrowser" title="UltraBrowser">UltraBrowser</a></i></li>
+<li><a href="/wiki/WebbIE" title="WebbIE">WebbIE</a></li>
+<li><a href="/wiki/ZAC_Browser" title="ZAC Browser">ZAC Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Arora_(web_browser)" title="Arora (web browser)">Arora</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><a href="/wiki/Dooble" title="Dooble">Dooble</a></li>
+<li><a href="/wiki/Epic_(web_browser)" title="Epic (web browser)">Epic</a></li>
+<li><i><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a></i></li>
+<li><a href="/wiki/Fluid_(web_browser)" title="Fluid (web browser)">Fluid</a></li>
+<li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Konqueror" title="Konqueror">Konqueror</a></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/Midori_(web_browser)" title="Midori (web browser)">Midori</a></li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+<li><i><a href="/wiki/Origyn_Web_Browser" title="Origyn Web Browser">Origyn Web Browser</a></i></li>
+<li><a href="/wiki/Otter_Browser" title="Otter Browser">Otter Browser</a></li>
+<li><a href="/wiki/QtWeb" title="QtWeb">QtWeb</a></li>
+<li><a href="/wiki/Rekonq" title="Rekonq">rekonq</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><i><a href="/wiki/Shiira" title="Shiira">Shiira</a></i></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBoat</a></li>
+<li><a href="/wiki/Surf_(web_browser)" title="Surf (web browser)">surf</a></li>
+<li><a href="/wiki/Torch_(browser)" title="Torch (browser)">Torch</a></li>
+<li><a href="/wiki/Uzbl" title="Uzbl">Uzbl</a></li>
+<li><a href="/wiki/Epiphany_(GNOME)" class="mw-redirect" title="Epiphany (GNOME)">Epiphany</a></li>
+<li><a href="/wiki/WebPositive" title="WebPositive">WebPositive</a></li>
+<li><a href="/wiki/Xombrero" title="Xombrero">xombrero</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Text-based_web_browser" title="Text-based web browser">Text</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ELinks" title="ELinks">ELinks</a></li>
+<li><i><a href="/wiki/Emacs/W3" class="mw-redirect" title="Emacs/W3">Emacs/W3</a></i></li>
+<li><i><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a></i></li>
+<li><a href="/wiki/Links_(web_browser)" title="Links (web browser)">Links</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx</a></li>
+<li><a href="/wiki/W3m" title="W3m">w3m</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abaco_(web_browser)" title="Abaco (web browser)">abaco</a></li>
+<li><i><a class="mw-selflink selflink">Amaya</a></i></li>
+<li><i><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></i></li>
+<li><i><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></i></li>
+<li><a href="/wiki/Charon_(web_browser)" title="Charon (web browser)">Charon</a></li>
+<li><a href="/wiki/Dillo" title="Dillo">Dillo</a></li>
+<li><a href="/wiki/Eww_(web_browser)" title="Eww (web browser)">eww</a></li>
+<li><a href="/wiki/Gazelle_(web_browser)" title="Gazelle (web browser)">Gazelle</a></li>
+<li><i><a href="/wiki/HotJava" title="HotJava">HotJava</a></i></li>
+<li><i><a href="/wiki/IBM_Home_Page_Reader" title="IBM Home Page Reader">IBM Home Page Reader</a></i></li>
+<li><i><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></i></li>
+<li><a href="/wiki/KidZui" title="KidZui">KidZui</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge</a></li>
+<li><i><a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">Mosaic</a></i></li>
+<li><i><a href="/wiki/Mothra_(web_browser)" class="mw-redirect" title="Mothra (web browser)">Mothra</a></i></li>
+<li><i><a href="/wiki/NetPositive" title="NetPositive">NetPositive</a></i></li>
+<li><a href="/wiki/NetSurf" title="NetSurf">NetSurf</a></li>
+<li><a href="/wiki/360_Secure_Browser" title="360 Secure Browser">Qihoo 360 Secure Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Mobile" style="font-size:114%;margin:0 4em"><a href="/wiki/Mobile_browser" title="Mobile browser">Mobile</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Blink_(layout_engine)" class="mw-redirect" title="Blink (layout engine)">Blink</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android_Browser" class="mw-redirect" title="Android Browser">Android Browser</a></li>
+<li><a href="/wiki/Chromium_(web_browser)" title="Chromium (web browser)">Chromium</a>
+<ul>
+<li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome_for_Android" title="Google Chrome for Android">Chrome for Android</a></li>
+<li><a href="/wiki/Opera_Mobile" title="Opera Mobile">Opera Mobile</a></li>
+<li><a href="/wiki/Amazon_Silk" title="Amazon Silk">Silk</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Firefox_Focus" title="Firefox Focus">Firefox Focus for Android</a></li>
+<li><a href="/wiki/Opera_Mini" title="Opera Mini">Opera Mini</a> on Android</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Firefox_for_Android" title="Firefox for Android">Firefox for Android</a></li>
+<li><i><a href="/wiki/MicroB" title="MicroB">MicroB</a></i></li>
+<li><i><a href="/wiki/Minimo" title="Minimo">Minimo</a></i></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Presto_(layout_engine)" title="Presto (layout engine)">Presto</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Opera_Mini" title="Opera Mini">Opera Mini</a> (on Extreme/Mini modes)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Trident_(layout_engine)" title="Trident (layout engine)">Trident</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Bolt_(web_browser)" title="Bolt (web browser)">BOLT</a></i></li>
+<li><a href="/wiki/Dolphin_Browser" title="Dolphin Browser">Dolphin Browser</a></li>
+<li><a href="/wiki/Google_Chrome#iOS_version" title="Google Chrome">Chrome for iOS</a></li>
+<li><i><a href="/wiki/Coast_(web_browser)" class="mw-redirect" title="Coast (web browser)">Coast (web browser)</a></i></li>
+<li><a href="/wiki/Firefox_for_iOS" title="Firefox for iOS">Firefox for iOS</a></li>
+<li><a href="/wiki/Firefox_Focus" title="Firefox Focus">Firefox Focus for iOS</a></li>
+<li><a href="/wiki/Opera_Mini" title="Opera Mini">Opera Mini</a> (Turbo/Normal modes on iOS)</li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/Mercury_Browser" title="Mercury Browser">Mercury Browser</a></li>
+<li><i><a href="/wiki/Nokia_Browser_for_Symbian" title="Nokia Browser for Symbian">Nokia Browser for Symbian</a></i></li>
+<li><i><a href="/wiki/Rockmelt" title="Rockmelt">Rockmelt</a></i></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><i><a href="/wiki/Steel_(web_browser)" title="Steel (web browser)">Steel</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Blazer_(web_browser)" title="Blazer (web browser)">Blazer</a></i></li>
+<li><a href="/wiki/CM_Browser" class="mw-redirect" title="CM Browser">CM Browser</a></li>
+<li><i><a href="/wiki/Microsoft_Live_Labs_Deepfish" title="Microsoft Live Labs Deepfish">Deepfish</a></i></li>
+<li><i><a href="/wiki/IbisBrowser" title="IbisBrowser">ibisBrowser</a></i></li>
+<li><i><a href="/wiki/Internet_Explorer_Mobile" title="Internet Explorer Mobile">Internet Explorer Mobile</a></i></li>
+<li><i><a href="/wiki/Iris_Browser" title="Iris Browser">Iris Browser</a></i></li>
+<li><i><a href="/wiki/Konqueror#Konqueror_Embedded" title="Konqueror">Konqueror Embedded</a></i></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge</a></li>
+<li><a href="/wiki/NetFront" title="NetFront">NetFront</a></li>
+<li><i><a href="/wiki/Skweezer" title="Skweezer">Skweezer</a></i></li>
+<li><i><a href="/wiki/Skyfire_(company)" title="Skyfire (company)">Skyfire</a></i></li>
+<li><i><a href="/wiki/Teashark" title="Teashark">Teashark</a></i></li>
+<li><i><a href="/wiki/ThunderHawk" title="ThunderHawk">ThunderHawk</a></i></li>
+<li><a href="/wiki/UC_Browser" title="UC Browser">UC Browser</a></li>
+<li><i><a href="/wiki/Vision_Mobile_Browser" title="Vision Mobile Browser">Vision</a></i></li>
+<li><i><a href="/wiki/WinWAP" title="WinWAP">WinWAP</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Television_and_video_game_console" style="font-size:114%;margin:0 4em"><a href="/wiki/Television_set" title="Television set">Television</a> and <a href="/wiki/Video_game_console" title="Video game console">video game console</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kylo_(web_browser)" title="Kylo (web browser)">Kylo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Presto_(layout_engine)" title="Presto (layout engine)">Presto</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Internet_Channel" title="Internet Channel">Internet Channel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Google_TV" title="Google TV">Google TV</a></i></li>
+<li><a href="/wiki/Internet_Browser_(Nintendo_3DS)" title="Internet Browser (Nintendo 3DS)">Nintendo 3DS Internet Browser</a></li>
+<li><i><a href="/wiki/Nintendo_DS_%26_DSi_Browser" title="Nintendo DS &amp; DSi Browser">Nintendo DS &amp; DSi Browser</a></i></li>
+<li><a href="/wiki/NetFront" title="NetFront">NetFront</a></li>
+<li><a href="/wiki/Steam_(software)#User_interface" title="Steam (software)">Steam Overlay</a></li>
+<li><a href="/wiki/Nintendo_Network#Wii_U_2" title="Nintendo Network">Wii U Internet Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/MSN_TV" title="MSN TV">MSN TV</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li>Software no longer in development shown in <i>italics</i></li>
+</ul>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Web_browsers" title="Category:Web browsers">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Web_browsers" class="extiw" title="commons:Category:Web browsers">Commons</a></li>
+<li><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="Crystal Clear app linneighborhood.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/16px-Crystal_Clear_app_linneighborhood.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/24px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/32px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a> <a href="/wiki/Portal:Internet" title="Portal:Internet">Internet portal</a></li>
+<li><a href="/wiki/File:Crystal_Clear_device_cdrom_unmount.png" class="image"><img alt="Crystal Clear device cdrom unmount.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/16px-Crystal_Clear_device_cdrom_unmount.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/24px-Crystal_Clear_device_cdrom_unmount.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/32px-Crystal_Clear_device_cdrom_unmount.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Software" title="Portal:Software">Software portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Layout_engines" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Layout_engines" title="Template:Layout engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Layout_engines" title="Template talk:Layout engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Layout_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Layout_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_browser_engine" title="Web browser engine">Layout engines</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Active</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blink_(web_engine)" title="Blink (web engine)">Blink</a></li>
+<li><a href="/wiki/EdgeHTML" title="EdgeHTML">EdgeHTML</a></li>
+<li><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a></li>
+<li><a href="/wiki/Goanna_(software)" title="Goanna (software)">Goanna</a></li>
+<li><a href="/wiki/KHTML" title="KHTML">KHTML</a></li>
+<li><a href="/wiki/MARTHA_(layout_engine)" title="MARTHA (layout engine)">MARTHA</a></li>
+<li><a href="/wiki/Prince_(software)" title="Prince (software)">Prince</a></li>
+<li><a href="/wiki/Qt_(software)" title="Qt (software)">QtWebEngine</a></li>
+<li><a href="/wiki/Servo_(layout_engine)" title="Servo (layout engine)">Servo</a></li>
+<li><a href="/wiki/WebKit" title="WebKit">WebKit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Discontinued</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amaya_(web_browser)" class="mw-redirect" title="Amaya (web browser)">Amaya</a></li>
+<li><a href="/wiki/Boxely" title="Boxely">Boxely</a></li>
+<li><a href="/wiki/Gazelle_(web_browser)" title="Gazelle (web browser)">Gazelle</a></li>
+<li><a href="/wiki/GtkHTML" title="GtkHTML">GtkHTML</a></li>
+<li><a href="/wiki/HTMLayout" title="HTMLayout">HTMLayout</a></li>
+<li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Mariner_(layout_engine)" title="Mariner (layout engine)">Mariner</a></li>
+<li><a href="/wiki/Presto_(layout_engine)" title="Presto (layout engine)">Presto</a></li>
+<li><a href="/wiki/Tasman_(layout_engine)" title="Tasman (layout engine)">Tasman</a></li>
+<li><a href="/wiki/Tkhtml" title="Tkhtml">Tkhtml</a></li>
+<li><a href="/wiki/Trident_(layout_engine)" title="Trident (layout engine)">Trident</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Comparison_of_web_browser_engines" title="Comparison of web browser engines">Comparisons</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_layout_engines_(HTML)" title="Comparison of layout engines (HTML)">HTML</a>
+<ul>
+<li><a href="/wiki/Comparison_of_layout_engines_(non-standard_HTML)" title="Comparison of layout engines (non-standard HTML)">non-standard HTML</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Comparison_of_layout_engines_(HTML5)" title="Comparison of layout engines (HTML5)">HTML5</a>
+<ul>
+<li><a href="/wiki/Comparison_of_layout_engines_(HTML5_media)" title="Comparison of layout engines (HTML5 media)">media</a></li>
+<li><a href="/wiki/Comparison_of_layout_engines_(HTML5_canvas)" title="Comparison of layout engines (HTML5 canvas)">canvas</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Comparison_of_layout_engines_(XML)" title="Comparison of layout engines (XML)">XML</a>
+<ul>
+<li><a href="/wiki/Comparison_of_layout_engines_(XHTML)" title="Comparison of layout engines (XHTML)">XHTML</a>
+<ul>
+<li><a href="/wiki/Comparison_of_layout_engines_(XHTML_1.1)" title="Comparison of layout engines (XHTML 1.1)">1.1</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Comparison_of_layout_engines_(MathML)" title="Comparison of layout engines (MathML)">MathML</a></li>
+<li><a href="/wiki/Comparison_of_layout_engines_(Scalable_Vector_Graphics)" title="Comparison of layout engines (Scalable Vector Graphics)">SVG</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets)" title="Comparison of layout engines (Cascading Style Sheets)">CSS</a></li>
+<li><a href="/wiki/Comparison_of_layout_engines_(ECMAScript)" title="Comparison of layout engines (ECMAScript)">ECMAScript</a></li>
+<li><a href="/wiki/Comparison_of_layout_engines_(Document_Object_Model)" title="Comparison of layout engines (Document Object Model)">DOM</a></li>
+<li><a href="/wiki/Comparison_of_layout_engines_(graphics)" title="Comparison of layout engines (graphics)">Graphics</a></li>
+<li><a href="/wiki/Comparison_of_layout_engines_(web_typography)" title="Comparison of layout engines (web typography)">Typography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="World_Wide_Web_Consortium_(W3C)" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:W3C_standards" title="Template:W3C standards"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:W3C_standards" title="Template talk:W3C standards"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:W3C_standards&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_Wide_Web_Consortium_(W3C)" style="font-size:114%;margin:0 4em"><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium (W3C)</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Products and<br />
+standards</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/World_Wide_Web_Consortium#Specification_maturation" title="World Wide Web Consortium">Recommendations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ActivityPub" title="ActivityPub">ActivityPub</a></li>
+<li><a href="/wiki/WAI-ARIA" title="WAI-ARIA">ARIA</a></li>
+<li><a href="/wiki/Canonical_XML" title="Canonical XML">Canonical XML</a></li>
+<li><a href="/wiki/Compound_Document_Format" title="Compound Document Format">CDF</a></li>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">CSS</a></li>
+<li><a href="/wiki/Document_Object_Model" title="Document Object Model">DOM</a></li>
+<li><a href="/wiki/W3C_Geolocation_API" title="W3C Geolocation API">Geolocation API</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a> (<a href="/wiki/HTML5" title="HTML5">HTML5</a>)</li>
+<li><a href="/wiki/Internationalization_Tag_Set" title="Internationalization Tag Set">ITS</a></li>
+<li><a href="/wiki/JSON-LD" title="JSON-LD">JSON-LD</a></li>
+<li><a href="/wiki/Linked_Data_Notifications" title="Linked Data Notifications">Linked Data Notifications</a></li>
+<li><a href="/wiki/MathML" title="MathML">MathML</a></li>
+<li><a href="/wiki/Micropub" title="Micropub">Micropub</a></li>
+<li><a href="/wiki/Web_Ontology_Language" title="Web Ontology Language">OWL</a></li>
+<li><a href="/wiki/P3P" title="P3P">P3P</a></li>
+<li><a href="/wiki/Pronunciation_Lexicon_Specification" title="Pronunciation Lexicon Specification">PLS</a></li>
+<li><a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a></li>
+<li><a href="/wiki/RDF_Schema" title="RDF Schema">RDF Schema</a></li>
+<li><a href="/wiki/Semantic_Interpretation_for_Speech_Recognition" title="Semantic Interpretation for Speech Recognition">SISR</a></li>
+<li><a href="/wiki/Simple_Knowledge_Organization_System" title="Simple Knowledge Organization System">SKOS</a></li>
+<li><a href="/wiki/Synchronized_Multimedia_Integration_Language" title="Synchronized Multimedia Integration Language">SMIL</a></li>
+<li><a href="/wiki/SOAP" title="SOAP">SOAP</a></li>
+<li><a href="/wiki/Speech_Recognition_Grammar_Specification" title="Speech Recognition Grammar Specification">SRGS</a></li>
+<li><a href="/wiki/Subresource_Integrity" title="Subresource Integrity">SRI</a></li>
+<li><a href="/wiki/Speech_Synthesis_Markup_Language" title="Speech Synthesis Markup Language">SSML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/SCXML" title="SCXML">SCXML</a></li>
+<li><a href="/wiki/SPARQL" title="SPARQL">SPARQL</a></li>
+<li><a href="/wiki/Timed_text" title="Timed text">Timed text</a></li>
+<li><a href="/wiki/VoiceXML" title="VoiceXML">VoiceXML</a></li>
+<li><a href="/wiki/Web_storage" title="Web storage">Web storage</a></li>
+<li><a href="/wiki/Web_Services_Description_Language" title="Web Services Description Language">WSDL</a></li>
+<li><a href="/wiki/Webmention" title="Webmention">Webmention</a></li>
+<li><a href="/wiki/WebSub" title="WebSub">WebSub</a></li>
+<li><a href="/wiki/XForms" title="XForms">XForms</a></li>
+<li><a href="/wiki/XHTML" title="XHTML">XHTML</a></li>
+<li><a href="/wiki/XHTML%2BRDFa" title="XHTML+RDFa">XHTML+RDFa</a></li>
+<li><a href="/wiki/XInclude" title="XInclude">XInclude</a></li>
+<li><a href="/wiki/XLink" title="XLink">XLink</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+<li><a href="/wiki/XML_Base" title="XML Base">XML Base</a></li>
+<li><a href="/wiki/XML_Encryption" title="XML Encryption">XML Encryption</a></li>
+<li><a href="/wiki/XML_Events" title="XML Events">XML Events</a></li>
+<li><a href="/wiki/XML_Information_Set" title="XML Information Set">XML Information Set</a></li>
+<li><a href="/wiki/XML_namespace" title="XML namespace">XML namespace</a></li>
+<li><a href="/wiki/XML_Schema_(W3C)" title="XML Schema (W3C)">XML Schema</a></li>
+<li><a href="/wiki/XML_Signature" title="XML Signature">XML Signature</a></li>
+<li><a href="/wiki/XML-binary_Optimized_Packaging" title="XML-binary Optimized Packaging">XOP</a></li>
+<li><a href="/wiki/XPath" title="XPath">XPath</a></li>
+<li><a href="/wiki/XPath_2.0" title="XPath 2.0">XPath 2.0</a></li>
+<li><a href="/wiki/XPointer" title="XPointer">XPointer</a></li>
+<li><a href="/wiki/XProc" title="XProc">XProc</a></li>
+<li><a href="/wiki/XQuery" title="XQuery">XQuery</a></li>
+<li><a href="/wiki/XSL" title="XSL">XSL</a></li>
+<li><a href="/wiki/XSL_Formatting_Objects" title="XSL Formatting Objects">XSL-FO</a></li>
+<li><a href="/wiki/XSLT" title="XSLT">XSLT</a>&#160;(<a href="/wiki/XSLT_elements" title="XSLT elements">elements</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Notes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=IndieAuth&amp;action=edit&amp;redlink=1" class="new" title="IndieAuth (page does not exist)">IndieAuth</a></li>
+<li><a href="/w/index.php?title=JF2&amp;action=edit&amp;redlink=1" class="new" title="JF2 (page does not exist)">JF2</a></li>
+<li><a href="/w/index.php?title=Post_Type_Discovery&amp;action=edit&amp;redlink=1" class="new" title="Post Type Discovery (page does not exist)">Post Type Discovery</a></li>
+<li><a href="/wiki/XAdES" title="XAdES">XAdES</a></li>
+<li><a href="/wiki/XHTML%2BSMIL" title="XHTML+SMIL">XHTML+SMIL</a></li>
+<li><a href="/wiki/Extensible_User_Interface_Protocol" title="Extensible User Interface Protocol">XUP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Working drafts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Call_Control_eXtensible_Markup_Language" title="Call Control eXtensible Markup Language">CCXML</a></li>
+<li><a href="/wiki/CURIE" title="CURIE">CURIE</a></li>
+<li><a href="/wiki/Encrypted_Media_Extensions" title="Encrypted Media Extensions">EME</a></li>
+<li><a href="/wiki/InkML" title="InkML">InkML</a></li>
+<li><a href="/wiki/Media_Source_Extensions" title="Media Source Extensions">MSE</a></li>
+<li><a href="/wiki/Rule_Interchange_Format" title="Rule Interchange Format">RIF</a></li>
+<li><a href="/wiki/SMIL_Timesheets" title="SMIL Timesheets">SMIL Timesheets</a></li>
+<li><a href="/wiki/SXBL" title="SXBL">sXBL</a></li>
+<li><a href="/wiki/Web_Integration_Compound_Document" title="Web Integration Compound Document">WICD</a></li>
+<li><a href="/wiki/Extensible_Forms_Description_Language" title="Extensible Forms Description Language">XFDL</a></li>
+<li><a href="/wiki/XFrames" title="XFrames">XFrames</a></li>
+<li><a href="/wiki/XBL" title="XBL">XBL</a></li>
+<li><a href="/wiki/XMLHttpRequest" title="XMLHttpRequest">XMLHttpRequest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Guidelines</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Web_Content_Accessibility_Guidelines" title="Web Content Accessibility Guidelines">Web Content Accessibility Guidelines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Initiative</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/W3C_MMI" title="W3C MMI">Multimodal Interaction Activity (MMI)</a></li>
+<li><a href="/wiki/W3C_Markup_Validation_Service" title="W3C Markup Validation Service">Markup Validation Service</a></li>
+<li><a href="/wiki/Web_Accessibility_Initiative" title="Web Accessibility Initiative">Web Accessibility Initiative</a></li>
+<li><a href="/wiki/WebPlatform" title="WebPlatform">WebPlatform</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Deprecated</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/C-HTML" title="C-HTML">C-HTML</a></li>
+<li><a href="/wiki/Handheld_Device_Markup_Language" title="Handheld Device Markup Language">HDML</a></li>
+<li><a href="/wiki/JavaScript_Style_Sheets" title="JavaScript Style Sheets">JSSS</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language">PGML</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language">VML</a></li>
+<li><a href="/wiki/XHTML%2BMathML%2BSVG" title="XHTML+MathML+SVG">XHTML+MathML+SVG</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Organizations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Advisory_Committee_(W3C)&amp;action=edit&amp;redlink=1" class="new" title="Advisory Committee (W3C) (page does not exist)">Advisory Committee (AC)</a></li>
+<li><a href="/wiki/World_Wide_Web_Foundation" title="World Wide Web Foundation">World Wide Web Foundation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Elected groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Advisory_Board_(W3C)&amp;action=edit&amp;redlink=1" class="new" title="Advisory Board (W3C) (page does not exist)">Advisory Board (AB)</a></li>
+<li><a href="/w/index.php?title=Technical_Architecture_Group&amp;action=edit&amp;redlink=1" class="new" title="Technical Architecture Group (page does not exist)">Technical Architecture Group (TAG)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Working groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CSS_Working_Group" title="CSS Working Group">CSS</a></li>
+<li><a href="/w/index.php?title=Geolocation_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="Geolocation Working Group (page does not exist)">Geolocation</a></li>
+<li><a href="/w/index.php?title=Social_Web_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="Social Web Working Group (page does not exist)">Social Web</a></li>
+<li><a href="/wiki/SVG_Working_Group" title="SVG Working Group">SVG</a></li>
+<li><a href="/wiki/WHATWG" title="WHATWG">Web Hypertext Application Technology (WHATWG)</a></li>
+<li><a href="/w/index.php?title=Web_Platform_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="Web Platform Working Group (page does not exist)">Web Platform</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Closed groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/W3C_Device_Description_Working_Group" title="W3C Device Description Working Group">Device Description (DDWG)</a></li>
+<li><a href="/wiki/HTML_Working_Group" title="HTML Working Group">HTML</a></li>
+<li><a href="/w/index.php?title=WebOnt&amp;action=edit&amp;redlink=1" class="new" title="WebOnt (page does not exist)">WebOnt (Semantic Web Activity)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CERN_httpd" title="CERN httpd">CERN httpd</a></li>
+<li><a href="/wiki/Libwww" title="Libwww">Libwww</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_browser" title="Web browser">Browsers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode <span style="font-size:90%;">(1990–)</span></a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena <span style="font-size:90%;">(1993–98)</span></a></li>
+<li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora <span style="font-size:90%;">(1994–97)</span></a></li>
+<li><a href="/wiki/Argo_(web_browser)" title="Argo (web browser)">Argo <span style="font-size:90%;">(1994–97)</span></a></li>
+<li><a class="mw-selflink selflink">Amaya <span style="font-size:90%;">(browser/editor, 1996–2012)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Conferences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/International_World_Wide_Web_Conference" title="International World Wide Web Conference">International World Wide Web Conference (IW3C)</a>
+<ul>
+<li><a href="/wiki/International_World_Wide_Web_Conferences_Steering_Committee" class="mw-redirect" title="International World Wide Web Conferences Steering Committee">Steering Committee (IW3C2)</a></li>
+<li><a href="/wiki/First_International_Conference_on_the_World-Wide_Web" title="First International Conference on the World-Wide Web">First conference ("WWW1", 1994)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Gopher" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gopher_clients" title="Template:Gopher clients"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gopher_clients" title="Template talk:Gopher clients"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gopher_clients&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Gopher" style="font-size:114%;margin:0 4em"><a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>A <a href="/wiki/Communications_protocol" class="mw-redirect" title="Communications protocol">protocol</a> for document search and retrieval on the <a href="/wiki/Internet" title="Internet">Internet</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Active clients</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Free/open-source</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></li>
+<li><a href="/wiki/Classilla" title="Classilla">Classilla</a></li>
+<li><a href="/wiki/Conkeror" title="Conkeror">Conkeror</a></li>
+<li><a href="/wiki/ELinks" title="ELinks">ELinks</a></li>
+<li><a href="/wiki/Gnuzilla" title="Gnuzilla">Gnuzilla</a></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><a href="/wiki/Kazehakase" title="Kazehakase">Kazehakase</a></li>
+<li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx</a></li>
+<li><a href="/wiki/Mothra_(web_browser)" class="mw-redirect" title="Mothra (web browser)">Mothra</a></li>
+<li><a href="/wiki/W3m" title="W3m">W3m</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Proprietary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Discontinued clients</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora</a></li>
+<li><a class="mw-selflink selflink">Amaya</a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></li>
+<li><a href="/wiki/AT%26T_Pogo" title="AT&amp;T Pogo">AT&amp;T Pogo</a></li>
+<li><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></li>
+<li><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></li>
+<li><a href="/wiki/Cello_(web_browser)" title="Cello (web browser)">Cello</a></li>
+<li><a href="/wiki/Cyberjack" title="Cyberjack">Cyberjack</a></li>
+<li><a href="/wiki/Galeon" title="Galeon">Galeon</a></li>
+<li><a href="/wiki/GopherVR" title="GopherVR">GopherVR</a></li>
+<li><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></li>
+<li><a href="/wiki/Internet_Explorer_for_Mac" title="Internet Explorer for Mac">Internet Explorer for Mac</a></li>
+<li><a href="/wiki/Libwww" title="Libwww">libwww</a></li>
+<li><a href="/wiki/Minimo" title="Minimo">Minimo</a></li>
+<li><a href="/wiki/Minnesota_Internet_Users_Essential_Tool" title="Minnesota Internet Users Essential Tool">Minuet</a></li>
+<li><a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">Mosaic</a></li>
+<li><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla Application Suite</a></li>
+<li><a href="/wiki/Netscape_(web_browser)" title="Netscape (web browser)">Netscape</a></li>
+<li><a href="/wiki/SlipKnot_(web_browser)" title="SlipKnot (web browser)">SlipKnot</a></li>
+<li><a href="/wiki/Songbird_(software)" title="Songbird (software)">Songbird</a></li>
+<li><a href="/wiki/TkWWW" title="TkWWW">tkWWW</a></li>
+<li><a href="/wiki/UdiWWW" title="UdiWWW">UdiWWW</a></li>
+<li><a href="/wiki/XB_Browser" title="XB Browser">xB Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Previously supported</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GNOME_Web" title="GNOME Web">Epiphany</a></li>
+<li><a href="/wiki/Firefox" title="Firefox">Firefox</a></li>
+<li><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a></li>
+<li><a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a></li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Server software</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bucktooth" title="Bucktooth">Bucktooth</a></li>
+<li><a href="/wiki/NetPresenz" title="NetPresenz">NetPresenz</a></li>
+<li><a href="/wiki/PyGopherd" title="PyGopherd">PyGopherd</a></li>
+<li><a href="/wiki/Squid_(software)" title="Squid (software)">Squid</a></li>
+<li><a href="/wiki/Synchronet" title="Synchronet">Synchronet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Search engines</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jughead_(search_engine)" title="Jughead (search engine)">Jughead</a></li>
+<li><a href="/wiki/Veronica_(search_engine)" title="Veronica (search engine)">Veronica</a></li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">Wide area information server</a> (WAIS)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Content</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></li>
+<li><a href="/wiki/CCSO_Nameserver" title="CCSO Nameserver">CCSO Nameserver</a></li>
+<li><a href="/wiki/Gophermap" class="mw-redirect" title="Gophermap">Gophermap</a></li>
+<li><a href="/wiki/Phlog" title="Phlog">Phlog</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Hosts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SDF_Public_Access_Unix_System" title="SDF Public Access Unix System">SDF Public Access Unix System</a></li>
+<li><a href="/wiki/The_WELL" title="The WELL">The WELL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Goerzen" title="John Goerzen">John Goerzen</a></li>
+<li><a href="/wiki/Mark_P._McCahill" title="Mark P. McCahill">Mark P. McCahill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Gopher%2B" title="Gopher+">Gopher+</a></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20180213203440
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.568 seconds
+Real time usage: 0.690 seconds
+Preprocessor visited node count: 4298/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 358561/2097152 bytes
+Template argument size: 29926/2097152 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 4/500
+Lua time usage: 0.245/10.000 seconds
+Lua memory usage: 5.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  520.230      1 -total
+ 35.26%  183.440      1 Template:Reflist
+ 26.24%  136.522      2 Template:Infobox
+ 25.40%  132.115     20 Template:Cite_web
+ 21.25%  110.565      1 Template:Infobox_software
+ 12.71%   66.144     17 Template:Navbox
+ 12.01%   62.457      2 Template:Navbox_with_collapsible_groups
+  7.53%   39.192      1 Template:Infobox_software/simple
+  7.25%   37.732      1 Template:Early_web_browsers
+  6.42%   33.405      1 Template:Expand_section
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:685869-0!canonical and timestamp 20180213203439 and revision id 808805711
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Amaya_(web_editor)&amp;oldid=808805711">https://en.wikipedia.org/w/index.php?title=Amaya_(web_editor)&amp;oldid=808805711</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_HTML_editors" title="Category:Free HTML editors">Free HTML editors</a></li><li><a href="/wiki/Category:Free_software_programmed_in_C" title="Category:Free software programmed in C">Free software programmed in C</a></li><li><a href="/wiki/Category:Free_web_browsers" title="Category:Free web browsers">Free web browsers</a></li><li><a href="/wiki/Category:Discontinued_web_browsers" title="Category:Discontinued web browsers">Discontinued web browsers</a></li><li><a href="/wiki/Category:Discontinued_development_tools" title="Category:Discontinued development tools">Discontinued development tools</a></li><li><a href="/wiki/Category:Web_browsers_for_AmigaOS" title="Category:Web browsers for AmigaOS">Web browsers for AmigaOS</a></li><li><a href="/wiki/Category:MacOS_web_browsers" title="Category:MacOS web browsers">MacOS web browsers</a></li><li><a href="/wiki/Category:POSIX_web_browsers" title="Category:POSIX web browsers">POSIX web browsers</a></li><li><a href="/wiki/Category:Windows_web_browsers" title="Category:Windows web browsers">Windows web browsers</a></li><li><a href="/wiki/Category:1996_software" title="Category:1996 software">1996 software</a></li><li><a href="/wiki/Category:World_Wide_Web_Consortium" title="Category:World Wide Web Consortium">World Wide Web Consortium</a></li><li><a href="/wiki/Category:Gopher_clients" title="Category:Gopher clients">Gopher clients</a></li><li><a href="/wiki/Category:Software_that_uses_wxWidgets" title="Category:Software that uses wxWidgets">Software that uses wxWidgets</a></li><li><a href="/wiki/Category:Software_using_the_W3C_license" title="Category:Software using the W3C license">Software using the W3C license</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2012" title="Category:Use dmy dates from March 2012">Use dmy dates from March 2012</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_June_2010" title="Category:Articles to be expanded from June 2010">Articles to be expanded from June 2010</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Amaya+%28web+editor%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Amaya+%28web+editor%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Amaya_(web_editor)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Amaya_(web_editor)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Amaya_(web_editor)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Amaya_(web_editor)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Amaya_(web_editor)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Amaya_(web_editor)&amp;oldid=808805711" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Amaya_(web_editor)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q455973" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Amaya_%28web_editor%29&amp;id=808805711" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Amaya+%28web+editor%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Amaya+%28web+editor%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Amaya_(web_editor)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:W3C_Amaya" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D8%A7%D9%8A%D8%A7_(%D9%85%D8%AA%D8%B5%D9%81%D8%AD)" title="أمايا (متصفح) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Amaya_(navegador)" title="Amaya (navegador) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Amaya" title="Amaya – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Amaya_(Browser)" title="Amaya (Browser) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Amaya_(navegador)" title="Amaya (navegador) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Amaya_(%C3%A9diteur_web)" title="Amaya (éditeur web) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%96%B4%EB%A7%88%EC%95%BC" title="어마야 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Amaya" title="Amaya – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Amaya" title="Amaya – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Amaya_(browser)" title="Amaya (browser) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Amaya" title="Amaya – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Amaya" title="Amaya – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Amaya" title="Amaya – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Amaya" title="Amaya – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Amaya_(software)" title="Amaya (software) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Amaya" title="Amaya – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Amaya" title="Amaya – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Amaya" title="Amaya – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Amaya" title="Amaya – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Amaya" title="Amaya – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Amaya" title="Amaya – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q455973#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 November 2017, at 08:22.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Amaya_(web_editor)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.568","walltime":"0.690","ppvisitednodes":{"value":4298,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":358561,"limit":2097152},"templateargumentsize":{"value":29926,"limit":2097152},"expansiondepth":{"value":29,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  520.230      1 -total"," 35.26%  183.440      1 Template:Reflist"," 26.24%  136.522      2 Template:Infobox"," 25.40%  132.115     20 Template:Cite_web"," 21.25%  110.565      1 Template:Infobox_software"," 12.71%   66.144     17 Template:Navbox"," 12.01%   62.457      2 Template:Navbox_with_collapsible_groups","  7.53%   39.192      1 Template:Infobox_software/simple","  7.25%   37.732      1 Template:Early_web_browsers","  6.42%   33.405      1 Template:Expand_section"]},"scribunto":{"limitreport-timeusage":{"value":"0.245","limit":"10.000"},"limitreport-memusage":{"value":5974506,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20180213203440","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":797,"wgHostname":"mw1329"});});</script>
+	</body>
+</html>

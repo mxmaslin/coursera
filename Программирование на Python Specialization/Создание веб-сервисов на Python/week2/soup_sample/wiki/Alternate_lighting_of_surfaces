@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Alternate lighting of surfaces - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alternate_lighting_of_surfaces","wgTitle":"Alternate lighting of surfaces","wgCurRevisionId":744264223,"wgRevisionId":744264223,"wgArticleId":27278390,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Electronics stubs","Display technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alternate_lighting_of_surfaces","wgRelevantArticleId":27278390,"wgRequestId":"WoMQowpAAEIAAEYs@4YAAACI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4736394","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alternate_lighting_of_surfaces"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alternate_lighting_of_surfaces"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Alternate_lighting_of_surfaces rootpage-Alternate_lighting_of_surfaces skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Alternate lighting of surfaces</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Alternate lighting of surfaces</b> (<b>ALiS</b>) is type of <a href="/wiki/Plasma_display" title="Plasma display">plasma display</a> technology jointly developed by <a href="/wiki/Fujitsu" title="Fujitsu">Fujitsu</a> and <a href="/wiki/Hitachi" title="Hitachi">Hitachi</a> in 1999.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Alternate lighting of surfaces uses an <a href="/wiki/Interlaced_video" title="Interlaced video">interlaced</a> scanning method rather than a <a href="/wiki/Progressive_scan" title="Progressive scan">progressive</a> one. This technique allows native lower resolution plasma display panels to display at higher resolutions. This technique also helps in prolonging panel life and power consumption reductions. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Fujitsu General – <a rel="nofollow" class="external text" href="http://www.fujitsu-general.co.uk/technology/fujitsu_display.html">Fujitsu’s Display Innovations</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">HITACHI – <a rel="nofollow" class="external text" href="http://av.hitachi.com/tv/plasma/01/quality/index.html">1080P Full HD ALIS Panel</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">PCTechGuide.com – <a rel="nofollow" class="external text" href="http://www.pctechguide.com/43FlatPanels_ALiS.htm">ALiS</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">CNET - <a rel="nofollow" class="external text" href="http://reviews.cnet.com/4520-6029_7-6301056-1.html?tag=txt">ALiS (alternate lighting of surfaces)</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Webopedia Computer Dictionary – <a rel="nofollow" class="external text" href="http://www.webopedia.com/TERM/A/ALiS.html">What is ALiS?</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Google_Book_Search" class="mw-redirect" title="Google Book Search">Google Books</a> – <a rel="nofollow" class="external text" href="https://books.google.com/books?id=90GZPA-hCuMC&amp;pg=PA170&amp;lpg=PA170&amp;dq=Alternate+LIghting+of+Surfaces&amp;source=bl&amp;ots=BTr_Y3464W&amp;sig=_zHTl0M59EEbKnpmYXxNWSFSQc0&amp;hl=en&amp;ei=bT5KStXoN9KNjAeWpsRi&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3">Newnes Guide to Television and Video Technology By K. F. Ibrahim, Eugene Trundle</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">UltimateAVMag.com - <a rel="nofollow" class="external text" href="http://www.ultimateavmag.com/directviewandptvtelevisions/74/">Hey, ALIS!</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Hitachi.com - <a rel="nofollow" class="external text" href="http://www.hitachi.com/csr/csr_images/khoukoku2004.pdf">Environmental Sustainability Report 2004 - 3. Wooo Series Plasma Television</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Fujitsu" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fujitsu" title="Template:Fujitsu"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fujitsu" title="Template talk:Fujitsu"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fujitsu&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fujitsu" style="font-size:114%;margin:0 4em"><a href="/wiki/Fujitsu" title="Fujitsu">Fujitsu</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Divisions and<br />
+subsidiaries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left; background-color: #eee;">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amdahl_Corporation" title="Amdahl Corporation">Amdahl Corporation</a></li>
+<li><a href="/wiki/Fujitsu_Computer_Products_of_America" title="Fujitsu Computer Products of America">Fujitsu Computer Products of America</a></li>
+<li><a href="/wiki/Fujitsu#Fujitsu_Consulting" title="Fujitsu">Fujitsu Consulting</a>
+<ul>
+<li><small><a href="/wiki/Fujitsu_Consulting_India" title="Fujitsu Consulting India">Fujitsu Consulting India</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Fujitsu#Fujitsu_Laboratories_Ltd." title="Fujitsu">Fujitsu Laboratories</a></li>
+<li>Fujitsu Semiconductor</li>
+<li><a href="/wiki/Fujitsu_Technology_Solutions" title="Fujitsu Technology Solutions">Fujitsu Technology Solutions</a></li>
+<li><a href="/wiki/Fujitsu_Ten" title="Fujitsu Ten">Fujitsu Ten</a></li>
+<li><a href="/wiki/Glovia_Services_Inc" title="Glovia Services Inc">Glovia Services</a></li>
+<li><a href="/wiki/Nifty_Corporation" title="Nifty Corporation">Nifty Corporation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left; background-color: #eee;">Former and defunct</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/FANUC" title="FANUC">FANUC</a><sup>3</sup></li>
+<li><a href="/wiki/HAL_Computer_Systems" title="HAL Computer Systems">HAL Computer Systems</a><sup>1</sup></li>
+<li><a href="/wiki/International_Computers_Limited" title="International Computers Limited">International Computers Limited</a><sup>1</sup></li>
+<li><a href="/wiki/Ross_Technology" title="Ross Technology">Ross Technology</a><sup>1</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Shiodome_City_Center_2012.JPG" class="image"><img alt="Shiodome City Center 2012.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Shiodome_City_Center_2012.JPG/140px-Shiodome_City_Center_2012.JPG" width="140" height="230" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Shiodome_City_Center_2012.JPG/210px-Shiodome_City_Center_2012.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Shiodome_City_Center_2012.JPG/280px-Shiodome_City_Center_2012.JPG 2x" data-file-width="2075" data-file-height="3413" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Joint ventures and<br />
+shareholdings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_Airconditioners" title="General Airconditioners">General Airconditioners</a></li>
+<li><a href="/wiki/TranSys" title="TranSys">TranSys</a> <small>(20%)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Former and defunct</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fujitsu_Siemens_Computers" title="Fujitsu Siemens Computers">Fujitsu Siemens Computers</a><sup>2</sup></li>
+<li><a href="/wiki/Spansion" title="Spansion">Spansion</a><sup>3</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/List_of_Fujitsu_products" title="List of Fujitsu products">Products, services<br />
+and standards</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">ALiS</a></li>
+<li><a href="/wiki/BCeSIS" title="BCeSIS">BCeSIS</a></li>
+<li><a href="/wiki/BS2000" title="BS2000">BS2000</a></li>
+<li><a href="/wiki/Fujitsu_Celsius" title="Fujitsu Celsius">Celsius</a></li>
+<li><a href="/wiki/Enon_(robot)" title="Enon (robot)">Enon</a></li>
+<li><a href="/wiki/FLEPia" title="FLEPia">FLEPia</a></li>
+<li><a href="/wiki/Fujitsu_FR" title="Fujitsu FR">FR</a></li>
+<li><a href="/wiki/FR-V_(microprocessor)" title="FR-V (microprocessor)">FR-V</a></li>
+<li><a href="/wiki/Fujitsu_Global_Cloud_Platform" class="mw-redirect" title="Fujitsu Global Cloud Platform">Global Cloud Platform</a></li>
+<li><a href="/wiki/HOAP" title="HOAP">HOAP</a></li>
+<li><a href="/wiki/K_computer" title="K computer">K computer</a></li>
+<li><a href="/wiki/Fujitsu_Lifebook" title="Fujitsu Lifebook">Lifebook</a></li>
+<li><a href="/wiki/Macroscope_(methodology_suite)" title="Macroscope (methodology suite)">Macroscope</a></li>
+<li><a href="/w/index.php?title=OpenFT_(Fujitsu)&amp;action=edit&amp;redlink=1" class="new" title="OpenFT (Fujitsu) (page does not exist)">OpenFT</a></li>
+<li><a href="/wiki/Primergy" title="Primergy">Primergy</a></li>
+<li><a href="/wiki/SESAM_(database)" title="SESAM (database)">SESAM</a></li>
+<li><a href="/wiki/SPARC64_V#SPARC64_X+" title="SPARC64 V">SPARC64 X+</a></li>
+<li><a href="/wiki/SPARC64_V#SPARC64_XIfx" title="SPARC64 V">SPARC64 XIfx</a></li>
+<li><a href="/wiki/VM2000" title="VM2000">VM2000</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Defunct</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Corporate_Headquarters_Office_Technology_System" title="Corporate Headquarters Office Technology System">Corporate Headquarters Office Technology System</a></li>
+<li><a href="/wiki/DC/OSx" title="DC/OSx">DC/OSx</a></li>
+<li><a href="/wiki/Fujitsu_Eagle" title="Fujitsu Eagle">Eagle</a></li>
+<li><a href="/wiki/FM_Towns" title="FM Towns">FM Towns</a></li>
+<li><a href="/wiki/FM_Towns_Marty" title="FM Towns Marty">FM Towns Marty</a>
+<ul>
+<li><small><a href="/wiki/List_of_FM_Towns_games" title="List of FM Towns games">FM Towns games</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/FM-7" title="FM-7">FM-7</a></li>
+<li><a href="/wiki/FM-8" title="FM-8">FM-8</a></li>
+<li><a href="/wiki/FM-11" title="FM-11">FM-11</a></li>
+<li><a href="/wiki/Fujitsu_iPAD" title="Fujitsu iPAD">iPAD</a></li>
+<li><a href="/wiki/JEF_codepage" title="JEF codepage">JEF codepage</a></li>
+<li><a href="/wiki/Fujitsu_Micro_16s" title="Fujitsu Micro 16s">Micro 16s</a></li>
+<li><a href="/wiki/Pocket_LOOX" title="Pocket LOOX">Pocket LOOX</a></li>
+<li><a href="/wiki/SINIX" title="SINIX">SINIX</a></li>
+<li><a href="/wiki/SPARC_Enterprise" title="SPARC Enterprise">SPARC Enterprise</a></li>
+<li><a href="/wiki/HAL_SPARC64" title="HAL SPARC64">SPARC64</a></li>
+<li><a href="/wiki/TurboSPARC" title="TurboSPARC">TurboSPARC</a></li>
+<li><a href="/wiki/Fujitsu_VP" title="Fujitsu VP">VP</a></li>
+<li><a href="/wiki/Fujitsu_VP2000" title="Fujitsu VP2000">VP2000</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Category:Fujitsu_people" title="Category:Fujitsu people">People</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/David_Courtley" title="David Courtley">David Courtley</a></li>
+<li><a href="/wiki/Toshio_Ikeda" title="Toshio Ikeda">Toshio Ikeda</a></li>
+<li><a href="/wiki/Naoki_Yokoyama" title="Naoki Yokoyama">Naoki Yokoyama</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Places</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shiodome_City_Center" title="Shiodome City Center">Shiodome City Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atlas_Consortium" title="Atlas Consortium">Atlas Consortium</a></li>
+<li><a href="/wiki/Fujitsu%27s_Application" title="Fujitsu's Application">Fujitsu's Application</a></li>
+<li><a href="/wiki/Fujitsu_Cup" title="Fujitsu Cup">Fujitsu Cup</a></li>
+<li><a href="/wiki/Fujitsu_Ladies" title="Fujitsu Ladies">Fujitsu Ladies</a></li>
+<li><a href="/wiki/Furukawa_Group" title="Furukawa Group">Furukawa Group</a></li>
+<li><a href="/wiki/Kawasaki_Frontale" title="Kawasaki Frontale">Kawasaki Frontale</a></li>
+<li><a href="/wiki/Fujitsu_Frontiers" title="Fujitsu Frontiers">Fujitsu Frontiers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><sup>1</sup><i>Now integrated into other Fujitsu divisions or business groupings</i></li>
+<li><sup>2</sup><i>Now wholly owned</i></li>
+<li><sup>3</sup><i>Sold</i></li>
+</ul>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Fujitsu" title="Category:Fujitsu">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Fujitsu" class="extiw" title="commons:Category:Fujitsu">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Hitachi" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hitachi" title="Template:Hitachi"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hitachi" title="Template talk:Hitachi"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hitachi&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Hitachi" style="font-size:114%;margin:0 4em"><a href="/wiki/Hitachi" title="Hitachi">Hitachi</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Divisions and<br />
+subsidiaries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clarion_(company)" title="Clarion (company)">Clarion</a></li>
+<li><a href="/wiki/Hitachi_Cable" title="Hitachi Cable">Hitachi Cable</a>
+<ul>
+<li><small><a href="/wiki/Hitachi_Cable_Manchester" title="Hitachi Cable Manchester">Hitachi Cable Manchester</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Hitachi_Canadian_Industries" class="mw-redirect" title="Hitachi Canadian Industries">Hitachi Canadian Industries</a></li>
+<li>Hitachi Capital</li>
+<li><a href="/wiki/Hitachi_Construction_Machinery" title="Hitachi Construction Machinery">Hitachi Construction Machinery</a>
+<ul>
+<li><small><a href="/wiki/Hitachi_Construction_Machinery_(Europe)" title="Hitachi Construction Machinery (Europe)">Hitachi Construction Machinery (Europe)</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Hitachi_Consulting" title="Hitachi Consulting">Hitachi Consulting</a></li>
+<li><a href="/wiki/Hitachi_Data_Systems" title="Hitachi Data Systems">Hitachi Data Systems</a> <small>(<a href="/wiki/BlueArc" class="mw-redirect" title="BlueArc">BlueArc</a>)</small></li>
+<li><a href="/wiki/Hitachi#Hitachi_Electronics" title="Hitachi">Hitachi Electronics</a></li>
+<li><a href="/wiki/Hitachi_Maxell" title="Hitachi Maxell">Hitachi Maxell</a></li>
+<li>Hitachi Medical Systems</li>
+<li><a href="/wiki/Hitachi#Hitachi_Rail" title="Hitachi">Hitachi Rail</a></li>
+<li><a href="/wiki/Horizon_Nuclear_Power" title="Horizon Nuclear Power">Horizon Nuclear Power</a></li>
+<li><a href="/wiki/JECS" title="JECS">JECS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Former</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Euclid_Trucks" title="Euclid Trucks">Euclid Trucks</a><sup>1</sup></li>
+<li><a href="/wiki/Fabrik_Inc." title="Fabrik Inc.">Fabrik</a><sup>1</sup></li>
+<li><a href="/wiki/Hitachi_Global_Storage_Technologies" class="mw-redirect" title="Hitachi Global Storage Technologies">Hitachi Global Storage Technologies</a><sup>2</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Hitachi_inspire_the_next-Logo.svg" class="image"><img alt="Hitachi inspire the next-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hitachi_inspire_the_next-Logo.svg/150px-Hitachi_inspire_the_next-Logo.svg.png" width="150" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hitachi_inspire_the_next-Logo.svg/225px-Hitachi_inspire_the_next-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hitachi_inspire_the_next-Logo.svg/300px-Hitachi_inspire_the_next-Logo.svg.png 2x" data-file-width="775" data-file-height="222" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Joint ventures and<br />
+shareholdings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agility_Trains" title="Agility Trains">Agility Trains</a> <small>(40%)</small></li>
+<li><a href="/wiki/Alaxala_Networks" title="Alaxala Networks">Alaxala Networks</a> <small>(60%)</small></li>
+<li><a href="/wiki/GE_Hitachi_Nuclear_Energy" title="GE Hitachi Nuclear Energy">GE Hitachi Nuclear Energy</a> <small>(40%)</small></li>
+<li><a href="/wiki/Hitachi-LG_Data_Storage" title="Hitachi-LG Data Storage">Hitachi-LG Data Storage</a></li>
+<li><a href="/wiki/Japan_Display" title="Japan Display">Japan Display</a> <small>(10%)</small></li>
+<li><a href="/wiki/NEC_Casio_Mobile_Communications" class="mw-redirect" title="NEC Casio Mobile Communications">NEC Casio Mobile Communications</a> <small>(9.26%)</small></li>
+<li><a href="/wiki/Nippon_Columbia" title="Nippon Columbia">Nippon Columbia</a> <small>(18.21%)</small></li>
+<li><a href="/wiki/Renesas_Electronics" title="Renesas Electronics">Renesas Electronics</a> <small>(30.62%)</small></li>
+<li><a href="/wiki/Telcon_Construction_Solutions" class="mw-redirect" title="Telcon Construction Solutions">Telcon Construction Solutions</a> <small>(60%)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Products, services<br />
+and standards</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Current</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">ALiS</a></li>
+<li><a href="/wiki/D-VHS" title="D-VHS">D-VHS</a></li>
+<li><a href="/wiki/EMIEW" title="EMIEW">EMIEW</a></li>
+<li><a href="/wiki/Hitachi_Adaptable_Modular_Storage_2000" title="Hitachi Adaptable Modular Storage 2000">Hitachi Adaptable Modular Storage 2000</a></li>
+<li><a href="/wiki/Hitachi_DX07" title="Hitachi DX07">Hitachi DX07</a></li>
+<li><a href="/wiki/Hitachi_Starboard" title="Hitachi Starboard">Hitachi Starboard</a></li>
+<li><a href="/wiki/Category:Hitachi_locomotives" title="Category:Hitachi locomotives">Locomotives</a></li>
+<li><a href="/wiki/Hitachi_Magic_Wand" title="Hitachi Magic Wand">Hitachi Magic Wand</a></li>
+<li><a href="/wiki/Category:Hitachi_multiple_units" title="Category:Hitachi multiple units">Multiple units</a></li>
+<li><a href="/wiki/Hitachi_917" title="Hitachi 917">Hitachi 917</a></li>
+<li><a href="/wiki/Hitachi_SR8000" title="Hitachi SR8000">Hitachi SR8000</a></li>
+<li><a href="/wiki/Hitachi_Travelstar" class="mw-redirect" title="Hitachi Travelstar">Hitachi Travelstar</a></li>
+<li><a href="/wiki/Hitachi_TrueCopy" class="mw-redirect" title="Hitachi TrueCopy">Hitachi TrueCopy</a></li>
+<li><a href="/wiki/LS-R" title="LS-R">LS-R</a></li>
+<li><a href="/wiki/M8_(cipher)" title="M8 (cipher)">M8</a></li>
+<li><a href="/wiki/Stacked_Volumetric_Optical_Disk" class="mw-redirect" title="Stacked Volumetric Optical Disk">Stacked Volumetric Optical Disk</a></li>
+<li><a href="/wiki/SuperH" title="SuperH">SuperH</a></li>
+<li><a href="/wiki/Universal_Storage_Platform" title="Universal Storage Platform">Universal Storage Platform</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;background-color: #eee;">Defunct</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/H8_Family" title="H8 Family">H8 Family</a></li>
+<li><a href="/wiki/HD64180" class="mw-redirect" title="HD64180">HD64180</a></li>
+<li><a href="/wiki/HITAC" title="HITAC">HITAC</a></li>
+<li><a href="/wiki/HITAC_S-810" title="HITAC S-810">HITAC S-810</a></li>
+<li><a href="/wiki/Hitachi_6309" title="Hitachi 6309">Hitachi 6309</a></li>
+<li><a href="/wiki/Hitachi_Deskstar" class="mw-redirect" title="Hitachi Deskstar">Hitachi Deskstar</a></li>
+<li><a href="/wiki/Hitachi_Flora_Prius" title="Hitachi Flora Prius">Hitachi Flora Prius</a></li>
+<li><a href="/wiki/Hitachi_SH-G1000" title="Hitachi SH-G1000">Hitachi G1000</a></li>
+<li><a href="/wiki/Hitachi_Hatsukaze" title="Hitachi Hatsukaze">Hitachi Hatsukaze</a></li>
+<li><a href="/wiki/Hitachi_SR2201" title="Hitachi SR2201">Hitachi SR2201</a></li>
+<li><a href="/wiki/Hitachi_T.2" title="Hitachi T.2">Hitachi T.2</a></li>
+<li><a href="/wiki/Hitachi_TR.1" title="Hitachi TR.1">Hitachi TR.1</a></li>
+<li><a href="/wiki/M6_(cipher)" title="M6 (cipher)">M6</a></li>
+<li><a href="/wiki/Microdrive" title="Microdrive">Microdrive</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Namihei_Odaira" title="Namihei Odaira">Namihei Odaira</a></li>
+<li><a href="/wiki/Kenichi_Ohmae" title="Kenichi Ohmae">Kenichi Ohmae</a></li>
+<li><a href="/wiki/Hiroaki_Nakanishi" title="Hiroaki Nakanishi">Hiroaki Nakanishi</a></li>
+<li><a href="/wiki/Takashi_Kawamura_(businessman)" title="Takashi Kawamura (businessman)">Takashi Kawamura</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Places</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hitachi_Kashiwa_Soccer_Stadium" class="mw-redirect" title="Hitachi Kashiwa Soccer Stadium">Hitachi Kashiwa Soccer Stadium</a></li>
+<li><a href="/wiki/Hitachi,_Ibaraki" title="Hitachi, Ibaraki">Hitachi, Ibaraki</a></li>
+<li><a href="/wiki/Hitachi_Tower" class="mw-redirect" title="Hitachi Tower">Hitachi Tower</a></li>
+<li><a href="/wiki/Ts%C5%ABtenkaku" title="Tsūtenkaku">Tsūtenkaku</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DKB_Group" title="DKB Group">DKB Group</a></li>
+<li><a href="/wiki/HDMI_Licensing" title="HDMI Licensing">HDMI Licensing</a></li>
+<li><a href="/wiki/Hitachi_3Tours_Championship" title="Hitachi 3Tours Championship">Hitachi 3Tours Championship</a></li>
+<li><a href="/wiki/Hitachi_Data_Systems_History" class="mw-redirect" title="Hitachi Data Systems History">Hitachi Data Systems History</a></li>
+<li><a href="/wiki/The_Hitachi_Foundation" title="The Hitachi Foundation">The Hitachi Foundation</a></li>
+<li><a href="/wiki/Hindu_Hitachi_Scholarships" title="Hindu Hitachi Scholarships">Hindu Hitachi Scholarships</a></li>
+<li><a href="/wiki/Hitachi_SunRockers" class="mw-redirect" title="Hitachi SunRockers">Hitachi SunRockers</a></li>
+<li><a href="/wiki/Hitachi_Rivale" title="Hitachi Rivale">Hitachi Rivale</a></li>
+<li><a href="/wiki/Kashiwa_Reysol" title="Kashiwa Reysol">Kashiwa Reysol</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><small><sup>1</sup><i>Now integrated into other Hitachi divisions or business groupings</i> <sup>2</sup><i>Sold</i></small></li>
+</ul>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Hitachi" title="Category:Hitachi">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Hitachi" class="extiw" title="commons:Category:Hitachi">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Display_technology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Display_technology" title="Template:Display technology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Display_technology" title="Template talk:Display technology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Display_technology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Display_technology" style="font-size:114%;margin:0 4em"><a href="/wiki/Display_device" title="Display device">Display technology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Display_device#video_display" title="Display device">Video displays</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Current generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eidophor" title="Eidophor">Eidophor</a></li>
+<li><a href="/wiki/Electroluminescent_display" title="Electroluminescent display">Electroluminescent display</a> (ELD)</li>
+<li><a href="/wiki/Electronic_paper" title="Electronic paper">Electronic paper</a>
+<ul>
+<li><a href="/wiki/E_Ink" title="E Ink">E Ink</a></li>
+<li><a href="/wiki/Gyricon" title="Gyricon">Gyricon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/LED_display" title="LED display">Light emitting diode display</a> (LED)</li>
+<li><a href="/wiki/Cathode_ray_tube" title="Cathode ray tube">Cathode ray tube</a> (CRT) (<a href="/wiki/Monoscope" title="Monoscope">Monoscope</a>)</li>
+<li><a href="/wiki/Liquid-crystal_display" title="Liquid-crystal display">Liquid-crystal display</a> (LCD)
+<ul>
+<li><a href="/wiki/TFT_LCD" class="mw-redirect" title="TFT LCD">TFT</a></li>
+<li><a href="/wiki/Twisted_nematic_field_effect" title="Twisted nematic field effect">TN</a></li>
+<li><a href="/wiki/LED-backlit_LCD_display" class="mw-redirect" title="LED-backlit LCD display">LED</a></li>
+<li><a href="/wiki/Blue_phase_mode_LCD" title="Blue phase mode LCD">Blue Phase</a></li>
+<li><a href="/wiki/IPS_panel" title="IPS panel">IPS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plasma_display" title="Plasma display">Plasma display panel</a> (PDP)
+<ul>
+<li><a class="mw-selflink selflink">ALiS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Digital_Light_Processing" title="Digital Light Processing">Digital Light Processing</a> (DLP)</li>
+<li><a href="/wiki/Liquid_crystal_on_silicon" title="Liquid crystal on silicon">Liquid crystal on silicon</a> (LCoS)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Next_generation_of_display_technology" title="Next generation of display technology">Next generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/OLED" title="OLED">Organic light-emitting diode</a> (OLED)
+<ul>
+<li><a href="/wiki/AMOLED" title="AMOLED">AMOLED</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Organic_light-emitting_transistor" title="Organic light-emitting transistor">Organic light-emitting transistor</a> (OLET)</li>
+<li><a href="/wiki/Surface-conduction_electron-emitter_display" title="Surface-conduction electron-emitter display">Surface-conduction electron-emitter display</a> (SED)</li>
+<li><a href="/wiki/Field_emission_display" class="mw-redirect" title="Field emission display">Field emission display</a> (FED)</li>
+<li><a href="/wiki/Laser_video_display" title="Laser video display">Laser TV</a>
+<ul>
+<li><a href="/wiki/Quantum_dot_laser" title="Quantum dot laser">Quantum dot</a></li>
+<li><a href="/wiki/Liquid-crystal_laser" title="Liquid-crystal laser">Liquid crystal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">MEMS</a> display
+<ul>
+<li><a href="/wiki/Interferometric_modulator_display" title="Interferometric modulator display">IMoD</a></li>
+<li><a href="/wiki/Time-multiplexed_optical_shutter" title="Time-multiplexed optical shutter">TMOS</a></li>
+<li><a href="/w/index.php?title=Digital_micro_shutter&amp;action=edit&amp;redlink=1" class="new" title="Digital micro shutter (page does not exist)">DMS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_dot_display" title="Quantum dot display">Quantum dot display</a> (QD-LED)</li>
+<li><a href="/wiki/Ferro_Liquid_Crystal_Display" class="mw-redirect" title="Ferro Liquid Crystal Display">Ferro liquid crystal display</a> (FLCD)</li>
+<li><a href="/wiki/Thick-film_dielectric_electroluminescent_technology" title="Thick-film dielectric electroluminescent technology">Thick-film dielectric electroluminescent technology</a> (TDEL)</li>
+<li><a href="/wiki/Telescopic_pixel_display" title="Telescopic pixel display">Telescopic pixel display</a> (TPD)</li>
+<li><a href="/wiki/Laser-powered_phosphor_display" title="Laser-powered phosphor display">Laser-powered phosphor display</a> (LPD)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-video</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electromechanics" title="Electromechanics">Electromechanical</a>
+<ul>
+<li><a href="/wiki/Flip-disc_display" title="Flip-disc display">Flip-dot</a></li>
+<li><a href="/wiki/Split-flap_display" title="Split-flap display">Split-flap</a></li>
+<li><a href="/wiki/Vane_display" title="Vane display">Vane</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Text_display#Eggcrate_displays" title="Text display">Eggcrate</a></li>
+<li><a href="/wiki/Nixie_tube" title="Nixie tube">Nixie tube</a></li>
+<li><a href="/wiki/Vacuum_fluorescent_display" title="Vacuum fluorescent display">Vacuum fluorescent display</a> (VFD)</li>
+<li><a href="/wiki/Light-emitting_electrochemical_cell" title="Light-emitting electrochemical cell">Light-emitting electrochemical cell</a> (LEC)</li>
+<li><a href="/wiki/Lightguide_display" title="Lightguide display">Lightguide display</a></li>
+<li><a href="/wiki/Dot-matrix_display" title="Dot-matrix display">Dot-matrix display</a></li>
+<li><a href="/wiki/Seven-segment_display" title="Seven-segment display">Seven-segment display</a> (SSD)</li>
+<li><a href="/wiki/Nine-segment_display" title="Nine-segment display">Nine-segment display</a></li>
+<li><a href="/wiki/Fourteen-segment_display" title="Fourteen-segment display">Fourteen-segment display</a> (FSD)</li>
+<li><a href="/wiki/Sixteen-segment_display" title="Sixteen-segment display">Sixteen-segment display</a> (SISD)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stereo_display" title="Stereo display">3D display</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stereoscopy" title="Stereoscopy">Stereoscopic</a></li>
+<li><a href="/wiki/Autostereoscopy" title="Autostereoscopy">Autostereoscopic</a></li>
+<li><a href="/wiki/Multiscopy" title="Multiscopy">Multiscopic</a></li>
+<li><a href="/wiki/Holography" title="Holography">Hologram</a>
+<ul>
+<li><a href="/wiki/Holographic_display" title="Holographic display">Holographic display</a></li>
+<li><a href="/wiki/Computer-generated_holography" title="Computer-generated holography">Computer-generated holography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Volumetric_display" title="Volumetric display">Volumetric</a></li>
+<li><a href="/wiki/Musion_Eyeliner" title="Musion Eyeliner">Musion Eyeliner</a></li>
+<li><a href="/wiki/Fog_display" title="Fog display">Fog display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Static media</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Movie_projector" title="Movie projector">Movie projector</a></li>
+<li><a href="/wiki/Neon_sign" title="Neon sign">Neon sign</a></li>
+<li><a href="/wiki/Destination_sign" title="Destination sign">Destination sign</a></li>
+<li><a href="/wiki/Slide_projector" title="Slide projector">Slide projector</a></li>
+<li><a href="/wiki/Transparency_(projection)" title="Transparency (projection)">Transparency</a></li>
+<li><a href="/wiki/Laser_lighting_display" title="Laser lighting display">Laser beam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_display_technology" title="History of display technology">History of display technology</a></li>
+<li><a href="/wiki/Large-screen_television_technology" title="Large-screen television technology">Large-screen television technology</a></li>
+<li><a href="/wiki/Optimum_HDTV_viewing_distance" title="Optimum HDTV viewing distance">Optimum HDTV viewing distance</a></li>
+<li><a href="/wiki/High-dynamic-range_imaging" title="High-dynamic-range imaging">High-dynamic-range imaging</a> (HDRI)</li>
+<li><a href="/wiki/Color_Light_Output" title="Color Light Output">Color Light Output</a></li>
+<li><a href="/wiki/Flexible_display" title="Flexible display">Flexible display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Comparison_of_display_technology" title="Comparison of display technology">Comparison of display technology</a></div>
+</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:Nuvola_apps_ksim.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/30px-Nuvola_apps_ksim.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/45px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/60px-Nuvola_apps_ksim.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td><i>This electronics-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electronics-stub" title="Template:Electronics-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electronics-stub" title="Template talk:Electronics-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electronics-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20180205075916
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.168 seconds
+Preprocessor visited node count: 723/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80724/2097152 bytes
+Template argument size: 741/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.038/10.000 seconds
+Lua memory usage: 1.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  102.908      1 -total
+ 66.12%   68.043      9 Template:Navbox
+ 37.30%   38.380      1 Template:Fujitsu
+ 26.07%   26.833      1 Template:Reflist
+ 14.86%   15.288      1 Template:Hitachi
+ 12.21%   12.569      1 Template:Electron-stub
+  9.71%    9.990      1 Template:Asbox
+  9.69%    9.971      4 Template:Icon
+  9.25%    9.523      1 Template:Display_Technology
+  2.44%    2.509     15 Template:Small
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27278390-0!canonical and timestamp 20180205075915 and revision id 744264223
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alternate_lighting_of_surfaces&amp;oldid=744264223">https://en.wikipedia.org/w/index.php?title=Alternate_lighting_of_surfaces&amp;oldid=744264223</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electronics_stubs" title="Category:Electronics stubs">Electronics stubs</a></li><li><a href="/wiki/Category:Display_technology" title="Category:Display technology">Display technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alternate+lighting+of+surfaces" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alternate+lighting+of+surfaces" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Alternate_lighting_of_surfaces" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Alternate_lighting_of_surfaces" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Alternate_lighting_of_surfaces">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alternate_lighting_of_surfaces" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alternate_lighting_of_surfaces" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;oldid=744264223" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4736394" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alternate_lighting_of_surfaces&amp;id=744264223" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alternate+lighting+of+surfaces">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Alternate+lighting+of+surfaces&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alternate_lighting_of_surfaces&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4736394#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 October 2016, at 04:33.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alternate_lighting_of_surfaces&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.168","ppvisitednodes":{"value":723,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80724,"limit":2097152},"templateargumentsize":{"value":741,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  102.908      1 -total"," 66.12%   68.043      9 Template:Navbox"," 37.30%   38.380      1 Template:Fujitsu"," 26.07%   26.833      1 Template:Reflist"," 14.86%   15.288      1 Template:Hitachi"," 12.21%   12.569      1 Template:Electron-stub","  9.71%    9.990      1 Template:Asbox","  9.69%    9.971      4 Template:Icon","  9.25%    9.523      1 Template:Display_Technology","  2.44%    2.509     15 Template:Small"]},"scribunto":{"limitreport-timeusage":{"value":"0.038","limit":"10.000"},"limitreport-memusage":{"value":1761281,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20180205075916","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

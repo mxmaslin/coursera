@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Decision theory - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Decision_theory","wgTitle":"Decision theory","wgCurRevisionId":822625559,"wgRevisionId":822625559,"wgArticleId":446216,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2010","Articles with unsourced statements from July 2017","Wikipedia articles with GND identifiers","Decision theory","Statistical inference","Economics of uncertainty","Risk","Control theory","Formal sciences","Epistemology of science","Mathematical and quantitative methods (economics)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Decision_theory","wgRelevantArticleId":446216,"wgRequestId":"WoNMGwpAAEIAABErPRoAAADT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q177571","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Decision_theory"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Decision_theory&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Decision_theory&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Decision_theory"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Decision_theory rootpage-Decision_theory skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Decision theory</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Decision theory</b> (or the <b>theory of choice</b>) is the study of the reasoning underlying an <a href="/wiki/Agent_(economics)" title="Agent (economics)">agent's</a> choices.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Decision theory can be broken into three branches: <a href="/wiki/Norm_(philosophy)" title="Norm (philosophy)">normative</a> decision theory, which gives advice on how to make the <a href="/wiki/Optimal_decision" title="Optimal decision">best decisions</a>, given a set of uncertain beliefs and a set of <a href="/wiki/Value_(personal_and_cultural)" class="mw-redirect" title="Value (personal and cultural)">values</a>; and descriptive decision theory, which analyzes how existing, possibly irrational agents actually make decisions; and prescriptive decision theory, which tries to guide or give procedures on how or what we should do in order to make <a href="/wiki/Optimal_decision" title="Optimal decision">best decisions</a> in line with the normative theory.</p>
+<p>Closely related to the field of <a href="/wiki/Game_theory" title="Game theory">game theory</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> decision theory is concerned with the choices of individual agents whereas game theory is concerned with interactions of agents whose decisions affect each other. Decision theory is an interdisciplinary topic, studied by economists, statisticians, psychologists, biologists,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> political and other social scientists, philosophers,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and computer scientists.</p>
+<p>Empirical applications of this rich theory are usually done with the help of <a href="/wiki/Statistics" title="Statistics">statistical</a> and <a href="/wiki/Econometrics" title="Econometrics">econometric</a> methods, especially via the so-called choice models, such as <a href="/wiki/Probit" title="Probit">probit</a> and <a href="/wiki/Logit" title="Logit">logit</a> models. Estimation of such models is usually done via parametric, semi-parametric and non-parametric <a href="/wiki/Maximum_likelihood" class="mw-redirect" title="Maximum likelihood">maximum likelihood</a> methods.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Normative_and_descriptive"><span class="tocnumber">1</span> <span class="toctext">Normative and descriptive</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#What_kinds_of_decisions_need_a_theory?"><span class="tocnumber">2</span> <span class="toctext">What kinds of decisions need a theory?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Choice_under_uncertainty"><span class="tocnumber">2.1</span> <span class="toctext">Choice under uncertainty</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Intertemporal_choice"><span class="tocnumber">2.2</span> <span class="toctext">Intertemporal choice</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Interaction_of_decision_makers"><span class="tocnumber">2.3</span> <span class="toctext">Interaction of decision makers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Complex_decisions"><span class="tocnumber">2.4</span> <span class="toctext">Complex decisions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Heuristics"><span class="tocnumber">3</span> <span class="toctext">Heuristics</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Alternatives"><span class="tocnumber">4</span> <span class="toctext">Alternatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Probability_theory"><span class="tocnumber">4.1</span> <span class="toctext">Probability theory</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Alternatives_to_probability_theory"><span class="tocnumber">4.2</span> <span class="toctext">Alternatives to probability theory</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Ludic_fallacy"><span class="tocnumber">4.3</span> <span class="toctext">Ludic fallacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Normative_and_descriptive">Normative and descriptive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=1" title="Edit section: Normative and descriptive">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Normative" title="Normative">Normative</a> or prescriptive decision theory is concerned with identifying the best decision to make, modelling an ideal decision maker who is able to compute with perfect accuracy and is fully <a href="/wiki/Rationality" title="Rationality">rational</a>. The practical application of this prescriptive approach (how people <i>ought to</i> make decisions) is called <a href="/wiki/Decision_analysis" title="Decision analysis">decision analysis</a>, and is aimed at finding tools, methodologies and software (<a href="/wiki/Decision_support_system" title="Decision support system">decision support systems</a>) to help people make better decisions.</p>
+<p>In contrast, <a href="/wiki/Positive_statement" title="Positive statement">positive</a> or descriptive decision theory is concerned with describing observed behaviors under the assumption that the decision-making agents are behaving under some consistent rules. These rules may, for instance, have a procedural framework (e.g. <a href="/wiki/Amos_Tversky" title="Amos Tversky">Amos Tversky</a>'s elimination by aspects model) or an <a href="/wiki/Axiom" title="Axiom">axiomatic</a> framework, reconciling the <a href="/wiki/Expected_utility_hypothesis#Von_Neumann" title="Expected utility hypothesis">Von Neumann-Morgenstern axioms</a> with behavioral violations of the <a href="/wiki/Expected_utility" class="mw-redirect" title="Expected utility">expected utility</a> hypothesis, or they may explicitly give a functional form for <a href="/wiki/Time_inconsistency" class="mw-redirect" title="Time inconsistency">time-inconsistent</a> <a href="/wiki/Utility_function" class="mw-redirect" title="Utility function">utility functions</a> (e.g. Laibson's <a href="/wiki/Hyperbolic_discounting" title="Hyperbolic discounting">quasi-hyperbolic discounting</a>).</p>
+<p>The prescriptions or predictions about behaviour that positive decision theory produces allow for further tests of the kind of decision-making that occurs in practice. There is a thriving dialogue with <a href="/wiki/Experimental_economics" title="Experimental economics">experimental economics</a>, which uses laboratory and field experiments to evaluate and inform theory. In recent decades, there has also been increasing interest in what is sometimes called "behavioral decision theory" and this has contributed to a re-evaluation of what rational decision-making requires.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span id="What_kinds_of_decisions_need_a_theory.3F"></span><span class="mw-headline" id="What_kinds_of_decisions_need_a_theory?">What kinds of decisions need a theory?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=2" title="Edit section: What kinds of decisions need a theory?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Choice_under_uncertainty">Choice under uncertainty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=3" title="Edit section: Choice under uncertainty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">For more details on this topic, see <a href="/wiki/Expected_utility_hypothesis" title="Expected utility hypothesis">Expected utility hypothesis</a>.</div>
+<p>The area of choice under uncertainty represents the heart of decision theory. Known from the 17th century (<a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Blaise Pascal</a> invoked it in his <a href="/wiki/Pascal%27s_Wager" title="Pascal's Wager">famous wager</a>, which is contained in his <i><a href="/wiki/Pens%C3%A9es" title="Pensées">Pensées</a></i>, published in 1670), the idea of <a href="/wiki/Expected_value" title="Expected value">expected value</a> is that, when faced with a number of actions, each of which could give rise to more than one possible outcome with different probabilities, the rational procedure is to identify all possible outcomes, determine their values (positive or negative) and the probabilities that will result from each course of action, and multiply the two to give an "expected value", or the average expectation for an outcome; the action to be chosen should be the one that gives rise to the highest total expected value. In 1738, <a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Daniel Bernoulli</a> published an influential paper entitled <i>Exposition of a New Theory on the Measurement of Risk</i>, in which he uses the <a href="/wiki/St._Petersburg_paradox" title="St. Petersburg paradox">St. Petersburg paradox</a> to show that expected value theory must be <a href="/wiki/Norm_(philosophy)" title="Norm (philosophy)">normatively</a> wrong. He gives an example in which a Dutch merchant is trying to decide whether to insure a cargo being sent from Amsterdam to St Petersburg in winter. In his solution, he defines a <a href="/wiki/Utility_function" class="mw-redirect" title="Utility function">utility function</a> and computes <a href="/wiki/Expected_utility" class="mw-redirect" title="Expected utility">expected utility</a> rather than expected financial value (see<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> for a review).</p>
+<p>In the 20th century, interest was reignited by <a href="/wiki/Abraham_Wald" title="Abraham Wald">Abraham Wald's</a> 1939 paper<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> pointing out that the two central procedures of <a href="/wiki/Frequentist_statistics" class="mw-redirect" title="Frequentist statistics">sampling-distribution-based</a> statistical-theory, namely <a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">hypothesis testing</a> and <a href="/wiki/Estimation_theory" title="Estimation theory">parameter estimation</a>, are special cases of the general decision problem. Wald's paper renewed and synthesized many concepts of statistical theory, including <a href="/wiki/Loss_function" title="Loss function">loss functions</a>, <a href="/wiki/Risk_function" class="mw-redirect" title="Risk function">risk functions</a>, <a href="/wiki/Admissible_decision_rule" title="Admissible decision rule">admissible decision rules</a>, <a href="/wiki/Prior_probability" title="Prior probability">antecedent distributions</a>, <a href="/wiki/Admissible_decision_rule#Bayes_rules" title="Admissible decision rule">Bayesian procedures</a>, and <a href="/wiki/Minimax" title="Minimax">minimax</a> procedures. The phrase "decision theory" itself was used in 1950 by <a href="/wiki/E._L._Lehmann" class="mw-redirect" title="E. L. Lehmann">E. L. Lehmann</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>The revival of <a href="/wiki/Subjective_probability" class="mw-redirect" title="Subjective probability">subjective probability</a> theory, from the work of <a href="/wiki/Frank_P._Ramsey" title="Frank P. Ramsey">Frank Ramsey</a>, <a href="/wiki/Bruno_de_Finetti" title="Bruno de Finetti">Bruno de Finetti</a>, <a href="/wiki/L._J._Savage" class="mw-redirect" title="L. J. Savage">Leonard Savage</a> and others, extended the scope of expected utility theory to situations where subjective probabilities can be used. At the time, von Neumann and Morgenstern theory of <a href="/wiki/Expected_utility" class="mw-redirect" title="Expected utility">expected utility</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> proved that expected utility maximization followed from basic postulates about rational behavior.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:140px;"><a href="/wiki/File:Daniel_KAHNEMAN.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/c8/Daniel_KAHNEMAN.jpg" width="138" height="179" class="thumbimage" data-file-width="138" data-file-height="179" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Daniel_KAHNEMAN.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a></div>
+</div>
+</div>
+<p>The work of <a href="/wiki/Maurice_Allais" title="Maurice Allais">Maurice Allais</a> and <a href="/wiki/Daniel_Ellsberg" title="Daniel Ellsberg">Daniel Ellsberg</a> showed that human behavior has systematic and sometimes important departures from expected-utility maximization. The <a href="/wiki/Prospect_theory" title="Prospect theory">prospect theory</a> of <a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a> and <a href="/wiki/Amos_Tversky" title="Amos Tversky">Amos Tversky</a> renewed the empirical study of <a href="/wiki/Behavioral_economics" title="Behavioral economics">economic behavior</a> with less emphasis on rationality presuppositions. Kahneman and Tversky found three regularities – in actual human decision-making, "losses loom larger than gains"; persons focus more on <i>changes</i> in their utility-states than they focus on absolute utilities; and the estimation of subjective probabilities is severely biased by <a href="/wiki/Anchoring" title="Anchoring">anchoring</a>.</p>
+<h3><span class="mw-headline" id="Intertemporal_choice">Intertemporal choice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=4" title="Edit section: Intertemporal choice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Intertemporal_choice" title="Intertemporal choice">Intertemporal choice</a></div>
+<p>Intertemporal choice is concerned with the kind of choice where different actions lead to outcomes that are realised at different points in time. If someone received a windfall of several thousand dollars, they could spend it on an expensive holiday, giving them immediate pleasure, or they could invest it in a pension scheme, giving them an income at some time in the future. What is the optimal thing to do? The answer depends partly on factors such as the expected <a href="/wiki/Interest_rate" title="Interest rate">rates of interest</a> and <a href="/wiki/Inflation" title="Inflation">inflation</a>, the person's <a href="/wiki/Life_expectancy" title="Life expectancy">life expectancy</a>, and their confidence in the pensions industry. However even with all those factors taken into account, human behavior again deviates greatly from the predictions of prescriptive decision theory, leading to alternative models in which, for example, objective interest rates are replaced by <a href="/wiki/Hyperbolic_discounting" title="Hyperbolic discounting">subjective discount rates</a>.</p>
+<h3><span class="mw-headline" id="Interaction_of_decision_makers">Interaction of decision makers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=5" title="Edit section: Interaction of decision makers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some decisions are difficult because of the need to take into account how other people in the situation will respond to the decision that is taken. The analysis of such social decisions is more often treated under the label of <a href="/wiki/Game_theory" title="Game theory">game theory</a>, rather than decision theory, though it involves the same mathematical methods. From the standpoint of game theory most of the problems treated in decision theory are one-player games (or the one player is viewed as playing against an impersonal background situation). In the emerging <a href="/wiki/Socio-cognitive" title="Socio-cognitive">socio-cognitive</a> engineering, the research is especially focused on the different types of distributed decision-making in human organizations, in normal and abnormal/emergency/crisis situations.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Complex_decisions">Complex decisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=6" title="Edit section: Complex decisions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other areas of decision theory are concerned with decisions that are difficult simply because of their complexity, or the complexity of the organization that has to make them. Individuals making decisions may be limited in resources or are <a href="/wiki/Bounded_rationality" title="Bounded rationality">boundedly rational</a> (have finite time or intelligence); in such cases the issue, more than the deviation between real and optimal behaviour, is the difficulty of determining the optimal behaviour in the first place. One example is the model of economic growth and resource usage developed by the <a href="/wiki/Club_of_Rome" title="Club of Rome">Club of Rome</a> to help politicians make real-life decisions in complex situations<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></i>]</sup>. Decisions are also affected by whether options are framed together or separately; this is known as the <a href="/wiki/Distinction_bias" title="Distinction bias">distinction bias</a>.</p>
+<h2><span class="mw-headline" id="Heuristics">Heuristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=7" title="Edit section: Heuristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Heuristic" title="Heuristic">Heuristic</a></div>
+<p>The heuristic approach to decision-making makes decisions based on routine thinking, which, while quicker than step-by-step processing, opens the risk of introducing inaccuracies, mistakes and fallacies, which may be easily disproved in a step-by-step process of thinking.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> One example of common and incorrect thought process is the <a href="/wiki/Gambler%27s_fallacy" title="Gambler's fallacy">gambler's fallacy</a>, or believing that a random event is affected by previous random events (truth is, there is a fifty percent chance of a coin landing on heads even after a long sequence of tails). Another example is that decision-makers may be biased towards preferring moderate alternatives to extreme ones; the "Compromise Effect" operates under a mindset driven by the belief that the most moderate option, amid extremes, carries the most benefits from each extreme.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Alternatives">Alternatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=8" title="Edit section: Alternatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A highly controversial issue is whether one can replace the use of probability in decision theory by other alternatives.</p>
+<h3><span class="mw-headline" id="Probability_theory">Probability theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=9" title="Edit section: Probability theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Advocates for the use of probability theory point to:</p>
+<ul>
+<li>the work of <a href="/wiki/Richard_Threlkeld_Cox" title="Richard Threlkeld Cox">Richard Threlkeld Cox</a> for justification of the probability axioms,</li>
+<li>the <a href="/wiki/Dutch_book" title="Dutch book">Dutch book</a> paradoxes of <a href="/wiki/Bruno_de_Finetti" title="Bruno de Finetti">Bruno de Finetti</a> as illustrative of the theoretical difficulties that can arise from departures from the probability axioms, and</li>
+<li>the complete class theorems, which show that all <a href="/wiki/Admissible_decision_rule" title="Admissible decision rule">admissible decision rules</a> are equivalent to the Bayesian decision rule for some utility function and some <a href="/wiki/Prior_distribution" class="mw-redirect" title="Prior distribution">prior distribution</a> (or for the limit of a sequence of prior distributions). Thus, for every decision rule, either the rule may be reformulated as a <a href="/wiki/Bayesian_probability" title="Bayesian probability">Bayesian</a> procedure (or a limit of a sequence of such), or there is a rule that is sometimes better and never worse.</li>
+</ul>
+<h3><span class="mw-headline" id="Alternatives_to_probability_theory">Alternatives to probability theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=10" title="Edit section: Alternatives to probability theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The proponents of <a href="/wiki/Fuzzy_logic" title="Fuzzy logic">fuzzy logic</a>, <a href="/wiki/Possibility_theory" title="Possibility theory">possibility theory</a>, <a href="/wiki/Quantum_cognition" title="Quantum cognition">quantum cognition</a>, <a href="/wiki/Dempster%E2%80%93Shafer_theory" title="Dempster–Shafer theory">Dempster–Shafer theory</a>, and <a href="/wiki/Info-gap_decision_theory" title="Info-gap decision theory">info-gap decision theory</a> maintain that probability is only one of many alternatives and point to many examples where non-standard alternatives have been implemented with apparent success; notably, probabilistic decision theory is <a href="/wiki/Sensitivity_analysis" title="Sensitivity analysis">sensitive</a> to assumptions about the probabilities of various events, while non-probabilistic rules such as <a href="/wiki/Minimax" title="Minimax">minimax</a> are <a href="/wiki/Robust_statistics" title="Robust statistics">robust</a>, in that they do not make such assumptions.</p>
+<h3><span class="mw-headline" id="Ludic_fallacy">Ludic fallacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=11" title="Edit section: Ludic fallacy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Ludic_fallacy" title="Ludic fallacy">Ludic fallacy</a></div>
+<p>A general criticism of decision theory based on a fixed universe of possibilities is that it considers the "known unknowns", not the "<a href="/wiki/Unknown_unknowns" class="mw-redirect" title="Unknown unknowns">unknown unknowns</a>"<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2017)">citation needed</span></a></i>]</sup>: it focuses on expected variations, not on unforeseen events, which some argue (as in <a href="/wiki/Black_swan_theory" title="Black swan theory">black swan theory</a>) have outsized impact and must be considered – significant events may be "outside model". This line of argument, called the <a href="/wiki/Ludic_fallacy" title="Ludic fallacy">ludic fallacy</a>, is that there are inevitable imperfections in modeling the real world by particular models, and that unquestioning reliance on models blinds one to their limits.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Decision_theory" class="extiw" title="q:Special:Search/Decision theory">Decision theory</a></b></i></td>
+</tr>
+</table>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Bayesian_statistics" title="Bayesian statistics">Bayesian statistics</a></li>
+<li><a href="/wiki/Causal_decision_theory" title="Causal decision theory">Causal decision theory</a></li>
+<li><a href="/wiki/Choice_modelling" title="Choice modelling">Choice modelling</a></li>
+<li><a href="/wiki/Constraint_satisfaction" title="Constraint satisfaction">Constraint satisfaction</a></li>
+<li><a href="/wiki/Decision_making" class="mw-redirect" title="Decision making">Decision making</a></li>
+<li><a href="/wiki/Evidential_decision_theory" title="Evidential decision theory">Evidential decision theory</a></li>
+<li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
+<li><a href="/wiki/Multi-criteria_decision_making" class="mw-redirect" title="Multi-criteria decision making">Multi-criteria decision making</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Optimal_decision" title="Optimal decision">Optimal decision</a></li>
+<li><a href="/wiki/Decision_quality" title="Decision quality">Decision quality</a></li>
+<li><a href="/wiki/Preference_(economics)" title="Preference (economics)">Preference (economics)</a></li>
+<li><a href="/wiki/Quantum_cognition" title="Quantum cognition">Quantum cognition</a></li>
+<li><a href="/wiki/Rationality" title="Rationality">Rationality</a></li>
+<li><a href="/wiki/Secretary_problem" title="Secretary problem">Secretary problem</a></li>
+<li><a href="/wiki/Signal_detection_theory" class="mw-redirect" title="Signal detection theory">Signal detection theory</a></li>
+<li><a href="/wiki/Small-numbers_game" title="Small-numbers game">Small-numbers game</a></li>
+<li><a href="/wiki/Stochastic_dominance" title="Stochastic dominance">Stochastic dominance</a></li>
+<li><a href="/wiki/Two_envelopes_problem" title="Two envelopes problem">Two envelopes problem</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Steele, Katie and Stefánsson, H. Orri, "Decision Theory", The Stanford Encyclopedia of Philosophy (Winter 2015 Edition), Edward N. Zalta (ed.), URL = <a rel="nofollow" class="external autonumber" href="http://plato.stanford.edu/archives/win2015/entries/decision-theory">[1]</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Myerson, Roger B. (1991). "1.2: Basic concepts of Decision Theory". <i>Game theory analysis of conflict</i>. Cambridge, Mass.: Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780674728615" title="Special:BookSources/9780674728615">9780674728615</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=1.2%3A+Basic+concepts+of+Decision+Theory&amp;rft.btitle=Game+theory+analysis+of+conflict&amp;rft.place=Cambridge%2C+Mass.&amp;rft.pub=Harvard+University+Press&amp;rft.date=1991&amp;rft.isbn=9780674728615&amp;rft.aulast=Myerson&amp;rft.aufirst=Roger+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Habibi, Iman; Cheong, Raymond; Lipniacki, Tomasz; Levchenko, Andre; Emamian, Effat S.; Abdi, Ali (2017-04-05). <a rel="nofollow" class="external text" href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005436">"Computation and measurement of cell decision making errors using single cell data"</a>. <i>PLOS Computational Biology</i>. <b>13</b> (4): e1005436. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1371%2Fjournal.pcbi.1005436">10.1371/journal.pcbi.1005436</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1553-7358">1553-7358</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLOS+Computational+Biology&amp;rft.atitle=Computation+and+measurement+of+cell+decision+making+errors+using+single+cell+data&amp;rft.volume=13&amp;rft.issue=4&amp;rft.pages=e1005436&amp;rft.date=2017-04-05&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pcbi.1005436&amp;rft.issn=1553-7358&amp;rft.aulast=Habibi&amp;rft.aufirst=Iman&amp;rft.au=Cheong%2C+Raymond&amp;rft.au=Lipniacki%2C+Tomasz&amp;rft.au=Levchenko%2C+Andre&amp;rft.au=Emamian%2C+Effat+S.&amp;rft.au=Abdi%2C+Ali&amp;rft_id=http%3A%2F%2Fjournals.plos.org%2Fploscompbiol%2Farticle%3Fid%3D10.1371%2Fjournal.pcbi.1005436&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Hansson, Sven Ove. "Decision theory: A brief introduction." (2005) Section 1.2: A truly interdisciplinary subject.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Park, Byeong U.; Simar, Léopold; Zelenyuk, Valentin (2017). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0167947316302596">"Nonparametric estimation of dynamic discrete choice models for time series data"</a>. <i>Computational Statistics &amp; Data Analysis</i>. <b>108</b>: 97–120. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.csda.2016.10.024">10.1016/j.csda.2016.10.024</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computational+Statistics+%26+Data+Analysis&amp;rft.atitle=Nonparametric+estimation+of+dynamic+discrete+choice+models+for+time+series+data&amp;rft.volume=108&amp;rft.pages=97-120&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1016%2Fj.csda.2016.10.024&amp;rft.aulast=Park&amp;rft.aufirst=Byeong+U.&amp;rft.au=Simar%2C+L%C3%A9opold&amp;rft.au=Zelenyuk%2C+Valentin&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0167947316302596&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">For instance, see: <cite class="citation book">Anand, Paul (1993). <i>Foundations of Rational Choice Under Risk</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-823303-5" title="Special:BookSources/0-19-823303-5">0-19-823303-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Foundations+of+Rational+Choice+Under+Risk&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=1993&amp;rft.isbn=0-19-823303-5&amp;rft.au=Anand%2C+Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schoemaker, P. J. H. (1982). "The Expected Utility Model: Its Variants, Purposes, Evidence and Limitations". <i>Journal of Economic Literature</i>. <b>20</b>: 529–563.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Economic+Literature&amp;rft.atitle=The+Expected+Utility+Model%3A+Its+Variants%2C+Purposes%2C+Evidence+and+Limitations&amp;rft.volume=20&amp;rft.pages=529-563&amp;rft.date=1982&amp;rft.aulast=Schoemaker&amp;rft.aufirst=P.+J.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Abraham_Wald" title="Abraham Wald">Wald, Abraham</a> (1939). "Contributions to the Theory of Statistical Estimation and Testing Hypotheses". <i><a href="/wiki/Annals_of_Mathematical_Statistics" title="Annals of Mathematical Statistics">Annals of Mathematical Statistics</a></i>. <b>10</b> (4): 299–326. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1214%2Faoms%2F1177732144">10.1214/aoms/1177732144</a>. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0000932">0000932</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Mathematical+Statistics&amp;rft.atitle=Contributions+to+the+Theory+of+Statistical+Estimation+and+Testing+Hypotheses&amp;rft.volume=10&amp;rft.issue=4&amp;rft.pages=299-326&amp;rft.date=1939&amp;rft_id=info%3Adoi%2F10.1214%2Faoms%2F1177732144&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D932&amp;rft.aulast=Wald&amp;rft.aufirst=Abraham&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/E._L._Lehmann" class="mw-redirect" title="E. L. Lehmann">Lehmann, E. L.</a> (1950). "Some Principles of the Theory of Testing Hypotheses". <i><a href="/wiki/Annals_of_Mathematical_Statistics" title="Annals of Mathematical Statistics">Annals of Mathematical Statistics</a></i>. <b>21</b> (1): 1–26. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1214%2Faoms%2F1177729884">10.1214/aoms/1177729884</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2236552">2236552</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Mathematical+Statistics&amp;rft.atitle=Some+Principles+of+the+Theory+of+Testing+Hypotheses&amp;rft.volume=21&amp;rft.issue=1&amp;rft.pages=1-26&amp;rft.date=1950&amp;rft_id=info%3Adoi%2F10.1214%2Faoms%2F1177729884&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2236552&amp;rft.aulast=Lehmann&amp;rft.aufirst=E.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Neumann, John von; Morgenstern, Oskar (1953) [1944]. <i>Theory of Games and Economic Behavior (Third ed.)</i>. Princeton, NJ: Princeton University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Theory+of+Games+and+Economic+Behavior+%28Third+ed.%29&amp;rft.place=Princeton%2C+NJ&amp;rft.pub=Princeton+University+Press&amp;rft.date=1953&amp;rft.aulast=Neumann&amp;rft.aufirst=John+von&amp;rft.au=Morgenstern%2C+Oskar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Crozier, M. &amp; Friedberg, E. 1995. "Organization and Collective Action. Our Contribution to Organizational Analysis" in Bacharach S.B, Gagliardi P. &amp; Mundell P. (Eds). Research in the Sociology of Organizations. Vol. XIII, Special Issue on European Perspectives of Organizational Theory, Greenwich, CT: JAI Press.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Johnson, E. J.; Payne, J. W. (1985). "EFFORT AND ACCURACY IN CHOICE". <i>Management Science</i>. <b>31</b> (4): 395–414. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1287%2Fmnsc.31.4.395">10.1287/mnsc.31.4.395</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Management+Science&amp;rft.atitle=EFFORT+AND+ACCURACY+IN+CHOICE&amp;rft.volume=31&amp;rft.issue=4&amp;rft.pages=395-414&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1287%2Fmnsc.31.4.395&amp;rft.aulast=Johnson&amp;rft.aufirst=E.+J.&amp;rft.au=Payne%2C+J.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Roe, R. M.; Busemeyer, J. R.; Townsend, J. T. (2001). "Multialternative decision field theory: A dynamic connectionist model of decision making". <i>Psychological Review</i>. <b>108</b> (2): 370–392. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2F0033-295X.108.2.370">10.1037/0033-295X.108.2.370</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Psychological+Review&amp;rft.atitle=Multialternative+decision+field+theory%3A+A+dynamic+connectionist+model+of+decision+making&amp;rft.volume=108&amp;rft.issue=2&amp;rft.pages=370-392&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1037%2F0033-295X.108.2.370&amp;rft.aulast=Roe&amp;rft.aufirst=R.+M.&amp;rft.au=Busemeyer%2C+J.+R.&amp;rft.au=Townsend%2C+J.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Decision_theory&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><cite class="citation journal">Akerlof, George A.; Yellen, Janet L. (May 1987). "Rational Models of Irrational Behavior". <b>77</b> (2): 137–142.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rational+Models+of+Irrational+Behavior&amp;rft.volume=77&amp;rft.issue=2&amp;rft.pages=137-142&amp;rft.date=1987-05&amp;rft.au=Akerlof%2C+George+A.&amp;rft.au=Yellen%2C+Janet+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Anand, Paul (1993). <i>Foundations of Rational Choice Under Risk</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-823303-5" title="Special:BookSources/0-19-823303-5">0-19-823303-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Foundations+of+Rational+Choice+Under+Risk&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=1993&amp;rft.isbn=0-19-823303-5&amp;rft.au=Anand%2C+Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> (<i>an overview of the philosophical foundations of key mathematical axioms in subjective expected utility theory – mainly normative</i>)</li>
+<li><cite class="citation journal">Arthur, W. Brian (May 1991). "Designing Economic Agents that Act like Human Agents: A Behavioral Approach to Bounded Rationality". <i>The American Economic Review</i>. <b>81</b> (2): 353–9.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+American+Economic+Review&amp;rft.atitle=Designing+Economic+Agents+that+Act+like+Human+Agents%3A+A+Behavioral+Approach+to+Bounded+Rationality&amp;rft.volume=81&amp;rft.issue=2&amp;rft.pages=353-9&amp;rft.date=1991-05&amp;rft.au=Arthur%2C+W.+Brian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/James_Berger_(statistician)" class="mw-redirect" title="James Berger (statistician)">Berger, James O.</a> (1985). <i>Statistical decision theory and Bayesian Analysis</i> (2nd ed.). New York: Springer-Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-96098-8" title="Special:BookSources/0-387-96098-8">0-387-96098-8</a>. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0804611">0804611</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Statistical+decision+theory+and+Bayesian+Analysis&amp;rft.place=New+York&amp;rft.edition=2nd&amp;rft.pub=Springer-Verlag&amp;rft.date=1985&amp;rft.isbn=0-387-96098-8&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0804611&amp;rft.aulast=Berger&amp;rft.aufirst=James+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Jos%C3%A9-Miguel_Bernardo" title="José-Miguel Bernardo">Bernardo, José M.</a>; <a href="/wiki/Adrian_Smith_(academic)" class="mw-redirect" title="Adrian Smith (academic)">Smith, Adrian F. M.</a> (1994). <i>Bayesian Theory</i>. Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-92416-4" title="Special:BookSources/0-471-92416-4">0-471-92416-4</a>. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1274699">1274699</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bayesian+Theory&amp;rft.pub=Wiley&amp;rft.date=1994&amp;rft.isbn=0-471-92416-4&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1274699&amp;rft.aulast=Bernardo&amp;rft.aufirst=Jos%C3%A9+M.&amp;rft.au=Smith%2C+Adrian+F.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Clemen, Robert; Reilly, Terence (2014). <i>Making Hard Decisions with DecisionTools: An Introduction to Decision Analysis</i> (3rd ed.). Stamford CT: Cengage. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-538-79757-6" title="Special:BookSources/0-538-79757-6">0-538-79757-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Making+Hard+Decisions+with+DecisionTools%3A+An+Introduction+to+Decision+Analysis&amp;rft.place=Stamford+CT&amp;rft.edition=3rd&amp;rft.pub=Cengage&amp;rft.date=2014&amp;rft.isbn=0-538-79757-6&amp;rft.au=Clemen%2C+Robert&amp;rft.au=Reilly%2C+Terence&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> <i>(covers normative decision theory)</i></li>
+<li>De Groot, Morris, <i>Optimal Statistical Decisions</i>. Wiley Classics Library. 2004. (Originally published 1970.) <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-68029-X" title="Special:BookSources/0-471-68029-X">0-471-68029-X</a>.</li>
+<li><cite class="citation book">Goodwin, Paul; Wright, George (2004). <i>Decision Analysis for Management Judgment</i> (3rd ed.). Chichester: Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-470-86108-8" title="Special:BookSources/0-470-86108-8">0-470-86108-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Decision+Analysis+for+Management+Judgment&amp;rft.place=Chichester&amp;rft.edition=3rd&amp;rft.pub=Wiley&amp;rft.date=2004&amp;rft.isbn=0-470-86108-8&amp;rft.au=Goodwin%2C+Paul&amp;rft.au=Wright%2C+George&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> <i>(covers both normative and descriptive theory)</i></li>
+<li><cite class="citation web">Hansson, Sven Ove. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060705052730/http://www.infra.kth.se/~soh/decisiontheory.pdf">"Decision Theory: A Brief Introduction"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.infra.kth.se/~soh/decisiontheory.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on July 5, 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Decision+Theory%3A+A+Brief+Introduction&amp;rft.au=Hansson%2C+Sven+Ove&amp;rft_id=http%3A%2F%2Fwww.infra.kth.se%2F~soh%2Fdecisiontheory.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Khemani, Karan, Ignorance is Bliss: A study on how and why humans depend on recognition heuristics in social relationships, the equity markets and the brand market-place, thereby making successful decisions, 2005.</li>
+<li><cite class="citation book">Leach, Patrick (2006). <i>Why Can't You Just Give Me the Number? An Executive's Guide to Using Probabilistic Thinking to Manage Risk and to Make Better Decisions</i>. Probabilistic. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-9647938-5-7" title="Special:BookSources/0-9647938-5-7">0-9647938-5-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Why+Can%27t+You+Just+Give+Me+the+Number%3F+An+Executive%27s+Guide+to+Using+Probabilistic+Thinking+to+Manage+Risk+and+to+Make+Better+Decisions&amp;rft.pub=Probabilistic&amp;rft.date=2006&amp;rft.isbn=0-9647938-5-7&amp;rft.au=Leach%2C+Patrick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> A rational presentation of probabilistic analysis.</li>
+<li><cite class="citation journal">Miller L (1985). "Cognitive risk-taking after frontal or temporal lobectomy—I. The synthesis of fragmented visual information". <i>Neuropsychologia</i>. <b>23</b> (3): 359–69. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0028-3932%2885%2990022-3">10.1016/0028-3932(85)90022-3</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4022303">4022303</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuropsychologia&amp;rft.atitle=Cognitive+risk-taking+after+frontal+or+temporal+lobectomy%E2%80%94I.+The+synthesis+of+fragmented+visual+information&amp;rft.volume=23&amp;rft.issue=3&amp;rft.pages=359-69&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1016%2F0028-3932%2885%2990022-3&amp;rft_id=info%3Apmid%2F4022303&amp;rft.au=Miller+L&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Miller L, Milner B (1985). "Cognitive risk-taking after frontal or temporal lobectomy—II. The synthesis of phonemic and semantic information". <i>Neuropsychologia</i>. <b>23</b> (3): 371–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0028-3932%2885%2990023-5">10.1016/0028-3932(85)90023-5</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4022304">4022304</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuropsychologia&amp;rft.atitle=Cognitive+risk-taking+after+frontal+or+temporal+lobectomy%E2%80%94II.+The+synthesis+of+phonemic+and+semantic+information&amp;rft.volume=23&amp;rft.issue=3&amp;rft.pages=371-9&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1016%2F0028-3932%2885%2990023-5&amp;rft_id=info%3Apmid%2F4022304&amp;rft.aulast=Miller&amp;rft.aufirst=L&amp;rft.au=Milner%2C+B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">North, D.W. (1968). "A tutorial introduction to decision theory". <i>IEEE Transactions on Systems Science and Cybernetics</i>. <b>4</b> (3): 200–210. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FTSSC.1968.300114">10.1109/TSSC.1968.300114</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Systems+Science+and+Cybernetics&amp;rft.atitle=A+tutorial+introduction+to+decision+theory&amp;rft.volume=4&amp;rft.issue=3&amp;rft.pages=200-210&amp;rft.date=1968&amp;rft_id=info%3Adoi%2F10.1109%2FTSSC.1968.300114&amp;rft.aulast=North&amp;rft.aufirst=D.W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> Reprinted in Shafer &amp; Pearl. <i>(also about normative decision theory)</i></li>
+<li><cite class="citation book">Peterson, Martin (2009). <i>An Introduction to Decision Theory</i>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-71654-3" title="Special:BookSources/978-0-521-71654-3">978-0-521-71654-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Decision+Theory&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2009&amp;rft.isbn=978-0-521-71654-3&amp;rft.au=Peterson%2C+Martin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Raiffa, Howard (1997). <i>Decision Analysis: Introductory Lectures on Choices Under Uncertainty</i>. McGraw Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-052579-X" title="Special:BookSources/0-07-052579-X">0-07-052579-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Decision+Analysis%3A+Introductory+Lectures+on+Choices+Under+Uncertainty&amp;rft.pub=McGraw+Hill&amp;rft.date=1997&amp;rft.isbn=0-07-052579-X&amp;rft.au=Raiffa%2C+Howard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Robert, Christian (2007). <i>The Bayesian Choice</i> (2nd ed.). New York: Springer. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F0-387-71599-1">10.1007/0-387-71599-1</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-95231-4" title="Special:BookSources/0-387-95231-4">0-387-95231-4</a>. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1835885">1835885</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Bayesian+Choice&amp;rft.place=New+York&amp;rft.edition=2nd&amp;rft.pub=Springer&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1835885&amp;rft_id=info%3Adoi%2F10.1007%2F0-387-71599-1&amp;rft.isbn=0-387-95231-4&amp;rft.aulast=Robert&amp;rft.aufirst=Christian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Shafer, Glenn; Pearl, Judea, eds. (1990). <i>Readings in uncertain reasoning</i>. San Mateo, CA: Morgan Kaufmann.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Readings+in+uncertain+reasoning&amp;rft.place=San+Mateo%2C+CA&amp;rft.pub=Morgan+Kaufmann&amp;rft.date=1990&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Smith, J.Q. (1988). <i>Decision Analysis: A Bayesian Approach</i>. Chapman and Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-412-27520-1" title="Special:BookSources/0-412-27520-1">0-412-27520-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Decision+Analysis%3A+A+Bayesian+Approach&amp;rft.pub=Chapman+and+Hall&amp;rft.date=1988&amp;rft.isbn=0-412-27520-1&amp;rft.au=Smith%2C+J.Q.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a> and <a href="/wiki/Joseph_Jastrow" title="Joseph Jastrow">Joseph Jastrow</a> (1885). <a rel="nofollow" class="external text" href="http://psychclassics.yorku.ca/Peirce/small-diffs.htm">"On Small Differences in Sensation"</a>. <i>Memoirs of the National Academy of Sciences</i>. <b>3</b>: 73–83.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Memoirs+of+the+National+Academy+of+Sciences&amp;rft.atitle=On+Small+Differences+in+Sensation&amp;rft.volume=3&amp;rft.pages=73-83&amp;rft.date=1885&amp;rft.au=Charles+Sanders+Peirce+and+Joseph+Jastrow&amp;rft_id=http%3A%2F%2Fpsychclassics.yorku.ca%2FPeirce%2Fsmall-diffs.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external free" href="http://psychclassics.yorku.ca/Peirce/small-diffs.htm">http://psychclassics.yorku.ca/Peirce/small-diffs.htm</a></li>
+<li><a href="/wiki/Frank_P._Ramsey" title="Frank P. Ramsey">Ramsey, Frank Plumpton</a>; "Truth and Probability" (<a rel="nofollow" class="external text" href="https://web.archive.org/web/20030605070939/http://cepa.newschool.edu/het/texts/ramsey/ramsess.pdf">PDF</a>), Chapter VII in <i>The Foundations of Mathematics and other Logical Essays</i> (1931).</li>
+<li><cite class="citation journal"><a href="/wiki/Bruno_de_Finetti" title="Bruno de Finetti">de Finetti, Bruno</a> (September 1989). "Probabilism: A Critical Essay on the Theory of Probability and on the Value of Science". <i>Erkenntnis</i>. <b>31</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Erkenntnis&amp;rft.atitle=Probabilism%3A+A+Critical+Essay+on+the+Theory+of+Probability+and+on+the+Value+of+Science&amp;rft.volume=31&amp;rft.date=1989-09&amp;rft.au=de+Finetti%2C+Bruno&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span> (translation of 1931 article)</li>
+<li><cite class="citation journal">de Finetti, Bruno (1937). "La Prévision: ses lois logiques, ses sources subjectives". <i>Annales de l'Institut Henri Poincaré</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annales+de+l%27Institut+Henri+Poincar%C3%A9&amp;rft.atitle=La+Pr%C3%A9vision%3A+ses+lois+logiques%2C+ses+sources+subjectives&amp;rft.date=1937&amp;rft.au=de+Finetti%2C+Bruno&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<dl>
+<dd>de Finetti, Bruno. "Foresight: its Logical Laws, Its Subjective Sources," (translation of the <a rel="nofollow" class="external text" href="http://www.numdam.org/item?id=AIHP_1937__7_1_1_0">1937 article</a> in French) in H. E. Kyburg and H. E. Smokler (eds), <i>Studies in Subjective Probability,</i> New York: Wiley, 1964.</dd>
+</dl>
+<ul>
+<li>de Finetti, Bruno. <i>Theory of Probability</i>, (translation by <a href="/wiki/AFM_Smith" class="mw-redirect" title="AFM Smith">AFM Smith</a> of 1970 book) 2 volumes, New York: Wiley, 1974-5.</li>
+<li><cite class="citation book"><a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">Donald Davidson</a>, <a href="/wiki/Patrick_Suppes" title="Patrick Suppes">Patrick Suppes</a> and <a href="/wiki/Sidney_Siegel" title="Sidney Siegel">Sidney Siegel</a> (1957). <i>Decision-Making: An Experimental Approach</i>. <a href="/wiki/Stanford_University_Press" title="Stanford University Press">Stanford University Press</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Decision-Making%3A+An+Experimental+Approach&amp;rft.pub=Stanford+University+Press&amp;rft.date=1957&amp;rft.au=Donald+Davidson%2C+Patrick+Suppes+and+Sidney+Siegel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Pfanzagl, J (1967). "<a href="/wiki/Oskar_Morgenstern" title="Oskar Morgenstern">Morgenstern</a>". In <a href="/wiki/Martin_Shubik" title="Martin Shubik">Martin Shubik</a>. <i>Essays in Mathematical Economics In Honor of Oskar Morgenstern</i>. Princeton University Press. pp.&#160;237–251.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Subjective+Probability+Derived+from+the+Morgenstern-von+Neumann+Utility+Theory&amp;rft.btitle=Essays+in+Mathematical+Economics+In+Honor+of+Oskar+Morgenstern&amp;rft.pages=237-251&amp;rft.pub=Princeton+University+Press&amp;rft.date=1967&amp;rft.au=Pfanzagl%2C+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Pfanzagl, J. in cooperation with V. Baumann and H. Huber (1968). "Events, Utility and Subjective Probability". <i>Theory of Measurement</i>. Wiley. pp.&#160;195–220.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Events%2C+Utility+and+Subjective+Probability&amp;rft.btitle=Theory+of+Measurement&amp;rft.pages=195-220&amp;rft.pub=Wiley&amp;rft.date=1968&amp;rft.au=Pfanzagl%2C+J.+in+cooperation+with+V.+Baumann+and+H.+Huber&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Morgenstern, Oskar (1976). "Some Reflections on Utility". In Andrew Schotter. <i>Selected Economic Writings of Oskar Morgenstern</i>. New York University Press. pp.&#160;65–70. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8147-7771-6" title="Special:BookSources/0-8147-7771-6">0-8147-7771-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Some+Reflections+on+Utility&amp;rft.btitle=Selected+Economic+Writings+of+Oskar+Morgenstern&amp;rft.pages=65-70&amp;rft.pub=New+York+University+Press&amp;rft.date=1976&amp;rft.isbn=0-8147-7771-6&amp;rft.au=Morgenstern%2C+Oskar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADecision+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Non-Robust Models in Statistics by Lev B. Klebanov, Svetlozat T. Rachev and Frank J. Fabozzi, Nova Scientific Publishers, Inc. New York, 2009.</li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Decision_theory_paradoxes" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Decision_theory_paradoxes" title="Template:Decision theory paradoxes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Decision_theory_paradoxes" title="Template talk:Decision theory paradoxes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Decision_theory_paradoxes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Decision_theory_paradoxes" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Decision theory</a> <a href="/wiki/Paradox" title="Paradox">paradoxes</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abilene_paradox" title="Abilene paradox">Abilene</a></li>
+<li><a href="/wiki/Apportionment_paradox" title="Apportionment paradox">Apportionment</a></li>
+<li><a href="/wiki/Arrow%27s_impossibility_theorem" title="Arrow's impossibility theorem">Arrow's</a></li>
+<li><a href="/wiki/Buridan%27s_ass" title="Buridan's ass">Buridan's ass</a></li>
+<li><a href="/wiki/Chainstore_paradox" title="Chainstore paradox">Chainstore</a></li>
+<li><a href="/wiki/Condorcet_paradox" title="Condorcet paradox">Condorcet's</a></li>
+<li><a href="/wiki/Decision-making_paradox" title="Decision-making paradox">Decision-making</a></li>
+<li><a href="/wiki/Paradox_of_voting" title="Paradox of voting">Downs</a></li>
+<li><a href="/wiki/Ellsberg_paradox" title="Ellsberg paradox">Ellsberg</a></li>
+<li><a href="/wiki/Fenno%27s_paradox" title="Fenno's paradox">Fenno's</a></li>
+<li><a href="/wiki/Fredkin%27s_paradox" title="Fredkin's paradox">Fredkin's</a></li>
+<li><a href="/wiki/Green_paradox" title="Green paradox">Green</a></li>
+<li><a href="/wiki/Hedgehog%27s_dilemma" title="Hedgehog's dilemma">Hedgehog's</a></li>
+<li><a href="/wiki/Inventor%27s_paradox" title="Inventor's paradox">Inventor's</a></li>
+<li><a href="/wiki/Kavka%27s_toxin_puzzle" title="Kavka's toxin puzzle">Kavka's toxin puzzle</a></li>
+<li><a href="/wiki/Morton%27s_fork" title="Morton's fork">Morton's fork</a></li>
+<li><a href="/wiki/Navigation_paradox" title="Navigation paradox">Navigation</a></li>
+<li><a href="/wiki/Newcomb%27s_paradox" title="Newcomb's paradox">Newcomb's</a></li>
+<li><a href="/wiki/Parrondo%27s_paradox" title="Parrondo's paradox">Parrondo's</a></li>
+<li><a href="/wiki/Prevention_paradox" title="Prevention paradox">Prevention</a></li>
+<li><a href="/wiki/Prisoner%27s_dilemma" title="Prisoner's dilemma">Prisoner's dilemma</a></li>
+<li><a href="/wiki/Paradox_of_tolerance" title="Paradox of tolerance">Tolerance</a></li>
+<li><a href="/wiki/Willpower_paradox" title="Willpower paradox">Willpower</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Deliberations_of_Congress.jpg" class="image"><img alt="Deliberations of Congress.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Deliberations_of_Congress.jpg/90px-Deliberations_of_Congress.jpg" width="90" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Deliberations_of_Congress.jpg/135px-Deliberations_of_Congress.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Deliberations_of_Congress.jpg/180px-Deliberations_of_Congress.jpg 2x" data-file-width="431" data-file-height="425" /></a></div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/List_of_paradoxes" title="List of paradoxes">List of paradoxes</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Industrial_and_applied_mathematics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Industrial_and_applied_mathematics" title="Template:Industrial and applied mathematics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Industrial_and_applied_mathematics" title="Template talk:Industrial and applied mathematics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Industrial_and_applied_mathematics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Industrial_and_applied_mathematics" style="font-size:114%;margin:0 4em"><a href="/wiki/Applied_mathematics" title="Applied mathematics">Industrial and applied mathematics</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Computational logic</a></li>
+<li><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a>
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">analysis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Coding_theory" title="Coding theory">Coding theory</a></li>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Symbolic_computation" class="mw-redirect" title="Symbolic computation">Computer algebra</a></li>
+<li><a href="/wiki/Computational_number_theory" title="Computational number theory">Computational number theory</a></li>
+<li><a href="/wiki/Combinatorics" title="Combinatorics">Combinatorics</a></li>
+<li><a href="/wiki/Graph_theory" title="Graph theory">Graph theory</a></li>
+<li><a href="/wiki/Discrete_geometry" title="Discrete geometry">Discrete geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mathematical_physics" title="Mathematical physics">Mathematical<br />
+physics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Algebraic</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Operator_algebra" title="Operator algebra">Operator algebra</a></li>
+<li><a href="/wiki/Particle_physics_and_representation_theory" title="Particle physics and representation theory">Representation theory</a></li>
+<li><a href="/wiki/Renormalization_group" title="Renormalization group">Renormalization group</a></li>
+<li><a href="/wiki/Feynman_integral" class="mw-redirect" title="Feynman integral">Feynman integral</a></li>
+<li><a href="/wiki/M-theory" title="M-theory">M-theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Analytic</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Differential_geometry#Applications" title="Differential geometry">Differential geometry</a></li>
+<li><a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a></li>
+<li><a href="/wiki/Harmonic_analysis_(mathematics)" class="mw-redirect" title="Harmonic analysis (mathematics)">Harmonic analysis</a></li>
+<li><a href="/wiki/Functional_analysis" title="Functional analysis">Functional analysis</a></li>
+<li><a href="/wiki/Operator_theory" title="Operator theory">Operator theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Analysis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Approximation_theory" title="Approximation theory">Approximation theory</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+<li><a href="/wiki/Differential_equations" class="mw-redirect" title="Differential equations">Differential equations</a></li>
+<li><a href="/wiki/Dynamical_systems" class="mw-redirect" title="Dynamical systems">Dynamical systems</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a></li>
+<li><a href="/wiki/Calculus_of_variations" title="Calculus of variations">Variational calculus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Probability_theory" title="Probability theory">Probability theory</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Probability_distribution" title="Probability distribution">Distributions</a>&#160;(<a href="/wiki/Random_variable" title="Random variable">random variables</a>)</li>
+<li><a href="/wiki/Stochastic_process" title="Stochastic process">Stochastic processes</a>&#160;/ <a href="/wiki/Stochastic_analysis" class="mw-redirect" title="Stochastic analysis">analysis</a></li>
+<li><a href="/wiki/Functional_integration" title="Functional integration">Path integral</a></li>
+<li><a href="/wiki/Malliavin_calculus" title="Malliavin calculus">Stochastic variational calculus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Decision sciences</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Optimization_(mathematics)" class="mw-redirect" title="Optimization (mathematics)">Optimization</a></li>
+<li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
+<li><a href="/wiki/Mathematical_economics" title="Mathematical economics">Mathematical economics</a></li>
+<li><a href="/wiki/Mathematical_finance" title="Mathematical finance">Mathematical finance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mathematical_biology" class="mw-redirect" title="Mathematical biology">Biology</a></li>
+<li><a href="/wiki/Mathematical_chemistry" title="Mathematical chemistry">Chemistry</a></li>
+<li><a href="/wiki/Mathematical_psychology" title="Mathematical psychology">Psychology</a></li>
+<li><a href="/wiki/Mathematical_sociology" title="Mathematical sociology">Sociology</a></li>
+<li>"<a href="/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences" title="The Unreasonable Effectiveness of Mathematics in the Natural Sciences">The Unreasonable Effectiveness of Mathematics in the Natural Sciences</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Category</a></b></li>
+<li><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics portal</a>&#160;/ <a href="/wiki/Topic_outline_of_mathematics" class="mw-redirect" title="Topic outline of mathematics">outline</a>&#160;/ <a href="/wiki/List_of_mathematics_topics" class="mw-redirect" title="List of mathematics topics">topics list</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Subfields_of_and_scientists_involved_in_cybernetics" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cybernetics" title="Template:Cybernetics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cybernetics" title="Template talk:Cybernetics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cybernetics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Subfields_of_and_scientists_involved_in_cybernetics" style="font-size:114%;margin:0 4em">Subfields of and scientists involved in <a href="/wiki/Cybernetics" title="Cybernetics">cybernetics</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Subfields</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Subjectivity" title="Subjectivity">Polycontexturality</a></li>
+<li><a href="/wiki/Second-order_cybernetics" title="Second-order cybernetics">Second-order cybernetics</a></li>
+<li><a href="/wiki/Catastrophe_theory" title="Catastrophe theory">Catastrophe theory</a></li>
+<li><a href="/wiki/Connectionism" title="Connectionism">Connectionism</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a></li>
+<li><a class="mw-selflink selflink">Decision theory</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Semiotics" title="Semiotics">Semiotics</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+<li><a href="/wiki/Biocybernetics" title="Biocybernetics">Biological cybernetics</a></li>
+<li><a href="/wiki/Biosemiotics" title="Biosemiotics">Biosemiotics</a></li>
+<li><a href="/wiki/Biomedical_cybernetics" title="Biomedical cybernetics">Biomedical cybernetics</a></li>
+<li><a href="/wiki/Biorobotics" title="Biorobotics">Biorobotics</a></li>
+<li><a href="/wiki/Computational_neuroscience" title="Computational neuroscience">Computational neuroscience</a></li>
+<li><a href="/wiki/Homeostasis" title="Homeostasis">Homeostasis</a></li>
+<li><a href="/wiki/Management_cybernetics" title="Management cybernetics">Management cybernetics</a></li>
+<li><a href="/wiki/Medical_cybernetics" title="Medical cybernetics">Medical cybernetics</a></li>
+<li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Neurocybernetics</a></li>
+<li><a href="/wiki/Sociocybernetics" title="Sociocybernetics">Sociocybernetics</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cyberneticist" title="Cyberneticist">Cyberneticists</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Maleyka_Abbaszadeh" title="Maleyka Abbaszadeh">Maleyka Abbaszadeh</a></li>
+<li><a href="/wiki/Igor_Aleksander" title="Igor Aleksander">Igor Aleksander</a></li>
+<li><a href="/wiki/W._Ross_Ashby" title="W. Ross Ashby">William Ross Ashby</a></li>
+<li><a href="/wiki/Gregory_Bateson" title="Gregory Bateson">Gregory Bateson</a></li>
+<li><a href="/wiki/Stafford_Beer" title="Stafford Beer">Anthony Stafford Beer</a></li>
+<li><a href="/wiki/Natalia_Bekhtereva" title="Natalia Bekhtereva">Natalia Bekhtereva</a></li>
+<li><a href="/wiki/Claude_Bernard" title="Claude Bernard">Claude Bernard</a></li>
+<li><a href="/wiki/Ludwig_von_Bertalanffy" title="Ludwig von Bertalanffy">Ludwig von Bertalanffy</a></li>
+<li><a href="/wiki/Valentino_Braitenberg" title="Valentino Braitenberg">Valentin Braitenberg</a></li>
+<li><a href="/wiki/Gordon_S._Brown" title="Gordon S. Brown">Gordon S. Brown</a></li>
+<li><a href="/wiki/Walter_Bradford_Cannon" title="Walter Bradford Cannon">Walter Bradford Cannon</a></li>
+<li><a href="/wiki/Manfred_Clynes" title="Manfred Clynes">Manfred Clynes</a></li>
+<li><a href="/wiki/Heinz_von_Foerster" title="Heinz von Foerster">Heinz von Foerster</a></li>
+<li><a href="/wiki/Charles_Fran%C3%A7ois_(systems_scientist)" title="Charles François (systems scientist)">Charles François</a></li>
+<li><a href="/wiki/Jay_Wright_Forrester" title="Jay Wright Forrester">Jay Wright Forrester</a></li>
+<li><a href="/wiki/Jacque_Fresco" title="Jacque Fresco">Jacque Fresco</a></li>
+<li><a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a></li>
+<li><a href="/wiki/Ranulph_Glanville" title="Ranulph Glanville">Ranulph Glanville</a></li>
+<li><a href="/wiki/Ernst_von_Glasersfeld" title="Ernst von Glasersfeld">Ernst von Glasersfeld</a></li>
+<li><a href="/wiki/Petro_Grigorenko" title="Petro Grigorenko">Pyotr Grigorenko</a></li>
+<li><a href="/wiki/N._Katherine_Hayles" title="N. Katherine Hayles">N. Katherine Hayles</a></li>
+<li><a href="/wiki/Francis_Heylighen" title="Francis Heylighen">Francis Heylighen</a></li>
+<li><a href="/wiki/Erich_von_Holst" title="Erich von Holst">Erich von Holst</a></li>
+<li><a href="/wiki/Jason_Jixuan_Hu" title="Jason Jixuan Hu">Jason Jixuan Hu</a></li>
+<li><a href="/wiki/Cliff_Joslyn" title="Cliff Joslyn">Cliff Joslyn</a></li>
+<li><a href="/wiki/Stuart_Kauffman" title="Stuart Kauffman">Stuart Kauffman</a></li>
+<li><a href="/wiki/Sergei_P._Kurdyumov" title="Sergei P. Kurdyumov">Sergei P. Kurdyumov</a></li>
+<li><a href="/wiki/Allenna_Leonard" title="Allenna Leonard">Allenna Leonard</a></li>
+<li><a href="/wiki/Niklas_Luhmann" title="Niklas Luhmann">Niklas Luhmann</a></li>
+<li><a href="/wiki/Warren_Sturgis_McCulloch" title="Warren Sturgis McCulloch">Warren McCulloch</a></li>
+<li><a href="/wiki/Humberto_Maturana" title="Humberto Maturana">Humberto Maturana</a></li>
+<li><a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a></li>
+<li><a href="/wiki/Ulla_Mitzdorf" title="Ulla Mitzdorf">Ulla Mitzdorf</a></li>
+<li><a href="/wiki/Talcott_Parsons" title="Talcott Parsons">Talcott Parsons</a></li>
+<li><a href="/wiki/Gordon_Pask" title="Gordon Pask">Gordon Pask</a></li>
+<li><a href="/wiki/Walter_Pitts" title="Walter Pitts">Walter Pitts</a></li>
+<li><a href="/wiki/Alfred_Radcliffe-Brown" title="Alfred Radcliffe-Brown">Alfred Radcliffe-Brown</a></li>
+<li><a href="/wiki/Robert_Trappl" title="Robert Trappl">Robert Trappl</a></li>
+<li><a href="/wiki/Valentin_Turchin" title="Valentin Turchin">Valentin Turchin</a></li>
+<li><a href="/wiki/Jakob_von_Uexk%C3%BCll" title="Jakob von Uexküll">Jakob von Uexküll</a></li>
+<li><a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a></li>
+<li><a href="/wiki/Frederic_Vester" title="Frederic Vester">Frederic Vester</a></li>
+<li><a href="/wiki/Geoffrey_Vickers" title="Geoffrey Vickers">Charles Geoffrey Vickers</a></li>
+<li><a href="/wiki/Stuart_Umpleby" title="Stuart Umpleby">Stuart Umpleby</a></li>
+<li><a href="/wiki/John_N._Warfield" title="John N. Warfield">John N. Warfield</a></li>
+<li><a href="/wiki/William_Grey_Walter" title="William Grey Walter">William Grey Walter</a></li>
+<li><a href="/wiki/Kevin_Warwick" title="Kevin Warwick">Kevin Warwick</a></li>
+<li><a href="/wiki/Norbert_Wiener" title="Norbert Wiener">Norbert Wiener</a></li>
+<li><a href="/wiki/Jennifer_Wilby" title="Jennifer Wilby">Jennifer Wilby</a></li>
+<li><a href="/wiki/Anthony_Wilden" title="Anthony Wilden">Anthony Wilden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4138606-1">4138606-1</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20180213203539
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.728 seconds
+Real time usage: 1.620 seconds
+Preprocessor visited node count: 2168/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 99397/2097152 bytes
+Template argument size: 3669/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.413/10.000 seconds
+Lua memory usage: 4.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1389.004      1 -total
+ 19.57%  271.868      1 Template:Reflist
+ 19.52%  271.156     18 Template:Cite_book
+ 13.66%  189.695      2 Template:Citation_needed
+ 12.65%  175.658      2 Template:Fix
+ 11.46%  159.204     15 Template:Cite_journal
+  8.93%  123.986      1 Template:Authority_control
+  7.98%  110.906      4 Template:Category_handler
+  7.07%   98.204      1 Template:Details
+  6.39%   88.723      1 Template:ISBN
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:446216-0!canonical and timestamp 20180213203537 and revision id 822625559
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Decision_theory&amp;oldid=822625559">https://en.wikipedia.org/w/index.php?title=Decision_theory&amp;oldid=822625559</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Decision_theory" title="Category:Decision theory">Decision theory</a></li><li><a href="/wiki/Category:Statistical_inference" title="Category:Statistical inference">Statistical inference</a></li><li><a href="/wiki/Category:Economics_of_uncertainty" title="Category:Economics of uncertainty">Economics of uncertainty</a></li><li><a href="/wiki/Category:Risk" title="Category:Risk">Risk</a></li><li><a href="/wiki/Category:Control_theory" title="Category:Control theory">Control theory</a></li><li><a href="/wiki/Category:Formal_sciences" title="Category:Formal sciences">Formal sciences</a></li><li><a href="/wiki/Category:Epistemology_of_science" title="Category:Epistemology of science">Epistemology of science</a></li><li><a href="/wiki/Category:Mathematical_and_quantitative_methods_(economics)" title="Category:Mathematical and quantitative methods (economics)">Mathematical and quantitative methods (economics)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2017" title="Category:Articles with unsourced statements from July 2017">Articles with unsourced statements from July 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Decision+theory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Decision+theory" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Decision_theory" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Decision_theory" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Decision_theory">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Decision_theory&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Decision_theory&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Decision_theory" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Decision_theory" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Decision_theory&amp;oldid=822625559" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Decision_theory&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q177571" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Decision_theory&amp;id=822625559" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Decision+theory">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Decision+theory&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Decision_theory&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Decision_theory" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Decision_theory" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1" title="نظرية القرار – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Teoria_de_la_decisi%C3%B3" title="Teoria de la decisió – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Entscheidungstheorie" title="Entscheidungstheorie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Otsustusteooria" title="Otsustusteooria – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_decisi%C3%B3n" title="Teoría de la decisión – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_d%C3%A9cision" title="Théorie de la décision – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Teoiric_chinnteoireachta" title="Teoiric chinnteoireachta – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B2%B0%EC%A0%95%EC%9D%B4%EB%A1%A0" title="결정이론 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Decido-teorio" title="Decido-teorio – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Teori_keputusan" title="Teori keputusan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA" title="תורת ההחלטות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Besluitvormingstheorie" title="Besluitvormingstheorie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E7%90%86%E8%AB%96" title="決定理論 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Teoria_decyzji" title="Teoria decyzji – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Teoria_da_decis%C3%A3o" title="Teoria da decisão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D1%8F_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9" title="Теория принятия решений – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Decision_theory" title="Decision theory – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Te%C3%B3ria_rozhodovania" title="Teória rozhodovania – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%BE%D0%B4%D0%BB%D1%83%D0%BA%D0%B5" title="Теорија одлуке – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/T%C3%A9ori_kaputusan" title="Téori kaputusan – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4t%C3%B6steoria" title="Päätösteoria – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Beslutsteori" title="Beslutsteori – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Karar_teorisi" title="Karar teorisi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F_%D1%80%D1%96%D1%88%D0%B5%D0%BD%D1%8C" title="Теорія рішень – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_quy%E1%BA%BFt_%C4%91%E1%BB%8Bnh" title="Lý thuyết quyết định – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%86%B3%E7%AD%96%E8%AE%BA" title="决策论 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q177571#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 January 2018, at 14:49.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Decision_theory&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.728","walltime":"1.620","ppvisitednodes":{"value":2168,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":99397,"limit":2097152},"templateargumentsize":{"value":3669,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1389.004      1 -total"," 19.57%  271.868      1 Template:Reflist"," 19.52%  271.156     18 Template:Cite_book"," 13.66%  189.695      2 Template:Citation_needed"," 12.65%  175.658      2 Template:Fix"," 11.46%  159.204     15 Template:Cite_journal","  8.93%  123.986      1 Template:Authority_control","  7.98%  110.906      4 Template:Category_handler","  7.07%   98.204      1 Template:Details","  6.39%   88.723      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.413","limit":"10.000"},"limitreport-memusage":{"value":5069769,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20180213203539","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

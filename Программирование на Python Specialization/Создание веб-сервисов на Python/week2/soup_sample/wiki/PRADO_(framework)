@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>PRADO (framework) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"PRADO_(framework)","wgTitle":"PRADO (framework)","wgCurRevisionId":811873450,"wgRevisionId":811873450,"wgArticleId":35030323,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from March 2012","All articles lacking reliable references","Official website different in Wikidata and Wikipedia","Free software programmed in PHP","PHP frameworks","Software using the BSD license","Web frameworks"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"PRADO_(framework)","wgRelevantArticleId":35030323,"wgRequestId":"WogIsQpAMFkAAChrJfcAAACN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q151778","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/5/5a/Prado_Framework_logo_2013.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/PRADO_(framework)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=PRADO_(framework)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=PRADO_(framework)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/PRADO_(framework)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-PRADO_framework rootpage-PRADO_framework skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">PRADO (framework)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(March 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">PRADO</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Prado_Framework_logo_2013.png" class="image"><img alt="Prado Framework logo 2013.png" src="//upload.wikimedia.org/wikipedia/en/5/5a/Prado_Framework_logo_2013.png" width="153" height="55" data-file-width="153" data-file-height="55" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.pradoframework.net/">PRADO Group</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>September&#160;1,&#160;2004<span style="display:none">&#160;(<span class="bday dtstart published updated">2004-09-01</span>)</span></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">4.0.0<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> / November&#160;20,&#160;2017<span style="display:none">&#160;(<span class="bday dtstart published updated">2017-11-20</span>)</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external free" href="https://github.com/pradosoft/prado">https://github.com/pradosoft/prado</a></li>
+</ul>
+</div>
+<a href="https://www.wikidata.org/wiki/Q151778#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>Active</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/PHP" title="PHP">PHP</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Web_framework" title="Web framework">Web framework</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td>Modified BSD License<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.pradoframework.net">www<wbr />.pradoframework<wbr />.net</a></span></td>
+</tr>
+</table>
+<p><b>PRADO</b> is an <a href="/wiki/Open_source" class="mw-redirect" title="Open source">open source</a>, <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a>, <a href="/wiki/Event-driven_programming" title="Event-driven programming">event-driven</a>, <a href="/wiki/Component-based_software_engineering" title="Component-based software engineering">component-based</a> <a href="/wiki/PHP" title="PHP">PHP</a> <a href="/wiki/Web_framework" title="Web framework">web framework</a>. PRADO's name is an <a href="/wiki/Acronym" title="Acronym">acronym</a> derived from "PHP <a href="/wiki/Rapid_Application_Development" class="mw-redirect" title="Rapid Application Development">Rapid Application Development</a> <a href="/wiki/Object-oriented" class="mw-redirect" title="Object-oriented">Object-oriented</a>".<sup id="cite_ref-about-prado_3-0" class="reference"><a href="#cite_note-about-prado-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Features"><span class="tocnumber">2</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Documentation"><span class="tocnumber">3</span> <span class="toctext">Documentation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Licensing"><span class="tocnumber">4</span> <span class="toctext">Licensing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The PRADO project was started by Qiang Xue, and was inspired by <a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Apache Tapestry</a>.<sup id="cite_ref-about-prado_3-1" class="reference"><a href="#cite_note-about-prado-3">[3]</a></sup> The framework also borrowed ideas from <a href="/wiki/Borland_Delphi" class="mw-redirect" title="Borland Delphi">Borland Delphi</a> and Microsoft's <a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a> framework. The first public release of PRADO came out in June 2004, but was written using the very limited and now outdated PHP&#160;4 <a href="/wiki/Object_model" title="Object model">object model</a>, which caused many problems. Qiang then re-wrote the framework for the new PHP&#160;5 object model, and won the <a href="/wiki/Zend" title="Zend">Zend</a> PHP&#160;5 coding contest with it.</p>
+<p>PRADO is a <a href="/wiki/Rapid_application_development" title="Rapid application development">rapid application development</a> (RAD) framework, and in its infancy has been criticized to not be ready for high-performance, high-traffic scenarios. Implementations of <a href="/wiki/Web_template" class="mw-redirect" title="Web template">template</a> and configuration <a href="/wiki/Cache_(computing)" title="Cache (computing)">caching</a> in later PRADO revisions eliminated most performance <a href="https://en.wiktionary.org/wiki/bottleneck" class="extiw" title="wikt:bottleneck">bottlenecks</a> in its architecture, making it suited for the creation of medium- to high-traffic websites, while still providing a rapid way amongst <a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">PHP frameworks</a> for the development of interactive <a href="/wiki/Web_page" title="Web page">web pages</a> and <a href="/wiki/Web_application" title="Web application">applications</a>.</p>
+<p>In the late 2008, Qiang unveiled the <a href="/wiki/Yii" title="Yii">Yii framework</a>, a conceptual redesign of PRADO, targeted to high-performance, high-traffic scenarios. The following maintenance and updates to the PRADO project have been handled by community members of the project gathering on the project's <a href="/wiki/Google_Code" class="mw-redirect" title="Google Code">Google Code</a> page.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Since 2013, the project has moved to <a href="/wiki/GitHub" title="GitHub">GitHub</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=2" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PRADO features include the following:</p>
+<ul>
+<li>A clean and extensible, <a href="/wiki/Dynamic_programming" title="Dynamic programming">dynamic</a>, <a href="/wiki/XML" title="XML">XML</a>-conformant, tag-based templating system, similar to ASP.NET's, but designed for PHP's dynamic approach<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li>Clear <a href="/wiki/Separation_of_presentation_and_content" class="mw-redirect" title="Separation of presentation and content">separation of presentation and content</a>, input handling and <a href="/wiki/Business_logic" title="Business logic">business logic</a>, based on the <a href="/wiki/Model%E2%80%93view%E2%80%93controller" title="Model–view–controller">Model-View-Controller</a> approach<sup id="cite_ref-prado-whatis_8-0" class="reference"><a href="#cite_note-prado-whatis-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><a href="/wiki/Data_access_object" title="Data access object">Database Access Objects</a> (DAO), XML-based <a href="/wiki/Sqlmap" title="Sqlmap">sqlmap</a> data mapper, parameterized query builder, <a href="/wiki/Active_record_pattern" title="Active record pattern">Active Record</a> and automatic <a href="/wiki/Scaffold_(programming)" title="Scaffold (programming)">scaffolding</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>Interactive client-side presentation layer based on the <a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype JavaScript Framework</a> and <a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us effects library</a>. It can however also use external controls based on <a href="/wiki/JQuery" title="JQuery">jQuery</a> and other <a href="/wiki/JavaScript_framework" title="JavaScript framework">JavaScript frameworks</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li><a href="/wiki/Form_(web)" class="mw-redirect" title="Form (web)">Form</a> input and <a href="/wiki/Data_validation" title="Data validation">validation</a>, supporting validation both on client- (for faster user feedback) and server-side (aiming to ensure <a href="/wiki/Data_integrity" title="Data integrity">data integrity</a> and <a href="/wiki/Data_security" title="Data security">data security</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li><a href="/wiki/Ajax_(programming)" title="Ajax (programming)">Ajax</a>-enabled active widgets (such as auto-complete input field, active button, active data grid) which can be updated, shown or paged dynamically, without having to reload and re-build the whole page<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>Built-in <a href="/wiki/URL_mapping" class="mw-redirect" title="URL mapping">URL mapping</a> support for <a href="/wiki/Search_engine_optimization" title="Search engine optimization">search-engine-optimized</a> and <a href="/wiki/Semantic_URL" class="mw-redirect" title="Semantic URL">semantic URLs</a>, which works without needing <a href="/wiki/URL_rewriting" class="mw-redirect" title="URL rewriting">URL rewriting</a> support from the web server<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>Over 100 standard controls/widgets, including <a href="/wiki/Drag_and_drop" title="Drag and drop">drag and drop</a>, validation and data-bound controls<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>Customizable data grid, with support of automatic generation of columns based on automatically discovered <a href="/wiki/Database_schema" title="Database schema">database schema</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+<li>Built-in <a href="/wiki/Authentication" title="Authentication">authentication</a> and <a href="/wiki/Authorization" title="Authorization">authorization</a> support<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li><a href="/wiki/Skin_(computing)" title="Skin (computing)">Skinning</a> and <a href="/wiki/Theme_(computing)" title="Theme (computing)">theming</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li><a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">Internationalization and localization</a> (I18N and L10N) support, including message translation, date and time formatting, number formatting, and interface localization<sup id="cite_ref-prado-i18n_24-0" class="reference"><a href="#cite_note-prado-i18n-24">[24]</a></sup></li>
+<li>Full support of <a href="/wiki/Unicode" title="Unicode">Unicode</a> and non-English custom <a href="/wiki/Code_page" title="Code page">code pages</a>, including automatic <a href="/wiki/Transcoding" title="Transcoding">transcoding</a> between client- and server-side <a href="/wiki/Character_set" class="mw-redirect" title="Character set">character sets</a><sup id="cite_ref-prado-i18n_24-1" class="reference"><a href="#cite_note-prado-i18n-24">[24]</a></sup></li>
+<li>Layered <a href="/wiki/Cache_(computing)" title="Cache (computing)">caching</a> scheme, supporting separate caching of data queries and output fragments, via database, <a href="/wiki/Shared_memory_(interprocess_communication)" class="mw-redirect" title="Shared memory (interprocess communication)">shared memory</a>, <a href="/wiki/Memcached" title="Memcached">memcached</a>) for storing cached data, and dynamic cache entry validation upon retrieval<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li>Support for progressive <a href="/wiki/Web_browser_engine" title="Web browser engine">rendering</a> of pages, automatic script <a href="/wiki/Minification_(programming)" title="Minification (programming)">minification</a> and on-demand <a href="/wiki/Lazy_loading" title="Lazy loading">lazy loading</a> of <a href="/wiki/Client-side_script" class="mw-redirect" title="Client-side script">client-side script</a> and <a href="/wiki/Style_sheet_(web_development)" title="Style sheet (web development)">stylesheet</a> files for faster loading of pages<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+<li><a href="/wiki/Exception_handling" title="Exception handling">Error handling</a> and <a href="/wiki/Data_logger" title="Data logger">logging</a>, with errors handled and presented, and log messages optionally categorized, filtered and routed to different destinations<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li>Built-in security measures, which include <a href="/wiki/Cross-site_scripting" title="Cross-site scripting">cross-site scripting</a> (XSS) prevention, <a href="/wiki/HTTP_cookie" title="HTTP cookie">HTTP cookie</a> tampering prevention and <a href="/wiki/SQL_injection" title="SQL injection">SQL injection</a> prevention<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></li>
+<li><a href="/wiki/Unit_testing" title="Unit testing">Unit testing</a> and <a href="/wiki/Functional_testing" title="Functional testing">functional testing</a> based on <a href="/wiki/PHPUnit" title="PHPUnit">PHPUnit</a>, <a rel="nofollow" class="external text" href="http://sourceforge.net/projects/simpletest/">SimpleTest</a> and <a href="/wiki/Selenium_(software)" title="Selenium (software)">Selenium</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></li>
+<li>Automatic <a href="/wiki/Skeleton_(computer_programming)" title="Skeleton (computer programming)">skeleton</a> application generation from the PRADO <a href="/wiki/Command-line_tool" class="mw-redirect" title="Command-line tool">command-line tool</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></li>
+<li>Supports both XML-based and native PHP-coded configuration of application and <a href="/wiki/Run-time_environment" class="mw-redirect" title="Run-time environment">run-time environments</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></li>
+<li>Code generated by PRADO components adheres to the <a href="/wiki/XHTML" title="XHTML">XHTML standard</a><sup id="cite_ref-prado-whatis_8-1" class="reference"><a href="#cite_note-prado-whatis-8">[8]</a></sup></li>
+<li>Supports for creation and consummation of <a href="/wiki/SOAP" title="SOAP">SOAP</a>- or <a href="/wiki/JSON" title="JSON">JSON</a>-based <a href="/wiki/Web_service" title="Web service">web services</a><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></li>
+<li>Interoperability with third-party code, including <a href="/wiki/PEAR" title="PEAR">PEAR</a> and <a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Documentation">Documentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=3" title="Edit section: Documentation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PRADO comes with a collection of official documentation, including a tutorial to develop a simple <a href="/wiki/Blog" title="Blog">blog</a> application, a reference guide describing all features, and a class reference for all <a href="/wiki/Property_(programming)" title="Property (programming)">properties</a>, <a href="/wiki/Method_(computer_programming)" title="Method (computer programming)">methods</a> and <a href="/wiki/Event_(computing)" title="Event (computing)">events</a>. The documentation is available in both <a href="/wiki/HTML" title="HTML">HTML</a> and <a href="/wiki/Microsoft_Compiled_HTML_Help" title="Microsoft Compiled HTML Help">Compiled HTML Help</a> (.CHM) form.</p>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=4" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PRADO is released under a <a href="/wiki/BSD_licenses" title="BSD licenses">Modified BSD License</a>, which enables free use of PRADO for developing both <a href="/wiki/Open-source" class="mw-redirect" title="Open-source">open-source</a> and <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a> web applications, without requiring distribution of the <a href="/wiki/Source_code" title="Source code">source code</a> of <a href="/wiki/Derived_work" class="mw-redirect" title="Derived work">derived works</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:8bit-dynamiclist_(reversed).gif" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/8bit-dynamiclist_%28reversed%29.gif/28px-8bit-dynamiclist_%28reversed%29.gif" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/c/cc/8bit-dynamiclist_%28reversed%29.gif 1.5x" data-file-width="32" data-file-height="32" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Computer_programming" title="Portal:Computer programming">Computer programming portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">Comparison of web frameworks</a></li>
+<li><a href="/wiki/Comparison_of_web_template_engines" title="Comparison of web template engines">Comparison of web template engines</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/pradosoft/prado/releases/tag/4.0.0">"pradosoft/prado: Release 4.0.0"</a>. <i>github.com</i>. 2017-11-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=github.com&amp;rft.atitle=pradosoft%2Fprado%3A+Release+4.0.0&amp;rft.date=2017-11-20&amp;rft_id=https%3A%2F%2Fgithub.com%2Fpradosoft%2Fprado%2Freleases%2Ftag%2F4.0.0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.pradoframework.net/license/">http://www.pradoframework.net/license/</a></span></li>
+<li id="cite_note-about-prado-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-about-prado_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-about-prado_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/about/">"About PRADO"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+PRADO&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fabout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://code.google.com/p/prado3/">"prado3 - PRADO PHP Framework - Google Project Hosting"</a>. <i>google.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=google.com&amp;rft.atitle=prado3+-+PRADO+PHP+Framework+-+Google+Project+Hosting&amp;rft_id=https%3A%2F%2Fcode.google.com%2Fp%2Fprado3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/pradosoft/prado">"pradosoft/prado"</a>. <i>GitHub</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=pradosoft%2Fprado&amp;rft_id=https%3A%2F%2Fgithub.com%2Fpradosoft%2Fprado&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Configurations.Templates1">"PRADO Documentation: Templates, Part I"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Templates%2C+Part+I&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DConfigurations.Templates1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.MasterContent">"PRADO Documentation: Master and Content"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Master+and+Content&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.MasterContent&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-prado-whatis-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-prado-whatis_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prado-whatis_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=GettingStarted.AboutPrado">"PRADO Documentation: What is PRADO?"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+What+is+PRADO%3F&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DGettingStarted.AboutPrado&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Fundamentals.Architecture">"PRADO Documentation: Architecture"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Architecture&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DFundamentals.Architecture&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Database.DAO">"PRADO Documentation: Data Access Objects (DAO)"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Data+Access+Objects+%28DAO%29&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DDatabase.DAO&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Database.SqlMap">"PRADO Documentation: Data Mapper"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Data+Mapper&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DDatabase.SqlMap&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Database.ActiveRecord">"PRADO Documentation: Active Record"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Active+Record&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DDatabase.ActiveRecord&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Database.Scaffold">"PRADO Documentation: Active Record Scaffold Views"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Active+Record+Scaffold+Views&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DDatabase.Scaffold&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Scripts3">"PRADO Documentation: Javascript in PRADO, Questions and Answers"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Javascript+in+PRADO%2C+Questions+and+Answers&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Scripts3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Controls.Validation">"PRADO Documentation: Validation Controls"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Validation+Controls&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DControls.Validation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=ActiveControls.Home">"PRADO Documentation: Active Controls (AJAX enabled Controls)"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Active+Controls+%28AJAX+enabled+Controls%29&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DActiveControls.Home&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Configurations.UrlMapping">"PRADO Documentation: URL Mapping (Friendly URLs)"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+URL+Mapping+%28Friendly+URLs%29&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DConfigurations.UrlMapping&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Controls.Standard">"PRADO Documentation: Standard Controls"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Standard+Controls&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DControls.Standard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Controls.List">"PRADO Documentation: List Controls"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+List+Controls&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DControls.List&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Controls.Data">"PRADO Documentation: Data Controls"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Data+Controls&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DControls.Data&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Controls.DataGrid">"PRADO Documentation: TDataGrid"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+TDataGrid&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DControls.DataGrid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Auth">"PRADO Documentation: Authentication and Authorization"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Authentication+and+Authorization&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Auth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Themes">"PRADO Documentation: Themes and Skins"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Themes+and+Skins&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Themes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-prado-i18n-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-prado-i18n_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prado-i18n_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.I18N">"PRADO Documentation: Internationalization (I18N) and Localization (L10N)"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Internationalization+%28I18N%29+and+Localization+%28L10N%29&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.I18N&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Performance">"PRADO Documentation: Performance Tuning"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Performance+Tuning&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Performance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=GettingStarted.NewFeatures">"PRADO Documentation: New Features"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+New+Features&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DGettingStarted.NewFeatures&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Controls.ClientScript">"PRADO Documentation: TClientScript"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+TClientScript&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DControls.ClientScript&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Error">"PRADO Documentation: Error Handling and Reporting"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Error+Handling+and+Reporting&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Error&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Logging">"PRADO Documentation: Logging"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Logging&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Logging&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Advanced.Security">"PRADO Documentation: Security"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Security&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DAdvanced.Security&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/pradosoft/prado/tree/master/tests">"PRADO GitHub: prado/tests at master - pradosoft/prado"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+GitHub%3A+prado%2Ftests+at+master+-+pradosoft%2Fprado&amp;rft_id=https%3A%2F%2Fgithub.com%2Fpradosoft%2Fprado%2Ftree%2Fmaster%2Ftests&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/pradosoft/prado/tree/master/tests/test_tools">"PRADO GitHub: prado/tests/test_tools at master - pradosoft/prado"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+GitHub%3A+prado%2Ftests%2Ftest_tools+at+master+-+pradosoft%2Fprado&amp;rft_id=https%3A%2F%2Fgithub.com%2Fpradosoft%2Fprado%2Ftree%2Fmaster%2Ftests%2Ftest_tools&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=GettingStarted.CommandLine">"PRADO Documentation: Command Line Tool"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Command+Line+Tool&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DGettingStarted.CommandLine&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=Configurations.AppConfig">"PRADO Documentation: Application Configurations"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+Application+Configurations&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2F%3Fpage%3DConfigurations.AppConfig&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/index.php?page=Services.SoapService">"PRADO Documentation: SOAP Service"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+SOAP+Service&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2Findex.php%3Fpage%3DServices.SoapService&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/index.php?page=Services.RpcService">"PRADO Documentation: RPC Service"</a>. <i>pradoframework.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradoframework.net&amp;rft.atitle=PRADO+Documentation%3A+RPC+Service&amp;rft_id=http%3A%2F%2Fwww.pradoframework.net%2Fdemos%2Fquickstart%2Findex.php%3Fpage%3DServices.RpcService&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradosoft.com/wiki/index.php/Frequently_asked_questions#How_can_I_use_PEAR_libraries_with_PRADO.3F">"PRADO Wiki: How can I use PEAR libraries with PRADO?"</a>. <i>pradosoft.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradosoft.com&amp;rft.atitle=PRADO+Wiki%3A+How+can+I+use+PEAR+libraries+with+PRADO%3F&amp;rft_id=http%3A%2F%2Fwww.pradosoft.com%2Fwiki%2Findex.php%2FFrequently_asked_questions%23How_can_I_use_PEAR_libraries_with_PRADO.3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pradosoft.com/forum/index.php?topic=11220.0">"PRADO Forum: HOWTO - PRADO and Zend Framework"</a>. <i>pradosoft.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pradosoft.com&amp;rft.atitle=PRADO+Forum%3A+HOWTO+-+PRADO+and+Zend+Framework&amp;rft_id=http%3A%2F%2Fwww.pradosoft.com%2Fforum%2Findex.php%3Ftopic%3D11220.0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APRADO+%28framework%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/">Official website</a></span></span>, <span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/documentation/">documentation</a></span></span>, and <span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.pradoframework.net/demos/quickstart/?page=GettingStarted.NewFeatures">version list</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/pradosoft/prado">Source code</a> on <a href="/wiki/GitHub" title="GitHub">GitHub</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="PHP" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:PHP" title="Template:PHP"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:PHP" title="Template talk:PHP"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PHP&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="PHP" style="font-size:114%;margin:0 4em"><a href="/wiki/PHP" title="PHP">PHP</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andi_Gutmans" title="Andi Gutmans">Andi Gutmans</a></li>
+<li><a href="/wiki/Rasmus_Lerdorf" title="Rasmus Lerdorf">Rasmus Lerdorf</a></li>
+<li><a href="/wiki/Zeev_Suraski" title="Zeev Suraski">Zeev Suraski</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:PHP-logo.svg" class="image"><img alt="PHP-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/64px-PHP-logo.svg.png" width="64" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/96px-PHP-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/128px-PHP-logo.svg.png 2x" data-file-width="711" data-file-height="384" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Resources</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PHP_accelerator" title="PHP accelerator">Accelerator</a> (<a href="/wiki/List_of_PHP_accelerators" title="List of PHP accelerators">List</a>)</li>
+<li><a href="/wiki/Composer_(software)" title="Composer (software)">Composer</a></li>
+<li><a href="/wiki/List_of_PHP_editors" title="List of PHP editors">Editors</a></li>
+<li><a href="/wiki/List_of_PHP_extensions" title="List of PHP extensions">Libraries</a></li>
+<li><a href="/wiki/PEAR" title="PEAR">PEAR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implementations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HHVM" title="HHVM">HHVM</a></li>
+<li><a href="/wiki/HPHPc" class="mw-redirect" title="HPHPc">HPHPc</a></li>
+<li><a href="/wiki/Parrot_VM" class="mw-redirect" title="Parrot VM">Parrot</a></li>
+<li><a href="/wiki/Phalanger_(compiler)" title="Phalanger (compiler)">Phalanger</a></li>
+<li><a href="/wiki/Quercus_(software)" class="mw-redirect" title="Quercus (software)">Quercus</a></li>
+<li><a href="/wiki/Zend_Engine" title="Zend Engine">Zend Engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_framework" title="Web framework">Web frameworks</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CakePHP" title="CakePHP">CakePHP</a></li>
+<li><a href="/wiki/CodeIgniter" title="CodeIgniter">CodeIgniter</a></li>
+<li><a href="/wiki/Drupal" title="Drupal">Drupal</a></li>
+<li><a href="/wiki/EZ_Publish" title="EZ Publish">eZ Publish</a></li>
+<li><a href="/wiki/Fat-Free_Framework" title="Fat-Free Framework">Fat-Free</a></li>
+<li><a href="/wiki/FuelPHP" title="FuelPHP">FuelPHP</a></li>
+<li><a href="/wiki/Horde_(software)" title="Horde (software)">Horde</a></li>
+<li><a href="/wiki/Joomla" title="Joomla">Joomla!</a></li>
+<li><a href="/wiki/Laravel" title="Laravel">Laravel</a></li>
+<li><a href="/wiki/Lithium_(software)" class="mw-redirect" title="Lithium (software)">Lithium</a></li>
+<li><a href="/wiki/Midgard_(software)" title="Midgard (software)">Midgard</a></li>
+<li><a href="/wiki/MODx" class="mw-redirect" title="MODx">MODx</a></li>
+<li><a href="/wiki/Nette_Framework" title="Nette Framework">Nette Framework</a></li>
+<li><a href="/wiki/Phalcon_(framework)" title="Phalcon (framework)">Phalcon</a></li>
+<li><a href="/wiki/Pop_PHP_Framework" title="Pop PHP Framework">Pop PHP</a></li>
+<li><a class="mw-selflink selflink">PRADO</a></li>
+<li><a href="/wiki/Qcodo" title="Qcodo">Qcodo</a></li>
+<li><a href="/wiki/Silex_(web_framework)" title="Silex (web framework)">Silex</a></li>
+<li><a href="/wiki/SilverStripe" title="SilverStripe">SilverStripe</a></li>
+<li><a href="/wiki/Symfony" title="Symfony">Symfony</a></li>
+<li><a href="/wiki/TYPO3" title="TYPO3">TYPO3</a></li>
+<li><a href="/wiki/WordPress" title="WordPress">WordPress</a></li>
+<li><a href="/wiki/Xaraya" title="Xaraya">Xaraya</a></li>
+<li><a href="/wiki/XOOPS" title="XOOPS">XOOPS</a></li>
+<li><a href="/wiki/Yii" title="Yii">Yii</a></li>
+<li><a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a></li>
+<li><a href="/wiki/Zeta_Components" class="mw-redirect" title="Zeta Components">Zeta Components</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_testing" title="Software testing">Testing</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Behat_(computer_science)" title="Behat (computer science)">Behat</a></li>
+<li><a href="/wiki/PHPUnit" title="PHPUnit">PHPUnit</a></li>
+<li><a href="/wiki/PHP_Unit_Testing_Framework" title="PHP Unit Testing Framework">PHP Unit Testing Framework</a></li>
+<li><a href="/wiki/Lime_(software)" title="Lime (software)">Lime</a> (<a href="/wiki/Symfony" title="Symfony">Symfony</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Object-Relational_Mapping" class="mw-redirect" title="Object-Relational Mapping">ORMs</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Doctrine_(PHP)" title="Doctrine (PHP)">Doctrine</a></li>
+<li><a href="/wiki/Propel_(PHP)" title="Propel (PHP)">Propel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Comparison_of_integrated_development_environments#PHP" title="Comparison of integrated development environments">IDEs</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aptana" title="Aptana">Aptana</a></li>
+<li><a href="/wiki/Codelobster" title="Codelobster">Codelobster</a></li>
+<li><a href="/wiki/Eclipse_(software)#Eclipse_PDT_(PHP_Development_Tools)" title="Eclipse (software)">Eclipse PDT</a></li>
+<li><a href="/wiki/NetBeans" title="NetBeans">NetBeans</a></li>
+<li><a href="/wiki/PHPEdit" title="PHPEdit">PHPEdit</a></li>
+<li><a href="/wiki/PhpStorm" title="PhpStorm">PhpStorm</a></li>
+<li><a href="/wiki/RadPHP" title="RadPHP">RadPHP</a></li>
+<li><a href="/wiki/Zend_Studio" title="Zend Studio">Zend Studio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Widget_toolkit" title="Widget toolkit">Widget toolkit</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PHP-GTK" title="PHP-GTK">PHP-GTK</a></li>
+<li><a href="/wiki/PHP-Qt" title="PHP-Qt">PHP-Qt</a></li>
+<li><a href="/wiki/WxPHP" title="WxPHP">wxPHP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:PHP" title="Category:PHP">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:PHP" class="extiw" title="commons:Category:PHP">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_frameworks" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_frameworks" title="Template:Web frameworks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_frameworks" title="Template talk:Web frameworks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_frameworks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_frameworks" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_framework" title="Web framework">Web frameworks</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">Comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/C%2B%2B" title="C++">C++</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CppCMS" title="CppCMS">CppCMS</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a>
+<ul>
+<li><a href="/wiki/ASP.NET_Core" title="ASP.NET Core">Core</a></li>
+<li><a href="/wiki/ASP.NET_AJAX" title="ASP.NET AJAX">AJAX</a></li>
+<li><a href="/wiki/ASP.NET_Dynamic_Data" title="ASP.NET Dynamic Data">Dynamic Data</a></li>
+<li><a href="/wiki/ASP.NET_MVC" title="ASP.NET MVC">MVC</a></li>
+<li><a href="/wiki/ASP.NET_Razor" title="ASP.NET Razor">Razor</a></li>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">Web Forms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DotNetNuke" title="DotNetNuke">DNN</a></li>
+<li><a href="/wiki/Base_One_Foundation_Component_Library" title="Base One Foundation Component Library">BFC</a></li>
+<li><a href="/wiki/MonoRail_(software)" title="MonoRail (software)">MonoRail</a></li>
+<li><a href="/wiki/OpenRasta" title="OpenRasta">OpenRasta</a></li>
+<li><a href="/wiki/Umbraco" title="Umbraco">Umbraco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Adobe_ColdFusion" title="Adobe ColdFusion">ColdFusion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ColdFusion_on_Wheels" title="ColdFusion on Wheels">CFWheels</a></li>
+<li><a href="/wiki/ColdBox_Platform" title="ColdBox Platform">ColdBox Platform</a></li>
+<li><a href="/wiki/ColdSpring_Framework" title="ColdSpring Framework">ColdSpring</a></li>
+<li><a href="/wiki/Fusebox_(programming)" title="Fusebox (programming)">Fusebox</a></li>
+<li><a href="/wiki/Mach-II" title="Mach-II">Mach-II</a></li>
+<li><a href="/wiki/Model-Glue" title="Model-Glue">Model-Glue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caveman2" title="Caveman2">Caveman2</a></li>
+<li><a href="/wiki/CL-HTTP" title="CL-HTTP">CL-HTTP</a></li>
+<li><a href="/wiki/UnCommon_Web" title="UnCommon Web">UnCommon Web</a></li>
+<li><a href="/wiki/Weblocks" title="Weblocks">Weblocks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Happstack" title="Happstack">Happstack</a></li>
+<li><a href="/wiki/Yesod_(web_framework)" title="Yesod (web framework)">Yesod</a></li>
+<li><a href="/wiki/Snap_(web_framework)" title="Snap (web framework)">Snap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppFuse" title="AppFuse">AppFuse</a></li>
+<li><a href="/wiki/Flexive" title="Flexive">Flexive</a></li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a></li>
+<li><a href="/wiki/ICEfaces" title="ICEfaces">ICEfaces</a></li>
+<li><a href="/wiki/ItsNat" title="ItsNat">ItsNat</a></li>
+<li><a href="/wiki/JavaServer_Faces" title="JavaServer Faces">JavaServer Faces</a></li>
+<li><a href="/wiki/JHipster" title="JHipster">JHipster</a></li>
+<li><a href="/wiki/Jspx-bay" title="Jspx-bay">Jspx</a></li>
+<li><a href="/wiki/JWt_(Java_web_toolkit)" title="JWt (Java web toolkit)">JWt</a></li>
+<li><a href="/wiki/OpenXava" title="OpenXava">OpenXava</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Reasonable_Server_Faces" title="Reasonable Server Faces">Reasonable Server Faces</a></li>
+<li><a href="/wiki/Remote_Application_Platform" title="Remote Application Platform">Remote Application Platform</a></li>
+<li><a href="/wiki/RIFE" title="RIFE">RIFE</a></li>
+<li><a href="/wiki/JBoss_Seam" title="JBoss Seam">Seam</a></li>
+<li><a href="/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="/wiki/Spring_Framework#Model-view-controller_framework" title="Spring Framework">Spring</a></li>
+<li><a href="/wiki/Stripes_(framework)" title="Stripes (framework)">Stripes</a></li>
+<li><a href="/wiki/Apache_Struts" class="mw-redirect" title="Apache Struts">Struts</a></li>
+<li><a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="/wiki/Vaadin" title="Vaadin">Vaadin</a></li>
+<li><a href="/wiki/Vert.x" title="Vert.x">Vert.x</a></li>
+<li><a href="/wiki/WebWork" title="WebWork">WebWork</a></li>
+<li><a href="/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+<li><a href="/wiki/ZK_(framework)" title="ZK (framework)">ZK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Angular_(application_platform)" title="Angular (application platform)">Angular</a>/<a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo Toolkit</a></li>
+<li><a href="/wiki/Ember.js" title="Ember.js">Ember.js</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/OpenUI5" title="OpenUI5">OpenUI5</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/React_(JavaScript_library)" title="React (JavaScript library)">React</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/Sencha_Touch" title="Sencha Touch">Sencha Touch</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/Wakanda_(software)" title="Wakanda (software)">Wakanda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Perl" title="Perl">Perl</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" class="mw-redirect" title="Maypole framework">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/WebGUI" title="WebGUI">WebGUI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/PHP" title="PHP">PHP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CakePHP" title="CakePHP">CakePHP</a></li>
+<li><a href="/wiki/CodeIgniter" title="CodeIgniter">CodeIgniter</a></li>
+<li><a href="/wiki/Drupal" title="Drupal">Drupal</a></li>
+<li><a href="/wiki/Fat-Free_Framework" title="Fat-Free Framework">Fat-Free</a></li>
+<li><a href="/wiki/FuelPHP" title="FuelPHP">FuelPHP</a></li>
+<li><a href="/wiki/TYPO3_Flow" title="TYPO3 Flow">Flow</a></li>
+<li><a href="/wiki/Gyroscope_(software)" title="Gyroscope (software)">Gyroscope</a></li>
+<li><a href="/wiki/Horde_(software)" title="Horde (software)">Horde</a></li>
+<li><a href="/wiki/Kohana_(framework)" title="Kohana (framework)">Kohana</a></li>
+<li><a href="/wiki/Laravel" title="Laravel">Laravel</a></li>
+<li><a href="/wiki/Lithium_(software)" class="mw-redirect" title="Lithium (software)">Lithium</a></li>
+<li><a href="/wiki/Midgard_(software)" title="Midgard (software)">Midgard</a></li>
+<li><a href="/wiki/MODX" title="MODX">MODX</a></li>
+<li><a href="/wiki/Nette_Framework" title="Nette Framework">Nette</a></li>
+<li><a href="/wiki/Phalcon_(framework)" title="Phalcon (framework)">Phalcon</a></li>
+<li><a href="/wiki/Pop_PHP_Framework" title="Pop PHP Framework">Pop PHP</a></li>
+<li><a class="mw-selflink selflink">PRADO</a></li>
+<li><a href="/wiki/ProcessWire" title="ProcessWire">ProcessWire</a></li>
+<li><a href="/wiki/Qcodo" title="Qcodo">Qcodo</a></li>
+<li><a href="/wiki/Silex_(web_framework)" title="Silex (web framework)">Silex</a></li>
+<li><a href="/wiki/SilverStripe" title="SilverStripe">SilverStripe</a></li>
+<li><a href="/wiki/Symfony" title="Symfony">Symfony</a></li>
+<li><a href="/wiki/TYPO3" title="TYPO3">TYPO3</a></li>
+<li><a href="/wiki/Xaraya" title="Xaraya">Xaraya</a></li>
+<li><a href="/wiki/XOOPS" title="XOOPS">XOOPS</a></li>
+<li><a href="/wiki/Yii" title="Yii">Yii</a></li>
+<li><a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope#BlueBream" title="Zope">BlueBream</a></li>
+<li><a href="/wiki/CherryPy" title="CherryPy">CherryPy</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Flask_(web_framework)" title="Flask (web framework)">Flask</a></li>
+<li><a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a></li>
+<li><a href="/wiki/Nevow" title="Nevow">Nevow</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Pylons_project#Pylons_Framework" title="Pylons project">Pylons</a></li>
+<li><a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid</a></li>
+<li><a href="/wiki/Quixote_(web_framework)" title="Quixote (web framework)">Quixote</a></li>
+<li><a href="/wiki/TACTIC_(web_framework)" title="TACTIC (web framework)">TACTIC</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/TurboGears" title="TurboGears">TurboGears</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Webware_for_Python" title="Webware for Python">Webware</a></li>
+<li><a href="/wiki/Zope#Zope_2" title="Zope">Zope 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Camping_(microframework)" title="Camping (microframework)">Camping</a></li>
+<li><a href="/wiki/Merb" title="Merb">Merb</a></li>
+<li><a href="/wiki/Padrino_(web_framework)" title="Padrino (web framework)">Padrino</a></li>
+<li><a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Ruby on Rails</a></li>
+<li><a href="/wiki/Sinatra_(software)" title="Sinatra (software)">Sinatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lift_(web_framework)" title="Lift (web framework)">Lift</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Scalatra" title="Scalatra">Scalatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDA/Web" title="AIDA/Web">AIDA/Web</a></li>
+<li><a href="/wiki/Seaside_(software)" title="Seaside (software)">Seaside</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other languages</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vibe.d" title="Vibe.d">Vibe.d</a> (<a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>)</li>
+<li><a href="/wiki/Oracle_Application_Express" title="Oracle Application Express">Application Express</a> (<a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a>)</li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a> (<a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a>)</li>
+<li><a href="/wiki/Kepler_(software)" title="Kepler (software)">Kepler</a> (<a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>)</li>
+<li><a href="/wiki/Rocket" title="Rocket">Rocket</a> (<a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>)</li>
+<li><a href="/wiki/OpenACS" class="mw-redirect" title="OpenACS">OpenACS</a> (<a href="/wiki/Tcl" title="Tcl">Tcl</a>)</li>
+<li><a href="/w/index.php?title=Phoenix_(web_framework)&amp;action=edit&amp;redlink=1" class="new" title="Phoenix (web framework) (page does not exist)">Phoenix</a> (<a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a>)</li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a> (<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>-<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>)</li>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a> (<a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20180217073944
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.456 seconds
+Real time usage: 0.552 seconds
+Preprocessor visited node count: 2287/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 108515/2097152 bytes
+Template argument size: 1705/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 3/500
+Lua time usage: 0.221/10.000 seconds
+Lua memory usage: 6.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  453.094      1 -total
+ 41.92%  189.952      1 Template:Reflist
+ 33.42%  151.441     37 Template:Cite_web
+ 27.99%  126.816      2 Template:Infobox
+ 26.51%  120.137      1 Template:Infobox_Software
+ 13.13%   59.484      1 Template:Primary_sources
+  7.87%   35.654      1 Template:Ambox
+  5.44%   24.635      1 Template:Infobox_software/simple
+  4.67%   21.160      1 Template:Plainlist
+  4.56%   20.639      2 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:35030323-0!canonical and timestamp 20180217073944 and revision id 811873450
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PRADO_(framework)&amp;oldid=811873450">https://en.wikipedia.org/w/index.php?title=PRADO_(framework)&amp;oldid=811873450</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_software_programmed_in_PHP" title="Category:Free software programmed in PHP">Free software programmed in PHP</a></li><li><a href="/wiki/Category:PHP_frameworks" title="Category:PHP frameworks">PHP frameworks</a></li><li><a href="/wiki/Category:Software_using_the_BSD_license" title="Category:Software using the BSD license">Software using the BSD license</a></li><li><a href="/wiki/Category:Web_frameworks" title="Category:Web frameworks">Web frameworks</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_March_2012" title="Category:Articles lacking reliable references from March 2012">Articles lacking reliable references from March 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=PRADO+%28framework%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=PRADO+%28framework%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/PRADO_(framework)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:PRADO_(framework)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/PRADO_(framework)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=PRADO_(framework)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=PRADO_(framework)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/PRADO_(framework)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/PRADO_(framework)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=PRADO_(framework)&amp;oldid=811873450" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=PRADO_(framework)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q151778" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=PRADO_%28framework%29&amp;id=811873450" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=PRADO+%28framework%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=PRADO+%28framework%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=PRADO_(framework)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/PRADO-Framework" title="PRADO-Framework – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/PRADO_(framework)" title="PRADO (framework) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/PRADO_(%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF)" title="PRADO (フレームワーク) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/PRADO" title="PRADO – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q151778#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 November 2017, at 15:58.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=PRADO_(framework)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.552","ppvisitednodes":{"value":2287,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":108515,"limit":2097152},"templateargumentsize":{"value":1705,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  453.094      1 -total"," 41.92%  189.952      1 Template:Reflist"," 33.42%  151.441     37 Template:Cite_web"," 27.99%  126.816      2 Template:Infobox"," 26.51%  120.137      1 Template:Infobox_Software"," 13.13%   59.484      1 Template:Primary_sources","  7.87%   35.654      1 Template:Ambox","  5.44%   24.635      1 Template:Infobox_software/simple","  4.67%   21.160      1 Template:Plainlist","  4.56%   20.639      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":6871495,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20180217073944","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1254"});});</script>
+	</body>
+</html>

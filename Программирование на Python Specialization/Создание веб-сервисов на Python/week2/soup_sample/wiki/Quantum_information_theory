@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quantum information - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Quantum_information","wgTitle":"Quantum information","wgCurRevisionId":822531710,"wgRevisionId":822531710,"wgArticleId":25274,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2016","Articles lacking in-text citations from November 2011","All articles lacking in-text citations","Quantum information theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Quantum_information","wgRelevantArticleId":25274,"wgRequestId":"WoR0FwpAMEwAABdg4F4AAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Quantum_information_theory","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Quantum_information#Quantum_information_theory","wgWikibaseItemId":"Q2122243","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Quantum_information#Quantum_information_theory"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Quantum_information&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Quantum_information&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Quantum_information#Quantum_information_theory"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Quantum_information rootpage-Quantum_information skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Quantum information</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Quantum_information_theory&amp;redirect=no" class="mw-redirect" title="Quantum information theory">Quantum information theory</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a>, <b>quantum information</b> is information that is held in the <a href="/wiki/Quantum_state" title="Quantum state">state</a> of a <a href="/wiki/Quantum_system" title="Quantum system">quantum system</a>. Quantum information is the basic entity of study in <b>quantum information theory</b>, and can be manipulated using engineering techniques known as <a href="/wiki/Quantum_information_processing" class="mw-redirect" title="Quantum information processing">quantum information processing</a>. Much like classical information can be processed with <a href="/wiki/Digital_computer" class="mw-redirect" title="Digital computer">digital computers</a>, <a href="/wiki/Communications_channel" class="mw-redirect" title="Communications channel">transmitted</a> from place to place, manipulated with <a href="/wiki/Algorithm" title="Algorithm">algorithms</a>, and analyzed with the <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> of computer science, so also analogous concepts apply to quantum information.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Quantum_information"><span class="tocnumber">1</span> <span class="toctext">Quantum information</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Quantum_information_theory"><span class="tocnumber">2</span> <span class="toctext">Quantum information theory</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Journals"><span class="tocnumber">3</span> <span class="toctext">Journals</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links_and_references"><span class="tocnumber">6</span> <span class="toctext">External links and references</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Quantum_information">Quantum information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_information&amp;action=edit&amp;section=1" title="Edit section: Quantum information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Quantum information differs strongly from classical information, epitomized by the <a href="/wiki/Bit" title="Bit">bit</a>, in many striking and unfamiliar ways. Among these are the following:</p>
+<ul>
+<li>A unit of quantum information is the <a href="/wiki/Qubit" title="Qubit">qubit</a>. Unlike classical digital states (which are discrete), a qubit is continuous-valued, describable by a direction on the <a href="/wiki/Bloch_sphere" title="Bloch sphere">Bloch sphere</a>. Despite being continuously valued in this way, a qubit is the <i>smallest</i> possible unit of quantum information. The reason for this indivisibility is due to the <a href="/wiki/Heisenberg_uncertainty_principle" class="mw-redirect" title="Heisenberg uncertainty principle">Heisenberg uncertainty principle</a>: despite the qubit state being continuously-valued, it is <a href="/wiki/EPR_paradox" title="EPR paradox">impossible</a> to <a href="/wiki/Quantum_measurement" class="mw-redirect" title="Quantum measurement">measure</a> the value precisely.</li>
+<li>A qubit cannot be (wholly) converted into classical bits; that is, it cannot be "read". This is the <a href="/wiki/No-teleportation_theorem" title="No-teleportation theorem">no-teleportation theorem</a>.</li>
+<li>Despite the awkwardly-named no-teleportation theorem, qubits can be moved from one physical particle to another, by means of <a href="/wiki/Quantum_teleportation" title="Quantum teleportation">quantum teleportation</a>. That is, qubits can be transported, independently of the underlying physical particle.</li>
+<li>An arbitrary qubit can neither be copied, nor destroyed. This is the content of the <a href="/wiki/No_cloning_theorem" class="mw-redirect" title="No cloning theorem">no cloning theorem</a> and the <a href="/wiki/No-deleting_theorem" class="mw-redirect" title="No-deleting theorem">no-deleting theorem</a>.</li>
+<li>Although a single qubit can be transported from place to place (<i>e.g.</i> via quantum teleportation), it cannot be delivered to multiple recipients; this is the <a href="/wiki/No-broadcast_theorem" title="No-broadcast theorem">no-broadcast theorem</a>, and is essentially implied by the no-cloning theorem.</li>
+<li>Qubits can be changed, by applying <a href="/wiki/Linear_transformation" class="mw-redirect" title="Linear transformation">linear transformations</a> or <a href="/wiki/Quantum_gate" title="Quantum gate">quantum gates</a> to them, to alter their state.</li>
+<li>Classical bits may be combined with and extracted from configurations of multiple qubits, through the use of quantum gates. That is, two or more qubits can be arranged in such a way as to convey classical bits. The simplest such configuration is the <a href="/wiki/Bell_state" title="Bell state">Bell state</a>, which consists of two qubits and four classical bits (<i>i.e.</i> requires two qubits and four classical bits to fully describe).</li>
+<li>Quantum information can be moved about, in a <a href="/wiki/Quantum_channel" title="Quantum channel">quantum channel</a>, analogous to the concept of a classical <a href="/wiki/Communications_channel" class="mw-redirect" title="Communications channel">communications channel</a>. Quantum messages have a finite size, measured in qubits; quantum channels have a finite <a href="/wiki/Channel_capacity" title="Channel capacity">channel capacity</a>, measured in qubits per second.</li>
+<li>Multiple qubits can be used to carry classical bits. Although <i>n</i> qubits can carry more than <i>n</i> classical bits of information, the greatest amount of classical information that can be retrieved is <i>n</i>. This is <a href="/wiki/Holevo%27s_theorem" title="Holevo's theorem">Holevo's theorem</a>.</li>
+<li>Quantum information, and changes in quantum information, can be quantitatively measured by using an analogue of <a href="/wiki/Claude_Shannon" title="Claude Shannon">Shannon</a> <a href="/wiki/Information_entropy" class="mw-redirect" title="Information entropy">entropy</a>, called the <a href="/wiki/Von_Neumann_entropy" title="Von Neumann entropy">von Neumann entropy</a>. Given a <a href="/wiki/Statistical_ensemble" class="mw-redirect" title="Statistical ensemble">statistical ensemble</a> of quantum mechanical systems with the <a href="/wiki/Density_matrix" title="Density matrix">density matrix</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.202ex; height:2.176ex;" alt="\rho " /></span>, it is given by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(\rho )=-\operatorname {Tr} (\rho \ln \rho ).\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>Tr</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mi>ln</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(\rho )=-\operatorname {Tr} (\rho \ln \rho ).\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb3fa9fbd2413a92a42f7246b9b45677882de810" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.355ex; height:2.843ex;" alt="S(\rho )=-\operatorname {Tr}(\rho \ln \rho ).\," /></span> Many of the same entropy measures in classical information theory can also be generalized to the quantum case, such as <a rel="nofollow" class="external text" href="http://www.mi.ras.ru/~holevo/eindex.html">Holevo entropy</a> and the <a href="/wiki/Conditional_quantum_entropy" title="Conditional quantum entropy">conditional quantum entropy</a>.</li>
+<li><a href="/wiki/Quantum_algorithm" title="Quantum algorithm">Quantum algorithms</a> have a different <a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">computational complexity</a> than classical algorithms. The most famous example of this is <a href="/wiki/Shor%27s_algorithm" title="Shor's algorithm">Shor's factoring algorithm</a>, which is not known to have a <a href="/wiki/Polynomial_time" class="mw-redirect" title="Polynomial time">polynomial time</a> classical algorithm, but does have a polynomial time quantum algorithm. Other examples include <a href="/wiki/Grover%27s_algorithm" title="Grover's algorithm">Grover's search algorithm</a>, where the quantum algorithm gives a quadratic speed-up over the best possible classical algorithm.</li>
+<li><a href="/wiki/Quantum_key_distribution" title="Quantum key distribution">Quantum key distribution</a> allows unconditionally secure transmission of classical information, unlike classical encryption, which can always be broken in principle, if not in practice. (Note that certain subtle points are hotly debated).</li>
+</ul>
+<p>The study of all of the above topics and differences comprises quantum information theory.</p>
+<h2><span class="mw-headline" id="Quantum_information_theory">Quantum information theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_information&amp;action=edit&amp;section=2" title="Edit section: Quantum information theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The theory of quantum information is a result of the effort to generalize <a href="/wiki/Information_theory" title="Information theory">classical information theory</a> to the quantum world. Quantum information theory aims to investigate the question "How is information stored in a state of a quantum system?". Under the <a href="/wiki/No-teleportation_theorem" title="No-teleportation theorem">no-teleportation theorem</a>, a quantum state cannot be precisely converted into classical bits. The information content of a message <i>M</i> can nevertheless be measured in terms of the minimum number <i>n</i> of qubits needed to encode the message. Such a message <i>M</i> is encoded with <i>n</i> <a href="/wiki/Qubit" title="Qubit">qubits</a> and <i>n</i><sup>2</sup> classical <a href="/wiki/Bit" title="Bit">bits</a> that describe the relative arrangement of the <i>n</i> qubits. The qubit is the smallest possible unit of quantum information.</p>
+<p>Quantum information can be transmitted through <a href="/wiki/Quantum_channel" title="Quantum channel">quantum channels</a>. These have finite capacity and are analogous to the classical case, described by the <a href="/wiki/Noisy-channel_coding_theorem" title="Noisy-channel coding theorem">noisy-channel coding theorem</a> which defines the maximum <a href="/wiki/Channel_capacity" title="Channel capacity">channel capacity</a> of a classical <a href="/wiki/Communications_channel" class="mw-redirect" title="Communications channel">communications channel</a>. An important breakthrough for the theory of quantum information occurred when <a href="/wiki/Quantum_error_correction" title="Quantum error correction">quantum error correction</a> codes and <a href="/wiki/Fault-tolerant" class="mw-redirect" title="Fault-tolerant">fault-tolerant</a> <a href="/wiki/Quantum_computation" class="mw-redirect" title="Quantum computation">quantum computation</a> schemes were discovered<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2016)">citation needed</span></a></i>]</sup>.</p>
+<p>An important step in quantum information theory is the manipulation of quantum information. This requires <a href="/wiki/Quantum_logic_gate" class="mw-redirect" title="Quantum logic gate">quantum logic gates</a>, in rough analog to the processing of classical information with digital circuits.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2016)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Journals">Journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_information&amp;action=edit&amp;section=3" title="Edit section: Journals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many journals publish research in <a href="/wiki/Quantum_information_science" title="Quantum information science">quantum information science</a>, although only a few are dedicated to this area. Among these are</p>
+<ul>
+<li><i><a href="/wiki/International_Journal_of_Quantum_Information" title="International Journal of Quantum Information">International Journal of Quantum Information</a></i></li>
+<li><i>Quantum Information &amp; Computation</i></li>
+<li><i>Quantum Information Processing</i></li>
+<li><i><a href="/wiki/Npj_Quantum_Information" title="Npj Quantum Information">npj Quantum Information</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><i>Quantum</i> <a rel="nofollow" class="external autonumber" href="http://quantum-journal.org/">[1]</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_information&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Interpretations_of_quantum_mechanics" title="Interpretations of quantum mechanics">Interpretations of quantum mechanics</a></li>
+<li><a href="/wiki/POVM" title="POVM">POVM</a> (positive operator valued measure)</li>
+<li><a href="/wiki/Quantum_clock" title="Quantum clock">Quantum clock</a></li>
+<li><a href="/wiki/Quantum_computing" title="Quantum computing">Quantum computing</a></li>
+<li><a href="/wiki/Quantum_cognition" title="Quantum cognition">Quantum cognition</a></li>
+<li><a href="/wiki/Quantum_gravity" title="Quantum gravity">Quantum gravity</a></li>
+<li><a href="/wiki/Quantum_information_science" title="Quantum information science">Quantum information science</a></li>
+<li><a href="/wiki/Quantum_statistical_mechanics" title="Quantum statistical mechanics">Quantum statistical mechanics</a></li>
+<li><a href="/wiki/Qutrit" title="Qutrit">Qutrit</a></li>
+<li><a href="/wiki/Typical_subspace" title="Typical subspace">Typical subspace</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_information&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nature.com/npjqi/">npj Quantum Information</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links_and_references">External links and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_information&amp;action=edit&amp;section=6" title="Edit section: External links and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(November 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.quantiki.org">Quantiki</a> - A wiki portal for quantum information with introductory tutorials.</li>
+<li>Charles H. Bennett and Peter W. Shor, "Quantum Information Theory," <i>IEEE Transactions on Information Theory,</i> Vol 44, pp 2724–2742, Oct 1998</li>
+<li><a rel="nofollow" class="external text" href="https://www.springer.com/east/home?SGWID=5-102-22-173664707-0&amp;changeHeader=true">Gregg Jaeger's book on Quantum Information</a>(published by Springer, New York, 2007, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-35725-4" title="Special:BookSources/0-387-35725-4">0-387-35725-4</a>)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303183533/http://www.quantware.ups-tlse.fr/IHP2006/">Lectures at the Institut Henri Poincaré (slides and videos)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.worldscinet.com/ijqi/ijqi.shtml">International Journal of Quantum Information</a> World Scientific</li>
+<li><a rel="nofollow" class="external text" href="https://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/11128">Quantum Information Processing</a> Springer</li>
+<li>Michael A. Nielsen, Isaac L. Chuang, <a rel="nofollow" class="external text" href="http://www.cambridge.org/gb/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/quantum-computation-and-quantum-information-10th-anniversary-edition?format=PB&amp;isbn=9781107002173#PkOdhEVJmYvWi4Bd.97">"Quantum Computation and Quantum Information"</a></li>
+<li>John Preskill, Course Information for Physics 219/Computer Science 219 Quantum Computation, Caltech <a rel="nofollow" class="external autonumber" href="http://www.theory.caltech.edu/people/preskill/ph229/">[2]</a></li>
+<li>Charles H. Bennett, Peter W. Shor, "Quantum Information Theory"<a rel="nofollow" class="external autonumber" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.89.1572&amp;rep=rep1&amp;type=pdf">[3]</a><a rel="nofollow" class="external autonumber" href="https://www.researchgate.net/profile/Fabio_Benatti/publication/226219951_Quantum_Information_Theory/links/0deec517fd717b0130000000.pdf">[4]</a></li>
+<li>Vlatko Vedral, <a rel="nofollow" class="external text" href="https://global.oup.com/academic/product/introduction-to-quantum-information-science-9780199215706?cc=gb&amp;lang=en&amp;">"Introduction to Quantum Information Science"</a></li>
+<li>Masahito Hayashi, <a rel="nofollow" class="external text" href="https://www.springer.com/in/book/9783642067693">"Quantum Information: An Introduction"</a></li>
+<li>Masahito Hayashi, <a rel="nofollow" class="external text" href="https://www.springer.com/gb/book/9783662497234">"Quantum Information Theory: Mathematical Foundation"</a></li>
+<li><cite id="CITEREFWilde2017" class="citation">Wilde, Mark M. (2017), <i>Quantum Information Theory</i>, Cambridge University Press, <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1106.1445">1106.1445</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011arXiv1106.1445W">2011arXiv1106.1445W</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2F9781316809976.001">10.1017/9781316809976.001</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Information+Theory&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2017&amp;rft_id=info%3Aarxiv%2F1106.1445&amp;rft_id=info%3Adoi%2F10.1017%2F9781316809976.001&amp;rft_id=info%3Abibcode%2F2011arXiv1106.1445W&amp;rft.aulast=Wilde&amp;rft.aufirst=Mark+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+information" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Christian Weedbrook, Stefano Pirandola, Raul Garcia-Patron, Nicolas J. Cerf, Timothy C. Ralph, Jeffrey H. Shapiro, Seth Lloyd <a rel="nofollow" class="external text" href="https://arxiv.org/abs/1110.3234">"Gaussian Quantum Information", arXiv:1110.3234</a></li>
+<li>Samuel L. Braunstein, Peter van Loock <a rel="nofollow" class="external text" href="https://arxiv.org/abs/quant-ph/0410100">"Quantum information with continuous variables", arXiv:quant-ph/0410100</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.damtp.cam.ac.uk/user/jono/negative-information.html">Quantum information can be negative</a></li>
+<li>Centres and groups doing research on quantum information include:
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.qit.ethz.ch/">Quantum Information Theory at ETH Zurich</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perimeterinstitute.ca/research/research-areas/quantum-information/more-quantum-information">Quantum Information</a> Perimeter Institute for Theoretical Physics</li>
+<li><a rel="nofollow" class="external text" href="http://www.iqc.ca/">Institute for Quantum Computing</a> - The Institute for Quantum Computing, based in Waterloo, ON Canada, is a research institute working in conjunction with the <a rel="nofollow" class="external text" href="https://www.uwaterloo.ca">University of Waterloo</a> and <a rel="nofollow" class="external text" href="http://www.perimeterinstitute.ca/">Perimeter Institute</a> on the subject of Quantum Information.</li>
+<li><a rel="nofollow" class="external text" href="http://www.quantumlah.org">Centre for Quantum Technologies</a> - CQT is a research centre at the National University of Singapore bringing together quantum physicists and computer scientists</li>
+<li><a rel="nofollow" class="external text" href="http://cam.qubit.org/">Center for Quantum Computation</a> - The CQC, part of Cambridge University, is a group of researchers studying quantum information, and is a useful portal for those interested in this field.</li>
+<li><a rel="nofollow" class="external text" href="http://www.nottingham.ac.uk/mathematics/research/mathematical-physics/quantum-information.aspx">Quantum Information Group</a> The quantum information research group at the <a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.mathqi.es/">Research Group on Mathematics and Quantum Information</a> Madrid</li>
+<li><a rel="nofollow" class="external text" href="http://www.iqim.caltech.edu/">Institute for Quantum Information and Matter</a> Caltech</li>
+<li><a rel="nofollow" class="external text" href="http://www3.imperial.ac.uk/quantumopticslaserscience/">Quantum Information Theory</a> Imperial College</li>
+<li><a rel="nofollow" class="external text" href="http://www.ucl.ac.uk/quantum">Quantum Information</a> University College London</li>
+<li><a rel="nofollow" class="external text" href="http://www.toshiba-europe.com/research/crl/qig/index.html">Quantum Information Technology</a> Toshiba Research</li>
+<li><a rel="nofollow" class="external text" href="http://cqist.usc.edu/">USC Center for Quantum Information Science &amp; Technology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cquic.org/">Center for Quantum Information and Control</a> Theoretical and experimental groups from University of New Mexico and University of Arizona with adjunct faculty associates from the Sandia National Labs and the Los Alamos National Labs. Another site to view their research activities (more on the UNM site) is at <a rel="nofollow" class="external free" href="http://cquic.unm.edu/">http://cquic.unm.edu/</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://qubit.kyungnam.ac.kr/">Group of Quantum Information Theory</a> Kyungnam University in Korea</li>
+<li><a rel="nofollow" class="external text" href="https://quics.umd.edu/">The Joint Center for Quantum Information and Computer Science</a></li>
+<li><a rel="nofollow" class="external text" href="http://jqi.umd.edu/">The Joint Quantum Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://quantum.phys.lsu.edu/">Quantum Science &amp; Technologies Group</a> at Louisiana State University</li>
+</ul>
+</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Quantum_information_science" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Quantum_information" title="Template:Quantum information"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Quantum_information" title="Template talk:Quantum information"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Quantum_information&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Quantum_information_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Quantum_information_science" title="Quantum information science">Quantum information science</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_computer" class="mw-redirect" title="Quantum computer">Quantum computer</a></li>
+<li><a href="/wiki/Qubit" title="Qubit">Qubit</a></li>
+<li><a href="/wiki/DiVincenzo%27s_criteria" title="DiVincenzo's criteria">DiVincenzo's criteria</a></li>
+<li><a class="mw-selflink selflink">Quantum information</a></li>
+<li><a href="/wiki/Quantum_machine" title="Quantum machine">Quantum machine</a></li>
+<li><a href="/wiki/Quantum_programming" title="Quantum programming">Quantum programming</a></li>
+<li><a href="/wiki/Timeline_of_quantum_computing" title="Timeline of quantum computing">Timeline of quantum computing</a></li>
+<li><a href="/wiki/Cloud-based_quantum_computing" title="Cloud-based quantum computing">Cloud-based quantum computing</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Bloch_Sphere.svg" class="image"><img alt="Bloch Sphere.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bloch_Sphere.svg/80px-Bloch_Sphere.svg.png" width="80" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bloch_Sphere.svg/120px-Bloch_Sphere.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bloch_Sphere.svg/160px-Bloch_Sphere.svg.png 2x" data-file-width="163" data-file-height="185" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Quantum communication</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_capacity" title="Quantum capacity">Quantum capacity</a></li>
+<li><a href="/wiki/Classical_capacity" title="Classical capacity">Classical capacity</a></li>
+<li><a href="/wiki/Entanglement-assisted_classical_capacity" title="Entanglement-assisted classical capacity">Entanglement-assisted classical capacity</a></li>
+<li><a href="/wiki/Quantum_channel" title="Quantum channel">Quantum channel</a>
+<ul>
+<li><a href="/wiki/Quantum_network" title="Quantum network">Quantum network</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_cryptography" title="Quantum cryptography">Quantum cryptography</a>
+<ul>
+<li><a href="/wiki/Quantum_key_distribution" title="Quantum key distribution">Quantum key distribution</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_energy_teleportation" title="Quantum energy teleportation">Quantum energy teleportation</a></li>
+<li><a href="/wiki/Quantum_teleportation" title="Quantum teleportation">Quantum teleportation</a></li>
+<li><a href="/wiki/Superdense_coding" title="Superdense coding">Superdense coding</a></li>
+<li><a href="/wiki/LOCC" title="LOCC">LOCC</a></li>
+<li><a href="/wiki/Entanglement_distillation" title="Entanglement distillation">Entanglement distillation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_algorithm" title="Quantum algorithm">Quantum algorithms</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Universal_quantum_simulator" class="mw-redirect" title="Universal quantum simulator">Universal quantum simulator</a></li>
+<li><a href="/wiki/Deutsch%E2%80%93Jozsa_algorithm" title="Deutsch–Jozsa algorithm">Deutsch–Jozsa algorithm</a></li>
+<li><a href="/wiki/Grover%27s_algorithm" title="Grover's algorithm">Grover's algorithm</a></li>
+<li><a href="/wiki/Quantum_Fourier_transform" title="Quantum Fourier transform">Quantum Fourier transform</a></li>
+<li><a href="/wiki/Shor%27s_algorithm" title="Shor's algorithm">Shor's algorithm</a></li>
+<li><a href="/wiki/Simon%27s_problem" title="Simon's problem">Simon's problem</a></li>
+<li><a href="/wiki/Quantum_phase_estimation_algorithm" title="Quantum phase estimation algorithm">Quantum phase estimation algorithm</a></li>
+<li><a href="/wiki/Quantum_counting_algorithm" title="Quantum counting algorithm">Quantum counting algorithm</a></li>
+<li><a href="/wiki/Quantum_annealing" title="Quantum annealing">Quantum annealing</a></li>
+<li><a href="/wiki/Algorithmic_cooling" title="Algorithmic cooling">Algorithmic cooling</a></li>
+<li><a href="/wiki/Quantum_algorithm_for_linear_systems_of_equations" title="Quantum algorithm for linear systems of equations">Quantum algorithm for linear systems of equations</a></li>
+<li><a href="/wiki/Amplitude_amplification" title="Amplitude amplification">Amplitude amplification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_complexity_theory" title="Quantum complexity theory">Quantum complexity theory</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_Turing_machine" title="Quantum Turing machine">Quantum Turing machine</a></li>
+<li><a href="/wiki/EQP_(complexity)" title="EQP (complexity)">EQP</a></li>
+<li><a href="/wiki/BQP" title="BQP">BQP</a></li>
+<li><a href="/wiki/QMA" title="QMA">QMA</a></li>
+<li><a href="/wiki/PostBQP" title="PostBQP">PostBQP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Quantum computing models</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_circuit" title="Quantum circuit">Quantum circuit</a>
+<ul>
+<li><a href="/wiki/Quantum_gate" title="Quantum gate">Quantum gate</a></li>
+</ul>
+</li>
+<li><a href="/wiki/One-way_quantum_computer" title="One-way quantum computer">One-way quantum computer</a>
+<ul>
+<li><a href="/wiki/Cluster_state" title="Cluster state">cluster state</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Adiabatic_quantum_computation" title="Adiabatic quantum computation">Adiabatic quantum computation</a></li>
+<li><a href="/wiki/Topological_quantum_computer" title="Topological quantum computer">Topological quantum computer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_decoherence" title="Quantum decoherence">Decoherence</a> prevention</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_error_correction" title="Quantum error correction">Quantum error correction</a></li>
+<li><a href="/wiki/Stabilizer_code" title="Stabilizer code">Stabilizer codes</a></li>
+<li><a href="/wiki/Entanglement-assisted_stabilizer_formalism" title="Entanglement-assisted stabilizer formalism">Entanglement-Assisted Quantum Error Correction</a></li>
+<li><a href="/wiki/Quantum_convolutional_code" title="Quantum convolutional code">Quantum convolutional codes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Physical implementations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_optics" title="Quantum optics">Quantum optics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cavity_quantum_electrodynamics" title="Cavity quantum electrodynamics">Cavity QED</a></li>
+<li><a href="/wiki/Circuit_quantum_electrodynamics" title="Circuit quantum electrodynamics">Circuit QED</a></li>
+<li><a href="/wiki/Linear_optical_quantum_computing" title="Linear optical quantum computing">Linear optical quantum computing</a></li>
+<li><a href="/wiki/KLM_protocol" title="KLM protocol">KLM protocol</a></li>
+<li><a href="/wiki/Boson_sampling" title="Boson sampling">Boson sampling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ultracold_atom" title="Ultracold atom">Ultracold atoms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trapped_ion_quantum_computer" title="Trapped ion quantum computer">Trapped ion quantum computer</a></li>
+<li><a href="/wiki/Optical_lattice" title="Optical lattice">Optical lattice</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Spin_(physics)" title="Spin (physics)">Spin</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nuclear_magnetic_resonance_quantum_computer" title="Nuclear magnetic resonance quantum computer">Nuclear magnetic resonance QC</a></li>
+<li><a href="/wiki/Kane_quantum_computer" title="Kane quantum computer">Kane QC</a></li>
+<li><a href="/wiki/Loss%E2%80%93DiVincenzo_quantum_computer" title="Loss–DiVincenzo quantum computer">Loss–DiVincenzo QC</a></li>
+<li><a href="/wiki/Nitrogen-vacancy_center" title="Nitrogen-vacancy center">Nitrogen-vacancy center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Superconducting_quantum_computing" title="Superconducting quantum computing">Superconducting quantum computing</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charge_qubit" title="Charge qubit">Charge qubit</a></li>
+<li><a href="/wiki/Flux_qubit" title="Flux qubit">Flux qubit</a></li>
+<li><a href="/wiki/Phase_qubit" title="Phase qubit">Phase qubit</a></li>
+<li><a href="/wiki/Transmon" title="Transmon">Transmon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/001092819">001092819</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20180213203700
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.283 seconds
+Preprocessor visited node count: 997/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35695/2097152 bytes
+Template argument size: 1541/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  204.812      1 -total
+ 29.45%   60.316      2 Template:Citation_needed
+ 22.12%   45.296      2 Template:Fix
+ 18.15%   37.175      1 Template:Citation
+ 13.85%   28.366      4 Template:Category_handler
+ 12.66%   25.924      1 Template:Authority_control
+ 12.19%   24.962      1 Template:ISBN
+ 10.94%   22.406      1 Template:Quantum_computing
+ 10.04%   20.572      2 Template:Navbox
+  9.44%   19.334      1 Template:More_footnotes
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25274-0!canonical!math=5 and timestamp 20180213203659 and revision id 822531710
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Quantum_information&amp;oldid=822531710#Quantum_information_theory">https://en.wikipedia.org/w/index.php?title=Quantum_information&amp;oldid=822531710#Quantum_information_theory</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Quantum_information_theory" title="Category:Quantum information theory">Quantum information theory</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2016" title="Category:Articles with unsourced statements from March 2016">Articles with unsourced statements from March 2016</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_November_2011" title="Category:Articles lacking in-text citations from November 2011">Articles lacking in-text citations from November 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Quantum+information" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quantum+information" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Quantum_information" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Quantum_information" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Quantum_information">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Quantum_information&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Quantum_information&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quantum_information" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quantum_information" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Quantum_information&amp;oldid=822531710" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Quantum_information&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2122243" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Quantum_information&amp;id=822531710" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Quantum+information">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Quantum+information&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Quantum_information&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Quantum_information" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Quantum_information" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F" title="Квантова информационна теория – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Informaci%C3%B3_qu%C3%A0ntica" title="Informació quàntica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Quanteninformation" title="Quanteninformation – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Information_quantique" title="Information quantique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Informazione_quantistica" title="Informazione quantistica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1" title="量子情報 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%81%E0%A8%86%E0%A8%82%E0%A8%9F%E0%A8%AE_%E0%A8%B8%E0%A9%82%E0%A8%9A%E0%A8%A8%E0%A8%BE" title="ਕੁਆਂਟਮ ਸੂਚਨਾ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Informacja_kwantowa" title="Informacja kwantowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Квантовая информация – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kvantti-informaatio" title="Kvantti-informaatio – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0_%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%8F" title="Квантова інформація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF" title="量子信息 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2122243#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 January 2018, at 22:31.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Quantum_information&amp;mobileaction=toggle_view_mobile#Quantum_information_theory" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.283","ppvisitednodes":{"value":997,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35695,"limit":2097152},"templateargumentsize":{"value":1541,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  204.812      1 -total"," 29.45%   60.316      2 Template:Citation_needed"," 22.12%   45.296      2 Template:Fix"," 18.15%   37.175      1 Template:Citation"," 13.85%   28.366      4 Template:Category_handler"," 12.66%   25.924      1 Template:Authority_control"," 12.19%   24.962      1 Template:ISBN"," 10.94%   22.406      1 Template:Quantum_computing"," 10.04%   20.572      2 Template:Navbox","  9.44%   19.334      1 Template:More_footnotes"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2798422,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20180213203700","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1241"});});</script>
+	</body>
+</html>

@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Computer architecture - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computer_architecture","wgTitle":"Computer architecture","wgCurRevisionId":818082197,"wgRevisionId":818082197,"wgArticleId":25652303,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2017","Wikipedia articles with GND identifiers","Computer architecture","Central processing unit"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Computer_architecture","wgRelevantArticleId":25652303,"wgRequestId":"WoTdaQpAAEIAABecPhQAAABK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Computer_architectures","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Computer_architecture","wgWikibaseItemId":"Q173212","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/1200px-MIPS_Architecture_%28Pipelined%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Computer_architecture"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Computer_architecture&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Computer_architecture&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Computer_architecture"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Computer_architecture rootpage-Computer_architecture skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Computer architecture</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Computer_architectures&amp;redirect=no" class="mw-redirect" title="Computer architectures">Computer architectures</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:MIPS_Architecture_(Pipelined).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/300px-MIPS_Architecture_%28Pipelined%29.svg.png" width="300" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/450px-MIPS_Architecture_%28Pipelined%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/600px-MIPS_Architecture_%28Pipelined%29.svg.png 2x" data-file-width="800" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MIPS_Architecture_(Pipelined).svg" class="internal" title="Enlarge"></a></div>
+A pipelined implementation of the <a href="/wiki/MIPS_architecture" title="MIPS architecture">MIPS</a> architecture. <a href="/wiki/Pipelining" class="mw-redirect" title="Pipelining">Pipelining</a> is a key concept in computer architecture.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Computer_engineering" title="Computer engineering">computer engineering</a>, <b>computer architecture</b> is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In other definitions computer architecture involves <a href="/wiki/Instruction_set_architecture" title="Instruction set architecture">instruction set architecture</a> design, <a href="/wiki/Microarchitecture" title="Microarchitecture">microarchitecture</a> design, <a href="/wiki/Logic_design" class="mw-redirect" title="Logic design">logic design</a>, and <a href="/wiki/Implementation" title="Implementation">implementation</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Subcategories"><span class="tocnumber">2</span> <span class="toctext">Subcategories</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Roles"><span class="tocnumber">3</span> <span class="toctext">Roles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Definition"><span class="tocnumber">3.1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Instruction_set_architecture"><span class="tocnumber">3.2</span> <span class="toctext">Instruction set architecture</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Computer_organization"><span class="tocnumber">3.3</span> <span class="toctext">Computer organization</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Implementation"><span class="tocnumber">3.4</span> <span class="toctext">Implementation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Design_goals"><span class="tocnumber">4</span> <span class="toctext">Design goals</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Performance"><span class="tocnumber">4.1</span> <span class="toctext">Performance</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Power_efficiency"><span class="tocnumber">4.2</span> <span class="toctext">Power efficiency</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Shifts_in_market_demand"><span class="tocnumber">4.3</span> <span class="toctext">Shifts in market demand</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Sources"><span class="tocnumber">7</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first documented computer architecture was in the correspondence between <a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a> and <a href="/wiki/Ada_Lovelace" title="Ada Lovelace">Ada Lovelace</a>, describing the <a href="/wiki/Analytical_engine" class="mw-redirect" title="Analytical engine">analytical engine</a>. When building the computer <a href="/wiki/Z1_(computer)" title="Z1 (computer)">Z1</a> in 1936, <a href="/wiki/Konrad_Zuse" title="Konrad Zuse">Konrad Zuse</a> described in two patent applications for his future projects that machine instructions could be stored in the same storage used for data, i.e. the <a href="/wiki/Stored-program_computer" title="Stored-program computer">stored-program</a> concept.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Two other early and important examples are:</p>
+<ul>
+<li><a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a>'s 1945 paper, <a href="/wiki/First_Draft_of_a_Report_on_the_EDVAC" title="First Draft of a Report on the EDVAC">First Draft of a Report on the EDVAC</a>, which described an organization of logical elements;<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and</li>
+<li><a href="/wiki/Alan_M._Turing" class="mw-redirect" title="Alan M. Turing">Alan Turing</a>'s more detailed <i>Proposed Electronic Calculator</i> for the <a href="/wiki/Automatic_Computing_Engine" title="Automatic Computing Engine">Automatic Computing Engine</a>, also 1945 and which cited <a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a>'s paper.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+</ul>
+<p>The term “architecture” in computer literature can be traced to the work of Lyle R. Johnson, <a href="/wiki/Fred_Brooks" title="Fred Brooks">Frederick P. Brooks, Jr.</a>, and Mohammad Usman Khan, all members of the Machine Organization department in IBM’s main research center in 1959. Johnson had the opportunity to write a proprietary research communication about the <a href="/wiki/IBM_7030_Stretch" title="IBM 7030 Stretch">Stretch</a>, an IBM-developed <a href="/wiki/Supercomputer" title="Supercomputer">supercomputer</a> for <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a> (at the time known as Los Alamos Scientific Laboratory). To describe the level of detail for discussing the luxuriously embellished computer, he noted that his description of formats, instruction types, hardware parameters, and speed enhancements were at the level of “system architecture” – a term that seemed more useful than “machine organization.”<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Subsequently, Brooks, a Stretch designer, started Chapter 2 of a book (Planning a Computer System: Project Stretch, ed. W. Buchholz, 1962) by writing,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<blockquote class="templatequote">
+<p>Computer architecture, like other architecture, is the art of determining the needs of the user of a structure and then designing to meet those needs as effectively as possible within economic and technological constraints.</p>
+</blockquote>
+<p>Brooks went on to help develop the <a href="/wiki/IBM_System/360" title="IBM System/360">IBM System/360</a> (now called the <a href="/wiki/IBM_zSeries" class="mw-redirect" title="IBM zSeries">IBM zSeries</a>) line of computers, in which “architecture” became a noun defining “what the user needs to know”.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Later, computer users came to use the term in many less-explicit ways.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>The earliest computer architectures were designed on paper and then directly built into the final hardware form.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Later, computer architecture prototypes were physically built in the form of a <a href="/wiki/Transistor%E2%80%93transistor_logic" title="Transistor–transistor logic">transistor–transistor logic</a> (TTL) computer—such as the prototypes of the <a href="/wiki/Motorola_6800#Development_team" title="Motorola 6800">6800</a> and the <a href="/wiki/PA-RISC" title="PA-RISC">PA-RISC</a>—tested, and tweaked, before committing to the final hardware form. As of the 1990s, new computer architectures are typically "built", tested, and tweaked—inside some other computer architecture in a <a href="/wiki/Computer_architecture_simulator" title="Computer architecture simulator">computer architecture simulator</a>; or inside a FPGA as a <a href="/wiki/Soft_microprocessor" title="Soft microprocessor">soft microprocessor</a>; or both—before committing to the final hardware form.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Subcategories">Subcategories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=2" title="Edit section: Subcategories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The discipline of computer architecture has three main subcategories:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<ol>
+<li><i><a href="/wiki/Instruction_set" class="mw-redirect" title="Instruction set">Instruction Set Architecture</a></i>, or ISA. The ISA defines the <a href="/wiki/Machine_code" title="Machine code">machine code</a> that a <a href="/wiki/Computer_processor" class="mw-redirect" title="Computer processor">processor</a> reads and acts upon as well as the <a href="/wiki/Word_size" class="mw-redirect" title="Word size">word size</a>, <a href="/wiki/Addressing_mode" title="Addressing mode">memory address modes</a>, <a href="/wiki/Processor_register" title="Processor register">processor registers</a>, and <a href="/wiki/Data_type" title="Data type">data type</a>.</li>
+<li><i><a href="/wiki/Microarchitecture" title="Microarchitecture">Microarchitecture</a></i>, or <i>computer organization</i> describes how a particular <a href="/wiki/Central_processing_unit" title="Central processing unit">processor</a> will implement the ISA.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The size of a computer's <a href="/wiki/CPU_cache" title="CPU cache">CPU cache</a> for instance, is an issue that generally has nothing to do with the ISA.</li>
+<li><i><a href="/wiki/Systems_design" title="Systems design">System Design</a></i> includes all of the other hardware components within a computing system. These include:
+<ol>
+<li>Data processing other than the CPU, such as <a href="/wiki/Direct_memory_access" title="Direct memory access">direct memory access</a> (DMA)</li>
+<li>Other issues such as <a href="/wiki/Virtualization" title="Virtualization">virtualization</a>, <a href="/wiki/Multiprocessing" title="Multiprocessing">multiprocessing</a>, and <a href="/wiki/Software" title="Software">software</a> features.</li>
+</ol>
+</li>
+</ol>
+<p>There are other types of computer architecture. The following types are used in bigger companies like Intel, and count for 1% of all of computer architecture</p>
+<ul>
+<li>Macroarchitecture: <a href="/wiki/Architectural_layer" class="mw-redirect" title="Architectural layer">architectural layers</a> more abstract than microarchitecture</li>
+<li>Assembly Instruction Set Architecture (ISA): A smart assembler may convert an abstract assembly language common to a group of machines into slightly different <a href="/wiki/Machine_language" class="mw-redirect" title="Machine language">machine language</a> for different <a href="/wiki/Implementation" title="Implementation">implementations</a></li>
+<li>Programmer Visible Macroarchitecture: higher level language tools such as <a href="/wiki/Compiler" title="Compiler">compilers</a> may define a consistent interface or contract to programmers using them, abstracting differences between underlying ISA, UISA, and <a href="/wiki/Microarchitecture" title="Microarchitecture">microarchitectures</a>. E.g. the <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/C%2B%2B" title="C++">C++</a>, or <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> standards define different Programmer Visible Macroarchitecture.</li>
+<li>UISA (Microcode Instruction Set Architecture)—a group of machines with different hardware level microarchitectures may share a common microcode architecture, and hence a UISA.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></li>
+<li>Pin Architecture: The hardware functions that a <a href="/wiki/Microprocessor" title="Microprocessor">microprocessor</a> should provide to a hardware platform, e.g., the <a href="/wiki/X86" title="X86">x86</a> pins A20M, FERR/IGNNE or FLUSH. Also, messages that the processor should emit so that external <a href="/wiki/CPU_cache" title="CPU cache">caches</a> can be invalidated (emptied). Pin architecture functions are more flexible than ISA functions because external hardware can adapt to new encodings, or change from a pin to a message. The term "architecture" fits, because the functions must be provided for compatible systems, even if the detailed method changes.</li>
+</ul>
+<h2><span class="mw-headline" id="Roles">Roles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=3" title="Edit section: Roles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=4" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The purpose is to design a computer that maximizes performance while keeping power consumption in check, costs low relative to the amount of expected performance, and is also very reliable. For this, many aspects are to be considered which includes instruction set design, functional organization, logic design, and implementation. The implementation involves integrated circuit design, packaging, power, and cooling. Optimization of the design requires familiarity with compilers, operating systems to logic design, and packaging.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Instruction_set_architecture">Instruction set architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=5" title="Edit section: Instruction set architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Instruction_set_architecture" title="Instruction set architecture">Instruction set architecture</a></div>
+<p>An instruction set architecture (ISA) is the interface between the computer's software and hardware and also can be viewed as the programmer's view of the machine. Computers do not understand <a href="/wiki/High_level_language" class="mw-redirect" title="High level language">high level languages</a> such as Java, C++, or most programming languages used. A processor only understands instructions encoded in some numerical fashion, usually as <a href="/wiki/Binary_numeral_system" class="mw-redirect" title="Binary numeral system">binary numbers</a>. Software tools, such as <a href="/wiki/Compiler" title="Compiler">compilers</a>, translate those high level languages into instructions that the processor can understand.</p>
+<p>Besides instructions, the ISA defines items in the computer that are available to a program—e.g. <a href="/wiki/Data_type" title="Data type">data types</a>, <a href="/wiki/Processor_register" title="Processor register">registers</a>, <a href="/wiki/Addressing_mode" title="Addressing mode">addressing modes</a>, and memory. Instructions locate these available items with register indexes (or names) and memory addressing modes.</p>
+<p>The ISA of a computer is usually described in a small instruction manual, which describes how the instructions are encoded. Also, it may define short (vaguely) mnemonic names for the instructions. The names can be recognized by a software development tool called an <a href="/wiki/Assembler_(computer_programming)" class="mw-redirect" title="Assembler (computer programming)">assembler</a>. An assembler is a computer program that translates a human-readable form of the ISA into a computer-readable form. <a href="/wiki/Disassembler" title="Disassembler">Disassemblers</a> are also widely available, usually in <a href="/wiki/Debugger" title="Debugger">debuggers</a> and software programs to isolate and correct malfunctions in binary computer programs.</p>
+<p>ISAs vary in quality and completeness. A good ISA compromises between programmer convenience (how easy the code is to understand), size of the code (how much code is required to do a specific action), cost of the computer to interpret the instructions (more complexity means more space needed to disassemble the instructions), and speed of the computer (with larger disassemblers comes longer disassemble time). For example, single-instruction ISAs like an ISA that subtracts one from a value and if the value is zero then the value returns to a higher value are both inexpensive, and fast, however ISAs like that are not convenient or helpful when looking at the size of the ISA. Memory organization defines how instructions interact with the memory, and how memory interacts with itself.</p>
+<p>During design <a href="/wiki/Emulator" title="Emulator">emulation</a> software (emulators) can run programs written in a proposed instruction set. Modern emulators can measure size, cost, and speed to determine if a particular ISA is meeting its goals.</p>
+<h3><span class="mw-headline" id="Computer_organization">Computer organization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=6" title="Edit section: Computer organization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Microarchitecture" title="Microarchitecture">Microarchitecture</a></div>
+<p>Computer organization helps optimize performance-based products. For example, software engineers need to know the processing power of processors. They may need to optimize software in order to gain the most performance for the lowest price. This can require quite detailed analysis of the computer's organization. For example, in a SD card, the designers might need to arrange the card so that the most data can be processed in the fastest possible way.</p>
+<p>Computer organization also helps plan the selection of a processor for a particular project. Multimedia projects may need very rapid data access, while virtual machines may need fast interrupts. Sometimes certain tasks need additional components as well. For example, a computer capable of running a virtual machine needs <a href="/wiki/Virtual_memory" title="Virtual memory">virtual memory</a> hardware so that the memory of different virtual computers can be kept separated. Computer organization and features also affect power consumption and processor cost.</p>
+<h3><span class="mw-headline" id="Implementation">Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=7" title="Edit section: Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Implementation" title="Implementation">Implementation</a></div>
+<p>Once an instruction set and micro-architecture are designed, a practical machine must be developed. This design process is called the <i>implementation</i>. Implementation is usually not considered architectural design, but rather hardware <a href="/wiki/Engineering_design_process" title="Engineering design process">design engineering</a>. Implementation can be further broken down into several steps:</p>
+<ul>
+<li><b>Logic Implementation</b> designs the circuits required at a logic gate level</li>
+<li><b>Circuit Implementation</b> does <a href="/wiki/Transistor" title="Transistor">transistor</a>-level designs of basic elements (gates, multiplexers, latches etc.) as well as of some larger blocks (<a href="/wiki/Arithmetic_logic_unit" title="Arithmetic logic unit">ALUs</a>, caches etc.) that may be implemented at the log gate level, or even at the physical level if the design calls for it.</li>
+<li><b>Physical Implementation</b> draws physical circuits. The different circuit components are placed in a chip <a href="/wiki/Floorplan_(microelectronics)" title="Floorplan (microelectronics)">floorplan</a> or on a board and the wires connecting them are created.</li>
+<li><b>Design Validation</b> tests the computer as a whole to see if it works in all situations and all timings. Once the design validation process starts, the design at the logic level are tested using logic emulators. However, this is usually too slow to run realistic test. So, after making corrections based on the first test, prototypes are constructed using Field-Programmable Gate-Arrays (<a href="/wiki/FPGA" class="mw-redirect" title="FPGA">FPGAs</a>). Most hobby projects stop at this stage. The final step is to test prototype integrated circuits. Integrated circuits may require several redesigns to fix problems.</li>
+</ul>
+<p>For <a href="/wiki/Central_processing_unit" title="Central processing unit">CPUs</a>, the entire implementation process is organized differently and is often referred to as <a href="/wiki/CPU_design" class="mw-redirect" title="CPU design">CPU design</a>.</p>
+<h2><span class="mw-headline" id="Design_goals">Design goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=8" title="Edit section: Design goals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The exact form of a computer system depends on the constraints and goals. Computer architectures usually trade off standards, power versus performance, cost, memory capacity, <a href="/wiki/Latency_(engineering)" title="Latency (engineering)">latency</a> (latency is the amount of time that it takes for information from one node to travel to the source) and throughput. Sometimes other considerations, such as features, size, weight, reliability, and expandability are also factors.</p>
+<p>The most common scheme does an in depth power analysis and figures out how to keep power consumption low, while maintaining adequate performance.</p>
+<h3><span class="mw-headline" id="Performance">Performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=9" title="Edit section: Performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Modern computer performance is often described in IPC (instructions per <a href="/wiki/Clock_rate" title="Clock rate">cycle</a>). This measures the efficiency of the architecture at any clock frequency. Since a faster rate can make a faster computer, this is a useful measurement. Older computers had IPC counts as low as 0.1 <a href="/wiki/Instructions_per_cycle" title="Instructions per cycle">instructions per cycle</a>. Simple modern processors easily reach near 1. <a href="/wiki/Superscalar" class="mw-redirect" title="Superscalar">Superscalar</a> processors may reach three to five IPC by executing several instructions per clock cycle.</p>
+<p>Counting machine language instructions would be misleading because they can do varying amounts of work in different ISAs. The "instruction" in the standard measurements is not a count of the ISA's actual machine language instructions, but a unit of measurement, usually based on the speed of the <a href="/wiki/VAX" title="VAX">VAX</a> computer architecture.</p>
+<p>Many people used to measure a computer's speed by the clock rate (usually in MHz or GHz). This refers to the cycles per second of the main clock of the CPU. However, this metric is somewhat misleading, as a machine with a higher clock rate may not necessarily have greater performance. As a result, manufacturers have moved away from clock speed as a measure of performance.</p>
+<p>Other factors influence speed, such as the mix of <a href="/wiki/Functional_unit" class="mw-redirect" title="Functional unit">functional units</a>, <a href="/wiki/Computer_bus" class="mw-redirect" title="Computer bus">bus</a> speeds, available memory, and the type and order of instructions in the programs.</p>
+<p>There are two main types of speed: latency and throughput. Latency is the time between the start of a process and its completion. Throughput is the amount of work done per unit time. <a href="/wiki/Interrupt_latency" title="Interrupt latency">Interrupt latency</a> is the guaranteed maximum response time of the system to an electronic event (like when the disk drive finishes moving some data).</p>
+<p>Performance is affected by a very wide range of design choices — for example, <a href="/wiki/Pipeline_(computing)" title="Pipeline (computing)">pipelining</a> a processor usually makes latency worse, but makes throughput better. Computers that control machinery usually need low interrupt latencies. These computers operate in a <a href="/wiki/Real-time_computing" title="Real-time computing">real-time</a> environment and fail if an operation is not completed in a specified amount of time. For example, computer-controlled anti-lock brakes must begin braking within a predictable, short time after the brake pedal is sensed or else failure of the brake will occur.</p>
+<p><a href="/wiki/Benchmark_(computing)" title="Benchmark (computing)">Benchmarking</a> takes all these factors into account by measuring the time a computer takes to run through a series of test programs. Although benchmarking shows strengths, it shouldn't be how you choose a computer. Often the measured machines split on different measures. For example, one system might handle scientific applications quickly, while another might render video games more smoothly. Furthermore, designers may target and add special features to their products, through hardware or software, that permit a specific benchmark to execute quickly but don't offer similar advantages to general tasks.</p>
+<h3><span class="mw-headline" id="Power_efficiency">Power efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=10" title="Edit section: Power efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Low-power_electronics" title="Low-power electronics">Low-power electronics</a></div>
+<p>Power efficiency is another important measurement in modern computers. A higher power efficiency can often be traded for lower speed or higher cost. The typical measurement when referring to power consumption in computer architecture is MIPS/W (millions of instructions per second per watt).</p>
+<p>Modern circuits have less power required per transistor as the number of transistors per chip grows.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> This is because each transistor that is put in a new chip requires its own power supply and requires new pathways to be built to power it. However the number of transistors per chip is starting to increase at a slower rate. Therefore, power efficiency is starting to become as important, if not more important than fitting more and more transistors into a single chip. Recent processor designs have shown this emphasis as they put more focus on power efficiency rather than cramming as many transistors into a single chip as possible.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In the world of embedded computers, power efficiency has long been an important goal next to throughput and latency.</p>
+<h3><span class="mw-headline" id="Shifts_in_market_demand">Shifts in market demand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=11" title="Edit section: Shifts in market demand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Increases in publicly released refresh rates have grown slowly over the past few years, with respect to vast leaps in power consumption reduction and miniaturization demand. This has led to a new demand for longer battery life and reductions in size due to the mobile technology being produced at a greater rate. This change in focus from greater refresh rates to power consumption and miniaturization can be shown by the significant reductions in power consumption, as much as 50%, that were reported by Intel in their release of the <a href="/wiki/Haswell_(microarchitecture)" title="Haswell (microarchitecture)">Haswell microarchitecture</a>; where they dropped their power consumption benchmark from 30-40 watts down to 10-20 watts.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Comparing this to the processing speed increase of 3&#160;GHz to 4&#160;GHz (2002 to 2006)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> it can be seen that the focus in research and development are shifting away from refresh rates and moving towards consuming less power and taking up less space.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Internet_map_1024.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/28px-Internet_map_1024.jpg" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/42px-Internet_map_1024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/56px-Internet_map_1024.jpg 2x" data-file-width="1280" data-file-height="1280" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Computer_Science" class="mw-redirect" title="Portal:Computer Science">Computer Science portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Nuvola_apps_ksim.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/28px-Nuvola_apps_ksim.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/42px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/56px-Nuvola_apps_ksim.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Electronics" title="Portal:Electronics">Electronics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/32px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/48px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/64px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="281" data-file-height="203" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Computing" class="mw-redirect" title="Portal:Computing">Computing portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Comparison_of_CPU_architectures" class="mw-redirect" title="Comparison of CPU architectures">Comparison of CPU architectures</a></li>
+<li><a href="/wiki/Computer_hardware" title="Computer hardware">Computer hardware</a></li>
+<li><a href="/wiki/CPU_design" class="mw-redirect" title="CPU design">CPU design</a></li>
+<li><a href="/wiki/Floating_point" class="mw-redirect" title="Floating point">Floating point</a></li>
+<li><a href="/wiki/Von_Neumann_architecture" title="Von Neumann architecture">Von Neumann</a></li>
+<li><a href="/wiki/Harvard_architecture" title="Harvard architecture">Harvard</a> (<a href="/wiki/Modified_Harvard_architecture" title="Modified Harvard architecture">Modified</a>)</li>
+<li><a href="/wiki/Dataflow_architecture" title="Dataflow architecture">Dataflow</a></li>
+<li><a href="/wiki/Transport_triggered_architecture" title="Transport triggered architecture">TTA</a></li>
+<li><a href="/wiki/Reconfigurable_computing" title="Reconfigurable computing">Reconfigurable computing</a></li>
+<li><a href="/wiki/Influence_of_the_IBM_PC_on_the_personal_computer_market" title="Influence of the IBM PC on the personal computer market">Influence of the IBM PC on the personal computer market</a></li>
+<li><a href="/wiki/Orthogonal_instruction_set" title="Orthogonal instruction set">Orthogonal instruction set</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Von_Neumann_architecture" title="Von Neumann architecture">von Neumann architecture</a></li>
+<li><a href="/wiki/Flynn%27s_taxonomy" title="Flynn's taxonomy">Flynn's taxonomy</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Clements, Alan. <i>Principles of Computer Hardware</i> (Fourth ed.). p.&#160;1. <q>Architecture describes the internal organization of a computer in an abstract way; that is, it defines the capabilities of the computer and its programming model. You can have two computers that have been constructed in different ways with different technologies but with the same architecture.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Principles+of+Computer+Hardware&amp;rft.pages=1&amp;rft.edition=Fourth&amp;rft.aulast=Clements&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Hennessy, John; Patterson, David. <i>Computer Architecture: A Quantitative Approach</i> (Fifth ed.). p.&#160;11. <q>This task has many aspects, including instruction set design, functional organization, logic design, and implementation.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computer+Architecture%3A+A+Quantitative+Approach&amp;rft.pages=11&amp;rft.edition=Fifth&amp;rft.aulast=Hennessy&amp;rft.aufirst=John&amp;rft.au=Patterson%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.computer50.org/kgill/mark1/natletter.html">"Electronic Digital Computers"</a>, <i>Nature</i>, <b>162</b>: 487, 25 September 1948, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2F162487a0">10.1038/162487a0</a><span class="reference-accessdate">, retrieved <span class="nowrap">2009-04-10</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Electronic+Digital+Computers&amp;rft.volume=162&amp;rft.pages=487&amp;rft.date=1948-09-25&amp;rft_id=info%3Adoi%2F10.1038%2F162487a0&amp;rft_id=http%3A%2F%2Fwww.computer50.org%2Fkgill%2Fmark1%2Fnatletter.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Susanne Faber, "Konrad Zuses Bemuehungen um die Patentanmeldung der Z3", 2000</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Neumann, John (1945). <i>First Draft of a Report on the EDVAC</i>. p.&#160;9.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=First+Draft+of+a+Report+on+the+EDVAC&amp;rft.pages=9&amp;rft.date=1945&amp;rft.aulast=Neumann&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Reproduced in B. J. Copeland (Ed.), "Alan Turing's Automatic Computing Engine", OUP, 2005, pp. 369-454.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Johnson, Lyle (1960). <a rel="nofollow" class="external text" href="http://archive.computerhistory.org/resources/text/IBM/Stretch/pdfs/05-10/102634114.pdf">"A Description of Stretch"</a> <span style="font-size:85%;">(PDF)</span>. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Description+of+Stretch&amp;rft.pages=1&amp;rft.date=1960&amp;rft.aulast=Johnson&amp;rft.aufirst=Lyle&amp;rft_id=http%3A%2F%2Farchive.computerhistory.org%2Fresources%2Ftext%2FIBM%2FStretch%2Fpdfs%2F05-10%2F102634114.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Buchholz, Werner (1962). <i>Planning a Computer System</i>. p.&#160;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Planning+a+Computer+System&amp;rft.pages=5&amp;rft.date=1962&amp;rft.aulast=Buchholz&amp;rft.aufirst=Werner&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/system360/">"System 360, From Computers to Computer Systems"</a>. <i>IBM100</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IBM100&amp;rft.atitle=System+360%2C+From+Computers+to+Computer+Systems&amp;rft_id=http%3A%2F%2Fwww-03.ibm.com%2Fibm%2Fhistory%2Fibm100%2Fus%2Fen%2Ficons%2Fsystem360%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Hellige, Hans Dieter (2004). "Die Genese von Wissenschaftskonzeptionen der Computerarchitektur: Vom "system of organs" zum Schichtmodell des Designraums". <i>Geschichten der Informatik: Visionen, Paradigmen, Leitmotive</i>. pp.&#160;411–472.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Die+Genese+von+Wissenschaftskonzeptionen+der+Computerarchitektur%3A++Vom+%22system+of+organs%22+zum+Schichtmodell+des+Designraums&amp;rft.btitle=Geschichten+der+Informatik%3A+Visionen%2C+Paradigmen%2C+Leitmotive&amp;rft.pages=411-472&amp;rft.date=2004&amp;rft.aulast=Hellige&amp;rft.aufirst=Hans+Dieter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">ACE underwent seven paper designs in one year, before a prototype was initiated in 1948. [B. J. Copeland (Ed.), "Alan Turing's Automatic Computing Engine", OUP, 2005, p. 57]</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Schmalz. <a rel="nofollow" class="external text" href="https://www.cise.ufl.edu/~mssz/CompOrg/CDAintro.html">"Organization of Computer Systems"</a>. <i>UF CISE</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UF+CISE&amp;rft.atitle=Organization+of+Computer+Systems&amp;rft.au=Schmalz&amp;rft_id=https%3A%2F%2Fwww.cise.ufl.edu%2F~mssz%2FCompOrg%2FCDAintro.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">John L. Hennessy and David A. Patterson. <i>Computer Architecture: A Quantitative Approach</i> (Third ed.). Morgan Kaufmann Publishers.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computer+Architecture%3A+A+Quantitative+Approach&amp;rft.edition=Third&amp;rft.pub=Morgan+Kaufmann+Publishers&amp;rft.au=John+L.+Hennessy+and+David+A.+Patterson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Laplante, Phillip A. (2001). <i>Dictionary of Computer Science, Engineering, and Technology</i>. CRC Press. pp.&#160;94–95. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8493-2691-5" title="Special:BookSources/0-8493-2691-5">0-8493-2691-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+Computer+Science%2C+Engineering%2C+and+Technology&amp;rft.pages=94-95&amp;rft.pub=CRC+Press&amp;rft.date=2001&amp;rft.isbn=0-8493-2691-5&amp;rft.aulast=Laplante&amp;rft.aufirst=Phillip+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Martin, Milo. <a rel="nofollow" class="external text" href="https://www.cis.upenn.edu/~milom/cis501-Fall11/lectures/00_intro.pdf">"What is computer architecture?"</a> <span style="font-size:85%;">(PDF)</span>. <i>UPENN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UPENN&amp;rft.atitle=What+is+computer+architecture%3F&amp;rft.aulast=Martin&amp;rft.aufirst=Milo&amp;rft_id=https%3A%2F%2Fwww.cis.upenn.edu%2F~milom%2Fcis501-Fall11%2Flectures%2F00_intro.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://eacharya.inflibnet.ac.in/data-server/eacharya-documents/53e0c6cbe413016f23443704_INFIEP_33/192/ET/33-192-ET-V1-S1__ssed_unit_4_module_10_integrated_circuits_and_fabrication_e-text.pdf">"Integrated circuits and fabrication"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Integrated+circuits+and+fabrication&amp;rft_id=http%3A%2F%2Feacharya.inflibnet.ac.in%2Fdata-server%2Feacharya-documents%2F53e0c6cbe413016f23443704_INFIEP_33%2F192%2FET%2F33-192-ET-V1-S1__ssed_unit_4_module_10_integrated_circuits_and_fabrication_e-text.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.samsung.com/semiconductor/minisite/Exynos/w/solution/mod_ap/8895/?CID=AFL-hq-mul-0813-11000170">"Exynos 9 Series (8895)"</a>. <i>Samsung</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Samsung&amp;rft.atitle=Exynos+9+Series+%288895%29&amp;rft_id=http%3A%2F%2Fwww.samsung.com%2Fsemiconductor%2Fminisite%2FExynos%2Fw%2Fsolution%2Fmod_ap%2F8895%2F%3FCID%3DAFL-hq-mul-0813-11000170&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.intel.com/content/dam/doc/white-paper/resources-xeon-measuring-processor-power-paper.pdf">"Measuring Processor Power TDP vs ACP"</a> <span style="font-size:85%;">(PDF)</span>. <i>Intel</i>. April 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">5 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Intel&amp;rft.atitle=Measuring+Processor+Power+TDP+vs+ACP&amp;rft.date=2011-04&amp;rft_id=http%3A%2F%2Fwww.intel.com%2Fcontent%2Fdam%2Fdoc%2Fwhite-paper%2Fresources-xeon-measuring-processor-power-paper.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.columbia.edu/~sedwards/classes/2012/3827-spring/advanced-arch-2011.pdf">"History of Processor Performance"</a> <span style="font-size:85%;">(PDF)</span>. <i>cs.columbia.edu</i>. 24 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">5 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cs.columbia.edu&amp;rft.atitle=History+of+Processor+Performance&amp;rft.date=2012-04-24&amp;rft_id=http%3A%2F%2Fwww.cs.columbia.edu%2F~sedwards%2Fclasses%2F2012%2F3827-spring%2Fadvanced-arch-2011.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=14" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book"><a href="/wiki/John_L._Hennessy" title="John L. Hennessy">John L. Hennessy</a> and <a href="/wiki/David_Patterson_(scientist)" class="mw-redirect" title="David Patterson (scientist)">David Patterson</a> (2006). <a rel="nofollow" class="external text" href="http://www.elsevierdirect.com/product.jsp?isbn=9780123704900"><i>Computer Architecture: A Quantitative Approach</i></a> (Fourth ed.). Morgan Kaufmann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-370490-0" title="Special:BookSources/978-0-12-370490-0">978-0-12-370490-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computer+Architecture%3A+A+Quantitative+Approach&amp;rft.edition=Fourth&amp;rft.pub=Morgan+Kaufmann&amp;rft.date=2006&amp;rft.isbn=978-0-12-370490-0&amp;rft.au=John+L.+Hennessy+and+David+Patterson&amp;rft_id=http%3A%2F%2Fwww.elsevierdirect.com%2Fproduct.jsp%3Fisbn%3D9780123704900&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Robert_S._Barton" title="Robert S. Barton">Barton, Robert S.</a>, "Functional Design of Computers", <i>Communications of the ACM</i> 4(9): 405 (1961).</li>
+<li>Barton, Robert S., "A New Approach to the Functional Design of a Digital Computer", <i>Proceedings of the Western Joint Computer Conference</i>, May 1961, pp.&#160;393–396. About the design of the Burroughs <a href="/wiki/Burroughs_large_systems" title="Burroughs large systems">B5000</a> computer.</li>
+<li><a href="/wiki/Gordon_Bell" title="Gordon Bell">Bell, C. Gordon</a>; and <a href="/wiki/Allen_Newell" title="Allen Newell">Newell, Allen</a> (1971). <a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/um/people/gbell/Computer_Structures__Readings_and_Examples/contents.html">"Computer Structures: Readings and Examples"</a>, McGraw-Hill.</li>
+<li><a href="/wiki/Gerrit_Blaauw" title="Gerrit Blaauw">Blaauw, G.A.</a>, and <a href="/wiki/Fred_Brooks" title="Fred Brooks">Brooks, F.P., Jr.</a>, <a rel="nofollow" class="external text" href="http://domino.research.ibm.com/tchjr/journalindex.nsf/d9f0a910ab8b637485256bc80066a393/95dc427e3fd3024a85256bfa006859f7?OpenDocument">"The Structure of System/360, Part I-Outline of the Logical Structure"</a>, <i>IBM Systems Journal</i>, vol. 3, no. 2, pp.&#160;119–135, 1964.</li>
+<li><cite class="citation book"><a href="/wiki/Andrew_S._Tanenbaum" title="Andrew S. Tanenbaum">Tanenbaum, Andrew S.</a> (1979). <i>Structured Computer Organization</i>. <a href="/wiki/Englewood_Cliffs,_New_Jersey" title="Englewood Cliffs, New Jersey">Englewood Cliffs, New Jersey</a>: Prentice-Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-148521-0" title="Special:BookSources/0-13-148521-0">0-13-148521-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Structured+Computer+Organization&amp;rft.place=Englewood+Cliffs%2C+New+Jersey&amp;rft.pub=Prentice-Hall&amp;rft.date=1979&amp;rft.isbn=0-13-148521-0&amp;rft.aulast=Tanenbaum&amp;rft.aufirst=Andrew+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+architecture" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Computer_architecture&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Computer_architecture" class="extiw" title="commons:Category:Computer architecture">Computer architecture</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://portal.acm.org/toc.cfm?id=SERIES416&amp;type=series&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=41492512&amp;CFTOKEN=82922478">ISCA: Proceedings of the International Symposium on Computer Architecture</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.microarch.org/">Micro: IEEE/ACM International Symposium on Microarchitecture</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hpcaconf.org/">HPCA: International Symposium on High Performance Computer Architecture</a></li>
+<li><a rel="nofollow" class="external text" href="http://portal.acm.org/toc.cfm?id=SERIES311&amp;type=series&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=41492415&amp;CFTOKEN=3676847">ASPLOS: International Conference on Architectural Support for Programming Languages and Operating Systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.acm.org/taco/">ACM Transactions on Architecture and Code Optimization</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.computer.org/portal/web/tc/home">IEEE Transactions on Computers</a></li>
+<li><a rel="nofollow" class="external text" href="http://www-scf.usc.edu/~inf520/downloads/The%20von%20Neumann%20Architecture%20of%20Computer%20Systems.pdf">The von Neumann Architecture of Computer Systems</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%;margin:0 4em">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4048717-9">4048717-9</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20180213063635
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.359 seconds
+Preprocessor visited node count: 1364/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67388/2097152 bytes
+Template argument size: 934/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 4.92 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.495      1 -total
+ 47.89%  135.284      1 Template:Reflist
+ 22.55%   63.709      9 Template:Cite_book
+ 15.75%   44.491      8 Template:Cite_web
+ 14.31%   40.415      1 Template:Citation_needed
+ 10.85%   30.654      1 Template:Computer_science
+  9.78%   27.639      1 Template:Fix
+  9.72%   27.449      1 Template:Navbox
+  6.66%   18.804      1 Template:Commons_category
+  6.23%   17.598      2 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25652303-0!canonical and timestamp 20180213063635 and revision id 818082197
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_architecture&amp;oldid=818082197">https://en.wikipedia.org/w/index.php?title=Computer_architecture&amp;oldid=818082197</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_architecture" title="Category:Computer architecture">Computer architecture</a></li><li><a href="/wiki/Category:Central_processing_unit" title="Category:Central processing unit">Central processing unit</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2017" title="Category:Articles with unsourced statements from May 2017">Articles with unsourced statements from May 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Computer+architecture" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Computer+architecture" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Computer_architecture" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Computer_architecture" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Computer_architecture">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Computer_architecture&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Computer_architecture&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Computer_architecture" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Computer_architecture" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Computer_architecture&amp;oldid=818082197" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Computer_architecture&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q173212" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_architecture&amp;id=818082197" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Computer+architecture">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Computer+architecture&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Computer_architecture&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Computer_architecture" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Computer_architecture" hreflang="en">Wikiversity</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8" title="معمارية الحاسوب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%AF" title="কম্পিউটার স্থাপত্য – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%BD%D0%B0_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Компютърна архитектура – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Ra%C4%8Dunarska_arhitektura" title="Računarska arhitektura – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Arquitectura_(inform%C3%A0tica)" title="Arquitectura (informàtica) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Architektura_po%C4%8D%C3%ADta%C4%8De" title="Architektura počítače – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rechnerarchitektur" title="Rechnerarchitektur – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Arhitektuur_(infotehnoloogia)" title="Arhitektuur (infotehnoloogia) – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CF%81%CF%87%CE%B9%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CF%8E%CE%BD" title="Αρχιτεκτονική υπολογιστών – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Arquitectura_de_computadoras" title="Arquitectura de computadoras – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Komputila_arkitekturo" title="Komputila arkitekturo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Konputagailu_arkitektura" title="Konputagailu arkitektura – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87" title="معماری رایانه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Architecture_mat%C3%A9rielle" title="Architecture matérielle – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B5%AC%EC%A1%B0" title="컴퓨터 구조 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A3%E0%A4%95_%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%95%E0%A4%B2%E0%A4%BE" title="संगणक वास्तुकला – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Arhitektura_ra%C4%8Dunala" title="Arhitektura računala – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Arsitektur_komputer" title="Arsitektur komputer – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Architettura_dei_calcolatori" title="Architettura dei calcolatori – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A8%D7%AA_%D7%9E%D7%97%D7%A9%D7%91" title="ארכיטקטורת מחשב – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%AD%D0%95%D0%9C_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%D1%81%D1%8B" title="ЭЕМ архитектурасы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Datora_arhitekt%C5%ABra" title="Datora arhitektūra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Sz%C3%A1m%C3%ADt%C3%B3g%C3%A9p-architekt%C3%BAra" title="Számítógép-architektúra – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%82%D0%B0%D1%87%D0%BA%D0%B0_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Сметачка архитектура – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%86%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%9F%E0%B5%86%E0%B4%95%E0%B5%8D%E2%80%8C%E0%B4%9A%E0%B5%BC" title="കമ്പ്യൂട്ടർ ആർക്കിടെക്‌ചർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Seni_bina_komputer" title="Seni bina komputer – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Computerarchitectuur" title="Computerarchitectuur – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3" title="コンピュータ・アーキテクチャ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Dataarkitektur" title="Dataarkitektur – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%AD%D0%A8%D0%9C_%D1%87%D0%BE%D2%A5%D1%8B%D0%BC%D0%BE%D0%B9%D1%8B%D1%80%D1%82%D0%B5%D0%BC" title="ЭШМ чоҥымойыртем – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Architektura_komputera" title="Architektura komputera – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Arquitetura_de_computadores" title="Arquitetura de computadores – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Архитектура компьютера – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Computer_airchitectur" title="Computer airchitectur – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Arkitektura_kompjuterike" title="Arkitektura kompjuterike – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Computer_architecture" title="Computer architecture – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Architekt%C3%BAra_po%C4%8D%C3%ADta%C4%8Da" title="Architektúra počítača – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D0%B0" title="Архитектура рачунара – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ra%C4%8Dunarska_arhitektura" title="Računarska arhitektura – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tietokonearkkitehtuuri" title="Tietokonearkkitehtuuri – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Datorarkitektur" title="Datorarkitektur – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A9%E0%AE%BF_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AE%AE%E0%AF%8D" title="கணினி கட்டுமானம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="สถาปัตยกรรมคอมพิวเตอร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bilgisayar_mimarisi" title="Bilgisayar mimarisi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Архітектура комп&#039;ютера – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ki%E1%BA%BFn_tr%C3%BAc_m%C3%A1y_t%C3%ADnh" title="Kiến trúc máy tính – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q173212#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 January 2018, at 12:36.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Computer_architecture&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.359","ppvisitednodes":{"value":1364,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67388,"limit":2097152},"templateargumentsize":{"value":934,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  282.495      1 -total"," 47.89%  135.284      1 Template:Reflist"," 22.55%   63.709      9 Template:Cite_book"," 15.75%   44.491      8 Template:Cite_web"," 14.31%   40.415      1 Template:Citation_needed"," 10.85%   30.654      1 Template:Computer_science","  9.78%   27.639      1 Template:Fix","  9.72%   27.449      1 Template:Navbox","  6.66%   18.804      1 Template:Commons_category","  6.23%   17.598      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":5160344,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20180213063635","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

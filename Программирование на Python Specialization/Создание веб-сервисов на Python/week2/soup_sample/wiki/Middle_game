@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chess middlegame - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chess_middlegame","wgTitle":"Chess middlegame","wgCurRevisionId":789125013,"wgRevisionId":789125013,"wgArticleId":522472,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Chess theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chess_middlegame","wgRelevantArticleId":522472,"wgRequestId":"Woa5AwpAADsAAAL6mSEAAADR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Middle_game","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Chess_middlegame","wgWikibaseItemId":"Q322259","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/1200px-Chessboard480.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chess_middlegame"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chess_middlegame&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Chess_middlegame&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chess_middlegame"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chess_middlegame rootpage-Chess_middlegame skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Chess middlegame</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Middle_game&amp;redirect=no" class="mw-redirect" title="Middle game">Middle game</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright" style="clear:right;text-align:center;max-width:254px">
+<div style="line-height:130%"></div>
+<div class="thumbinner" style="width:246px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/208px-Chessboard480.svg.png" width="208" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/312px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="a8 black rook"><img alt="a8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="d8 black queen"><img alt="d8 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/26px-Chess_qdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/39px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/52px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="h8 black king"><img alt="h8 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/26px-Chess_kdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/39px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/52px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="a7 black pawn"><img alt="a7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="b7 black knight"><img alt="b7 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/26px-Chess_ndt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/39px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/52px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="e7 black bishop"><img alt="e7 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="f7 black pawn"><img alt="f7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="g7 black rook"><img alt="g7 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h7 black pawn"><img alt="h7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="e6 black pawn"><img alt="e6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="f6 white knight"><img alt="f6 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g6 black pawn"><img alt="g6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c5 black pawn"><img alt="c5 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="e5 white pawn"><img alt="e5 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="f5 black bishop"><img alt="f5 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="g5 white queen"><img alt="g5 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/26px-Chess_qlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/39px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/52px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="d4 black pawn"><img alt="d4 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="f4 white pawn"><img alt="f4 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="f3 white knight"><img alt="f3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="g3 white rook"><img alt="g3 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="b2 white pawn"><img alt="b2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c2 white pawn"><img alt="c2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g2 white pawn"><img alt="g2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="c1 white bishop"><img alt="c1 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="f1 white rook"><img alt="f1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="g1 white king"><img alt="g1 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/26px-Chess_klt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/39px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/52px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">Middlegame position from the game <a href="/wiki/Joseph_Blackburne" class="mw-redirect" title="Joseph Blackburne">Joseph Blackburne</a>–<a href="/wiki/Siegbert_Tarrasch" title="Siegbert Tarrasch">Siegbert Tarrasch</a>, <a href="/wiki/Breslau" class="mw-redirect" title="Breslau">Breslau</a>, 1889, after 26.Qg5. Black played 26...Nd6.</div>
+</div>
+</div>
+<table role="presentation" class="metadata mbox-small" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;width:220px;">
+<tr>
+<td style="width:1px"></td>
+<td class="mbox-text plainlist">This example uses <a href="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic notation</a>.</td>
+</tr>
+</table>
+<p>The <b>middlegame</b> in <a href="/wiki/Chess" title="Chess">chess</a> refers to the portion of the game in between the <a href="/wiki/Chess_opening" title="Chess opening">opening</a> and the <a href="/wiki/Chess_endgame" title="Chess endgame">endgame</a>. There is no clear line between the opening and middlegame, and between the middlegame and <a href="/wiki/Chess_endgame" title="Chess endgame">endgame</a>. In modern chess, the moves that make up an opening blend into the middlegame, so there is no sharp divide. Simply put, the middle game begins when both players have completed the development of all or most of their pieces and the <a href="/wiki/King_(chess)" title="King (chess)">king</a> has been brought to relative safety. However, at master level, the opening analysis may go well into the middlegame.</p>
+<p>Likewise, the middlegame blends into the <a href="/wiki/Chess_endgame" title="Chess endgame">endgame</a>. There are differing opinions and criteria for when the middlegame ends and the endgame starts (see <a href="/wiki/Chess_endgame#The_start_of_the_endgame" title="Chess endgame">the start of the endgame</a>). Factors such as <a href="/wiki/Control_of_the_center" class="mw-redirect" title="Control of the center">control of the center</a> are less important in the endgame than the middlegame. In endgames the number of pieces and pawns is much reduced, though even after <a href="/wiki/Queen_(chess)" title="Queen (chess)">queens</a> are <a href="/wiki/Exchange_(chess)" title="Exchange (chess)">traded</a>, one may talk about a "middlegame without queens." The endgame is often said to begin when the kings can safely play an active role.</p>
+<p><a href="/wiki/Chess_theory" title="Chess theory">Theory</a> on the middlegame is less developed than the opening or endgames. Since middlegame positions are unique from game to game, memorization of theoretical variations is not possible as it is in the opening. Likewise, there are usually too many pieces on the board for theoretical positions to be completely analyzed as can be done in the simpler endgames.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Aims_of_the_middlegame"><span class="tocnumber">1</span> <span class="toctext">Aims of the middlegame</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Transition_to_the_endgame"><span class="tocnumber">2</span> <span class="toctext">Transition to the endgame</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reference_works"><span class="tocnumber">5</span> <span class="toctext">Reference works</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Classical_middlegame_textbooks"><span class="tocnumber">5.1</span> <span class="toctext">Classical middlegame textbooks</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Modern_texts"><span class="tocnumber">5.2</span> <span class="toctext">Modern texts</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Aims_of_the_middlegame">Aims of the middlegame</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=1" title="Edit section: Aims of the middlegame">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The Middle Game in Chess</i> by <a href="/wiki/Reuben_Fine" title="Reuben Fine">Reuben Fine</a> lists three major factors in the middlegame: king safety, force (<a href="/wiki/Material_(chess)" class="mw-redirect" title="Material (chess)">material</a>) and mobility, although not all of these factors are of equal importance. If king safety is a serious issue, a well-executed attack on the king can render other considerations, including material advantages, irrelevant. <a href="/wiki/Chess_piece_relative_value" title="Chess piece relative value">Material</a> is another important consideration, Fine notes that—if all other things are equal—any material advantage will usually be decisive. According to Fine, a material advantage will usually not give a direct mating attack unless the advantage is very large (a <a href="/wiki/Rook_(chess)" title="Rook (chess)">rook</a> or more), rather it can be used as a means of gaining more material and a decisive endgame advantage. To gain mobility is to ensure that the pieces have a wide scope of action and targets to focus on. The concept is largely <a href="/wiki/Chess_strategy" title="Chess strategy">strategic</a> in nature, and involves such concepts as space, <a href="/wiki/Pawn_(chess)" title="Pawn (chess)">pawn</a> weaknesses (since weak pawns can compel pieces to defensive duties, reducing their mobility), and securing <a href="/wiki/Outpost_(chess)" title="Outpost (chess)">outposts</a> for the pieces.</p>
+<p>The strategy required for middlegame play varies considerably. Some middlegame positions feature <dfn id=""><a href="/wiki/Glossary_of_chess#closed_game" title="Glossary of chess"><span title="See entry at: Glossary of chess § closed game" style="color:inherit;" class="glossary-link">closed</span></a></dfn> <dfn id=""><a href="/wiki/Glossary_of_chess#centre" title="Glossary of chess"><span title="See entry at: Glossary of chess § centre" style="color:inherit;" class="glossary-link">centres</span></a></dfn> featuring maneuvering behind the lines, while other middlegames are wide open, where both players attempt to gain the initiative. <a href="/wiki/Dan_Heisman" title="Dan Heisman">Dan Heisman</a> noted three features which can seriously alter the way the middlegame is played.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>First, if the kings are <a href="/wiki/Castling" title="Castling">castled</a> on opposite wings, and queens remain on the board, the position can be very violent, with both players aiming to assault the enemy king. Material considerations are often secondary to pursuing the attack, and it can even be advantageous to lose pawns in front of the enemy king in order to open up lines for the rooks and queen.</p>
+<p>Second, positions where the <a href="/wiki/Pawn_structure" title="Pawn structure">pawn structure</a> is static and locked, can also feature mutual attacks, since players often elect to play on the side where they have more space (playing on the side of the board in which their pawns are pointing). Time is often less of a concern in such middlegames, allowing lengthy maneuvers. Players attempt to strengthen their positions and weaken their opponent's. Both players need to be on the lookout for pawn breaks, and the possibility of taking advantage of the <a href="/wiki/Open_file" title="Open file">open files</a> which may arise from them.</p>
+<p>Third, if one player has an overwhelming material advantage and is clearly winning, the stronger player can usually afford to violate several of the normal middlegame principles in order to trade down to an endgame. For example, trading queens even at the cost of a ruined pawn structure may be a viable option.</p>
+<h2><span class="mw-headline" id="Transition_to_the_endgame">Transition to the endgame</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=2" title="Edit section: Transition to the endgame">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Not all games reach the endgame, since an attack on the king, or a combination leading to large material gains can end the game while it is still in the middlegame. At other times, an advantage needs to be pursued in the endgame, and learning how to make favorable <a href="/wiki/Exchange_(chess)" title="Exchange (chess)">exchanges</a> leading to a favorable endgame is an important skill.</p>
+<p>The last thing that happens in the middlegame is the setup for endgame. Since many endgames involve the <a href="/wiki/Promotion_(chess)" title="Promotion (chess)">promotion</a> of a pawn, it is usually good to keep that in mind when making trades during the middlegame. For example, <a href="/wiki/World_Chess_Championship" title="World Chess Championship">World Champion</a> <a href="/wiki/Max_Euwe" title="Max Euwe">Max Euwe</a> considered a preponderance of pawns on the <dfn id=""><a href="/wiki/Glossary_of_chess#queenside" title="Glossary of chess"><span title="See entry at: Glossary of chess § queenside" style="color:inherit;" class="glossary-link">queenside</span></a></dfn> (queenside majority) an advantage because this might be used to create a <a href="/wiki/Passed_pawn" title="Passed pawn">passed pawn</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Chess_terminology" class="mw-redirect" title="Chess terminology">Chess terminology</a></li>
+<li><a href="/wiki/Chess_strategy" title="Chess strategy">Chess strategy</a></li>
+<li><a href="/wiki/Chess_tactics" class="mw-redirect" title="Chess tactics">Chess tactics</a></li>
+<li><a href="/wiki/Chess_opening" title="Chess opening">Opening</a></li>
+<li><a href="/wiki/Chess_endgame" title="Chess endgame">Endgame</a></li>
+<li><a href="/wiki/Chess_piece_relative_value" title="Chess piece relative value">Chess piece relative value</a></li>
+<li><a href="/wiki/Pawn_structure" title="Pawn structure">Pawn structure</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Heisman, Dan. <a rel="nofollow" class="external text" href="http://www.chesscafe.com/text/heisman09.pdf">"Novice Nook: The Six Common Chess States"</a> <span style="font-size:85%;">(PDF)</span>. chesscafe.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Novice+Nook%3A+The+Six+Common+Chess+States&amp;rft.pub=chesscafe.com&amp;rft.aulast=Heisman&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fwww.chesscafe.com%2Ftext%2Fheisman09.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChess+middlegame" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.chesslodge.com/2007/02/pawn-majority/">"Pawn Majority"</a>. chesslodge.com. February 17, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pawn+Majority&amp;rft.pub=chesslodge.com&amp;rft.date=2007-02-17&amp;rft_id=http%3A%2F%2Fwww.chesslodge.com%2F2007%2F02%2Fpawn-majority%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChess+middlegame" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Reference_works">Reference works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=5" title="Edit section: Reference works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Classical_middlegame_textbooks">Classical middlegame textbooks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=6" title="Edit section: Classical middlegame textbooks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Works mostly written before 1970.</p>
+<ul>
+<li><a href="/wiki/Max_Euwe" title="Max Euwe">Euwe, Max</a> and H. Kramer 1964; 1994. <i>The Middlegame</i>. 2 vols: McKay; Hays. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-880673-95-9" title="Special:BookSources/978-1-880673-95-9">978-1-880673-95-9</a></li>
+<li><a href="/wiki/Reuben_Fine" title="Reuben Fine">Fine, Reuben</a> [1952] 2003. <i>The Middlegame in Chess</i>. McKay; Random House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8129-3484-9" title="Special:BookSources/0-8129-3484-9">0-8129-3484-9</a></li>
+<li><cite class="citation book"><a href="/wiki/Paul_Keres" title="Paul Keres">Keres, Paul</a>; <a href="/wiki/Alexander_Kotov" title="Alexander Kotov">Kotov, Alexander</a> (1964). <i>The Art of the Middle Game</i>. Penguin Books.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Art+of+the+Middle+Game&amp;rft.pub=Penguin+Books&amp;rft.date=1964&amp;rft.au=Keres%2C+Paul&amp;rft.au=Kotov%2C+Alexander&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChess+middlegame" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Aron_Nimzowitsch" title="Aron Nimzowitsch">Nimzowitsch, Aron</a> [1927] 1987. <i>My system</i>. B.T Batsford Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7134-5655-4" title="Special:BookSources/978-0-7134-5655-4">978-0-7134-5655-4</a></li>
+<li><a href="/wiki/Ludek_Pachman" class="mw-redirect" title="Ludek Pachman">Pachman, Ludek</a> [1963] 1975/78. <i>Complete chess strategy</i>. Doubleday. 3 vols from the first edition of 2 vols. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-346-12321-2" title="Special:BookSources/978-0-346-12321-2">978-0-346-12321-2</a>; <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-880673-96-6" title="Special:BookSources/978-1-880673-96-6">978-1-880673-96-6</a>; <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-679-13252-3" title="Special:BookSources/978-0-679-13252-3">978-0-679-13252-3</a>.</li>
+<li><a href="/wiki/Siegbert_Tarrasch" title="Siegbert Tarrasch">Tarrasch, Siegbert</a> [1895] 1999. <i>Three hundred chess games</i>. Hays. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-880673-18-8" title="Special:BookSources/978-1-880673-18-8">978-1-880673-18-8</a></li>
+<li><cite class="citation book"><a href="/wiki/Eugene_Znosko-Borovsky" title="Eugene Znosko-Borovsky">Znosko-Borovsky, Eugene</a> (1980) [1938]. <i>The Middle Game in Chess</i>. Dover. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-486-23931-4" title="Special:BookSources/0-486-23931-4">0-486-23931-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Middle+Game+in+Chess&amp;rft.pub=Dover&amp;rft.date=1980&amp;rft.isbn=0-486-23931-4&amp;rft.au=Znosko-Borovsky%2C+Eugene&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChess+middlegame" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h3><span class="mw-headline" id="Modern_texts">Modern texts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit&amp;section=7" title="Edit section: Modern texts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Yuri_Averbakh" title="Yuri Averbakh">Averbakh, Yuri</a> 1996. <i>Chess Middlegames: essential knowledge</i>. Cadogan, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85744-125-7" title="Special:BookSources/1-85744-125-7">1-85744-125-7</a></li>
+<li><a href="/wiki/Mark_Dvoretsky" title="Mark Dvoretsky">Dvoretsky, Mark</a> &amp; <a href="/wiki/Artur_Yusupov" title="Artur Yusupov">Yusupov, Artur</a> 1996. <i>Positional play</i>. Batsford, London. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7134-7879-9" title="Special:BookSources/0-7134-7879-9">0-7134-7879-9</a></li>
+<li><a href="/wiki/Jeremy_Silman" title="Jeremy Silman">Silman, Jeremy</a> 1998. <i>The complete book of chess strategy</i>. Siles Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-890085-01-8" title="Special:BookSources/978-1-890085-01-8">978-1-890085-01-8</a>.</li>
+<li><cite class="citation book"><a href="/wiki/Ivan_Sokolov_(chess_player)" title="Ivan Sokolov (chess player)">Sokolov, Ivan</a> (2009). <i>Winning Chess Middlegames</i>. New In Chess. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-5691-264-2" title="Special:BookSources/978-90-5691-264-2">978-90-5691-264-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Winning+Chess+Middlegames&amp;rft.pub=New+In+Chess&amp;rft.date=2009&amp;rft.isbn=978-90-5691-264-2&amp;rft.au=Sokolov%2C+Ivan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChess+middlegame" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Alexey_Suetin" title="Alexey Suetin">Suetin, Alexey</a> (1976). <i>A contemporary approach to the Middle Game</i>. Hippocrene Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7134-3123-0" title="Special:BookSources/978-0-7134-3123-0">978-0-7134-3123-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+contemporary+approach+to+the+Middle+Game&amp;rft.pub=Hippocrene+Books&amp;rft.date=1976&amp;rft.isbn=978-0-7134-3123-0&amp;rft.au=Suetin%2C+Alexey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChess+middlegame" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Jonathan_Tisdall" title="Jonathan Tisdall">Tisdall, Jonathan</a> 1997. <i>Improve your chess now</i>. Everyman, London. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85744-156-7" title="Special:BookSources/978-1-85744-156-7">978-1-85744-156-7</a></li>
+<li><a href="/wiki/John_L._Watson" title="John L. Watson">Watson, John</a> 1998. <i>Secrets of modern chess strategy: advances since Nimzowitsch</i>. Gambit London. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-901983-07-2" title="Special:BookSources/1-901983-07-2">1-901983-07-2</a></li>
+<li>Watson, John. 2003. <i>Chess strategy in action</i>. Gambit, London. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-901983-69-2" title="Special:BookSources/1-901983-69-2">1-901983-69-2</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Chess" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chess" title="Template:Chess"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chess" title="Template talk:Chess"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chess&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Chess" style="font-size:114%;margin:0 4em"><a href="/wiki/Chess" title="Chess">Chess</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_chess" title="Outline of chess">Outline</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chess_theory" title="Chess theory">Chess theory</a></li>
+<li><a href="/wiki/Chess_title" title="Chess title">Chess titles</a>
+<ul>
+<li><a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">Grandmaster</a></li>
+<li><a href="/wiki/List_of_chess_grandmasters" title="List of chess grandmasters">list of Grandmasters</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Computer_chess" title="Computer chess">Computer chess</a>
+<ul>
+<li><a href="/wiki/Glossary_of_computer_chess_terms" title="Glossary of computer chess terms">glossary</a></li>
+<li><a href="/wiki/Human%E2%80%93computer_chess_matches" title="Human–computer chess matches">matches</a></li>
+<li><a href="/wiki/Chess_engine" title="Chess engine">engines</a></li>
+<li><a href="/wiki/List_of_chess_software" title="List of chess software">software</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Correspondence_chess" title="Correspondence chess">Correspondence chess</a></li>
+<li><a href="/wiki/FIDE" title="FIDE">FIDE</a></li>
+<li><a href="/wiki/Glossary_of_chess" title="Glossary of chess">Glossary</a></li>
+<li><a href="/wiki/History_of_chess" title="History of chess">History</a>
+<ul>
+<li><a href="/wiki/Timeline_of_chess" title="Timeline of chess">timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_rating_system" title="Chess rating system">Rating system</a>
+<ul>
+<li><a href="/wiki/FIDE_world_rankings" title="FIDE world rankings">world rankings</a></li>
+<li><a href="/wiki/Norm_(chess)" title="Norm (chess)">norms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_chess_variants" title="List of chess variants">Variants</a>
+<ul>
+<li><a href="/wiki/Courier_chess" title="Courier chess">Courier</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_world_records_in_chess" title="List of world records in chess">World records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_equipment" title="Chess equipment">Equipment</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chess_set" title="Chess set">Chess set</a>
+<ul>
+<li><a href="/wiki/Chessboard" title="Chessboard">chessboard</a></li>
+<li><a href="/wiki/Chess_piece" title="Chess piece">pieces</a></li>
+<li><a href="/wiki/King_(chess)" title="King (chess)">King</a></li>
+<li><a href="/wiki/Queen_(chess)" title="Queen (chess)">Queen</a></li>
+<li><a href="/wiki/Rook_(chess)" title="Rook (chess)">Rook</a></li>
+<li><a href="/wiki/Bishop_(chess)" title="Bishop (chess)">Bishop</a></li>
+<li><a href="/wiki/Knight_(chess)" title="Knight (chess)">Knight</a></li>
+<li><a href="/wiki/Pawn_(chess)" title="Pawn (chess)">Pawn</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_box" title="Chess box">Chess box</a></li>
+<li><a href="/wiki/Chess_clock" title="Chess clock">Chess clock</a></li>
+<li><a href="/wiki/Chess_table" title="Chess table">Chess table</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rules_of_chess" title="Rules of chess">Rules</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Castling" title="Castling">Castling</a></li>
+<li><a href="/wiki/Check_(chess)" title="Check (chess)">Check</a></li>
+<li><a href="/wiki/Checkmate" title="Checkmate">Checkmate</a></li>
+<li><a href="/wiki/Draw_(chess)" title="Draw (chess)">Draw</a>
+<ul>
+<li><a href="/wiki/Draw_by_agreement" title="Draw by agreement">by agreement</a></li>
+<li><a href="/wiki/Fifty-move_rule" title="Fifty-move rule">Fifty-move rule</a></li>
+<li><a href="/wiki/Perpetual_check" title="Perpetual check">Perpetual check</a></li>
+<li><a href="/wiki/Stalemate" title="Stalemate">Stalemate</a></li>
+<li><a href="/wiki/Threefold_repetition" title="Threefold repetition">Threefold repetition</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/En_passant" title="En passant">En passant</a></i></li>
+<li><a href="/wiki/Promotion_(chess)" title="Promotion (chess)">Pawn promotion</a></li>
+<li><a href="/wiki/Time_control" title="Time control">Time control</a>
+<ul>
+<li><a href="/wiki/Fast_chess" title="Fast chess">Fast chess</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Touch-move_rule" title="Touch-move rule">Touch-move rule</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Glossary_of_chess" title="Glossary of chess">Terms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blunder_(chess)" title="Blunder (chess)">Blunder</a></li>
+<li><a href="/wiki/Chess_notation" title="Chess notation">Chess notation</a>
+<ul>
+<li><a href="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic</a></li>
+<li><a href="/wiki/Descriptive_notation" title="Descriptive notation">descriptive</a></li>
+<li><a href="/wiki/Portable_Game_Notation" title="Portable Game Notation">PGN</a></li>
+<li><a href="/wiki/Chess_annotation_symbols" title="Chess annotation symbols">annotation symbols</a></li>
+<li><a href="/wiki/Chess_symbols_in_Unicode" title="Chess symbols in Unicode">symbols in Unicode</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fianchetto" title="Fianchetto">Fianchetto</a></li>
+<li><a href="/wiki/Gambit" title="Gambit">Gambit</a></li>
+<li><a href="/wiki/Key_square" title="Key square">Key square</a></li>
+<li><a href="/wiki/King_walk" title="King walk">King walk</a></li>
+<li>Pawns
+<ul>
+<li><a href="/wiki/Backward_pawn" title="Backward pawn">backward</a></li>
+<li><a href="/wiki/Connected_pawns" title="Connected pawns">connected</a></li>
+<li><a href="/wiki/Doubled_pawns" title="Doubled pawns">doubled</a></li>
+<li><a href="/wiki/Isolated_pawn" title="Isolated pawn">isolated</a></li>
+<li><a href="/wiki/Mar%C3%B3czy_Bind" title="Maróczy Bind">Maróczy Bind</a></li>
+<li><a href="/wiki/Passed_pawn" title="Passed pawn">passed</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Open_file" title="Open file">Open file</a>
+<ul>
+<li><a href="/wiki/Half-open_file" title="Half-open file">Half-open file</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Outpost_(chess)" title="Outpost (chess)">Outpost</a></li>
+<li><a href="/wiki/School_of_chess" title="School of chess">School</a>
+<ul>
+<li><a href="/wiki/Romantic_chess" title="Romantic chess">romantic</a></li>
+<li><a href="/wiki/Hypermodernism_(chess)" title="Hypermodernism (chess)">hypermodern</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Swindle_(chess)" title="Swindle (chess)">Swindle</a></li>
+<li><a href="/wiki/Tempo_(chess)" title="Tempo (chess)">Tempo</a></li>
+<li><a href="/wiki/Transposition_(chess)" title="Transposition (chess)">Transposition</a></li>
+<li><a href="/wiki/List_of_chess_traps" title="List of chess traps">Trap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_tactic" title="Chess tactic">Tactics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battery_(chess)" title="Battery (chess)">Battery</a>
+<ul>
+<li><a href="/wiki/Alekhine%27s_gun" title="Alekhine's gun">Alekhine's gun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Block_(chess)" title="Block (chess)">Block</a></li>
+<li><a href="/wiki/Checkmate_pattern" title="Checkmate pattern">Checkmate patterns</a></li>
+<li><a href="/wiki/Combination_(chess)" title="Combination (chess)">Combination</a></li>
+<li><a href="/wiki/Decoy_(chess)" title="Decoy (chess)">Decoy</a></li>
+<li><a href="/wiki/Deflection_(chess)" title="Deflection (chess)">Deflection</a></li>
+<li><a href="/wiki/Desperado_(chess)" title="Desperado (chess)">Desperado</a></li>
+<li><a href="/wiki/Discovered_attack" title="Discovered attack">Discovered attack</a></li>
+<li><a href="/wiki/Double_check" title="Double check">Double check</a></li>
+<li><a href="/wiki/Fork_(chess)" title="Fork (chess)">Fork</a></li>
+<li><a href="/wiki/Interference_(chess)" title="Interference (chess)">Interference</a></li>
+<li><a href="/wiki/Overloading_(chess)" title="Overloading (chess)">Overloading</a></li>
+<li><a href="/wiki/Pin_(chess)" title="Pin (chess)">Pin</a></li>
+<li><a href="/wiki/Sacrifice_(chess)" title="Sacrifice (chess)">Sacrifice</a></li>
+<li><a href="/wiki/Skewer_(chess)" title="Skewer (chess)">Skewer</a></li>
+<li><a href="/wiki/Undermining_(chess)" title="Undermining (chess)">Undermining</a></li>
+<li><a href="/wiki/Windmill_(chess)" title="Windmill (chess)">Windmill</a></li>
+<li><a href="/wiki/X-ray_(chess)" title="X-ray (chess)">X-ray</a></li>
+<li><a href="/wiki/Zwischenzug" title="Zwischenzug">Zwischenzug</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_strategy" title="Chess strategy">Strategy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_castling" title="Artificial castling">Artificial castling</a></li>
+<li><a href="/wiki/Compensation_(chess)" title="Compensation (chess)">Compensation</a></li>
+<li><a href="/wiki/Exchange_(chess)" title="Exchange (chess)">Exchange</a>
+<ul>
+<li><a href="/wiki/The_exchange_(chess)" title="The exchange (chess)">the exchange</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Initiative_(chess)" title="Initiative (chess)">Initiative</a>
+<ul>
+<li><a href="/wiki/First-move_advantage_in_chess" title="First-move advantage in chess">first-move advantage</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Middlegame</a></li>
+<li><a href="/wiki/Pawn_storm" title="Pawn storm">Pawn storm</a></li>
+<li><a href="/wiki/Pawn_structure" title="Pawn structure">Pawn structure</a></li>
+<li><a href="/wiki/Chess_piece_relative_value" title="Chess piece relative value">Piece values</a></li>
+<li><a href="/wiki/Prophylaxis_(chess)" title="Prophylaxis (chess)">Prophylaxis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_opening" title="Chess opening">Openings</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flank_opening" title="Flank opening">Flank opening</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Opening" title="English Opening">English Opening</a></li>
+<li><a href="/wiki/Zukertort_Opening" title="Zukertort Opening">Zukertort Opening</a>
+<ul>
+<li><a href="/wiki/R%C3%A9ti_Opening" title="Réti Opening">Réti Opening</a></li>
+<li><a href="/wiki/King%27s_Indian_Attack" title="King's Indian Attack">King's Indian Attack</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Larsen%27s_Opening" title="Larsen's Opening">Larsen's Opening</a></li>
+<li><a href="/wiki/Bird%27s_Opening" title="Bird's Opening">Bird's Opening</a></li>
+<li><a href="/wiki/Grob%27s_Attack" title="Grob's Attack">Grob's Attack</a></li>
+<li><a href="/wiki/Dunst_Opening" title="Dunst Opening">Dunst Opening</a></li>
+<li><a href="/wiki/King%27s_Fianchetto_Opening" title="King's Fianchetto Opening">Benko Opening</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/King%27s_Pawn_Game" title="King's Pawn Game">King's Pawn Game</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alekhine%27s_Defence" title="Alekhine's Defence">Alekhine's Defence</a></li>
+<li><a href="/wiki/Caro%E2%80%93Kann_Defence" title="Caro–Kann Defence">Caro–Kann Defence</a></li>
+<li><a href="/wiki/French_Defence" title="French Defence">French Defence</a></li>
+<li><a href="/wiki/Modern_Defense" title="Modern Defense">Modern Defence</a></li>
+<li><a href="/wiki/Nimzowitsch_Defence" title="Nimzowitsch Defence">Nimzowitsch Defence</a></li>
+<li><a href="/wiki/Open_Game" title="Open Game">Open Game</a>
+<ul>
+<li><a href="/wiki/Italian_Game" title="Italian Game">Italian Game</a></li>
+<li><a href="/wiki/Semi-Italian_Opening" title="Semi-Italian Opening">Semi-Italian Opening</a></li>
+<li><a href="/wiki/Giuoco_Piano" title="Giuoco Piano">Giuoco Piano</a></li>
+<li><a href="/wiki/King%27s_Gambit" title="King's Gambit">King's Gambit</a></li>
+<li><a href="/wiki/Petrov%27s_Defence" title="Petrov's Defence">Petrov's Defence</a></li>
+<li><a href="/wiki/Philidor_Defence" title="Philidor Defence">Philidor Defence</a></li>
+<li><a href="/wiki/Ruy_Lopez" title="Ruy Lopez">Ruy Lopez</a></li>
+<li><a href="/wiki/Scotch_Game" title="Scotch Game">Scotch Game</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Owen%27s_Defence" title="Owen's Defence">Owen's Defence</a></li>
+<li><a href="/wiki/Pirc_Defence" title="Pirc Defence">Pirc Defence</a></li>
+<li><a href="/wiki/Scandinavian_Defense" title="Scandinavian Defense">Scandinavian Defense</a>
+<ul>
+<li><a href="/wiki/Tennison_Gambit" title="Tennison Gambit">Tennison Gambit</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sicilian_Defence" title="Sicilian Defence">Sicilian Defence</a>
+<ul>
+<li><a href="/wiki/Sicilian_Defence,_Alapin_Variation" title="Sicilian Defence, Alapin Variation">Alapin</a></li>
+<li><a href="/wiki/Sicilian_Defence,_Dragon_Variation" title="Sicilian Defence, Dragon Variation">Dragon</a>/<a href="/wiki/Sicilian_Defence,_Accelerated_Dragon" title="Sicilian Defence, Accelerated Dragon">Accelerated Dragon</a></li>
+<li><a href="/wiki/Sicilian_Defence,_Najdorf_Variation" title="Sicilian Defence, Najdorf Variation">Najdorf</a></li>
+<li><a href="/wiki/Sicilian_Defence,_Scheveningen_Variation" title="Sicilian Defence, Scheveningen Variation">Scheveningen</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Queen%27s_Pawn_Game" title="Queen's Pawn Game">Queen's Pawn Game</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Defence" title="Dutch Defence">Dutch Defence</a></li>
+<li><a href="/wiki/Indian_Defence" title="Indian Defence">Indian Defence</a>
+<ul>
+<li><a href="/wiki/Benoni_Defense" title="Benoni Defense">Benoni Defence</a></li>
+<li><a href="/wiki/Modern_Benoni" title="Modern Benoni">Modern Benoni</a></li>
+<li><a href="/wiki/Bogo-Indian_Defence" title="Bogo-Indian Defence">Bogo-Indian Defence</a></li>
+<li><a href="/wiki/Gr%C3%BCnfeld_Defence" title="Grünfeld Defence">Grünfeld Defence</a></li>
+<li><a href="/wiki/King%27s_Indian_Defence" title="King's Indian Defence">King's Indian Defence</a></li>
+<li><a href="/wiki/Nimzo-Indian_Defence" title="Nimzo-Indian Defence">Nimzo-Indian Defence</a></li>
+<li><a href="/wiki/Queen%27s_Indian_Defense" title="Queen's Indian Defense">Queen's Indian Defence</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trompowsky_Attack" title="Trompowsky Attack">Trompowsky Attack</a></li>
+<li><a href="/wiki/London_System" title="London System">London System</a></li>
+<li><a href="/wiki/Queen%27s_Gambit" title="Queen's Gambit">Queen's Gambit</a>
+<ul>
+<li><a href="/wiki/Queen%27s_Gambit_Accepted" title="Queen's Gambit Accepted">Accepted</a></li>
+<li><a href="/wiki/Queen%27s_Gambit_Declined" title="Queen's Gambit Declined">Declined</a></li>
+<li><a href="/wiki/Slav_Defense" title="Slav Defense">Slav Defence</a></li>
+<li><a href="/wiki/Catalan_Opening" title="Catalan Opening">Catalan Opening</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_chess_openings" title="List of chess openings">List of openings</a>
+<ul>
+<li><a href="/wiki/Chess_opening_theory_table" title="Chess opening theory table">theory table</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_chess_gambits" title="List of chess gambits">List of chess gambits</a></li>
+<li><a href="/wiki/Irregular_chess_opening" title="Irregular chess opening">Irregular</a></li>
+<li><a href="/wiki/Checkmates_in_the_opening" title="Checkmates in the opening">Quick checkmates</a>
+<ul>
+<li><a href="/wiki/Fool%27s_mate" title="Fool's mate">Fool's mate</a></li>
+<li><a href="/wiki/Scholar%27s_mate" title="Scholar's mate">Scholar's mate</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_endgame" title="Chess endgame">Endgames</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King_and_pawn_versus_king_endgame" title="King and pawn versus king endgame">King and pawn vs king</a></li>
+<li><a href="/wiki/Opposite-colored_bishops_endgame" title="Opposite-colored bishops endgame">Opposite-coloured bishops</a></li>
+<li><a href="/wiki/Pawnless_chess_endgame" title="Pawnless chess endgame">Pawnless endgame</a></li>
+<li><a href="/wiki/Queen_and_pawn_versus_queen_endgame" title="Queen and pawn versus queen endgame">Queen and pawn vs queen</a></li>
+<li><a href="/wiki/Queen_versus_pawn_endgame" title="Queen versus pawn endgame">Queen vs pawn</a></li>
+<li><a href="/wiki/Rook_and_bishop_versus_rook_endgame" title="Rook and bishop versus rook endgame">Rook and bishop vs rook</a></li>
+<li><a href="/wiki/Rook_and_pawn_versus_rook_endgame" title="Rook and pawn versus rook endgame">Rook and pawn vs rook</a>
+<ul>
+<li><a href="/wiki/Lucena_position" title="Lucena position">Lucena position</a></li>
+<li><a href="/wiki/Philidor_position" title="Philidor position">Philidor position</a></li>
+</ul>
+</li>
+<li>Strategy
+<ul>
+<li><a href="/wiki/Fortress_(chess)" title="Fortress (chess)">fortress</a></li>
+<li><a href="/wiki/Opposition_(chess)" title="Opposition (chess)">opposition</a></li>
+<li><a href="/wiki/Tarrasch_rule" title="Tarrasch rule">Tarrasch rule</a></li>
+<li><a href="/wiki/Triangulation_(chess)" title="Triangulation (chess)">triangulation</a></li>
+<li><a href="/wiki/Zugzwang" title="Zugzwang">Zugzwang</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Endgame_study" title="Endgame study">Study</a></li>
+<li><a href="/wiki/Endgame_tablebase" title="Endgame tablebase">Tablebase</a></li>
+<li><a href="/wiki/Two_knights_endgame" title="Two knights endgame">Two knights endgame</a></li>
+<li><a href="/wiki/Wrong_bishop" title="Wrong bishop">Wrong bishop</a></li>
+<li><a href="/wiki/Wrong_rook_pawn" title="Wrong rook pawn">Wrong rook pawn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_tournament" title="Chess tournament">Tournaments</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_strong_chess_tournaments" title="List of strong chess tournaments">List of strong chess tournaments</a></li>
+<li><a href="/wiki/Chess_Olympiad" title="Chess Olympiad">Chess Olympiad</a>
+<ul>
+<li><a href="/wiki/Women%27s_Chess_Olympiad" title="Women's Chess Olympiad">Women</a></li>
+</ul>
+</li>
+<li><a href="/wiki/World_Chess_Championship" title="World Chess Championship">World Chess Championship</a>
+<ul>
+<li><a href="/wiki/List_of_World_Chess_Championships" title="List of World Chess Championships">List</a></li>
+<li><a href="/wiki/Candidates_Tournament" title="Candidates Tournament">Candidates Tournament</a></li>
+<li><a href="/wiki/Chess_World_Cup" title="Chess World Cup">Chess World Cup</a></li>
+<li><a href="/wiki/FIDE_Grand_Prix" title="FIDE Grand Prix">FIDE Grand Prix</a></li>
+</ul>
+</li>
+<li>Other world championships
+<ul>
+<li><a href="/wiki/Women%27s_World_Chess_Championship" title="Women's World Chess Championship">Women</a></li>
+<li><a href="/wiki/World_Team_Chess_Championship" title="World Team Chess Championship">Team</a></li>
+<li><a href="/wiki/World_Rapid_Chess_Championship" title="World Rapid Chess Championship">Rapid</a></li>
+<li><a href="/wiki/World_Blitz_Chess_Championship" title="World Blitz Chess Championship">Blitz</a></li>
+<li><a href="/wiki/World_Junior_Chess_Championship" title="World Junior Chess Championship">Junior</a></li>
+<li><a href="/wiki/World_Youth_Chess_Championship" title="World Youth Chess Championship">Youth</a></li>
+<li><a href="/wiki/World_Senior_Chess_Championship" title="World Senior Chess Championship">Senior</a></li>
+<li><a href="/wiki/World_Amateur_Chess_Championship" title="World Amateur Chess Championship">Amateur</a></li>
+<li><a href="/wiki/World_Championship_of_Chess_Composition" title="World Championship of Chess Composition">Chess composition</a></li>
+<li><a href="/wiki/World_Chess_Solving_Championship" title="World Chess Solving Championship">Solving</a></li>
+<li><a href="/wiki/World_Computer_Chess_Championship" title="World Computer Chess Championship">Computer chess</a></li>
+<li><a href="/wiki/World_Computer_Speed_Chess_Championship" title="World Computer Speed Chess Championship">Computer speed chess</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cheating_in_chess" title="Cheating in chess">Cheating in chess</a></li>
+<li><a href="/wiki/Chess_aesthetics" title="Chess aesthetics">Chess aesthetics</a></li>
+<li><a href="/wiki/Chess_in_the_arts" title="Chess in the arts">Chess in the arts</a>
+<ul>
+<li><a href="/wiki/Chess_in_early_literature" title="Chess in early literature">in early literature</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_chess_books" title="List of chess books">Chess books</a>
+<ul>
+<li><a href="/wiki/Chess_opening_book" title="Chess opening book">opening books</a></li>
+<li><a href="/wiki/Chess_endgame_literature" title="Chess endgame literature">endgame literature</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_club" title="Chess club">Chess club</a></li>
+<li><a href="/wiki/Chess_composer" title="Chess composer">Chess composer</a></li>
+<li><a href="/wiki/Chess_in_Europe" title="Chess in Europe">Chess in Europe</a>
+<ul>
+<li><i><a href="/wiki/G%C3%B6ttingen_manuscript" title="Göttingen manuscript">Göttingen manuscript</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_libraries" title="Chess libraries">Chess libraries</a></li>
+<li><a href="/wiki/Chess_columns_in_newspapers" title="Chess columns in newspapers">Chess newspaper columns</a></li>
+<li><a href="/wiki/List_of_chess_periodicals" title="List of chess periodicals">Chess periodicals</a></li>
+<li><a href="/wiki/Chess_problem" title="Chess problem">Chess problem</a>
+<ul>
+<li><a href="/wiki/Glossary_of_chess_problems" title="Glossary of chess problems">glossary</a></li>
+<li><a href="/wiki/Joke_chess_problem" title="Joke chess problem">joke chess</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_prodigy" title="Chess prodigy">Chess prodigy</a></li>
+<li><a href="/wiki/G%C3%B6kyay_Association_Chess_Museum" title="Gökyay Association Chess Museum">Gökyay Association Chess Museum</a></li>
+<li><a href="/wiki/World_Chess_Hall_of_Fame" title="World Chess Hall of Fame">Hall of Fame</a></li>
+<li><a href="/wiki/Deep_Blue_(chess_computer)" title="Deep Blue (chess computer)">Deep Blue</a></li>
+<li><a href="/wiki/Mutilated_chessboard_problem" title="Mutilated chessboard problem">Mutilated chessboard problem</a></li>
+<li><a href="/wiki/List_of_chess_games" title="List of chess games">Notable games</a></li>
+<li><a href="/wiki/Professional_Rapid_Online_Chess_League" title="Professional Rapid Online Chess League">PRO Chess League</a></li>
+<li><a href="/wiki/Simultaneous_exhibition" title="Simultaneous exhibition">Simultaneous exhibition</a></li>
+<li><a href="/wiki/Solving_chess" title="Solving chess">Solving chess</a></li>
+<li><a href="/wiki/Staunton_chess_set" title="Staunton chess set">Staunton chess set</a></li>
+<li><a href="/wiki/Comparison_of_top_chess_players_throughout_history" title="Comparison of top chess players throughout history">Top player comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4140741-6">4140741-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20180213203315
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.310 seconds
+Preprocessor visited node count: 3737/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84073/2097152 bytes
+Template argument size: 5944/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 3.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  217.151      1 -total
+ 32.60%   70.802     13 Template:ISBN
+ 20.35%   44.200      1 Template:Reflist
+ 16.15%   35.062      2 Template:Cite_web
+ 15.64%   33.958      1 Template:Authority_control
+ 12.35%   26.809     13 Template:Catalog_lookup_link
+  9.00%   19.553      1 Template:Chess_diagram
+  8.11%   17.612      1 Template:Chess
+  7.86%   17.061      2 Template:Navbox
+  7.63%   16.561     13 Template:Error-small
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:522472-0!canonical and timestamp 20180213203314 and revision id 789125013
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chess_middlegame&amp;oldid=789125013">https://en.wikipedia.org/w/index.php?title=Chess_middlegame&amp;oldid=789125013</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chess_theory" title="Category:Chess theory">Chess theory</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chess+middlegame" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chess+middlegame" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Chess_middlegame" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Chess_middlegame" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Chess_middlegame">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Chess_middlegame&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chess_middlegame&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chess_middlegame" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chess_middlegame" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chess_middlegame&amp;oldid=789125013" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chess_middlegame&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q322259" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chess_middlegame&amp;id=789125013" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chess+middlegame">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chess+middlegame&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Chess_middlegame&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%AA%D8%B5%D9%81_%D8%A7%D9%84%D9%84%D8%B9%D8%A8_(%D8%B4%D8%B7%D8%B1%D9%86%D8%AC)" title="منتصف اللعب (شطرنج) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Mittel%C5%9Fpil_(%C5%9Fahmat)" title="Mittelşpil (şahmat) – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D1%96%D1%82%D1%8D%D0%BB%D1%8C%D1%88%D0%BF%D1%96%D0%BB%D1%8C" title="Мітэльшпіль – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D1%96%D1%82%D1%8D%D0%BB%D1%8C%D1%88%D0%BF%D1%96%D0%BB%D1%8C" title="Мітэльшпіль – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B8%D1%82%D0%B5%D0%BB%D1%88%D0%BF%D0%B8%D0%BB" title="Мителшпил – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Mig_joc" title="Mig joc – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/St%C5%99edn%C3%AD_hra" title="Střední hra – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Midtspil_(skak)" title="Midtspil (skak) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mittelspiel" title="Mittelspiel – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Medio_juego_(ajedrez)" title="Medio juego (ajedrez) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Milieu_de_jeu" title="Milieu de jeu – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Mediogioco" title="Mediogioco – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%99%D7%A2%D7%94" title="מציעה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vidussp%C4%93le_(%C5%A1ahs)" title="Vidusspēle (šahs) – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/M%C3%ABttelspill_(Schach)" title="Mëttelspill (Schach) – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Mitel%C5%A1pilis" title="Mitelšpilis – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk badge-Q17437798 badge-goodarticle" title="good article"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B8%D1%88%D0%BD%D0%B8%D1%86%D0%B0" title="Средишница – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%B8%E0%B5%8D%E0%B4%B8%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B5%86_%E0%B4%AE%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B5%8D%E0%B4%AF%E0%B4%98%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82" title="ചെസ്സുകളിയിലെ മദ്ധ്യഘട്ടം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Middenspel" title="Middenspel – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Gra_%C5%9Brodkowa" title="Gra środkowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Meio-jogo" title="Meio-jogo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%82%D1%82%D0%B5%D0%BB%D1%8C%D1%88%D0%BF%D0%B8%D0%BB%D1%8C" title="Миттельшпиль – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Middlegame" title="Middlegame – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Stredn%C3%A1_hra" title="Stredná hra – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/%C5%A0ahovska_sredi%C5%A1%C4%8Dnica" title="Šahovska središčnica – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%86%D8%A7%D9%88%DB%8C%D9%86%DB%95%DB%8C%D8%A7%D8%B1%DB%8C%DB%8C_%D8%B4%DB%95%D8%AA%DA%95%DB%95%D9%86%D8%AC" title="ناوینەیاریی شەتڕەنج – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Keskipeli_(shakki)" title="Keskipeli (shakki) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Mittspel" title="Mittspel – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%82%D0%B5%D0%BB%D1%8C%D1%88%D0%BF%D1%96%D0%BB%D1%8C" title="Мітельшпіль – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%B1%A1%E6%A3%8B%E4%B8%AD%E5%B1%80" title="國際象棋中局 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q322259#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 July 2017, at 14:07.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chess_middlegame&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.310","ppvisitednodes":{"value":3737,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84073,"limit":2097152},"templateargumentsize":{"value":5944,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  217.151      1 -total"," 32.60%   70.802     13 Template:ISBN"," 20.35%   44.200      1 Template:Reflist"," 16.15%   35.062      2 Template:Cite_web"," 15.64%   33.958      1 Template:Authority_control"," 12.35%   26.809     13 Template:Catalog_lookup_link","  9.00%   19.553      1 Template:Chess_diagram","  8.11%   17.612      1 Template:Chess","  7.86%   17.061      2 Template:Navbox","  7.63%   16.561     13 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":3536953,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20180213203315","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

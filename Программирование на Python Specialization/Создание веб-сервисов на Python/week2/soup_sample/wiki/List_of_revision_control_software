@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of version control software - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_version_control_software","wgTitle":"List of version control software","wgCurRevisionId":819329830,"wgRevisionId":819329830,"wgArticleId":1787558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from February 2015","Articles with Curlie links","Version control systems","Lists of software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_version_control_software","wgRelevantArticleId":1787558,"wgRequestId":"WoMM6gpAMEkAAKxkFk0AAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"List_of_revision_control_software","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/List_of_version_control_software","wgWikibaseItemId":"Q23832038","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_version_control_software"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_version_control_software&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_version_control_software&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_version_control_software"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_version_control_software rootpage-List_of_version_control_software skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">List of version control software</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=List_of_revision_control_software&amp;redirect=no" class="mw-redirect" title="List of revision control software">List of revision control software</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This is a list of notable <a href="/wiki/Software" title="Software">software</a> for <a href="/wiki/Version_control" title="Version control">version control</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Local_data_model"><span class="tocnumber">1</span> <span class="toctext">Local data model</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Open_source"><span class="tocnumber">1.1</span> <span class="toctext">Open source</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Client-server_model"><span class="tocnumber">2</span> <span class="toctext">Client-server model</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Open_source_2"><span class="tocnumber">2.1</span> <span class="toctext">Open source</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Proprietary"><span class="tocnumber">2.2</span> <span class="toctext">Proprietary</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Distributed_model"><span class="tocnumber">3</span> <span class="toctext">Distributed model</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Open_source_3"><span class="tocnumber">3.1</span> <span class="toctext">Open source</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Proprietary_2"><span class="tocnumber">3.2</span> <span class="toctext">Proprietary</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Local_data_model">Local data model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=1" title="Edit section: Local data model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the local-only approach, all developers must use the same file system.</p>
+<h3><span class="mw-headline" id="Open_source">Open source</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=2" title="Edit section: Open source">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Revision_Control_System" title="Revision Control System">Revision Control System</a> (RCS)&#160;– stores the latest version and backward deltas for fastest access to the trunk tip<sup id="cite_ref-wohler1_1-0" class="reference"><a href="#cite_note-wohler1-1">[1]</a></sup><sup id="cite_ref-mcvoy_2-0" class="reference"><a href="#cite_note-mcvoy-2">[2]</a></sup> compared to SCCS and an improved user interface,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> at the cost of slow branch tip access and missing support for included/excluded deltas.</li>
+<li><a href="/wiki/Source_Code_Control_System" title="Source Code Control System">Source Code Control System</a> (SCCS)&#160;– part of <a href="/wiki/Unix" title="Unix">UNIX</a>; based on <a href="/wiki/Interleaved_deltas" title="Interleaved deltas">interleaved deltas</a>, can construct versions as arbitrary sets of revisions. Extracting an arbitrary version takes essentially the same time and is thus more useful in environments that rely heavily on <a href="/wiki/Branching_(software)" class="mw-redirect" title="Branching (software)">branching</a> and <a href="/wiki/Merge_(revision_control)" class="mw-redirect" title="Merge (revision control)">merging</a> with multiple "current" and identical versions.</li>
+</ul>
+<h2><span class="mw-headline" id="Client-server_model">Client-server model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=3" title="Edit section: Client-server model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the client-server model, developers use a shared single repository.</p>
+<h3><span class="mw-headline" id="Open_source_2">Open source</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=4" title="Edit section: Open source">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">Concurrent Versions System</a> (CVS)&#160;– originally built on RCS, licensed under the <a href="/wiki/GPL" class="mw-redirect" title="GPL">GPL</a>.
+<ul>
+<li><a href="/wiki/CVSNT" title="CVSNT">CVSNT</a>&#160;– cross-platform port of CVS that allows case insensitive file names among other changes</li>
+<li><a href="/wiki/OpenCVS" class="mw-redirect" title="OpenCVS">OpenCVS</a>&#160;– CVS clone under the <a href="/wiki/BSD_license" class="mw-redirect" title="BSD license">BSD license</a>, with emphasis put on security and source code correctness</li>
+</ul>
+</li>
+<li><a href="/wiki/Subversion_(software)" class="mw-redirect" title="Subversion (software)">Subversion</a> (SVN)&#160;– versioning control system inspired by CVS<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li><a href="/wiki/Vesta_(Software_configuration_management)" title="Vesta (Software configuration management)">Vesta</a>&#160;– build system with a versioning file system and support for distributed repositories</li>
+</ul>
+<h3><span class="mw-headline" id="Proprietary">Proprietary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=5" title="Edit section: Proprietary">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/AccuRev_SCM" title="AccuRev SCM">AccuRev</a>&#160;– source configuration management tool with integrated issue tracking based on "Streams" that efficiently manages parallel and global development; replication server is also available</li>
+<li><a href="/wiki/Autodesk_Vault" title="Autodesk Vault">Autodesk Vault</a>&#160;– Version control tool specifically designed for <a href="/wiki/Autodesk" title="Autodesk">Autodesk</a> applications managing the complex relationships between design files such as <a href="/wiki/AutoCAD" title="AutoCAD">AutoCAD</a> and <a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a>.</li>
+<li><a href="/wiki/CADES" title="CADES">CADES</a> - Designer productivity and version control system by <a href="/wiki/International_Computers_Limited" title="International Computers Limited">International Computers Limited</a>.</li>
+<li><a href="/wiki/Dimensions_CM" title="Dimensions CM">Dimensions CM</a> - <a href="/wiki/Software_configuration_management" title="Software configuration management">software change and configuration management</a> system developed by <a href="/wiki/Serena_Software" title="Serena Software">Serena Software</a> that includes <a href="/wiki/Revision_control" class="mw-redirect" title="Revision control">revision control</a>.</li>
+<li><a href="/wiki/Perforce_Software#Helix_Core" class="mw-redirect" title="Perforce Software">Helix Core</a>, formerly Perforce Helix&#160;- for large scale development environments</li>
+<li><a href="/wiki/IBM_Configuration_Management_Version_Control_(CMVC)" title="IBM Configuration Management Version Control (CMVC)">IBM Configuration Management Version Control (CMVC)</a>&#160;– version control system, no longer available.</li>
+<li><a href="/wiki/IBM_Rational_ClearCase" class="mw-redirect" title="IBM Rational ClearCase">IBM Rational ClearCase</a>&#160;– <a href="/wiki/SCC_compliant" title="SCC compliant">SCC compliant</a> configuration management system by <a href="/wiki/IBM" title="IBM">IBM</a> <a href="/wiki/Rational_Software" title="Rational Software">Rational Software</a></li>
+<li><a href="/wiki/Telelogic_Synergy" class="mw-redirect" title="Telelogic Synergy">IBM Rational Synergy</a>&#160;– SCC compliant integrated change management and task-based configuration management system, proprietary of IBM.</li>
+<li><a href="/wiki/IBM_Rational_Team_Concert" class="mw-redirect" title="IBM Rational Team Concert">IBM Rational Team Concert</a>&#160;– Collaboration and application lifecycle management platform by <a href="/wiki/IBM" title="IBM">IBM</a> <a href="/wiki/Rational_Software" title="Rational Software">Rational Software</a></li>
+<li><a href="/wiki/IC_Manage" title="IC Manage">IC Manage</a> Global Design Platform (GDP)&#160;– design data management for IC design and <a href="/wiki/Perforce" title="Perforce">Perforce</a> infrastructure support.</li>
+<li><a href="/wiki/Panvalet" title="Panvalet">Panvalet</a>&#160;- Around since the 1970s, source and object control for IBM mainframe computers.</li>
+<li><a href="/wiki/PTC_Integrity" title="PTC Integrity">PTC Integrity</a> (Formerly MKS Integrity).</li>
+<li><a href="/wiki/PVCS" title="PVCS">PVCS</a>&#160;– originally Polytron Version Control System, developed by Don Kinzer at <a href="/wiki/Polytron_(software)" class="mw-redirect" title="Polytron (software)">Polytron</a>, first released in 1985. Now owned by Serena.</li>
+<li><a href="/wiki/QVCS" title="QVCS">Quma Version Control System</a></li>
+<li><a href="/wiki/Razor_(configuration_management)" title="Razor (configuration management)">Razor (configuration management)</a>, integrated suite from Visible Systems</li>
+<li><a href="/wiki/StarTeam" title="StarTeam">StarTeam</a>&#160;– coordinates and manages software delivery process by <a href="/wiki/Micro_Focus_International" class="mw-redirect" title="Micro Focus International">Micro Focus</a>, formerly <a href="/wiki/Borland" title="Borland">Borland</a>; centralized control of digital assets and activities</li>
+<li><a href="/wiki/Surround_SCM" title="Surround SCM">Surround SCM</a>&#160;– version control tool by <a href="/wiki/Seapine_Software" title="Seapine Software">Seapine Software</a>.</li>
+<li><a href="/wiki/Team_Foundation_Server" title="Team Foundation Server">Team Foundation Server</a> (TFS)&#160;- Development software by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> which includes revision control.</li>
+<li>TeamWork&#160;– version control tool by <a href="/wiki/DBMaestro" title="DBMaestro">DBmaestro</a>; oriented to <a href="/wiki/Database" title="Database">DBMs</a></li>
+<li><a href="/wiki/Vault_(revision_control_system)" class="mw-redirect" title="Vault (revision control system)">Vault</a>&#160;– version control tool by SourceGear (First installation can be used for free)</li>
+<li><a href="/wiki/Visual_SourceSafe" class="mw-redirect" title="Visual SourceSafe">Visual SourceSafe</a>&#160;– version control tool by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>; oriented toward small teams</li>
+<li><a href="/wiki/Visual_Studio_Team_Services" class="mw-redirect" title="Visual Studio Team Services">Visual Studio Team Services</a> (VSTS)&#160;- Services for teams to share code, track work, and ship software for any language by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></li>
+</ul>
+<h2><span class="mw-headline" id="Distributed_model">Distributed model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=6" title="Edit section: Distributed model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/Distributed_revision_control" class="mw-redirect" title="Distributed revision control">distributed approach</a>, each developer works directly with his or her own local repository, and changes are shared between repositories as a separate step.</p>
+<h3><span class="mw-headline" id="Open_source_3">Open source</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=7" title="Edit section: Open source">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/ArX_(revision_control)" class="mw-redirect" title="ArX (revision control)">ArX</a>&#160;– written by Walter Landry, started as a fork of GNU arch, but has been completely rewritten</li>
+<li><a href="/wiki/Bazaar_(software)" class="mw-redirect" title="Bazaar (software)">Bazaar</a>&#160;– written in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, originally by Martin Pool and sponsored by <a href="/wiki/Canonical_Ltd." class="mw-redirect" title="Canonical Ltd.">Canonical</a>; decentralised, and aims to be fast and easy to use; can losslessly import Arch archives</li>
+<li><a href="/wiki/BitKeeper" title="BitKeeper">BitKeeper</a>&#160;– was used in <a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a> development (2002&#160;– April 2005) until its license was revoked for breach of contract. It was open-sourced in 2016 in an attempt to broaden its appeal again.</li>
+<li><a href="/wiki/Codeville" title="Codeville">Codeville</a>&#160;– written in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> originally by Ross Cohen; uses an innovative merging algorithm</li>
+<li><a href="/wiki/Darcs" title="Darcs">Darcs</a>&#160;– written in <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a> and originally developed by David Roundy; can keep track of inter-patch dependencies and automatically rearrange and "cherry-pick" them using a "theory of patches"</li>
+<li><a href="/wiki/Distributed_Concurrent_Versions_System" title="Distributed Concurrent Versions System">DCVS</a>&#160;– decentralized and CVS-based</li>
+<li><a href="/wiki/Fossil_(software)" title="Fossil (software)">Fossil</a>&#160;– written by <a href="/wiki/D._Richard_Hipp" title="D. Richard Hipp">D. Richard Hipp</a> for <a href="/wiki/SQLite" title="SQLite">SQLite</a>; distributed revision control, wiki, and bug-tracking (all-in-one solution) with console and web interfaces. Single portable executable and single repository file.</li>
+<li><a href="/wiki/Git_(software)" class="mw-redirect" title="Git (software)">Git</a>&#160;– written in a collection of Perl, C, and various shell scripts, designed by <a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a> based on the needs of the <a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a> project; decentralized, and aims to be fast, flexible, and robust</li>
+<li><a href="/wiki/GNU_arch" title="GNU arch">GNU arch</a></li>
+<li><a href="/wiki/Mercurial_(software)" class="mw-redirect" title="Mercurial (software)">Mercurial</a>&#160;– written in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> as an Open Source replacement to <a href="/wiki/BitKeeper" title="BitKeeper">BitKeeper</a>; decentralized and aims to be fast, lightweight, portable, and easy to use</li>
+<li><a href="/wiki/Monotone_(software)" title="Monotone (software)">Monotone</a>&#160;– developed by the Monotone Team; decentralized in a <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a> way</li>
+<li><a href="/wiki/SVK" title="SVK">SVK</a>&#160;– written in <a href="/wiki/Perl" title="Perl">Perl</a> by Kao Chia-liang; built on top of Subversion to allow distributed commits</li>
+<li><a href="/wiki/Veracity_(software)" title="Veracity (software)">Veracity</a> - Is another distributed version control system which includes <a href="/wiki/Bug_tracking_system" title="Bug tracking system">bug tracking</a> and <a href="/wiki/Agile_software_development" title="Agile software development">Agile software development</a> tools integrated with the version control features.</li>
+</ul>
+<h3><span class="mw-headline" id="Proprietary_2">Proprietary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=8" title="Edit section: Proprietary">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Code_Co-op" title="Code Co-op">Code Co-op</a>&#160;– peer-to-peer version control system (can use e-mail for synchronization)</li>
+<li><a href="/wiki/Sun_WorkShop_TeamWare" title="Sun WorkShop TeamWare">Sun WorkShop TeamWare</a>&#160;– designed<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2015)">citation needed</span></a></i>]</sup> by <a href="/wiki/Larry_McVoy" title="Larry McVoy">Larry McVoy</a>, creator of BitKeeper</li>
+<li><a href="/wiki/Plastic_SCM" title="Plastic SCM">Plastic SCM</a>&#160;– by Codice Software, Inc</li>
+<li><a href="/wiki/Visual_Studio_Team_Services" class="mw-redirect" title="Visual Studio Team Services">Visual Studio Team Services</a>&#160;- Services for teams to share code, track work, and ship software for any language by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-wohler1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-wohler1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Bill Wohler (10 Oct 1992). <a rel="nofollow" class="external text" href="http://www.faqs.org/faqs/unix-faq/faq/part7/">"Unix&#160;— Frequently Asked Questions (7/7)"</a>. RCS vs SCCS: How do they compare for performance?. <q>[RCS ...] is much faster in retrieving the latest version</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unix+%E2%80%94+Frequently+Asked+Questions+%287%2F7%29&amp;rft.pages=RCS+vs+SCCS%3A++How+do+they+compare+for+performance%3F&amp;rft.date=1992-10-10&amp;rft.au=Bill+Wohler&amp;rft_id=http%3A%2F%2Fwww.faqs.org%2Ffaqs%2Funix-faq%2Ffaq%2Fpart7%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+version+control+software" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mcvoy-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-mcvoy_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Larry McVoy (11 Dec 2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120326025256/http://mail.bitmover.com/pipermail/bitkeeper-users/2003-December/001137.html">"BitKeeper: Why SCCS, rather than RCS?"</a>. Archived from <a rel="nofollow" class="external text" href="http://mail.bitmover.com/pipermail/bitkeeper-users/2003-December/001137.html">the original</a> on March 26, 2012. <q>RCS is optimized for getting the most recent version on the trunk</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BitKeeper%3A+Why+SCCS%2C+rather+than+RCS%3F&amp;rft.date=2003-12-11&amp;rft.au=Larry+McVoy&amp;rft_id=http%3A%2F%2Fmail.bitmover.com%2Fpipermail%2Fbitkeeper-users%2F2003-December%2F001137.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+version+control+software" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Bill Wohler (10 Oct 1992). <a rel="nofollow" class="external text" href="http://www.faqs.org/faqs/unix-faq/faq/part7/">"Unix&#160;— Frequently Asked Questions (7/7)"</a>. RCS vs SCCS: How do the interfaces compare?. <q>[RCS ...] is more intuitive and consistent</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unix+%E2%80%94+Frequently+Asked+Questions+%287%2F7%29&amp;rft.pages=RCS+vs+SCCS%3A+How+do+the+interfaces+compare%3F&amp;rft.date=1992-10-10&amp;rft.au=Bill+Wohler&amp;rft_id=http%3A%2F%2Fwww.faqs.org%2Ffaqs%2Funix-faq%2Ffaq%2Fpart7%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+version+control+software" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation">"Changes", <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081025054653/http://svn.collab.net/repos/svn/trunk/CHANGES"><i>SVN</i></a>, Collab Net, archived from <a rel="nofollow" class="external text" href="http://svn.collab.net/repos/svn/trunk/CHANGES">the original</a> on October 25, 2008</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Changes&amp;rft.btitle=SVN&amp;rft.pub=Collab+Net&amp;rft_id=http%3A%2F%2Fsvn.collab.net%2Frepos%2Fsvn%2Ftrunk%2FCHANGES&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+version+control+software" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Comparison_of_revision_control_software" class="mw-redirect" title="Comparison of revision control software">Comparison of revision control software</a></li>
+<li><a href="/wiki/Comparison_of_source_code_hosting_facilities" title="Comparison of source code hosting facilities">Comparison of source code hosting facilities</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Computers/Software/Configuration_Management/Tools">Configuration Management Tools</a> at Curlie (based on <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a>)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Version_control_software" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Version_control_software" title="Template:Version control software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Version_control_software" title="Template talk:Version control software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Version_control_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Version_control_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Version_control" title="Version control">Version control software</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Years, where available, indicate the date of first stable release. Systems with names <i>in italics</i> are no longer maintained or have planned end-of-life dates.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Local only</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free/open-source</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Revision_Control_System" title="Revision Control System">RCS</a> (1982)</li>
+<li><a href="/wiki/Source_Code_Control_System" title="Source Code Control System">SCCS</a> (1972)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PVCS" title="PVCS">PVCS</a> (1985)</li>
+<li><i><a href="/wiki/QVCS" title="QVCS">QVCS</a></i> (1991)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Revision_controlled_project_visualization-2010-24-02.svg" class="image"><img alt="Revision controlled project visualization-2010-24-02.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/80px-Revision_controlled_project_visualization-2010-24-02.svg.png" width="80" height="196" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/120px-Revision_controlled_project_visualization-2010-24-02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/160px-Revision_controlled_project_visualization-2010-24-02.svg.png 2x" data-file-width="220" data-file-height="540" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Client–server</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Free/open-source</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">CVS</a> (1986, 1990 in C)</li>
+<li><a href="/wiki/CVSNT" title="CVSNT">CVSNT</a> (1998)</li>
+<li><a href="/wiki/QVCS" title="QVCS">QVCS Enterprise</a> (1998)</li>
+<li><a href="/wiki/Apache_Subversion" title="Apache Subversion">Subversion</a> (2000)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Proprietary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AccuRev_SCM" title="AccuRev SCM">AccuRev SCM</a> (2002)</li>
+<li><a href="/wiki/Rational_ClearCase" title="Rational ClearCase">ClearCase</a> (1992)</li>
+<li><i><a href="/wiki/IBM_Configuration_Management_Version_Control_(CMVC)" title="IBM Configuration Management Version Control (CMVC)">CMVC</a></i> (1994)</li>
+<li><a href="/wiki/Dimensions_CM" title="Dimensions CM">Dimensions CM</a> (1980s)</li>
+<li><i><a href="/wiki/Apollo_Computer#History" title="Apollo Computer">DSEE</a></i> (1984)</li>
+<li><a href="/wiki/Endevor" title="Endevor">Endevor</a> (1980s)</li>
+<li><a href="/wiki/PTC_Integrity" title="PTC Integrity">Integrity</a> (2001)</li>
+<li><a href="/wiki/Panvalet" title="Panvalet">Panvalet</a> (1970s)</li>
+<li><a href="/wiki/Perforce_Helix" class="mw-redirect" title="Perforce Helix">Perforce Helix</a> (1995)</li>
+<li><a href="/wiki/IBM_Software_Configuration_and_Library_Manager" title="IBM Software Configuration and Library Manager">SCLM</a> (1980s?)</li>
+<li><a href="/wiki/CA_Harvest_Software_Change_Manager" title="CA Harvest Software Change Manager">Software Change Manager</a> (1970s)</li>
+<li><a href="/wiki/StarTeam" title="StarTeam">StarTeam</a> (1995)</li>
+<li><a href="/wiki/Surround_SCM" title="Surround SCM">Surround SCM</a> (2002)</li>
+<li><a href="/wiki/Rational_Synergy" title="Rational Synergy">Synergy</a> (1990)</li>
+<li><a href="/wiki/Rational_Team_Concert" title="Rational Team Concert">Team Concert</a> (2008)</li>
+<li><a href="/wiki/Team_Foundation_Server" title="Team Foundation Server">Team Foundation Server</a> (2005)</li>
+<li><a href="/wiki/Microsoft_Visual_Studio#Team_Services" title="Microsoft Visual Studio">Visual Studio Team Services</a> (2014)</li>
+<li><a href="/wiki/Vault_(version_control_system)" title="Vault (version control system)">Vault</a> (2003)</li>
+<li><i><a href="/wiki/Microsoft_Visual_SourceSafe" title="Microsoft Visual SourceSafe">Visual SourceSafe</a></i> (1994)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Distributed_version_control" title="Distributed version control">Distributed</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Free/open-source</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/ArX" title="ArX">ArX</a></i> (2003)</li>
+<li><a href="/wiki/BitKeeper" title="BitKeeper">BitKeeper</a> (2000)</li>
+<li><i><a href="/wiki/Codeville" title="Codeville">Codeville</a></i> (2005)</li>
+<li><a href="/wiki/Darcs" title="Darcs">Darcs</a> (2002)</li>
+<li><i><a href="/wiki/Distributed_Concurrent_Versions_System" title="Distributed Concurrent Versions System">DCVS</a></i> (2002)</li>
+<li><a href="/wiki/Fossil_(software)" title="Fossil (software)">Fossil</a> (2007)</li>
+<li><a href="/wiki/Git" title="Git">Git</a> (2005)</li>
+<li><i><a href="/wiki/GNU_arch" title="GNU arch">GNU arch</a></i> (2001)</li>
+<li><a href="/wiki/GNU_Bazaar" title="GNU Bazaar">GNU Bazaar</a> (2005)</li>
+<li><a href="/wiki/Mercurial" title="Mercurial">Mercurial</a> (2005)</li>
+<li><a href="/wiki/Monotone_(software)" title="Monotone (software)">Monotone</a> (2003)</li>
+<li><i><a href="/wiki/SVK" title="SVK">SVK</a></i> (2003)</li>
+<li><a href="/wiki/Veracity_(software)" title="Veracity (software)">Veracity</a> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Proprietary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Sun_WorkShop_TeamWare" title="Sun WorkShop TeamWare">TeamWare</a></i> (1990s?)</li>
+<li><a href="/wiki/Code_Co-op" title="Code Co-op">Code Co-op</a> (1997)</li>
+<li><a href="/wiki/Plastic_SCM" title="Plastic SCM">Plastic SCM</a> (2006)</li>
+<li><a href="/wiki/Team_Foundation_Server" title="Team Foundation Server">Team Foundation Server</a> (2013)</li>
+<li><a href="/wiki/Visual_Studio_Team_Services" class="mw-redirect" title="Visual Studio Team Services">Visual Studio Team Services</a> (2014)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Branching_(version_control)" title="Branching (version control)">Branch</a></li>
+<li><a href="/wiki/Fork_(software_development)" title="Fork (software development)">Fork</a></li>
+<li><a href="/wiki/Changeset" title="Changeset">Changeset</a></li>
+<li><a href="/wiki/Commit_(version_control)" title="Commit (version control)">Commit</a>
+<ul>
+<li><a href="/wiki/Gated_commit" title="Gated commit">Gated commit</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Interleaved_deltas" title="Interleaved deltas">Interleaved deltas</a></li>
+<li><a href="/wiki/Delta_encoding" title="Delta encoding">Delta compression</a></li>
+<li><a href="/wiki/Data_comparison" class="mw-redirect" title="Data comparison">Data comparison</a></li>
+<li><a href="/wiki/Merge_(version_control)" title="Merge (version control)">Merge</a></li>
+<li><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></li>
+<li><a href="/wiki/Revision_tag" title="Revision tag">Tag</a></li>
+<li><a href="/wiki/Trunk_(software)" title="Trunk (software)">Trunk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Version_control_systems" title="Category:Version control systems">Category</a></b></li>
+<li><b><a href="/wiki/Comparison_of_version_control_software" title="Comparison of version control software">Comparison</a></b></li>
+<li><b><a class="mw-selflink selflink">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20180212042232
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 609/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36274/2097152 bytes
+Template argument size: 708/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 2.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  172.480      1 -total
+ 43.43%   74.916      1 Template:Reflist
+ 42.01%   72.461      1 Template:Cn
+ 30.93%   53.349      3 Template:Cite_web
+ 26.09%   44.996      1 Template:Fix
+ 17.83%   30.752      2 Template:Category_handler
+ 14.36%   24.770      4 Template:Navbox
+ 12.32%   21.243      1 Template:Version_control_software
+  6.34%   10.931      1 Template:Delink
+  4.57%    7.891      1 Template:Citation
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1787558-0!canonical and timestamp 20180212042231 and revision id 819329830
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_version_control_software&amp;oldid=819329830">https://en.wikipedia.org/w/index.php?title=List_of_version_control_software&amp;oldid=819329830</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Version_control_systems" title="Category:Version control systems">Version control systems</a></li><li><a href="/wiki/Category:Lists_of_software" title="Category:Lists of software">Lists of software</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2015" title="Category:Articles with unsourced statements from February 2015">Articles with unsourced statements from February 2015</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+version+control+software" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+version+control+software" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_version_control_software" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_version_control_software" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_version_control_software">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_version_control_software&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_version_control_software&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_version_control_software" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_version_control_software" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_version_control_software&amp;oldid=819329830" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_version_control_software&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q23832038" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_version_control_software&amp;id=819329830" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+version+control+software">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+version+control+software&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_version_control_software&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Programas_para_control_de_versiones" title="Programas para control de versiones – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D0%BA%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%8F%D0%BC%D0%B8" title="Список систем керування версіями – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q23832038#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 January 2018, at 19:52.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_version_control_software&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.215","ppvisitednodes":{"value":609,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36274,"limit":2097152},"templateargumentsize":{"value":708,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  172.480      1 -total"," 43.43%   74.916      1 Template:Reflist"," 42.01%   72.461      1 Template:Cn"," 30.93%   53.349      3 Template:Cite_web"," 26.09%   44.996      1 Template:Fix"," 17.83%   30.752      2 Template:Category_handler"," 14.36%   24.770      4 Template:Navbox"," 12.32%   21.243      1 Template:Version_control_software","  6.34%   10.931      1 Template:Delink","  4.57%    7.891      1 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":3138253,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20180212042232","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1238"});});</script>
+	</body>
+</html>

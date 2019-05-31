@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dialog system - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dialog_system","wgTitle":"Dialog system","wgCurRevisionId":799771009,"wgRevisionId":799771009,"wgArticleId":3192601,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing POV-check from May 2017","Multimodal interaction","User interfaces","Systems engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dialog_system","wgRelevantArticleId":3192601,"wgRequestId":"WoN1LgpAMFYAAHOoIC4AAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5270587","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8b/Automated_online_assistant.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dialog_system"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dialog_system&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dialog_system&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dialog_system"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dialog_system rootpage-Dialog_system skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Dialog system</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:Automated_online_assistant.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Automated_online_assistant.png/190px-Automated_online_assistant.png" width="190" height="238" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Automated_online_assistant.png/285px-Automated_online_assistant.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Automated_online_assistant.png/380px-Automated_online_assistant.png 2x" data-file-width="400" data-file-height="501" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Automated_online_assistant.png" class="internal" title="Enlarge"></a></div>
+An <a href="/wiki/Automated_online_assistant" class="mw-redirect" title="Automated online assistant">automated online assistant</a> on a website - an example where dialog systems are major components.</div>
+</div>
+</div>
+<p>A <b>dialog system</b> or <b>conversational agent</b> (<b>CA</b>) is a computer system intended to converse with a human, with a coherent structure. Dialog systems have employed text, speech, graphics, haptics, gestures and other modes for communication on both the input and output channel.</p>
+<p>What does and does not constitute a dialog system may be debatable. The typical <a href="/wiki/GUI" class="mw-redirect" title="GUI">GUI</a> <a href="/wiki/Wizard_(software)" title="Wizard (software)">wizard</a> does engage in some sort of dialog, but it includes very few of the common dialog system components, and dialog state is trivial.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Components"><span class="tocnumber">1</span> <span class="toctext">Components</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_of_systems"><span class="tocnumber">2</span> <span class="toctext">Types of systems</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Natural_dialog_systems"><span class="tocnumber">3</span> <span class="toctext">Natural dialog systems</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Toolkits_and_architectures"><span class="tocnumber">5</span> <span class="toctext">Toolkits and architectures</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Components">Components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=1" title="Edit section: Components">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many different architectures for dialog systems. What sets of components are included in a dialog system, and how those components divide up responsibilities differs from system to system. Principal to any dialog system is the <a href="/wiki/Dialog_manager" title="Dialog manager">dialog manager</a>, which is a component that manages the state of the dialog, and dialog strategy. A typical activity cycle in a dialog system contains the following phases:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<ol>
+<li>The user speaks, and the input is converted to plain text by the system's <b>input recognizer/decoder</b>, which may include:
+<ul>
+<li><a href="/wiki/Automatic_speech_recognizer" class="mw-redirect" title="Automatic speech recognizer">automatic speech recognizer</a> (ASR)</li>
+<li><a href="/wiki/Gesture_recognizer" class="mw-redirect" title="Gesture recognizer">gesture recognizer</a></li>
+<li><a href="/wiki/Handwriting_recognizer" class="mw-redirect" title="Handwriting recognizer">handwriting recognizer</a></li>
+</ul>
+</li>
+<li>The text is analyzed by a <b><a href="/wiki/Natural_language_understanding" title="Natural language understanding">Natural language understanding</a></b> unit (NLU), which may include:
+<ul>
+<li>Proper Name identification</li>
+<li><a href="/wiki/Part_of_speech" title="Part of speech">part of speech</a> tagging</li>
+<li>Syntactic/semantic <a href="/wiki/Parser" class="mw-redirect" title="Parser">parser</a></li>
+</ul>
+</li>
+<li>The semantic information is analyzed by the <a href="/wiki/Dialog_manager" title="Dialog manager">dialog manager</a>, that keeps the history and state of the dialog and manages the general flow of the conversation.</li>
+<li>Usually, the dialog manager contacts one or more <b>task manager</b>s, that have knowledge of the specific task domain.</li>
+<li>The dialog manager produces output using an <b>output generator</b>, which may include:
+<ul>
+<li><a href="/wiki/Natural_language_generator" class="mw-redirect" title="Natural language generator">natural language generator</a></li>
+<li><a href="/w/index.php?title=Gesture_generator&amp;action=edit&amp;redlink=1" class="new" title="Gesture generator (page does not exist)">gesture generator</a></li>
+<li><a href="/wiki/Layout_engine" title="Layout engine">layout engine</a></li>
+</ul>
+</li>
+<li>Finally, the output is rendered using an <b>output renderer</b>, which may include:
+<ul>
+<li><a href="/wiki/Text-to-speech" class="mw-redirect" title="Text-to-speech">text-to-speech</a> engine (TTS)</li>
+<li><a href="/wiki/Computer_facial_animation" title="Computer facial animation">talking head</a></li>
+<li><a href="/wiki/Robot" title="Robot">robot</a> or <a href="/wiki/Avatar_(computing)" title="Avatar (computing)">avatar</a></li>
+</ul>
+</li>
+</ol>
+<p>Dialog systems that are based on a text-only interface (e.g. text-based chat) contain only stages 2–5.</p>
+<h2><span class="mw-headline" id="Types_of_systems">Types of systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=2" title="Edit section: Types of systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dialog systems fall into the following categories, which are listed here along a few dimensions. Many of the categories overlap and the distinctions may not be well established.</p>
+<ul>
+<li>by <a href="/wiki/Modality_(human-computer_interaction)" class="mw-redirect" title="Modality (human-computer interaction)">modality</a>
+<ul>
+<li><a href="/wiki/Text-based" class="mw-redirect" title="Text-based">text-based</a></li>
+<li><a href="/wiki/Spoken_dialog_system" class="mw-redirect" title="Spoken dialog system">spoken dialog system</a></li>
+<li><a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a></li>
+<li><a href="/wiki/Multimodal_interaction" title="Multimodal interaction">multi-modal</a></li>
+</ul>
+</li>
+<li>by device
+<ul>
+<li>telephone-based systems</li>
+<li><a href="/wiki/Personal_digital_assistant" title="Personal digital assistant">PDA</a> systems</li>
+<li>in-car systems</li>
+<li><a href="/wiki/Robot" title="Robot">robot</a> systems</li>
+<li><a href="/wiki/Desktop_computer" title="Desktop computer">desktop</a>/<a href="/wiki/Laptop" title="Laptop">laptop</a> systems
+<ul>
+<li>native</li>
+<li>in-<a href="/wiki/Web_browser" title="Web browser">browser</a> systems</li>
+<li>in-<a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a></li>
+</ul>
+</li>
+<li>in-<a href="/wiki/Virtual_environment" class="mw-redirect" title="Virtual environment">virtual environment</a></li>
+<li>robots</li>
+</ul>
+</li>
+<li>by style
+<ul>
+<li>command-based</li>
+<li><a href="/wiki/Menu_(computing)" title="Menu (computing)">menu</a>-driven</li>
+<li><a href="/wiki/Natural_language" title="Natural language">natural language</a></li>
+<li>speech graffiti</li>
+</ul>
+</li>
+<li>by initiative
+<ul>
+<li>system initiative</li>
+<li>user initiative</li>
+<li>mixed initiative</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Natural_dialog_systems">Natural dialog systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=3" title="Edit section: Natural dialog systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section may <b>lend <a href="/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight" title="Wikipedia:Neutral point of view">undue weight</a> to certain ideas, incidents, or controversies</b>. Please help to create a more balanced presentation. Discuss and <a href="/wiki/Wikipedia:Dispute_resolution" title="Wikipedia:Dispute resolution">resolve</a> this issue before removing this message. <small><i>(May 2017)</i></small></div>
+</td>
+</tr>
+</table>
+<p><i>"A Natural Dialogue System is a form of dialogue system that tries to improve usability and user satisfaction by imitating human behaviour"</i> <sup id="cite_ref-naturaldialog_2-0" class="reference"><a href="#cite_note-naturaldialog-2">[2]</a></sup> (Berg, 2014). It addresses the features of a human-to-human dialog (e.g. sub dialogues and topic changes) and aims to integrate them into dialog systems for human-machine interaction. Often, <a href="/wiki/Spoken_dialog_system" class="mw-redirect" title="Spoken dialog system">(spoken) dialog systems</a> require the user to adapt to the system because the system is only able to understand a very limited vocabulary, is not able to react on topic changes, and does not allow the user to influence the dialogue flow. Mixed-initiative is a way to enable the user to have an active part in the dialogue instead of only answering questions. However, the mere existence of mixed-initiative is not sufficient to be classified as natural dialogue system. Other important aspects include:<sup id="cite_ref-naturaldialog_2-1" class="reference"><a href="#cite_note-naturaldialog-2">[2]</a></sup></p>
+<ul>
+<li>Adaptivity of the system</li>
+<li>Support of implicit confirmation</li>
+<li>Usage of verification questions</li>
+<li>Possibilities to correct information that have already been given</li>
+<li>Over-informativeness (give more information than has been asked for)</li>
+<li>Support negations</li>
+<li>Understand references by analyzing discourse and anaphora</li>
+<li>Natural language generation to prevent monotonous and recurring prompts</li>
+<li>Adaptive and situation-aware formulation</li>
+<li>Social behavior (greetings, same level of formality as the user, politeness)</li>
+<li>Quality of speech recognition and synthesis</li>
+</ul>
+<p>Although most of these aspects are issues of many different research projects, there is a lack of tools that support the development of dialog systems addressing these topics.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Apart from <a href="/wiki/VoiceXML" title="VoiceXML">VoiceXML</a> that focusses on interactive voice response systems and is the basis for many spoken dialog systems in industry (customer support applications) and <a href="/wiki/AIML" title="AIML">AIML</a> that is famous for the <a href="/wiki/A.L.I.C.E." class="mw-redirect" title="A.L.I.C.E.">A.L.I.C.E.</a> chatbot, none of these integrate linguistic features like dialog acts or language generation. Therefore, <a rel="nofollow" class="external text" href="http://mmberg.net/nadia">NADIA</a> (a research prototype) gives an idea how to fill that gap and combines some of the aforementioned aspects like natural language generation, adaptive formulation and sub dialogues.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=4" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dialog systems can support a broad range of applications in business enterprises, education, government, healthcare, and entertainment.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> For example:</p>
+<ul>
+<li>Responding to customers' questions about products and services via a company's website or <a href="/wiki/Intranet_portal" title="Intranet portal">intranet portal</a></li>
+<li>Customer service agent <a href="/wiki/Knowledge_base" title="Knowledge base">knowledge base</a>: Allows agents to type in a customer's question and guide them with a response</li>
+<li><a href="/wiki/Guided_selling" title="Guided selling">Guided selling</a>: Facilitating transactions by providing answers and guidance in the sales process, particularly for complex products being sold to novice customers</li>
+<li><a href="/wiki/Help_desk" title="Help desk">Help desk</a>: Responding to internal employee questions, e.g., responding to HR questions</li>
+<li>Website navigation: Guiding customers to relevant portions of complex websites—a Website concierge</li>
+<li>Technical support: Responding to technical problems, such as diagnosing a problem with a product or device</li>
+<li>Personalized service: Conversational agents can leverage internal and external databases to personalize interactions, such as answering questions about account balances, providing portfolio information, delivering frequent flier or membership information, for example</li>
+<li>Training or education: They can provide problem-solving advice while the user learns</li>
+<li>Simple dialog systems are widely used to decrease human workload in <a href="/wiki/Call_centre" title="Call centre">call centres</a>. In this and other industrial telephony applications, the functionality provided by dialog systems is known as <a href="/wiki/Interactive_voice_response" title="Interactive voice response">interactive voice response</a> or IVR.</li>
+</ul>
+<p>In some cases, conversational agents can interact with users using artificial characters. These agents are then referred to as <a href="/wiki/Embodied_agents" class="mw-redirect" title="Embodied agents">embodied agents</a>.</p>
+<h2><span class="mw-headline" id="Toolkits_and_architectures">Toolkits and architectures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=5" title="Edit section: Toolkits and architectures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A survey of current frameworks, languages and technologies for defining dialog systems.</p>
+<table class="wikitable sortable">
+<tr>
+<th>Name &amp; Links</th>
+<th>System Type</th>
+<th>Description</th>
+<th>Affiliation[s]</th>
+<th>Environment[s]</th>
+<th>Comments</th>
+</tr>
+<tr>
+<td><a href="/wiki/AIML" title="AIML">AIML</a></td>
+<td><a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">Chatterbot</a> language</td>
+<td>XML dialect for creating natural language software agents</td>
+<td><a href="/wiki/Richard_Wallace_(scientist)" title="Richard Wallace (scientist)">Richard Wallace, Pandorabots, Inc.</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/ChatScript" title="ChatScript">ChatScript</a></td>
+<td><a href="/wiki/Chatterbot" class="mw-redirect" title="Chatterbot">Chatterbot</a> language</td>
+<td>Language/Engine for creating natural language software agents</td>
+<td><a href="/wiki/Bruce_Wilcox" title="Bruce Wilcox">Bruce Wilcox</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/CSLU_Toolkit" title="CSLU Toolkit">CSLU Toolkit</a><br /></td>
+<td></td>
+<td>a state-based speech interface prototyping environment</td>
+<td><a href="/wiki/OGI_School_of_Science_and_Engineering" title="OGI School of Science and Engineering">OGI School of Science and Engineering</a><br />
+M. McTear<br />
+Ron Cole</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://cslu.cse.ogi.edu/toolkit/pubs/index.html">publications</a> are from 1999.</td>
+</tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://www.linguasys.com/server-item/NLUI%20Server">NLUI Server</a></td>
+<td>Domain-independent toolkit</td>
+<td>complete multilingual framework for building <a href="/wiki/Natural_language_user_interface" class="mw-redirect" title="Natural language user interface">natural language user interface</a> systems</td>
+<td><a href="/wiki/LinguaSys" title="LinguaSys">LinguaSys</a></td>
+<td></td>
+<td>out-of-box support of mixed-initiative dialogs</td>
+</tr>
+<tr>
+<td>Olympus</td>
+<td></td>
+<td>complete framework for implementing spoken dialog systems</td>
+<td><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://wiki.speech.cs.cmu.edu/olympus/index.php/Olympus">[1]</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://www.nextnova.com">Nextnova</a></td>
+<td>Multimodal Platform</td>
+<td>Platform for developing multimodal software applications. Based on State Chart XML (SCXML)</td>
+<td><a href="/w/index.php?title=Ponvia_Technology,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Ponvia Technology, Inc. (page does not exist)">Ponvia Technology, Inc.</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/VXML" class="mw-redirect" title="VXML">VXML</a><br />
+Voice XML</td>
+<td>Spoken dialog</td>
+<td>multimodal dialog markup language</td>
+<td>developed initially by <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a> then administered by an industry consortium and finally a <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> specification</td>
+<td>Example</td>
+<td>primarily for telephony.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Speech_Application_Language_Tags" title="Speech Application Language Tags">SALT</a></td>
+<td>markup language</td>
+<td>multimodal dialog markup language</td>
+<td><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></td>
+<td></td>
+<td>"has not reached the level of maturity of VoiceXML in the standards process".</td>
+</tr>
+<tr>
+<td><a href="/wiki/Quack.com" title="Quack.com">Quack.com</a> - QXML</td>
+<td>Development Environment</td>
+<td></td>
+<td>company bought by <a href="/wiki/AOL" title="AOL">AOL</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://opendial-toolkit.net">OpenDial</a></td>
+<td>Domain-independent toolkit</td>
+<td>hybrid symbolic/statistical framework for spoken dialog systems, implemented in Java</td>
+<td><a href="/wiki/University_of_Oslo" title="University of Oslo">University of Oslo</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://mmberg.net/nadia">NADIA</a></td>
+<td>dialog engine and dialog modeling</td>
+<td>Creating natural dialogs / dialog systems. Supports dialogue acts, mixed initiative, NLG. Implemented in Java.</td>
+<td>Markus M. Berg</td>
+<td></td>
+<td>create XML-based dialog files, no need to specify grammars, publications are from 2014</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Call_avoidance" title="Call avoidance">Call avoidance</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Jurafsky &amp; Martin (2009), Speech and language processing. Pearson International Edition, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-13-504196-3" title="Special:BookSources/978-0-13-504196-3">978-0-13-504196-3</a>, Chapter 24</span></li>
+<li id="cite_note-naturaldialog-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-naturaldialog_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-naturaldialog_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBerg2014" class="citation">Berg, Markus M. (2014), <a rel="nofollow" class="external text" href="http://nbn-resolving.de/urn:nbn:de:gbv:8-diss-167394"><i>Modelling of Natural Dialogues in the Context of Speech-based Information and Control Systems</i></a>, Akademische Verlagsgesellschaft AKA, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-89838-508-4" title="Special:BookSources/978-3-89838-508-4">978-3-89838-508-4</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Modelling+of+Natural+Dialogues+in+the+Context+of+Speech-based+Information+and+Control+Systems&amp;rft.pub=Akademische+Verlagsgesellschaft+AKA&amp;rft.date=2014&amp;rft.isbn=978-3-89838-508-4&amp;rft.aulast=Berg&amp;rft.aufirst=Markus+M.&amp;rft_id=http%3A%2F%2Fnbn-resolving.de%2Furn%3Anbn%3Ade%3Agbv%3A8-diss-167394&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADialog+system" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFBerg2015" class="citation">Berg, Markus M. (2015), <a rel="nofollow" class="external text" href="https://link.springer.com/chapter/10.1007%2F978-3-319-19581-0_12"><i>NADIA: A Simplified Approach Towards the Development of Natural Dialogue Systems</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=NADIA%3A+A+Simplified+Approach+Towards+the+Development+of+Natural+Dialogue+Systems&amp;rft.date=2015&amp;rft.aulast=Berg&amp;rft.aufirst=Markus+M.&amp;rft_id=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%252F978-3-319-19581-0_12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADialog+system" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFLesterBrantingMott2004" class="citation">Lester, J.; Branting, K.; Mott, B. (2004), <a rel="nofollow" class="external text" href="http://www.astutesolutions.com/downloads/conversational_agents_Lester_RealDialog.pdf">"Conversational Agents"</a> <span style="font-size:85%;">(PDF)</span>, <i>The Practical Handbook of Internet Computing</i>, Chapman &amp; Hall</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Conversational+Agents&amp;rft.btitle=The+Practical+Handbook+of+Internet+Computing&amp;rft.pub=Chapman+%26+Hall&amp;rft.date=2004&amp;rft.aulast=Lester&amp;rft.aufirst=J.&amp;rft.au=Branting%2C+K.&amp;rft.au=Mott%2C+B.&amp;rft_id=http%3A%2F%2Fwww.astutesolutions.com%2Fdownloads%2Fconversational_agents_Lester_RealDialog.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADialog+system" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dialog_system&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Will, Thomas (2007). <i>Creating a Dynamic Speech Dialogue</i>. <a href="/wiki/VDM_Verlag_Dr._M%C3%BCller" class="mw-redirect" title="VDM Verlag Dr. Müller">VDM Verlag Dr. Müller</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-8364-4990-8" title="Special:BookSources/978-3-8364-4990-8">978-3-8364-4990-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Creating+a+Dynamic+Speech+Dialogue&amp;rft.pub=VDM+Verlag+Dr.+M%C3%BCller&amp;rft.date=2007&amp;rft.isbn=978-3-8364-4990-8&amp;rft.aulast=Will&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADialog+system" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20180213211453
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.166 seconds
+Preprocessor visited node count: 606/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12426/2097152 bytes
+Template argument size: 595/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 2.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  135.323      1 -total
+ 40.95%   55.420      1 Template:Undue_weight_section
+ 31.22%   42.251      3 Template:Citation
+ 19.60%   26.522      1 Template:Ambox
+ 17.71%   23.970      1 Template:ISBN
+  7.97%   10.789      1 Template:DMCA
+  7.25%    9.813      1 Template:Catalog_lookup_link
+  7.14%    9.656      1 Template:Dated_maintenance_category
+  5.32%    7.198      1 Template:FULLROOTPAGENAME
+  3.81%    5.156      1 Template:Error-small
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3192601-0!canonical and timestamp 20180213211453 and revision id 799771009
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dialog_system&amp;oldid=799771009">https://en.wikipedia.org/w/index.php?title=Dialog_system&amp;oldid=799771009</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Multimodal_interaction" title="Category:Multimodal interaction">Multimodal interaction</a></li><li><a href="/wiki/Category:User_interfaces" title="Category:User interfaces">User interfaces</a></li><li><a href="/wiki/Category:Systems_engineering" title="Category:Systems engineering">Systems engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_POV-check_from_May_2017" title="Category:Articles needing POV-check from May 2017">Articles needing POV-check from May 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dialog+system" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dialog+system" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dialog_system" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dialog_system" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dialog_system">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dialog_system&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dialog_system&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dialog_system" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dialog_system" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dialog_system&amp;oldid=799771009" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dialog_system&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5270587" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dialog_system&amp;id=799771009" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dialog+system">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dialog+system&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dialog_system&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Dialoogs%C3%BCsteem" title="Dialoogsüsteem – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CE%BF%CF%81%CE%B5%CF%82_%CE%A3%CF%85%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7%CF%82" title="Πράκτορες Συζήτησης – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5270587#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 September 2017, at 19:03.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dialog_system&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.166","ppvisitednodes":{"value":606,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12426,"limit":2097152},"templateargumentsize":{"value":595,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  135.323      1 -total"," 40.95%   55.420      1 Template:Undue_weight_section"," 31.22%   42.251      3 Template:Citation"," 19.60%   26.522      1 Template:Ambox"," 17.71%   23.970      1 Template:ISBN","  7.97%   10.789      1 Template:DMCA","  7.25%    9.813      1 Template:Catalog_lookup_link","  7.14%    9.656      1 Template:Dated_maintenance_category","  5.32%    7.198      1 Template:FULLROOTPAGENAME","  3.81%    5.156      1 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":2586054,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20180213211453","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

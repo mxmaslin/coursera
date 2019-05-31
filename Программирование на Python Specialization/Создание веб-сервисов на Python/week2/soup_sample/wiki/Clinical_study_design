@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Clinical study design - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Clinical_study_design","wgTitle":"Clinical study design","wgCurRevisionId":809788863,"wgRevisionId":809788863,"wgArticleId":2944829,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing context from March 2010","All Wikipedia articles needing context","Wikipedia introduction cleanup from March 2010","All pages needing cleanup","Pages using div col with deprecated parameters","Medical statistics","Design of experiments","Scientific method"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Clinical_study_design","wgRelevantArticleId":2944829,"wgRequestId":"WoNMjQpAAEAAAC0@fmEAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q17007018","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Clinical_study_design"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Clinical_study_design&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Clinical_study_design&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Clinical_study_design"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Clinical_study_design rootpage-Clinical_study_design skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Clinical study design</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-Context" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>provides insufficient context for those unfamiliar with the subject</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Clinical_study_design&amp;action=edit">improve the article</a> with a <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">good introductory style</a>.</span> <small><i>(March 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p><b>Clinical study design</b> is the formulation of <a href="/wiki/Clinical_trial" title="Clinical trial">trials</a> and experiments, as well as observational studies in medical, clinical and other types of research (e.g., epidemiological) involving human beings.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The goal of a clinical study is to assess the safety, efficacy, and / or the mechanism of action of an investigational medicinal product or procedure, or new drug or device that is in development, but potentially not yet approved by a health authority (e.g. <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a>). It can also be to investigate a drug, device or procedure that has already been approved but is still in need of further investigation, typically with respect to long-term effects or cost-effectiveness.</p>
+<p>Some of the considerations here are shared under the more general topic of <a href="/wiki/Design_of_experiments" title="Design of experiments">design of experiments</a> but there can be others, in particular related to patient confidentiality and ethics.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Outline_of_types_of_designs_for_clinical_studies"><span class="tocnumber">1</span> <span class="toctext">Outline of types of designs for clinical studies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Treatment_studies"><span class="tocnumber">1.1</span> <span class="toctext">Treatment studies</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Observational_studies"><span class="tocnumber">1.2</span> <span class="toctext">Observational studies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Important_considerations"><span class="tocnumber">2</span> <span class="toctext">Important considerations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Seasonal_studies"><span class="tocnumber">2.1</span> <span class="toctext">Seasonal studies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Other_terms"><span class="tocnumber">3</span> <span class="toctext">Other terms</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Outline_of_types_of_designs_for_clinical_studies">Outline of types of designs for clinical studies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=1" title="Edit section: Outline of types of designs for clinical studies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Treatment_studies">Treatment studies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=2" title="Edit section: Treatment studies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">Randomized controlled trial</a>
+<ul>
+<li><a href="/wiki/Blind_experiment" class="mw-redirect" title="Blind experiment">Blind trial</a></li>
+<li><a href="/wiki/Open-label_trial" title="Open-label trial">Non-blind trial</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Adaptive_clinical_trial" title="Adaptive clinical trial">Adaptive clinical trial</a></li>
+<li><a href="/wiki/Quasi-experiment" title="Quasi-experiment">Nonrandomized trial</a> (quasi-experiment)
+<ul>
+<li><a href="/wiki/Interrupted_time_series_design" class="mw-redirect" title="Interrupted time series design">Interrupted time series design</a> (measures on a sample or a series of samples from the same population are obtained several times before and after a manipulated event or a naturally occurring event) - considered a type of quasi-experiment</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Observational_studies">Observational studies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=3" title="Edit section: Observational studies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1. Descriptive</p>
+<ul>
+<li><a href="/wiki/Case_report" title="Case report">Case report</a></li>
+<li><a href="/wiki/Case_series" title="Case series">Case series</a></li>
+<li><a href="/wiki/Population_study" title="Population study">Population study</a></li>
+</ul>
+<p>2. Analytical</p>
+<ul>
+<li><a href="/wiki/Cohort_study" title="Cohort study">Cohort study</a>
+<ul>
+<li><a href="/wiki/Prospective_cohort_study" title="Prospective cohort study">Prospective cohort</a></li>
+<li><a href="/wiki/Retrospective_cohort_study" title="Retrospective cohort study">Retrospective cohort</a></li>
+<li><a href="/wiki/Time_series" title="Time series">Time series study</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Case-control_study" title="Case-control study">Case-control study</a>
+<ul>
+<li><a href="/wiki/Nested_case-control_study" title="Nested case-control study">Nested case-control study</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cross-sectional_study" title="Cross-sectional study">Cross-sectional study</a>
+<ul>
+<li>Community survey (a type of cross-sectional study)</li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_study" title="Ecological study">Ecological study</a></li>
+</ul>
+<h2><span class="mw-headline" id="Important_considerations">Important considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=4" title="Edit section: Important considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When choosing a study design, many factors must be taken into account. Different types of studies are subject to different types of bias. For example, <b>recall bias</b> is likely to occur in cross-sectional or case-control studies where subjects are asked to recall exposure to risk factors. Subjects with the relevant condition (e.g. breast cancer) may be more likely to recall the relevant exposures that they had undergone (e.g. hormone replacement therapy) than subjects who don't have the condition.</p>
+<p>The <a href="/wiki/Ecological_fallacy" title="Ecological fallacy">ecological fallacy</a> may occur when conclusions about individuals are drawn from analyses conducted on grouped data. The nature of this type of analysis tends to overestimate the degree of association between variables.</p>
+<h3><span class="mw-headline" id="Seasonal_studies">Seasonal studies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=5" title="Edit section: Seasonal studies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Conducting studies in seasonal indications (such as allergies, <a href="/wiki/Seasonal_Affective_Disorder" class="mw-redirect" title="Seasonal Affective Disorder">Seasonal Affective Disorder</a>, <a href="/wiki/Influenza" title="Influenza">influenza</a>, and others) can complicate a trial as patients must be enrolled quickly. Additionally, seasonal variations and weather patterns can affect a seasonal study.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Other_terms">Other terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=6" title="Edit section: Other terms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>The term <i>retrospective study</i> is sometimes used as another term for a <a href="/wiki/Case-control_study" title="Case-control study">case-control study</a>. This use of the term "retrospective study" is misleading, however, and should be avoided because other research designs besides case-control studies are also retrospective in orientation.</li>
+<li><i>Superiority trials</i> are designed to demonstrate that one treatment is more effective than a given reference treatment. This type of study design is often used to test the effectiveness of a treatment compared to <a href="/wiki/Placebo" title="Placebo">placebo</a> or to the currently best available treatment.</li>
+<li><i>Non-inferiority trials</i> are designed to demonstrate that a treatment is at least not appreciably less effective than a given reference treatment. This type of study design is often employed when comparing a new treatment to an established <a href="/wiki/Standard_of_care#Medical_standard_of_care" title="Standard of care">medical standard of care</a>, in situations where the new treatment is cheaper, safer or more convenient than the reference treatment and would therefore be preferable if not appreciably less effective.</li>
+<li><i>Equivalence trials</i> are designed to demonstrate that two treatments are equally effective.</li>
+<li>When using "parallel groups", each patient receives one treatment; in a "<a href="/wiki/Crossover_study" title="Crossover study">crossover study</a>", each patient receives several treatments but in different order.</li>
+<li>A <a href="/wiki/Longitudinal_study" title="Longitudinal study">longitudinal study</a> assesses research subjects over two or more points in time; by contrast, a <a href="/wiki/Cross-sectional_study" title="Cross-sectional study">cross-sectional study</a> assesses research subjects at only one point in time (so case-control, cohort, and randomized studies are <i>not</i> cross-sectional).</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Conceptual_framework" title="Conceptual framework">Conceptual framework</a></li>
+<li><a href="/wiki/Epidemiological_methods" class="mw-redirect" title="Epidemiological methods">Epidemiological methods</a></li>
+<li><a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a></li>
+<li><a href="/wiki/Experimental_control" class="mw-redirect" title="Experimental control">Experimental control</a></li>
+<li><a href="/wiki/Meta-analysis" title="Meta-analysis">Meta-analysis</a></li>
+<li><a href="/wiki/Operationalization" title="Operationalization">Operationalization</a></li>
+<li><a href="/wiki/Academic_clinical_trials" class="mw-redirect" title="Academic clinical trials">Academic clinical trials</a></li>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Design of experiments</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Miquel_Porta" title="Miquel Porta">Miquel Porta</a> (2014) "<a rel="nofollow" class="external text" href="http://global.oup.com/academic/product/a-dictionary-of-epidemiology-9780199976737?cc=us&amp;lang=en">A dictionary of epidemiology</a>", 6th edn, New York: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780199976737" title="Special:BookSources/9780199976737">9780199976737</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Yamin Khan; Sarah Tilly. <a rel="nofollow" class="external text" href="http://appliedclinicaltrialsonline.findpharma.com/appliedclinicaltrials/Drug+Development/Flu-Season-Diseases-Affect-Trials/ArticleStandard/Article/detail/652128">"Flu, Season, Diseases Affect Trials"</a>. <a href="/w/index.php?title=Applied_Clinical_Trials&amp;action=edit&amp;redlink=1" class="new" title="Applied Clinical Trials (page does not exist)">Applied Clinical Trials</a> Online<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Flu%2C+Season%2C+Diseases+Affect+Trials&amp;rft.pub=Applied+Clinical+Trials+Online&amp;rft.au=Yamin+Khan&amp;rft.au=Sarah+Tilly&amp;rft_id=http%3A%2F%2Fappliedclinicaltrialsonline.findpharma.com%2Fappliedclinicaltrials%2FDrug%2BDevelopment%2FFlu-Season-Diseases-Affect-Trials%2FArticleStandard%2FArticle%2Fdetail%2F652128&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClinical+study+design" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Yamin Khan; Sarah Tilly. <a rel="nofollow" class="external text" href="http://www.pharm-olam.com/pdf/POI-Seasonality.pdf">"Seasonality: The Clinical Trial Manager's Logistical Challenge"</a> <span style="font-size:85%;">(PDF)</span>. published by: Pharm-Olam International (POI)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Seasonality%3A+The+Clinical+Trial+Manager%27s+Logistical+Challenge&amp;rft.pub=published+by%3A+Pharm-Olam+International+%28POI%29&amp;rft.au=Yamin+Khan&amp;rft.au=Sarah+Tilly&amp;rft_id=http%3A%2F%2Fwww.pharm-olam.com%2Fpdf%2FPOI-Seasonality.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClinical+study+design" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.jerrydallal.com/LHSP/STUDY.HTM">Some aspects of study design</a> Tufts University web site</li>
+<li><a rel="nofollow" class="external text" href="http://imsdd.meb.uni-bonn.de/cancernet/902570.html">Comparison of strength</a> Description of study designs from the National Cancer Institute</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Clinical_research_and_experimental_design" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Medical_research_studies" title="Template:Medical research studies"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Medical_research_studies" title="Template talk:Medical research studies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Medical_research_studies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Clinical_research_and_experimental_design" style="font-size:114%;margin:0 4em"><a href="/wiki/Clinical_research" title="Clinical research">Clinical research</a> and <a href="/wiki/Design_of_experiments" title="Design of experiments">experimental design</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Overview</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clinical_trial" title="Clinical trial">Clinical trial</a>
+<ul>
+<li><a href="/wiki/Protocol_(science)" title="Protocol (science)">Trial protocols</a></li>
+<li><a href="/wiki/Adaptive_clinical_trial" title="Adaptive clinical trial">Adaptive clinical trial</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Academic_clinical_trials" class="mw-redirect" title="Academic clinical trials">Academic clinical trials</a></li>
+<li><a class="mw-selflink selflink">Clinical study design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scientific_control" title="Scientific control">Controlled study</a><br />
+(<a href="/wiki/Evidence-based_medicine" title="Evidence-based medicine">EBM I to II-1; A to B</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">Randomized controlled trial</a>
+<ul>
+<li><a href="/wiki/Experiment" title="Experiment">Scientific experiment</a></li>
+<li><a href="/wiki/Blind_experiment" class="mw-redirect" title="Blind experiment">Blind experiment</a></li>
+<li><a href="/wiki/Open-label_trial" title="Open-label trial">Open-label trial</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Observational_study" title="Observational study">Observational study</a><br />
+(<a href="/wiki/Evidence-based_medicine" title="Evidence-based medicine">EBM II-2 to II-3; B to C</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cross-sectional_study" title="Cross-sectional study">Cross-sectional study</a> vs. <a href="/wiki/Longitudinal_study" title="Longitudinal study">Longitudinal study</a>, <a href="/wiki/Ecological_study" title="Ecological study">Ecological study</a></li>
+<li><a href="/wiki/Cohort_study" title="Cohort study">Cohort study</a>
+<ul>
+<li><a href="/wiki/Retrospective_cohort_study" title="Retrospective cohort study">Retrospective</a></li>
+<li><a href="/wiki/Prospective_cohort_study" title="Prospective cohort study">Prospective</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Case-control_study" title="Case-control study">Case-control study</a> (<a href="/wiki/Nested_case-control_study" title="Nested case-control study">Nested case-control study</a>)</li>
+<li><a href="/wiki/Case_series" title="Case series">Case series</a></li>
+<li><a href="/wiki/Case_study" title="Case study">Case study</a></li>
+<li><a href="/wiki/Case_report" title="Case report">Case report</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a>/<br />
+<a href="/wiki/Epidemiological_methods" class="mw-redirect" title="Epidemiological methods">methods</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Epidemiological_methods#Measures_of_occurrence" class="mw-redirect" title="Epidemiological methods">occurrence</a>:</i> <a href="/wiki/Incidence_(epidemiology)" title="Incidence (epidemiology)">Incidence</a> (<a href="/wiki/Cumulative_incidence" title="Cumulative incidence">Cumulative incidence</a>)</li>
+<li><a href="/wiki/Prevalence" title="Prevalence">Prevalence</a>
+<ul>
+<li><a href="/wiki/Point_prevalence" class="mw-redirect" title="Point prevalence">Point</a></li>
+<li><a href="/wiki/Period_prevalence" class="mw-redirect" title="Period prevalence">Period</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Association_(statistics)" class="mw-redirect" title="Association (statistics)">association</a>:</i> <i>absolute</i> (<a href="/wiki/Absolute_risk_reduction" title="Absolute risk reduction">Absolute risk reduction</a>, <a href="/wiki/Attributable_risk" title="Attributable risk">Attributable risk</a>, <a href="/wiki/Attributable_risk_percent" title="Attributable risk percent">Attributable risk percent</a>)</li>
+<li><i>relative</i> (<a href="/wiki/Relative_risk" title="Relative risk">Relative risk</a>, <a href="/wiki/Odds_ratio" title="Odds ratio">Odds ratio</a>, <a href="/wiki/Hazard_ratio" title="Hazard ratio">Hazard ratio</a>)</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Epidemiological_methods#Other_measures" class="mw-redirect" title="Epidemiological methods">other</a>:</i> <a href="/wiki/Clinical_endpoint" title="Clinical endpoint">Clinical endpoint</a></li>
+<li><a href="/wiki/Virulence" title="Virulence">Virulence</a></li>
+<li><a href="/wiki/Infectivity" title="Infectivity">Infectivity</a></li>
+<li><a href="/wiki/Mortality_rate" title="Mortality rate">Mortality rate</a></li>
+<li><a href="/wiki/Morbidity" class="mw-redirect" title="Morbidity">Morbidity</a></li>
+<li><a href="/wiki/Case_fatality_rate" title="Case fatality rate">Case fatality rate</a></li>
+<li><a href="/wiki/Specificity_and_sensitivity" class="mw-redirect" title="Specificity and sensitivity">Specificity and sensitivity</a></li>
+<li><a href="/wiki/Likelihood_ratios_in_diagnostic_testing" title="Likelihood ratios in diagnostic testing">Likelihood-ratios</a></li>
+<li><a href="/wiki/Pre-_and_post-test_probability" title="Pre- and post-test probability">Pre/post-test probability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Trial/test types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/In_vitro" title="In vitro">In vitro</a></li>
+<li><a href="/wiki/In_vivo" title="In vivo">In vivo</a></li>
+<li><a href="/wiki/Animal_testing" title="Animal testing">Animal testing</a></li>
+<li><a href="/wiki/Animal_testing_on_non-human_primates" title="Animal testing on non-human primates">Animal testing on non-human primates</a></li>
+<li><a href="/wiki/First-in-man_study" class="mw-redirect" title="First-in-man study">First-in-man study</a></li>
+<li><a href="/wiki/Multicenter_trial" title="Multicenter trial">Multicenter trial</a></li>
+<li><a href="/wiki/Seeding_trial" title="Seeding trial">Seeding trial</a></li>
+<li><a href="/wiki/Vaccine_trial" title="Vaccine trial">Vaccine trial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Analysis_of_clinical_trials" title="Analysis of clinical trials">Analysis of clinical trials</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Risk%E2%80%93benefit_ratio" title="Risk–benefit ratio">Risk–benefit ratio</a></li>
+<li><a href="/wiki/Systematic_review" title="Systematic review">Systematic review</a></li>
+<li><a href="/wiki/Reproducibility" title="Reproducibility">Replication</a></li>
+<li><a href="/wiki/Meta-analysis" title="Meta-analysis">Meta-analysis</a></li>
+<li><a href="/wiki/Intention-to-treat_analysis" title="Intention-to-treat analysis">Intention-to-treat analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Interpretation of results</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Selection_bias" title="Selection bias">Selection bias</a></li>
+<li><a href="/wiki/Survivorship_bias" title="Survivorship bias">Survivorship bias</a></li>
+<li><a href="/wiki/Correlation_does_not_imply_causation" title="Correlation does not imply causation">Correlation does not imply causation</a></li>
+<li><a href="/wiki/Null_result" title="Null result">Null result</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Clinical_research" title="Category:Clinical research">Category</a></b></li>
+<li><b><a href="/wiki/Glossary_of_clinical_research" title="Glossary of clinical research">Glossary</a></b></li>
+<li><b><a href="/wiki/List_of_clinical_research_topics" class="mw-redirect" title="List of clinical research topics">List of topics</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Statistics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Statistics" title="Template:Statistics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Statistics" title="Template talk:Statistics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Statistics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistics" title="Statistics">Statistics</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_statistics" title="Outline of statistics">Outline</a></li>
+<li><a href="/wiki/List_of_statistics_articles" title="List of statistics articles">Index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Descriptive_statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Descriptive_statistics" title="Descriptive statistics">Descriptive statistics</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Continuous_probability_distribution" class="mw-redirect" title="Continuous probability distribution">Continuous data</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Central_tendency" title="Central tendency">Center</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mean" title="Mean">Mean</a>
+<ul>
+<li><a href="/wiki/Arithmetic_mean" title="Arithmetic mean">arithmetic</a></li>
+<li><a href="/wiki/Geometric_mean" title="Geometric mean">geometric</a></li>
+<li><a href="/wiki/Harmonic_mean" title="Harmonic mean">harmonic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Median" title="Median">Median</a></li>
+<li><a href="/wiki/Mode_(statistics)" title="Mode (statistics)">Mode</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Statistical_dispersion" title="Statistical dispersion">Dispersion</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Variance#Sample_variance" title="Variance">Variance</a></li>
+<li><a href="/wiki/Standard_deviation" title="Standard deviation">Standard deviation</a></li>
+<li><a href="/wiki/Coefficient_of_variation" title="Coefficient of variation">Coefficient of variation</a></li>
+<li><a href="/wiki/Percentile" title="Percentile">Percentile</a></li>
+<li><a href="/wiki/Range_(statistics)" title="Range (statistics)">Range</a></li>
+<li><a href="/wiki/Interquartile_range" title="Interquartile range">Interquartile range</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Shape_of_the_distribution" class="mw-redirect" title="Shape of the distribution">Shape</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Central_limit_theorem" title="Central limit theorem">Central limit theorem</a></li>
+<li><a href="/wiki/Moment_(mathematics)" title="Moment (mathematics)">Moments</a>
+<ul>
+<li><a href="/wiki/Skewness" title="Skewness">Skewness</a></li>
+<li><a href="/wiki/Kurtosis" title="Kurtosis">Kurtosis</a></li>
+<li><a href="/wiki/L-moment" title="L-moment">L-moments</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Count_data" title="Count data">Count data</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Index_of_dispersion" title="Index of dispersion">Index of dispersion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Summary tables</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grouped_data" title="Grouped data">Grouped data</a></li>
+<li><a href="/wiki/Frequency_distribution" title="Frequency distribution">Frequency distribution</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Dependence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pearson_correlation_coefficient" title="Pearson correlation coefficient">Pearson product-moment correlation</a></li>
+<li><a href="/wiki/Rank_correlation" title="Rank correlation">Rank correlation</a>
+<ul>
+<li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman's rank correlation coefficient">Spearman's rho</a></li>
+<li><a href="/wiki/Kendall_tau_rank_correlation_coefficient" class="mw-redirect" title="Kendall tau rank correlation coefficient">Kendall's tau</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_graphics" title="Statistical graphics">Graphics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bar_chart" title="Bar chart">Bar chart</a></li>
+<li><a href="/wiki/Biplot" title="Biplot">Biplot</a></li>
+<li><a href="/wiki/Box_plot" title="Box plot">Box plot</a></li>
+<li><a href="/wiki/Control_chart" title="Control chart">Control chart</a></li>
+<li><a href="/wiki/Correlogram" title="Correlogram">Correlogram</a></li>
+<li><a href="/wiki/Fan_chart_(statistics)" title="Fan chart (statistics)">Fan chart</a></li>
+<li><a href="/wiki/Forest_plot" title="Forest plot">Forest plot</a></li>
+<li><a href="/wiki/Histogram" title="Histogram">Histogram</a></li>
+<li><a href="/wiki/Pie_chart" title="Pie chart">Pie chart</a></li>
+<li><a href="/wiki/Q%E2%80%93Q_plot" title="Q–Q plot">Q–Q plot</a></li>
+<li><a href="/wiki/Run_chart" title="Run chart">Run chart</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li>
+<li><a href="/wiki/Stem-and-leaf_display" title="Stem-and-leaf display">Stem-and-leaf display</a></li>
+<li><a href="/wiki/Radar_chart" title="Radar chart">Radar chart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Data_collection" style="font-size:114%;margin:0 4em"><a href="/wiki/Data_collection" title="Data collection">Data collection</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Study design</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Population_(statistics)" class="mw-redirect" title="Population (statistics)">Population</a></li>
+<li><a href="/wiki/Statistic" title="Statistic">Statistic</a></li>
+<li><a href="/wiki/Effect_size" title="Effect size">Effect size</a></li>
+<li><a href="/wiki/Statistical_power" title="Statistical power">Statistical power</a></li>
+<li><a href="/wiki/Sample_size_determination" title="Sample size determination">Sample size determination</a></li>
+<li><a href="/wiki/Missing_data" title="Missing data">Missing data</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survey_methodology" title="Survey methodology">Survey methodology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sampling_(statistics)" title="Sampling (statistics)">Sampling</a>
+<ul>
+<li><a href="/wiki/Stratified_sampling" title="Stratified sampling">stratified</a></li>
+<li><a href="/wiki/Cluster_sampling" title="Cluster sampling">cluster</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Standard_error" title="Standard error">Standard error</a></li>
+<li><a href="/wiki/Opinion_poll" title="Opinion poll">Opinion poll</a></li>
+<li><a href="/wiki/Questionnaire" title="Questionnaire">Questionnaire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Experiment" title="Experiment">Controlled experiments</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Design</a>
+<ul>
+<li><a href="/wiki/Scientific_control" title="Scientific control">control</a></li>
+<li><a href="/wiki/Optimal_design" title="Optimal design">optimal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">Controlled trial</a></li>
+<li><a href="/wiki/Randomized_experiment" title="Randomized experiment">Randomized</a></li>
+<li><a href="/wiki/Random_assignment" title="Random assignment">Random assignment</a></li>
+<li><a href="/wiki/Replication_(statistics)" title="Replication (statistics)">Replication</a></li>
+<li><a href="/wiki/Blocking_(statistics)" title="Blocking (statistics)">Blocking</a></li>
+<li><a href="/wiki/Interaction_(statistics)" title="Interaction (statistics)">Interaction</a></li>
+<li><a href="/wiki/Factorial_experiment" title="Factorial experiment">Factorial experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Uncontrolled studies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Observational_study" title="Observational study">Observational study</a></li>
+<li><a href="/wiki/Natural_experiment" title="Natural experiment">Natural experiment</a></li>
+<li><a href="/wiki/Quasi-experiment" title="Quasi-experiment">Quasi-experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Statistical_inference" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistical_inference" title="Statistical inference">Statistical inference</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_theory" title="Statistical theory">Statistical theory</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Population_(statistics)" class="mw-redirect" title="Population (statistics)">Population</a></li>
+<li><a href="/wiki/Statistic" title="Statistic">Statistic</a></li>
+<li><a href="/wiki/Probability_distribution" title="Probability distribution">Probability distribution</a></li>
+<li><a href="/wiki/Sampling_distribution" title="Sampling distribution">Sampling distribution</a>
+<ul>
+<li><a href="/wiki/Order_statistic" title="Order statistic">Order statistic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Empirical_distribution_function" title="Empirical distribution function">Empirical distribution</a>
+<ul>
+<li><a href="/wiki/Density_estimation" title="Density estimation">Density estimation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Statistical_model" title="Statistical model">Statistical model</a>
+<ul>
+<li><a href="/wiki/Lp_space" title="Lp space">L<sup><i>p</i></sup> space</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Statistical_parameter" title="Statistical parameter">Parameter</a>
+<ul>
+<li><a href="/wiki/Location_parameter" title="Location parameter">location</a></li>
+<li><a href="/wiki/Scale_parameter" title="Scale parameter">scale</a></li>
+<li><a href="/wiki/Shape_parameter" title="Shape parameter">shape</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric family</a>
+<ul>
+<li><a href="/wiki/Likelihood_function" title="Likelihood function">Likelihood</a>&#160;<a href="/wiki/Monotone_likelihood_ratio" title="Monotone likelihood ratio"><small>(monotone)</small></a></li>
+<li><a href="/wiki/Location%E2%80%93scale_family" title="Location–scale family">Location–scale family</a></li>
+<li><a href="/wiki/Exponential_family" title="Exponential family">Exponential family</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Completeness_(statistics)" title="Completeness (statistics)">Completeness</a></li>
+<li><a href="/wiki/Sufficient_statistic" title="Sufficient statistic">Sufficiency</a></li>
+<li><a href="/wiki/Plug-in_principle" title="Plug-in principle">Statistical functional</a>
+<ul>
+<li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/U-statistic" title="U-statistic">U</a></li>
+<li><a href="/wiki/V-statistic" title="V-statistic">V</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Optimal_decision" title="Optimal decision">Optimal decision</a>
+<ul>
+<li><a href="/wiki/Loss_function" title="Loss function">loss function</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Efficiency_(statistics)" title="Efficiency (statistics)">Efficiency</a></li>
+<li><a href="/wiki/Statistical_distance" title="Statistical distance">Statistical distance</a>
+<ul>
+<li><a href="/wiki/Divergence_(statistics)" title="Divergence (statistics)">divergence</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Asymptotic_theory_(statistics)" title="Asymptotic theory (statistics)">Asymptotics</a></li>
+<li><a href="/wiki/Robust_statistics" title="Robust statistics">Robustness</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Frequentist_inference" title="Frequentist inference">Frequentist inference</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Point_estimation" title="Point estimation">Point estimation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Estimating_equations" title="Estimating equations">Estimating equations</a>
+<ul>
+<li><a href="/wiki/Maximum_likelihood" class="mw-redirect" title="Maximum likelihood">Maximum likelihood</a></li>
+<li><a href="/wiki/Method_of_moments_(statistics)" title="Method of moments (statistics)">Method of moments</a></li>
+<li><a href="/wiki/M-estimator" title="M-estimator">M-estimator</a></li>
+<li><a href="/wiki/Minimum_distance_estimation" title="Minimum distance estimation">Minimum distance</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Unbiased estimators</a>
+<ul>
+<li><a href="/wiki/Minimum-variance_unbiased_estimator" title="Minimum-variance unbiased estimator">Mean-unbiased minimum-variance</a>
+<ul>
+<li><a href="/wiki/Rao%E2%80%93Blackwell_theorem" title="Rao–Blackwell theorem">Rao–Blackwellization</a></li>
+<li><a href="/wiki/Lehmann%E2%80%93Scheff%C3%A9_theorem" title="Lehmann–Scheffé theorem">Lehmann–Scheffé theorem</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Median-unbiased_estimator" class="mw-redirect" title="Median-unbiased estimator">Median unbiased</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plug-in_principle" title="Plug-in principle">Plug-in</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Interval_estimation" title="Interval estimation">Interval estimation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Confidence_interval" title="Confidence interval">Confidence interval</a></li>
+<li><a href="/wiki/Pivotal_quantity" title="Pivotal quantity">Pivot</a></li>
+<li><a href="/wiki/Likelihood_interval" class="mw-redirect" title="Likelihood interval">Likelihood interval</a></li>
+<li><a href="/wiki/Prediction_interval" title="Prediction interval">Prediction interval</a></li>
+<li><a href="/wiki/Tolerance_interval" title="Tolerance interval">Tolerance interval</a></li>
+<li><a href="/wiki/Resampling_(statistics)" title="Resampling (statistics)">Resampling</a>
+<ul>
+<li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/Jackknife_resampling" title="Jackknife resampling">Jackknife</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">Testing hypotheses</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/One-_and_two-tailed_tests" title="One- and two-tailed tests">1- &amp; 2-tails</a></li>
+<li><a href="/wiki/Power_(statistics)" class="mw-redirect" title="Power (statistics)">Power</a>
+<ul>
+<li><a href="/wiki/Uniformly_most_powerful_test" title="Uniformly most powerful test">Uniformly most powerful test</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Permutation_test" class="mw-redirect" title="Permutation test">Permutation test</a>
+<ul>
+<li><a href="/wiki/Randomization_test" class="mw-redirect" title="Randomization test">Randomization test</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Multiple_comparisons" class="mw-redirect" title="Multiple comparisons">Multiple comparisons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric tests</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio</a></li>
+<li><a href="/wiki/Wald_test" title="Wald test">Wald</a></li>
+<li><a href="/wiki/Score_test" title="Score test">Score</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Specific tests</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Z-test" title="Z-test"><i>Z</i>-test <span style="font-size:90%;">(normal)</span></a></li>
+<li><a href="/wiki/Student%27s_t-test" title="Student's t-test">Student's <i>t</i>-test</a></li>
+<li><a href="/wiki/F-test" title="F-test"><i>F</i>-test</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Goodness_of_fit" title="Goodness of fit">Goodness of fit</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chi-squared_test" title="Chi-squared test">Chi-squared</a></li>
+<li><a href="/wiki/G-test" title="G-test"><i>G</i>-test</a></li>
+<li><a href="/wiki/Kolmogorov%E2%80%93Smirnov_test" title="Kolmogorov–Smirnov test">Kolmogorov–Smirnov</a></li>
+<li><a href="/wiki/Anderson%E2%80%93Darling_test" title="Anderson–Darling test">Anderson–Darling</a></li>
+<li><a href="/wiki/Lilliefors_test" title="Lilliefors test">Lilliefors</a></li>
+<li><a href="/wiki/Jarque%E2%80%93Bera_test" title="Jarque–Bera test">Jarque–Bera</a></li>
+<li><a href="/wiki/Shapiro%E2%80%93Wilk_test" title="Shapiro–Wilk test">Normality <span style="font-size:90%;">(Shapiro–Wilk)</span></a></li>
+<li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio test</a></li>
+<li><a href="/wiki/Model_selection" title="Model selection">Model selection</a>
+<ul>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross validation</a></li>
+<li><a href="/wiki/Akaike_information_criterion" title="Akaike information criterion">AIC</a></li>
+<li><a href="/wiki/Bayesian_information_criterion" title="Bayesian information criterion">BIC</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Rank_statistics" class="mw-redirect" title="Rank statistics">Rank statistics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sign_test" title="Sign test">Sign</a>
+<ul>
+<li><a href="/wiki/Sample_median" class="mw-redirect" title="Sample median">Sample median</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wilcoxon_signed-rank_test" title="Wilcoxon signed-rank test">Signed rank <span style="font-size:90%;">(Wilcoxon)</span></a>
+<ul>
+<li><a href="/wiki/Hodges%E2%80%93Lehmann_estimator" title="Hodges–Lehmann estimator">Hodges–Lehmann estimator</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mann%E2%80%93Whitney_U_test" title="Mann–Whitney U test">Rank sum <span style="font-size:90%;">(Mann–Whitney)</span></a></li>
+<li><a href="/wiki/Nonparametric_statistics" title="Nonparametric statistics">Nonparametric</a> <a href="/wiki/Analysis_of_variance" title="Analysis of variance">anova</a>
+<ul>
+<li><a href="/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance" title="Kruskal–Wallis one-way analysis of variance">1-way <span style="font-size:90%;">(Kruskal–Wallis)</span></a></li>
+<li><a href="/wiki/Friedman_test" title="Friedman test">2-way <span style="font-size:90%;">(Friedman)</span></a></li>
+<li><a href="/wiki/Jonckheere%27s_trend_test" title="Jonckheere's trend test">Ordered alternative <span style="font-size:90%;">(Jonckheere–Terpstra)</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Bayesian_inference" title="Bayesian inference">Bayesian inference</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bayesian_probability" title="Bayesian probability">Bayesian probability</a>
+<ul>
+<li><a href="/wiki/Prior_probability" title="Prior probability">prior</a></li>
+<li><a href="/wiki/Posterior_probability" title="Posterior probability">posterior</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Credible_interval" title="Credible interval">Credible interval</a></li>
+<li><a href="/wiki/Bayes_factor" title="Bayes factor">Bayes factor</a></li>
+<li><a href="/wiki/Bayes_estimator" title="Bayes estimator">Bayesian estimator</a>
+<ul>
+<li><a href="/wiki/Maximum_a_posteriori_estimation" title="Maximum a posteriori estimation">Maximum posterior estimator</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="CorrelationRegression_analysis" style="font-size:114%;margin:0 4em">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></li>
+<li><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pearson_product-moment_correlation_coefficient" class="mw-redirect" title="Pearson product-moment correlation coefficient">Pearson product-moment</a></li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Confounding" title="Confounding">Confounding variable</a></li>
+<li><a href="/wiki/Coefficient_of_determination" title="Coefficient of determination">Coefficient of determination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Errors_and_residuals_in_statistics" class="mw-redirect" title="Errors and residuals in statistics">Errors and residuals</a></li>
+<li><a href="/wiki/Regression_model_validation" class="mw-redirect" title="Regression model validation">Regression model validation</a></li>
+<li><a href="/wiki/Mixed_model" title="Mixed model">Mixed effects models</a></li>
+<li><a href="/wiki/Simultaneous_equations_model" title="Simultaneous equations model">Simultaneous equations models</a></li>
+<li><a href="/wiki/Multivariate_adaptive_regression_splines" title="Multivariate adaptive regression splines">Multivariate adaptive regression splines (MARS)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Linear_regression" title="Linear regression">Linear regression</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Simple_linear_regression" title="Simple linear regression">Simple linear regression</a></li>
+<li><a href="/wiki/Ordinary_least_squares" title="Ordinary least squares">Ordinary least squares</a></li>
+<li><a href="/wiki/General_linear_model" title="General linear model">General linear model</a></li>
+<li><a href="/wiki/Bayesian_linear_regression" title="Bayesian linear regression">Bayesian regression</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Non-standard predictors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nonlinear_regression" title="Nonlinear regression">Nonlinear regression</a></li>
+<li><a href="/wiki/Nonparametric_regression" title="Nonparametric regression">Nonparametric</a></li>
+<li><a href="/wiki/Semiparametric_regression" title="Semiparametric regression">Semiparametric</a></li>
+<li><a href="/wiki/Isotonic_regression" title="Isotonic regression">Isotonic</a></li>
+<li><a href="/wiki/Robust_regression" title="Robust regression">Robust</a></li>
+<li><a href="/wiki/Heteroscedasticity" title="Heteroscedasticity">Heteroscedasticity</a></li>
+<li><a href="/wiki/Homoscedasticity" title="Homoscedasticity">Homoscedasticity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Generalized_linear_model" title="Generalized linear model">Generalized linear model</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Exponential_family" title="Exponential family">Exponential families</a></li>
+<li><a href="/wiki/Logistic_regression" title="Logistic regression">Logistic <span style="font-size:90%;">(Bernoulli)</span></a>&#160;/ <a href="/wiki/Binomial_regression" title="Binomial regression">Binomial</a>&#160;/ <a href="/wiki/Poisson_regression" title="Poisson regression">Poisson regressions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Partition_of_sums_of_squares" title="Partition of sums of squares">Partition of variance</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Analysis_of_variance" title="Analysis of variance">Analysis of variance (ANOVA, anova)</a></li>
+<li><a href="/wiki/Analysis_of_covariance" title="Analysis of covariance">Analysis of covariance</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Multivariate ANOVA</a></li>
+<li><a href="/wiki/Degrees_of_freedom_(statistics)" title="Degrees of freedom (statistics)">Degrees of freedom</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Categorical_/_Multivariate_/_Time-series_/_Survival_analysis" style="font-size:114%;margin:0 4em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a>&#160;/ <a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a>&#160;/ <a href="/wiki/Time_series" title="Time series">Time-series</a>&#160;/ <a href="/wiki/Survival_analysis" title="Survival analysis">Survival analysis</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cohen%27s_kappa" title="Cohen's kappa">Cohen's kappa</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li>
+<li><a href="/wiki/Graphical_model" title="Graphical model">Graphical model</a></li>
+<li><a href="/wiki/Poisson_regression" title="Poisson regression">Log-linear model</a></li>
+<li><a href="/wiki/McNemar%27s_test" title="McNemar's test">McNemar's test</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_linear_model" title="General linear model">Regression</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Manova</a></li>
+<li><a href="/wiki/Principal_component_analysis" title="Principal component analysis">Principal components</a></li>
+<li><a href="/wiki/Canonical_correlation" title="Canonical correlation">Canonical correlation</a></li>
+<li><a href="/wiki/Linear_discriminant_analysis" title="Linear discriminant analysis">Discriminant analysis</a></li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a></li>
+<li><a href="/wiki/Structural_equation_modeling" title="Structural equation modeling">Structural equation model</a>
+<ul>
+<li><a href="/wiki/Factor_analysis" title="Factor analysis">Factor analysis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Multivariate_distribution" class="mw-redirect" title="Multivariate distribution">Multivariate distributions</a>
+<ul>
+<li><a href="/wiki/Elliptical_distribution" title="Elliptical distribution">Elliptical distributions</a>
+<ul>
+<li><a href="/wiki/Multivariate_normal_distribution" title="Multivariate normal distribution">Normal</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Time_series" title="Time series">Time-series</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Decomposition_of_time_series" title="Decomposition of time series">Decomposition</a></li>
+<li><a href="/wiki/Trend_estimation" class="mw-redirect" title="Trend estimation">Trend</a></li>
+<li><a href="/wiki/Stationary_process" title="Stationary process">Stationarity</a></li>
+<li><a href="/wiki/Seasonal_adjustment" title="Seasonal adjustment">Seasonal adjustment</a></li>
+<li><a href="/wiki/Exponential_smoothing" title="Exponential smoothing">Exponential smoothing</a></li>
+<li><a href="/wiki/Cointegration" title="Cointegration">Cointegration</a></li>
+<li><a href="/wiki/Structural_break" title="Structural break">Structural break</a></li>
+<li><a href="/wiki/Granger_causality" title="Granger causality">Granger causality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Specific tests</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dickey%E2%80%93Fuller_test" title="Dickey–Fuller test">Dickey–Fuller</a></li>
+<li><a href="/wiki/Johansen_test" title="Johansen test">Johansen</a></li>
+<li><a href="/wiki/Ljung%E2%80%93Box_test" title="Ljung–Box test">Q-statistic <span style="font-size:90%;">(Ljung–Box)</span></a></li>
+<li><a href="/wiki/Durbin%E2%80%93Watson_statistic" title="Durbin–Watson statistic">Durbin–Watson</a></li>
+<li><a href="/wiki/Breusch%E2%80%93Godfrey_test" title="Breusch–Godfrey test">Breusch–Godfrey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Time_domain" title="Time domain">Time domain</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autocorrelation" title="Autocorrelation">Autocorrelation (ACF)</a>
+<ul>
+<li><a href="/wiki/Partial_autocorrelation_function" title="Partial autocorrelation function">partial (PACF)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cross-correlation" title="Cross-correlation">Cross-correlation (XCF)</a></li>
+<li><a href="/wiki/Autoregressive%E2%80%93moving-average_model" title="Autoregressive–moving-average model">ARMA model</a></li>
+<li><a href="/wiki/Box%E2%80%93Jenkins_method" title="Box–Jenkins method">ARIMA model <span style="font-size:90%;">(Box–Jenkins)</span></a></li>
+<li><a href="/wiki/Autoregressive_conditional_heteroskedasticity" title="Autoregressive conditional heteroskedasticity">Autoregressive conditional heteroskedasticity (ARCH)</a></li>
+<li><a href="/wiki/Vector_autoregression" title="Vector autoregression">Vector autoregression (VAR)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Frequency_domain" title="Frequency domain">Frequency domain</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spectral_density_estimation" title="Spectral density estimation">Spectral density estimation</a></li>
+<li><a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a></li>
+<li><a href="/wiki/Wavelet" title="Wavelet">Wavelet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survival_analysis" title="Survival analysis">Survival</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Survival_function" title="Survival function">Survival function</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kaplan%E2%80%93Meier_estimator" title="Kaplan–Meier estimator">Kaplan–Meier estimator (product limit)</a></li>
+<li><a href="/wiki/Proportional_hazards_model" title="Proportional hazards model">Proportional hazards models</a></li>
+<li><a href="/wiki/Accelerated_failure_time_model" title="Accelerated failure time model">Accelerated failure time (AFT) model</a></li>
+<li><a href="/wiki/First-hitting-time_model" title="First-hitting-time model">First hitting time</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Failure_rate" title="Failure rate">Hazard function</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nelson%E2%80%93Aalen_estimator" title="Nelson–Aalen estimator">Nelson–Aalen estimator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Test</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Log-rank_test" title="Log-rank test">Log-rank test</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Applications" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_fields_of_application_of_statistics" title="List of fields of application of statistics">Applications</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Biostatistics" title="Biostatistics">Biostatistics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a></li>
+<li><a href="/wiki/Clinical_trial" title="Clinical trial">Clinical trials</a>&#160;/ <a class="mw-selflink selflink">studies</a></li>
+<li><a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a></li>
+<li><a href="/wiki/Medical_statistics" title="Medical statistics">Medical statistics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Engineering_statistics" title="Engineering statistics">Engineering statistics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemometrics" title="Chemometrics">Chemometrics</a></li>
+<li><a href="/wiki/Methods_engineering" title="Methods engineering">Methods engineering</a></li>
+<li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li>
+<li><a href="/wiki/Statistical_process_control" title="Statistical process control">Process</a>&#160;/ <a href="/wiki/Quality_control" title="Quality control">quality control</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability</a></li>
+<li><a href="/wiki/System_identification" title="System identification">System identification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Social_statistics" title="Social statistics">Social statistics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actuarial_science" title="Actuarial science">Actuarial science</a></li>
+<li><a href="/wiki/Census" title="Census">Census</a></li>
+<li><a href="/wiki/Crime_statistics" title="Crime statistics">Crime statistics</a></li>
+<li><a href="/wiki/Demographic_statistics" title="Demographic statistics">Demography</a></li>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
+<li><a href="/wiki/National_accounts" title="National accounts">National accounts</a></li>
+<li><a href="/wiki/Official_statistics" title="Official statistics">Official statistics</a></li>
+<li><a href="/wiki/Population_statistics" title="Population statistics">Population statistics</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Spatial_analysis" title="Spatial analysis">Spatial statistics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Environmental_statistics" title="Environmental statistics">Environmental statistics</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Geostatistics" title="Geostatistics">Geostatistics</a></li>
+<li><a href="/wiki/Kriging" title="Kriging">Kriging</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Statistics" title="Category:Statistics">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Statistics" title="Portal:Statistics">Portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><b><a href="https://commons.wikimedia.org/wiki/Category:Statistics" class="extiw" title="commons:Category:Statistics">Commons</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Statistics" title="Wikipedia:WikiProject Statistics">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20180213203733
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.276 seconds
+Real time usage: 0.372 seconds
+Preprocessor visited node count: 1895/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 224013/2097152 bytes
+Template argument size: 25164/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 4.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.705      1 -total
+ 36.03%   94.660      1 Template:Statistics
+ 34.10%   89.595      1 Template:Navbox_with_collapsible_groups
+ 31.73%   83.357      1 Template:Reflist
+ 22.10%   58.053     12 Template:Navbox
+ 21.21%   55.732      1 Template:Context
+ 18.28%   48.014      2 Template:Cite_web
+ 11.98%   31.475      1 Template:Ambox
+ 10.01%   26.307      1 Template:ISBN
+  5.83%   15.314      1 Template:Medical_research_studies
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2944829-0!canonical and timestamp 20180213203733 and revision id 809788863
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Clinical_study_design&amp;oldid=809788863">https://en.wikipedia.org/w/index.php?title=Clinical_study_design&amp;oldid=809788863</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Medical_statistics" title="Category:Medical statistics">Medical statistics</a></li><li><a href="/wiki/Category:Design_of_experiments" title="Category:Design of experiments">Design of experiments</a></li><li><a href="/wiki/Category:Scientific_method" title="Category:Scientific method">Scientific method</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_context_from_March_2010" title="Category:Wikipedia articles needing context from March 2010">Wikipedia articles needing context from March 2010</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_context" title="Category:All Wikipedia articles needing context">All Wikipedia articles needing context</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_March_2010" title="Category:Wikipedia introduction cleanup from March 2010">Wikipedia introduction cleanup from March 2010</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">Pages using div col with deprecated parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Clinical+study+design" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Clinical+study+design" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Clinical_study_design" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Clinical_study_design" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Clinical_study_design">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Clinical_study_design&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Clinical_study_design&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Clinical_study_design" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Clinical_study_design" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Clinical_study_design&amp;oldid=809788863" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Clinical_study_design&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17007018" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Clinical_study_design&amp;id=809788863" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Clinical+study+design">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Clinical+study+design&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Clinical_study_design&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Disseny_d%27estudi_cl%C3%ADnic" title="Disseny d&#039;estudi clínic – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Forschungsdesign" title="Forschungsdesign – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17007018#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 November 2017, at 12:04.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Clinical_study_design&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.372","ppvisitednodes":{"value":1895,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":224013,"limit":2097152},"templateargumentsize":{"value":25164,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  262.705      1 -total"," 36.03%   94.660      1 Template:Statistics"," 34.10%   89.595      1 Template:Navbox_with_collapsible_groups"," 31.73%   83.357      1 Template:Reflist"," 22.10%   58.053     12 Template:Navbox"," 21.21%   55.732      1 Template:Context"," 18.28%   48.014      2 Template:Cite_web"," 11.98%   31.475      1 Template:Ambox"," 10.01%   26.307      1 Template:ISBN","  5.83%   15.314      1 Template:Medical_research_studies"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":4283787,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20180213203733","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":481,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>

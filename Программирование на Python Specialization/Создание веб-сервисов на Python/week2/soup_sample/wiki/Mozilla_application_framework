@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mozilla application framework - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mozilla_application_framework","wgTitle":"Mozilla application framework","wgCurRevisionId":810555713,"wgRevisionId":810555713,"wgArticleId":2155562,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from April 2016","All articles lacking in-text citations","Articles needing additional references from November 2009","All articles needing additional references","Application programming interfaces","Mozilla","Software that uses XUL"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mozilla_application_framework","wgRelevantArticleId":2155562,"wgRequestId":"WoNQZApAICAAACLiU98AAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q841305","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mozilla_application_framework"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mozilla_application_framework&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mozilla_application_framework&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mozilla_application_framework"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mozilla_application_framework rootpage-Mozilla_application_framework skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Mozilla application framework</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+</ul>
+</div>
+<p>The <b>Mozilla application framework</b> is a collection of <a href="/wiki/Cross-platform" title="Cross-platform">cross-platform</a> <a href="/wiki/Software_componentry" class="mw-redirect" title="Software componentry">software components</a> that make up the <a href="/wiki/Mozilla" title="Mozilla">Mozilla</a> <a href="/wiki/Application_software" title="Application software">applications</a>. It was originally known as <b>XPFE</b>, an <a href="/wiki/Abbreviation" title="Abbreviation">abbreviation</a> of cross-platform front end. It was also known as <b>XPToolkit</b>. To avoid confusion, it is now referred to as the Mozilla application framework.</p>
+<p>While similar to generic cross-platform <a href="/wiki/Application_framework" title="Application framework">application frameworks</a> like <a href="/wiki/GTK%2B" title="GTK+">GTK+</a>, <a href="/wiki/Qt_(toolkit)" class="mw-redirect" title="Qt (toolkit)">Qt</a> and <a href="/wiki/WxWidgets" title="WxWidgets">wxWidgets</a>, the intent is to provide a subset of cross-platform functionality suitable for building network applications like <a href="/wiki/Web_browser" title="Web browser">web browsers</a>, leveraging the cross-platform functionality already built into the Gecko layout engine.</p>
+<p>The following are the various components of the framework:</p>
+<dl>
+<dt>Gecko&#160;</dt>
+<dd><a href="/wiki/Gecko_(layout_engine)" class="mw-redirect" title="Gecko (layout engine)">Gecko</a> is a standard-based <a href="/wiki/Layout_engine" title="Layout engine">layout engine</a> designed for performance and portability.</dd>
+<dt>Necko&#160;</dt>
+<dd>Necko provides an extensible API for several layers of networking from transport to presentation layers.</dd>
+<dt>XUL&#160;</dt>
+<dd><a href="/wiki/XUL" title="XUL">XUL</a> is the basis of <a href="/wiki/User_interface" title="User interface">user interface</a>. It is an application of <a href="/wiki/XML" title="XML">XML</a> that defines various user interfaces elements, mostly <a href="/wiki/GUI_widget" class="mw-redirect" title="GUI widget">widgets</a>, control elements, template, etc. It is similar in many ways to <a href="/wiki/HTML" title="HTML">HTML</a>.</dd>
+<dt>XBL&#160;</dt>
+<dd><a href="/wiki/XBL" title="XBL">XBL</a> allows one to define his/her own widget for use in XUL.</dd>
+<dt>XPCOM&#160;</dt>
+<dd><a href="/wiki/XPCOM" title="XPCOM">XPCOM</a> is an object interface that allows interfacing between any programming language for which a binding has been developed</dd>
+<dt>XPConnect&#160;</dt>
+<dd><a href="/wiki/XPConnect" class="mw-redirect" title="XPConnect">XPConnect</a> is the binding between XPCOM and <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>.</dd>
+<dt>XPInstall&#160;</dt>
+<dd><a href="/wiki/XPInstall" title="XPInstall">XPInstall</a> is a technology for installing small packages like <a href="/wiki/Add-on_(Mozilla)" title="Add-on (Mozilla)">extensions</a> and themes into Mozilla applications in form of installation archives known as <a href="/wiki/XPI" class="mw-redirect" title="XPI">XPI</a>.</dd>
+<dt>Web services&#160;</dt>
+<dd>Mozilla includes built-in support for popular <a href="/wiki/Web_service" title="Web service">web services</a> standards <a href="/wiki/XML-RPC" title="XML-RPC">XML-RPC</a>, <a href="/wiki/SOAP" title="SOAP">SOAP</a> (dropped since Gran Paradiso Alpha 7<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), and <a href="/wiki/Web_Services_Description_Language" title="Web Services Description Language">WSDL</a> as well as a simple <a href="/wiki/XMLHttpRequest" title="XMLHttpRequest">XMLHttpRequest</a> object similar to the one in <a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a>.</dd>
+<dt>Others&#160;</dt>
+<dd>The framework supports a number of open or common standards, including <a href="/wiki/Document_Type_Definition" class="mw-redirect" title="Document Type Definition">DTD</a>, <a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a>, <a href="/wiki/XSL_Transformations" class="mw-redirect" title="XSL Transformations">XSLT</a>/<a href="/wiki/XPath" title="XPath">XPath</a>, <a href="/wiki/MathML" title="MathML">MathML</a>, <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>, <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>, <a href="/wiki/SQL" title="SQL">SQL</a>, <a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">LDAP</a>, etc.</dd>
+</dl>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Applications_that_use_the_framework"><span class="tocnumber">1</span> <span class="toctext">Applications that use the framework</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Applications_that_use_the_framework">Applications that use the framework</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mozilla_application_framework&amp;action=edit&amp;section=1" title="Edit section: Applications that use the framework">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Mozilla_application_framework&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(November 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Netscape_Navigator_9" title="Netscape Navigator 9">Netscape Navigator 9</a> web browser</li>
+<li><a href="/wiki/Mozilla_Firefox" class="mw-redirect" title="Mozilla Firefox">Mozilla Firefox</a> web browser</li>
+<li><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a> web browser</li>
+<li><a href="/wiki/Wine_(software)" title="Wine (software)">Wine</a> compatibility layer (Gecko is used in the built-in web browser component)</li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a> Internet suite</li>
+<li><a href="/wiki/Mozilla_Thunderbird" title="Mozilla Thunderbird">Mozilla Thunderbird</a> email client</li>
+<li><a href="/wiki/ChatZilla" title="ChatZilla">ChatZilla</a> IRC client</li>
+<li><a href="/wiki/KompoZer" title="KompoZer">KompoZer</a> <a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a> web authoring</li>
+<li><a href="/wiki/Mozilla_Sunbird" title="Mozilla Sunbird">Mozilla Sunbird</a> calendar</li>
+<li><a href="/wiki/Komodo_IDE" title="Komodo IDE">Komodo IDE</a> and <a href="/wiki/Komodo_Edit" title="Komodo Edit">Komodo Edit</a> since version 5 of both</li>
+<li><a href="/wiki/Songbird_(software)" title="Songbird (software)">Songbird</a> media player</li>
+<li>Former <a href="/wiki/Joost" title="Joost">Joost</a> <a href="/wiki/IPTV" title="IPTV">IPTV</a> client</li>
+<li><a href="/wiki/Celtx" title="Celtx">Celtx</a> <a href="/wiki/Screenplay" title="Screenplay">screenplay</a> writing application</li>
+<li><a href="/wiki/Miro_(software)" title="Miro (software)">Miro</a> internet TV application</li>
+<li><a href="/wiki/Boxee" title="Boxee">Boxee</a> media center software</li>
+<li><a href="/wiki/Instantbird" title="Instantbird">Instantbird</a> instant messaging client</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mozilla_application_framework&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/XULRunner" title="XULRunner">XULRunner</a></li>
+<li><a href="/wiki/Chromium_Embedded_Framework" title="Chromium Embedded Framework">Chromium Embedded Framework</a> (CEF)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mozilla_application_framework&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://bugzilla.mozilla.org/show_bug.cgi?id=332174">"Bug 332174 - Drop SOAP support"</a>. <i>Bugzilla@Mozilla</i>. August 11, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bugzilla%40Mozilla&amp;rft.atitle=Bug+332174+-+Drop+SOAP+support&amp;rft.date=2008-08-11&amp;rft_id=https%3A%2F%2Fbugzilla.mozilla.org%2Fshow_bug.cgi%3Fid%3D332174&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMozilla+application+framework" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li>Syd Logan: <cite>Cross-Platform Development in C++: Building Mac OS X, Linux, and Windows Applications</cite>, Addison-Wesley, 2007. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-321-24642-X" title="Special:BookSources/0-321-24642-X">0-321-24642-X</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mozilla_application_framework&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://developer.mozilla.org/en/docs/Mozilla_Application_Framework_in_Detail">The Mozilla Application Framework in Detail</a></li>
+<li><a rel="nofollow" class="external text" href="http://books.mozdev.org/html/mozilla-chp-1.html">Mozilla as Platform</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.informit.com/store/product.aspx?isbn=0131423436">Rapid Application Development with Mozilla</a> - a book by Nigel McFarlane, published by Prentice Hall, part of the Bruce Perens' Open Source Series (freely downloadable in <a href="/wiki/PDF" class="mw-redirect" title="PDF">PDF</a> format)</li>
+<li><a rel="nofollow" class="external text" href="http://mozdev.org/">MozDev.org</a>: Site for projects based on the Mozilla Application Framework; not affiliated with Mozilla Corp. or the Mozilla Foundation</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Mozilla" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mozilla" title="Template:Mozilla"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mozilla" title="Template talk:Mozilla"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mozilla&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Mozilla" style="font-size:114%;margin:0 4em"><a href="/wiki/Mozilla" title="Mozilla">Mozilla</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Projects" style="font-size:114%;margin:0 4em">Projects</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mozilla<br />
+Labs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bonsai_(software)" title="Bonsai (software)">Bonsai</a></li>
+<li><a href="/wiki/Bugzilla" title="Bugzilla">Bugzilla</a></li>
+<li><a href="/wiki/ChatZilla" title="ChatZilla">ChatZilla</a></li>
+<li><a href="/wiki/Electrolysis_Project" class="mw-redirect" title="Electrolysis Project">Electrolysis Project</a></li>
+<li><a href="/wiki/Jetpack_(Firefox_project)" title="Jetpack (Firefox project)">Jetpack</a></li>
+<li><a href="/wiki/Lightning_(software)" title="Lightning (software)">Lightning</a></li>
+<li><a href="/wiki/Mozilla_Persona" title="Mozilla Persona">Persona</a></li>
+<li><a href="/wiki/Mozilla_Prism" title="Mozilla Prism">Prism</a></li>
+<li><a href="/wiki/Mozilla_Raindrop" title="Mozilla Raindrop">Raindrop</a></li>
+<li><a href="/wiki/Mozilla_Skywriter" title="Mozilla Skywriter">Skywriter</a></li>
+<li><a href="/wiki/Mozilla_Sunbird" title="Mozilla Sunbird">Sunbird</a></li>
+<li><a href="/wiki/PDF.js" title="PDF.js">PDF.js</a></li>
+<li><a href="/wiki/Firefox_Sync" title="Firefox Sync">Sync</a></li>
+<li>Tinderbox</li>
+<li><a href="/wiki/Ubiquity_(Firefox)" title="Ubiquity (Firefox)">Ubiquity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mozilla<br />
+Research</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asm.js" title="Asm.js">asm.js</a></li>
+<li><a href="/wiki/Daala" title="Daala">Daala</a></li>
+<li><a href="/wiki/Firefox_OS" title="Firefox OS">Firefox OS</a></li>
+<li><a href="/wiki/OpenFlint" title="OpenFlint">OpenFlint</a></li>
+<li><a href="/wiki/Alliance_for_Open_Media" title="Alliance for Open Media">Open Media</a></li>
+<li><a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a></li>
+<li><a href="/wiki/Servo_(layout_engine)" title="Servo (layout engine)">Servo</a></li>
+<li><a href="/wiki/Shumway_(software)" title="Shumway (software)">Shumway</a></li>
+<li><a href="/wiki/WebAssembly" title="WebAssembly">WebAssembly</a></li>
+<li><a href="/wiki/WebVR" title="WebVR">WebVR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mozilla<br />
+Foundation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Firefox" title="Firefox">Firefox</a>
+<ul>
+<li><i><a href="/wiki/Firefox_1" class="mw-redirect" title="Firefox 1">1</a></i></li>
+<li><i><a href="/wiki/Firefox_1.5" class="mw-redirect" title="Firefox 1.5">1.5</a></i></li>
+<li><i><a href="/wiki/Firefox_2" title="Firefox 2">2</a></i></li>
+<li><i><a href="/wiki/Firefox_3" class="mw-redirect" title="Firefox 3">3</a></i></li>
+<li><i><a href="/wiki/Firefox_3.5" title="Firefox 3.5">3.5</a></i></li>
+<li><a href="/wiki/Firefox_3.6" title="Firefox 3.6">3.6</a></li>
+<li><i><a href="/wiki/Firefox_4" title="Firefox 4">4</a></i></li>
+<li><i><a href="/wiki/History_of_Firefox#Rapid_release" title="History of Firefox">5–current</a></i></li>
+<li><a href="/wiki/History_of_Firefox#Future_releases" title="History of Firefox">Future releases</a></li>
+<li><a href="/wiki/Firefox_for_Android" title="Firefox for Android">for Android</a></li>
+<li><a href="/wiki/Firefox_for_iOS" title="Firefox for iOS">for iOS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a></li>
+<li><a href="/wiki/Mozilla_Thunderbird" title="Mozilla Thunderbird">Thunderbird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Origins</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla Application Suite</a></li>
+<li><a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape Navigator</a></li>
+<li><a href="/wiki/Netscape_Communicator" title="Netscape Communicator">Netscape Communicator</a></li>
+<li><a href="/wiki/Netscape" title="Netscape">Netscape Communications</a></li>
+<li><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Forks<br />
+(discontinued in <i>italics</i>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basilisk_(web_browser)" title="Basilisk (web browser)">Basilisk</a></li>
+<li><a href="/wiki/GNewSense#Comparison_with_other_distributions" title="GNewSense">BurningDog</a></li>
+<li><a href="/wiki/Classilla" title="Classilla">Classilla</a></li>
+<li><i><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a></i></li>
+<li><a href="/wiki/Gnuzilla" title="Gnuzilla">Gnuzilla</a></li>
+<li><a href="/wiki/Goanna_(software)" title="Goanna (software)">Goanna</a></li>
+<li><a href="/wiki/Mozilla_software_rebranded_by_Debian#Iceape" title="Mozilla software rebranded by Debian">Iceape</a></li>
+<li><a href="/wiki/GNU_IceCat" title="GNU IceCat">IceCat</a></li>
+<li><a href="/wiki/Mozilla_software_rebranded_by_Debian#Icedove" title="Mozilla software rebranded by Debian">Icedove</a></li>
+<li><a href="/wiki/Mozilla_software_rebranded_by_Debian#Iceowl" title="Mozilla software rebranded by Debian">Iceowl</a></li>
+<li><a href="/wiki/Miro_(software)" title="Miro (software)">Miro</a></li>
+<li><i><a href="/wiki/Netscape_Navigator_9" title="Netscape Navigator 9">Netscape 9</a></i></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+<li><a href="/wiki/Firefox_Portable" title="Firefox Portable">Portable Edition</a></li>
+<li><i><a href="/wiki/Swiftfox" title="Swiftfox">Swiftfox</a></i></li>
+<li><i><a href="/wiki/Swiftweasel" title="Swiftweasel">Swiftweasel</a></i></li>
+<li><a href="/wiki/TenFourFox" title="TenFourFox">TenFourFox</a></li>
+<li><a href="/wiki/XUL#Forks" title="XUL">Unified XUL Platform</a></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li>
+<li><i><a href="/wiki/XB_Browser" title="XB Browser">xB Browser</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Frameworks</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Add-on_(Mozilla)" title="Add-on (Mozilla)">Add-on</a></li>
+<li><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a></li>
+<li><a class="mw-selflink selflink">Necko</a></li>
+<li><a href="/wiki/NPAPI" title="NPAPI">NPAPI</a>
+<ul>
+<li><a href="/wiki/NPAPI#XPConnect" title="NPAPI">XPConnect</a></li>
+</ul>
+</li>
+<li><a href="/wiki/XBL" title="XBL">XBL</a></li>
+<li><a href="/wiki/XPCOM" title="XPCOM">XPCOM</a></li>
+<li><a href="/wiki/XPInstall" title="XPInstall">XPInstall</a></li>
+<li><a href="/wiki/XUL" title="XUL">XUL</a></li>
+<li><a href="/wiki/XULRunner" title="XULRunner">XULRunner</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Application_Object_Model&amp;action=edit&amp;redlink=1" class="new" title="Application Object Model (page does not exist)">Application Object Model</a></li>
+<li><a href="/wiki/Mozilla_Composer" title="Mozilla Composer">Composer</a></li>
+<li><a href="/wiki/Netscape_Portable_Runtime" title="Netscape Portable Runtime">NSPR</a></li>
+<li><a href="/wiki/Network_Security_Services" title="Network Security Services">NSS</a></li>
+<li><a href="/wiki/Rhino_(JavaScript_engine)" title="Rhino (JavaScript engine)">Rhino</a></li>
+<li><a href="/wiki/SpiderMonkey" title="SpiderMonkey">SpiderMonkey</a></li>
+<li><a href="/wiki/Tamarin_(software)" title="Tamarin (software)">Tamarin</a></li>
+<li><a href="/w/index.php?title=Venkman&amp;action=edit&amp;redlink=1" class="new" title="Venkman (page does not exist)">Venkman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Discontinued</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mozilla_Calendar_Project" title="Mozilla Calendar Project">Calendar Project</a></li>
+<li><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></li>
+<li><a href="/wiki/Firefox_Home" class="mw-redirect" title="Firefox Home">Firefox Home</a></li>
+<li><a href="/wiki/Mozilla_Grendel" title="Mozilla Grendel">Grendel</a></li>
+<li><a href="/wiki/Minimo" title="Minimo">Minimo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Organization" style="font-size:114%;margin:0 4em">Organization</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mozilla" title="Mozilla">Foundation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Former <a href="/wiki/Mozilla_Organization" class="mw-redirect" title="Mozilla Organization">Mozilla Organization</a></i></li>
+<li><a href="/wiki/Mozilla_Foundation" title="Mozilla Foundation">Mozilla Foundation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Subsidiaries</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mozilla_Corporation" title="Mozilla Corporation">Mozilla Corporation</a></li>
+<li><a href="/wiki/Mozilla_Messaging" title="Mozilla Messaging">Mozilla Messaging</a></li>
+<li><a href="/wiki/Mozilla_Foundation#Mozilla_Online" title="Mozilla Foundation">Mozilla Online</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Official affiliates</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mozilla_China" title="Mozilla China">Mozilla China</a></li>
+<li><a href="/wiki/Mozilla_Europe" title="Mozilla Europe">Mozilla Europe</a></li>
+<li><a href="/wiki/Mozilla_Japan" title="Mozilla Japan">Mozilla Japan</a></li>
+<li><a href="/wiki/Mozilla_Taiwan" title="Mozilla Taiwan">Mozilla Taiwan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mitchell_Baker" title="Mitchell Baker">Mitchell Baker</a></li>
+<li><a href="/w/index.php?title=David_Baron_(Computer_Scientist)&amp;action=edit&amp;redlink=1" class="new" title="David Baron (Computer Scientist) (page does not exist)">David Baron</a></li>
+<li><a href="/wiki/Sheeri_Cabral" title="Sheeri Cabral">Sheeri Cabral</a></li>
+<li><a href="/wiki/Tantek_%C3%87elik" title="Tantek Çelik">Tantek Çelik</a></li>
+<li><a href="/wiki/Brendan_Eich" title="Brendan Eich">Brendan Eich</a></li>
+<li><a href="/wiki/John_Hammink" title="John Hammink">John Hammink</a></li>
+<li><a href="/w/index.php?title=Robert_O%27Callahan&amp;action=edit&amp;redlink=1" class="new" title="Robert O'Callahan (page does not exist)">Robert O'Callahan</a></li>
+<li><a href="/wiki/Johnny_Stenb%C3%A4ck" title="Johnny Stenbäck">Johnny Stenbäck</a></li>
+<li><a href="/wiki/Doug_Turner_(Mozilla)" title="Doug Turner (Mozilla)">Doug Turner</a></li>
+<li><a href="/w/index.php?title=Boris_Zbarsky&amp;action=edit&amp;redlink=1" class="new" title="Boris Zbarsky (page does not exist)">Boris Zbarsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Community" style="font-size:114%;margin:0 4em">Community</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mozdev.org" title="Mozdev.org">mozdev.org</a></li>
+<li><a href="/wiki/Mozilla_Add-ons" class="mw-redirect" title="Mozilla Add-ons">Mozilla Add-ons</a></li>
+<li><a href="/wiki/MDN_Web_Docs" title="MDN Web Docs">MDN Web Docs</a></li>
+<li><a href="/wiki/MozillaZine" title="MozillaZine">MozillaZine</a></li>
+<li><a href="/wiki/Firefox#Promotion" title="Firefox">Spread Firefox</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Other_topics" style="font-size:114%;margin:0 4em">Other topics</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Book_of_Mozilla" title="The Book of Mozilla">The Book of Mozilla</a></i></li>
+<li><i><a href="/wiki/Code_Rush" title="Code Rush">Code Rush</a></i></li>
+<li><a href="/wiki/Mozilla_Public_License" title="Mozilla Public License">Mozilla Public License</a></li>
+<li><a href="/wiki/Mozilla_localizations" title="Mozilla localizations">Localizations</a></li>
+<li><a href="/wiki/Mozilla_(mascot)" title="Mozilla (mascot)">Mascot</a></li>
+<li><a href="/wiki/Mozilla_software_rebranded_by_Debian" title="Mozilla software rebranded by Debian">Rebranding / forking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20180213205356
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.273 seconds
+Preprocessor visited node count: 1260/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80989/2097152 bytes
+Template argument size: 7672/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 3.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  218.109      1 -total
+ 30.06%   65.574      1 Template:Inline_citations
+ 28.06%   61.207      1 Template:Mozilla_projects
+ 25.56%   55.748      1 Template:Navbox_with_collapsible_groups
+ 19.72%   43.017      2 Template:Ambox
+ 19.37%   42.241      1 Template:Reflist
+ 16.67%   36.355      1 Template:Cite_web
+  9.64%   21.028      1 Template:ISBN
+  7.66%   16.704      1 Template:Portal
+  7.12%   15.536      3 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2155562-0!canonical and timestamp 20180213205356 and revision id 810555713
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mozilla_application_framework&amp;oldid=810555713">https://en.wikipedia.org/w/index.php?title=Mozilla_application_framework&amp;oldid=810555713</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Application_programming_interfaces" title="Category:Application programming interfaces">Application programming interfaces</a></li><li><a href="/wiki/Category:Mozilla" title="Category:Mozilla">Mozilla</a></li><li><a href="/wiki/Category:Software_that_uses_XUL" title="Category:Software that uses XUL">Software that uses XUL</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2016" title="Category:Articles lacking in-text citations from April 2016">Articles lacking in-text citations from April 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2009" title="Category:Articles needing additional references from November 2009">Articles needing additional references from November 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mozilla+application+framework" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mozilla+application+framework" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mozilla_application_framework" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Mozilla_application_framework" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mozilla_application_framework">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mozilla_application_framework&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mozilla_application_framework&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mozilla_application_framework" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mozilla_application_framework" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mozilla_application_framework&amp;oldid=810555713" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mozilla_application_framework&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q841305" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mozilla_application_framework&amp;id=810555713" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mozilla+application+framework">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mozilla+application+framework&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mozilla_application_framework&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Plateforme_Mozilla" title="Plateforme Mozilla – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%A7%88%EB%9D%BC_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC" title="모질라 애플리케이션 프레임워크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Mozilla_application_framework" title="Mozilla application framework – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Mozilla%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%A1%86%E6%9E%B6" title="Mozilla应用程序框架 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q841305#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 November 2017, at 00:11.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mozilla_application_framework&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.273","ppvisitednodes":{"value":1260,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80989,"limit":2097152},"templateargumentsize":{"value":7672,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  218.109      1 -total"," 30.06%   65.574      1 Template:Inline_citations"," 28.06%   61.207      1 Template:Mozilla_projects"," 25.56%   55.748      1 Template:Navbox_with_collapsible_groups"," 19.72%   43.017      2 Template:Ambox"," 19.37%   42.241      1 Template:Reflist"," 16.67%   36.355      1 Template:Cite_web","  9.64%   21.028      1 Template:ISBN","  7.66%   16.704      1 Template:Portal","  7.12%   15.536      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":3162348,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20180213205356","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":370,"wgHostname":"mw1330"});});</script>
+	</body>
+</html>

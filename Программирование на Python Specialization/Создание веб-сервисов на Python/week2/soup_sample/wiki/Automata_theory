@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Automata theory - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Automata_theory","wgTitle":"Automata theory","wgCurRevisionId":818872592,"wgRevisionId":818872592,"wgArticleId":103356,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from May 2012","CS1 maint: Uses authors parameter","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Automata (computation)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Automata_theory","wgRelevantArticleId":103356,"wgRequestId":"WoJ7awpAMFYAACAvADsAAABD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q214526","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Automata_theory.svg/1200px-Automata_theory.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Automata_theory"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Automata_theory&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Automata_theory&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Automata_theory"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Automata_theory rootpage-Automata_theory skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Automata theory</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner noresize" style="width:302px;">
+<div class="thumbimage" style="width:300px;">
+<div class="noresize" style="height: 225px; width: 300px; "><map name="ImageMap_1_847177580" id="ImageMap_1_847177580">
+<area href="/wiki/Combinational_logic" shape="rect" coords="101,75,255,124" alt="Combinational logic" title="Combinational logic" />
+<area href="/wiki/Finite-state_machine" shape="rect" coords="71,68,266,154" alt="Finite-state machine" title="Finite-state machine" />
+<area href="/wiki/Pushdown_automaton" shape="rect" coords="41,60,278,184" alt="Pushdown automaton" title="Pushdown automaton" />
+<area href="/wiki/Turing_machine" shape="rect" coords="11,53,289,214" alt="Turing machine" title="Turing machine" />
+<area href="/wiki/Automata_theory" shape="rect" coords="4,4,296,49" alt="Automata theory" title="Automata theory" /></map><img alt="Automata theory.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Automata_theory.svg/300px-Automata_theory.svg.png" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Automata_theory.svg/450px-Automata_theory.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Automata_theory.svg/600px-Automata_theory.svg.png 2x" data-file-width="800" data-file-height="600" usemap="#ImageMap_1_847177580" />
+<div style="margin-left: 280px; margin-top: -224px; text-align: left;"><a href="/wiki/File:Automata_theory.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/desc-20.png?15600" style="border: none;" /></a></div>
+</div>
+</div>
+<div class="thumbcaption">Classes of automata <span class="noprint"><small>(Clicking on each layer will take you to an article on that subject)</small></span></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:DFAexample.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/250px-DFAexample.svg.png" width="250" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/375px-DFAexample.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/500px-DFAexample.svg.png 2x" data-file-width="500" data-file-height="299" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DFAexample.svg" class="internal" title="Enlarge"></a></div>
+The study of the mathematical properties of such automata is automata theory. The picture is a visualization of an automaton that recognizes strings containing an even number of <i>0</i>s. The automaton starts in state <i>S1</i>, and transitions to the non-accepting state <i>S2</i> upon reading the symbol <i>0</i>. Reading another <i>0</i> causes the automaton to transition back to the accepting state <i>S1</i>. In both states the symbol <i>1</i> is ignored by making a transition to the current state.</div>
+</div>
+</div>
+<p><b>Automata theory</b> is the study of <a href="/wiki/Abstract_machine" title="Abstract machine">abstract machines</a> and <a href="/wiki/Automaton" title="Automaton">automata</a>, as well as the <a href="/wiki/Computational_problem" title="Computational problem">computational problems</a> that can be solved using them. It is a theory in <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a> and <a href="/wiki/Discrete_mathematics" title="Discrete mathematics">discrete mathematics</a> (a subject of study in both <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a>). The word <i>automata</i> (the plural of <i>automaton</i>) comes from the Greek word αὐτόματα, which means "self-acting".</p>
+<p>The figure at right illustrates a <a href="/wiki/Finite-state_machine" title="Finite-state machine">finite-state machine</a>, which belongs to a well-known type of automaton. This automaton consists of <a href="/wiki/State_(computer_science)" title="State (computer science)">states</a> (represented in the figure by circles) and transitions (represented by arrows). As the automaton sees a symbol of input, it makes a transition (or jump) to another state, according to its <a href="/wiki/Transition_system" title="Transition system">transition function</a>, which takes the current state and the recent symbol as its inputs.</p>
+<p>Automata theory is closely related to <a href="/wiki/Formal_language" title="Formal language">formal language</a> theory. An automaton is a finite representation of a formal language that may be an infinite set. Automata are often classified by the class of formal languages they can recognize, typically illustrated by the <a href="/wiki/Chomsky_hierarchy" title="Chomsky hierarchy">Chomsky hierarchy</a>, which describes the relations between various languages and kinds of formalized logic.</p>
+<p>Automata play a major role in <a href="/wiki/Theory_of_computation" title="Theory of computation">theory of computation</a>, <a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">compiler construction</a>, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, <a href="/wiki/Parsing" title="Parsing">parsing</a> and <a href="/wiki/Formal_verification" title="Formal verification">formal verification</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Automata"><span class="tocnumber">1</span> <span class="toctext">Automata</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Very_informal_description"><span class="tocnumber">1.1</span> <span class="toctext">Very informal description</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Informal_description"><span class="tocnumber">1.2</span> <span class="toctext">Informal description</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Formal_definition"><span class="tocnumber">1.3</span> <span class="toctext">Formal definition</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#definition_of_finite_state_automata"><span class="tocnumber">1.3.1</span> <span class="toctext">definition of finite state automata</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Variant_definitions_of_automata"><span class="tocnumber">2</span> <span class="toctext">Variant definitions of automata</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Classes_of_automata"><span class="tocnumber">3</span> <span class="toctext">Classes of automata</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Discrete,_continuous,_and_hybrid_automata"><span class="tocnumber">3.1</span> <span class="toctext">Discrete, continuous, and hybrid automata</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Hierarchy_in_terms_of_powers"><span class="tocnumber">4</span> <span class="toctext">Hierarchy in terms of powers</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Automata_simulators"><span class="tocnumber">6</span> <span class="toctext">Automata simulators</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Connection_to_category_theory"><span class="tocnumber">7</span> <span class="toctext">Connection to category theory</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Automata">Automata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=1" title="Edit section: Automata">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following is an introductory definition of one type of automaton, which attempts to help one grasp the essential concepts involved in automata theory/theories.</p>
+<h3><span class="mw-headline" id="Very_informal_description">Very informal description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=2" title="Edit section: Very informal description">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An automaton is a construct made of <i>states</i> designed to determine if the input should be accepted or rejected. It looks a lot like a basic board game where each space on the board represents a state. Each state has information about what to do when an input is received by the machine (again, rather like what to do when you land on the <i>Jail</i> spot in a popular board game). As the machine receives a new input, it looks at the state and picks a new spot based on the information on what to do when it receives that input at that state. When there are no more inputs, the automaton stops and the space it is on when it completes determines whether the automaton accepts or rejects that particular set of inputs.</p>
+<h3><span class="mw-headline" id="Informal_description">Informal description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=3" title="Edit section: Informal description">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An automaton <i>runs</i> when it is given some sequence of <i>inputs</i> in discrete (individual) <i>time steps</i> or steps. An automaton processes one input picked from a set of <i><a href="/wiki/Symbol_(formal)" title="Symbol (formal)">symbols</a></i> or <i>letters</i>, which is called an <i><a href="/wiki/Alphabet_(computer_science)" class="mw-redirect" title="Alphabet (computer science)">alphabet</a></i>. The symbols received by the automaton as input at any step are a finite sequence of symbols called <i>words</i>. An automaton has a finite set of <i>states</i>. At each moment during a run of the automaton, the automaton is <i>in</i> one of its states. When the automaton receives new input it moves to another state (or transitions) based on a function that takes the current state and symbol as parameters. This function is called the <i>transition function</i>. The automaton reads the symbols of the input word one after another and transitions from state to state according to the transition function until the word is read completely. Once the input word has been read, the automaton is said to have stopped. The state at which the automaton stops is called the final state. Depending on the final state, it's said that the automaton either <i>accepts</i> or <i>rejects</i> an input word. There is a subset of states of the automaton, which is defined as the set of <i>accepting states</i>. If the final state is an accepting state, then the automaton <i>accepts</i> the word. Otherwise, the word is <i>rejected</i>. The set of all the words accepted by an automaton is called the "language of that <a href="/wiki/Machine" title="Machine">automaton</a>". Any subset of the language of an automaton is a <i><a href="/wiki/Formal_language" title="Formal language">language</a> recognized by that automaton</i>.</p>
+<p>In short, an automaton is a <a href="/wiki/Mathematical_object" title="Mathematical object">mathematical object</a> that takes a word as input and decides whether to accept it or reject it. Since all computational problems are reducible into the accept/reject question on inputs, (all problem instances can be represented in a finite length of symbols)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2012)">citation needed</span></a></i>]</sup>, automata theory plays a crucial role in <a href="/wiki/Computational_theory" class="mw-redirect" title="Computational theory">computational theory</a>. Automata is related to Maths and it is the upper stage of discrete mathematics structure.</p>
+<h3><span class="mw-headline" id="Formal_definition">Formal definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=4" title="Edit section: Formal definition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dt>Automaton</dt>
+</dl>
+<h4><span class="mw-headline" id="definition_of_finite_state_automata">definition of <a href="/wiki/Finite_state_automata" class="mw-redirect" title="Finite state automata">finite state automata</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=5" title="Edit section: definition of finite state automata">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<dl>
+<dd>A deterministic finite <b>automaton</b> is represented formally by a <a href="/wiki/N-tuple" class="mw-redirect" title="N-tuple">5-tuple</a> <b>&lt;Q, <a href="/wiki/Sigma" title="Sigma">Σ</a>, <a href="/wiki/Delta_(letter)" title="Delta (letter)">δ</a>,q<sub>0</sub>,F&gt;</b>, where:
+<ul>
+<li>Q is a finite set of <i>states</i>.</li>
+<li><a href="/wiki/Sigma" title="Sigma">Σ</a> is a finite set of <i><a href="/wiki/Symbol" title="Symbol">symbols</a></i>, called the <i><a href="/wiki/Alphabet_(computer_science)" class="mw-redirect" title="Alphabet (computer science)">alphabet</a></i> of the automaton.</li>
+<li><a href="/wiki/Delta_(letter)" title="Delta (letter)">δ</a> is the <b>transition function</b>, that is, δ:&#160;Q&#160;×&#160;Σ&#160;→&#160;Q.</li>
+<li>q<sub>0</sub> is the <i>start state</i>, that is, the state of the automaton before any input has been processed, where q<sub>0</sub>∈ Q.</li>
+<li>F is a set of states of Q (i.e. F⊆Q) called <b>accept states</b>.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt>Input word</dt>
+<dd>An automaton reads a finite <a href="/wiki/Word_(mathematics)" class="mw-redirect" title="Word (mathematics)">string</a> of symbols a<sub>1</sub>,a<sub>2</sub>,...., a<sub>n</sub> , where a<sub>i</sub>&#160;∈&#160;Σ, which is called an <i>input word</i>. The set of all words is denoted by Σ*.</dd>
+<dt>Run</dt>
+<dd>A sequence of states q<sub>0</sub>,q<sub>1</sub>,q<sub>2</sub>,...., q<sub>n</sub>, where q<sub>i</sub>&#160;∈&#160;Q such that q<sub>0</sub> is the start state and q<sub>i</sub>&#160;=&#160;δ(q<sub>i-1</sub>,a<sub>i</sub>) for 0&#160;&lt;&#160;i&#160;≤&#160;n, is a <i>run</i> of the automaton on an input word w = a<sub>1</sub>,a<sub>2</sub>,...., a<sub>n</sub>&#160;∈&#160;Σ*. In other words, at first the automaton is at the start state q<sub>0</sub>, and then the automaton reads symbols of the input word in sequence. When the automaton reads symbol a<sub>i</sub> it jumps to state q<sub>i</sub>&#160;=&#160;δ(q<sub>i-1</sub>,a<sub>i</sub>). q<sub>n</sub> is said to be the <i>final state</i> of the run.</dd>
+</dl>
+<dl>
+<dt>Accepting word</dt>
+<dd>A word w&#160;∈&#160;Σ* is accepted by the automaton if q<sub>n</sub>&#160;∈&#160;F.</dd>
+</dl>
+<dl>
+<dt>Recognized language</dt>
+<dd>An automaton can recognize a <a href="/wiki/Formal_language" title="Formal language">formal language</a>. The language L&#160;⊆&#160;Σ* recognized by an automaton is the set of all the words that are accepted by the automaton.</dd>
+</dl>
+<dl>
+<dt>Recognizable languages</dt>
+<dd>The <a href="/wiki/Recognizable_language" class="mw-redirect" title="Recognizable language">recognizable languages</a> are the set of languages that are recognized by some automaton. For the above definition of automata the recognizable languages are <a href="/wiki/Regular_language" title="Regular language">regular languages</a>. For different definitions of automata, the recognizable languages are different.</dd>
+</dl>
+<h2><span class="mw-headline" id="Variant_definitions_of_automata">Variant definitions of automata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=6" title="Edit section: Variant definitions of automata">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Automata are defined to study useful machines under mathematical formalism. So, the definition of an automaton is open to variations according to the "real world machine", which we want to model using the automaton. People have studied many variations of automata. The most standard variant, which is described above, is called a <a href="/wiki/Deterministic_finite_automaton" title="Deterministic finite automaton">deterministic finite automaton</a>. The following are some popular variations in the definition of different components of automata.</p>
+<dl>
+<dt>Input</dt>
+</dl>
+<ul>
+<li><i>Finite input</i>: An automaton that accepts only finite sequence of symbols. The above introductory definition only encompasses finite words.</li>
+<li><i>Infinite input</i>: An automaton that accepts infinite words (<a href="/wiki/Omega_language" title="Omega language">ω-words</a>). Such automata are called <i><a href="/wiki/Omega_automaton" class="mw-redirect" title="Omega automaton">ω-automata</a></i>.</li>
+<li><i>Tree word input</i>: The input may be a <i><a href="/wiki/Tree_(automata_theory)" title="Tree (automata theory)">tree of symbols</a></i> instead of sequence of symbols. In this case after reading each symbol, the automaton <i>reads</i> all the successor symbols in the input tree. It is said that the automaton <i>makes one copy</i> of itself for each successor and each such copy starts running on one of the successor symbols from the state according to the transition relation of the automaton. Such an automaton is called a <a href="/wiki/Tree_automaton" title="Tree automaton">tree automaton</a>.</li>
+<li><i>Infinite tree input</i>&#160;: The two extensions above can be combined, so the automaton reads a tree structure with (in)finite branches. Such an automaton is called an <a href="/wiki/Infinite_tree_automaton" title="Infinite tree automaton">infinite tree automaton</a></li>
+</ul>
+<dl>
+<dt>States</dt>
+</dl>
+<ul>
+<li><i>Finite states</i>: An automaton that contains only a finite number of states. The above introductory definition describes automata with finite numbers of states.</li>
+<li><i>Infinite states</i>: An automaton that may not have a finite number of states, or even a <a href="/wiki/Countable" class="mw-redirect" title="Countable">countable</a> number of states. For example, the <a href="/wiki/Quantum_finite_automaton" class="mw-redirect" title="Quantum finite automaton">quantum finite automaton</a> or <a href="/wiki/Topological_automaton" class="mw-redirect" title="Topological automaton">topological automaton</a> has <a href="/wiki/Uncountable_infinity" class="mw-redirect" title="Uncountable infinity">uncountable infinity</a> of states.</li>
+<li><i>Stack memory</i>: An automaton may also contain some extra memory in the form of a <a href="/wiki/Stack_(abstract_data_type)" title="Stack (abstract data type)">stack</a> in which symbols can be pushed and popped. This kind of automaton is called a <i><a href="/wiki/Pushdown_automaton" title="Pushdown automaton">pushdown automaton</a></i></li>
+</ul>
+<dl>
+<dt>Transition function</dt>
+</dl>
+<ul>
+<li><i>Deterministic</i>: For a given current state and an input symbol, if an automaton can only jump to one and only one state then it is a <i><a href="/wiki/Deterministic_automaton" title="Deterministic automaton">deterministic automaton</a></i>.</li>
+<li><i>Nondeterministic</i>: An automaton that, after reading an input symbol, may jump into any of a number of states, as licensed by its transition relation. Notice that the term transition function is replaced by transition relation: The automaton <i>non-deterministically</i> decides to jump into one of the allowed choices. Such automata are called <i>nondeterministic automata</i>.</li>
+<li><i>Alternation</i>: This idea is quite similar to tree automaton, but orthogonal. The automaton may run its <i>multiple copies</i> on the <i>same</i> next read symbol. Such automata are called <i><a href="/wiki/Alternating_automaton" class="mw-redirect" title="Alternating automaton">alternating automata</a></i>. Acceptance condition must satisfy all runs of such <i>copies</i> to accept the input.</li>
+</ul>
+<dl>
+<dt>Acceptance condition</dt>
+</dl>
+<ul>
+<li><i>Acceptance of finite words</i>: Same as described in the informal definition above.</li>
+<li><i>Acceptance of infinite words</i>: an <i>omega automaton</i> cannot have final states, as infinite words never terminate. Rather, acceptance of the word is decided by looking at the infinite sequence of visited states during the run.</li>
+<li><i>Probabilistic acceptance</i>: An automaton need not strictly accept or reject an input. It may accept the input with some <a href="/wiki/Probability" title="Probability">probability</a> between zero and one. For example, quantum finite automaton, <a href="/wiki/Geometric_automaton" class="mw-redirect" title="Geometric automaton">geometric automaton</a> and <a href="/wiki/Metric_automaton" class="mw-redirect" title="Metric automaton">metric automaton</a> have probabilistic acceptance.</li>
+</ul>
+<p>Different combinations of the above variations produce many classes of automaton.</p>
+<p>Automata theory is a subject matter that studies properties of various types of automata. For example, the following questions are studied about a given type of automata.</p>
+<ul>
+<li>Which class of formal languages is recognizable by some type of automata? (Recognizable languages)</li>
+<li>Are certain automata <i>closed</i> under union, intersection, or complementation of formal languages? (Closure properties)</li>
+<li>How expressive is a type of automata in terms of recognizing a class of formal languages? And, their relative expressive power? (Language hierarchy)</li>
+</ul>
+<p>Automata theory also studies the existence or nonexistence of any <a href="/wiki/Effective_method" title="Effective method">effective algorithms</a> to solve problems similar to the following list:</p>
+<ul>
+<li>Does an automaton accept any input word? (Emptiness checking)</li>
+<li>Is it possible to transform a given non-deterministic automaton into deterministic automaton without changing the recognizable language? (Determinization)</li>
+<li>For a given formal language, what is the smallest automaton that recognizes it? (<a href="/wiki/DFA_minimization" title="DFA minimization">Minimization</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Classes_of_automata">Classes of automata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=7" title="Edit section: Classes of automata">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following is an incomplete list of types of automata.</p>
+<table class="wikitable">
+<tr>
+<th>Automaton</th>
+<th>Recognizable language</th>
+</tr>
+<tr>
+<td><a href="/wiki/Finite_state_machine" class="mw-redirect" title="Finite state machine">Nondeterministic/Deterministic Finite state machine</a> (FSM)</td>
+<td><a href="/wiki/Regular_language" title="Regular language">regular languages</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Deterministic_pushdown_automaton" title="Deterministic pushdown automaton">Deterministic pushdown automaton</a> (DPDA)</td>
+<td><a href="/wiki/Deterministic_context-free_language" title="Deterministic context-free language">deterministic context-free languages</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Pushdown_automaton" title="Pushdown automaton">Pushdown automaton</a> (PDA)</td>
+<td><a href="/wiki/Context-free_language" title="Context-free language">context-free languages</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Linear_bounded_automaton" title="Linear bounded automaton">Linear bounded automaton</a> (LBA)</td>
+<td><a href="/wiki/Context-sensitive_language" title="Context-sensitive language">context-sensitive languages</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a></td>
+<td><a href="/wiki/Recursively_enumerable_language" title="Recursively enumerable language">recursively enumerable languages</a></td>
+</tr>
+<tr>
+<td>Deterministic <a href="/wiki/B%C3%BCchi_automaton" title="Büchi automaton">Büchi automaton</a></td>
+<td><a href="/wiki/Omega_language#Operations" title="Omega language">ω-limit languages</a></td>
+</tr>
+<tr>
+<td>Nondeterministic Büchi automaton</td>
+<td><a href="/wiki/Omega-regular_language" title="Omega-regular language">ω-regular languages</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rabin_automaton" class="mw-redirect" title="Rabin automaton">Rabin automaton</a>, <a href="/wiki/Streett_automaton" class="mw-redirect" title="Streett automaton">Streett automaton</a>, <a href="/wiki/Parity_automaton" class="mw-redirect" title="Parity automaton">Parity automaton</a>, <a href="/wiki/Muller_automaton" title="Muller automaton">Muller automaton</a></td>
+<td>ω-regular languages</td>
+</tr>
+</table>
+<h3><span id="Discrete.2C_continuous.2C_and_hybrid_automata"></span><span class="mw-headline" id="Discrete,_continuous,_and_hybrid_automata">Discrete, continuous, and hybrid automata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=8" title="Edit section: Discrete, continuous, and hybrid automata">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Normally automata theory describes the states of abstract machines but there are <a href="/wiki/Analog_automata" class="mw-redirect" title="Analog automata">analog automata</a> or <a href="/w/index.php?title=Continuous_automata&amp;action=edit&amp;redlink=1" class="new" title="Continuous automata (page does not exist)">continuous automata</a> or <a href="/wiki/Hybrid_automaton" title="Hybrid automaton">hybrid discrete-continuous automata</a>, which use analog data, continuous time, or both.</p>
+<h2><span class="mw-headline" id="Hierarchy_in_terms_of_powers">Hierarchy in terms of powers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=9" title="Edit section: Hierarchy in terms of powers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following is an incomplete hierarchy in terms of powers of different types of virtual machines. The hierarchy reflects the nested categories of languages the machines are able to accept.<sup id="cite_ref-Aaniya_B_1-0" class="reference"><a href="#cite_note-Aaniya_B-1">[1]</a></sup></p>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Automaton</th>
+</tr>
+<tr>
+<td><a href="/wiki/Deterministic_Finite_Automaton" class="mw-redirect" title="Deterministic Finite Automaton">Deterministic Finite Automaton</a> (DFA) -- Lowest Power<br />
+<p>(same power) &#160;&#160; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span> &#160;&#160;(same power)<br />
+<a href="/wiki/Nondeterministic_Finite_Automaton" class="mw-redirect" title="Nondeterministic Finite Automaton">Nondeterministic Finite Automaton</a> (NFA)<br />
+(above is weaker) &#160;&#160; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d4e886e6f5a28a33e073fb108440c152ecfe2d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="\cap " /></span> &#160;&#160; (below is stronger)<br />
+<a href="/wiki/Deterministic_pushdown_automaton" title="Deterministic pushdown automaton">Deterministic Push Down Automaton</a> (DPDA-I)<br />
+with 1 push-down store<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d4e886e6f5a28a33e073fb108440c152ecfe2d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="\cap " /></span><br />
+<a href="/w/index.php?title=Nondeterministic_Push_Down_Automaton&amp;action=edit&amp;redlink=1" class="new" title="Nondeterministic Push Down Automaton (page does not exist)">Nondeterministic Push Down Automaton</a> (NPDA-I)<br />
+with 1 push-down store<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d4e886e6f5a28a33e073fb108440c152ecfe2d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="\cap " /></span><br />
+<a href="/wiki/Linear_bounded_automaton" title="Linear bounded automaton">Linear Bounded Automaton</a> (LBA)<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d4e886e6f5a28a33e073fb108440c152ecfe2d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="\cap " /></span><br />
+<a href="/wiki/Deterministic_pushdown_automaton" title="Deterministic pushdown automaton">Deterministic Push Down Automaton</a> (DPDA-II)<br />
+with 2 push-down stores<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span><br />
+<a href="/w/index.php?title=Nondeterministic_Push_Down_Automaton&amp;action=edit&amp;redlink=1" class="new" title="Nondeterministic Push Down Automaton (page does not exist)">Nondeterministic Push Down Automaton</a> (NPDA-II)<br />
+with 2 push-down stores<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span><br />
+<a href="/wiki/Deterministic_Turing_machine" class="mw-redirect" title="Deterministic Turing machine">Deterministic Turing Machine</a> (DTM)<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span><br />
+<a href="/wiki/Nondeterministic_Turing_machine" class="mw-redirect" title="Nondeterministic Turing machine">Nondeterministic Turing Machine</a> (NTM)<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span><br />
+<a href="/wiki/Probabilistic_Turing_machine" title="Probabilistic Turing machine">Probabilistic Turing Machine</a> (PTM)<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span><br />
+<a href="/wiki/Multitape_Turing_machine" title="Multitape Turing machine">Multitape Turing Machine</a> (MTM)<br />
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ||}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ||}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f5807306073054891bcdde4e801db2773e82d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;" alt="||" /></span><br />
+<a href="/wiki/Turing_machine_equivalents#Other_equivalent_machines_and_methods" title="Turing machine equivalents">Multidimensional Turing Machine</a></p>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=10" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each model in automata theory plays important roles in several applied areas. <a href="/wiki/Finite_automata" class="mw-redirect" title="Finite automata">Finite automata</a> are used in text processing, compilers, and hardware design. <a href="/wiki/Context-free_grammar" title="Context-free grammar">Context-free grammar</a> (CFGs) are used in programming languages and artificial intelligence. Originally, CFGs were used in the study of the human languages. <a href="/wiki/Cellular_automata" class="mw-redirect" title="Cellular automata">Cellular automata</a> are used in the field of biology, the most common example being <a href="/wiki/John_Horton_Conway" title="John Horton Conway">John Conway</a>'s <a href="/wiki/Conway%27s_Game_of_Life" title="Conway's Game of Life">Game of Life</a>. Some other examples which could be explained using automata theory in biology include mollusk and pine cones growth and pigmentation patterns. Going further, a theory suggesting that the whole universe is computed by some sort of a discrete automaton, is advocated by some scientists. The idea originated in the work of <a href="/wiki/Konrad_Zuse" title="Konrad Zuse">Konrad Zuse</a>, and was popularized in America by <a href="/wiki/Edward_Fredkin" title="Edward Fredkin">Edward Fredkin</a>.</p>
+<h2><span class="mw-headline" id="Automata_simulators">Automata simulators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=11" title="Edit section: Automata simulators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Automata simulators are pedagogical tools used to teach, learn and research automata theory. An automata simulator takes as input the description of an automaton and then simulates its working for an arbitrary input string. The description of the automaton can be entered in several ways. An automaton can be defined in a symbolic language or its specification may be entered in a predesigned form or its transition diagram may be drawn by clicking and dragging the mouse. Well known automata simulators include Turing’s World, JFLAP, VAS, TAGS and SimStudio.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Connection_to_category_theory">Connection to category theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=12" title="Edit section: Connection to category theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One can define several distinct <a href="/wiki/Category_(mathematics)" title="Category (mathematics)">categories</a> of automata<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> following the automata classification into different types described in the previous section. The mathematical category of deterministic automata, <a href="/w/index.php?title=Sequential_machine&amp;action=edit&amp;redlink=1" class="new" title="Sequential machine (page does not exist)">sequential machines</a> or <i>sequential automata</i>, and Turing machines with automata homomorphisms defining the arrows between automata is a <a href="/wiki/Cartesian_closed_category" title="Cartesian closed category">Cartesian closed category</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> it has both categorical limits and colimits. An automata homomorphism maps a quintuple of an automaton <i>A</i><sub>i</sub> onto the quintuple of another automaton <i>A</i><sub>j</sub>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Automata homomorphisms can also be considered as <i>automata transformations</i> or as semigroup homomorphisms, when the state space, <i><b>S</b></i>, of the automaton is defined as a semigroup <b>S</b><sub>g</sub>. <a href="/wiki/Monoid" title="Monoid">Monoids</a> are also considered as a suitable setting for automata in <a href="/wiki/Monoidal_category" title="Monoidal category">monoidal categories</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<dl>
+<dt>Categories of variable automata</dt>
+</dl>
+<p>One could also define a <i>variable automaton</i>, in the sense of <a href="/wiki/Norbert_Wiener" title="Norbert Wiener">Norbert Wiener</a> in his book on <i><a href="/wiki/The_Human_Use_of_Human_Beings" title="The Human Use of Human Beings">The Human Use of Human Beings</a></i> <i>via</i> the endomorphisms <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A_{i}\to A_{i}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>A</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <msub>
+          <mi>A</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A_{i}\to A_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b69facaaab35d20e9cc18549837650b5fe90d9a6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.7ex; height:2.509ex;" alt="A_{i}\to A_{i}" /></span>. Then, one can show that such variable automata homomorphisms form a mathematical group. In the case of non-deterministic, or other complex kinds of automata, the latter set of endomorphisms may become, however, a <i>variable automaton <a href="/wiki/Groupoid" title="Groupoid">groupoid</a></i>. Therefore, in the most general case, categories of variable automata of any kind are <a href="/w/index.php?title=Categories_of_groupoids&amp;action=edit&amp;redlink=1" class="new" title="Categories of groupoids (page does not exist)">categories of groupoids</a> or <a href="/w/index.php?title=Groupoid_category&amp;action=edit&amp;redlink=1" class="new" title="Groupoid category (page does not exist)">groupoid categories</a>. Moreover, the category of reversible automata is then a <a href="/wiki/2-category" class="mw-redirect" title="2-category">2-category</a>, and also a subcategory of the 2-category of groupoids, or the groupoid category.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Boolean_differential_calculus" title="Boolean differential calculus">Boolean differential calculus</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Aaniya_B-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Aaniya_B_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Yan, Song Y. (1998). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ySOwQgAACAAJ"><i>An Introduction to Formal Languages and Machine Computation</i></a>. Singapore: World Scientific Publishing Co. Pte. Ltd. pp.&#160;155–156.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Formal+Languages+and+Machine+Computation&amp;rft.place=Singapore&amp;rft.pages=155-156&amp;rft.pub=World+Scientific+Publishing+Co.+Pte.+Ltd.&amp;rft.date=1998&amp;rft.aulast=Yan&amp;rft.aufirst=Song+Y.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DySOwQgAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Chakraborty, P., Saxena, P. C., Katti, C. P. 2011. Fifty Years of Automata Simulation: A Review. <i>ACM Inroads</i>, <b>2</b>(4):59–70. <a rel="nofollow" class="external free" href="http://dl.acm.org/citation.cfm?id=2038893&amp;dl=ACM&amp;coll=DL&amp;CFID=65021406&amp;CFTOKEN=86634854">http://dl.acm.org/citation.cfm?id=2038893&amp;dl=ACM&amp;coll=DL&amp;CFID=65021406&amp;CFTOKEN=86634854</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Jirí Adámek and Vera Trnková. 1990. <i>Automata and Algebras in Categories</i>. Kluwer Academic Publishers:Dordrecht and Prague</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">S. Mac Lane, Categories for the Working Mathematician, Springer, New York (1971)</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://planetmath.org/encyclopedia/CartesianClosedCategory.html">Cartesian closed category</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111116215852/http://planetmath.org/encyclopedia/CartesianClosedCategory.html">Archived</a> November 16, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://planetmath.org/encyclopedia/SequentialMachine3.html">The Category of Automata</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110915074653/http://planetmath.org/encyclopedia/SequentialMachine3.html">Archived</a> September 15, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.math.cornell.edu/~worthing/asl2010.pdf">http://www.math.cornell.edu/~worthing/asl2010.pdf</a> James Worthington.2010.Determinizing, Forgetting, and Automata in Monoidal Categories. ASL North American Annual Meeting, March 17, 2010</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Aguiar, M. and Mahajan, S.2010. <i>"Monoidal Functors, Species, and Hopf Algebras"</i>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Meseguer, J., Montanari, U.: 1990 Petri nets are monoids. <i>Information and Computation</i> <b>88</b>:105–155</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=15" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book"><a href="/wiki/John_E._Hopcroft" class="mw-redirect" title="John E. Hopcroft">John E. Hopcroft</a>, <a href="/wiki/Rajeev_Motwani" title="Rajeev Motwani">Rajeev Motwani</a>, <a href="/wiki/Jeffrey_D._Ullman" class="mw-redirect" title="Jeffrey D. Ullman">Jeffrey D. Ullman</a> (2000). <i><a href="/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation" title="Introduction to Automata Theory, Languages, and Computation">Introduction to Automata Theory, Languages, and Computation</a> (2nd Edition)</i>. Pearson Education. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-44124-1" title="Special:BookSources/0-201-44124-1">0-201-44124-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Automata+Theory%2C+Languages%2C+and+Computation+%282nd+Edition%29&amp;rft.pub=Pearson+Education&amp;rft.date=2000&amp;rft.isbn=0-201-44124-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book"><a href="/wiki/Michael_Sipser" title="Michael Sipser">Michael Sipser</a> (1997). <i><a href="/wiki/Introduction_to_the_Theory_of_Computation" title="Introduction to the Theory of Computation">Introduction to the Theory of Computation</a></i>. PWS Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-534-94728-X" title="Special:BookSources/0-534-94728-X">0-534-94728-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+the+Theory+of+Computation&amp;rft.pub=PWS+Publishing&amp;rft.date=1997&amp;rft.isbn=0-534-94728-X&amp;rft.au=Michael+Sipser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span> Part One: Automata and Languages, chapters 1–2, pp.&#160;29–122. Section 4.1: Decidable Languages, pp.&#160;152–159. Section 5.1: Undecidable Problems from Language Theory, pp.&#160;172–183.</li>
+<li><cite class="citation book"><a href="/w/index.php?title=Elaine_Rich&amp;action=edit&amp;redlink=1" class="new" title="Elaine Rich (page does not exist)">Elaine Rich</a> (2008). <i><a href="/w/index.php?title=Automata,_Computability_and_Complexity:_Theory_and_Applications&amp;action=edit&amp;redlink=1" class="new" title="Automata, Computability and Complexity: Theory and Applications (page does not exist)">Automata, Computability and Complexity: Theory and Applications</a></i>. Pearson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-228806-0" title="Special:BookSources/0-13-228806-0">0-13-228806-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Automata%2C+Computability+and+Complexity%3A+Theory+and+Applications&amp;rft.pub=Pearson&amp;rft.date=2008&amp;rft.isbn=0-13-228806-0&amp;rft.au=Elaine+Rich&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Arto_Salomaa" title="Arto Salomaa">Salomaa, Arto</a> (1985). <i>Computation and automata</i>. Encyclopedia of Mathematics and Its Applications. <b>25</b>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-30245-5" title="Special:BookSources/0-521-30245-5">0-521-30245-5</a>. <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">Zbl</a>&#160;<a rel="nofollow" class="external text" href="//zbmath.org/?format=complete&amp;q=an:0565.68046">0565.68046</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computation+and+automata&amp;rft.series=Encyclopedia+of+Mathematics+and+Its+Applications&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1985&amp;rft_id=%2F%2Fzbmath.org%2F%3Fformat%3Dcomplete%26q%3Dan%3A0565.68046&amp;rft.isbn=0-521-30245-5&amp;rft.aulast=Salomaa&amp;rft.aufirst=Arto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Anderson, James A. (2006). <i>Automata theory with modern applications</i>. With contributions by Tom Head. Cambridge: <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-61324-8" title="Special:BookSources/0-521-61324-8">0-521-61324-8</a>. <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">Zbl</a>&#160;<a rel="nofollow" class="external text" href="//zbmath.org/?format=complete&amp;q=an:1127.68049">1127.68049</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Automata+theory+with+modern+applications&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2006&amp;rft_id=%2F%2Fzbmath.org%2F%3Fformat%3Dcomplete%26q%3Dan%3A1127.68049&amp;rft.isbn=0-521-61324-8&amp;rft.aulast=Anderson&amp;rft.aufirst=James+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/John_Horton_Conway" title="John Horton Conway">Conway, J.H.</a> (1971). <i>Regular algebra and finite machines</i>. Chapman and Hall Mathematics Series. London: <a href="/wiki/Chapman_%26_Hall" title="Chapman &amp; Hall">Chapman &amp; Hall</a>. <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">Zbl</a>&#160;<a rel="nofollow" class="external text" href="//zbmath.org/?format=complete&amp;q=an:0231.94041">0231.94041</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Regular+algebra+and+finite+machines&amp;rft.place=London&amp;rft.series=Chapman+and+Hall+Mathematics+Series&amp;rft.pub=Chapman+%26+Hall&amp;rft.date=1971&amp;rft_id=%2F%2Fzbmath.org%2F%3Fformat%3Dcomplete%26q%3Dan%3A0231.94041&amp;rft.aulast=Conway&amp;rft.aufirst=J.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Sakarovitch, Jacques (2009). <i>Elements of automata theory</i>. Translated from the French by Reuben Thomas. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-84425-3" title="Special:BookSources/978-0-521-84425-3">978-0-521-84425-3</a>. <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">Zbl</a>&#160;<a rel="nofollow" class="external text" href="//zbmath.org/?format=complete&amp;q=an:1188.68177">1188.68177</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elements+of+automata+theory&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2009&amp;rft_id=%2F%2Fzbmath.org%2F%3Fformat%3Dcomplete%26q%3Dan%3A1188.68177&amp;rft.isbn=978-0-521-84425-3&amp;rft.aulast=Sakarovitch&amp;rft.aufirst=Jacques&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/w/index.php?title=James_P._Schmeiser&amp;action=edit&amp;redlink=1" class="new" title="James P. Schmeiser (page does not exist)">James P. Schmeiser</a>, <a href="/w/index.php?title=David_T._Barnard&amp;action=edit&amp;redlink=1" class="new" title="David T. Barnard (page does not exist)">David T. Barnard</a> (1995). <i>Producing a top-down parse order with bottom-up parsing</i>. Elsevier North-Holland.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Producing+a+top-down+parse+order+with+bottom-up+parsing&amp;rft.pub=Elsevier+North-Holland&amp;rft.date=1995&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book"><a href="/wiki/Igor_Aleksander" title="Igor Aleksander">Igor Aleksander</a>, F.Keith Hanna (1975). <i>Automata Theory&#160;: An Engineering Approach</i>. New York: Crane Russak. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8448-0657-9" title="Special:BookSources/0-8448-0657-9">0-8448-0657-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Automata+Theory+%3A+An+Engineering+Approach&amp;rft.place=New+York&amp;rft.pub=Crane+Russak&amp;rft.date=1975&amp;rft.isbn=0-8448-0657-9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book"><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> (1967). <i>Computation&#160;: Finite and infinite machines</i>. Princeton, N.J.: Prentice Hall.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computation+%3A+Finite+and+infinite+machines&amp;rft.place=Princeton%2C+N.J.&amp;rft.pub=Prentice+Hall&amp;rft.date=1967&amp;rft.au=Marvin+Minsky&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/John_C._Martin" title="John C. Martin">John C. Martin</a> (2011). <i>Introduction to Languages and The Theory of Computation</i>. New York, NY 10020: McGraw Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-319146-9" title="Special:BookSources/0-07-319146-9">0-07-319146-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Languages+and+The+Theory+of+Computation&amp;rft.place=New+York%2C+NY+10020&amp;rft.pub=McGraw+Hill&amp;rft.date=2011&amp;rft.isbn=0-07-319146-9&amp;rft.au=John+C.+Martin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomata+theory" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automata_theory&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090503173000/http://www.cs.usfca.edu/~jbovet/vas.html">Visual Automata Simulator</a>, A tool for simulating, visualizing and transforming finite state automata and Turing Machines, by Jean Bovet</li>
+<li><a rel="nofollow" class="external text" href="http://www.jflap.org">JFLAP</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.brics.dk/automaton">dk.brics.automaton</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.augeas.net/libfa/index.html">libfa</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Automata_theory:_formal_languages_and_formal_grammars" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Formal_languages_and_grammars" title="Template:Formal languages and grammars"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Formal_languages_and_grammars" title="Template talk:Formal languages and grammars"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Formal_languages_and_grammars&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Automata_theory:_formal_languages_and_formal_grammars" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Automata theory</a>: <a href="/wiki/Formal_language" title="Formal language">formal languages</a> and <a href="/wiki/Formal_grammar" title="Formal grammar">formal grammars</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd plainlist" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;"><a href="/wiki/Chomsky_hierarchy" title="Chomsky hierarchy">Chomsky hierarchy</a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Formal_grammar" title="Formal grammar">Grammars</a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Formal_language" title="Formal language">Languages</a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Abstract_machine" title="Abstract machine">Abstract machines</a></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;;;text-align: center;;width:10em;">
+<div>
+<ul>
+<li>Type-0</li>
+<li>—</li>
+<li>Type-1</li>
+<li>—</li>
+<li>—</li>
+<li>—</li>
+<li>—</li>
+<li>—</li>
+<li>Type-2</li>
+<li>—</li>
+<li>—</li>
+<li>Type-3</li>
+<li>—</li>
+<li>—</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;">
+<div>
+<ul>
+<li><a href="/wiki/Unrestricted_grammar" title="Unrestricted grammar">Unrestricted</a></li>
+<li>(no common name)</li>
+<li><a href="/wiki/Context-sensitive_grammar" title="Context-sensitive grammar">Context-sensitive</a></li>
+<li><span style="white-space:nowrap;">Positive <a href="/wiki/Range_concatenation_grammars" title="Range concatenation grammars">range concatenation</a></span></li>
+<li><a href="/wiki/Indexed_grammar" title="Indexed grammar">Indexed</a></li>
+<li>—</li>
+<li><a href="/wiki/Linear_context-free_rewriting_system" class="mw-redirect" title="Linear context-free rewriting system">Linear context-free rewriting systems</a></li>
+<li><a href="/wiki/Tree-adjoining_grammar" title="Tree-adjoining grammar">Tree-adjoining</a></li>
+<li><a href="/wiki/Context-free_grammar" title="Context-free grammar">Context-free</a></li>
+<li><a href="/wiki/Deterministic_context-free_grammar" title="Deterministic context-free grammar">Deterministic context-free</a></li>
+<li><a href="/wiki/Nested_word" title="Nested word">Visibly pushdown</a></li>
+<li><a href="/wiki/Regular_grammar" title="Regular grammar">Regular</a></li>
+<li>—</li>
+<li><a href="/wiki/Non-recursive_grammar" class="mw-redirect" title="Non-recursive grammar">Non-recursive</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;">
+<div>
+<ul>
+<li><a href="/wiki/Recursively_enumerable_language" title="Recursively enumerable language">Recursively enumerable</a></li>
+<li><a href="/wiki/Recursive_language" title="Recursive language">Decidable</a></li>
+<li><a href="/wiki/Context-sensitive_language" title="Context-sensitive language">Context-sensitive</a></li>
+<li><span style="white-space:nowrap;">Positive <a href="/wiki/Range_concatenation_language" class="mw-redirect" title="Range concatenation language">range concatenation</a><sup>*</sup></span></li>
+<li><a href="/wiki/Indexed_language" title="Indexed language">Indexed</a><sup>*</sup></li>
+<li>—</li>
+<li><a href="/wiki/Linear_context-free_rewriting_language" class="mw-redirect" title="Linear context-free rewriting language">Linear context-free rewriting language</a></li>
+<li><a href="/wiki/Tree-adjoining_grammar" title="Tree-adjoining grammar">Tree-adjoining</a></li>
+<li><a href="/wiki/Context-free_language" title="Context-free language">Context-free</a></li>
+<li><a href="/wiki/Deterministic_context-free_language" title="Deterministic context-free language">Deterministic context-free</a></li>
+<li><a href="/wiki/Nested_word" title="Nested word">Visibly pushdown</a></li>
+<li><a href="/wiki/Regular_language" title="Regular language">Regular</a></li>
+<li><a href="/wiki/Star-free_language" title="Star-free language">Star-free</a></li>
+<li><a href="/wiki/Finite_language" class="mw-redirect" title="Finite language">Finite</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;">
+<div>
+<ul>
+<li><a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a></li>
+<li><a href="/wiki/Machine_that_always_halts" title="Machine that always halts">Decider</a></li>
+<li><a href="/wiki/Linear_bounded_automaton" title="Linear bounded automaton">Linear-bounded</a></li>
+<li><a href="/wiki/PTIME" class="mw-redirect" title="PTIME">PTIME</a> Turing Machine</li>
+<li><a href="/wiki/Nested_stack_automaton" title="Nested stack automaton">Nested stack</a></li>
+<li><a href="/wiki/Thread_automaton" title="Thread automaton">Thread automaton</a></li>
+<li>restricted <a href="/wiki/Tree_stack_automaton" title="Tree stack automaton">Tree stack automaton</a></li>
+<li><a href="/wiki/Embedded_pushdown_automaton" title="Embedded pushdown automaton">Embedded pushdown</a></li>
+<li><a href="/wiki/Pushdown_automaton" title="Pushdown automaton">Nondeterministic pushdown</a></li>
+<li><a href="/wiki/Deterministic_pushdown_automaton" title="Deterministic pushdown automaton">Deterministic pushdown</a></li>
+<li><a href="/wiki/Nested_word" title="Nested word">Visibly pushdown</a></li>
+<li><a href="/wiki/Finite-state_machine" title="Finite-state machine">Finite</a></li>
+<li><a href="/wiki/Aperiodic_finite_state_automaton" title="Aperiodic finite state automaton">Counter-free (with aperiodic finite monoid)</a></li>
+<li><a href="/wiki/Deterministic_acyclic_finite_state_automaton" title="Deterministic acyclic finite state automaton">Acyclic finite</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><span style="white-space:nowrap;">Each category of languages, except those marked by a <sup>*</sup>, is a <a href="/wiki/Proper_subset" class="mw-redirect" title="Proper subset">proper subset</a> of the category directly above it.</span> <span style="white-space:nowrap;">Any language in each category is generated by a grammar and by an automaton in the category in the same line.</span></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%;margin:0 4em">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a class="mw-selflink selflink">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85079341">sh85079341</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4003953-5">4003953-5</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119395737">cb119395737</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119395737">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568995">00568995</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20180211010257
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.430 seconds
+Preprocessor visited node count: 1456/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78961/2097152 bytes
+Template argument size: 5657/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 4.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.591      1 -total
+ 27.86%   71.492     12 Template:Cite_book
+ 23.81%   61.084      1 Template:Citation_needed
+ 21.47%   55.095      1 Template:Reflist
+ 16.95%   43.482      1 Template:Fix
+ 13.39%   34.347      1 Template:Authority_control
+ 12.10%   31.038      2 Template:Navbox
+ 11.71%   30.034      2 Template:Category_handler
+  9.46%   24.285      1 Template:Computer_science
+  8.24%   21.132      1 Template:Formal_languages_and_grammars
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:103356-0!canonical!math=5 and timestamp 20180211010257 and revision id 818872592
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Automata_theory&amp;oldid=818872592">https://en.wikipedia.org/w/index.php?title=Automata_theory&amp;oldid=818872592</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Automata_(computation)" title="Category:Automata (computation)">Automata (computation)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Automata+theory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Automata+theory" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Automata_theory" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Automata_theory" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Automata_theory">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Automata_theory&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Automata_theory&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Automata_theory" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Automata_theory" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Automata_theory&amp;oldid=818872592" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Automata_theory&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q214526" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Automata_theory&amp;id=818872592" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Automata+theory">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Automata+theory&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Automata_theory&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Automata_theory" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A" title="نظرية التشغيل الذاتي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Teorija_automata" title="Teorija automata – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Teoria_d%27aut%C3%B2mats" title="Teoria d&#039;autòmats – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Teorie_automat%C5%AF" title="Teorie automatů – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Automatentheorie" title="Automatentheorie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CE%B1%CF%85%CF%84%CE%BF%CE%BC%CE%AC%CF%84%CF%89%CE%BD" title="Θεωρία αυτομάτων – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Teor%C3%ADa_de_aut%C3%B3matas" title="Teoría de autómatas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%DB%8C%D9%87_%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%D8%A7" title="نظریه اتوماتا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates" title="Théorie des automates – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%A4%ED%86%A0%EB%A7%88%ED%83%80_%EC%9D%B4%EB%A1%A0" title="오토마타 이론 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%91%E0%A4%9F%E0%A5%8B%E0%A4%AE%E0%A5%87%E0%A4%9F%E0%A4%BE_%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%82%E0%A4%A4" title="ऑटोमेटा सिद्धांत – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Teorija_automata" title="Teorija automata – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Teori_otomata" title="Teori otomata – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%9D" title="תורת האוטומטים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%82%D0%B0%D1%80_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%D1%81%D1%8B" title="Автоматтар теориясы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%82%D0%B5" title="Теорија на автоматите – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Teorie_de_ls_out%C3%B3matos" title="Teorie de ls outómatos – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3" title="オートマトン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Automatteori" title="Automatteori – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Automatteori" title="Automatteori – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Teoria_automat%C3%B3w" title="Teoria automatów – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Teoria_dos_aut%C3%B4matos" title="Teoria dos autômatos – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Teoria_automatelor" title="Teoria automatelor – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%B2" title="Теория автоматов – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Automata_theory" title="Automata theory – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Te%C3%B3ria_automatov" title="Teória automatov – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Teorija_automata" title="Teorija automata – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Teorija_automata" title="Teorija automata – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Automaattiteoria" title="Automaattiteoria – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Automatteori" title="Automatteori – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Teorya_ng_automata" title="Teorya ng automata – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B9%82%E0%B8%95%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B2" title="ทฤษฎีออโตมาตา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Otomat_teorisi" title="Otomat teorisi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%96%D0%B2" title="Теорія автоматів – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8B%95%E6%A9%9F%E7%90%86%E8%AB%96" title="自動機理論 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q214526#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 January 2018, at 02:48.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Automata_theory&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.430","ppvisitednodes":{"value":1456,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":78961,"limit":2097152},"templateargumentsize":{"value":5657,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  256.591      1 -total"," 27.86%   71.492     12 Template:Cite_book"," 23.81%   61.084      1 Template:Citation_needed"," 21.47%   55.095      1 Template:Reflist"," 16.95%   43.482      1 Template:Fix"," 13.39%   34.347      1 Template:Authority_control"," 12.10%   31.038      2 Template:Navbox"," 11.71%   30.034      2 Template:Category_handler","  9.46%   24.285      1 Template:Computer_science","  8.24%   21.132      1 Template:Formal_languages_and_grammars"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":4868164,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20180211010257","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

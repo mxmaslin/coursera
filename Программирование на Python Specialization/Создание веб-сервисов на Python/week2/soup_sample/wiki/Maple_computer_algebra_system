@@ -1,0 +1,1778 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Maple (software) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maple_(software)","wgTitle":"Maple (software)","wgCurRevisionId":824323589,"wgRevisionId":824323589,"wgArticleId":79099,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from August 2011","Pages using div col with deprecated parameters","C software","Computational notebook","Computer algebra system software for Linux","Computer algebra system software for MacOS","Computer algebra system software for Windows","Cross-platform software","Data visualization software","Data-centric programming languages","Econometrics software","Functional languages","IRIX software","Linear algebra","Maplesoft","Mathematical optimization software","Mathematical software","Numerical analysis software for Linux","Numerical analysis software for MacOS","Numerical analysis software for Windows","Numerical programming languages","Numerical software","Parallel computing","Physics software","Plotting software","Products introduced in 1982","Proprietary commercial software for Linux","Proprietary cross-platform software","Regression and curve fitting software","Software modeling language","Statistical programming languages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maple_(software)","wgRelevantArticleId":79099,"wgRequestId":"WoOnKApAICkAAASZ18gAAADQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Maple_computer_algebra_system","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Maple_(software)","wgWikibaseItemId":"Q139380","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Maple_2016_Core_Screenshots.jpg/1200px-Maple_2016_Core_Screenshots.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Maple_(software)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Maple_(software)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Maple_(software)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Maple_(software)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Maple_software rootpage-Maple_software skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Maple (software)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Maple_computer_algebra_system&amp;redirect=no" class="mw-redirect" title="Maple computer algebra system">Maple computer algebra system</a>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em">
+<caption class="summary">Maple</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Maple_2016_Core_Screenshots.jpg" class="image" title="Maple interface"><img alt="Maple interface" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7c/Maple_2016_Core_Screenshots.jpg/300px-Maple_2016_Core_Screenshots.jpg" width="300" height="269" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7c/Maple_2016_Core_Screenshots.jpg/450px-Maple_2016_Core_Screenshots.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7c/Maple_2016_Core_Screenshots.jpg/600px-Maple_2016_Core_Screenshots.jpg 2x" data-file-width="1955" data-file-height="1750" /></a>
+<div>Maple interface</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/Waterloo_Maple" title="Waterloo Maple">Waterloo Maple</a> (Maplesoft)</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>1982</td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">2017 / 25&#160;May&#160;2017<span style="display:none">&#160;(<span class="bday dtstart published updated">2017-05-25</span>)</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, Maple</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Computing_platform" title="Computing platform">Platform</a></th>
+<td><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> (7, 8 and 10), <a href="/wiki/MacOS" title="MacOS">macOS</a>, <a href="/wiki/Linux" title="Linux">Linux</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Available in</th>
+<td><a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>, and limited support in additional languages<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Computer_algebra_system" title="Computer algebra system">Computer algebra system</a>, <a href="/wiki/Numeric_computation" class="mw-redirect" title="Numeric computation">Numeric computation</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a> <a href="/wiki/Commercial_software" title="Commercial software">commercial software</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.maplesoft.com/products/maple/">www<wbr />.maplesoft<wbr />.com<wbr />/products<wbr />/maple<wbr />/</a></span></td>
+</tr>
+</table>
+<p><b>Maple</b> is a <a href="/wiki/Symbolic_computation" class="mw-redirect" title="Symbolic computation">symbolic</a> and <a href="/wiki/Numerical_analysis" title="Numerical analysis">numeric</a> computing environment, and is also a <a href="/wiki/Programming_paradigm#Multi-paradigm" title="Programming paradigm">multi-paradigm programming language</a>.</p>
+<p>Developed by <a href="/wiki/Maplesoft" class="mw-redirect" title="Maplesoft">Maplesoft</a>, Maple also covers other aspects of technical computing, including visualization, data analysis, matrix computation, and connectivity.</p>
+<p>A toolbox, <a href="/wiki/MapleSim" title="MapleSim">MapleSim</a>, adds functionality for multidomain physical modeling and code generation.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Core_functionality"><span class="tocnumber">1.1</span> <span class="toctext">Core functionality</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Architecture"><span class="tocnumber">1.2</span> <span class="toctext">Architecture</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Version_history"><span class="tocnumber">3</span> <span class="toctext">Version history</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Features"><span class="tocnumber">4</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Examples_of_Maple_code"><span class="tocnumber">5</span> <span class="toctext">Examples of Maple code</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Integration"><span class="tocnumber">5.1</span> <span class="toctext">Integration</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Determinant"><span class="tocnumber">5.2</span> <span class="toctext">Determinant</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Series_expansion"><span class="tocnumber">5.3</span> <span class="toctext">Series expansion</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Solve_equation_numerically"><span class="tocnumber">5.4</span> <span class="toctext">Solve equation numerically</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Solve_equation_set"><span class="tocnumber">5.5</span> <span class="toctext">Solve equation set</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Plotting_of_function_of_single_variable"><span class="tocnumber">5.6</span> <span class="toctext">Plotting of function of single variable</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Plotting_of_function_of_two_variables"><span class="tocnumber">5.7</span> <span class="toctext">Plotting of function of two variables</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Animation_of_functions"><span class="tocnumber">5.8</span> <span class="toctext">Animation of functions</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Laplace_transform"><span class="tocnumber">5.9</span> <span class="toctext">Laplace transform</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Fourier_transform"><span class="tocnumber">5.10</span> <span class="toctext">Fourier transform</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Integral_equations"><span class="tocnumber">5.11</span> <span class="toctext">Integral equations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Use_of_the_Maple_engine"><span class="tocnumber">6</span> <span class="toctext">Use of the Maple engine</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Core_functionality">Core functionality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=2" title="Edit section: Core functionality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Users can enter mathematics in traditional <a href="/wiki/Mathematical_notation" title="Mathematical notation">mathematical notation</a>. Custom user interfaces can also be created. There is support for numeric computations, to arbitrary precision, as well as symbolic computation and visualization. Examples of symbolic computations are given below.</p>
+<p>Maple incorporates a <a href="/wiki/Type_system#Dynamic_typing" title="Type system">dynamically typed</a> imperative-style <a href="/wiki/Programming_language" title="Programming language">programming language</a> which resembles <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The language permits variables of lexical <a href="/wiki/Scope_(programming)" class="mw-redirect" title="Scope (programming)">scope</a>. There are also interfaces to other languages (<a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a>, <a href="/wiki/Fortran" title="Fortran">Fortran</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/MATLAB" title="MATLAB">MATLAB</a>, and <a href="/wiki/Visual_Basic" title="Visual Basic">Visual Basic</a>). There is also an interface to <a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Excel</a>.</p>
+<p>Maple supports <a href="/wiki/MathML" title="MathML">MathML</a> 2.0, a W3C format for representing and interpreting mathematical expressions, including their display in Web pages.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=3" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Maple is based on a small <a href="/wiki/Kernel_(computing)" class="mw-redirect" title="Kernel (computing)">kernel</a>, written in <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, which provides the Maple language. Most functionality is provided by libraries, which come from a variety of sources. Most of the libraries are written in the Maple language; these have viewable source code. Many numerical computations are performed by the <a href="/wiki/NAG_Numerical_Libraries" class="mw-redirect" title="NAG Numerical Libraries">NAG Numerical Libraries</a>, <a href="/wiki/Automatically_Tuned_Linear_Algebra_Software" title="Automatically Tuned Linear Algebra Software">ATLAS</a> libraries, or <a href="/wiki/GNU_Multi-Precision_Library" class="mw-redirect" title="GNU Multi-Precision Library">GMP</a> libraries.</p>
+<p>Different functionality in Maple requires numerical data in different formats. Symbolic expressions are stored in memory as <a href="/wiki/Directed_acyclic_graph" title="Directed acyclic graph">directed acyclic graphs</a>. The standard interface and calculator interface are written in <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first concept of Maple arose from a meeting in November 1980 at the <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a>. Researchers at the university wished to purchase a computer powerful enough to run <a href="/wiki/Macsyma" title="Macsyma">Macsyma</a>. Instead, it was decided that they would develop their own computer algebra system that would be able to run on lower cost computers. The first limited version appearing in December 1980 with Maple demonstrated first at conferences beginning in 1982. The name is a reference to Maple's <a href="/wiki/Flag_of_Canada" title="Flag of Canada">Canadian heritage</a>. By the end of 1983, over 50 universities had copies of Maple installed on their machines.</p>
+<p>In 1984, the research group arranged with <a href="/wiki/Watcom" title="Watcom">Watcom Products Inc</a> to license and distribute the first commercially available version, Maple 3.3.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In 1988 <a href="/wiki/Waterloo_Maple" title="Waterloo Maple">Waterloo Maple</a> Inc. was founded. The company’s original goal was to manage the distribution of the software. Eventually, the company evolved to have an R&amp;D department where most of Maple's development is done today with the rest done at university research labs worldwide including: the Symbolic Computation Laboratory at the <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a> and the Ontario Research Centre for Computer Algebra at the <a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">University of Western Ontario</a><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (August 2011)">who?</span></a></i>]</sup>.</p>
+<p>In 1989, the first graphical user interface for Maple was developed and included with version 4.3 for the <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a>. X11 and Windows versions of the new interface followed in 1990 with Maple V. In 1992, Maple V Release 2 introduced the Maple "worksheet" that combined text, graphics, and input and typeset output.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> In 1994 a special issue of a newsletter created by Maple developers called <i>MapleTech</i> was published.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In 1999, with the release of Maple 6, Maple included some of the <a href="/wiki/NAG_Numerical_Libraries" class="mw-redirect" title="NAG Numerical Libraries">NAG Numerical Libraries</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In 2003, the current "standard" interface was introduced with Maple 9. This interface is primarily written in <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> (although portions, such as the rules for typesetting mathematical formulae, are written in the Maple language). The Java interface was criticized for being slow;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> improvements have been made in later versions, although the Maple&#160;11 documentation<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> recommends the previous (“classic”) interface for users with less than 500&#160;MB of physical memory.</p>
+<p>Between the mid 1995 and 2005 Maple lost significant market share to competitors due to a weaker user interface.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In 2005, Maple 10 introduced a new “document mode”, as part of the standard interface that it has been further developed over the following years.</p>
+<p>In September 2009 Maple and Maplesoft were acquired by the Japanese software retailer <a href="/w/index.php?title=Cybernet_Systems&amp;action=edit&amp;redlink=1" class="new" title="Cybernet Systems (page does not exist)">Cybernet Systems</a>.</p>
+<h2><span class="mw-headline" id="Version_history">Version history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=5" title="Edit section: Version history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul>
+<li>Maple 1.0: January, 1982</li>
+<li>Maple 1.1: January, 1982</li>
+<li>Maple 2.0: May, 1982</li>
+<li>Maple 2.1: June, 1982</li>
+<li>Maple 2.15: August, 1982</li>
+<li>Maple 2.2: December, 1982</li>
+<li>Maple 3.0: May, 1983</li>
+<li>Maple 3.1: October, 1983</li>
+<li>Maple 3.2: April, 1984</li>
+<li>Maple 3.3: March, 1985 (first public available version)</li>
+<li>Maple 4.0: April, 1986</li>
+<li>Maple 4.1: May, 1987</li>
+<li>Maple 4.2: December, 1987</li>
+<li>Maple 4.3: March, 1989</li>
+<li>Maple V: August, 1990</li>
+<li>Maple V R2: November 1992</li>
+<li>Maple V R3: March 15, 1994</li>
+<li>Maple V R4: January, 1996</li>
+<li>Maple V R5: November 1, 1997</li>
+<li>Maple 6: December 6, 1999</li>
+<li>Maple 7: July 1, 2001</li>
+<li>Maple 8: April 16, 2002</li>
+<li>Maple 9: June 30, 2003</li>
+<li>Maple 9.5: April 15, 2004</li>
+<li>Maple 10: May 10, 2005</li>
+<li>Maple 11: February 21, 2007</li>
+<li>Maple 11.01: July, 2007</li>
+<li>Maple 11.02: November, 2007</li>
+<li>Maple 12: May, 2008</li>
+<li>Maple 12.01: October, 2008</li>
+<li>Maple 12.02: December, 2008</li>
+<li>Maple 13: April, 2009</li>
+<li>Maple 13.01: July, 2009</li>
+<li>Maple 13.02: October, 2009</li>
+<li>Maple 14: April, 2010</li>
+<li>Maple 14.01: October 28, 2010</li>
+<li>Maple 15: April 13, 2011</li>
+<li>Maple 15.01: June 21, 2011</li>
+<li>Maple 16: March 28, 2012</li>
+<li>Maple 16.01: May 16, 2012</li>
+<li>Maple 17: March, 2013</li>
+<li>Maple 17.01: July, 2013</li>
+<li>Maple 18: Mar, 2014</li>
+<li>Maple 18.01: May, 2014</li>
+<li>Maple 18.01a: July, 2014</li>
+<li>Maple 18.02: Nov, 2014</li>
+<li>Maple 2015: Mar, 2015</li>
+<li>Maple 2015.1: Nov, 2015</li>
+<li>Maple 2016: March 2, 2016</li>
+<li>Maple 2016.1: April 20, 2016</li>
+<li>Maple 2016.1a: April 27, 2016</li>
+<li>Maple 2017: May 25, 2017</li>
+<li>Maple 2017.1: June 28, 2017</li>
+<li>Maple 2017.2: August 2, 2017</li>
+<li>Maple 2017.3: October 3, 2017</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=6" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Features of Maple include:<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<ul>
+<li>Support for symbolic and numeric computation with <a href="/wiki/Arbitrary-precision_arithmetic" title="Arbitrary-precision arithmetic">arbitrary precision</a></li>
+<li><a href="/wiki/Elementary_function" title="Elementary function">Elementary</a> and <a href="/wiki/Special_functions" title="Special functions">special mathematical function</a> libraries</li>
+<li><a href="/wiki/Complex_number" title="Complex number">Complex numbers</a> and interval arithmetic</li>
+<li>Arithmetic, <a href="/wiki/Greatest_common_divisor" title="Greatest common divisor">greatest common divisors</a> and <a href="/wiki/Factorization" title="Factorization">factorization</a> for <a href="/wiki/Multivariate_polynomial" class="mw-redirect" title="Multivariate polynomial">multivariate polynomials</a> over the rationals, <a href="/wiki/Finite_field" title="Finite field">finite fields</a>, <a href="/wiki/Algebraic_number_field" title="Algebraic number field">algebraic number fields</a>, and <a href="/wiki/Algebraic_function_field" title="Algebraic function field">algebraic function fields</a></li>
+<li>Limits, series and <a href="/wiki/Asymptotic_expansion" title="Asymptotic expansion">asymptotic expansions</a></li>
+<li><a href="/wiki/Gr%C3%B6bner_basis" title="Gröbner basis">Groebner bases</a></li>
+<li>Differential Algebra</li>
+<li><a href="/wiki/Matrix_operation#Basic_operations" class="mw-redirect" title="Matrix operation">Matrix manipulation</a> tools including support for <a href="/wiki/Sparse_array" class="mw-redirect" title="Sparse array">sparse arrays</a></li>
+<li>Mathematical <a href="/wiki/Function_graphing" class="mw-redirect" title="Function graphing">function graphing</a> and animation tools</li>
+<li>Solvers for <a href="/wiki/Systems_of_equations" class="mw-redirect" title="Systems of equations">systems of equations</a>, <a href="/wiki/Diophantine_equation" title="Diophantine equation">diophantine equations</a>, <a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">ODEs</a>, <a href="/wiki/Partial_differential_equation" title="Partial differential equation">PDEs</a>, <a href="/wiki/Differential_algebraic_equation" class="mw-redirect" title="Differential algebraic equation">DAEs</a>, <a href="/wiki/Delay_differential_equation" title="Delay differential equation">DDEs</a> and <a href="/wiki/Recurrence_relation" title="Recurrence relation">recurrence relations</a></li>
+<li>Numeric and symbolic tools for discrete and continuous <a href="/wiki/Calculus" title="Calculus">calculus</a> including definite and <a href="/wiki/Indefinite_integration" class="mw-redirect" title="Indefinite integration">indefinite integration</a>, definite and <a href="/wiki/Indefinite_sum" title="Indefinite sum">indefinite summation</a>, automatic differentiation and continuous and discrete <a href="/wiki/Integral_transform" title="Integral transform">integral transforms</a></li>
+<li>Constrained and unconstrained local and global <a href="/wiki/Mathematical_optimization" title="Mathematical optimization">optimization</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a> including model fitting, <a href="/wiki/Hypothesis_testing" class="mw-redirect" title="Hypothesis testing">hypothesis testing</a>, and <a href="/wiki/Probability_distribution" title="Probability distribution">probability distributions</a></li>
+<li>Tools for data manipulation, visualization and analysis</li>
+<li>Tools for probability and <a href="/wiki/Combinatoric" class="mw-redirect" title="Combinatoric">combinatoric</a> problems</li>
+<li>Support for time-series and unit based data</li>
+<li>Connection to online collection of financial and economic data</li>
+<li>Tools for financial calculations including bonds, annuities, derivatives, options etc.</li>
+<li>Calculations and simulations on random processes</li>
+<li>Tools for <a href="/wiki/Text_mining" title="Text mining">text mining</a> including <a href="/wiki/Regular_expressions" class="mw-redirect" title="Regular expressions">regular expressions</a></li>
+<li>Tools for <a href="/wiki/Signal_processing" title="Signal processing">signal processing</a> and linear and non-linear <a href="/wiki/Control_system" title="Control system">control systems</a></li>
+<li><a href="/wiki/Discrete_math" class="mw-redirect" title="Discrete math">Discrete math</a> tools including <a href="/wiki/Number_theory" title="Number theory">number theory</a></li>
+<li>Tools for visualizing and analysing directed and undirected <a href="/wiki/Graph_(discrete_mathematics)" title="Graph (discrete mathematics)">graphs</a></li>
+<li>Group theory including permutation and finitely presented groups</li>
+<li>Symbolic tensor functions</li>
+<li>Import and export filters for data, image, sound, <a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>, and document formats</li>
+<li>Technical word processing including <a href="/wiki/Formula_editor" title="Formula editor">formula editing</a></li>
+<li>Programming language supporting <a href="/wiki/Procedural_programming" title="Procedural programming">procedural</a>, <a href="/wiki/Functional_programming" title="Functional programming">functional</a> and <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> constructs</li>
+<li>Tools for adding <a href="/wiki/User_interface" title="User interface">user interfaces</a> to calculations and applications</li>
+<li>Tools for connecting to <a href="/wiki/SQL" title="SQL">SQL</a>, <a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a>, <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a>, <a href="/wiki/C%2B%2B" title="C++">C++</a>, <a href="/wiki/Fortran" title="Fortran">Fortran</a> and <a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">http</a></li>
+<li>Tools for generating code for <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a>, <a href="/wiki/Fortran" title="Fortran">Fortran</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>, <a href="/wiki/Julia_(programming_language)" title="Julia (programming language)">Julia</a>, <a href="/wiki/Matlab" class="mw-redirect" title="Matlab">Matlab</a>, <a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/R_(programming_language)" title="R (programming language)">R</a>, and <a href="/wiki/Visual_Basic" title="Visual Basic">Visual Basic</a></li>
+<li>Tools for <a href="/wiki/Parallel_programming" class="mw-redirect" title="Parallel programming">parallel programming</a></li>
+</ul>
+<h2><span class="mw-headline" id="Examples_of_Maple_code">Examples of Maple code</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=7" title="Edit section: Examples of Maple code">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sample <a href="/wiki/Imperative_programming" title="Imperative programming">imperative programming</a> constructs:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="nv">myfac</span> <span class="o">:=</span> <span class="k">proc</span><span class="p">(</span><span class="nv">n::nonnegint</span><span class="p">)</span>
+   <span class="k">local</span> <span class="nv">out</span><span class="o">,</span> <span class="nv">i</span><span class="o">;</span>
+   <span class="nv">out</span> <span class="o">:=</span> <span class="m">1</span><span class="o">;</span>
+   <span class="k">for</span> <span class="nv">i</span> <span class="k">from</span> <span class="m">2</span> <span class="k">to</span> <span class="nv">n</span> <span class="k">do</span>
+       <span class="nv">out</span> <span class="o">:=</span> <span class="nv">out</span> <span class="o">*</span> <span class="nv">i</span>
+   <span class="k">end</span> <span class="k">do</span><span class="o">;</span>
+   <span class="nv">out</span>
+<span class="k">end</span> <span class="k">proc</span><span class="o">;</span>
+</pre></div>
+<p>Simple functions can also be defined using the "maps to" arrow notation:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nv">myfac</span> <span class="o">:=</span> <span class="nv">n</span> <span class="o">-&gt;</span> <span class="nf">product</span><span class="p">(</span> <span class="nv">i</span><span class="o">,</span> <span class="nv">i</span><span class="o">=</span><span class="m">1.</span><span class="o">.</span><span class="nv">n</span> <span class="p">)</span><span class="o">;</span>
+</pre></div>
+<h3><span class="mw-headline" id="Integration">Integration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=8" title="Edit section: Integration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Find</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \int \cos \left({\frac {x}{a}}\right)dx}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>x</mi>
+              <mi>a</mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi>d</mi>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \int \cos \left({\frac {x}{a}}\right)dx}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2e96bbf0d99d3ce45f35978a0379228c7e30a8c9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:13.179ex; height:5.676ex;" alt="\int \cos \left({\frac {x}{a}}\right)dx" /></span>.</dd>
+</dl>
+<pre>
+int(cos(x/a), x);
+</pre>
+<p>Answer:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\sin \left({\frac {x}{a}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>x</mi>
+              <mi>a</mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\sin \left({\frac {x}{a}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b2d4fea50c8d326a64538d0b5fad2dbebea11f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:9.414ex; height:4.843ex;" alt="a\sin \left({\frac {x}{a}}\right)" /></span></dd>
+</dl>
+<hr />
+<h3><span class="mw-headline" id="Determinant">Determinant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=9" title="Edit section: Determinant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Compute the determinant of a matrix.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nv">M</span><span class="o">:=</span> <span class="nf">Matrix</span><span class="p">([[</span><span class="m">1</span><span class="o">,</span><span class="m">2</span><span class="o">,</span><span class="m">3</span><span class="p">]</span><span class="o">,</span> <span class="p">[</span><span class="nv">a</span><span class="o">,</span><span class="nv">b</span><span class="o">,</span><span class="nv">c</span><span class="p">]</span><span class="o">,</span> <span class="p">[</span><span class="nv">x</span><span class="o">,</span><span class="nv">y</span><span class="o">,</span><span class="nv">z</span><span class="p">]])</span><span class="o">;</span>  <span class="nv">#</span> <span class="nv">example</span> <span class="nv">Matrix</span>
+</pre></div>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\begin{bmatrix}1&amp;2&amp;3\\a&amp;b&amp;c\\x&amp;y&amp;z\end{bmatrix}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>[</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mn>1</mn>
+                </mtd>
+                <mtd>
+                  <mn>2</mn>
+                </mtd>
+                <mtd>
+                  <mn>3</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>a</mi>
+                </mtd>
+                <mtd>
+                  <mi>b</mi>
+                </mtd>
+                <mtd>
+                  <mi>c</mi>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>x</mi>
+                </mtd>
+                <mtd>
+                  <mi>y</mi>
+                </mtd>
+                <mtd>
+                  <mi>z</mi>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{bmatrix}1&amp;2&amp;3\\a&amp;b&amp;c\\x&amp;y&amp;z\end{bmatrix}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f702e6adc2cc895cbc853e616befa28dc5d91fef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.171ex; width:12.152ex; height:9.509ex;" alt="{\begin{bmatrix}1&amp;2&amp;3\\a&amp;b&amp;c\\x&amp;y&amp;z\end{bmatrix}}" /></span></dd>
+</dl>
+<pre>
+LinearAlgebra:-Determinant(M);
+</pre>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle bz-cy+3ay-2az+2xc-3xb}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mi>z</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>c</mi>
+        <mi>y</mi>
+        <mo>+</mo>
+        <mn>3</mn>
+        <mi>a</mi>
+        <mi>y</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mi>a</mi>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mi>x</mi>
+        <mi>c</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>3</mn>
+        <mi>x</mi>
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle bz-cy+3ay-2az+2xc-3xb}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e1baead1e3293dfe2aeef41058d4023c2d65ab6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:32.467ex; height:2.509ex;" alt="bz-cy+3ay-2az+2xc-3xb" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Series_expansion">Series expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=10" title="Edit section: Series expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<pre>
+series(tanh(x),x=0,15)
+</pre>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x-{\frac {1}{3}}\,x^{3}+{\frac {2}{15}}\,x^{5}-{\frac {17}{315}}\,x^{7}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>3</mn>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>2</mn>
+            <mn>15</mn>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>5</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>17</mn>
+            <mn>315</mn>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>7</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x-{\frac {1}{3}}\,x^{3}+{\frac {2}{15}}\,x^{5}-{\frac {17}{315}}\,x^{7}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7dbb5e4179bad4a0b730f04c1418d25635279d64" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:27.647ex; height:5.176ex;" alt="x-{\frac {1}{3}}\,x^{3}+{\frac {2}{15}}\,x^{5}-{\frac {17}{315}}\,x^{7}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle +{\frac {62}{2835}}\,x^{9}-{\frac {1382}{155925}}\,x^{11}+{\frac {21844}{6081075}}\,x^{13}+{\mathcal {O}}(x^{15})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>62</mn>
+            <mn>2835</mn>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>9</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1382</mn>
+            <mn>155925</mn>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>11</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>21844</mn>
+            <mn>6081075</mn>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>13</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">O</mi>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>15</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle +{\frac {62}{2835}}\,x^{9}-{\frac {1382}{155925}}\,x^{11}+{\frac {21844}{6081075}}\,x^{13}+{\mathcal {O}}(x^{15})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c24e0888b92729896c7bcf18eb66704e57380264" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:49.422ex; height:5.343ex;" alt="{\displaystyle +{\frac {62}{2835}}\,x^{9}-{\frac {1382}{155925}}\,x^{11}+{\frac {21844}{6081075}}\,x^{13}+{\mathcal {O}}(x^{15})}" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Solve_equation_numerically">Solve equation numerically</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=11" title="Edit section: Solve equation numerically">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>High order polynomial equation</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nv">f</span> <span class="o">:=</span> <span class="nv">x</span><span class="o">^</span><span class="m">53</span><span class="o">-</span><span class="m">88</span><span class="o">*</span><span class="nv">x</span><span class="o">^</span><span class="m">5</span><span class="o">-</span><span class="m">3</span><span class="o">*</span><span class="nv">x</span><span class="o">-</span><span class="m">5</span> <span class="o">=</span> <span class="m">0</span>
+
+ <span class="nf">fsolve</span><span class="p">(</span><span class="nv">f</span><span class="p">)</span>
+
+ <span class="o">-</span><span class="m">1.097486315</span><span class="o">,</span> <span class="o">-.</span><span class="m">5226535640</span><span class="o">,</span> <span class="m">1.099074017</span>
+</pre></div>
+<h3><span class="mw-headline" id="Solve_equation_set">Solve equation set</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=12" title="Edit section: Solve equation set">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nv">f</span> <span class="o">:=</span> <span class="p">(</span><span class="nf">cos</span><span class="p">(</span><span class="nv">x</span><span class="o">+</span><span class="nv">y</span><span class="p">))</span><span class="o">^</span><span class="m">2</span> <span class="o">+</span> <span class="nf">exp</span><span class="p">(</span><span class="nv">x</span><span class="p">)</span><span class="o">*</span><span class="nv">y</span><span class="o">+</span><span class="nf">cot</span><span class="p">(</span><span class="nv">x</span><span class="o">-</span><span class="nv">y</span><span class="p">)</span><span class="o">+</span><span class="nf">cosh</span><span class="p">(</span><span class="nv">z</span><span class="o">+</span><span class="nv">x</span><span class="p">)</span> <span class="o">=</span> <span class="m">0</span><span class="o">:</span>
+
+ <span class="nv">g</span> <span class="o">:=</span> <span class="nv">x</span><span class="o">^</span><span class="m">5</span> <span class="o">-</span> <span class="m">8</span><span class="o">*</span><span class="nv">y</span> <span class="o">=</span> <span class="m">2</span><span class="o">:</span>
+
+ <span class="nv">h</span> <span class="o">:=</span> <span class="nv">x</span><span class="o">+</span><span class="m">3</span><span class="o">*</span><span class="nv">y</span><span class="o">-</span><span class="m">77</span><span class="o">*</span><span class="nv">z</span><span class="o">=</span><span class="m">55</span><span class="o">;</span>
+                    
+ <span class="nf">fsolve</span><span class="p">(</span> <span class="p">{</span><span class="nv">f</span><span class="o">,</span><span class="nv">g</span><span class="o">,</span><span class="nv">h</span><span class="p">}</span> <span class="p">)</span><span class="o">;</span>
+
+ <span class="p">{</span><span class="nv">x</span> <span class="o">=</span> <span class="o">-</span><span class="m">1.543352313</span><span class="o">,</span> <span class="nv">y</span> <span class="o">=</span> <span class="o">-</span><span class="m">1.344549481</span><span class="o">,</span> <span class="nv">z</span> <span class="o">=</span> <span class="o">-.</span><span class="m">7867142955</span><span class="p">}</span>
+</pre></div>
+<h3><span class="mw-headline" id="Plotting_of_function_of_single_variable">Plotting of function of single variable</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=13" title="Edit section: Plotting of function of single variable">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Plot <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x\cdot \sin(x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\cdot \sin(x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12b92282acfa31e62919a0fed8b6babc6fd1c344" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.003ex; height:2.843ex;" alt="x\cdot \sin(x)" /></span> with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x" /></span> ranging from -10 to 10</li>
+</ul>
+<pre>
+plot(x*sin(x),x=-10..10);
+</pre>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Maple1DPlot.PNG" class="image"><img alt="Maple1DPlot.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Maple1DPlot.PNG/300px-Maple1DPlot.PNG" width="300" height="304" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/b9/Maple1DPlot.PNG 1.5x" data-file-width="417" data-file-height="422" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Maple1DPlot.PNG" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Plotting_of_function_of_two_variables">Plotting of function of two variables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=14" title="Edit section: Plotting of function of two variables">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Plot <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x^{2}+y^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{2}+y^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f455605b597282c27d7cf2238821bc331479a7e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.439ex; height:3.009ex;" alt="x^{2}+y^{2}" /></span> with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.155ex; height:2.009ex;" alt="y" /></span> ranging from -1 to 1</li>
+</ul>
+<pre>
+plot3d(x^2+y^2, x=-1..1, y=-1..1);
+</pre>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Maple163DPlot.jpg" class="image"><img alt="Maple163DPlot.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maple163DPlot.jpg/300px-Maple163DPlot.jpg" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f9/Maple163DPlot.jpg 1.5x" data-file-width="400" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Maple163DPlot.jpg" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Animation_of_functions">Animation of functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=15" title="Edit section: Animation of functions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>animation of function of two variables</li>
+</ul>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f:=2\cdot k^{2}/\cosh(k\cdot (x-4\cdot k^{2}\cdot t))^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo>:=</mo>
+        <mn>2</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msup>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>cosh</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>4</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msup>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f:=2\cdot k^{2}/\cosh(k\cdot (x-4\cdot k^{2}\cdot t))^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66734000a35b5260f074bfc313714a7d167eadcc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:35.443ex; height:3.176ex;" alt="f:=2\cdot k^{2}/\cosh(k\cdot (x-4\cdot k^{2}\cdot t))^{2}" /></span></dd>
+</dl>
+<pre>
+plots:-animate(subs(k = .5, f), x=-30..30, t=-10..10, numpoints=200, frames=50, color=red, thickness=3);
+</pre>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Bellsoliton2.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bellsoliton2.gif/300px-Bellsoliton2.gif" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/bf/Bellsoliton2.gif 1.5x" data-file-width="400" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bellsoliton2.gif" class="internal" title="Enlarge"></a></div>
+2D bell solution</div>
+</div>
+</div>
+</div>
+<ul>
+<li>animation of functions of three variables</li>
+</ul>
+<pre>
+plots:-animate3d(cos(t*x)*sin(3*t*y), x=-Pi..Pi, y=-Pi..Pi, t=1..2);
+</pre>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:3dsincos_animation.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/3dsincos_animation.gif/300px-3dsincos_animation.gif" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/9/98/3dsincos_animation.gif 1.5x" data-file-width="400" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:3dsincos_animation.gif" class="internal" title="Enlarge"></a></div>
+3D animation of function</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Fly-through animation of 3-D plots.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+</ul>
+<pre>
+M := Matrix([[400,400,200], [100,100,-400], [1,1,1]], datatype=float[8]):
+plot3d(1, x=0..2*Pi, y=0..Pi, axes=none, coords=spherical, viewpoint=[path=M]);
+</pre>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Maple_plot3D_flythrough.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/df/Maple_plot3D_flythrough.gif" width="260" height="260" class="thumbimage" data-file-width="260" data-file-height="260" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Maple_plot3D_flythrough.gif" class="internal" title="Enlarge"></a></div>
+Maple plot3D fly-through</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Laplace_transform">Laplace transform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=16" title="Edit section: Laplace transform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Laplace_transform" title="Laplace transform">Laplace transform</a></li>
+</ul>
+<pre>
+f := (1+A*t+B*t^2)*exp(c*t);
+</pre>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (1+A\cdot t+B\cdot t^{2})\cdot e^{c\cdot t}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>A</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>t</mi>
+        <mo>+</mo>
+        <mi>B</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msup>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mo>&#x22C5;<!-- ⋅ --></mo>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (1+A\cdot t+B\cdot t^{2})\cdot e^{c\cdot t}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c38935cc87437a22ab578a94330a5fb1114bcf49" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.009ex; height:3.176ex;" alt="(1+A\cdot t+B\cdot t^{2})\cdot e^{c\cdot t}" /></span></dd>
+</dl>
+<pre>
+inttrans:-laplace(f, t, s);
+</pre>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {1}{s-c}}+{\frac {A}{(s-c)^{2}}}+{\frac {2B}{(s-c)^{3}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mi>s</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>c</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>A</mi>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>s</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>c</mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mi>B</mi>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>s</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>c</mi>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>3</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{s-c}}+{\frac {A}{(s-c)^{2}}}+{\frac {2B}{(s-c)^{3}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4021ed8153cbdae6e7570da3fac456fc86718d29" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:28.729ex; height:6.176ex;" alt="{\frac {1}{s-c}}+{\frac {A}{(s-c)^{2}}}+{\frac {2B}{(s-c)^{3}}}" /></span></dd>
+</dl>
+<ul>
+<li>inverse Laplace transform</li>
+</ul>
+<pre>
+inttrans:-invlaplace(1/(s-a),s,x)
+</pre>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle e^{ax}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>x</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle e^{ax}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c922caffb8d5be4d157a315ce579532f2392e14" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" alt="e^{{ax}}" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Fourier_transform">Fourier transform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=17" title="Edit section: Fourier transform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nv">inttrans</span><span class="o">:-</span><span class="nf">fourier</span><span class="p">(</span><span class="nf">sin</span><span class="p">(</span><span class="nv">x</span><span class="p">)</span><span class="o">,</span><span class="nv">x</span><span class="o">,</span><span class="nv">w</span><span class="p">)</span>
+</pre></div>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {I} \pi \,(\mathrm {Dirac} (w+1)-\mathrm {Dirac} (w-1))}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">I</mi>
+        </mrow>
+        <mi>&#x03C0;<!-- π --></mi>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">D</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">a</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">D</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">a</mi>
+          <mi mathvariant="normal">c</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {I} \pi \,(\mathrm {Dirac} (w+1)-\mathrm {Dirac} (w-1))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9702cdc4c5f1c569ac0298f6f456046d270341ed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:33.219ex; height:2.843ex;" alt="\mathrm {I} \pi \,(\mathrm {Dirac} (w+1)-\mathrm {Dirac} (w-1))" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Integral_equations">Integral equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=18" title="Edit section: Integral equations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Find functions <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.279ex; height:2.509ex;" alt="f" /></span> that satisfy the <a href="/wiki/Integral_equation" title="Integral equation">integral equation</a></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(x)-3\int _{-1}^{1}(xy+x^{2}y^{2})f(y)dy=h(x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>3</mn>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mi>y</mi>
+        <mo>+</mo>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>y</mi>
+        <mo>=</mo>
+        <mi>h</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)-3\int _{-1}^{1}(xy+x^{2}y^{2})f(y)dy=h(x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a825b812205512cc08ba4b00e72e1e312dc8683" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:38.357ex; height:6.343ex;" alt="f(x)-3\int _{-1}^{1}(xy+x^{2}y^{2})f(y)dy=h(x)" /></span>.</dd>
+</dl>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nv">eqn</span><span class="o">:=</span> <span class="nf">f</span><span class="p">(</span><span class="nv">x</span><span class="p">)</span><span class="o">-</span><span class="m">3</span><span class="o">*</span><span class="nf">Int</span><span class="p">((</span><span class="nv">x</span><span class="o">*</span><span class="nv">y</span><span class="o">+</span><span class="nv">x</span><span class="o">^</span><span class="m">2</span><span class="o">*</span><span class="nv">y</span><span class="o">^</span><span class="m">2</span><span class="p">)</span><span class="o">*</span><span class="nf">f</span><span class="p">(</span><span class="nv">y</span><span class="p">)</span><span class="o">,</span> <span class="nv">y</span><span class="o">=-</span><span class="m">1.</span><span class="o">.</span><span class="m">1</span><span class="p">)</span> <span class="o">=</span> <span class="nf">h</span><span class="p">(</span><span class="nv">x</span><span class="p">)</span><span class="o">:</span>
+ <span class="nf">intsolve</span><span class="p">(</span><span class="nv">eqn</span><span class="o">,</span><span class="nf">f</span><span class="p">(</span><span class="nv">x</span><span class="p">))</span><span class="o">;</span>
+</pre></div>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f\left(x\right)=\int _{-1}^{1}\!\left(-15\,{x}^{2}{y}^{2}-3\,xy\right)h\left(y\right){dy}+h\left(x\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>x</mi>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="negativethinmathspace" />
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>15</mn>
+            <mspace width="thinmathspace" />
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>x</mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>y</mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>3</mn>
+            <mspace width="thinmathspace" />
+            <mi>x</mi>
+            <mi>y</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>y</mi>
+          <mo>)</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi>
+          <mi>y</mi>
+        </mrow>
+        <mo>+</mo>
+        <mi>h</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>x</mi>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f\left(x\right)=\int _{-1}^{1}\!\left(-15\,{x}^{2}{y}^{2}-3\,xy\right)h\left(y\right){dy}+h\left(x\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/454015ca2ccc75ea531dbdacabaa52bc88a33d6d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:45.194ex; height:6.343ex;" alt="f\left(x\right)=\int _{-1}^{1}\!\left(-15\,{x}^{2}{y}^{2}-3\,xy\right)h\left(y\right){dy}+h\left(x\right)" /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Use_of_the_Maple_engine">Use of the Maple engine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=19" title="Edit section: Use of the Maple engine">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Maple engine is used within several other products from <a href="/wiki/Maplesoft" class="mw-redirect" title="Maplesoft">Maplesoft</a>:</p>
+<ul>
+<li>Maple T.A., <a href="/wiki/Waterloo_Maple" title="Waterloo Maple">Maplesoft</a>’s online testing suite, uses Maple to algorithmically generate questions and grade student responses.</li>
+<li>MapleNet allows users to create <a href="/wiki/JavaServer_Pages" title="JavaServer Pages">JSP</a> pages and <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> <a href="/wiki/Applets" class="mw-redirect" title="Applets">Applets</a>. MapleNet 12 and above also allow users to upload and work with <a href="/wiki/Notebook_interface" title="Notebook interface">Maple worksheets</a> containing interactive components.</li>
+<li><a href="/wiki/MapleSim" title="MapleSim">MapleSim</a>, an engineering simulation tool.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+</ul>
+<p>Listed below are third-party commercial products that no longer use the Maple engine:</p>
+<ul>
+<li>Versions of <a href="/wiki/Mathcad" title="Mathcad">Mathcad</a> released between 1994 and 2006 included a Maple-derived algebra engine (MKM, aka <a href="/wiki/Mathsoft" title="Mathsoft">Mathsoft</a> Kernel Maple), though subsequent versions use <a href="/wiki/MuPAD" title="MuPAD">MuPAD</a>.</li>
+<li>Symbolic Math Toolbox in <a href="/wiki/MATLAB" title="MATLAB">MATLAB</a> contained a portion of the Maple 10 engine, but now uses <a href="/wiki/MuPAD" title="MuPAD">MuPAD</a> (starting with MATLAB R2007b+ release).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>Older versions of the mathematical editor <a href="/wiki/Scientific_Workplace" class="mw-redirect" title="Scientific Workplace">Scientific Workplace</a> included Maple as a computational engine, though current versions include <a href="/wiki/MuPAD" title="MuPAD">MuPAD</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Comparison_of_computer_algebra_systems" class="mw-redirect" title="Comparison of computer algebra systems">Comparison of computer algebra systems</a></li>
+<li><a href="/wiki/Comparison_of_numerical_analysis_software" title="Comparison of numerical analysis software">Comparison of numerical analysis software</a></li>
+<li><a href="/wiki/Comparison_of_programming_languages" title="Comparison of programming languages">Comparison of programming languages</a></li>
+<li><a href="/wiki/Comparison_of_statistical_packages" title="Comparison of statistical packages">Comparison of statistical packages</a></li>
+<li><a href="/wiki/List_of_computer_algebra_systems" title="List of computer algebra systems">List of computer algebra systems</a></li>
+<li><a href="/wiki/List_of_computer_simulation_software" title="List of computer simulation software">List of computer simulation software</a></li>
+<li><a href="/wiki/List_of_graphing_software" class="mw-redirect" title="List of graphing software">List of graphing software</a></li>
+<li><a href="/wiki/List_of_numerical_analysis_software" title="List of numerical analysis software">List of numerical analysis software</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/SageMath" title="SageMath">SageMath (an open source algebra program)</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.maplesoft.com/products/languages/">"International Language Support in Maple"</a>. <a href="/wiki/Maplesoft" class="mw-redirect" title="Maplesoft">Maplesoft</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=International+Language+Support+in+Maple&amp;rft.pub=Maplesoft&amp;rft_id=https%3A%2F%2Fwww.maplesoft.com%2Fproducts%2Flanguages%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaple+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bitwisemag.com/copy/reviews/software/maths/maple10_mathematica52.html">Power of two</a> Bitwise Magazine</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.maplesoft.com/standards/MathML/info.html">http://www.maplesoft.com/standards/MathML/info.html</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://zakuski.math.utsa.edu/~gokhman/ftp/mirrors/maple/mplhist.htm">History of Maple</a> Alexander F. Walz, 1998</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.maplesoft.com/support/help/Maple/view.aspx?path=updates/v52">Maple V Release 2 Notes</a> Maplesoft</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.mit.edu/maple/www/plibrary/mtn/mtn-si94.html">MapleTech Special Issue, Birkhäuser-Boston, (1994)</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.macworld.com/article/1870/2001/02/21reviewsmaple.html">Maple 6.0</a> Macworld, Feb 2001</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scientific-computing.com/scwoctnov05review.html">Capturing knowledge with pure maths</a>, Scientific Computing World.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.maplesoft.com/documentation_center/maple11/Install.html">Maple 11 Installation Guide</a> Maplesoft</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://history.siam.org/oralhistories/gonnet.htm">Interview with Gaston Gonnet, co-creator of Maple</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071229044836/http://history.siam.org/oralhistories/gonnet.htm">Archived</a> 2007-12-29 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., SIAM History of Numerical Analysis and Computing, 16 March 2005</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.maplesoft.com/products/Maple/features/">Maple Product Features Page</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.maplesoft.com/applications/view.aspx?SID=33073&amp;view=html">Using the New Fly-through Feature in Maple 13</a> Maplesoft</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mahmud, Khizir; Town, Graham E. (June 2016). "A review of computer tools for modeling electric vehicle energy requirements and their impact on power distribution networks". <i>Applied Energy</i>. <b>172</b>: 337–359. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.apenergy.2016.03.100">10.1016/j.apenergy.2016.03.100</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Energy&amp;rft.atitle=A+review+of+computer+tools+for+modeling+electric+vehicle+energy+requirements+and+their+impact+on+power+distribution+networks&amp;rft.volume=172&amp;rft.pages=337-359&amp;rft.date=2016-06&amp;rft_id=info%3Adoi%2F10.1016%2Fj.apenergy.2016.03.100&amp;rft.aulast=Mahmud&amp;rft.aufirst=Khizir&amp;rft.au=Town%2C+Graham+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaple+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mathworks.com/help/symbolic/release-notes.html#brqy3xk">"Release Notes for Symbolic Math Toolbox"</a>. MathWorks<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Release+Notes+for+Symbolic+Math+Toolbox&amp;rft.pub=MathWorks&amp;rft_id=http%3A%2F%2Fwww.mathworks.com%2Fhelp%2Fsymbolic%2Frelease-notes.html%23brqy3xk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaple+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maple_(software)&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Maple_(software)" class="extiw" title="commons:Category:Maple (software)">Maple (software)</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Maple" class="extiw" title="wikibooks:Maple">Maple</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.maplesoft.com">Maplesoft, division of Waterloo Maple, Inc.</a> – official website</li>
+<li><a rel="nofollow" class="external text" href="https://www.maplesoft.com/support/help/">Maple Online Help</a> – online documentation</li>
+<li><a rel="nofollow" class="external text" href="https://www.mapleprimes.com">MaplePrimes</a> – a community website for Maple users</li>
+<li><a rel="nofollow" class="external text" href="https://maple.cloud">MapleCloud</a> – an online Maple application viewer</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Computer_algebra_systems" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_algebra_systems" title="Template:Computer algebra systems"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_algebra_systems" title="Template talk:Computer algebra systems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_algebra_systems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Computer_algebra_systems" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer_algebra_system" title="Computer algebra system">Computer algebra systems</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Open-source" class="mw-redirect" title="Open-source">Open-source</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Axiom_(computer_algebra_system)" title="Axiom (computer algebra system)">Axiom</a></li>
+<li><a href="/wiki/CoCoA" title="CoCoA">CoCoA</a></li>
+<li><a href="/wiki/Erable" title="Erable">Erable</a></li>
+<li><a href="/wiki/FriCAS" title="FriCAS">FriCAS</a></li>
+<li><a href="/wiki/FORM_(symbolic_manipulation_system)" title="FORM (symbolic manipulation system)">FORM</a></li>
+<li><a href="/wiki/GAP_(computer_algebra_system)" title="GAP (computer algebra system)">GAP</a></li>
+<li><a href="/wiki/GiNaC" title="GiNaC">GiNaC</a></li>
+<li><a href="/wiki/Macaulay_computer_algebra_system" title="Macaulay computer algebra system">Macaulay</a></li>
+<li><a href="/wiki/Macaulay2" title="Macaulay2">Macaulay2</a></li>
+<li><a href="/wiki/Maxima_(software)" title="Maxima (software)">Maxima</a></li>
+<li><a href="/wiki/Normaliz" title="Normaliz">Normaliz</a></li>
+<li><a href="/wiki/PARI/GP" title="PARI/GP">PARI/GP</a></li>
+<li><a href="/wiki/Reduce_(computer_algebra_system)" title="Reduce (computer algebra system)">Reduce</a></li>
+<li><a href="/wiki/SageMath" title="SageMath">SageMath</a></li>
+<li><a href="/wiki/Singular_(software)" title="Singular (software)">Singular</a></li>
+<li><a href="/wiki/SymPy" title="SymPy">SymPy</a></li>
+<li><a href="/wiki/Xcas" title="Xcas">Xcas/Giac</a></li>
+<li><a href="/wiki/Yacas" title="Yacas">Yacas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Casio_ClassPad_300" title="Casio ClassPad 300">ClassPad Manager</a></li>
+<li><a href="/wiki/Fermat_(computer_algebra_system)" title="Fermat (computer algebra system)">Fermat</a></li>
+<li><a href="/wiki/KANT_(software)" title="KANT (software)">KANT</a></li>
+<li><a href="/wiki/Magma_(computer_algebra_system)" title="Magma (computer algebra system)">Magma</a></li>
+<li><a class="mw-selflink selflink">Maple</a></li>
+<li><a href="/wiki/Mathcad" title="Mathcad">Mathcad</a></li>
+<li><a href="/wiki/Wolfram_Mathematica" class="mw-redirect" title="Wolfram Mathematica">Mathematica</a></li>
+<li><a href="/wiki/MuPAD" title="MuPAD">muPAD</a> (MATLAB symbolic math toolbox)</li>
+<li><a href="/wiki/SMath_Studio" title="SMath Studio">SMath Studio</a></li>
+<li><a href="/wiki/TI_InterActive!" title="TI InterActive!">TI InterActive!</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Discontinued</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cambridge_Algebra_System" title="Cambridge Algebra System">CAMAL</a></li>
+<li><a href="/wiki/Derive_(computer_algebra_system)" title="Derive (computer algebra system)">Derive</a></li>
+<li><a href="/wiki/LiveMath" title="LiveMath">LiveMath</a></li>
+<li><a href="/wiki/Macsyma" title="Macsyma">Macsyma</a></li>
+<li><a href="/wiki/Mathomatic" title="Mathomatic">Mathomatic</a></li>
+<li><a href="/wiki/MuMATH" title="MuMATH">muMATH</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Computer_algebra_systems" title="Category:Computer algebra systems">Category</a></b></li>
+<li><b><a href="/wiki/Comparison_of_computer_algebra_systems" class="mw-redirect" title="Comparison of computer algebra systems">Comparison</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Numerical_analysis_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Numerical_analysis_software" title="Template:Numerical analysis software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Numerical_analysis_software" title="Template talk:Numerical analysis software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Numerical_analysis_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Numerical_analysis_software" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_numerical_analysis_software" title="List of numerical analysis software">Numerical analysis software</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_software" title="Free software">Free</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_Simulation_Library" title="Advanced Simulation Library">Advanced Simulation Library</a></li>
+<li><a href="/wiki/ADMB" title="ADMB">ADMB</a></li>
+<li><a href="/wiki/Chapel_(programming_language)" title="Chapel (programming language)">Chapel</a></li>
+<li><a href="/wiki/Euler_(software)" title="Euler (software)">Euler</a></li>
+<li><a href="/wiki/FeatFlow" title="FeatFlow">FeatFlow</a></li>
+<li><a href="/wiki/FEATool" title="FEATool">FEATool</a></li>
+<li><a href="/wiki/Fortress_(programming_language)" title="Fortress (programming language)">Fortress</a></li>
+<li><a href="/wiki/FreeFem%2B%2B" title="FreeFem++">FreeFem++</a></li>
+<li><a href="/wiki/FreeMat" title="FreeMat">FreeMat</a></li>
+<li><a href="/wiki/Genius_(mathematics_software)" title="Genius (mathematics software)">Genius</a></li>
+<li><a href="/wiki/Gmsh" title="Gmsh">Gmsh</a></li>
+<li><a href="/wiki/GNU_Octave" title="GNU Octave">GNU Octave</a></li>
+<li><a href="/wiki/Gretl" title="Gretl">gretl</a></li>
+<li><a href="/wiki/Julia_(programming_language)" title="Julia (programming language)">Julia</a></li>
+<li><a href="/wiki/Maxima_(software)" title="Maxima (software)">Maxima</a></li>
+<li><a href="/wiki/OpenFOAM" title="OpenFOAM">OpenFOAM</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/SageMath" title="SageMath">SageMath</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/ScicosLab" title="ScicosLab">ScicosLab</a></li>
+<li><a href="/wiki/Scilab" title="Scilab">Scilab</a></li>
+<li><a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a></li>
+<li><a href="/wiki/Weka_(machine_learning)" title="Weka (machine learning)">Weka</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DADiSP" title="DADiSP">DADiSP</a></li>
+<li><a href="/wiki/GAUSS_(software)" title="GAUSS (software)">GAUSS</a></li>
+<li><a href="/wiki/LabVIEW" title="LabVIEW">LabVIEW</a></li>
+<li><a class="mw-selflink selflink">Maple</a></li>
+<li><a href="/wiki/Mathcad" title="Mathcad">Mathcad</a></li>
+<li><a href="/wiki/Wolfram_Mathematica" class="mw-redirect" title="Wolfram Mathematica">Mathematica</a></li>
+<li><a href="/wiki/MATLAB" title="MATLAB">MATLAB</a></li>
+<li><a href="/wiki/Speakeasy_(computational_environment)" title="Speakeasy (computational environment)">Speakeasy</a></li>
+<li><a href="/wiki/VisSim" title="VisSim">VisSim</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/List_of_numerical_analysis_software" title="List of numerical analysis software">List of numerical analysis software</a></b></li>
+<li><b><a href="/wiki/Comparison_of_numerical_analysis_software" title="Comparison of numerical analysis software">Comparison of numerical analysis software</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Statistical_software" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Statistical_software" title="Template:Statistical software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Statistical_software" title="Template talk:Statistical software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Statistical_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Statistical_software" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_statistical_packages" title="List of statistical packages">Statistical software</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Public-domain_software" title="Public-domain software">Public domain</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dataplot" title="Dataplot">Dataplot</a></li>
+<li><a href="/wiki/Epi_Info" title="Epi Info">Epi Info</a></li>
+<li><a href="/wiki/CSPro" title="CSPro">CSPro</a></li>
+<li><a href="/wiki/X-12-ARIMA" title="X-12-ARIMA">X-12-ARIMA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Open-source_software" title="Open-source software">Open-source</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADMB" title="ADMB">ADMB</a></li>
+<li><a href="/wiki/DAP_(software)" title="DAP (software)">DAP</a></li>
+<li><a href="/wiki/Gretl" title="Gretl">gretl</a></li>
+<li><a href="/wiki/JASP" title="JASP">JASP</a></li>
+<li><a href="/wiki/Just_another_Gibbs_sampler" title="Just another Gibbs sampler">JAGS</a></li>
+<li><a href="/wiki/JMulTi" title="JMulTi">JMulTi</a></li>
+<li><a href="/wiki/Julia_(programming_language)" title="Julia (programming language)">Julia</a></li>
+<li><a href="/wiki/GNU_Octave" title="GNU Octave">GNU Octave</a></li>
+<li><a href="/wiki/H2O_(software)" title="H2O (software)">H2O</a></li>
+<li><a href="/wiki/OpenBUGS" title="OpenBUGS">OpenBUGS</a></li>
+<li><a href="/wiki/Orange_(software)" title="Orange (software)">Orange</a></li>
+<li><a href="/wiki/PSPP" title="PSPP">PSPP</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a> (<a href="/wiki/RStudio" title="RStudio">RStudio</a>)</li>
+<li><a href="/wiki/SageMath" title="SageMath">SageMath</a></li>
+<li><a href="/wiki/SimFiT" title="SimFiT">SimFiT</a></li>
+<li><a href="/wiki/SOFA_Statistics" title="SOFA Statistics">SOFA Statistics</a></li>
+<li><a href="/wiki/Stan_(software)" title="Stan (software)">Stan</a></li>
+<li><a href="/wiki/XLispStat" title="XLispStat">XLispStat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Freeware" title="Freeware">Freeware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BV4.1_(software)" title="BV4.1 (software)">BV4.1</a></li>
+<li><a href="/wiki/CumFreq" title="CumFreq">CumFreq</a></li>
+<li><a href="/wiki/SegReg" title="SegReg">SegReg</a></li>
+<li><a href="/wiki/XploRe" title="XploRe">XploRe</a></li>
+<li><a href="/wiki/WinBUGS" title="WinBUGS">WinBUGS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commercial_software" title="Commercial software">Commercial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_Desk" title="Data Desk">Data Desk</a></li>
+<li><a href="/wiki/GAUSS_(software)" title="GAUSS (software)">GAUSS</a></li>
+<li><a href="/wiki/GraphPad_InStat" title="GraphPad InStat">GraphPad InStat</a></li>
+<li><a href="/wiki/GraphPad_Prism" title="GraphPad Prism">GraphPad Prism</a></li>
+<li>IBM <a href="/wiki/SPSS" title="SPSS">SPSS</a> Statistics</li>
+<li>IBM <a href="/wiki/SPSS_Modeler" title="SPSS Modeler">SPSS Modeler</a></li>
+<li><a href="/wiki/JMP_(statistical_software)" title="JMP (statistical software)">JMP</a></li>
+<li><a class="mw-selflink selflink">Maple</a></li>
+<li><a href="/wiki/Mathcad" title="Mathcad">Mathcad</a></li>
+<li><a href="/wiki/Mathematica" class="mw-redirect" title="Mathematica">Mathematica</a></li>
+<li><a href="/wiki/MATLAB" title="MATLAB">MATLAB</a></li>
+<li><a href="/wiki/OxMetrics" title="OxMetrics">OxMetrics</a></li>
+<li><a href="/wiki/RATS_(software)" title="RATS (software)">RATS</a></li>
+<li><a href="/wiki/Revolution_Analytics" title="Revolution Analytics">Revolution Analytics</a></li>
+<li><a href="/wiki/SAS_(software)" title="SAS (software)">SAS</a></li>
+<li><a href="/wiki/SmartPLS" title="SmartPLS">SmartPLS</a></li>
+<li><a href="/wiki/Stata" title="Stata">Stata</a></li>
+<li><a href="/wiki/StatView" title="StatView">StatView</a></li>
+<li><a href="/wiki/SUDAAN" title="SUDAAN">SUDAAN</a></li>
+<li><a href="/wiki/S-PLUS" title="S-PLUS">S-PLUS</a></li>
+<li><a href="/wiki/TSP_(econometrics_software)" title="TSP (econometrics software)">TSP</a></li>
+<li><a href="/wiki/World_Programming_System" title="World Programming System">World Programming System</a> (WPS)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> only</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BMDP" title="BMDP">BMDP</a></li>
+<li><a href="/wiki/EViews" title="EViews">EViews</a></li>
+<li><a href="/wiki/GenStat" class="mw-redirect" title="GenStat">GenStat</a></li>
+<li><a href="/wiki/LIMDEP" title="LIMDEP">LIMDEP</a></li>
+<li><a href="/wiki/LISREL" title="LISREL">LISREL</a></li>
+<li><a href="/wiki/MedCalc" title="MedCalc">MedCalc</a></li>
+<li><a href="/wiki/Microfit" title="Microfit">Microfit</a></li>
+<li><a href="/wiki/Minitab" title="Minitab">Minitab</a></li>
+<li><a href="/wiki/MLwiN" title="MLwiN">MLwiN</a></li>
+<li><a href="/wiki/NCSS_(statistical_software)" title="NCSS (statistical software)">NCSS</a></li>
+<li><a href="/wiki/SHAZAM_(software)" title="SHAZAM (software)">SHAZAM</a></li>
+<li><a href="/wiki/SigmaStat" title="SigmaStat">SigmaStat</a></li>
+<li><a href="/wiki/Statistica" title="Statistica">Statistica</a></li>
+<li><a href="/wiki/StatsDirect" title="StatsDirect">StatsDirect</a></li>
+<li><a href="/wiki/StatXact" title="StatXact">StatXact</a></li>
+<li><a href="/wiki/SYSTAT_(software)" title="SYSTAT (software)">SYSTAT</a></li>
+<li><a href="/wiki/The_Unscrambler" title="The Unscrambler">The Unscrambler</a></li>
+<li><a href="/wiki/UNISTAT" class="mw-redirect" title="UNISTAT">UNISTAT</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Excel</a> add-ons</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Analyse-it" title="Analyse-it">Analyse-it</a></li>
+<li><a href="/wiki/SPC_XL" title="SPC XL">SPC XL</a></li>
+<li><a href="/wiki/SigmaXL" title="SigmaXL">SigmaXL</a></li>
+<li><a href="/wiki/UNISTAT" class="mw-redirect" title="UNISTAT">UNISTAT</a> for Excel</li>
+<li><a href="/wiki/XLfit_(software)" class="mw-redirect" title="XLfit (software)">XLfit</a></li>
+<li><a href="/wiki/RExcel" title="RExcel">RExcel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Statistical_software" title="Category:Statistical software">Category</a></b></li>
+<li><b><a href="/wiki/Comparison_of_statistical_packages" title="Comparison of statistical packages">Comparison</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Fractal_software" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fractal_software" title="Template:Fractal software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fractal_software" title="Template talk:Fractal software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fractal_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fractal_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Fractal-generating_software" title="Fractal-generating software">Fractal software</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Graphics_software" title="Graphics software">Graphics software</a></li>
+<li><a href="/wiki/Fractal_art" title="Fractal art">Fractal art</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Open-source</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apophysis_(software)" title="Apophysis (software)">Apophysis</a></li>
+<li><a href="/wiki/Blender_(software)" title="Blender (software)">Blender</a></li>
+<li><a href="/wiki/Fyre" title="Fyre">Fyre</a></li>
+<li><a href="/wiki/Kalles_Fraktaler" title="Kalles Fraktaler">Kalles Fraktaler</a></li>
+<li><a href="/wiki/MilkDrop" title="MilkDrop">MilkDrop</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Gimp-fractal-explorer.png" class="image" title="Screenshot of the Fractal Explorer tool in the GIMP image editing software"><img alt="Screenshot of the Fractal Explorer tool in the GIMP image editing software" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gimp-fractal-explorer.png/160px-Gimp-fractal-explorer.png" width="160" height="152" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gimp-fractal-explorer.png/240px-Gimp-fractal-explorer.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gimp-fractal-explorer.png/320px-Gimp-fractal-explorer.png 2x" data-file-width="742" data-file-height="704" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">GNU</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_Sheep" title="Electric Sheep">Electric Sheep</a></li>
+<li><a href="/wiki/GIMP" title="GIMP">GIMP</a></li>
+<li><a href="/wiki/OpenPlaG" title="OpenPlaG">openPlaG</a></li>
+<li><a href="/wiki/XaoS" title="XaoS">XaoS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Freeware</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fractint" title="Fractint">Fractint</a></li>
+<li><a href="/wiki/Sterling_(program)" title="Sterling (program)">Sterling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Retail</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Cross-platform</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bryce_(software)" title="Bryce (software)">Bryce</a></li>
+<li><a href="/wiki/Chaotica_(software)" title="Chaotica (software)">Chaotica</a></li>
+<li><a class="mw-selflink selflink">Maple</a></li>
+<li><a href="/wiki/Wolfram_Mathematica" class="mw-redirect" title="Wolfram Mathematica">Wolfram Mathematica</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Windows only</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ultra_Fractal" title="Ultra Fractal">Ultra Fractal</a></li>
+<li><a href="/wiki/VisSim" title="VisSim">VisSim</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scenery_generator" title="Scenery generator">Scenery generator</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MojoWorld_Generator" title="MojoWorld Generator">MojoWorld Generator</a></li>
+<li><a href="/wiki/Picogen" title="Picogen">Picogen</a></li>
+<li><a href="/wiki/Terragen" title="Terragen">Terragen</a></li>
+<li><a href="/wiki/VistaPro" title="VistaPro">VistaPro</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Found objects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burning_Ship_fractal" title="Burning Ship fractal">Burning Ship fractal</a></li>
+<li><a href="/wiki/Jerusalem_cube" class="mw-redirect" title="Jerusalem cube">Jerusalem cube</a></li>
+<li><a href="/wiki/Julia_set" title="Julia set">Julia set</a></li>
+<li><a href="/wiki/Mandelbox" title="Mandelbox">Mandelbox</a></li>
+<li><a href="/wiki/Mandelbrot_set" title="Mandelbrot set">Mandelbrot set</a></li>
+<li><a href="/wiki/Mandelbulb" title="Mandelbulb">Mandelbulb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">Computer-generated imagery</a></li>
+<li><a href="/wiki/Fractal_compression" title="Fractal compression">Fractal compression</a></li>
+<li><a href="/wiki/Fractal_landscape" title="Fractal landscape">Fractal landscape</a></li>
+<li><a href="/wiki/Fractal_flame" title="Fractal flame">Fractal flame</a></li>
+<li><a href="/wiki/Iterated_function_system" title="Iterated function system">Iterated function system</a></li>
+<li><a href="/wiki/Mathematical_visualization" title="Mathematical visualization">Mathematical visualization</a></li>
+<li><a href="/wiki/Orbit_trap" title="Orbit trap">Orbit trap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Category:Fractal_software" title="Category:Fractal software">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20180213203820
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.965 seconds
+Preprocessor visited node count: 1909/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72697/2097152 bytes
+Template argument size: 2949/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 3/500
+Lua time usage: 0.097/10.000 seconds
+Lua memory usage: 3.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  440.258      1 -total
+ 22.51%   99.108      2 Template:Infobox
+ 20.51%   90.276      1 Template:Infobox_software
+ 14.55%   64.055      1 Template:Reflist
+  9.50%   41.844      1 Template:Who
+  9.15%   40.262      2 Template:Cite_web
+  8.44%   37.174      1 Template:Fix
+  7.80%   34.351      1 Template:Infobox_software/simple
+  7.56%   33.262      1 Template:Commons_category
+  7.29%   32.107      2 Template:Sister_project
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:79099-0!canonical!math=5 and timestamp 20180213203819 and revision id 824323589
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Maple_(software)&amp;oldid=824323589">https://en.wikipedia.org/w/index.php?title=Maple_(software)&amp;oldid=824323589</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:C_software" title="Category:C software">C software</a></li><li><a href="/wiki/Category:Computational_notebook" title="Category:Computational notebook">Computational notebook</a></li><li><a href="/wiki/Category:Computer_algebra_system_software_for_Linux" title="Category:Computer algebra system software for Linux">Computer algebra system software for Linux</a></li><li><a href="/wiki/Category:Computer_algebra_system_software_for_MacOS" title="Category:Computer algebra system software for MacOS">Computer algebra system software for MacOS</a></li><li><a href="/wiki/Category:Computer_algebra_system_software_for_Windows" title="Category:Computer algebra system software for Windows">Computer algebra system software for Windows</a></li><li><a href="/wiki/Category:Cross-platform_software" title="Category:Cross-platform software">Cross-platform software</a></li><li><a href="/wiki/Category:Data_visualization_software" title="Category:Data visualization software">Data visualization software</a></li><li><a href="/wiki/Category:Data-centric_programming_languages" title="Category:Data-centric programming languages">Data-centric programming languages</a></li><li><a href="/wiki/Category:Econometrics_software" title="Category:Econometrics software">Econometrics software</a></li><li><a href="/wiki/Category:Functional_languages" title="Category:Functional languages">Functional languages</a></li><li><a href="/wiki/Category:IRIX_software" title="Category:IRIX software">IRIX software</a></li><li><a href="/wiki/Category:Linear_algebra" title="Category:Linear algebra">Linear algebra</a></li><li><a href="/wiki/Category:Maplesoft" title="Category:Maplesoft">Maplesoft</a></li><li><a href="/wiki/Category:Mathematical_optimization_software" title="Category:Mathematical optimization software">Mathematical optimization software</a></li><li><a href="/wiki/Category:Mathematical_software" title="Category:Mathematical software">Mathematical software</a></li><li><a href="/wiki/Category:Numerical_analysis_software_for_Linux" title="Category:Numerical analysis software for Linux">Numerical analysis software for Linux</a></li><li><a href="/wiki/Category:Numerical_analysis_software_for_MacOS" title="Category:Numerical analysis software for MacOS">Numerical analysis software for MacOS</a></li><li><a href="/wiki/Category:Numerical_analysis_software_for_Windows" title="Category:Numerical analysis software for Windows">Numerical analysis software for Windows</a></li><li><a href="/wiki/Category:Numerical_programming_languages" title="Category:Numerical programming languages">Numerical programming languages</a></li><li><a href="/wiki/Category:Numerical_software" title="Category:Numerical software">Numerical software</a></li><li><a href="/wiki/Category:Parallel_computing" title="Category:Parallel computing">Parallel computing</a></li><li><a href="/wiki/Category:Physics_software" title="Category:Physics software">Physics software</a></li><li><a href="/wiki/Category:Plotting_software" title="Category:Plotting software">Plotting software</a></li><li><a href="/wiki/Category:Products_introduced_in_1982" title="Category:Products introduced in 1982">Products introduced in 1982</a></li><li><a href="/wiki/Category:Proprietary_commercial_software_for_Linux" title="Category:Proprietary commercial software for Linux">Proprietary commercial software for Linux</a></li><li><a href="/wiki/Category:Proprietary_cross-platform_software" title="Category:Proprietary cross-platform software">Proprietary cross-platform software</a></li><li><a href="/wiki/Category:Regression_and_curve_fitting_software" title="Category:Regression and curve fitting software">Regression and curve fitting software</a></li><li><a href="/wiki/Category:Software_modeling_language" title="Category:Software modeling language">Software modeling language</a></li><li><a href="/wiki/Category:Statistical_programming_languages" title="Category:Statistical programming languages">Statistical programming languages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_August_2011" title="Category:Articles with specifically marked weasel-worded phrases from August 2011">Articles with specifically marked weasel-worded phrases from August 2011</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">Pages using div col with deprecated parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Maple+%28software%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maple+%28software%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Maple_(software)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Maple_(software)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Maple_(software)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Maple_(software)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Maple_(software)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Maple_(software)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Maple_(software)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Maple_(software)&amp;oldid=824323589" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Maple_(software)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q139380" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Maple_%28software%29&amp;id=824323589" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Maple+%28software%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Maple+%28software%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Maple_(software)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Maple_(software)" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Maple" hreflang="en">Wikibooks</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Maple" title="Maple – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Maple" title="Maple – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Maple_(Software)" title="Maple (Software) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Maple_(software)" title="Maple (software) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%BE%D9%84" title="میپل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Maple" title="Maple – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%ED%94%8C_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)" title="메이플 (소프트웨어) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Maple_(perangkat_lunak)" title="Maple (perangkat lunak) – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Maple" title="Maple – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Maple" title="Maple – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Maple" title="Maple – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Maple_(szoftver)" title="Maple (szoftver) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Maple" title="Maple – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Maple" title="Maple – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Maple" title="Maple – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Maple" title="Maple – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Maple" title="Maple – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Maple_(CAS)" title="Maple (CAS) – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Maple" title="Maple – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Maple_(%D1%81%D0%BE%D1%84%D1%82%D0%B2%D0%B5%D1%80)" title="Maple (софтвер) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Maple" title="Maple – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Maple" title="Maple – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Maple" title="Maple – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Maple" title="Maple – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Maple" title="Maple – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q139380#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 February 2018, at 17:44.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Maple_(software)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.965","ppvisitednodes":{"value":1909,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72697,"limit":2097152},"templateargumentsize":{"value":2949,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  440.258      1 -total"," 22.51%   99.108      2 Template:Infobox"," 20.51%   90.276      1 Template:Infobox_software"," 14.55%   64.055      1 Template:Reflist","  9.50%   41.844      1 Template:Who","  9.15%   40.262      2 Template:Cite_web","  8.44%   37.174      1 Template:Fix","  7.80%   34.351      1 Template:Infobox_software/simple","  7.56%   33.262      1 Template:Commons_category","  7.29%   32.107      2 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":3563236,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20180213203820","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1320"});});</script>
+	</body>
+</html>

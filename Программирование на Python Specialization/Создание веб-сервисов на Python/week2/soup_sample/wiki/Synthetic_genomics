@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Synthetic genomics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Synthetic_genomics","wgTitle":"Synthetic genomics","wgCurRevisionId":812338167,"wgRevisionId":812338167,"wgArticleId":11330015,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from May 2016","All articles to be expanded","Articles using small message boxes","Emerging technologies","Genetics","Genetic engineering","Synthetic biology","Algae biomass producers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Synthetic_genomics","wgRelevantArticleId":11330015,"wgRequestId":"Wod@nwpAICIAAHpafmsAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1405450","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Synthetic_genomics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Synthetic_genomics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Synthetic_genomics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Synthetic_genomics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Synthetic_genomics rootpage-Synthetic_genomics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Synthetic genomics</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For company, see <a href="/wiki/Synthetic_Genomics_(company)" title="Synthetic Genomics (company)">Synthetic Genomics (company)</a>.</div>
+<p><b>Synthetic genomics</b> is a nascent field of <a href="/wiki/Synthetic_biology" title="Synthetic biology">synthetic biology</a> that uses aspects of <a href="/wiki/Genetic_modification" class="mw-redirect" title="Genetic modification">genetic modification</a> on pre-existing life forms, or <a href="/wiki/Artificial_gene_synthesis" title="Artificial gene synthesis">artificial gene synthesis</a> to create new DNA or entire lifeforms.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Recombinant_DNA_technology"><span class="tocnumber">3</span> <span class="toctext">Recombinant DNA technology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Polymerase_cycling_assembly"><span class="tocnumber">3.1</span> <span class="toctext">Polymerase cycling assembly</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gibson_assembly_method"><span class="tocnumber">3.2</span> <span class="toctext">Gibson assembly method</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Transformation-associated_recombination"><span class="tocnumber">3.3</span> <span class="toctext">Transformation-associated recombination</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Unnatural_base_pair_(UBP)"><span class="tocnumber">4</span> <span class="toctext">Unnatural base pair (UBP)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Synthetic genomics is unlike <a href="/wiki/Genetic_engineering" title="Genetic engineering">genetic modification</a> in the sense that it does not use naturally occurring genes in its life forms. It may make use of <a href="/wiki/Nucleic_acid_analogues" class="mw-redirect" title="Nucleic acid analogues">custom designed base pair series</a>, though in a more expanded and presently unrealized sense synthetic genomics could utilize genetic codes that are not composed of the <a href="/wiki/Base_pair" title="Base pair">two base pairs</a> of <a href="/wiki/DNA" title="DNA">DNA</a> that are currently used by life.</p>
+<p>The development of synthetic genomics is related to certain recent technical abilities and technologies in the field of genetics. The ability to construct long <a href="/wiki/Base_pair" title="Base pair">base pair</a> chains cheaply and accurately on a large scale has allowed researchers to perform experiments on genomes that do not exist in nature. Coupled with the developments in <a href="/wiki/Protein_folding" title="Protein folding">protein folding</a> models and decreasing computational costs the field synthetic genomics is beginning to enter a productive stage of vitality.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(May 2016)</i></small></div>
+</td>
+</tr>
+</table>
+<p>Researchers were able to create a synthetic organism for the first time in 2010.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This breakthrough was undertaken by <a href="/wiki/Synthetic_Genomics" class="mw-redirect" title="Synthetic Genomics">Synthetic Genomics, Inc.</a>, which continues to specialize in the research and commercialization of custom designed genomes.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It was accomplished by synthesizing a 600 kbp genome (resembling that of <i><a href="/wiki/Mycoplasma_genitalium" title="Mycoplasma genitalium">Mycoplasma genitalium</a></i>, save the insertion of a few watermarks) via the <a href="/wiki/Gibson_assembly" title="Gibson assembly">Gibson Assembly</a> method and Transformation Associated Recombination.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Recombinant_DNA_technology">Recombinant DNA technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=3" title="Edit section: Recombinant DNA technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Soon after the discovery of <a href="/wiki/Restriction_enzyme" title="Restriction enzyme">restriction endonucleases</a> and <a href="/wiki/Ligase" title="Ligase">ligases</a>, the field of genetics began using these molecular tools to assemble artificial sequences from smaller fragments of synthetic or naturally-occurring DNA. The advantage in using the recombinatory approach as opposed to continual DNA synthesis stems from the inverse relationship that exists between synthetic DNA length and percent purity of that synthetic length. In other words, as you synthesize longer sequences, the number of error-containing clones increases due to the inherent error rates of current technologies.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Although recombinant DNA technology is more commonly used in the construction of <a href="/wiki/Fusion_proteins" class="mw-redirect" title="Fusion proteins">fusion proteins</a> and <a href="/wiki/Plasmid" title="Plasmid">plasmids</a>, several techniques with larger capacities have emerged, allowing for the construction of entire genomes.<sup id="cite_ref-:0_5-0" class="reference"><a href="#cite_note-:0-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Polymerase_cycling_assembly">Polymerase cycling assembly</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=4" title="Edit section: Polymerase cycling assembly">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:PCA_illustrated_by_Nivin_Nasri_(edited).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PCA_illustrated_by_Nivin_Nasri_%28edited%29.png/220px-PCA_illustrated_by_Nivin_Nasri_%28edited%29.png" width="220" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PCA_illustrated_by_Nivin_Nasri_%28edited%29.png/330px-PCA_illustrated_by_Nivin_Nasri_%28edited%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PCA_illustrated_by_Nivin_Nasri_%28edited%29.png/440px-PCA_illustrated_by_Nivin_Nasri_%28edited%29.png 2x" data-file-width="980" data-file-height="709" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PCA_illustrated_by_Nivin_Nasri_(edited).png" class="internal" title="Enlarge"></a></div>
+Polymerase Cycling Assembly. Blue arrows represent oligonucleotides 40 to 60 bp with overlapping regions of about 20 bp. The cycle is repeated until the final genome is constructed.</div>
+</div>
+</div>
+<p><a href="/wiki/Polymerase_cycling_assembly" title="Polymerase cycling assembly">Polymerase cycling assembly</a> (PCA) uses a series of oligonucleotides (or oligos), approximately 40 to 60 nucleotides long, that altogether constitute both strands of the DNA being synthesized. These oligos are designed such that a single oligo from one strand contains a length of approximately 20 nucleotides at each end that is complementary to sequences of two different oligos on the opposite strand, thereby creating regions of overlap. The entire set is processed through cycles of: (a) hybridization at 60&#160;°C; (b) elongation via <a href="/wiki/Taq_polymerase" title="Taq polymerase">Taq polymerase</a> and a standard ligase; and (c) denaturation at 95&#160;°C, forming progressively longer contiguous strands and ultimately resulting in the final genome.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> PCA was used to generate the first synthetic genome in history, that of the <a href="/wiki/Phi_X_174" title="Phi X 174">Phi X 174 virus</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Gibson_assembly_method">Gibson assembly method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=5" title="Edit section: Gibson assembly method">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:GAM_illustrated_by_Nivin_Nasri.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GAM_illustrated_by_Nivin_Nasri.png/220px-GAM_illustrated_by_Nivin_Nasri.png" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GAM_illustrated_by_Nivin_Nasri.png/330px-GAM_illustrated_by_Nivin_Nasri.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GAM_illustrated_by_Nivin_Nasri.png/440px-GAM_illustrated_by_Nivin_Nasri.png 2x" data-file-width="1030" data-file-height="767" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GAM_illustrated_by_Nivin_Nasri.png" class="internal" title="Enlarge"></a></div>
+Gibson assembly method. The blue arrows represent DNA cassettes, which could be any size, 6 kb each for example. The orange segments represent areas of identical DNA sequences. This process can be carried out with multiple initial cassettes.</div>
+</div>
+</div>
+<p>The <a href="/wiki/Gibson_assembly" title="Gibson assembly">Gibson assembly method</a>, designed by Daniel Gibson during his time at the <a href="/wiki/J._Craig_Venter_Institute" title="J. Craig Venter Institute">J. Craig Venter Institute</a>, requires a set of double-stranded DNA cassettes that constitute the entire genome being synthesized. Note that cassettes differ from contigs by definition, in that these sequences contain regions of homology to other cassettes for the purposes of <a href="/wiki/Homologous_recombination" title="Homologous recombination">recombination</a>. In contrast to Polymerase Cycling Assembly, Gibson Assembly is a single-step, isothermal reaction with larger sequence-length capacity; ergo, it is used in place of Polymerase Cycling Assembly for genomes larger than 6 kb.</p>
+<p>A <a href="/w/index.php?title=T5_exonuclease&amp;action=edit&amp;redlink=1" class="new" title="T5 exonuclease (page does not exist)">T5 exonuclease</a> performs a chew-back reaction at the terminal segments, working in the 5' to 3' direction, thereby producing complimentary overhangs. The overhangs hybridize to each other, a <a href="/w/index.php?title=Phusion_DNA_polymerase&amp;action=edit&amp;redlink=1" class="new" title="Phusion DNA polymerase (page does not exist)">Phusion DNA polymerase</a> fills in any missing nucleotides and the nicks are sealed with a ligase. However, the genomes capable of being synthesized using this method alone is limited because as DNA cassettes increase in length, they require propagation in vitro in order to continue hybridizing; accordingly, Gibson assembly is often used in conjunction with <a href="/w/index.php?title=Transformation_associated_recombination&amp;action=edit&amp;redlink=1" class="new" title="Transformation associated recombination (page does not exist)">transformation-associated recombination</a> (see below) to synthesize genomes several hundred kilobases in size.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Transformation-associated_recombination">Transformation-associated recombination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=6" title="Edit section: Transformation-associated recombination">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:GRC_illustrated_by_Nivin_Nasri.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/GRC_illustrated_by_Nivin_Nasri.png/220px-GRC_illustrated_by_Nivin_Nasri.png" width="220" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/GRC_illustrated_by_Nivin_Nasri.png/330px-GRC_illustrated_by_Nivin_Nasri.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/GRC_illustrated_by_Nivin_Nasri.png/440px-GRC_illustrated_by_Nivin_Nasri.png 2x" data-file-width="805" data-file-height="382" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GRC_illustrated_by_Nivin_Nasri.png" class="internal" title="Enlarge"></a></div>
+Gap Repair Cloning. The blue arrows represent DNA contigs. Segments of the same colour represent complimentary or identical sequences. Specialized primers with extensions are used in a polymerase chain reaction to generate regions of homology at the terminal ends of the DNA contigs.</div>
+</div>
+</div>
+<p>The goal of <a href="/w/index.php?title=Transformation_associated_recombination&amp;action=edit&amp;redlink=1" class="new" title="Transformation associated recombination (page does not exist)">transformation-associated recombination</a> (TAR) technology in synthetic genomics is to combine DNA contigs by means of <a href="/wiki/Homologous_recombination" title="Homologous recombination">homologous recombination</a> performed by the <a href="/wiki/Yeast_artificial_chromosome" title="Yeast artificial chromosome">yeast artificial chromosome</a> (YAC). Of importance is the CEN element within the YAC vector, which corresponds to the yeast centromere. This sequence gives the vector the ability to behave in a chromosomal manner, thereby allowing it to perform homologous recombination.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:TAR_illustrated_by_Nivin_Nasri_(edited).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TAR_illustrated_by_Nivin_Nasri_%28edited%29.png/220px-TAR_illustrated_by_Nivin_Nasri_%28edited%29.png" width="220" height="221" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TAR_illustrated_by_Nivin_Nasri_%28edited%29.png/330px-TAR_illustrated_by_Nivin_Nasri_%28edited%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TAR_illustrated_by_Nivin_Nasri_%28edited%29.png/440px-TAR_illustrated_by_Nivin_Nasri_%28edited%29.png 2x" data-file-width="671" data-file-height="675" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:TAR_illustrated_by_Nivin_Nasri_(edited).png" class="internal" title="Enlarge"></a></div>
+Transformation-Associated Recombination. Cross over events occur between regions of homology across the cassettes and YAC vector, thereby connecting the smaller DNA sequences into one larger contig.</div>
+</div>
+</div>
+<p>First, <a href="/w/index.php?title=Gap_repair_cloning&amp;action=edit&amp;redlink=1" class="new" title="Gap repair cloning (page does not exist)">gap repair cloning</a> is performed to generate regions of homology flanking the DNA contigs. Gap Repair Cloning is a particular form of the <a href="/wiki/Polymerase_chain_reaction" title="Polymerase chain reaction">polymerase chain reaction</a> in which specialized <a href="/wiki/Primer_(molecular_biology)" title="Primer (molecular biology)">primers</a> with extensions beyond the sequence of the DNA target are utilized.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Then, the DNA cassettes are exposed to the YAC vector, which drives the process of homologous recombination, thereby connecting the DNA cassettes. Polymerase Cycling Assembly and TAR technology were used together to construct the 600 kb <i><a href="/wiki/Mycoplasma_genitalium" title="Mycoplasma genitalium">Mycoplasma genitalium</a></i> genome in 2008, the first synthetic organism ever created.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Similar steps were taken in synthesizing the larger <i><a href="/wiki/Mycoplasma_mycoides" title="Mycoplasma mycoides">Mycoplasma mycoides</a></i> genome a few years later.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span id="Unnatural_base_pair_.28UBP.29"></span><span class="mw-headline" id="Unnatural_base_pair_(UBP)">Unnatural base pair (UBP)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=7" title="Edit section: Unnatural base pair (UBP)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Base_pair#Unnatural_base_pair_(UBP)" title="Base pair">Unnatural base pair</a></div>
+<p>An unnatural base pair (UBP) is a designed subunit (or <a href="/wiki/Nucleobase" title="Nucleobase">nucleobase</a>) of <a href="/wiki/DNA" title="DNA">DNA</a> which is created in a laboratory and does not occur in nature. In 2012, a group of American scientists led by Floyd Romesberg, a chemical biologist at the <a href="/wiki/Scripps_Research_Institute" title="Scripps Research Institute">Scripps Research Institute</a> in San Diego, California, published that his team designed an unnatural base pair (UBP).<sup id="cite_ref-Malyshev_PNAS_20120724_13-0" class="reference"><a href="#cite_note-Malyshev_PNAS_20120724-13">[13]</a></sup> The two new artificial nucleotides or <i>Unnatural Base Pair</i> (UBP) were named <b><a href="/wiki/D5SICS" title="D5SICS">d5SICS</a></b> and <b><a href="/wiki/DNaM" title="DNaM">dNaM</a></b>. More technically, these artificial <a href="/wiki/Nucleotides" class="mw-redirect" title="Nucleotides">nucleotides</a> bearing hydrophobic <a href="/wiki/Nucleobase" title="Nucleobase">nucleobases</a>, feature two fused <a href="/wiki/Aromatic_hydrocarbon" title="Aromatic hydrocarbon">aromatic rings</a> that form a (d5SICS–dNaM) complex or base pair in DNA.<sup id="cite_ref-NATJ-20140507_14-0" class="reference"><a href="#cite_note-NATJ-20140507-14">[14]</a></sup><sup id="cite_ref-Ewan_15-0" class="reference"><a href="#cite_note-Ewan-15">[15]</a></sup> In 2014 the same team from the Scripps Research Institute reported that they synthesized a stretch of circular DNA known as a <a href="/wiki/Plasmid" title="Plasmid">plasmid</a> containing natural T-A and C-G base pairs along with the best-performing UBP Romesberg's laboratory had designed, and inserted it into cells of the common bacterium <i>E. coli</i> that successfully replicated the unnatural base pairs through multiple generations.<sup id="cite_ref-Fikes_16-0" class="reference"><a href="#cite_note-Fikes-16">[16]</a></sup> This is the first known example of a living organism passing along an expanded genetic code to subsequent generations.<sup id="cite_ref-NATJ-20140507_14-1" class="reference"><a href="#cite_note-NATJ-20140507-14">[14]</a></sup><sup id="cite_ref-Sample_17-0" class="reference"><a href="#cite_note-Sample-17">[17]</a></sup> This was in part achieved by the addition of a supportive algal gene that expresses a <a href="/wiki/Nucleoside_triphosphate" title="Nucleoside triphosphate">nucleotide triphosphate</a> transporter which efficiently imports the triphosphates of both d5SICSTP and dNaMTP into <i>E. coli</i> bacteria.<sup id="cite_ref-NATJ-20140507_14-2" class="reference"><a href="#cite_note-NATJ-20140507-14">[14]</a></sup> Then, the natural bacterial replication pathways use them to accurately replicate the <a href="/wiki/Plasmid" title="Plasmid">plasmid</a> containing d5SICS–dNaM.</p>
+<p>The successful incorporation of a third base pair is a significant breakthrough toward the goal of greatly expanding the number of <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a> which can be encoded by DNA, from the existing 20 amino acids to a theoretically possible 172, thereby expanding the potential for living organisms to produce novel <a href="/wiki/Protein" title="Protein">proteins</a>.<sup id="cite_ref-Fikes_16-1" class="reference"><a href="#cite_note-Fikes-16">[16]</a></sup> The artificial strings of DNA do not encode for anything yet, but scientists speculate they could be designed to manufacture new proteins which could have industrial or pharmaceutical uses.<sup id="cite_ref-Pollack_18-0" class="reference"><a href="#cite_note-Pollack-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Artificial_gene_synthesis" title="Artificial gene synthesis">Artificial gene synthesis</a></li>
+<li><a href="/wiki/Bioroid" class="mw-redirect" title="Bioroid">Bioroid</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a></li>
+<li><a href="/wiki/Synthetic_biological_circuit" title="Synthetic biological circuit">Synthetic biological circuit</a></li>
+<li><a href="/wiki/Synthetic_genomes" title="Synthetic genomes">Synthetic genomes</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Hotz, Robert Lee. <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052748703559004575256470152341984">"Scientists Create Synthetic Organism"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Scientists+Create+Synthetic+Organism&amp;rft.issn=0099-9660&amp;rft.aulast=Hotz&amp;rft.aufirst=Robert+Lee&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424052748703559004575256470152341984&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.syntheticgenomics.com/media.html#2005">"Synthetic Genomics, Inc. - Our Business"</a>. <i>www.syntheticgenomics.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.syntheticgenomics.com&amp;rft.atitle=Synthetic+Genomics%2C+Inc.+-+Our+Business&amp;rft_id=http%3A%2F%2Fwww.syntheticgenomics.com%2Fmedia.html%232005&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Montague, Michael G; Lartigue, Carole; Vashee, Sanjay (2012-01-01). <a rel="nofollow" class="external text" href="http://linkinghub.elsevier.com/retrieve/pii/S0958166912000298">"Synthetic genomics: potential and limitations"</a>. <i>Current Opinion in Biotechnology</i>. <b>23</b> (5): 659–665. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.copbio.2012.01.014">10.1016/j.copbio.2012.01.014</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Current+Opinion+in+Biotechnology&amp;rft.atitle=Synthetic+genomics%3A+potential+and+limitations&amp;rft.volume=23&amp;rft.issue=5&amp;rft.pages=659-665&amp;rft.date=2012-01-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.copbio.2012.01.014&amp;rft.aulast=Montague&amp;rft.aufirst=Michael+G&amp;rft.au=Lartigue%2C+Carole&amp;rft.au=Vashee%2C+Sanjay&amp;rft_id=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0958166912000298&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Montague, Michael G; Lartigue, Carole; Vashee, Sanjay. <a rel="nofollow" class="external text" href="http://linkinghub.elsevier.com/retrieve/pii/S0958166912000298">"Synthetic genomics: potential and limitations"</a>. <i>Current Opinion in Biotechnology</i>. <b>23</b> (5): 659–665. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.copbio.2012.01.014">10.1016/j.copbio.2012.01.014</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Current+Opinion+in+Biotechnology&amp;rft.atitle=Synthetic+genomics%3A+potential+and+limitations&amp;rft.volume=23&amp;rft.issue=5&amp;rft.pages=659-665&amp;rft_id=info%3Adoi%2F10.1016%2Fj.copbio.2012.01.014&amp;rft.aulast=Montague&amp;rft.aufirst=Michael+G&amp;rft.au=Lartigue%2C+Carole&amp;rft.au=Vashee%2C+Sanjay&amp;rft_id=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0958166912000298&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gibson, Daniel (2011). <i>Synthetic Biology, Part B: Computer Aided Design and DNA Assembly; Chapter Fifteen - Enzymatic Assembly of Overlapping DNA Fragments</i>. Academic Press. pp.&#160;349–361. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-385120-8" title="Special:BookSources/978-0-12-385120-8">978-0-12-385120-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Synthetic+Biology%2C+Part+B%3A+Computer+Aided+Design+and+DNA+Assembly%3B+Chapter+Fifteen+-+Enzymatic+Assembly+of+Overlapping+DNA+Fragments&amp;rft.pages=349-361&amp;rft.pub=Academic+Press&amp;rft.date=2011&amp;rft.isbn=978-0-12-385120-8&amp;rft.aulast=Gibson&amp;rft.aufirst=Daniel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stemmer, Willem P. C.; Crameri, Andreas; Ha, Kim D.; Brennan, Thomas M.; Heyneker, Herbert L. (1995-10-16). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/0378111995005114">"Single-step assembly of a gene and entire plasmid from large numbers of oligodeoxyribonucleotides"</a>. <i>Gene</i>. <b>164</b> (1): 49–53. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0378-1119%2895%2900511-4">10.1016/0378-1119(95)00511-4</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7590320">7590320</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Gene&amp;rft.atitle=Single-step+assembly+of+a+gene+and+entire+plasmid+from+large+numbers+of+oligodeoxyribonucleotides&amp;rft.volume=164&amp;rft.issue=1&amp;rft.pages=49-53&amp;rft.date=1995-10-16&amp;rft_id=info%3Adoi%2F10.1016%2F0378-1119%2895%2900511-4&amp;rft_id=info%3Apmid%2F7590320&amp;rft.aulast=Stemmer&amp;rft.aufirst=Willem+P.+C.&amp;rft.au=Crameri%2C+Andreas&amp;rft.au=Ha%2C+Kim+D.&amp;rft.au=Brennan%2C+Thomas+M.&amp;rft.au=Heyneker%2C+Herbert+L.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2F0378111995005114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Smith, Hamilton O.; Hutchison, Clyde A.; Pfannkoch, Cynthia; Venter, J. Craig (2003-12-23). <a rel="nofollow" class="external text" href="http://www.pnas.org/content/100/26/15440">"Generating a synthetic genome by whole genome assembly: φX174 bacteriophage from synthetic oligonucleotides"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>100</b> (26): 15440–15445. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.2237126100">10.1073/pnas.2237126100</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0027-8424">0027-8424</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC307586">307586</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14657399">14657399</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Generating+a+synthetic+genome+by+whole+genome+assembly%3A+%CF%86X174+bacteriophage+from+synthetic+oligonucleotides&amp;rft.volume=100&amp;rft.issue=26&amp;rft.pages=15440-15445&amp;rft.date=2003-12-23&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC307586&amp;rft.issn=0027-8424&amp;rft_id=info%3Apmid%2F14657399&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.2237126100&amp;rft.aulast=Smith&amp;rft.aufirst=Hamilton+O.&amp;rft.au=Hutchison%2C+Clyde+A.&amp;rft.au=Pfannkoch%2C+Cynthia&amp;rft.au=Venter%2C+J.+Craig&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F100%2F26%2F15440&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gibson, Daniel G; Young, Lei; Chuang, Ray-Yuan; Venter, J Craig; Hutchison, Clyde A; Smith, Hamilton O (2009-04-12). <a rel="nofollow" class="external text" href="http://www.nature.com/doifinder/10.1038/nmeth.1318">"Enzymatic assembly of DNA molecules up to several hundred kilobases"</a>. <i>Nature Methods</i>. <b>6</b> (5): 343–345. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnmeth.1318">10.1038/nmeth.1318</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19363495">19363495</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Methods&amp;rft.atitle=Enzymatic+assembly+of+DNA+molecules+up+to+several+hundred+kilobases&amp;rft.volume=6&amp;rft.issue=5&amp;rft.pages=343-345&amp;rft.date=2009-04-12&amp;rft_id=info%3Adoi%2F10.1038%2Fnmeth.1318&amp;rft_id=info%3Apmid%2F19363495&amp;rft.aulast=Gibson&amp;rft.aufirst=Daniel+G&amp;rft.au=Young%2C+Lei&amp;rft.au=Chuang%2C+Ray-Yuan&amp;rft.au=Venter%2C+J+Craig&amp;rft.au=Hutchison%2C+Clyde+A&amp;rft.au=Smith%2C+Hamilton+O&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fdoifinder%2F10.1038%2Fnmeth.1318&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kouprina, Natalay; Larionov, Vladimir (2003-12-01). <a rel="nofollow" class="external text" href="http://femsre.oxfordjournals.org/content/27/5/629">"Exploiting the yeast Saccharomyces cerevisiae for the study of the organization and evolution of complex genomes"</a>. <i>FEMS Microbiology Reviews</i>. <b>27</b> (5): 629–649. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0168-6445%2803%2900070-6">10.1016/S0168-6445(03)00070-6</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1574-6976">1574-6976</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14638416">14638416</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FEMS+Microbiology+Reviews&amp;rft.atitle=Exploiting+the+yeast+Saccharomyces+cerevisiae+for+the+study+of+the+organization+and+evolution+of+complex+genomes&amp;rft.volume=27&amp;rft.issue=5&amp;rft.pages=629-649&amp;rft.date=2003-12-01&amp;rft.issn=1574-6976&amp;rft_id=info%3Apmid%2F14638416&amp;rft_id=info%3Adoi%2F10.1016%2FS0168-6445%2803%2900070-6&amp;rft.aulast=Kouprina&amp;rft.aufirst=Natalay&amp;rft.au=Larionov%2C+Vladimir&amp;rft_id=http%3A%2F%2Ffemsre.oxfordjournals.org%2Fcontent%2F27%2F5%2F629&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Marsischky, Gerald; LaBaer, Joshua (2004-10-15). <a rel="nofollow" class="external text" href="http://genome.cshlp.org/content/14/10b/2020">"Many Paths to Many Clones: A Comparative Look at High-Throughput Cloning Methods"</a>. <i>Genome Research</i>. <b>14</b> (10b): 2020–2028. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1101%2Fgr.2528804">10.1101/gr.2528804</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1088-9051">1088-9051</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15489321">15489321</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Genome+Research&amp;rft.atitle=Many+Paths+to+Many+Clones%3A+A+Comparative+Look+at+High-Throughput+Cloning+Methods&amp;rft.volume=14&amp;rft.issue=10b&amp;rft.pages=2020-2028&amp;rft.date=2004-10-15&amp;rft.issn=1088-9051&amp;rft_id=info%3Apmid%2F15489321&amp;rft_id=info%3Adoi%2F10.1101%2Fgr.2528804&amp;rft.aulast=Marsischky&amp;rft.aufirst=Gerald&amp;rft.au=LaBaer%2C+Joshua&amp;rft_id=http%3A%2F%2Fgenome.cshlp.org%2Fcontent%2F14%2F10b%2F2020&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gibson, Daniel G.; Benders, Gwynedd A.; Andrews-Pfannkoch, Cynthia; Denisova, Evgeniya A.; Baden-Tillson, Holly; Zaveri, Jayshree; Stockwell, Timothy B.; Brownley, Anushka; Thomas, David W. (2008-02-29). <a rel="nofollow" class="external text" href="http://www.sciencemag.org/content/319/5867/1215">"Complete Chemical Synthesis, Assembly, and Cloning of a Mycoplasma genitalium Genome"</a>. <i>Science</i>. <b>319</b> (5867): 1215–1220. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.1151721">10.1126/science.1151721</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0036-8075">0036-8075</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18218864">18218864</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Complete+Chemical+Synthesis%2C+Assembly%2C+and+Cloning+of+a+Mycoplasma+genitalium+Genome&amp;rft.volume=319&amp;rft.issue=5867&amp;rft.pages=1215-1220&amp;rft.date=2008-02-29&amp;rft.issn=0036-8075&amp;rft_id=info%3Apmid%2F18218864&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1151721&amp;rft.aulast=Gibson&amp;rft.aufirst=Daniel+G.&amp;rft.au=Benders%2C+Gwynedd+A.&amp;rft.au=Andrews-Pfannkoch%2C+Cynthia&amp;rft.au=Denisova%2C+Evgeniya+A.&amp;rft.au=Baden-Tillson%2C+Holly&amp;rft.au=Zaveri%2C+Jayshree&amp;rft.au=Stockwell%2C+Timothy+B.&amp;rft.au=Brownley%2C+Anushka&amp;rft.au=Thomas%2C+David+W.&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fcontent%2F319%2F5867%2F1215&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gibson, Daniel G.; Glass, John I.; Lartigue, Carole; Noskov, Vladimir N.; Chuang, Ray-Yuan; Algire, Mikkel A.; Benders, Gwynedd A.; Montague, Michael G.; Ma, Li (2010-07-02). <a rel="nofollow" class="external text" href="http://www.sciencemag.org/content/329/5987/52">"Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome"</a>. <i>Science</i>. <b>329</b> (5987): 52–56. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.1190719">10.1126/science.1190719</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0036-8075">0036-8075</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20488990">20488990</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Creation+of+a+Bacterial+Cell+Controlled+by+a+Chemically+Synthesized+Genome&amp;rft.volume=329&amp;rft.issue=5987&amp;rft.pages=52-56&amp;rft.date=2010-07-02&amp;rft.issn=0036-8075&amp;rft_id=info%3Apmid%2F20488990&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1190719&amp;rft.aulast=Gibson&amp;rft.aufirst=Daniel+G.&amp;rft.au=Glass%2C+John+I.&amp;rft.au=Lartigue%2C+Carole&amp;rft.au=Noskov%2C+Vladimir+N.&amp;rft.au=Chuang%2C+Ray-Yuan&amp;rft.au=Algire%2C+Mikkel+A.&amp;rft.au=Benders%2C+Gwynedd+A.&amp;rft.au=Montague%2C+Michael+G.&amp;rft.au=Ma%2C+Li&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fcontent%2F329%2F5987%2F52&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Malyshev_PNAS_20120724-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Malyshev_PNAS_20120724_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Malyshev, Denis A.; Dhami, Kirandeep; Quach, Henry T.; Lavergne, Thomas; Ordoukhanian, Phillip (24 July 2012). <a rel="nofollow" class="external text" href="http://www.pnas.org/content/109/30/12005">"Efficient and sequence-independent replication of DNA containing a third base pair establishes a functional six-letter genetic alphabet"</a>. <i>Proceedings of the National Academy of Sciences of the United States of America</i>. <b>109</b> (30): 12005–12010. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012PNAS..10912005M">2012PNAS..10912005M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.1205176109">10.1073/pnas.1205176109</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3409741">3409741</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22773812">22773812</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America&amp;rft.atitle=Efficient+and+sequence-independent+replication+of+DNA+containing+a+third+base+pair+establishes+a+functional+six-letter+genetic+alphabet&amp;rft.volume=109&amp;rft.issue=30&amp;rft.pages=12005-12010&amp;rft.date=2012-07-24&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3409741&amp;rft_id=info%3Apmid%2F22773812&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1205176109&amp;rft_id=info%3Abibcode%2F2012PNAS..10912005M&amp;rft.aulast=Malyshev&amp;rft.aufirst=Denis+A.&amp;rft.au=Dhami%2C+Kirandeep&amp;rft.au=Quach%2C+Henry+T.&amp;rft.au=Lavergne%2C+Thomas&amp;rft.au=Ordoukhanian%2C+Phillip&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F109%2F30%2F12005&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NATJ-20140507-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-NATJ-20140507_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NATJ-20140507_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NATJ-20140507_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Malyshev, Denis A.; Dhami, Kirandeep; Lavergne, Thomas; Chen, Tingjian; Dai, Nan; Foster, Jeremy M.; Corrêa, Ivan R.; Romesberg, Floyd E. (May 7, 2014). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13314.html">"A semi-synthetic organism with an expanded genetic alphabet"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>509</b>: 385–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnature13314">10.1038/nature13314</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4058825">4058825</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24805238">24805238</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=A+semi-synthetic+organism+with+an+expanded+genetic+alphabet&amp;rft.volume=509&amp;rft.pages=385-8&amp;rft.date=2014-05-07&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4058825&amp;rft_id=info%3Apmid%2F24805238&amp;rft_id=info%3Adoi%2F10.1038%2Fnature13314&amp;rft.aulast=Malyshev&amp;rft.aufirst=Denis+A.&amp;rft.au=Dhami%2C+Kirandeep&amp;rft.au=Lavergne%2C+Thomas&amp;rft.au=Chen%2C+Tingjian&amp;rft.au=Dai%2C+Nan&amp;rft.au=Foster%2C+Jeremy+M.&amp;rft.au=Corr%C3%AAa%2C+Ivan+R.&amp;rft.au=Romesberg%2C+Floyd+E.&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fvaop%2Fncurrent%2Ffull%2Fnature13314.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ewan-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ewan_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Callaway, Ewan (May 7, 2014). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2014/05/07/living-organism-artificial-dna_n_5283095.html">"Scientists Create First Living Organism With 'Artificial' DNA"</a>. <i>Nature News</i>. Huffington Post<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+News&amp;rft.atitle=Scientists+Create+First+Living+Organism+With+%27Artificial%27+DNA&amp;rft.date=2014-05-07&amp;rft.aulast=Callaway&amp;rft.aufirst=Ewan&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2F2014%2F05%2F07%2Fliving-organism-artificial-dna_n_5283095.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fikes-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fikes_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fikes_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Fikes, Bradley J. (May 8, 2014). <a rel="nofollow" class="external text" href="http://www.utsandiego.com/news/2014/may/08/tp-life-engineered-with-expanded-genetic-code/">"Life engineered with expanded genetic code"</a>. <i>San Diego Union Tribune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=San+Diego+Union+Tribune&amp;rft.atitle=Life+engineered+with+expanded+genetic+code&amp;rft.date=2014-05-08&amp;rft.aulast=Fikes&amp;rft.aufirst=Bradley+J.&amp;rft_id=http%3A%2F%2Fwww.utsandiego.com%2Fnews%2F2014%2Fmay%2F08%2Ftp-life-engineered-with-expanded-genetic-code%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sample-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sample_17-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Sample, Ian (May 7, 2014). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2014/may/07/living-organism-pass-down-artificial-dna-us-scientists">"First life forms to pass on artificial DNA engineered by US scientists"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=First+life+forms+to+pass+on+artificial+DNA+engineered+by+US+scientists&amp;rft.date=2014-05-07&amp;rft.aulast=Sample&amp;rft.aufirst=Ian&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2014%2Fmay%2F07%2Fliving-organism-pass-down-artificial-dna-us-scientists&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pollack-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pollack_18-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Pollack, Andrew (May 7, 2014). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/05/08/business/researchers-report-breakthrough-in-creating-artificial-genetic-code.html?hpw&amp;rref=business&amp;_r=0">"Scientists Add Letters to DNA's Alphabet, Raising Hope and Fear"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Scientists+Add+Letters+to+DNA%E2%80%99s+Alphabet%2C+Raising+Hope+and+Fear&amp;rft.date=2014-05-07&amp;rft.aulast=Pollack&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F08%2Fbusiness%2Fresearchers-report-breakthrough-in-creating-artificial-genetic-code.html%3Fhpw%26rref%3Dbusiness%26_r%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynthetic+genomics" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.science.doe.gov/ober/berac/SynBio.pdf">Synthetic Genomes: Technologies and Impact</a> - A 2004 study completed for the DOE on the subject.</li>
+<li><a rel="nofollow" class="external text" href="https://purl.fdlp.gov/GPO/gpo34915">Effects of Developments in Synthetic Genomics: Hearing before the Committee on Energy and Commerce, House of Representatives, One Hundred Eleventh Congress, Second Session, May 27, 2010</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Emerging_technologies" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Emerging_technologies" title="Template:Emerging technologies"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Emerging_technologies" title="Template talk:Emerging technologies"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Emerging_technologies&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Emerging_technologies" style="font-size:114%;margin:0 4em"><a href="/wiki/Emerging_technologies" title="Emerging technologies">Emerging technologies</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agricultural_robot" title="Agricultural robot">Agricultural robot</a></li>
+<li><a href="/wiki/Closed_ecological_system" title="Closed ecological system">Closed ecological systems</a></li>
+<li><a href="/wiki/Cultured_meat" title="Cultured meat">Cultured meat</a></li>
+<li><a href="/wiki/Genetically_modified_food" title="Genetically modified food">Genetically modified food</a></li>
+<li><a href="/wiki/Precision_agriculture" title="Precision agriculture">Precision agriculture</a></li>
+<li><a href="/wiki/Vertical_farming" title="Vertical farming">Vertical farming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Architecture" title="Architecture">Architecture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arcology" title="Arcology">Arcology</a></li>
+<li><a href="/wiki/Construction_3D_printing" title="Construction 3D printing">Building printing</a>
+<ul>
+<li><a href="/wiki/Contour_crafting" title="Contour crafting">Contour crafting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Domed_city" title="Domed city">Domed city</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Biomedical_technology" title="Biomedical technology">Biomedical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_uterus" title="Artificial uterus">Artificial uterus</a></li>
+<li><a href="/wiki/Ampakine" title="Ampakine">Ampakine</a></li>
+<li><a href="/wiki/Brain_transplant" title="Brain transplant">Brain transplant</a></li>
+<li><a href="/wiki/Cryonics" title="Cryonics">Cryonics</a>
+<ul>
+<li><a href="/wiki/Cryoprotectant" title="Cryoprotectant">Cryoprotectant</a></li>
+<li><a href="/wiki/Cryopreservation" title="Cryopreservation">Cryopreservation</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+<li><a href="/wiki/Suspended_animation" title="Suspended animation">Suspended animation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/De-extinction" title="De-extinction">De-extinction</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a>
+<ul>
+<li><a href="/wiki/Gene_therapy" title="Gene therapy">Gene therapy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Head_transplant" title="Head transplant">Head transplant</a></li>
+<li><a href="/wiki/Isolated_brain" title="Isolated brain">Isolated brain</a></li>
+<li><a href="/wiki/Life_extension" title="Life extension">Life extension</a>
+<ul>
+<li><a href="/wiki/Strategies_for_Engineered_Negligible_Senescence" title="Strategies for Engineered Negligible Senescence">Strategies for Engineered Negligible Senescence</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nanomedicine" title="Nanomedicine">Nanomedicine</a></li>
+<li><a href="/wiki/Nanosensor" title="Nanosensor">Nanosensors</a></li>
+<li><a href="/wiki/Personalized_medicine" title="Personalized medicine">Personalized medicine</a></li>
+<li><a href="/wiki/Regenerative_medicine" title="Regenerative medicine">Regenerative medicine</a>
+<ul>
+<li><a href="/wiki/Stem-cell_therapy" title="Stem-cell therapy">Stem-cell therapy</a></li>
+<li><a href="/wiki/Tissue_engineering" title="Tissue engineering">Tissue engineering</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Robot-assisted_surgery" title="Robot-assisted surgery">Robot-assisted surgery</a></li>
+<li><a href="/wiki/Synthetic_biology" title="Synthetic biology">Synthetic biology</a>
+<ul>
+<li><a class="mw-selflink selflink">Synthetic genomics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Virotherapy" title="Virotherapy">Virotherapy</a>
+<ul>
+<li><a href="/wiki/Oncolytic_virus" title="Oncolytic virus">Oncolytic virus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Medical_tricorder" title="Medical tricorder">Tricorder</a></li>
+<li><a href="/wiki/Whole_genome_sequencing" title="Whole genome sequencing">Whole genome sequencing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Displays</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Next_generation_of_display_technology" title="Next generation of display technology">Next generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Field-emission_display" title="Field-emission display">FED</a></li>
+<li><a href="/wiki/Ferroelectric_liquid_crystal_display" title="Ferroelectric liquid crystal display">FLCD</a></li>
+<li><a href="/wiki/Interferometric_modulator_display" title="Interferometric modulator display">iMoD</a></li>
+<li><a href="/wiki/Laser_video_display" title="Laser video display">Laser</a></li>
+<li><a href="/wiki/Laser-powered_phosphor_display" title="Laser-powered phosphor display">LPD</a></li>
+<li><a href="/wiki/OLED" title="OLED">OLED</a></li>
+<li><a href="/wiki/Organic_light-emitting_transistor" title="Organic light-emitting transistor">OLET</a></li>
+<li><a href="/wiki/Quantum_dot_display" title="Quantum dot display">QD-LED</a></li>
+<li><a href="/wiki/Surface-conduction_electron-emitter_display" title="Surface-conduction electron-emitter display">SED</a></li>
+<li><a href="/wiki/Telescopic_pixel_display" title="Telescopic pixel display">TPD</a></li>
+<li><a href="/wiki/Thick-film_dielectric_electroluminescent_technology" title="Thick-film dielectric electroluminescent technology">TDEL</a></li>
+<li><a href="/wiki/Time-multiplexed_optical_shutter" title="Time-multiplexed optical shutter">TMOS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Screenless" title="Screenless">Screenless</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bionic_contact_lens" title="Bionic contact lens">Bionic contact lens</a></li>
+<li><a href="/wiki/Head-mounted_display" title="Head-mounted display">Head-mounted display</a></li>
+<li><a href="/wiki/Head-up_display" title="Head-up display">Head-up display</a></li>
+<li><a href="/wiki/Optical_head-mounted_display" title="Optical head-mounted display">Optical head-mounted display</a></li>
+<li><a href="/wiki/Virtual_retinal_display" title="Virtual retinal display">Virtual retinal display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autostereoscopy" title="Autostereoscopy">Autostereoscopy</a></li>
+<li><a href="/wiki/Flexible_display" title="Flexible display">Flexible display</a></li>
+<li><a href="/wiki/Holographic_display" title="Holographic display">Holographic display</a>
+<ul>
+<li><a href="/wiki/Computer-generated_holography" title="Computer-generated holography">Computer-generated holography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Multi-primary_color_display" title="Multi-primary color display">Multi-primary color display</a></li>
+<li><a href="/wiki/Ultra-high-definition_television" title="Ultra-high-definition television">Ultra HD</a></li>
+<li><a href="/wiki/Volumetric_display" title="Volumetric display">Volumetric display</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Electronics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electronic_nose" title="Electronic nose">Electronic nose</a></li>
+<li><a href="/wiki/E-textiles" title="E-textiles">E-textiles</a></li>
+<li><a href="/wiki/Flexible_electronics" title="Flexible electronics">Flexible electronics</a></li>
+<li><a href="/wiki/Molecular_electronics" title="Molecular electronics">Molecular electronics</a></li>
+<li><a href="/wiki/Nanoelectromechanical_systems" title="Nanoelectromechanical systems">Nanoelectromechanical systems</a></li>
+<li><a href="/wiki/Memristor" title="Memristor">Memristor</a></li>
+<li><a href="/wiki/Spintronics" title="Spintronics">Spintronics</a></li>
+<li><a href="/wiki/Thermal_copper_pillar_bump" title="Thermal copper pillar bump">Thermal copper pillar bump</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Energy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Production</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airborne_wind_turbine" title="Airborne wind turbine">Airborne wind turbine</a></li>
+<li><a href="/wiki/Artificial_photosynthesis" title="Artificial photosynthesis">Artificial photosynthesis</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuels</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a></li>
+<li><a href="/wiki/Fusion_power" title="Fusion power">Fusion power</a></li>
+<li><a href="/wiki/Home_fuel_cell" title="Home fuel cell">Home fuel cell</a></li>
+<li><a href="/wiki/Hydrogen_economy" title="Hydrogen economy">Hydrogen economy</a></li>
+<li><a href="/wiki/Methanol_economy" title="Methanol economy">Methanol economy</a></li>
+<li><a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">Molten salt reactor</a></li>
+<li><a href="/wiki/Optical_rectenna" title="Optical rectenna">Nantenna</a></li>
+<li><a href="/wiki/Photovoltaic_pavement" class="mw-redirect" title="Photovoltaic pavement">Photovoltaic pavement</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+<li><a href="/wiki/Vortex_engine" title="Vortex engine">Vortex engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Storage</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithium_iron_phosphate_battery" title="Lithium iron phosphate battery">Beltway battery</a></li>
+<li><a href="/wiki/Compressed_air_energy_storage" title="Compressed air energy storage">Compressed air energy storage</a></li>
+<li><a href="/wiki/Flywheel_energy_storage" title="Flywheel energy storage">Flywheel energy storage</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/Lithium%E2%80%93air_battery" title="Lithium–air battery">Lithium–air battery</a></li>
+<li><a href="/wiki/Molten-salt_battery" title="Molten-salt battery">Molten-salt battery</a></li>
+<li><a href="/wiki/Nanowire_battery" title="Nanowire battery">Nanowire battery</a></li>
+<li><a href="/wiki/Research_in_lithium-ion_batteries" title="Research in lithium-ion batteries">Research in lithium-ion batteries</a></li>
+<li><a href="/wiki/Silicon%E2%80%93air_battery" title="Silicon–air battery">Silicon–air battery</a></li>
+<li><a href="/wiki/Thermal_energy_storage" title="Thermal energy storage">Thermal energy storage</a></li>
+<li><a href="/wiki/Electric_double-layer_capacitor" title="Electric double-layer capacitor">Ultracapacitor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Wireless_power_transfer" title="Wireless power transfer">Wireless power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Information_and_communications_technology" title="Information and communications technology">Information and<br />
+communications</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ambient_intelligence" title="Ambient intelligence">Ambient intelligence</a>
+<ul>
+<li><a href="/wiki/Internet_of_things" title="Internet of things">Internet of things</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>
+<ul>
+<li><a href="/wiki/Applications_of_artificial_intelligence" title="Applications of artificial intelligence">Applications of artificial intelligence</a></li>
+<li><a href="/wiki/Progress_in_artificial_intelligence" title="Progress in artificial intelligence">Progress in artificial intelligence</a></li>
+<li><a href="/wiki/Machine_translation" title="Machine translation">Machine translation</a></li>
+<li><a href="/wiki/Mobile_translation" title="Mobile translation">Mobile translation</a></li>
+<li><a href="/wiki/Machine_vision" title="Machine vision">Machine vision</a></li>
+<li><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a></li>
+<li><a href="/wiki/Speech_recognition" title="Speech recognition">Speech recognition</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atomtronics" title="Atomtronics">Atomtronics</a></li>
+<li><a href="/wiki/Carbon_nanotube_field-effect_transistor" title="Carbon nanotube field-effect transistor">Carbon nanotube field-effect transistor</a></li>
+<li><a href="/wiki/Cybermethodology" title="Cybermethodology">Cybermethodology</a></li>
+<li><a href="/wiki/Optical_disc#Fourth-generation" title="Optical disc">Fourth-generation optical discs</a>
+<ul>
+<li><a href="/wiki/3D_optical_data_storage" title="3D optical data storage">3D optical data storage</a></li>
+<li><a href="/wiki/Holographic_data_storage" title="Holographic data storage">Holographic data storage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/General-purpose_computing_on_graphics_processing_units" title="General-purpose computing on graphics processing units">GPGPU</a></li>
+<li>Memory
+<ul>
+<li><a href="/wiki/Programmable_metallization_cell" title="Programmable metallization cell">CBRAM</a></li>
+<li><a href="/wiki/Ferroelectric_RAM" title="Ferroelectric RAM">FRAM</a></li>
+<li><a href="/wiki/Millipede_memory" title="Millipede memory">Millipede</a></li>
+<li><a href="/wiki/Magnetoresistive_random-access_memory" title="Magnetoresistive random-access memory">MRAM</a></li>
+<li><a href="/wiki/Nano-RAM" title="Nano-RAM">NRAM</a></li>
+<li><a href="/wiki/Phase-change_memory" title="Phase-change memory">PRAM</a></li>
+<li><a href="/wiki/Racetrack_memory" title="Racetrack memory">Racetrack memory</a></li>
+<li><a href="/wiki/Resistive_random-access_memory" title="Resistive random-access memory">RRAM</a></li>
+<li><a href="/wiki/SONOS" title="SONOS">SONOS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Optical_computing" title="Optical computing">Optical computing</a></li>
+<li><a href="/wiki/Radio-frequency_identification" title="Radio-frequency identification">RFID</a>
+<ul>
+<li><a href="/wiki/Chipless_RFID" title="Chipless RFID">Chipless RFID</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Software-defined_radio" title="Software-defined radio">Software-defined radio</a></li>
+<li><a href="/wiki/Three-dimensional_integrated_circuit" title="Three-dimensional integrated circuit">Three-dimensional integrated circuit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Manufacturing</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D_printing" title="3D printing">3D printing</a></li>
+<li><a href="/wiki/Claytronics" title="Claytronics">Claytronics</a></li>
+<li><a href="/wiki/Molecular_assembler" title="Molecular assembler">Molecular assembler</a></li>
+<li><a href="/wiki/Utility_fog" title="Utility fog">Utility fog</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Materials_science" title="Materials science">Materials science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerogel" title="Aerogel">Aerogel</a></li>
+<li><a href="/wiki/Amorphous_metal" title="Amorphous metal">Amorphous metal</a></li>
+<li><a href="/wiki/Artificial_muscle" title="Artificial muscle">Artificial muscle</a></li>
+<li><a href="/wiki/Conductive_polymer" title="Conductive polymer">Conductive polymer</a></li>
+<li><a href="/wiki/Femtotechnology" title="Femtotechnology">Femtotechnology</a></li>
+<li><a href="/wiki/Fullerene" title="Fullerene">Fullerene</a></li>
+<li><a href="/wiki/Graphene" title="Graphene">Graphene</a></li>
+<li><a href="/wiki/High-temperature_superconductivity" title="High-temperature superconductivity">High-temperature superconductivity</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">High-temperature superfluidity</a></li>
+<li><a href="/wiki/Linear_acetylenic_carbon" title="Linear acetylenic carbon">Linear acetylenic carbon</a></li>
+<li><a href="/wiki/Metamaterial" title="Metamaterial">Metamaterials</a>
+<ul>
+<li><a href="/wiki/Metamaterial_cloaking" title="Metamaterial cloaking">Metamaterial cloaking</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Metal_foam" title="Metal foam">Metal foam</a></li>
+<li><a href="/wiki/Multi-function_structure" title="Multi-function structure">Multi-function structures</a></li>
+<li><a href="/wiki/Nanotechnology" title="Nanotechnology">Nanotechnology</a>
+<ul>
+<li><a href="/wiki/Carbon_nanotube" title="Carbon nanotube">Carbon nanotubes</a></li>
+<li><a href="/wiki/Molecular_nanotechnology" title="Molecular nanotechnology">Molecular nanotechnology</a></li>
+<li><a href="/wiki/Nanomaterials" title="Nanomaterials">Nanomaterials</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Picotechnology" title="Picotechnology">Picotechnology</a></li>
+<li><a href="/wiki/Programmable_matter" title="Programmable matter">Programmable matter</a></li>
+<li><a href="/wiki/Quantum_dot" title="Quantum dot">Quantum dots</a></li>
+<li><a href="/wiki/Silicene" title="Silicene">Silicene</a></li>
+<li><a href="/wiki/Superalloy" title="Superalloy">Superalloy</a></li>
+<li><a href="/wiki/Synthetic_diamond" title="Synthetic diamond">Synthetic diamond</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Military_technology" title="Military technology">Military</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antimatter_weapon" title="Antimatter weapon">Antimatter weapon</a></li>
+<li><a href="/wiki/Caseless_ammunition" title="Caseless ammunition">Caseless ammunition</a></li>
+<li><a href="/wiki/Directed-energy_weapon" title="Directed-energy weapon">Directed-energy weapon</a>
+<ul>
+<li><a href="/wiki/Laser" title="Laser">Laser</a></li>
+<li><a href="/wiki/Maser" title="Maser">Maser</a></li>
+<li><a href="/wiki/Particle-beam_weapon" title="Particle-beam weapon">Particle-beam weapon</a></li>
+<li><a href="/wiki/Sonic_weapon" title="Sonic weapon">Sonic weapon</a></li>
+<li><a href="/wiki/Coilgun" title="Coilgun">Coilgun</a></li>
+<li><a href="/wiki/Railgun" title="Railgun">Railgun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plasma_weapon" title="Plasma weapon">Plasma weapon</a></li>
+<li><a href="/wiki/Pure_fusion_weapon" title="Pure fusion weapon">Pure fusion weapon</a></li>
+<li><a href="/wiki/Stealth_technology" title="Stealth technology">Stealth technology</a></li>
+<li><a href="/wiki/Vortex_ring_gun" title="Vortex ring gun">Vortex ring gun</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_brain" title="Artificial brain">Artificial brain</a></li>
+<li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Brain–computer interface</a></li>
+<li><a href="/wiki/Electroencephalography" title="Electroencephalography">Electroencephalography</a></li>
+<li><a href="/wiki/Mind_uploading" title="Mind uploading">Mind uploading</a>
+<ul>
+<li><a href="/wiki/Brain-reading" title="Brain-reading">Brain-reading</a></li>
+<li><a href="/wiki/Neuroinformatics" title="Neuroinformatics">Neuroinformatics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neuroprosthetics" title="Neuroprosthetics">Neuroprosthetics</a>
+<ul>
+<li><a href="/wiki/Visual_prosthesis" title="Visual prosthesis">Bionic eye</a></li>
+<li><a href="/wiki/Brain_implant" title="Brain implant">Brain implant</a></li>
+<li><a href="/wiki/Exocortex" title="Exocortex">Exocortex</a></li>
+<li><a href="/wiki/Retinal_implant" title="Retinal implant">Retinal implant</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Quantum_technology" title="Quantum technology">Quantum</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_algorithm" title="Quantum algorithm">Quantum algorithms</a></li>
+<li><a href="/wiki/Quantum_amplifier" title="Quantum amplifier">Quantum amplifier</a></li>
+<li><a href="/wiki/Quantum_bus" title="Quantum bus">Quantum bus</a></li>
+<li><a href="/wiki/Quantum_channel" title="Quantum channel">Quantum channel</a></li>
+<li><a href="/wiki/Quantum_circuit" title="Quantum circuit">Quantum circuit</a></li>
+<li><a href="/wiki/Quantum_complexity_theory" title="Quantum complexity theory">Quantum complexity theory</a></li>
+<li><a href="/wiki/Quantum_computing" title="Quantum computing">Quantum computing</a></li>
+<li><a href="/wiki/Quantum_cryptography" title="Quantum cryptography">Quantum cryptography</a></li>
+<li><a href="/wiki/Quantum_dynamics" title="Quantum dynamics">Quantum dynamics</a></li>
+<li><a href="/wiki/Quantum_electronics" class="mw-redirect" title="Quantum electronics">Quantum electronics</a></li>
+<li><a href="/wiki/Quantum_error_correction" title="Quantum error correction">Quantum error correction</a></li>
+<li><a href="/wiki/Quantum_imaging" title="Quantum imaging">Quantum imaging</a></li>
+<li><a href="/wiki/Quantum_information" title="Quantum information">Quantum information</a></li>
+<li><a href="/wiki/Quantum_key_distribution" title="Quantum key distribution">Quantum key distribution</a></li>
+<li><a href="/wiki/Quantum_logic" title="Quantum logic">Quantum logic</a></li>
+<li><a href="/wiki/Quantum_gate" title="Quantum gate">Quantum logic gates</a></li>
+<li><a href="/wiki/Quantum_machine" title="Quantum machine">Quantum machine</a></li>
+<li><a href="/wiki/Quantum_machine_learning" title="Quantum machine learning">Quantum machine learning</a></li>
+<li><a href="/wiki/Quantum_metamaterial" title="Quantum metamaterial">Quantum metamaterial</a></li>
+<li><a href="/wiki/Quantum_metrology" title="Quantum metrology">Quantum metrology</a></li>
+<li><a href="/wiki/Quantum_network" title="Quantum network">Quantum network</a></li>
+<li><a href="/wiki/Quantum_neural_network" title="Quantum neural network">Quantum neural network</a></li>
+<li><a href="/wiki/Quantum_optics" title="Quantum optics">Quantum optics</a></li>
+<li><a href="/wiki/Quantum_programming" title="Quantum programming">Quantum programming</a></li>
+<li><a href="/wiki/Quantum_sensor" title="Quantum sensor">Quantum sensing</a></li>
+<li><a href="/wiki/Quantum_simulator" title="Quantum simulator">Quantum simulator</a></li>
+<li><a href="/wiki/Quantum_teleportation" title="Quantum teleportation">Quantum teleportation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Robotics" title="Robotics">Robotics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Home_automation" title="Home automation">Domotics</a></li>
+<li><a href="/wiki/Nanorobotics" title="Nanorobotics">Nanorobotics</a></li>
+<li><a href="/wiki/Powered_exoskeleton" title="Powered exoskeleton">Powered exoskeleton</a></li>
+<li><a href="/wiki/Self-reconfiguring_modular_robot" title="Self-reconfiguring modular robot">Self-reconfiguring modular robot</a></li>
+<li><a href="/wiki/Swarm_robotics" title="Swarm robotics">Swarm robotics</a></li>
+<li><a href="/wiki/Uncrewed_vehicle" title="Uncrewed vehicle">Uncrewed vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Outline_of_space_science" title="Outline of space science">Space science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Space_launch" title="Space launch">Launch</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fusion_rocket" title="Fusion rocket">Fusion rocket</a></li>
+<li><a href="/wiki/Non-rocket_spacelaunch" title="Non-rocket spacelaunch">Non-rocket spacelaunch</a>
+<ul>
+<li><a href="/wiki/Mass_driver" title="Mass driver">Mass driver</a></li>
+<li><a href="/wiki/Orbital_ring" title="Orbital ring">Orbital ring</a></li>
+<li><a href="/wiki/Skyhook_(structure)" title="Skyhook (structure)">Skyhook</a></li>
+<li><a href="/wiki/Space_elevator" title="Space elevator">Space elevator</a></li>
+<li><a href="/wiki/Space_fountain" title="Space fountain">Space fountain</a></li>
+<li><a href="/wiki/Space_tether" title="Space tether">Space tether</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Reusable_launch_system" title="Reusable launch system">Reusable launch system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">Propulsion</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beam-powered_propulsion" title="Beam-powered propulsion">Beam-powered propulsion</a></li>
+<li><a href="/wiki/Ion_thruster" title="Ion thruster">Ion thruster</a></li>
+<li><a href="/wiki/Laser_propulsion" title="Laser propulsion">Laser propulsion</a></li>
+<li><a href="/wiki/Plasma_propulsion_engine" title="Plasma propulsion engine">Plasma propulsion engine</a>
+<ul>
+<li><a href="/wiki/Helicon_double-layer_thruster" title="Helicon double-layer thruster">Helicon thruster</a></li>
+<li><a href="/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket" title="Variable Specific Impulse Magnetoplasma Rocket">VASIMR</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nuclear_pulse_propulsion" title="Nuclear pulse propulsion">Nuclear pulse propulsion</a></li>
+<li><a href="/wiki/Solar_sail" title="Solar sail">Solar sail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interstellar_travel" title="Interstellar travel">Interstellar travel</a></li>
+<li><a href="/wiki/Propellant_depot" title="Propellant depot">Propellant depot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Outline_of_transport" title="Outline of transport">Transport</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Aviation" title="Aviation">Aerial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adaptive_compliant_wing" title="Adaptive compliant wing">Adaptive compliant wing</a></li>
+<li><a href="/wiki/Backpack_helicopter" title="Backpack helicopter">Backpack helicopter</a></li>
+<li><a href="/wiki/Delivery_drone" title="Delivery drone">Delivery drone</a></li>
+<li><a href="/wiki/Flying_car_(aircraft)" title="Flying car (aircraft)">Flying car</a></li>
+<li><a href="/wiki/High-altitude_platform_station" title="High-altitude platform station">High-altitude platform</a></li>
+<li><a href="/wiki/Jet_pack" title="Jet pack">Jet pack</a></li>
+<li><a href="/wiki/Pulse_detonation_engine" title="Pulse detonation engine">Pulse detonation engine</a></li>
+<li><a href="/wiki/Scramjet" title="Scramjet">Scramjet</a></li>
+<li><a href="/wiki/Spaceplane" title="Spaceplane">Spaceplane</a></li>
+<li><a href="/wiki/Supersonic_transport" title="Supersonic transport">Supersonic transport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Land_transport" title="Land transport">Land</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airless_tire" title="Airless tire">Airless tire</a></li>
+<li><a href="/wiki/Alternative_fuel_vehicle" title="Alternative fuel vehicle">Alternative fuel vehicle</a>
+<ul>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Hydrogen vehicle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Autonomous_car" title="Autonomous car">Driverless car</a></li>
+<li><a href="/wiki/Ground_effect_train" title="Ground effect train">Ground effect train</a></li>
+<li><a href="/wiki/Maglev" title="Maglev">Maglev train</a></li>
+<li><a href="/wiki/Personal_rapid_transit" title="Personal rapid transit">Personal rapid transit</a></li>
+<li><a href="/wiki/Vactrain" title="Vactrain">Vactrain</a></li>
+<li><a href="/wiki/Vehicular_communication_systems" title="Vehicular communication systems">Vehicular communication systems</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Pipeline_transport" title="Pipeline transport">Pipeline</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pneumatic_tube" title="Pneumatic tube">Pneumatic transport</a>
+<ul>
+<li><a href="/wiki/Automated_vacuum_collection" title="Automated vacuum collection">Automated vacuum collection</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anti-gravity" title="Anti-gravity">Anti-gravity</a></li>
+<li><a href="/wiki/Cloak_of_invisibility" title="Cloak of invisibility">Cloak of invisibility</a></li>
+<li><a href="/wiki/Digital_scent_technology" title="Digital scent technology">Digital scent technology</a></li>
+<li><a href="/wiki/Force_field_(fiction)" title="Force field (fiction)">Force field</a>
+<ul>
+<li><a href="/wiki/Plasma_window" title="Plasma window">Plasma window</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Immersion_(virtual_reality)" title="Immersion (virtual reality)">Immersive virtual reality</a></li>
+<li><a href="/wiki/Magnetic_refrigeration" title="Magnetic refrigeration">Magnetic refrigeration</a></li>
+<li><a href="/wiki/Phased-array_optics" title="Phased-array optics">Phased-array optics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collingridge_dilemma" title="Collingridge dilemma">Collingridge dilemma</a></li>
+<li><a href="/wiki/Differential_technological_development" title="Differential technological development">Differential technological development</a></li>
+<li><a href="/wiki/Ephemeralization" title="Ephemeralization">Ephemeralization</a></li>
+<li><a href="/wiki/Exploratory_engineering" title="Exploratory engineering">Exploratory engineering</a></li>
+<li><a href="/wiki/Fictional_technology" title="Fictional technology">Fictional technology</a></li>
+<li><a href="/wiki/Proactionary_principle" title="Proactionary principle">Proactionary principle</a></li>
+<li><a href="/wiki/Technological_change" title="Technological change">Technological change</a>
+<ul>
+<li><a href="/wiki/Technological_unemployment" title="Technological unemployment">Technological unemployment</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technological_convergence" title="Technological convergence">Technological convergence</a></li>
+<li><a href="/wiki/Technological_evolution" title="Technological evolution">Technological evolution</a></li>
+<li><a href="/wiki/Technological_paradigm" title="Technological paradigm">Technological paradigm</a></li>
+<li><a href="/wiki/Technology_forecasting" title="Technology forecasting">Technology forecasting</a>
+<ul>
+<li><a href="/wiki/Accelerating_change" title="Accelerating change">Accelerating change</a></li>
+<li><a href="/wiki/Moore%27s_law" title="Moore's law">Moore's law</a></li>
+<li><a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a></li>
+<li><a href="/wiki/Technology_scouting" title="Technology scouting">Technology scouting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technology_readiness_level" title="Technology readiness level">Technology readiness level</a></li>
+<li><a href="/wiki/Technology_roadmap" title="Technology roadmap">Technology roadmap</a></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align: center;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Emerging_technologies" title="Category:Emerging technologies">Category</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_emerging_technologies" title="List of emerging technologies">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20180216225002
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.268 seconds
+Real time usage: 0.341 seconds
+Preprocessor visited node count: 1441/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 145633/2097152 bytes
+Template argument size: 174/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 4.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  264.178      1 -total
+ 54.46%  143.862      1 Template:Reflist
+ 22.51%   59.459      6 Template:Navbox
+ 19.97%   52.755     11 Template:Cite_journal
+ 17.95%   47.433      5 Template:Cite_news
+ 15.48%   40.897      1 Template:Emerging_technologies
+ 13.14%   34.723      1 Template:Expand_section
+ 10.59%   27.978      1 Template:Ambox
+ 10.51%   27.752      1 Template:For
+  4.23%   11.167      2 Template:Icon
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11330015-0!canonical and timestamp 20180216225002 and revision id 812338167
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Synthetic_genomics&amp;oldid=812338167">https://en.wikipedia.org/w/index.php?title=Synthetic_genomics&amp;oldid=812338167</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Emerging_technologies" title="Category:Emerging technologies">Emerging technologies</a></li><li><a href="/wiki/Category:Genetics" title="Category:Genetics">Genetics</a></li><li><a href="/wiki/Category:Genetic_engineering" title="Category:Genetic engineering">Genetic engineering</a></li><li><a href="/wiki/Category:Synthetic_biology" title="Category:Synthetic biology">Synthetic biology</a></li><li><a href="/wiki/Category:Algae_biomass_producers" title="Category:Algae biomass producers">Algae biomass producers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2016" title="Category:Articles to be expanded from May 2016">Articles to be expanded from May 2016</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Synthetic+genomics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Synthetic+genomics" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Synthetic_genomics" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Synthetic_genomics" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Synthetic_genomics">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Synthetic_genomics&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Synthetic_genomics&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Synthetic_genomics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Synthetic_genomics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Synthetic_genomics&amp;oldid=812338167" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Synthetic_genomics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1405450" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Synthetic_genomics&amp;id=812338167" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Synthetic+genomics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Synthetic+genomics&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Synthetic_genomics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Genomica_di_sintesi" title="Genomica di sintesi – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Sintetin%C4%97_genomika" title="Sintetinė genomika – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BD%D0%BE%D0%BC" title="Искусственный геном – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Synthetic_genomics" title="Synthetic genomics – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1405450#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 November 2017, at 08:19.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Synthetic_genomics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.341","ppvisitednodes":{"value":1441,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":145633,"limit":2097152},"templateargumentsize":{"value":174,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  264.178      1 -total"," 54.46%  143.862      1 Template:Reflist"," 22.51%   59.459      6 Template:Navbox"," 19.97%   52.755     11 Template:Cite_journal"," 17.95%   47.433      5 Template:Cite_news"," 15.48%   40.897      1 Template:Emerging_technologies"," 13.14%   34.723      1 Template:Expand_section"," 10.59%   27.978      1 Template:Ambox"," 10.51%   27.752      1 Template:For","  4.23%   11.167      2 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":4615236,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20180216225002","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1332"});});</script>
+	</body>
+</html>

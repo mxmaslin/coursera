@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Refal - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Refal","wgTitle":"Refal","wgCurRevisionId":823955237,"wgRevisionId":823955237,"wgArticleId":14926151,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tree programming languages","Pattern matching programming languages","Functional languages","Term-rewriting programming languages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Refal","wgRelevantArticleId":14926151,"wgRequestId":"WoRgxApAAEEAAA00ixcAAAAG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2626418","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Refal"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Refal&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Refal&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Refal"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Refal rootpage-Refal skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Refal</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em">
+<caption class="summary">Refal</caption>
+<tr>
+<th scope="row"><a href="/wiki/Programming_paradigm" title="Programming paradigm">Paradigm</a></th>
+<td><a href="/wiki/Pattern-matching" class="mw-redirect" title="Pattern-matching">Pattern-matching</a> and <a href="/wiki/Term-rewriting" class="mw-redirect" title="Term-rewriting">Term-rewriting</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Software_design" title="Software design">Designed&#160;by</a></th>
+<td><a href="/wiki/Valentin_Turchin" title="Valentin Turchin">Valentin Turchin</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Software_developer" title="Software developer">Developer</a></th>
+<td class="organiser">Valentin Turchin, S. Florentsev, V. Olyunin, et al.</td>
+</tr>
+<tr>
+<th scope="row">First&#160;appeared</th>
+<td>1968<span style="display:none">&#160;(<span class="bday dtstart published updated">1968</span>)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Type_system" title="Type system">Typing discipline</a></th>
+<td><a href="/wiki/Strong_typing" class="mw-redirect" title="Strong typing">strong</a>, <a href="/wiki/Dynamic_typing" class="mw-redirect" title="Dynamic typing">dynamic</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external free" href="http://www.refal.net">http://www.refal.net</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #eee;">Major <a href="/wiki/Programming_language_implementation" title="Programming language implementation">implementations</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">Refal-2, Refal-5, Refal-6, Refal+</td>
+</tr>
+</table>
+<p><b>Refal</b> (<b>"[of] Recursive functions' algorithmic language"</b>) "is <a href="/wiki/Functional_programming" title="Functional programming">functional</a> <a href="/wiki/Programming_language" title="Programming language">programming language</a> oriented toward symbolic computations", including "<a href="/wiki/String_processing" class="mw-redirect" title="String processing">string processing</a>, <a href="/wiki/Translation" title="Translation">language translation</a>, [and] <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is one of the oldest members of this family, first conceived of in 1966 as a theoretical tool, with the first implementation appearing in 1968. Refal was intended to combine mathematical simplicity with practicality for writing large and sophisticated programs.</p>
+<p>One of the first functional programming languages to do so, and unlike Lisp of its time, Refal is based on <a href="/wiki/Pattern_matching" title="Pattern matching">pattern matching</a>. Its pattern matching works in conjunction with <a href="/wiki/Term_rewriting" class="mw-redirect" title="Term rewriting">term rewriting</a>.</p>
+<p>The basic <a href="/wiki/Data_structure" title="Data structure">data structure</a> of Lisp and Prolog is a linear list built by <a href="/wiki/Cons" title="Cons">cons operation</a> in a sequential manner, thus with <i>O(n)</i> access to list's <i>n</i>th element. Refal's lists are built and scanned from both ends, and pattern matching allows to match against nested lists as well as the top-level one. In effect, the basic data structure of Refal is a <a href="/wiki/Tree_(computer_science)" class="mw-redirect" title="Tree (computer science)">tree</a> rather than a <a href="/wiki/List_(computer_science)" class="mw-redirect" title="List (computer science)">list</a>. This gives freedom and convenience in creating data structures while using only mathematically simple control mechanisms of pattern matching and substitution.</p>
+<p>Refal also includes a feature called the <i>freezer</i> to support efficient <a href="/wiki/Partial_evaluation" title="Partial evaluation">partial evaluation</a>.</p>
+<p>Refal can be applied to the processing and transformation of tree structures, similarly to <a href="/wiki/XSLT" title="XSLT">XSLT</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Refal_Basics"><span class="tocnumber">1</span> <span class="toctext">Refal Basics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Other_examples"><span class="tocnumber">2</span> <span class="toctext">Other examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Factorial"><span class="tocnumber">2.1</span> <span class="toctext">Factorial</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Factorial_with_loops"><span class="tocnumber">2.2</span> <span class="toctext">Factorial with loops</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Equality"><span class="tocnumber">2.3</span> <span class="toctext">Equality</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#If"><span class="tocnumber">2.4</span> <span class="toctext">If</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Squeeze_blanks"><span class="tocnumber">2.5</span> <span class="toctext">Squeeze blanks</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Squeeze_using_Explicit_Looping"><span class="tocnumber">2.6</span> <span class="toctext">Squeeze using Explicit Looping</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Refal_Basics">Refal Basics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=1" title="Edit section: Refal Basics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A Refal <a href="/wiki/Hello_world_program" class="mw-redirect" title="Hello world program">Hello World</a> example is shown below.</p>
+<pre>
+$ENTRY Go { = &lt;Hello&gt;;}
+Hello {
+   = &lt;Prout 'Hello world'&gt;;
+}
+</pre>
+<p>The program above includes two functions named Go and Hello. A function is written as the name of the function followed by the function body in curly braces. The Go function is marked as the entry point of the program using the $ENTRY directive.</p>
+<p>One could think of expressions in the function bodies as function "calls" in <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>-like syntax. For example, the Hello function appears to call the built-in Prout function with the string 'Hello world' as the argument. The meaning and the mechanism of the call, however, is quite different. To illustrate the difference, let us consider the following function that determines whether a string is a <a href="/wiki/Palindrome" title="Palindrome">palindrome</a>.</p>
+<pre>
+ Pal { = True;
+    s.1 = True;
+    s.1 e.2 s.1 = &lt;Pal e.2&gt;;
+    e.1 = False;  }
+</pre>
+<p>This example shows a function with a more complex body, consisting of four <i>sentences</i>. A sentence begins with a <i>pattern</i> followed by an equal sign followed by a general <i>expression</i> on the right hand side. A sentence is terminated with a semicolon. For example, the pattern of the second sentence of the function is "s.1" and the expression is "True".</p>
+<p>As the example shows, patterns include <i>pattern variables</i> that have the form of a character identifying the type of the variable (what the variable matches) followed by the variable identifier. The variables that begin with an "s" match a single symbol, those that begin with an "e" match an arbitrary expression. The variable identifier can be an arbitrary alphanumeric sequence optionally separated from the type identifier by a dot.</p>
+<p>A function executes by comparing its argument with the patterns of its sentences in the order they appear in the definition, until the first pattern that matches. The function then replaces the argument with the expression on the right hand side of the matched sentence.</p>
+<p>If the result of a function application includes a subexpression in angle brackets (as it will after the third sentence of our example is applied), the result is further processed by Refal by invoking the function identified by the first symbol in the brackets. Execution stops when the result has no more angle brackets to expand in this way.</p>
+<p>The function Pal can thus be read informally as: "If the expression is empty, replace it with True. Otherwise if the expression is a single symbol, replace it with True. Otherwise if the expression is a symbol followed by an arbitrary expression e.2 followed by the same symbol, replace it with the expression &lt;Pal e.2&gt;. (In other words, throw away the two identical symbols at the beginning and the end and recurse). Otherwise replace the expression with False. (The pattern e.1 always matches)."</p>
+<p>The following are three step-by-step execution traces annotated with the sentence numbers applied at each step to produce the next</p>
+<pre>
+ &lt;Pal 'noon'&gt;  (#3)
+ &lt;Pal 'oo'&gt;    (#3)
+ &lt;Pal &gt;        (#1)
+ True
+</pre>
+<pre>
+ &lt;Pal 'wow'&gt;   (#3)
+ &lt;Pal 'o'&gt;     (#2)
+ True
+</pre>
+<pre>
+ &lt;Pal 'revolver'&gt;  (#3)
+ &lt;Pal 'evolve'&gt;    (#3)
+ &lt;Pal 'volv'&gt;      (#3)
+ &lt;Pal 'ol'&gt;        (#4)
+ False
+</pre>
+<p>We can now see that the Hello World example in fact executes as the sequence of the following expression transformations:</p>
+<pre>
+      Seed the machine with the initial expression marked by $ENTRY:
+ &lt;Go &gt;                 (apply the sentence in Go)
+ &lt;Hello &gt;              (apply the sentence in Hello)
+ &lt;Prout 'Hello world'&gt; (Prout is a built-in that prints and expands to nothing)
+                       (nothing to apply; stop)
+</pre>
+<h2><span class="mw-headline" id="Other_examples">Other examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=2" title="Edit section: Other examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Factorial">Factorial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=3" title="Edit section: Factorial">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<pre>
+ Fact { 0 = 1;
+    s.N = &lt;* s.N &lt;Fact &lt;- s.N 1&gt;&gt;&gt;; }
+</pre>
+<p>Here 0 matches 0 the number and produces 1. On any other symbol which is a number, multiply it with the result of (Fact (- s.N 1)) Note the prefix style of operators.</p>
+<h3><span class="mw-headline" id="Factorial_with_loops">Factorial with loops</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=4" title="Edit section: Factorial with loops">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<pre>
+ Fact { s.n = &lt;Loop s.n 1&gt;; };
+ Loop {
+    0 s.f = s.f;
+    s.n s.f = &lt;Loop &lt;- s.n 1&gt; &lt;* s.n s.f&gt;&gt;; }
+</pre>
+<p>As can be seen s.n acts as the loop counter.</p>
+<h3><span class="mw-headline" id="Equality">Equality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=5" title="Edit section: Equality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<pre>
+ Equal {
+    (e.1)(e.1) = T;
+    (e.1)(e.2) = F; }
+</pre>
+<p>Here the function is defined as, if given two terms, and the terms are same then the first clause matches and produces True. else the second clause matches and produces False.</p>
+<p>An important property of Refal is that all functions in refal are single argument. (But may be decomposed into terms in an expression as above.)</p>
+<h3><span class="mw-headline" id="If">If</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=6" title="Edit section: If">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Defining control structures is easy</p>
+<pre>
+ If {
+    T Then (e.1) Else (e.2) = e.1;
+    F Then (e.1) Else (e.2) = e.2;  }
+</pre>
+<p>Here the e1 is evaluated only when the expression entered matches 'True' Then e1 Else e2 the same for e2.</p>
+<h3><span class="mw-headline" id="Squeeze_blanks">Squeeze blanks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=7" title="Edit section: Squeeze blanks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<pre>
+ Squeeze {
+    e.1'__'e.2 = &lt;Squeeze e.1'_'e.2&gt;;
+    e.1 = e.1; }
+</pre>
+<p>(Using '_' in place of space char so as to make the function call clear.) The first clause matches whenever the function Squeeze encounters double blanks in its input expression, and replaces it with a single blank. The second clause matches only when the first one did not, and returns the resultant value which is the current expression.</p>
+<h3><span class="mw-headline" id="Squeeze_using_Explicit_Looping">Squeeze using Explicit Looping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=8" title="Edit section: Squeeze using Explicit Looping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<pre>
+ Squeeze {
+    '__'e.1 = &lt;Squeeze '_'e.1&gt;;
+    s.A e.1 = s.A &lt;Squeeze e.1&gt;;
+    = ; };
+</pre>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web">Turchin, Valentin F. (1989). <a rel="nofollow" class="external text" href="http://refal.botik.ru/book/html/">"REFAL-5 Programming Guide and Reference Manual"</a>. The City College of New York, New England Publishing Co., Holyoke.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=REFAL-5+Programming+Guide+and+Reference+Manual&amp;rft.pub=The+City+College+of+New+York%2C+New+England+Publishing+Co.%2C+Holyoke&amp;rft.date=1989&amp;rft.aulast=Turchin&amp;rft.aufirst=Valentin+F.&amp;rft_id=http%3A%2F%2Frefal.botik.ru%2Fbook%2Fhtml%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Turchin, Valentin F. (1989). <a rel="nofollow" class="external text" href="http://www.supercompilers.com/html/introduction_to_refal.html">"Introduction to Refal"</a>. <i>REFAL-5 programming guide &amp; reference manual</i>. Holyoke: New England Publishing Co<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=REFAL-5+programming+guide+%26+reference+manual&amp;rft.atitle=Introduction+to+Refal&amp;rft.date=1989&amp;rft.aulast=Turchin&amp;rft.aufirst=Valentin+F.&amp;rft_id=http%3A%2F%2Fwww.supercompilers.com%2Fhtml%2Fintroduction_to_refal.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.refal.org/english/xmlref_1.htm">http://www.refal.org/english/xmlref_1.htm</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refal&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.refal.net/index_e.htm">Refal homepage</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20180211025332
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.110 seconds
+Preprocessor visited node count: 380/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6196/2097152 bytes
+Template argument size: 469/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 1.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   92.901      1 -total
+ 50.44%   46.856      1 Template:Infobox_programming_language
+ 47.17%   43.818      2 Template:Cite_web
+ 42.90%   39.856      1 Template:Infobox
+  4.47%    4.154      1 Template:Infobox_software/simple
+  2.70%    2.509      1 Template:Start_date
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14926151-0!canonical and timestamp 20180211025332 and revision id 823955237
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Refal&amp;oldid=823955237">https://en.wikipedia.org/w/index.php?title=Refal&amp;oldid=823955237</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tree_programming_languages" title="Category:Tree programming languages">Tree programming languages</a></li><li><a href="/wiki/Category:Pattern_matching_programming_languages" title="Category:Pattern matching programming languages">Pattern matching programming languages</a></li><li><a href="/wiki/Category:Functional_languages" title="Category:Functional languages">Functional languages</a></li><li><a href="/wiki/Category:Term-rewriting_programming_languages" title="Category:Term-rewriting programming languages">Term-rewriting programming languages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Refal" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Refal" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Refal" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Refal" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Refal">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Refal&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Refal&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Refal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Refal" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Refal&amp;oldid=823955237" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Refal&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2626418" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Refal&amp;id=823955237" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Refal">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Refal&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Refal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%95%D0%A4%D0%90%D0%9B" title="РЕФАЛ – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Refal" title="Refal – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%95%D0%A4%D0%90%D0%9B" title="РЕФАЛ – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D0%95%D0%A4%D0%90%D0%9B" title="РЕФАЛ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%95%D0%A4%D0%90%D0%9B" title="РЕФАЛ – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2626418#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 February 2018, at 13:00.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Refal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.110","ppvisitednodes":{"value":380,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6196,"limit":2097152},"templateargumentsize":{"value":469,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   92.901      1 -total"," 50.44%   46.856      1 Template:Infobox_programming_language"," 47.17%   43.818      2 Template:Cite_web"," 42.90%   39.856      1 Template:Infobox","  4.47%    4.154      1 Template:Infobox_software/simple","  2.70%    2.509      1 Template:Start_date"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1717428,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20180211025332","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1270"});});</script>
+	</body>
+</html>

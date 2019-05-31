@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Insteon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Insteon","wgTitle":"Insteon","wgCurRevisionId":818259401,"wgRevisionId":818259401,"wgArticleId":2088757,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Smart home hubs","Wireless sensor network","Mesh networking","IOS software","WatchOS software","Android (operating system) software","Windows Phone software","PLC Internet access"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Insteon","wgRelevantArticleId":2088757,"wgRequestId":"Wn@@RApAAEMAAEtRyJ0AAADX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6038881","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Insteon"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Insteon&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Insteon&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Insteon"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Insteon rootpage-Insteon skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Insteon</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the Insteon home connection technology. For the company, see <a href="/wiki/Insteon_(company)" title="Insteon (company)">Insteon (company)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Insteon</caption>
+<tr>
+<th scope="row">Founded</th>
+<td>2005</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Holding_company" title="Holding company">Parent</a></th>
+<td>Smartlabs</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><a rel="nofollow" class="external free" href="http://insteon.com">http://insteon.com</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Computing_platform" title="Computing platform">Native client(s) on</a></th>
+<td><a href="/wiki/IOS" title="IOS">iOS</a>, <a href="/wiki/WatchOS" title="WatchOS">watchOS</a>, <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>, <a href="/wiki/Windows_Phone" title="Windows Phone">Windows Phone</a></td>
+</tr>
+</table>
+<p><b>Insteon</b> is a <a href="/wiki/Home_automation" title="Home automation">home automation</a> (domotics) technology that enables light switches, lights, thermostats, leak sensors, remote controls, motion sensors, and other electrically powered devices to interoperate through power lines, radio frequency (RF) communications, or both.<sup id="cite_ref-popmech_1-0" class="reference"><a href="#cite_note-popmech-1">[1]</a></sup> It employs a dual-<a href="/wiki/Mesh_networking" title="Mesh networking">mesh</a> networking topology<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> in which all devices are peers and each device independently transmits, receives, and repeats messages.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Like other home automation systems, it has been associated with the <a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">Internet of Things</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Insteon-based products were launched in 2005 by Smartlabs,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> the company which holds the trademark for <i>Insteon</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> A Smartlabs subsidiary, also named <a href="/wiki/Insteon_(company)" title="Insteon (company)">Insteon</a>, was created to market the technology.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>According to a press release on June 13, SmartLabs and its Insteon technology has been acquired by Richmond Capital Partners with Rob Lilleness of Universal Electronics assuming the role of chairman and CEO. As of Nov 6, 2017, the Smarthome building appears to have been vacated.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Protocol"><span class="tocnumber">1</span> <span class="toctext">Protocol</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Network_topology"><span class="tocnumber">2</span> <span class="toctext">Network topology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Central_controllers"><span class="tocnumber">2.1</span> <span class="toctext">Central controllers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Security"><span class="tocnumber">3</span> <span class="toctext">Security</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Installation"><span class="tocnumber">4</span> <span class="toctext">Installation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Compatibility"><span class="tocnumber">5</span> <span class="toctext">Compatibility</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Specifications"><span class="tocnumber">6</span> <span class="toctext">Specifications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Protocol">Protocol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=1" title="Edit section: Protocol">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Every message received by an Insteon compatible device undergoes error detection and correction and is then retransmitted to improve reliability. All devices retransmit the same message at the same time so that message transmissions are synchronous, thus preserving the integrity of the message while strengthening the signal on the powerline and erasing RF dead zones. Insteon powerline messaging uses <a href="/wiki/Phase-shift_keying" title="Phase-shift keying">phase-shift keying</a>. Insteon RF messaging uses <a href="/wiki/Frequency-shift_keying" title="Frequency-shift keying">frequency-shift keying</a>.</p>
+<p>Each message contains a two-bit "<a href="/wiki/Hop_(networking)" title="Hop (networking)">hops</a>" field that is initialized to 3 by the originating node and decremented each time a node in the network repeats the message. Individual Insteon messages can also carry up to 14 <a href="/wiki/Byte" title="Byte">bytes</a> of arbitrary user data for custom applications.</p>
+<h2><span class="mw-headline" id="Network_topology">Network topology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=2" title="Edit section: Network topology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Insteon is an integrated dual-mesh (formerly referred to as "dual-band") network that combines wireless <a href="/wiki/Radio_frequency" title="Radio frequency">radio frequency</a> (RF) and a building's existing electrical wiring. The electrical wiring becomes a backup transmission medium in the event of RF/wireless <a href="/wiki/Interference_(communication)" title="Interference (communication)">interference</a>. Conversely, RF/wireless becomes a backup transmission medium in the event of powerline interference. As a <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a> network, devices do not require network supervision, thus allowing optional operation without central controllers and <a href="/wiki/Routing_table" title="Routing table">routing tables</a>.</p>
+<h3><span class="mw-headline" id="Central_controllers">Central controllers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=3" title="Edit section: Central controllers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Insteon devices can function without a central controller. Additionally, they may be managed by a central controller to implement functions such as control via smartphones and tablets, control scheduling, event handling, and problem reporting via email or text messaging. A computer can be used as a central controller by connecting it to an Insteon USB/<a href="/wiki/Serial_port" title="Serial port">serial</a> PowerLinc modem, which serves as a communication bridge between the computer and the Insteon device network.</p>
+<h2><span class="mw-headline" id="Security">Security</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=4" title="Edit section: Security">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Insteon network security is maintained via <i>linking control</i> to ensure that users cannot create links that would allow them to control a neighbors’ Insteon devices, and via encryption within extended Insteon messages for applications such as door locks and security applications, should those applications choose to implement encryption.<sup id="cite_ref-details_9-0" class="reference"><a href="#cite_note-details-9">[9]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>53</span></sup></p>
+<p>Insteon enforces linking control by requiring users to have physical possession of devices, or knowledge of their unique Insteon IDs in order to create links. Firmware in Insteon devices prohibits them from identifying themselves to other devices unless a user either physically presses a button on the device during the installation process or explicitly addresses the device via a central controller. Linking to a device by sending Insteon messages (e.g., from a central controller) requires knowledge of the address of the target Insteon device. As these addresses are unique for each device and assigned at the factory (and displayed on a printed label attached to each device), users must have physical access to the device to read the device address from the label and manually enter it when prompted during installation.</p>
+<p>The security of Insteon RF devices was criticized in a <a href="/wiki/DEF_CON" title="DEF CON">DEF CON</a> presentation in 2015.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Installation">Installation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=5" title="Edit section: Installation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Insteon devices are configured by applying a sequence of "taps" (button presses) to a pushbutton on each device to establish direct device-to-device links. Alternatively, a central controller may be used to configure devices.</p>
+<p>Each Insteon device has its own unique identifier code, similar to a <a href="/wiki/MAC_address" title="MAC address">MAC address</a>, and the technology allows directly linked devices to manage their identifiers.</p>
+<h2><span class="mw-headline" id="Compatibility">Compatibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=6" title="Edit section: Compatibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Older Insteon chip sets manufactured by Smartlabs can transmit, receive, and respond to (but not repeat) <a href="/wiki/X10_(industry_standard)" title="X10 (industry standard)">X10</a> power line messages, thus enabling X10 networks to interoperate with Insteon.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>In 2014, Insteon released a home automation system compatible with the touch-enabled <a href="/wiki/Metro_(design_language)" title="Metro (design language)">Metro interface</a>, with devices appearing as <a href="/wiki/Windows_Phone_8.1#Live_tiles" title="Windows Phone 8.1">"live tiles"</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> and later added voice control via <a href="/wiki/Cortana_(software)" class="mw-redirect" title="Cortana (software)">Microsoft Cortana</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>In 2015, voice control was added via compatibility with Amazon Echo.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> That same year, <a href="/wiki/Logitech" title="Logitech">Logitech</a> announced the Harmony Hub-based remote would support Insteon devices when deployed with an Insteon Hub.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Also in 2015, Insteon announced an initiative to integrate the Google-owned <a href="/wiki/Nest_Labs" title="Nest Labs">Nest</a> learning thermostat with the Insteon Hub.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>Insteon was one of two launch partners for <a href="/wiki/IOS_8#HomeKit" title="IOS 8">Apple's HomeKit</a> platform, with the HomeKit-enabled Insteon Hub Pro.<sup id="cite_ref-AppleTV_19-0" class="reference"><a href="#cite_note-AppleTV-19">[19]</a></sup> In 2015, Insteon announced support for the <a href="/wiki/Apple_Watch" title="Apple Watch">Apple Watch</a>, allowing watch owners to control their home with an Insteon Hub.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="Specifications">Specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=7" title="Edit section: Specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Data rate</dt>
+</dl>
+<ul>
+<li>Instantaneous (within a single packet): 13,165 <a href="/wiki/Bit" title="Bit">bit</a>/s</li>
+<li>Sustained best case (over multiple packets): 2,880 bit/s</li>
+<li>Sustained average case: 180 bit/s<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+</ul>
+<dl>
+<dt>Message types</dt>
+</dl>
+<ul>
+<li>Standard: 10 <a href="/wiki/Byte" title="Byte">bytes</a></li>
+<li>Extended: 24 bytes</li>
+</ul>
+<dl>
+<dt>Message format/structure</dt>
+</dl>
+<ul>
+<li>Source Address: 3 bytes</li>
+<li>Destination Address: 3 bytes</li>
+<li>Flags: 1 byte</li>
+<li>Command: 2 bytes</li>
+<li>User Data: 14 bytes</li>
+<li>Message Integrity: 1 byte</li>
+</ul>
+<dl>
+<dt>Devices supported</dt>
+</dl>
+<ul>
+<li>Unique IDs: 16,777,216</li>
+<li>Device Types: 65,536</li>
+<li>Commands: 65,536</li>
+<li>Group Members: 256</li>
+</ul>
+<dl>
+<dt>Insteon engine memory requirements</dt>
+</dl>
+<ul>
+<li>RAM: 80 bytes</li>
+<li>ROM: 3 <a href="/wiki/Kilobyte" title="Kilobyte">kilobytes</a></li>
+</ul>
+<dl>
+<dt>Typical application (light switch, lamp dimmer) memory requirements</dt>
+</dl>
+<ul>
+<li>RAM: 256 bytes</li>
+<li><a href="/wiki/EEPROM" title="EEPROM">EEPROM</a>: 256 bytes</li>
+<li>Flash: 7 kB</li>
+</ul>
+<dl>
+<dt>Power line physical layer</dt>
+</dl>
+<ul>
+<li>Frequency: 131.65&#160;kHz</li>
+<li>Modulation: <a href="/wiki/Phase-shift_keying#Binary_phase-shift_keying_(BPSK)" title="Phase-shift keying">Binary phase-shift keying</a> (BPSK)</li>
+<li>Min Transmit Level: 3.16 Vpp into 5 ohms</li>
+<li>Min Receive Level: 10 mV</li>
+<li>Phase Bridging: Insteon RF or hardware</li>
+</ul>
+<dl>
+<dt>RF physical layer</dt>
+</dl>
+<ul>
+<li>Frequency: 902 to 924&#160;MHz</li>
+<li>Modulation: <a href="/wiki/Frequency-shift_keying" title="Frequency-shift keying">FSK</a></li>
+<li>Sensitivity: -103 <a href="/wiki/DBm" title="DBm">dBm</a></li>
+<li>Range: 150&#160;ft unobstructed line-of-sight<sup id="cite_ref-details_9-1" class="reference"><a href="#cite_note-details-9">[9]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>53</span></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-popmech-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-popmech_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100217034754/http://www.popularmechanics.com/home_journal/home_improvement/4301977.html">"How to Control Your Home with your Cell Phone"</a>. Popular Mechanics. October 1, 2009. Archived from <a rel="nofollow" class="external text" href="http://www.popularmechanics.com/home_journal/home_improvement/4301977.html">the original</a> on February 17, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+to+Control+Your+Home+with+your+Cell+Phone&amp;rft.pub=Popular+Mechanics&amp;rft.date=2009-10-01&amp;rft_id=http%3A%2F%2Fwww.popularmechanics.com%2Fhome_journal%2Fhome_improvement%2F4301977.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://electronicdesign.com/embedded/refresh-insteon-technology">"Refresh!: Insteon Technology"</a>. <i>Electronic Design</i>. Penton Media, Inc. April 5, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Electronic+Design&amp;rft.atitle=Refresh%21%3A+Insteon+Technology&amp;rft.date=2006-04-05&amp;rft_id=http%3A%2F%2Felectronicdesign.com%2Fembedded%2Frefresh-insteon-technology&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.Insteon.net/aboutInsteon.html">"What is Insteon?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+Insteon%3F&amp;rft_id=http%3A%2F%2Fwww.Insteon.net%2FaboutInsteon.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerworld.com/article/2488373/emerging-technology/can-we-talk--internet-of-things-vendors-face-a-communications--mess-.html">"Can we talk? Internet of Things vendors face a communications 'mess<span style="padding-right:0.2em;">'</span>"</a>. <i>Computer World</i>. IDG. April 18, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Computer+World&amp;rft.atitle=Can+we+talk%3F+Internet+of+Things+vendors+face+a+communications+%27mess%27&amp;rft.date=2014-04-18&amp;rft_id=http%3A%2F%2Fwww.computerworld.com%2Farticle%2F2488373%2Femerging-technology%2Fcan-we-talk--internet-of-things-vendors-face-a-communications--mess-.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/content/article/2005/09/02/AR2005090200875.html">"First Look: Insteon's Easier Home Automation"</a>. Washington Post. September 2, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=First+Look%3A+Insteon%27s+Easier+Home+Automation&amp;rft.pub=Washington+Post&amp;rft.date=2005-09-02&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2005%2F09%2F02%2FAR2005090200875.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://trademarks.justia.com/856/26/insteon-85626413.html">"INSTEON - Trademark Details"</a>. justia.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=INSTEON+-+Trademark+Details&amp;rft.pub=justia.com&amp;rft_id=https%3A%2F%2Ftrademarks.justia.com%2F856%2F26%2Finsteon-85626413.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ocbj.com/news/2015/jan/06/insteon-partners-nest/">"Insteon Partners With Nest"</a>. Orange County Business Journal. January 6, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Insteon+Partners+With+Nest&amp;rft.pub=Orange+County+Business+Journal&amp;rft.date=2015-01-06&amp;rft_id=http%3A%2F%2Fwww.ocbj.com%2Fnews%2F2015%2Fjan%2F06%2Finsteon-partners-nest%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.insteon.com/press-releases-blog/2017/6/13/richmond-capital-partners-acquires-smartlabs-and-fortifies-company-with-73-million-in-funding-to-accelerate-the-companys-push-in-the-iot-industry">"Richmond Capital Partners Acquires Smartlabs and Fortifies Company with $7.3 Million in Funding to Accelerate the Company's Push in the IoT Industry"</a>. <i>Insteon</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Insteon&amp;rft.atitle=Richmond+Capital+Partners+Acquires+Smartlabs+and+Fortifies+Company+with+%247.3+Million+in+Funding+to+Accelerate+the+Company%E2%80%99s+Push+in+the+IoT+Industry&amp;rft_id=https%3A%2F%2Fwww.insteon.com%2Fpress-releases-blog%2F2017%2F6%2F13%2Frichmond-capital-partners-acquires-smartlabs-and-fortifies-company-with-73-million-in-funding-to-accelerate-the-companys-push-in-the-iot-industry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-details-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-details_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-details_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cache.insteon.com/documentation/insteon_details.pdf">"Insteon The Details"</a> <span style="font-size:85%;">(PDF)</span>. Insteon. 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Insteon+The+Details&amp;rft.pub=Insteon&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fcache.insteon.com%2Fdocumentation%2Finsteon_details.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Shipley, Peter. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=dy1LTQLmPtM">"Insteon: False Security and Deceptive Documentation"</a>. <i>Youtube</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Youtube&amp;rft.atitle=Insteon%3A+False+Security+and+Deceptive+Documentation&amp;rft.aulast=Shipley&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddy1LTQLmPtM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smarthome.com/insteon-x10-programming.html">"X10 Programming for Insteon Devices"</a>. <i>Smarthome</i>. Smarthome Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Smarthome&amp;rft.atitle=X10+Programming+for+Insteon+Devices&amp;rft_id=http%3A%2F%2Fwww.smarthome.com%2Finsteon-x10-programming.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.electronichouse.com/daily/smart-home/home-control-101-insteon-vs-x10/">"Home Control 101: Insteon vs. X10"</a>. <i>EH Network</i>. EH Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EH+Network&amp;rft.atitle=Home+Control+101%3A+Insteon+vs.+X10&amp;rft_id=http%3A%2F%2Fwww.electronichouse.com%2Fdaily%2Fsmart-home%2Fhome-control-101-insteon-vs-x10%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Hachman, Mark (15 May 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141221221550/http://www.pcworld.com/article/2155343/microsoft-teams-with-insteon-to-sell-connected-home-kits.html">"Microsoft teams with Insteon to sell connected-home kits"</a>. <i>pcworld.com</i>. IDG Consumer &amp; SMB. Archived from <a rel="nofollow" class="external text" href="http://www.pcworld.com/article/2155343/microsoft-teams-with-insteon-to-sell-connected-home-kits.html">the original</a> on 21 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pcworld.com&amp;rft.atitle=Microsoft+teams+with+Insteon+to+sell+connected-home+kits&amp;rft.date=2014-05-15&amp;rft.aulast=Hachman&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Fwww.pcworld.com%2Farticle%2F2155343%2Fmicrosoft-teams-with-insteon-to-sell-connected-home-kits.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Ochs, Susie (16 July 2014). <a rel="nofollow" class="external text" href="http://www.techhive.com/article/2454273/insteons-cortana-integration-will-let-windows-phone-users-talk-to-their-house.html">"Insteon's Cortana integration will let Windows Phone users talk to their house"</a>. <i>techhive.com</i>. IDG Consumer &amp; SMB<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=techhive.com&amp;rft.atitle=Insteon%27s+Cortana+integration+will+let+Windows+Phone+users+talk+to+their+house&amp;rft.date=2014-07-16&amp;rft.aulast=Ochs&amp;rft.aufirst=Susie&amp;rft_id=http%3A%2F%2Fwww.techhive.com%2Farticle%2F2454273%2Finsteons-cortana-integration-will-let-windows-phone-users-talk-to-their-house.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Darryl Taft, <a rel="nofollow" class="external text" href="http://www.eweek.com/mobile/insteon-taps-microsoft-cortana-for-windows-phone-8.1-home-automation-app.html#sthash.xCMnyVzM.dpuf">"Insteon Taps Microsoft Cortana for Windows Phone 8.1 Home Automation App"</a>, <i>eWeek</i>, July 16, 2014</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Crist, Ry. <a rel="nofollow" class="external text" href="http://www.cnet.com/news/alexa-hit-the-lights-amazon-echo-adds-insteon-support/">"<span style="padding-left:0.2em;">'</span>Alexa, hit the lights': Amazon Echo adds Insteon support"</a>. <i>CNet</i>. CBS Interactive Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNet&amp;rft.atitle=%27Alexa%2C+hit+the+lights%27%3A+Amazon+Echo+adds+Insteon+support&amp;rft.aulast=Crist&amp;rft.aufirst=Ry&amp;rft_id=http%3A%2F%2Fwww.cnet.com%2Fnews%2Falexa-hit-the-lights-amazon-echo-adds-insteon-support%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smallnetbuilder.com/smarthome/smarthome-news/32802-logitech-and-insteon-team-up-for-easier-home-control">"Logitech and Insteon Team Up For Easier Home Control"</a>. smallnetbuilder.com. 2015-08-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Logitech+and+Insteon+Team+Up+For+Easier+Home+Control&amp;rft.pub=smallnetbuilder.com&amp;rft.date=2015-08-13&amp;rft_id=http%3A%2F%2Fwww.smallnetbuilder.com%2Fsmarthome%2Fsmarthome-news%2F32802-logitech-and-insteon-team-up-for-easier-home-control&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Brown, Michael (5 January 2015). <a rel="nofollow" class="external text" href="http://www.techhive.com/article/2864067/works-with-nest-program-explodes-with-15-new-smart-device-integrations.html">"<span style="padding-left:0.2em;">'</span>Works with Nest' program gains traction with 15 new smart device integrations"</a>. <i>www.techhive.com</i>. IDG Consumer &amp; SMB<span class="reference-accessdate">. Retrieved <span class="nowrap">8 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.techhive.com&amp;rft.atitle=%E2%80%98Works+with+Nest%E2%80%99+program+gains+traction+with+15+new+smart+device+integrations&amp;rft.date=2015-01-05&amp;rft.aulast=Brown&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.techhive.com%2Farticle%2F2864067%2Fworks-with-nest-program-explodes-with-15-new-smart-device-integrations.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AppleTV-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-AppleTV_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Ricker, Thomas; Kastrenakes, Jacob. <a rel="nofollow" class="external text" href="https://www.theverge.com/2015/1/8/7510647/first-homekit-devices-confirm-apple-tvs-role-in-home-automation">"First HomeKit devices confirm Apple TV's limited role in home automation"</a>. <i>theverge.com</i>. The Verge<span class="reference-accessdate">. Retrieved <span class="nowrap">2 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=theverge.com&amp;rft.atitle=First+HomeKit+devices+confirm+Apple+TV%27s+limited+role+in+home+automation&amp;rft.aulast=Ricker&amp;rft.aufirst=Thomas&amp;rft.au=Kastrenakes%2C+Jacob&amp;rft_id=https%3A%2F%2Fwww.theverge.com%2F2015%2F1%2F8%2F7510647%2Ffirst-homekit-devices-confirm-apple-tvs-role-in-home-automation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.macworld.com/article/2929797/hubs-controllers/insteon-ships-its-homekit-enabled-hub-and-app.html">"Insteon ships its HomeKit-enabled hub and app"</a>. macworld.com. 2015-06-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Insteon+ships+its+HomeKit-enabled+hub+and+app&amp;rft.pub=macworld.com&amp;rft.date=2015-06-02&amp;rft_id=http%3A%2F%2Fwww.macworld.com%2Farticle%2F2929797%2Fhubs-controllers%2Finsteon-ships-its-homekit-enabled-hub-and-app.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Irwin; et al. (2011). <a rel="nofollow" class="external text" href="http://www.cs.williams.edu/~jeannie/papers/insteon-buildsys11.pdf">"Exploiting Home Automation Protocols For Load Monitoring In Smart Buildings"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Exploiting+Home+Automation+Protocols+For+Load+Monitoring+In+Smart+Buildings&amp;rft.date=2011&amp;rft.au=Irwin&amp;rft_id=http%3A%2F%2Fwww.cs.williams.edu%2F~jeannie%2Fpapers%2Finsteon-buildsys11.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsteon" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insteon&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.insteon.com">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.linuxha.com/athome/common/iplcd/">Open Source Insteon USB device driver for Linux</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Home_automation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Home_automation" title="Template:Home automation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Home_automation" title="Template talk:Home automation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Home_automation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Home_automation" style="font-size:114%;margin:0 4em"><a href="/wiki/Home_automation" title="Home automation">Home automation</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#System" title="Home automation">System</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Elements</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actuator" title="Actuator">Actuators</a></li>
+<li><a href="/wiki/Programmable_logic_controller" title="Programmable logic controller">Hardware controllers</a></li>
+<li><a href="/wiki/Sensor" title="Sensor">Sensors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#Interconnection" title="Home automation">Interconnection<br />
+type</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wire" title="Wire">Wired</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Cable (<a href="/wiki/Digital_subscriber_line" title="Digital subscriber line">xDSL</a>)</li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Power-line_communication" title="Power-line communication">Powerline</a>
+<ul>
+<li><a href="/wiki/PLCBUS" title="PLCBUS">PLCBUS</a></li>
+<li><a href="/wiki/Universal_powerline_bus" title="Universal powerline bus">Universal powerline bus</a> (UPB)</li>
+<li><a href="/wiki/X10_(industry_standard)" title="X10 (industry standard)">X10</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wireless" title="Wireless">Wireless</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Radio_frequency" title="Radio frequency">Radio frequency</a>
+<ul>
+<li><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a></li>
+<li><a href="/wiki/Bluetooth_Low_Energy" title="Bluetooth Low Energy">Bluetooth Low Energy</a></li>
+<li><a href="/wiki/Digital_Enhanced_Cordless_Telecommunications" title="Digital Enhanced Cordless Telecommunications">DECT</a></li>
+<li><a href="/wiki/EnOcean" title="EnOcean">EnOcean</a></li>
+<li><a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a></li>
+<li><a href="/wiki/MyriaNed" title="MyriaNed">MyriaNed</a></li>
+<li><a href="/wiki/One-Net" title="One-Net">One-Net</a></li>
+<li><a href="/wiki/Universal_Mobile_Telecommunications_System" class="mw-redirect" title="Universal Mobile Telecommunications System">UMTS</a></li>
+<li><a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a></li>
+<li><a href="/wiki/ZigBee" class="mw-redirect" title="ZigBee">ZigBee</a></li>
+<li><a href="/wiki/Z-Wave" title="Z-Wave">Z-Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a> (<a href="/wiki/Consumer_IR" title="Consumer IR">Consumer IR</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Both</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Insteon</a></li>
+<li><a href="/wiki/KNX_(standard)" title="KNX (standard)">KNX</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#Classifications_of_domestic_network_technologies" title="Home automation">Network<br />
+technologies,<br />
+by function</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Device<br />
+interconnection</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a></li>
+<li><a href="/wiki/Bluetooth_Low_Energy" title="Bluetooth Low Energy">Bluetooth Low Energy</a></li>
+<li><a href="/wiki/IEEE_1394" title="IEEE 1394">FireWire</a></li>
+<li><a href="/wiki/Infrared_Data_Association" title="Infrared Data Association">IrDA</a></li>
+<li><a href="/wiki/USB" title="USB">USB</a></li>
+<li><a href="/wiki/ZigBee" class="mw-redirect" title="ZigBee">ZigBee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Control and<br />
+automation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AllJoyn" title="AllJoyn">AllJoyn</a></li>
+<li><a href="/wiki/Bus_SCS" title="Bus SCS">Bus SCS</a> with <a href="/wiki/OpenWebNet" title="OpenWebNet">OpenWebNet</a></li>
+<li><a href="/wiki/C-Bus_(protocol)" title="C-Bus (protocol)">C-Bus (protocol)</a></li>
+<li><a href="/wiki/CEBus" title="CEBus">CEBus</a></li>
+<li><a href="/wiki/EnOcean" title="EnOcean">EnOcean</a></li>
+<li><a href="/wiki/European_Home_Systems_Protocol" title="European Home Systems Protocol">EHS</a></li>
+<li><a class="mw-selflink selflink">Insteon</a></li>
+<li><a href="/wiki/KNX_(standard)" title="KNX (standard)">KNX</a></li>
+<li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li>
+<li><a href="/wiki/One-Net" title="One-Net">One-Net</a></li>
+<li><a href="/wiki/Universal_powerline_bus" title="Universal powerline bus">Universal powerline bus</a></li>
+<li><a href="/wiki/X10_(industry_standard)" title="X10 (industry standard)">X10</a></li>
+<li><a href="/wiki/ZigBee" class="mw-redirect" title="ZigBee">ZigBee</a></li>
+<li><a href="/wiki/Z-Wave" title="Z-Wave">Z-Wave</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Data<br />
+networking</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ethernet" title="Ethernet">Ethernet</a></li>
+<li><a href="/wiki/HomePlug" title="HomePlug">HomePlug</a></li>
+<li><a href="/wiki/HomePNA" title="HomePNA">HomePNA</a></li>
+<li><a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Patch_Panel.jpg" class="image"><img alt="Patch Panel.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patch_Panel.jpg/155px-Patch_Panel.jpg" width="155" height="207" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patch_Panel.jpg/233px-Patch_Panel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patch_Panel.jpg/310px-Patch_Panel.jpg 2x" data-file-width="2448" data-file-height="3264" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_automation#Tasks" title="Home automation">Tasks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Home_automation#Audio_and_video" title="Home automation">Audio and video</a></li>
+<li><a href="/wiki/HVAC" title="HVAC">Heating, ventilation and air conditioning</a></li>
+<li><a href="/wiki/Lighting_control_system" title="Lighting control system">Lighting control system</a></li>
+<li><a href="/wiki/Home_automation#Other_systems" title="Home automation">Other systems</a></li>
+<li><a href="/wiki/Home_automation#Robotics" title="Home automation">Robotics</a></li>
+<li><a href="/wiki/Home_automation#Security" title="Home automation">Security</a></li>
+<li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Thermostat automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Home_automation#Costs" title="Home automation">Costs</a></li>
+<li><a href="/wiki/Mesh_networking" title="Mesh networking">Mesh networking</a></li>
+<li><a href="/wiki/Home_automation#Organizations" title="Home automation">Organizations</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<dl>
+<dt>See also</dt>
+<dd><a href="/wiki/Home_of_the_future" title="Home of the future">Home of the future</a></dd>
+<dd><a href="/wiki/Building_automation" title="Building automation">Building automation</a></dd>
+<dd><a href="/wiki/Floor_plan" title="Floor plan">Floor plan</a></dd>
+<dd><a href="/wiki/Home_automation" title="Home automation">Home automation</a></dd>
+<dd><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></dd>
+<dd><a href="/wiki/Home_network" title="Home network">Home network</a></dd>
+<dd><a href="/wiki/Home_server" title="Home server">Home server</a></dd>
+<dd><a href="/wiki/Robotic_mapping" title="Robotic mapping">House navigation system</a></dd>
+<dd><a href="/wiki/INTEGER_Millennium_House" title="INTEGER Millennium House">INTEGER Millennium House</a></dd>
+<dd><a href="/wiki/House_of_the_Future,_Cardiff" title="House of the Future, Cardiff">The House of the Future</a></dd>
+<dd><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></dd>
+<dd><a href="/wiki/Xanadu_Houses" title="Xanadu Houses">Xanadu Houses</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20180211021125
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.276 seconds
+Real time usage: 0.313 seconds
+Preprocessor visited node count: 1379/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67768/2097152 bytes
+Template argument size: 224/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 3.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.906      1 -total
+ 55.33%  153.220      1 Template:Reflist
+ 39.51%  109.406     18 Template:Cite_web
+ 19.99%   55.349      1 Template:Infobox_dot-com_company
+ 16.10%   44.594      1 Template:Infobox
+ 10.07%   27.887      1 Template:About
+  7.65%   21.174      4 Template:Navbox
+  5.13%   14.216      1 Template:Home_automation
+  2.58%    7.146      1 Template:Comma_separated_entries
+  2.33%    6.449      1 Template:Cite_news
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2088757-0!canonical and timestamp 20180211021124 and revision id 818259401
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Insteon&amp;oldid=818259401">https://en.wikipedia.org/w/index.php?title=Insteon&amp;oldid=818259401</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Smart_home_hubs" title="Category:Smart home hubs">Smart home hubs</a></li><li><a href="/wiki/Category:Wireless_sensor_network" title="Category:Wireless sensor network">Wireless sensor network</a></li><li><a href="/wiki/Category:Mesh_networking" title="Category:Mesh networking">Mesh networking</a></li><li><a href="/wiki/Category:IOS_software" title="Category:IOS software">IOS software</a></li><li><a href="/wiki/Category:WatchOS_software" title="Category:WatchOS software">WatchOS software</a></li><li><a href="/wiki/Category:Android_(operating_system)_software" title="Category:Android (operating system) software">Android (operating system) software</a></li><li><a href="/wiki/Category:Windows_Phone_software" title="Category:Windows Phone software">Windows Phone software</a></li><li><a href="/wiki/Category:PLC_Internet_access" title="Category:PLC Internet access">PLC Internet access</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Insteon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Insteon" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Insteon" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Insteon" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Insteon">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Insteon&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Insteon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Insteon" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Insteon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Insteon&amp;oldid=818259401" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Insteon&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6038881" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Insteon&amp;id=818259401" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Insteon">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Insteon&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Insteon&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Insteon" title="Insteon – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6038881#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 January 2018, at 15:01.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Insteon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.313","ppvisitednodes":{"value":1379,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67768,"limit":2097152},"templateargumentsize":{"value":224,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  276.906      1 -total"," 55.33%  153.220      1 Template:Reflist"," 39.51%  109.406     18 Template:Cite_web"," 19.99%   55.349      1 Template:Infobox_dot-com_company"," 16.10%   44.594      1 Template:Infobox"," 10.07%   27.887      1 Template:About","  7.65%   21.174      4 Template:Navbox","  5.13%   14.216      1 Template:Home_automation","  2.58%    7.146      1 Template:Comma_separated_entries","  2.33%    6.449      1 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.139","limit":"10.000"},"limitreport-memusage":{"value":3929189,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20180211021125","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

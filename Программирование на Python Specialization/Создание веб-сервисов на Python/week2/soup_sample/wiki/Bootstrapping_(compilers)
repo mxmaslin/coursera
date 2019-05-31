@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bootstrapping (compilers) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bootstrapping_(compilers)","wgTitle":"Bootstrapping (compilers)","wgCurRevisionId":819430506,"wgRevisionId":819430506,"wgArticleId":2384332,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from March 2015","Compilers","Compiler construction"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bootstrapping_(compilers)","wgRelevantArticleId":2384332,"wgRequestId":"WoNVIApAMFwAACPc3eUAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q893209","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bootstrapping_(compilers)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bootstrapping_(compilers)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bootstrapping_compilers rootpage-Bootstrapping_compilers skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Bootstrapping (compilers)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about bootstrapping compilers. For the general concept, see <a href="/wiki/Bootstrapping" title="Bootstrapping">Bootstrapping</a>.</div>
+<p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a>, <b>bootstrapping</b> is the technique for producing a <a href="/wiki/Self-hosting_compiler" class="mw-redirect" title="Self-hosting compiler">self-compiling compiler</a> - that is, <a href="/wiki/Compiler" title="Compiler">compiler</a> (or <a href="/wiki/Assembly_language#Assembler" title="Assembly language">assembler</a>) written in the source <a href="/wiki/Programming_language" title="Programming language">programming language</a> that it intends to compile. An initial core version of the compiler - the <i>bootstrap compiler</i> - is generated in a different language (which could be assembly language); successive expanded versions of the compiler are developed using this minimal subset of the language.</p>
+<p>Many compilers for many programming languages are bootstrapped, including compilers for <a href="/wiki/BASIC" title="BASIC">BASIC</a>, <a href="/wiki/ALGOL" title="ALGOL">ALGOL</a>, <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>, <a href="/wiki/Pascal_programming_language" class="mw-redirect" title="Pascal programming language">Pascal</a>, <a href="/wiki/PL/I" title="PL/I">PL/I</a>, <a href="/wiki/Factor_programming_language" class="mw-redirect" title="Factor programming language">Factor</a>, <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a>, <a href="/wiki/Modula-2" title="Modula-2">Modula-2</a>, <a href="/wiki/Oberon_programming_language" class="mw-redirect" title="Oberon programming language">Oberon</a>, <a href="/wiki/OCaml" title="OCaml">OCaml</a>, <a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a>, <a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a>, <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a>, <a href="/wiki/Nim_(programming_language)" title="Nim (programming language)">Nim</a>, <a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a>, and more.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Advantages"><span class="tocnumber">1</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_chicken_and_egg_problem"><span class="tocnumber">2</span> <span class="toctext">The chicken and egg problem</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#List_of_languages_having_self-hosting_compilers"><span class="tocnumber">4</span> <span class="toctext">List of languages having self-hosting compilers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit&amp;section=1" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bootstrapping a compiler has the following advantages:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-terry_2-0" class="reference"><a href="#cite_note-terry-2">[2]</a></sup></p>
+<ul>
+<li>it is a non-trivial test of the language being compiled, and as such is a form of <a href="/wiki/Eating_your_own_dog_food" title="Eating your own dog food">dogfooding</a>.</li>
+<li>compiler developers and bug reporting part of the community only need to know the language being compiled.</li>
+<li>compiler development can be done in the higher level language being compiled.</li>
+<li>improvements to the compiler's back-end improve not only general purpose programs but also the compiler itself.</li>
+<li>it is a comprehensive consistency check as it should be able to reproduce its own object code.</li>
+</ul>
+<p>Note that some of these points assume that the language runtime is also written in the same language.</p>
+<h2><span class="mw-headline" id="The_chicken_and_egg_problem">The chicken and egg problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit&amp;section=2" title="Edit section: The chicken and egg problem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If one needs to compile a compiler for language X (written in language X), there is the issue of how the first compiler can be compiled. The different methods that are used in practice to solving this <a href="/wiki/Chicken_or_the_egg" title="Chicken or the egg">chicken or the egg</a> problem include:</p>
+<ul>
+<li>Implementing an <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">interpreter</a> or <a href="/wiki/Compiler" title="Compiler">compiler</a> for language X in language Y. <a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> reported that he wrote the first <a href="/wiki/Pascal_programming_language" class="mw-redirect" title="Pascal programming language">Pascal</a> compiler in <a href="/wiki/Fortran" title="Fortran">Fortran</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2015)">citation needed</span></a></i>]</sup></li>
+<li>Another interpreter or compiler for X has already been written in another language Y; this is how <a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a> is often bootstrapped.</li>
+<li>Earlier versions of the compiler were written in a subset of X for which there existed some other compiler; this is how some supersets of <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a>, and the initial <a href="/wiki/Free_Pascal" title="Free Pascal">Free Pascal</a> compiler are bootstrapped.</li>
+<li>A compiler supporting non-standard language extensions or optional language features can be written without using those extensions and features, to enable it being compiled with another compiler supporting the same base language but a different set of extensions and features. The main parts of the <a href="/wiki/C%2B%2B" title="C++">C++</a> compiler <a href="/wiki/Clang" title="Clang">clang</a> were written in a subset of C++ that can be compiled by both <a href="/wiki/G%2B%2B" class="mw-redirect" title="G++">g++</a> and <a href="/wiki/Microsoft_Visual_C%2B%2B" title="Microsoft Visual C++">Microsoft Visual C++</a>. Advanced features are written with some GCC extensions.</li>
+<li>The compiler for X is <a href="/wiki/Cross-compilation" class="mw-redirect" title="Cross-compilation">cross compiled</a> from another architecture where there exists a compiler for X; this is how compilers for <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> are usually ported to other platforms. Also this is the method used for <a href="/wiki/Free_Pascal" title="Free Pascal">Free Pascal</a> after the initial bootstrap.</li>
+<li>Writing the compiler in X; then hand-compiling it from source (most likely in a non-optimized way) and running that on the code to get an optimized compiler. <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> used this for his <a href="/wiki/WEB" title="WEB">WEB</a> <a href="/wiki/Literate_programming" title="Literate programming">literate programming</a> system.</li>
+</ul>
+<p>Methods for distributing compilers in source code include providing a portable <a href="/wiki/Bytecode" title="Bytecode">bytecode</a> version of the compiler, so as to <i>bootstrap</i> the process of compiling the compiler with itself. The <a href="/wiki/T-diagram" class="mw-redirect" title="T-diagram">T-diagram</a> is a <a href="/wiki/Notation" title="Notation">notation</a> used to explain these compiler bootstrap techniques.<sup id="cite_ref-terry_2-1" class="reference"><a href="#cite_note-terry-2">[2]</a></sup> In some cases, the most convenient way to get a complicated compiler running on a system that has little or no software on it involves a series of ever more sophisticated assemblers and compilers.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/History_of_compiler_writing" class="mw-redirect" title="History of compiler writing">History of compiler writing</a></div>
+<p>Assemblers were the first language tools to bootstrap themselves.</p>
+<p>The first high level language to provide such a bootstrap was <a href="/wiki/NELIAC" title="NELIAC">NELIAC</a> in 1958. The first widely used languages to do so were <a href="/wiki/Burroughs_B5000" class="mw-redirect" title="Burroughs B5000">Burroughs B5000</a> Algol in 1961 and <a href="/wiki/Lisp_programming_language" class="mw-redirect" title="Lisp programming language">LISP</a> in 1962.</p>
+<p>Hart and Levin wrote a LISP compiler in LISP at MIT in 1962, testing it inside an existing LISP interpreter. Once they had improved the compiler to the point where it could compile its own source code, it was self-hosting.<sup id="cite_ref-LEVIN_4-0" class="reference"><a href="#cite_note-LEVIN-4">[4]</a></sup></p>
+<blockquote class="templatequote">
+<p>The compiler as it exists on the standard compiler tape is a machine language program that was obtained by having the <a href="/wiki/S-expression" title="S-expression">S-expression</a> definition of the compiler work on itself through the interpreter.</p>
+<div class="templatequotecite">— <cite>AI Memo 39<sup id="cite_ref-LEVIN_4-1" class="reference"><a href="#cite_note-LEVIN-4">[4]</a></sup></cite></div>
+</blockquote>
+<p>This technique is only possible when an interpreter already exists for the very same language that is to be compiled. It borrows directly from the notion of running a program on itself as input, which is also used in various proofs in <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a>, such as the proof that the <a href="/wiki/Halting_problem" title="Halting problem">halting problem</a> is undecidable.</p>
+<h2><span class="mw-headline" id="List_of_languages_having_self-hosting_compilers">List of languages having self-hosting compilers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit&amp;section=4" title="Edit section: List of languages having self-hosting compilers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following programming languages have self-hosting compilers:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a></li>
+<li><a href="/wiki/BASIC" title="BASIC">BASIC</a></li>
+<li><a href="/wiki/BCPL" title="BCPL">BCPL</a></li>
+<li><a href="/wiki/Burroughs_B5000" class="mw-redirect" title="Burroughs B5000">Burroughs</a> Algol</li>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></li>
+<li><a href="/wiki/C%2B%2B" title="C++">C++</a> (compilers: <a href="/wiki/Visual_C%2B%2B" class="mw-redirect" title="Visual C++">Visual C++</a>, <a href="/wiki/Clang" title="Clang">clang</a>, probably others)</li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> and <a href="/wiki/Visual_Basic_.NET" title="Visual Basic .NET">Visual Basic .NET</a> via <a href="/wiki/Microsoft_Roslyn" class="mw-redirect" title="Microsoft Roslyn">Microsoft Roslyn</a></li>
+<li><a href="/wiki/Ciao_(programming_language)" title="Ciao (programming language)">Ciao</a></li>
+<li><a href="/wiki/Cobol" class="mw-redirect" title="Cobol">Cobol</a></li>
+<li><a href="/wiki/CoffeeScript" title="CoffeeScript">CoffeeScript</a></li>
+<li><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></li>
+<li><a href="/wiki/Crystal_(programming_language)" title="Crystal (programming language)">Crystal</a></li>
+<li><a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a></li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a></li>
+<li><a href="/wiki/Embarcadero_Delphi" class="mw-redirect" title="Embarcadero Delphi">Delphi</a></li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a></li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a></li>
+<li><a href="/wiki/FASM" title="FASM">FASM</a></li>
+<li><a href="/wiki/Factor_programming_language" class="mw-redirect" title="Factor programming language">Factor</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+<li><a href="/wiki/Free_Pascal" title="Free Pascal">Free Pascal</a></li>
+<li><a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></li>
+<li><a href="/wiki/LiveScript" title="LiveScript">LiveScript</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></li>
+<li><a href="/wiki/Mercury_(programming_language)" title="Mercury (programming language)">Mercury</a></li>
+<li><a href="/wiki/Modula-2" title="Modula-2">Modula-2</a></li>
+<li><a href="/wiki/Nemerle" title="Nemerle">Nemerle</a></li>
+<li><a href="/wiki/Nim_(programming_language)" title="Nim (programming language)">Nim</a></li>
+<li><a href="/wiki/Oberon_programming_language" class="mw-redirect" title="Oberon programming language">Oberon</a></li>
+<li><a href="/wiki/OCaml" title="OCaml">OCaml</a></li>
+<li><a href="/wiki/Pascal_programming_language" class="mw-redirect" title="Pascal programming language">Pascal</a></li>
+<li><a href="/wiki/Perl_6" title="Perl 6">Perl 6</a> (compilers: <a href="/wiki/Rakudo_Perl" class="mw-redirect" title="Rakudo Perl">Rakudo Perl</a> &amp; <a href="/wiki/Niecza_Perl_6" class="mw-redirect" title="Niecza Perl 6">Niecza Perl 6</a> are both self-hosting)</li>
+<li><a href="/wiki/PL/I" title="PL/I">PL/I</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a></li>
+<li><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></li>
+<li><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a></li>
+<li><a href="/wiki/SML_(programming_language)" class="mw-redirect" title="SML (programming language)">SML</a></li>
+<li><a href="/wiki/Tcl" title="Tcl">Tcl</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a></li>
+<li>Virgil<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li><a href="/wiki/XPL" title="XPL">XPL</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Self-hosting" title="Self-hosting">Self-hosting</a></li>
+<li><a href="/wiki/Self-interpreter" class="mw-redirect" title="Self-interpreter">Self-interpreter</a></li>
+<li><a href="/wiki/Tombstone_diagram" title="Tombstone diagram">Tombstone diagram</a></li>
+<li><a href="/wiki/Metacompiler" title="Metacompiler">Metacompiler</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Compilers and Compiler Generators: An Introduction With C++. Patrick D. Terry 1997. International Thomson Computer Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85032-298-8" title="Special:BookSources/1-85032-298-8">1-85032-298-8</a></span></li>
+<li id="cite_note-terry-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-terry_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-terry_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"Compiler Construction and Bootstrapping" by P.D.Terry 2000. <a rel="nofollow" class="external text" href="http://www.oopweb.com/Compilers/Documents/Compilers/Volume/cha03s.htm">HTML</a>. <a rel="nofollow" class="external text" href="http://webster.cs.ucr.edu/AsmTools/RollYourOwn/CompilerBook/CHAP03.PDF">PDF</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101214135219/http://webster.cs.ucr.edu/AsmTools/RollYourOwn/CompilerBook/CHAP03.PDF">Archived</a> December 14, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>..</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html">"Bootstrapping a simple compiler from nothing"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100303235322/http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html">Archived</a> March 3, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. by Edmund GRIMLEY EVANS 2001</span></li>
+<li id="cite_note-LEVIN-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-LEVIN_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LEVIN_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Tim Hart and Mike Levin. <a rel="nofollow" class="external text" href="ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-039.pdf">"AI Memo 39-The new compiler"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AI+Memo+39-The+new+compiler&amp;rft.au=Tim+Hart+and+Mike+Levin&amp;rft_id=ftp%3A%2F%2Fpublications.ai.mit.edu%2Fai-publications%2Fpdf%2FAIM-039.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABootstrapping+%28compilers%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://wiki.tcl.tk/12646">https://wiki.tcl.tk/12646</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://code.google.com/p/virgil/">https://code.google.com/p/virgil/</a></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20180213211408
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.223 seconds
+Preprocessor visited node count: 778/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12959/2097152 bytes
+Template argument size: 7216/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  194.024      1 -total
+ 26.82%   52.041      1 Template:Citation_needed
+ 24.24%   47.027      1 Template:Fix
+ 20.45%   39.686      1 Template:Cite_web
+ 16.57%   32.156      2 Template:Category_handler
+ 15.15%   29.388      1 Template:ISBN
+ 11.87%   23.031      1 Template:About
+  8.87%   17.212      1 Template:Quote
+  7.17%   13.906      1 Template:Comma_separated_entries
+  6.85%   13.296      1 Template:Catalog_lookup_link
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2384332-0!canonical and timestamp 20180213211408 and revision id 819430506
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bootstrapping_(compilers)&amp;oldid=819430506">https://en.wikipedia.org/w/index.php?title=Bootstrapping_(compilers)&amp;oldid=819430506</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Compilers" title="Category:Compilers">Compilers</a></li><li><a href="/wiki/Category:Compiler_construction" title="Category:Compiler construction">Compiler construction</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2015" title="Category:Articles with unsourced statements from March 2015">Articles with unsourced statements from March 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bootstrapping+%28compilers%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bootstrapping+%28compilers%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bootstrapping_(compilers)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bootstrapping_(compilers)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bootstrapping_(compilers)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bootstrapping_(compilers)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bootstrapping_(compilers)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;oldid=819430506" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q893209" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bootstrapping_%28compilers%29&amp;id=819430506" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bootstrapping+%28compilers%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bootstrapping+%28compilers%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bootstrapping_(compilers)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bootstrapping_(Programmierung)" title="Bootstrapping (Programmierung) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bootstrap_(compilateur)" title="Bootstrap (compilateur) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9_(%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)" title="부트스트랩 (컴파일러) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bootstrapcompiler" title="Bootstrapcompiler – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E5%95%8F%E9%A1%8C" title="ブートストラップ問題 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%83%D1%82%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B0" title="Раскрутка компилятора – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D1%81%D1%82%D1%80%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0%D1%9A%D0%B5_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D1%98%D0%BB%D0%B5%D1%80%D0%B8)" title="Бутстраповање (компајлери) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q893209#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 January 2018, at 09:41.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bootstrapping_(compilers)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.223","ppvisitednodes":{"value":778,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12959,"limit":2097152},"templateargumentsize":{"value":7216,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  194.024      1 -total"," 26.82%   52.041      1 Template:Citation_needed"," 24.24%   47.027      1 Template:Fix"," 20.45%   39.686      1 Template:Cite_web"," 16.57%   32.156      2 Template:Category_handler"," 15.15%   29.388      1 Template:ISBN"," 11.87%   23.031      1 Template:About","  8.87%   17.212      1 Template:Quote","  7.17%   13.906      1 Template:Comma_separated_entries","  6.85%   13.296      1 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"10.000"},"limitreport-memusage":{"value":2524965,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20180213211408","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":312,"wgHostname":"mw1257"});});</script>
+	</body>
+</html>

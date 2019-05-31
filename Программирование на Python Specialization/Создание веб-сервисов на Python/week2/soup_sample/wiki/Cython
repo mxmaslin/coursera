@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cython - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cython","wgTitle":"Cython","wgCurRevisionId":817689061,"wgRevisionId":817689061,"wgArticleId":18384111,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2014","Articles with example Python code","Python (programming language)","Python implementations","Software using the Apache license"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cython","wgRelevantArticleId":18384111,"wgRequestId":"WoNKSwpAICwAAECH2YQAAAAE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q975594","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","ext.pygments":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cython"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cython&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cython&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cython"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cython rootpage-Cython skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Cython</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/CPython" title="CPython">CPython</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Cython</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Cython-logo.svg" class="image"><img alt="Cython-logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ce/Cython-logo.svg/220px-Cython-logo.svg.png" width="220" height="98" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/ce/Cython-logo.svg/330px-Cython-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/ce/Cython-logo.svg/440px-Cython-logo.svg.png 2x" data-file-width="440" data-file-height="196" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>Robert Bradshaw, Stefan Behnel, et al.</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>28&#160;July 2007<span class="noprint">; 10 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2007-07-28</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>0.27.3 <small>(3&#160;November 2017<span class="noprint">; 3 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2017-11-03</span>)</span>)</small> <small class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/Cython&amp;action=edit">[±]</a></small><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external free" href="https://github.com/cython/cython.git">https://github.com/cython/cython.git</a></li>
+</ul>
+</div>
+<a href="https://www.wikidata.org/wiki/Q975594#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Programming_language" title="Programming language">Programming language</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Apache_License" title="Apache License">Apache License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://cython.org">cython<wbr />.org</a></span></td>
+</tr>
+</table>
+<p><b>Cython</b> is a superset of the <a href="/wiki/Python_programming_language" class="mw-redirect" title="Python programming language">Python programming language</a>, designed to give <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>-like performance with code which is mostly written in Python.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Cython is a <a href="/wiki/Compiled_language" title="Compiled language">compiled language</a> that generates CPython extension modules. These extension modules can then be loaded and used by regular Python code using the import statement.</p>
+<p>Cython is written in Python and works on <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a>, and <a href="/wiki/Linux" title="Linux">Linux</a>, producing source files compatible with CPython 2.6, 2.7, and 3.3 through 3.7.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design"><span class="tocnumber">1</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Example"><span class="tocnumber">3</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Using_in_IPython/Jupyter_notebook"><span class="tocnumber">4</span> <span class="toctext">Using in IPython/Jupyter notebook</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Uses"><span class="tocnumber">5</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=1" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cython works by producing a standard Python module. However, the behavior differs from standard Python in that the module code, originally written in Python, is translated into C. While the resulting code is fast, it makes many calls into the CPython interpreter and CPython standard libraries to perform actual work. Choosing this arrangement saved considerably on Cython's development time, but modules have a dependency on the Python interpreter and standard library.</p>
+<p>Although most of the code is C-based, a small stub loader written in interpreted Python is usually required (unless the goal is to create a loader written entirely in C, which may involve work with the undocumented internals of CPython). However, this is not a major problem due to the presence of the Python interpreter.</p>
+<p>Cython has a <a href="/wiki/Foreign_function_interface" title="Foreign function interface">foreign function interface</a> for invoking <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>/<a href="/wiki/C%2B%2B" title="C++">C++</a> <a href="/wiki/Subroutine" title="Subroutine">routines</a> and the ability to declare the <a href="/wiki/Static_type" class="mw-redirect" title="Static type">static type</a> of subroutine parameters and results, local variables, and class attributes.</p>
+<p>A Cython program that implements the same algorithm as a corresponding Python program may consume fewer computing resources such as core memory and processing cycles due to differences between the CPython and Cython execution models. A basic Python program is loaded and executed by the CPython <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a>, so both the runtime and the program itself consume computing resources. A Cython program is compiled to C code, which is further compiled to machine code, so the virtual machine is used only briefly when the program is loaded.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-scipy09_7-0" class="reference"><a href="#cite_note-scipy09-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Cython employs:</p>
+<ul>
+<li>Optimistic optimizations</li>
+<li>Type inference (optional)</li>
+<li>Low overhead in control structures</li>
+<li>Low function call overhead<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+</ul>
+<p>Performance depends both on what C code is generated by Cython and how that code is compiled by the C compiler.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cython is a derivative of the <a href="/wiki/Pyrex_(programming_language)" title="Pyrex (programming language)">Pyrex language</a>, and supports more features and optimizations than Pyrex.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Cython was <a href="/wiki/Fork_(software_development)" title="Fork (software development)">forked</a> from Pyrex in 2007 by developers of the <a href="/wiki/SageMath" title="SageMath">Sage</a> computer algebra package, because they were unhappy with Pyrex's limitations and could not get patches accepted by Pyrex's maintainer Greg Ewing, who envisioned a much smaller scope for his tool than the Sage developers had in mind. They then forked Pyrex as SageX. When they found people were downloading Sage just to get SageX, and developers of other packages (including Stefan Behnel, who maintains the <a href="/wiki/XML" title="XML">XML</a> library LXML) were also maintaining forks of Pyrex, SageX was split off the Sage project and merged with <tt>cython-lxml</tt> to become Cython.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Cython files have a <code>.pyx</code> extension. At its most basic, Cython code looks exactly like Python code. However, whereas standard Python is <a href="/wiki/Dynamic_typing" class="mw-redirect" title="Dynamic typing">dynamically typed</a>, in Cython, types can optionally be provided, allowing for improved performance, allowing loops to be converted into C loops where possible. For example:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="k">def</span> <span class="nf">primes</span><span class="p">(</span><span class="nb">int</span> <span class="n">kmax</span><span class="p">):</span>  <span class="c"># The argument will be converted to int or raise a TypeError.</span>
+    <span class="k">cdef</span> <span class="kt">int</span> <span class="nf">n</span><span class="p">,</span> <span class="nf">k</span><span class="p">,</span> <span class="nf">i</span>  <span class="c"># These variables are declared with C types.</span>
+    <span class="k">cdef</span> <span class="kt">int</span> <span class="kt">p</span>[1000]  # <span class="kt">Another</span> <span class="kt">C</span> <span class="nf">type</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="p">[]</span>  <span class="c"># A Python type</span>
+    <span class="k">if</span> <span class="n">kmax</span> <span class="o">&gt;</span> <span class="mf">1000</span><span class="p">:</span>
+        <span class="n">kmax</span> <span class="o">=</span> <span class="mf">1000</span>
+    <span class="n">k</span> <span class="o">=</span> <span class="mf">0</span>
+    <span class="n">n</span> <span class="o">=</span> <span class="mf">2</span>
+    <span class="k">while</span> <span class="n">k</span> <span class="o">&lt;</span> <span class="n">kmax</span><span class="p">:</span>
+        <span class="n">i</span> <span class="o">=</span> <span class="mf">0</span>
+        <span class="k">while</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">k</span> <span class="ow">and</span> <span class="n">n</span> <span class="o">%</span> <span class="n">p</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">!=</span> <span class="mf">0</span><span class="p">:</span>
+            <span class="n">i</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="mf">1</span>
+        <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="n">k</span><span class="p">:</span>
+            <span class="n">p</span><span class="p">[</span><span class="n">k</span><span class="p">]</span> <span class="o">=</span> <span class="n">n</span>
+            <span class="n">k</span> <span class="o">=</span> <span class="n">k</span> <span class="o">+</span> <span class="mf">1</span>
+            <span class="n">result</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+        <span class="n">n</span> <span class="o">=</span> <span class="n">n</span> <span class="o">+</span> <span class="mf">1</span>
+    <span class="k">return</span> <span class="n">result</span>
+</pre></div>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=3" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cython_CPython_Ext_Module_Workflow.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cython_CPython_Ext_Module_Workflow.png/220px-Cython_CPython_Ext_Module_Workflow.png" width="220" height="355" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cython_CPython_Ext_Module_Workflow.png/330px-Cython_CPython_Ext_Module_Workflow.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e0/Cython_CPython_Ext_Module_Workflow.png 2x" data-file-width="379" data-file-height="612" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cython_CPython_Ext_Module_Workflow.png" class="internal" title="Enlarge"></a></div>
+Hello World in Cython</div>
+</div>
+</div>
+<p>A sample <a href="/wiki/Hello_world" class="mw-redirect" title="Hello world">hello world</a> program for Cython is more complex than in most languages because it interfaces with the Python C API and the <code>setuptools</code> extension building facility. At least three files are required for a basic project:</p>
+<ul>
+<li>A <code>setup.py</code> file to invoke the <code>setuptools</code> build process that generates the extension module</li>
+<li>A main python program to load the extension module</li>
+<li>Cython source file(s)</li>
+</ul>
+<p>The following code listings demonstrate the build and launch process:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1"># hello.pyx - Python Module, this code will be translated to C by Cython.</span>
+<span class="k">def</span> <span class="nf">say_hello</span><span class="p">():</span>
+    <span class="k">print</span> <span class="s2">"Hello World!"</span>
+</pre></div>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1"># launch.py - Python stub loader, loads the module that was made by Cython.</span>
+
+<span class="c1"># This code is always interpreted, like normal Python.</span>
+<span class="c1"># It is not compiled to C.</span>
+
+<span class="kn">import</span> <span class="nn">hello</span>
+<span class="n">hello</span><span class="o">.</span><span class="n">say_hello</span><span class="p">()</span>
+</pre></div>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1"># setup.py - unnecessary if not redistributing the code, see below</span>
+<span class="kn">from</span> <span class="nn">setuptools</span> <span class="kn">import</span> <span class="n">setup</span>
+<span class="kn">from</span> <span class="nn">Cython.Build</span> <span class="kn">import</span> <span class="n">cythonize</span>
+
+<span class="n">setup</span><span class="p">(</span><span class="n">name</span> <span class="o">=</span> <span class="s1">'Hello world app'</span><span class="p">,</span>
+      <span class="n">ext_modules</span> <span class="o">=</span> <span class="n">cythonize</span><span class="p">(</span><span class="s2">"*.pyx"</span><span class="p">))</span>
+</pre></div>
+<p>These commands build and launch the program:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+$ python setup.py build_ext --inplace
+$ python launch.py
+</pre></div>
+<h2><span id="Using_in_IPython.2FJupyter_notebook"></span><span class="mw-headline" id="Using_in_IPython/Jupyter_notebook">Using in IPython/Jupyter notebook</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=4" title="Edit section: Using in IPython/Jupyter notebook">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A more straightforward way to start with Cython is through command-line <a href="/wiki/IPython" title="IPython">IPython</a> (or through in-browser python console called Jupyter <a href="/wiki/Notebook_interface" title="Notebook interface">notebook</a>):</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="n">In</span> <span class="p">[</span><span class="mi">1</span><span class="p">]:</span> <span class="o">%</span><span class="n">load_ext</span> <span class="n">Cython</span>
+
+<span class="n">In</span> <span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="o">%%</span><span class="n">cython</span>
+   <span class="o">...</span><span class="p">:</span> <span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+   <span class="o">...</span><span class="p">:</span>     <span class="n">a</span> <span class="o">=</span> <span class="mi">0</span>
+   <span class="o">...</span><span class="p">:</span>     <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+   <span class="o">...</span><span class="p">:</span>         <span class="n">a</span> <span class="o">+=</span> <span class="n">i</span>
+   <span class="o">...</span><span class="p">:</span>     <span class="k">return</span> <span class="n">a</span>
+   <span class="o">...</span><span class="p">:</span> 
+   <span class="o">...</span><span class="p">:</span> <span class="n">cpdef</span> <span class="n">g</span><span class="p">(</span><span class="nb">int</span> <span class="n">n</span><span class="p">):</span>
+   <span class="o">...</span><span class="p">:</span>     <span class="n">cdef</span> <span class="nb">int</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">i</span>
+   <span class="o">...</span><span class="p">:</span>     <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+   <span class="o">...</span><span class="p">:</span>         <span class="n">a</span> <span class="o">+=</span> <span class="n">i</span>
+   <span class="o">...</span><span class="p">:</span>     <span class="k">return</span> <span class="n">a</span>
+   <span class="o">...</span><span class="p">:</span> 
+
+<span class="n">In</span> <span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="o">%</span><span class="n">timeit</span> <span class="n">f</span><span class="p">(</span><span class="mi">1000000</span><span class="p">)</span>
+<span class="mf">42.7</span> <span class="n">ms</span> <span class="err">±</span> <span class="mi">783</span> <span class="err">µ</span><span class="n">s</span> <span class="n">per</span> <span class="n">loop</span> <span class="p">(</span><span class="n">mean</span> <span class="err">±</span> <span class="n">std</span><span class="o">.</span> <span class="n">dev</span><span class="o">.</span> <span class="n">of</span> <span class="mi">7</span> <span class="n">runs</span><span class="p">,</span> <span class="mi">10</span> <span class="n">loops</span> <span class="n">each</span><span class="p">)</span>
+
+<span class="n">In</span> <span class="p">[</span><span class="mi">4</span><span class="p">]:</span> <span class="o">%</span><span class="n">timeit</span> <span class="n">g</span><span class="p">(</span><span class="mi">1000000</span><span class="p">)</span>
+<span class="mi">74</span> <span class="err">µ</span><span class="n">s</span> <span class="err">±</span> <span class="mf">16.6</span> <span class="n">ns</span> <span class="n">per</span> <span class="n">loop</span> <span class="p">(</span><span class="n">mean</span> <span class="err">±</span> <span class="n">std</span><span class="o">.</span> <span class="n">dev</span><span class="o">.</span> <span class="n">of</span> <span class="mi">7</span> <span class="n">runs</span><span class="p">,</span> <span class="mi">10000</span> <span class="n">loops</span> <span class="n">each</span><span class="p">)</span>
+</pre></div>
+<p>which gives a 585 times improvement over the pure-python version. More details on the subject in the official quickstart page.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=5" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cython is particularly popular among scientific users of Python,<sup id="cite_ref-scipy09_7-1" class="reference"><a href="#cite_note-scipy09-7">[7]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> where it has "the perfect audience" according to Python developer <a href="/wiki/Guido_van_Rossum" title="Guido van Rossum">Guido van Rossum</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Of particular note:</p>
+<ul>
+<li>The <a href="/wiki/Free_software" title="Free software">free software</a> <a href="/wiki/SageMath" title="SageMath">SageMath</a> computer algebra system depends on Cython, both for performance and to interface with other libraries.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li>
+<li>Significant parts of the scientific computing libraries <a href="/wiki/SciPy" title="SciPy">SciPy</a>, <a href="/wiki/Pandas_(software)" title="Pandas (software)">pandas</a> and <a href="/wiki/Scikit-learn" title="Scikit-learn">scikit-learn</a> are written in Cython.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-jmlr_21-0" class="reference"><a href="#cite_note-jmlr-21">[21]</a></sup></li>
+<li>Some high traffic websites such as <a href="/wiki/Quora" title="Quora">Quora</a> use Cython.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+</ul>
+<p>Cython's domain is not limited to just numerical computing. For example, the <a rel="nofollow" class="external text" href="http://lxml.de/">lxml</a> XML toolkit is written mostly in Cython, and like its predecessor Pyrex, Cython is used to provide Python bindings for many C and C++ libraries like the messaging library <a href="/wiki/ZeroMQ" title="ZeroMQ">ZeroMQ</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Cython can also be used to develop <a href="/wiki/Parallel_program" class="mw-redirect" title="Parallel program">parallel programs</a> for <a href="/wiki/Multi-core_processor" title="Multi-core processor">multi-core processor</a> machines; this feature makes use of the <a href="/wiki/OpenMP" title="OpenMP">OpenMP</a> library.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/PyPy" title="PyPy">PyPy</a></li>
+<li><a href="/wiki/Numba" title="Numba">Numba</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Dr. Behnel, Stefan (2008). <a rel="nofollow" class="external text" href="http://www.behnel.de/cythonEP2008/cython-ep2008.html">"The Cython Compiler for C-Extensions in Python"</a>. <i>EuroPython</i> (28 July 2007: official Cython launch). Vilnius/Lietuva.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EuroPython&amp;rft.atitle=The+Cython+Compiler+for+C-Extensions+in+Python&amp;rft.date=2008&amp;rft.aulast=Dr.+Behnel&amp;rft.aufirst=Stefan&amp;rft_id=http%3A%2F%2Fwww.behnel.de%2FcythonEP2008%2Fcython-ep2008.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cython.org/#download">"Cython: C-Extensions for Python"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cython%3A+C-Extensions+for+Python&amp;rft_id=http%3A%2F%2Fcython.org%2F%23download&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://docs.cython.org/src/quickstart/overview.html">"Cython - an overview — Cython 0.19.1 documentation"</a>. Docs.cython.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cython+-+an+overview+%E2%80%94+Cython+0.19.1+documentation&amp;rft.pub=Docs.cython.org&amp;rft_id=http%3A%2F%2Fdocs.cython.org%2Fsrc%2Fquickstart%2Foverview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Smith, Kurt (2015). <a rel="nofollow" class="external text" href="http://shop.oreilly.com/product/0636920033431.do"><i>Cython: A Guide for Python Programmers</i></a>. O'Reilly Media. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4919-0155-7" title="Special:BookSources/978-1-4919-0155-7">978-1-4919-0155-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cython%3A+A+Guide+for+Python+Programmers&amp;rft.pub=O%27Reilly+Media&amp;rft.date=2015&amp;rft.isbn=978-1-4919-0155-7&amp;rft.aulast=Smith&amp;rft.aufirst=Kurt&amp;rft_id=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920033431.do&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Oliphant, Travis (2011-06-20). <a rel="nofollow" class="external text" href="http://technicaldiscovery.blogspot.com/2011/06/speeding-up-python-numpy-cython-and.html">"Technical Discovery: Speeding up Python (NumPy, Cython, and Weave)"</a>. Technicaldiscovery.blogspot.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Technical+Discovery%3A+Speeding+up+Python+%28NumPy%2C+Cython%2C+and+Weave%29&amp;rft.pub=Technicaldiscovery.blogspot.com&amp;rft.date=2011-06-20&amp;rft.aulast=Oliphant&amp;rft.aufirst=Travis&amp;rft_id=http%3A%2F%2Ftechnicaldiscovery.blogspot.com%2F2011%2F06%2Fspeeding-up-python-numpy-cython-and.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Behnel, Stefan; Bradshaw, Robert; Citro, Craig; Dalcin, Lisandro; Seljebotn, Dag Sverre; Smith, Kurt (2011). <a rel="nofollow" class="external text" href="http://research.google.com/pubs/pub36727.html">"Cython: The Best of Both Worlds"</a>. <i>Computing in Science and Engineering</i>. <b>13</b> (2): 31–39. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FMCSE.2010.118">10.1109/MCSE.2010.118</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computing+in+Science+and+Engineering&amp;rft.atitle=Cython%3A+The+Best+of+Both+Worlds&amp;rft.volume=13&amp;rft.issue=2&amp;rft.pages=31-39&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1109%2FMCSE.2010.118&amp;rft.aulast=Behnel&amp;rft.aufirst=Stefan&amp;rft.au=Bradshaw%2C+Robert&amp;rft.au=Citro%2C+Craig&amp;rft.au=Dalcin%2C+Lisandro&amp;rft.au=Seljebotn%2C+Dag+Sverre&amp;rft.au=Smith%2C+Kurt&amp;rft_id=http%3A%2F%2Fresearch.google.com%2Fpubs%2Fpub36727.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-scipy09-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-scipy09_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-scipy09_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Seljebot, Dag Sverre (2009). <a rel="nofollow" class="external text" href="http://conference.scipy.org/proceedings/SciPy2009/paper_2">"Fast numerical computations with Cython"</a>. <i>Proceedings of the 8th Python in Science Conference (SciPy 2009)</i>: 15–22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+8th+Python+in+Science+Conference+%28SciPy+2009%29&amp;rft.atitle=Fast+numerical+computations+with+Cython&amp;rft.pages=15-22&amp;rft.date=2009&amp;rft.aulast=Seljebot&amp;rft.aufirst=Dag+Sverre&amp;rft_id=http%3A%2F%2Fconference.scipy.org%2Fproceedings%2FSciPy2009%2Fpaper_2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wilbers, I.; Langtangen, H. P.; Ødegård, Å. (2009). B. Skallerud; H. I. Andersson, ed. <a rel="nofollow" class="external text" href="http://simula.no/research/sc/publications/Simula.SC.578/simula_pdf_file">"Using Cython to Speed up Numerical Python Programs"</a> <span style="font-size:85%;">(PDF)</span>. <i>Proceedings of MekIT'09</i>: 495–512<span class="reference-accessdate">. Retrieved <span class="nowrap">14 June</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+MekIT%2709&amp;rft.atitle=Using+Cython+to+Speed+up+Numerical+Python+Programs&amp;rft.pages=495-512&amp;rft.date=2009&amp;rft.aulast=Wilbers&amp;rft.aufirst=I.&amp;rft.au=Langtangen%2C+H.+P.&amp;rft.au=%C3%98deg%C3%A5rd%2C+%C3%85.&amp;rft_id=http%3A%2F%2Fsimula.no%2Fresearch%2Fsc%2Fpublications%2FSimula.SC.578%2Fsimula_pdf_file&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://telecom.inescporto.pt/~gjc/pybindgen-benchmarks/">"wrapper benchmarks for several Python wrapper generators (except Cython)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=wrapper+benchmarks+for+several+Python+wrapper+generators+%28except+Cython%29&amp;rft_id=http%3A%2F%2Ftelecom.inescporto.pt%2F~gjc%2Fpybindgen-benchmarks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://behnel.de/cycppbench/">"wrapper benchmarks for Cython, Boost.Python and PyBindGen"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=wrapper+benchmarks+for+Cython%2C+Boost.Python+and+PyBindGen&amp;rft_id=http%3A%2F%2Fbehnel.de%2Fcycppbench%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cython.org/index.html">"Cython: C-Extensions for Python"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cython%3A+C-Extensions+for+Python&amp;rft_id=http%3A%2F%2Fcython.org%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/cython/cython/wiki/DifferencesFromPyrex">"Differences between Cython and Pyrex"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Differences+between+Cython+and+Pyrex&amp;rft_id=https%3A%2F%2Fgithub.com%2Fcython%2Fcython%2Fwiki%2FDifferencesFromPyrex&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Ewing, Greg (21 March 2011). <a rel="nofollow" class="external text" href="http://mail.python.org/pipermail/python-dev/2011-March/109642.html">"Re: VM and Language summit info for those not at Pycon (and those that are!)"</a> (Message to the electronic mailing-list <tt>python-dev</tt>)<span class="reference-accessdate">. Retrieved <span class="nowrap">5 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Re%3A+VM+and+Language+summit+info+for+those+not+at+Pycon+%28and+those+that+are%21%29&amp;rft.date=2011-03-21&amp;rft.aulast=Ewing&amp;rft.aufirst=Greg&amp;rft_id=http%3A%2F%2Fmail.python.org%2Fpipermail%2Fpython-dev%2F2011-March%2F109642.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Says Sage and Cython developer Robert Bradshaw at the Sage Days 29 conference (22 March 2011). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=osjSS2Rrvm0">"Cython: Past, Present and Future"</a>. youtube.com<span class="reference-accessdate">. Retrieved <span class="nowrap">5 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cython%3A+Past%2C+Present+and+Future&amp;rft.pub=youtube.com&amp;rft.date=2011-03-22&amp;rft.au=Says+Sage+and+Cython+developer+Robert+Bradshaw+at+the+Sage+Days+29+conference&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DosjSS2Rrvm0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://cython.readthedocs.io/en/latest/src/quickstart/build.html">"Building Cython code"</a>. <i>cython.readthedocs.io</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cython.readthedocs.io&amp;rft.atitle=Building+Cython+code&amp;rft_id=https%3A%2F%2Fcython.readthedocs.io%2Fen%2Flatest%2Fsrc%2Fquickstart%2Fbuild.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://inscight.org/2011/03/31/episode_/">"inSCIght: The Scientific Computing Podcast"</a> (Episode 6).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=inSCIght%3A+The+Scientific+Computing+Podcast&amp;rft_id=http%3A%2F%2Finscight.org%2F2011%2F03%2F31%2Fepisode_%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Millman, Jarrod; Aivazis, Michael (2011). "Python for Scientists and Engineers". <i>Computing in Science and Engineering</i>. <b>13</b> (2): 9–12. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FMCSE.2011.36">10.1109/MCSE.2011.36</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computing+in+Science+and+Engineering&amp;rft.atitle=Python+for+Scientists+and+Engineers&amp;rft.volume=13&amp;rft.issue=2&amp;rft.pages=9-12&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1109%2FMCSE.2011.36&amp;rft.aulast=Millman&amp;rft.aufirst=Jarrod&amp;rft.au=Aivazis%2C+Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Guido Van Rossum (21 March 2011). <a rel="nofollow" class="external text" href="http://mail.python.org/pipermail/python-dev/2011-March/109634.html">"Re: VM and Language summit info for those not at Pycon (and those that are!)"</a> (Message to the electronic mailing-list <tt>python-dev</tt>)<span class="reference-accessdate">. Retrieved <span class="nowrap">5 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Re%3A+VM+and+Language+summit+info+for+those+not+at+Pycon+%28and+those+that+are%21%29&amp;rft.date=2011-03-21&amp;rft.au=Guido+Van+Rossum&amp;rft_id=http%3A%2F%2Fmail.python.org%2Fpipermail%2Fpython-dev%2F2011-March%2F109634.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Erocal, Burcin; Stein, William (2010). <a rel="nofollow" class="external text" href="http://wstein.org/papers/icms/icms_2010.pdf">"The Sage Project: Unifying Free Mathematical Software to Create a Viable Alternative to Magma, Maple, Mathematica and MATLAB"</a> <span style="font-size:85%;">(PDF)</span>. <i>Mathematical Software‚ ICMS 2010</i>. Springer Berlin / Heidelberg. <b>6327</b>: 12–27. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F978-3-642-15582-6_4">10.1007/978-3-642-15582-6_4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mathematical+Software%E2%80%9A+ICMS+2010&amp;rft.atitle=The+Sage+Project%3A+Unifying+Free+Mathematical+Software+to+Create+a+Viable+Alternative+to+Magma%2C+Maple%2C+Mathematica+and+MATLAB&amp;rft.volume=6327&amp;rft.pages=12-27&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-642-15582-6_4&amp;rft.aulast=Erocal&amp;rft.aufirst=Burcin&amp;rft.au=Stein%2C+William&amp;rft_id=http%3A%2F%2Fwstein.org%2Fpapers%2Ficms%2Ficms_2010.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://docs.scipy.org/doc/scipy/reference/release.0.7.2.html">"SciPy 0.7.2 release notes"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SciPy+0.7.2+release+notes&amp;rft_id=http%3A%2F%2Fdocs.scipy.org%2Fdoc%2Fscipy%2Freference%2Frelease.0.7.2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jmlr-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-jmlr_21-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pedregosa, Fabian; Varoquaux, Gaël; Gramfort, Alexandre; Michel, Vincent; Thirion, Bertrand; Grisel, Olivier; Blondel, Mathieu; Prettenhofer, Peter; Weiss, Ron; Dubourg, Vincent; Vanderplas, Jake; Passos, Alexandre; Cournapeau, David (2011). "Scikit-learn: Machine Learning in Python". <i>Journal of Machine Learning Research</i>. <b>12</b>: 2825–2830.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Machine+Learning+Research&amp;rft.atitle=Scikit-learn%3A+Machine+Learning+in+Python&amp;rft.volume=12&amp;rft.pages=2825-2830&amp;rft.date=2011&amp;rft.aulast=Pedregosa&amp;rft.aufirst=Fabian&amp;rft.au=Varoquaux%2C+Ga%C3%ABl&amp;rft.au=Gramfort%2C+Alexandre&amp;rft.au=Michel%2C+Vincent&amp;rft.au=Thirion%2C+Bertrand&amp;rft.au=Grisel%2C+Olivier&amp;rft.au=Blondel%2C+Mathieu&amp;rft.au=Prettenhofer%2C+Peter&amp;rft.au=Weiss%2C+Ron&amp;rft.au=Dubourg%2C+Vincent&amp;rft.au=Vanderplas%2C+Jake&amp;rft.au=Passos%2C+Alexandre&amp;rft.au=Cournapeau%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.quora.com/Is-Quora-still-running-on-PyPy">"Is Quora still running on PyPy?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Is+Quora+still+running+on+PyPy%3F&amp;rft_id=https%3A%2F%2Fwww.quora.com%2FIs-Quora-still-running-on-PyPy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zeromq.org/bindings:python">"ØMQ: Python binding"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%C3%98MQ%3A+Python+binding&amp;rft_id=http%3A%2F%2Fwww.zeromq.org%2Fbindings%3Apython&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACython" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cython&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://cython.org">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/cython">Cython</a> on <a href="/wiki/GitHub" title="GitHub">GitHub</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Python" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Python_(programming_language)" title="Template:Python (programming language)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Python_(programming_language)" title="Template talk:Python (programming language)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Python_(programming_language)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Python" style="font-size:114%;margin:0 4em"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_implementation" title="Programming language implementation">Implementations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CLPython" title="CLPython">CLPython</a></li>
+<li><a href="/wiki/CPython" title="CPython">CPython</a></li>
+<li><a class="mw-selflink selflink">Cython</a></li>
+<li><a href="/wiki/MicroPython" title="MicroPython">MicroPython</a></li>
+<li><a href="/wiki/Numba" title="Numba">Numba</a></li>
+<li><a href="/wiki/IronPython" title="IronPython">IronPython</a></li>
+<li><a href="/wiki/Jython" title="Jython">Jython</a></li>
+<li><a href="/wiki/Psyco" title="Psyco">Psyco</a></li>
+<li><a href="/wiki/PyPy" title="PyPy">PyPy</a></li>
+<li><a href="/wiki/Python_for_S60" title="Python for S60">Python for S60</a></li>
+<li><a href="/wiki/Shed_Skin" title="Shed Skin">Shed Skin</a></li>
+<li><a href="/wiki/Stackless_Python" title="Stackless Python">Stackless Python</a></li>
+<li><a href="/wiki/Unladen_Swallow" class="mw-redirect" title="Unladen Swallow">Unladen Swallow</a></li>
+<li><i><a href="/wiki/List_of_Python_software#Python_implementations" title="List of Python software">more</a>...</i></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Python-logo-notext.svg" class="image"><img alt="Python-logo-notext.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/55px-Python-logo-notext.svg.png" width="55" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/83px-Python-logo-notext.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png 2x" data-file-width="110" data-file-height="110" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_integrated_development_environments#Python" title="Comparison of integrated development environments">Boa</a></li>
+<li><a href="/wiki/Eric_Python_IDE" class="mw-redirect" title="Eric Python IDE">Eric Python IDE</a></li>
+<li><a href="/wiki/IDLE_(Python)" class="mw-redirect" title="IDLE (Python)">IDLE</a></li>
+<li><a href="/wiki/PyDev" title="PyDev">PyDev</a></li>
+<li><a href="/wiki/Stani%27s_Python_Editor" title="Stani's Python Editor">SPE</a></li>
+<li><a href="/wiki/Ninja-IDE" title="Ninja-IDE">Ninja-IDE</a></li>
+<li><i><a href="/wiki/List_of_integrated_development_environments_for_Python#Python" class="mw-redirect" title="List of integrated development environments for Python">more</a>...</i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Web_Server_Gateway_Interface" title="Web Server Gateway Interface">WSGI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/List_of_Python_software" title="List of Python software">software (list)</a></li>
+<li><a href="/wiki/Python_Software_Foundation" title="Python Software Foundation">Python Software Foundation</a></li>
+<li><a href="/wiki/Python_Conference" title="Python Conference">PyCon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20180213202756
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.625 seconds
+Preprocessor visited node count: 2022/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55187/2097152 bytes
+Template argument size: 1660/2097152 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 3/500
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 5.17 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  586.591      1 -total
+ 28.07%  164.665      1 Template:Reflist
+ 22.93%  134.492      2 Template:Infobox
+ 21.10%  123.742      1 Template:Infobox_software
+ 16.80%   98.547     16 Template:Cite_web
+  5.12%   30.005      1 Template:Infobox_software/simple
+  5.06%   29.657      6 Template:Cite_journal
+  4.05%   23.780      2 Template:Start_date_and_age
+  3.64%   21.378      1 Template:Distinguish
+  3.01%   17.677      1 Template:Plainlist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18384111-0!canonical and timestamp 20180213202755 and revision id 817689061
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cython&amp;oldid=817689061">https://en.wikipedia.org/w/index.php?title=Cython&amp;oldid=817689061</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Python_(programming_language)" title="Category:Python (programming language)">Python (programming language)</a></li><li><a href="/wiki/Category:Python_implementations" title="Category:Python implementations">Python implementations</a></li><li><a href="/wiki/Category:Software_using_the_Apache_license" title="Category:Software using the Apache license">Software using the Apache license</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2014" title="Category:Use dmy dates from February 2014">Use dmy dates from February 2014</a></li><li><a href="/wiki/Category:Articles_with_example_Python_code" title="Category:Articles with example Python code">Articles with example Python code</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cython" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cython" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cython" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cython" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cython">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cython&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cython&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cython" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cython" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cython&amp;oldid=817689061" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cython&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q975594" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cython&amp;id=817689061" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cython">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cython&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cython&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cython" title="Cython – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cython" title="Cython – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Cython" title="Cython – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%DB%8C%D8%AA%D9%88%D9%86" title="سایتون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cython" title="Cython – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%EC%8D%AC" title="사이썬 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Cython" title="Cython – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Cython" title="Cython – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Cython" title="Cython – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Cython" title="Cython – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Cython" title="Cython – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q975594#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 December 2017, at 23:57.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cython&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.625","ppvisitednodes":{"value":2022,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":55187,"limit":2097152},"templateargumentsize":{"value":1660,"limit":2097152},"expansiondepth":{"value":29,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  586.591      1 -total"," 28.07%  164.665      1 Template:Reflist"," 22.93%  134.492      2 Template:Infobox"," 21.10%  123.742      1 Template:Infobox_software"," 16.80%   98.547     16 Template:Cite_web","  5.12%   30.005      1 Template:Infobox_software/simple","  5.06%   29.657      6 Template:Cite_journal","  4.05%   23.780      2 Template:Start_date_and_age","  3.64%   21.378      1 Template:Distinguish","  3.01%   17.677      1 Template:Plainlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":5425895,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20180213202756","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":713,"wgHostname":"mw1323"});});</script>
+	</body>
+</html>

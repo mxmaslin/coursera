@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>SolidWorks - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SolidWorks","wgTitle":"SolidWorks","wgCurRevisionId":823138956,"wgRevisionId":823138956,"wgArticleId":828062,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from November 2012","All articles lacking reliable references","Pages using Infobox software with unknown parameters","3D graphics software","Windows-only software","Solid mechanics","Product design","Computer-aided design software for Windows","1995 software","Dassault Group","Proprietary software","1993 establishments in Massachusetts","Companies established in 1993"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"SolidWorks","wgRelevantArticleId":828062,"wgRequestId":"WoNPYQpAADgAABovVWEAAADT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q751281","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/e/e9/SolidWorks-2012-Screenshot.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/SolidWorks"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=SolidWorks&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=SolidWorks&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/SolidWorks"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-SolidWorks rootpage-SolidWorks skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">SolidWorks</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(November 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">SolidWorks</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:SolidWorks_Logo.svg" class="image"><img alt="SolidWorks Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/310px-SolidWorks_Logo.svg.png" width="310" height="64" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/465px-SolidWorks_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/620px-SolidWorks_Logo.svg.png 2x" data-file-width="150" data-file-height="31" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:SolidWorks-2012-Screenshot.jpg" class="image" title="SolidWorks 2012 displaying a 3D assembly in multiple views."><img alt="SolidWorks 2012 displaying a 3D assembly in multiple views." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e9/SolidWorks-2012-Screenshot.jpg/300px-SolidWorks-2012-Screenshot.jpg" width="300" height="158" srcset="//upload.wikimedia.org/wikipedia/en/e/e9/SolidWorks-2012-Screenshot.jpg 1.5x" data-file-width="436" data-file-height="229" /></a>
+<div>SolidWorks 2012 displaying a 3D assembly in multiple views.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/Dassault_Syst%C3%A8mes" title="Dassault Systèmes">Dassault Systèmes</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>November&#160;1, 1995<span class="noprint">; 22 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1995-11-01</span>)</span><sup id="cite_ref-The_future_of_Solidworks_1-0" class="reference"><a href="#cite_note-The_future_of_Solidworks-1">[1]</a></sup></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">SolidWorks 2018 SP1 / <span class="sortkey" style="display:none;speak:none">000000002018-01-10-0000</span><span style="white-space:nowrap">January 10, 2018</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Available in</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> and <a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">CAE</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td>Proprietary, Term</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.solidworks.com">www<wbr />.solidworks<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>SolidWorks</b> is a <a href="/wiki/Solid_modeling" title="Solid modeling">solid modeling</a> <a href="/wiki/Computer-aided_design" title="Computer-aided design">computer-aided design</a> (CAD) and <a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">computer-aided engineering</a> (CAE) <a href="/wiki/Computer_program" title="Computer program">computer program</a> that runs on <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>. SolidWorks is published by <a href="/wiki/Dassault_Syst%C3%A8mes" title="Dassault Systèmes">Dassault Systèmes</a>.</p>
+<p>According to the publisher, over two million <a href="/wiki/Engineers" class="mw-redirect" title="Engineers">engineers</a> and designers at more than 165,000 companies were using SolidWorks as of 2013.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Also according to the company, <a href="/wiki/Fiscal_year" title="Fiscal year">fiscal year</a> 2011–12 <a href="/wiki/Revenue" title="Revenue">revenue</a> for SolidWorks totalled <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">$</a>483 million.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Release_history"><span class="tocnumber">2</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Market"><span class="tocnumber">3</span> <span class="toctext">Market</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Modeling_technology"><span class="tocnumber">4</span> <span class="toctext">Modeling technology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#File_format"><span class="tocnumber">5</span> <span class="toctext">File format</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SolidWorks Corporation was founded in December 1993 by <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> graduate <a href="/wiki/Jon_Hirschtick" title="Jon Hirschtick">Jon Hirschtick</a>. Hirschtick used $1 million he had made while a member of the <a href="/wiki/MIT_Blackjack_Team" title="MIT Blackjack Team">MIT Blackjack Team</a> to set up the company.<sup id="cite_ref-galesburg_4-0" class="reference"><a href="#cite_note-galesburg-4">[4]</a></sup> Initially based in <a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, United States, Hirschtick recruited a team of engineers with the goal of building 3D CAD software that was easy-to-use, affordable, and available on the Windows desktop. Operating later from <a href="/wiki/Concord,_Massachusetts" title="Concord, Massachusetts">Concord, Massachusetts</a>, SolidWorks released its first product <i>SolidWorks 95</i>, in November 1995.<sup id="cite_ref-companyhistory_5-0" class="reference"><a href="#cite_note-companyhistory-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In 1997 Dassault, best known for its <a href="/wiki/CATIA" title="CATIA">CATIA</a> CAD software, acquired SolidWorks for $310 million in stock.<sup id="cite_ref-companyhistory_5-1" class="reference"><a href="#cite_note-companyhistory-5">[5]</a></sup> Jon Hirschtick stayed on board for the next 14 years in various roles. Under his leadership, SolidWorks grew to a $100 million revenue company.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>SolidWorks currently markets several versions of the SolidWorks CAD software in addition to eDrawings, a collaboration tool, and DraftSight, a 2D CAD product.</p>
+<p>SolidWorks was headed by John McEleney from 2001 to July 2007 and Jeff Ray from 2007 to January 2011. The current CEO is Gian Paolo Bassi from Jan 2015. Gian Paolo Bassi replaces Bertrand Sicot, who is promoted Vice President Sales of Dassault Systèmes’ Value Solutions sales channel.</p>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=2" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Name/Version</th>
+<th>Version
+<p>Number</p>
+</th>
+<th>Version
+<p>History Value</p>
+</th>
+<th>Release Date</th>
+</tr>
+<tr>
+<td>SolidWorks 95</td>
+<td>1</td>
+<td>46</td>
+<td>November 1995<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>SolidWorks 96</td>
+<td>2</td>
+<td>270</td>
+<td>Early 1996</td>
+</tr>
+<tr>
+<td>SolidWorks 97</td>
+<td>3</td>
+<td>483</td>
+<td>Late 1996</td>
+</tr>
+<tr>
+<td>SolidWorks 97Plus</td>
+<td>4</td>
+<td>629</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>SolidWorks 98</td>
+<td>5</td>
+<td>817</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>SolidWorks 98Plus</td>
+<td>6</td>
+<td>1008</td>
+<td>1998</td>
+</tr>
+<tr>
+<td>SolidWorks 99</td>
+<td>7</td>
+<td>1137</td>
+<td>1998</td>
+</tr>
+<tr>
+<td>SolidWorks 2000</td>
+<td>8</td>
+<td>1500</td>
+<td>1999</td>
+</tr>
+<tr>
+<td>SolidWorks 2001</td>
+<td>9</td>
+<td>1750</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>SolidWorks 2001Plus</td>
+<td>10</td>
+<td>1950</td>
+<td>2001</td>
+</tr>
+<tr>
+<td>SolidWorks 2003</td>
+<td>11</td>
+<td>2200</td>
+<td>2002</td>
+</tr>
+<tr>
+<td>SolidWorks 2004</td>
+<td>12</td>
+<td>2500</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>SolidWorks 2005</td>
+<td>13</td>
+<td>2800</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>SolidWorks 2006<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+<td>14</td>
+<td>3100</td>
+<td>2005</td>
+</tr>
+<tr>
+<td>SolidWorks 2007</td>
+<td>15</td>
+<td>3400</td>
+<td>2006</td>
+</tr>
+<tr>
+<td>SolidWorks 2008</td>
+<td>16</td>
+<td>3800</td>
+<td>July 1, 2007</td>
+</tr>
+<tr>
+<td>SolidWorks 2009</td>
+<td>17</td>
+<td>4100</td>
+<td>January 28, 2008</td>
+</tr>
+<tr>
+<td>SolidWorks 2010</td>
+<td>18</td>
+<td>4400</td>
+<td>December 9, 2009</td>
+</tr>
+<tr>
+<td>SolidWorks 2011</td>
+<td>19</td>
+<td>4700</td>
+<td>June 17, 2010</td>
+</tr>
+<tr>
+<td>SolidWorks 2012</td>
+<td>20</td>
+<td>5000</td>
+<td>September, 2011</td>
+</tr>
+<tr>
+<td>SolidWorks 2013</td>
+<td>21</td>
+<td>6000</td>
+<td>September, 2012</td>
+</tr>
+<tr>
+<td>SolidWorks 2014</td>
+<td>22</td>
+<td>7000</td>
+<td>October 7, 2013</td>
+</tr>
+<tr>
+<td>SolidWorks 2015</td>
+<td>23</td>
+<td>8000</td>
+<td>September 9, 2014</td>
+</tr>
+<tr>
+<td>SolidWorks 2016</td>
+<td>24</td>
+<td>9000</td>
+<td>October 1, 2015</td>
+</tr>
+<tr>
+<td>SolidWorks 2017</td>
+<td>25</td>
+<td>10000</td>
+<td>September 19, 2016</td>
+</tr>
+<tr>
+<td>SolidWorks 2018</td>
+<td>26</td>
+<td>11000</td>
+<td>September 26, 2017</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Market">Market</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=3" title="Edit section: Market">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>DS Solidworks Corp. has sold over 1.5 million licenses of SolidWorks worldwide.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> This includes a large proportion of educational licenses.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The <a href="/wiki/Sheffield_Telegraph" title="Sheffield Telegraph">Sheffield Telegraph</a> comments that Solidworks is the world's most popular CAD software.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Its user base ranges from individuals to large corporations, and covers a very wide cross-section of manufacturing market segments. Commercial sales are made through an indirect channel, which includes dealers and partners throughout the world. In the United States, the first reseller of SolidWorks, in 1995, was Computer Aided Technology, Inc, headquartered in Chicago. Directly competitive products to SolidWorks include <a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">PTC Creo Elements/Pro</a>, <a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a>, and <a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a>. SolidWorks also partners with third party developers to add functionality in niche market applications like finite element analysis, circuit layout, tolerance checking, etc. SolidWorks has also licensed its 3D modeling capabilities to other CAD software vendors, notably ANVIL.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Modeling_technology">Modeling technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=4" title="Edit section: Modeling technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Swstapler00.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Swstapler00.jpg/220px-Swstapler00.jpg" width="220" height="122" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Swstapler00.jpg/330px-Swstapler00.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Swstapler00.jpg/440px-Swstapler00.jpg 2x" data-file-width="600" data-file-height="334" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Swstapler00.jpg" class="internal" title="Enlarge"></a></div>
+screen shot captured from a SolidWorks top-down design approach.</div>
+</div>
+</div>
+<p>SolidWorks is a <a href="/wiki/Solid_modeling" title="Solid modeling">solid modeler</a>, and utilizes a <a href="/wiki/Solid_modeling" title="Solid modeling">parametric feature-based</a> approach which was initially developed by PTC (Creo/Pro-Engineer) to create models and assemblies. The software is written on <a href="/wiki/Parasolid" title="Parasolid">Parasolid</a>-kernel.</p>
+<p><i>Parameters</i> refer to constraints whose values determine the shape or geometry of the model or assembly. Parameters can be either numeric parameters, such as line lengths or circle diameters, or geometric parameters, such as tangent, parallel, concentric, horizontal or vertical, etc. Numeric parameters can be associated with each other through the use of relations, which allows them to capture design intent.</p>
+<p><i>Design intent</i> is how the creator of the part wants it to respond to changes and updates. For example, you would want the hole at the top of a beverage can to stay at the top surface, regardless of the height or size of the can. SolidWorks allows the user to specify that the hole is a feature on the top surface, and will then honor their design intent no matter what height they later assign to the can.</p>
+<p><i>Features</i> refer to the building blocks of the part. They are the shapes and operations that construct the part. Shape-based features typically begin with a 2D or 3D sketch of shapes such as bosses, holes, slots, etc. This shape is then extruded or cut to add or remove material from the part. Operation-based features are not sketch-based, and include features such as fillets, chamfers, shells, applying draft to the faces of a part, etc.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sw03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1a/Sw03.jpg/220px-Sw03.jpg" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/1/1a/Sw03.jpg 1.5x" data-file-width="300" data-file-height="230" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sw03.jpg" class="internal" title="Enlarge"></a></div>
+screen shot captured from a SolidWorks top-down design approach.</div>
+</div>
+</div>
+<p>Building a model in SolidWorks usually starts with a 2D sketch (although 3D sketches are available for <a href="/wiki/Power_user" title="Power user">power users</a>). The sketch consists of geometry such as points, lines, arcs, conics (except the hyperbola), and splines. Dimensions are added to the sketch to define the size and location of the geometry. Relations are used to define attributes such as tangency, parallelism, perpendicularity, and concentricity. The parametric nature of SolidWorks means that the dimensions and relations drive the geometry, not the other way around. The dimensions in the sketch can be controlled independently, or by relationships to other parameters inside or outside of the sketch.</p>
+<p>In an assembly, the analog to sketch relations are mates. Just as sketch relations define conditions such as tangency, parallelism, and concentricity with respect to sketch geometry, <i>assembly mates</i> define equivalent relations with respect to the individual parts or components, allowing the easy construction of assemblies. SolidWorks also includes additional advanced mating features such as gear and cam follower mates, which allow modeled gear assemblies to accurately reproduce the rotational movement of an actual gear train.</p>
+<p>Finally, drawings can be created either from parts or assemblies. Views are automatically generated from the solid model, and notes, dimensions and tolerances can then be easily added to the drawing as needed. The drawing module includes most paper sizes and standards (<a href="/wiki/ANSI" class="mw-redirect" title="ANSI">ANSI</a>, <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>, <a href="/wiki/DIN" class="mw-redirect" title="DIN">DIN</a>, <a href="/wiki/GOST" title="GOST">GOST</a>, <a href="/wiki/Japanese_Industrial_Standards" title="Japanese Industrial Standards">JIS</a>, <a href="/wiki/BSI_Group" title="BSI Group">BSI</a> and <a href="/wiki/Standardization_Administration_of_China" title="Standardization Administration of China">SAC</a>).</p>
+<h2><span class="mw-headline" id="File_format">File format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=5" title="Edit section: File format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SolidWorks files (previous to version 2015) use the Microsoft <a href="/wiki/COM_Structured_Storage" title="COM Structured Storage">Structured Storage</a> file format. This means that there are various files embedded within each SLDDRW (drawing files), SLDPRT (part files), SLDASM (assembly files) file, including preview bitmaps and metadata sub-files. Various third-party tools (see <a href="/wiki/COM_Structured_Storage" title="COM Structured Storage">COM Structured Storage</a>) can be used to extract these sub-files, although the subfiles in many cases use proprietary binary file formats.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Comparison_of_computer-aided_design_editors" title="Comparison of computer-aided design editors">Comparison of computer-aided design editors</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-The_future_of_Solidworks-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_future_of_Solidworks_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.dasisolutions.com/2011/09/27/the-future-of-solidworks-has-always-been-in-your-hands/">"The future of Solidworks"</a>. September 27, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+future+of+Solidworks&amp;rft.date=2011-09-27&amp;rft_id=http%3A%2F%2Fblog.dasisolutions.com%2F2011%2F09%2F27%2Fthe-future-of-solidworks-has-always-been-in-your-hands%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=CZSg7xUj5tg">Opening statement by CEO Bertrand Sicot at 2013 Solidworks World</a> YouTube Video Link.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.solidworks.com/sw/docs/Corp_FactSheet_2012Q2.pdf">SolidWorks Fact Sheet</a>, July 30, 2012.</span></li>
+<li id="cite_note-galesburg-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-galesburg_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Bob Tremblay (March 26, 2008). <a rel="nofollow" class="external text" href="http://www.galesburg.com/article/20080326/NEWS/303269979/0/SEARCH">"Former MIT blackjack team member talks about breaking the bank"</a>. <i>Galesburg Register News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Galesburg+Register+News&amp;rft.atitle=Former+MIT+blackjack+team+member+talks+about+breaking+the+bank&amp;rft.date=2008-03-26&amp;rft.au=Bob+Tremblay&amp;rft_id=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20080326%2FNEWS%2F303269979%2F0%2FSEARCH&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-companyhistory-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-companyhistory_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-companyhistory_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.solidworks.com/sw/656_ENU_HTML.htm">Solidworks Company History</a>. Solidworks company website</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.solidworks.com/sw/183_ENU_HTML.htm">Solidworks Company Information</a>, Solidworks company website</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://fortune.com/2015/03/06/exclusive-solidworks-vets-raise-64-million-for-onshape/">"Exclusive: SolidWorks vets raise $64 million for Onshape"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Exclusive%3A+SolidWorks+vets+raise+%2464+million+for+Onshape&amp;rft_id=http%3A%2F%2Ffortune.com%2F2015%2F03%2F06%2Fexclusive-solidworks-vets-raise-64-million-for-onshape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.dasisolutions.com/2011/09/27/the-future-of-solidworks-has-always-been-in-your-hands/">"The future of Solidworks"</a>. September 27, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+future+of+Solidworks&amp;rft.date=2011-09-27&amp;rft_id=http%3A%2F%2Fblog.dasisolutions.com%2F2011%2F09%2F27%2Fthe-future-of-solidworks-has-always-been-in-your-hands%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mail.cad-portal.com/articles/article_images/46/SW_OfficePremiumRvw1.pdf">"SolidWorks 2006 Office Premium"</a> <span style="font-size:85%;">(PDF)</span>. Cad portal<span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SolidWorks+2006+Office+Premium&amp;rft.pub=Cad+portal&amp;rft_id=http%3A%2F%2Fmail.cad-portal.com%2Farticles%2Farticle_images%2F46%2FSW_OfficePremiumRvw1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solidworks.com/sw/oml/millionth_license.htm">"Thanks for helping us reach our millionth license!"</a>. SolidWorks. April 30, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thanks+for+helping+us+reach+our+millionth+license%21&amp;rft.pub=SolidWorks&amp;rft.date=2009-04-30&amp;rft_id=http%3A%2F%2Fwww.solidworks.com%2Fsw%2Foml%2Fmillionth_license.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cadworkstations.strikingly.com/blog/solidworks-in-u-s-universities">"SolidWorks in U.S. Universities"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SolidWorks+in+U.S.+Universities&amp;rft_id=http%3A%2F%2Fcadworkstations.strikingly.com%2Fblog%2Fsolidworks-in-u-s-universities&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sheffieldtelegraph.co.uk/business/Solid-finds-solution-in-business.5898550.jp">"Solid finds solution in business park switch"</a>. The Sheffield Telegraph. December 10, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-02-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Solid+finds+solution+in+business+park+switch&amp;rft.pub=The+Sheffield+Telegraph&amp;rft.date=2009-12-10&amp;rft_id=http%3A%2F%2Fwww.sheffieldtelegraph.co.uk%2Fbusiness%2FSolid-finds-solution-in-business.5898550.jp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anvilmcs.com/pages/sm.htm">"ANVIL EXPRESS® SOLIDWORKS® Connectivity"</a>. MCS ANVIL. September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ANVIL+EXPRESS%C2%AE+SOLIDWORKS%C2%AE+Connectivity&amp;rft.pub=MCS+ANVIL&amp;rft.date=2009-09&amp;rft_id=http%3A%2F%2Fwww.anvilmcs.com%2Fpages%2Fsm.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolidWorks" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SolidWorks&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:SolidWorks" class="extiw" title="commons:Category:SolidWorks">SolidWorks</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.solidworks.com">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Dassault_Systèmes" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Dassault_Syst%C3%A8mes" title="Template:Dassault Systèmes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Dassault_Syst%C3%A8mes" title="Template talk:Dassault Systèmes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dassault_Syst%C3%A8mes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Dassault_Systèmes" style="font-size:114%;margin:0 4em"><a href="/wiki/Dassault_Syst%C3%A8mes" title="Dassault Systèmes">Dassault Systèmes</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bernard_Charl%C3%A8s" title="Bernard Charlès">Bernard Charlès</a></li>
+<li><a href="/wiki/Charles_Edelstenne" title="Charles Edelstenne">Charles Edelstenne</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Brands</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Solidworks" class="mw-redirect" title="Solidworks">SOLIDWORKS</a></li>
+<li><a href="/wiki/DELMIA" title="DELMIA">DELMIA</a></li>
+<li><a href="/wiki/GEOVIA" title="GEOVIA">GEOVIA</a></li>
+<li><a href="/wiki/SIMULIA" class="mw-redirect" title="SIMULIA">SIMULIA</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">EXALEAD</a></li>
+<li><a href="/wiki/3dvia" title="3dvia">3DVIA</a></li>
+<li><a href="/wiki/Netvibes" title="Netvibes">NETVIBES</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Products</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abaqus" title="Abaqus">Abaqus</a></li>
+<li><a href="/wiki/ACIS" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/Dymola" title="Dymola">Dymola</a></li>
+<li><a href="/wiki/Virtools" title="Virtools">Virtools</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dassault_Group" title="Dassault Group">Dassault Group</a></li>
+<li><a href="/wiki/Spatial_Corp" title="Spatial Corp">Spatial Corp</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="CAD_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CAD_software" title="Template:CAD software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CAD_software" title="Template talk:CAD software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CAD_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="CAD_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> software</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BRL-CAD" title="BRL-CAD">BRL-CAD</a></li>
+<li><a href="/wiki/FreeCAD" title="FreeCAD">FreeCAD</a></li>
+<li><a href="/wiki/HeeksCAD" title="HeeksCAD">HeeksCAD</a></li>
+<li><a href="/wiki/LibreCAD" title="LibreCAD">LibreCAD</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenSCAD" title="OpenSCAD">OpenSCAD</a></li>
+<li><a href="/wiki/QCad" title="QCad">QCad</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/SolveSpace" title="SolveSpace">SolveSpace</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_(software)" title="Electric (software)">Electric</a></li>
+<li><a href="/wiki/Fritzing" title="Fritzing">Fritzing</a></li>
+<li><a href="/wiki/GEDA" title="GEDA">gEDA</a></li>
+<li><a href="/wiki/KiCad" title="KiCad">KiCad</a></li>
+<li><a href="/wiki/KTechLab" title="KTechLab">kTechLab</a></li>
+<li><a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a></li>
+<li><a href="/wiki/Oregano_(software)" title="Oregano (software)">Oregano</a></li>
+<li><a href="/wiki/Quite_Universal_Circuit_Simulator" title="Quite Universal Circuit Simulator">QUCS</a></li>
+<li><a href="/wiki/XCircuit" title="XCircuit">XCircuit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AutoCAD" title="AutoCAD">AutoCAD</a></li>
+<li><a href="/wiki/Autodesk_Alias" title="Autodesk Alias">Autodesk Alias</a></li>
+<li><a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a></li>
+<li><a href="/wiki/Autodesk_Revit" title="Autodesk Revit">Autodesk Revit</a></li>
+<li><a href="/wiki/ArchiCAD" title="ArchiCAD">ArchiCAD</a></li>
+<li><a href="/wiki/BricsCAD" title="BricsCAD">BricsCAD</a></li>
+<li><a href="/w/index.php?title=NanoCAD&amp;action=edit&amp;redlink=1" class="new" title="NanoCAD (page does not exist)">nanoCAD Plus</a></li>
+<li><a href="/wiki/CADKEY" title="CADKEY">CADKEY</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Cimatron" title="Cimatron">Cimatron</a></li>
+<li><a href="/wiki/DesignSpark_Mechanical" title="DesignSpark Mechanical">DesignSpark Mechanical</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">PTC Creo Elements/Pro</a></li>
+<li><a href="/wiki/FastCAD" title="FastCAD">FastCAD</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/GstarCAD" title="GstarCAD">GstarCAD</a></li>
+<li><a href="/wiki/IRONCAD" title="IRONCAD">IRONCAD</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">KeyCreator</a></li>
+<li><a href="/wiki/MEDUSA" title="MEDUSA">MEDUSA</a></li>
+<li><a href="/wiki/MicroStation" title="MicroStation">MicroStation</a></li>
+<li><a href="/w/index.php?title=NanoCAD&amp;action=edit&amp;redlink=1" class="new" title="NanoCAD (page does not exist)">nanoCAD</a></li>
+<li><a href="/wiki/Onshape" title="Onshape">Onshape</a></li>
+<li><a href="/wiki/Siemens_NX" title="Siemens NX">Siemens NX</a></li>
+<li><a href="/wiki/PDMS_(software)" title="PDMS (software)">PDMS</a></li>
+<li><a href="/wiki/Pro/DESKTOP" title="Pro/DESKTOP">Pro/DESKTOP</a></li>
+<li><a href="/wiki/ProgeCAD" title="ProgeCAD">progeCAD</a></li>
+<li><a href="/wiki/Rhinoceros_3D" title="Rhinoceros 3D">Rhinoceros 3D</a>
+<ul>
+<li><a href="/wiki/Grasshopper_3D" title="Grasshopper 3D">Grasshopper 3D</a></li>
+</ul>
+</li>
+<li><a href="/wiki/RUCAPS" title="RUCAPS">RUCAPS</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a class="mw-selflink selflink">SolidWorks</a></li>
+<li><a href="/wiki/SpaceClaim" title="SpaceClaim">SpaceClaim</a></li>
+<li><a href="/wiki/T-FLEX_CAD" title="T-FLEX CAD">T-FLEX CAD</a></li>
+<li><a href="/wiki/TurboCAD" title="TurboCAD">TurboCAD</a></li>
+<li><a href="/wiki/VariCAD" title="VariCAD">VariCAD</a></li>
+<li><a href="/wiki/Vectorworks" title="Vectorworks">Vectorworks</a></li>
+<li><a href="/wiki/FINE_MEP" title="FINE MEP">FINE MEP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AutoCAD_Electrical" class="mw-redirect" title="AutoCAD Electrical">AutoCAD Electrical</a></li>
+<li><a href="/wiki/Altium_Designer" title="Altium Designer">Altium Designer</a></li>
+<li><a href="/wiki/DipTrace" title="DipTrace">DipTrace</a></li>
+<li><a href="/wiki/EAGLE_(program)" title="EAGLE (program)">EAGLE</a></li>
+<li><a href="/wiki/Micro-Cap" title="Micro-Cap">Micro-Cap</a></li>
+<li><a href="/wiki/NI_Multisim" title="NI Multisim">NI Multisim</a></li>
+<li><a href="/wiki/NI_Ultiboard" title="NI Ultiboard">NI Ultiboard</a></li>
+<li><a href="/wiki/OrCAD" title="OrCAD">OrCAD</a></li>
+<li><a href="/wiki/Protel_(CAD_software)" class="mw-redirect" title="Protel (CAD software)">Protel</a></li>
+<li><a href="/wiki/Proteus_Design_Suite" title="Proteus Design Suite">Proteus</a></li>
+<li><a href="/wiki/SolidWorks_Electrical" class="mw-redirect" title="SolidWorks Electrical">SolidWorks Electrical</a></li>
+<li><a href="/wiki/TARGET_(CAD_software)" title="TARGET (CAD software)">TARGET</a></li>
+<li><a href="/wiki/TopoR" title="TopoR">TopoR</a></li>
+<li><a href="/wiki/Upverter" title="Upverter">Upverter</a></li>
+<li><a href="/wiki/Zuken_CADSTAR" class="mw-redirect" title="Zuken CADSTAR">Zuken CADSTAR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">File formats</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D_Manufacturing_Format" title="3D Manufacturing Format">3MF</a></li>
+<li><a href="/wiki/ACIS#File_format" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/Additive_Manufacturing_File_Format" title="Additive Manufacturing File Format">AMF</a></li>
+<li><a href="/wiki/C3D#C3D_file_format" class="mw-redirect" title="C3D">C3D</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">CKD</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/Open_Packaging_Conventions" title="Open Packaging Conventions">DWFX</a></li>
+<li><a href="/wiki/.dwg" title=".dwg">DWG</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF">DXF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/Wavefront_.obj_file" title="Wavefront .obj file">OBJ</a></li>
+<li><a href="/wiki/Open_Design_Alliance" title="Open Design Alliance">OpenDWG</a></li>
+<li><a href="/wiki/PLY_(file_format)" title="PLY (file format)">PLY</a></li>
+<li><a href="/wiki/PSpice_circuit_file" title="PSpice circuit file">PSpice</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geometric_modeling_kernel" title="Geometric modeling kernel">Modeling kernels</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ACIS" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/C3D" class="mw-redirect" title="C3D">C3D</a></li>
+<li><a href="/wiki/Open_CASCADE_Technology" class="mw-redirect" title="Open CASCADE Technology">Open CASCADE Technology</a></li>
+<li><a href="/wiki/Parasolid" title="Parasolid">Parasolid</a></li>
+<li><a href="/wiki/Russian_Geometric_Kernel" title="Russian Geometric Kernel">RGK</a></li>
+<li><a href="/wiki/Romulus_(modelling_kernel)" title="Romulus (modelling kernel)">Romulus</a></li>
+<li><a href="/wiki/KernelCAD" title="KernelCAD">KernelCAD</a></li>
+<li><a href="/wiki/ShapeManager" title="ShapeManager">ShapeManager</a></li>
+<li><a href="/wiki/Teigha" class="mw-redirect" title="Teigha">Teigha</a></li>
+<li><a href="/wiki/IntelliCAD" title="IntelliCAD">IntelliCAD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="CAE_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CAE_software" title="Template:CAE software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CAE_software" title="Template talk:CAE software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CAE_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="CAE_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">CAE</a> software</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Open-source</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_Simulation_Library" title="Advanced Simulation Library">Advanced Simulation Library</a></li>
+<li><a href="/wiki/Calculix" title="Calculix">Calculix</a></li>
+<li><a href="/wiki/Code_Saturne" title="Code Saturne">Code Saturne</a></li>
+<li><a href="/wiki/Elmer_FEM_solver" title="Elmer FEM solver">Elmer</a></li>
+<li><a href="/wiki/FeatFlow" title="FeatFlow">FeatFlow</a></li>
+<li><a href="/wiki/FEniCS_Project" title="FEniCS Project">FEniCS</a></li>
+<li><a href="/wiki/FreeFem%2B%2B" title="FreeFem++">FreeFem++</a></li>
+<li><a href="/wiki/Gerris_(software)" title="Gerris (software)">Gerris</a></li>
+<li><a href="/wiki/MOOSE_(software)" title="MOOSE (software)">MOOSE</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenFOAM" title="OpenFOAM">OpenFOAM</a></li>
+<li><a href="/wiki/QBlade" title="QBlade">QBlade</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/Stanford_University_Unstructured" class="mw-redirect" title="Stanford University Unstructured">SU2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Proprietary</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actran" title="Actran">Actran</a></li>
+<li><a href="/wiki/Ansys" title="Ansys">Ansys</a></li>
+<li><a href="/wiki/Abaqus" title="Abaqus">Abaqus</a></li>
+<li><a href="/wiki/ADINA" title="ADINA">ADINA</a></li>
+<li><a href="/wiki/Autodesk_Simulation" title="Autodesk Simulation">Autodesk Simulation</a></li>
+<li><a href="/wiki/Altair_Engineering" title="Altair Engineering">Altair</a></li>
+<li><a href="/wiki/AVL_(engineering_company)" title="AVL (engineering company)">AVL</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/PTC_Creo" title="PTC Creo">PTC Creo</a></li>
+<li><a href="/wiki/COMSOL_Multiphysics" title="COMSOL Multiphysics">COMSOL Multiphysics</a></li>
+<li><a href="/wiki/Computer_Simulation_Technology" class="mw-redirect" title="Computer Simulation Technology">CST Studio Suite</a></li>
+<li><a href="/wiki/DIANA_FEA" title="DIANA FEA">DIANA</a></li>
+<li><a href="/wiki/FEATool_Multiphysics" class="mw-redirect" title="FEATool Multiphysics">FEATool Multiphysics</a></li>
+<li><a href="/wiki/Femap" title="Femap">Femap</a></li>
+<li><a href="/wiki/Fluent,_Inc." class="mw-redirect" title="Fluent, Inc.">Fluent</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/JCMsuite" title="JCMsuite">JCMsuite</a></li>
+<li><a href="/wiki/JMAG" title="JMAG">JMAG</a></li>
+<li><a href="/wiki/KIVA_(software)" title="KIVA (software)">KIVA</a></li>
+<li><a href="/wiki/MSC_ADAMS" title="MSC ADAMS">MSC ADAMS</a></li>
+<li><a href="/wiki/Nastran" title="Nastran">Nastran</a></li>
+<li><a href="/wiki/SESAM_(FEM)" title="SESAM (FEM)">Sesam</a></li>
+<li><a href="/wiki/Siemens_NX" title="Siemens NX">Siemens NX</a></li>
+<li><a class="mw-selflink selflink">SolidWorks</a></li>
+<li><a href="/wiki/StressCheck" title="StressCheck">StressCheck</a></li>
+<li><a href="/wiki/RFEM" title="RFEM">RFEM</a></li>
+<li><a href="/wiki/Working_Model" title="Working Model">Working Model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Cloud-based</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SimScale" title="SimScale">SimScale</a></li>
+<li><a href="/wiki/CONSELF" title="CONSELF">CONSELF</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20180213203529
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 1447/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64925/2097152 bytes
+Template argument size: 1872/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 4.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  307.822      1 -total
+ 33.82%  104.093      1 Template:Reflist
+ 31.92%   98.251      2 Template:Infobox
+ 30.00%   92.338      1 Template:Infobox_software
+ 25.12%   77.325      7 Template:Cite_web
+ 16.40%   50.472      1 Template:Primary_sources
+ 10.44%   32.147      1 Template:Ambox
+  7.43%   22.868      1 Template:Infobox_software/simple
+  7.13%   21.933      1 Template:Commons_category
+  6.57%   20.230      1 Template:Start_date_and_age
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:828062-0!canonical and timestamp 20180213203528 and revision id 823138956
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SolidWorks&amp;oldid=823138956">https://en.wikipedia.org/w/index.php?title=SolidWorks&amp;oldid=823138956</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:3D_graphics_software" title="Category:3D graphics software">3D graphics software</a></li><li><a href="/wiki/Category:Windows-only_software" title="Category:Windows-only software">Windows-only software</a></li><li><a href="/wiki/Category:Solid_mechanics" title="Category:Solid mechanics">Solid mechanics</a></li><li><a href="/wiki/Category:Product_design" title="Category:Product design">Product design</a></li><li><a href="/wiki/Category:Computer-aided_design_software_for_Windows" title="Category:Computer-aided design software for Windows">Computer-aided design software for Windows</a></li><li><a href="/wiki/Category:1995_software" title="Category:1995 software">1995 software</a></li><li><a href="/wiki/Category:Dassault_Group" title="Category:Dassault Group">Dassault Group</a></li><li><a href="/wiki/Category:Proprietary_software" title="Category:Proprietary software">Proprietary software</a></li><li><a href="/wiki/Category:1993_establishments_in_Massachusetts" title="Category:1993 establishments in Massachusetts">1993 establishments in Massachusetts</a></li><li><a href="/wiki/Category:Companies_established_in_1993" title="Category:Companies established in 1993">Companies established in 1993</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_November_2012" title="Category:Articles lacking reliable references from November 2012">Articles lacking reliable references from November 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Pages_using_Infobox_software_with_unknown_parameters" title="Category:Pages using Infobox software with unknown parameters">Pages using Infobox software with unknown parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SolidWorks" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SolidWorks" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/SolidWorks" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:SolidWorks" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/SolidWorks">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=SolidWorks&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=SolidWorks&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/SolidWorks" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/SolidWorks" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=SolidWorks&amp;oldid=823138956" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=SolidWorks&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q751281" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=SolidWorks&amp;id=823138956" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=SolidWorks">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=SolidWorks&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=SolidWorks&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:SolidWorks" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D9%84%D9%8A%D8%AF_%D9%88%D9%88%D8%B1%D9%83%D8%B3" title="سوليد ووركس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/SolidWorks" title="SolidWorks – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%84%DB%8C%D8%AF%D9%88%D8%B1%DA%A9%D8%B3" title="سالیدورکس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/SolidWorks" title="SolidWorks – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%86%94%EB%A6%AC%EB%93%9C%EC%9B%8D%EC%8A%A4" title="솔리드웍스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%BE%E0%B2%B2%E0%B2%BF%E0%B2%A1%E0%B3%8D%E2%80%8D%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D" title="ಸಾಲಿಡ್‍ವರ್ಕ್ಸ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Solidworks" title="Solidworks – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Solidworks" title="Solidworks – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%84" title="โซลิตเวิร์ค – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/SolidWorks" title="SolidWorks – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q751281#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 January 2018, at 13:53.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=SolidWorks&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.374","ppvisitednodes":{"value":1447,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":64925,"limit":2097152},"templateargumentsize":{"value":1872,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  307.822      1 -total"," 33.82%  104.093      1 Template:Reflist"," 31.92%   98.251      2 Template:Infobox"," 30.00%   92.338      1 Template:Infobox_software"," 25.12%   77.325      7 Template:Cite_web"," 16.40%   50.472      1 Template:Primary_sources"," 10.44%   32.147      1 Template:Ambox","  7.43%   22.868      1 Template:Infobox_software/simple","  7.13%   21.933      1 Template:Commons_category","  6.57%   20.230      1 Template:Start_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":5096756,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20180213203529","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1261"});});</script>
+	</body>
+</html>

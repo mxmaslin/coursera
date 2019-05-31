@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Geodesy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geodesy","wgTitle":"Geodesy","wgCurRevisionId":824609734,"wgRevisionId":824609734,"wgArticleId":12608,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2009","All articles lacking in-text citations","Articles containing Ancient Greek-language text","Articles needing more detailed references","Vague or ambiguous geographic scope from January 2017","Pages using div col with deprecated parameters","All articles lacking reliable references","Articles lacking reliable references from January 2018","Incomplete lists from July 2014","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Articles containing video clips","Geodesy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geodesy","wgRelevantArticleId":12608,"wgRequestId":"WoNRgApAICoAALAFQwUAAAEO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q131089","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geodesy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Geodesy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Geodesy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Geodesy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geodesy rootpage-Geodesy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Geodesy</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(February 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;"><a class="mw-selflink selflink">Geodesy</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png" class="image"><img alt="Azimutalprojektion-schief kl-cropped.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" width="150" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" data-file-width="242" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c5d5a5;">Fundamentals</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+<div class="hlist">
+<ul>
+<li><a class="mw-selflink selflink">Geodesy</a></li>
+<li><a href="/wiki/Geodynamics" title="Geodynamics">Geodynamics</a></li>
+<li><a href="/wiki/Geomatics" title="Geomatics">Geomatics</a></li>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/History_of_geodesy" title="History of geodesy">History</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c5d5a5;">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Geographical_distance" title="Geographical distance">Geographical distance</a></li>
+<li><a href="/wiki/Geoid" title="Geoid">Geoid</a></li>
+<li><a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">Figure of the Earth</a></li>
+<li><a href="/wiki/Geodetic_datum" title="Geodetic datum">Geodetic datum</a></li>
+<li><a href="/wiki/Geodesic" title="Geodesic">Geodesic</a></li>
+<li><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Geographic coordinate system</a></li>
+<li><a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">Horizontal position representation</a></li>
+<li><span class="nowrap"><a href="/wiki/Latitude" title="Latitude">Latitude</a>&#160;/ <a href="/wiki/Longitude" title="Longitude">Longitude</a></span></li>
+<li><a href="/wiki/Map_projection" title="Map projection">Map projection</a></li>
+<li><a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">Reference ellipsoid</a></li>
+<li><a href="/wiki/Satellite_geodesy" title="Satellite geodesy">Satellite geodesy</a></li>
+<li><a href="/wiki/Spatial_reference_system" title="Spatial reference system">Spatial reference system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c5d5a5;">Technologies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Satellite_navigation" title="Satellite navigation">Global Navigation Satellite System (GNSS)</a></li>
+<li><a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning System (GPS)</a></li>
+<li><a href="/wiki/GLONASS" title="GLONASS">GLONASS <span style="font-size:90%;">(Russian)</span></a></li>
+<li><a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">BeiDou (BDS) <span style="font-size:90%;">(Chinese)</span></a></li>
+<li><a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">Galileo <span style="font-size:90%;">(European)</span></a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">Indian Regional Navigation<br />
+Satellite System (IRNSS) <span style="font-size:90%;">(India)</span></a></div>
+</li>
+<li><a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">Quasi-Zenith Satellite System (QZSS) <span style="font-size:90%;">(Japan)</span></a></li>
+<li><a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">Legenda (satellite system)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#c5d5a5;">Standards (<a href="/wiki/History_of_geodesy" title="History of geodesy">History</a>)</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+<table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">NGVD 29</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">Sea Level Datum 1929</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/OSGB36" class="mw-redirect" title="OSGB36">OSGB36</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">Ordnance Survey Great Britain 1936</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/SK-42_reference_system" title="SK-42 reference system">SK-42</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">Systema Koordinat 1942 goda</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/ED50" title="ED50">ED50</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">European Datum 1950</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/South_American_Datum#SAD69" title="South American Datum">SAD69</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">South American Datum 1969</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/GRS_80" title="GRS 80">GRS 80</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">Geodetic Reference System 1980</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">NAD 83</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">North American Datum 1983</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/World_Geodetic_System" title="World Geodetic System">WGS 84</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">World Geodetic System 1984</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">NAVD 88</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">N. American Vertical Datum 1988</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">ETRS89</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">European Terrestrial Reference<br />
+System 1989</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;padding-left:0.5em;"><a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">GCJ-02</a></td>
+<td style="text-align:right;font-size:90%;padding-right:0.55em;">Chinese obfuscated datum 2002</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">International Terrestrial Reference System</a></li>
+<li><a href="/wiki/SRID" class="mw-redirect" title="SRID">Spatial Reference System Identifier (SRID)</a></li>
+<li><a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">Universal Transverse Mercator (UTM)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Geodesy" title="Template:Geodesy"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Geodetisch_station1855.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Geodetisch_station1855.jpg/220px-Geodetisch_station1855.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Geodetisch_station1855.jpg/330px-Geodetisch_station1855.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Geodetisch_station1855.jpg/440px-Geodetisch_station1855.jpg 2x" data-file-width="960" data-file-height="1280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Geodetisch_station1855.jpg" class="internal" title="Enlarge"></a></div>
+An old geodetic pillar (1855) at <a href="/wiki/Ostend" title="Ostend">Ostend</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg/220px-Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg/330px-Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg/440px-Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Munich" title="Munich">Munich</a> archive with <a href="/wiki/Lithography" title="Lithography">lithography</a> plates of maps of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></div>
+</div>
+</div>
+<p><b>Geodesy</b> ( <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɒ/: 'o' in 'body'">ɒ</span><span title="'d' in 'dye'">d</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'s' in 'sigh'">s</span><span title="/i/: 'y' in 'happy'">i</span></span>/</a></span></span>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, also known as <b>geodetics</b>, is the <a href="/wiki/Earth_science" title="Earth science">science</a> of accurately measuring and understanding three of <a href="/wiki/Earth" title="Earth">Earth</a>'s fundamental properties—its geometric shape, its orientation in space, and its <a href="/wiki/Gravitational_field" title="Gravitational field">gravity field</a>—as well as how they change over time.<sup id="cite_ref-noaa_2-0" class="reference"><a href="#cite_note-noaa-2">[2]</a></sup> <a href="/wiki/Geodynamics" title="Geodynamics">Geodynamical</a> phenomena include <a href="/wiki/Crust_(geology)" title="Crust (geology)">crustal</a> motion, <a href="/wiki/Tide" title="Tide">tides</a>, and <a href="/wiki/Polar_motion" title="Polar motion">polar motion</a>, which can be studied by designing global and national <a href="/wiki/Control_network" class="mw-redirect" title="Control network">control networks</a>, applying <a href="/wiki/Space_techniques" title="Space techniques">space</a> and terrestrial techniques, and relying on <a href="/wiki/Datum_(geodesy)" class="mw-redirect" title="Datum (geodesy)">datums</a> and <a href="/wiki/Coordinate_system" title="Coordinate system">coordinate systems</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Geoid_and_reference_ellipsoid"><span class="tocnumber">3</span> <span class="toctext">Geoid and reference ellipsoid</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Coordinate_systems_in_space"><span class="tocnumber">4</span> <span class="toctext">Coordinate systems in space</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Coordinate_systems_in_the_plane"><span class="tocnumber">4.1</span> <span class="toctext">Coordinate systems in the plane</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Heights"><span class="tocnumber">5</span> <span class="toctext">Heights</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Geodetic_data"><span class="tocnumber">6</span> <span class="toctext">Geodetic data</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Point_positioning"><span class="tocnumber">7</span> <span class="toctext">Point positioning</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Geodetic_problems"><span class="tocnumber">8</span> <span class="toctext">Geodetic problems</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Geodetic_observational_concepts"><span class="tocnumber">9</span> <span class="toctext">Geodetic observational concepts</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Geodetic_measurements"><span class="tocnumber">10</span> <span class="toctext">Geodetic measurements</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Units_and_measures_on_the_ellipsoid"><span class="tocnumber">11</span> <span class="toctext">Units and measures on the ellipsoid</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Temporal_change"><span class="tocnumber">12</span> <span class="toctext">Temporal change</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notable_geodesists"><span class="tocnumber">13</span> <span class="toctext">Notable geodesists</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Mathematical_geodesists_before_1900"><span class="tocnumber">13.1</span> <span class="toctext">Mathematical geodesists before 1900</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#20th_century_geodesists"><span class="tocnumber">13.2</span> <span class="toctext">20th century geodesists</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Unlisted"><span class="tocnumber">13.3</span> <span class="toctext">Unlisted</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">16</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">17</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word "geodesy" comes from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> word <span lang="grc" xml:lang="grc">γεωδαισία</span> <i>geodaisia</i> (literally, "division of the Earth").</p>
+<p>It is primarily concerned with positioning within the <a href="/wiki/Time" title="Time">temporally</a> varying gravity field. Geodesy in the <a href="/wiki/German_language" title="German language">German</a>-speaking world is divided into "higher geodesy" ("<i>Erdmessung</i>" or "<i>höhere Geodäsie</i>"), which is concerned with measuring the Earth on the global scale, and "practical geodesy" or "engineering geodesy" ("<i>Ingenieurgeodäsie</i>"), which is concerned with measuring specific parts or regions of the Earth, and which includes <a href="/wiki/Surveying" title="Surveying">surveying</a>. Such geodetic operations are also applied to other astronomical bodies in the <a href="/wiki/Solar_system" class="mw-redirect" title="Solar system">solar system</a>. It is also the science of measuring and understanding the earth's geometric shape, orientation in space, and gravity field.</p>
+<p>To a large extent, the shape of the Earth is the result of its <a href="/wiki/Earth%27s_rotation" title="Earth's rotation">rotation</a>, which causes its <a href="/wiki/Equatorial_bulge" title="Equatorial bulge">equatorial bulge</a>, and the competition of geological processes such as the <a href="/wiki/Continental_collision" title="Continental collision">collision of plates</a> and of <a href="/wiki/Volcano" title="Volcano">volcanism</a>, resisted by the Earth's <a href="/wiki/Gravity" title="Gravity">gravity</a> field. This applies to the solid surface, the liquid surface (<a href="/wiki/Dynamic_sea_surface_topography" class="mw-redirect" title="Dynamic sea surface topography">dynamic sea surface topography</a>) and the <a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">Earth's atmosphere</a>. For this reason, the study of the Earth's <a href="/wiki/Gravity_field" class="mw-redirect" title="Gravity field">gravity field</a> is called <a href="/wiki/Physical_geodesy" title="Physical geodesy">physical geodesy</a>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/History_of_geodesy" title="History of geodesy">History of geodesy</a></div>
+<h2><span class="mw-headline" id="Geoid_and_reference_ellipsoid">Geoid and reference ellipsoid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=3" title="Edit section: Geoid and reference ellipsoid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Geoid" title="Geoid">Geoid</a></div>
+<p>The <a href="/wiki/Geoid" title="Geoid">geoid</a> is essentially the figure of the Earth abstracted from its topographical features. It is an idealized equilibrium surface of <a href="/wiki/Sea_water" class="mw-redirect" title="Sea water">sea water</a>, the <a href="/wiki/Mean_sea_level" class="mw-redirect" title="Mean sea level">mean sea level</a> surface in the absence of <a href="/wiki/Ocean_current" title="Ocean current">currents</a> and <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">air pressure</a> variations, and continued under the continental masses. The geoid, unlike the <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">reference ellipsoid</a>, is irregular and too complicated to serve as the computational surface on which to solve geometrical problems like point positioning. The geometrical separation between the geoid and the reference ellipsoid is called the geoidal <a href="https://en.wiktionary.org/wiki/undulate" class="extiw" title="wiktionary:undulate">undulation</a>. It varies globally between ±110&#160;m, when referred to the GRS&#160;80 ellipsoid.</p>
+<p>A <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">reference ellipsoid</a>, customarily chosen to be the same size (volume) as the geoid, is described by its semi-major axis (equatorial radius) <i>a</i> and flattening <i>f</i>. The quantity <i>f</i>&#160;= <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><i>a</i> − <i>b</i></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><i>a</i></span></span>, where <i>b</i> is the semi-minor axis (polar radius), is a purely geometrical one. The mechanical ellipticity of the Earth (dynamical flattening, symbol <i>J</i><sub>2</sub>) can be determined to high precision by observation of satellite <a href="/wiki/Orbital_perturbation_analysis" title="Orbital perturbation analysis">orbit perturbations</a>. Its relationship with the geometrical flattening is indirect. The relationship depends on the internal density distribution, or, in simplest terms, the degree of central concentration of mass.</p>
+<p>The 1980 Geodetic Reference System (<a href="/wiki/GRS80" class="mw-redirect" title="GRS80">GRS&#160;80</a>) posited a 6,378,137&#160;m semi-major axis and a 1:298.257 flattening. This system was adopted at the XVII General Assembly of the International Union of Geodesy and Geophysics (<a href="/wiki/IUGG" class="mw-redirect" title="IUGG">IUGG</a>). It is essentially the basis for geodetic positioning by the <a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning System</a> (GPS) and is thus also in widespread use outside the geodetic community. The numerous systems that countries have used to create maps and charts are becoming obsolete as countries increasingly move to global, geocentric reference systems using the GRS&#160;80 reference ellipsoid.</p>
+<p>The geoid is "realizable", meaning it can be consistently located on the Earth by suitable simple measurements from physical objects like a tide gauge. The geoid can therefore be considered a real surface. The reference ellipsoid, however, has many possible instantiations and is not readily realizable, therefore it is an abstract surface. The third primary surface of geodetic interest—the topographic surface of the Earth—is a realizable surface.</p>
+<h2><span class="mw-headline" id="Coordinate_systems_in_space">Coordinate systems in space</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=4" title="Edit section: Coordinate systems in space">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Geodetic_system" class="mw-redirect" title="Geodetic system">Geodetic system</a></div>
+<p>The locations of points in three-dimensional space are most conveniently described by three <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">cartesian</a> or rectangular coordinates, <i>X</i>, <i>Y</i> and <i>Z</i>. Since the advent of satellite positioning, such coordinate systems are typically <a href="/wiki/Geocentric" class="mw-redirect" title="Geocentric">geocentric</a>: the <i>Z</i>-axis is aligned with the Earth's (conventional or instantaneous) rotation axis.</p>
+<p>Prior to the era of <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">satellite geodesy</a>, the coordinate systems associated with a geodetic <a href="/wiki/Datum_(geodesy)" class="mw-redirect" title="Datum (geodesy)">datum</a> attempted to be <a href="/wiki/Geocentric" class="mw-redirect" title="Geocentric">geocentric</a>, but their origins differed from the geocenter by hundreds of meters, due to regional deviations in the direction of the <a href="/wiki/Plumbline" class="mw-redirect" title="Plumbline">plumbline</a> (vertical). These regional geodetic data, such as <a href="/wiki/ED50" title="ED50">ED&#160;50</a> (European Datum 1950) or <a href="/wiki/North_American_Datum#North_American_Datum_of_1927" title="North American Datum">NAD&#160;27</a> (North American Datum 1927) have ellipsoids associated with them that are regional "best fits" to the <a href="/wiki/Geoid" title="Geoid">geoids</a> within their areas of validity, minimizing the deflections of the vertical over these areas.</p>
+<p>It is only because <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a> satellites orbit about the geocenter, that this point becomes naturally the origin of a coordinate system defined by satellite geodetic means, as the satellite positions in space are themselves computed in such a system.</p>
+<p>Geocentric coordinate systems used in geodesy can be divided naturally into two classes:</p>
+<ol>
+<li><a href="/wiki/Inertial" class="mw-redirect" title="Inertial">Inertial</a> reference systems, where the coordinate axes retain their orientation relative to the <a href="/wiki/Fixed_star" class="mw-redirect" title="Fixed star">fixed stars</a>, or equivalently, to the rotation axes of ideal <a href="/wiki/Gyroscopes" class="mw-redirect" title="Gyroscopes">gyroscopes</a>; the <i>X</i>-axis points to the <a href="/wiki/Vernal_equinox" class="mw-redirect" title="Vernal equinox">vernal equinox</a></li>
+<li>Co-rotating, also <a href="/wiki/ECEF" title="ECEF">ECEF</a> ("Earth Centred, Earth Fixed"), where the axes are attached to the solid body of the Earth. The <i>X</i>-axis lies within the <a href="/wiki/Greenwich_meridian" class="mw-redirect" title="Greenwich meridian">Greenwich</a> observatory's <a href="/wiki/Meridian_(geography)" title="Meridian (geography)">meridian</a> plane.</li>
+</ol>
+<p>The coordinate transformation between these two systems is described to good approximation by (apparent) <a href="/wiki/Sidereal_time" title="Sidereal time">sidereal time</a>, which takes into account variations in the Earth's axial rotation (<a href="/wiki/Day" title="Day">length-of-day</a> variations). A more accurate description also takes <a href="/wiki/Polar_motion" title="Polar motion">polar motion</a> into account, a phenomenon closely monitored by geodesists.</p>
+<h3><span class="mw-headline" id="Coordinate_systems_in_the_plane">Coordinate systems in the plane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=5" title="Edit section: Coordinate systems in the plane">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Surveying" title="Surveying">surveying</a> and <a href="/wiki/Map" title="Map">mapping</a>, important fields of application of geodesy, two general types of coordinate systems are used in the plane:</p>
+<ol>
+<li>Plano-polar, in which points in a plane are defined by a distance <i>s</i> from a specified point along a ray having a specified direction <i>α</i> with respect to a base line or axis;</li>
+<li>Rectangular, points are defined by distances from two perpendicular axes called <i>x</i> and <i>y</i>. It is geodetic practice—contrary to the mathematical convention—to let the <i>x</i>-axis point to the north and the <i>y</i>-axis to the east.</li>
+</ol>
+<p>Rectangular coordinates in the plane can be used intuitively with respect to one's current location, in which case the <i>x</i>-axis will point to the local north. More formally, such coordinates can be obtained from three-dimensional coordinates using the artifice of a <a href="/wiki/Map_projection" title="Map projection">map projection</a>. It is <i>not</i> possible to map the curved surface of the Earth onto a flat map surface without deformation. The compromise most often chosen—called a <a href="/wiki/Conformal_projection" class="mw-redirect" title="Conformal projection">conformal projection</a>—preserves angles and length ratios, so that small circles are mapped as small circles and small squares as squares.</p>
+<p>An example of such a projection is UTM (<a href="/wiki/Universal_Transverse_Mercator" class="mw-redirect" title="Universal Transverse Mercator">Universal Transverse Mercator</a>). Within the map plane, we have rectangular coordinates <i>x</i> and <i>y</i>. In this case the north direction used for reference is the <i>map</i> north, not the <i>local</i> north. The difference between the two is called <a href="/wiki/Transverse_Mercator_projection#Convergence" title="Transverse Mercator projection">meridian convergence</a>.</p>
+<p>It is easy enough to "translate" between polar and rectangular coordinates in the plane: let, as above, direction and distance be <i>α</i> and <i>s</i> respectively, then we have</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\begin{aligned}x&amp;=s\cos \alpha \\y&amp;=s\sin \alpha \end{aligned}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mi>x</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>s</mi>
+                <mi>cos</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mi>&#x03B1;<!-- α --></mi>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mi>y</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>s</mi>
+                <mi>sin</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mi>&#x03B1;<!-- α --></mi>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}x&amp;=s\cos \alpha \\y&amp;=s\sin \alpha \end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/452b70962d2af7e2cce527f5ba5c27d8194c57d1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:11.643ex; height:5.843ex;" alt="{\displaystyle {\begin{aligned}x&amp;=s\cos \alpha \\y&amp;=s\sin \alpha \end{aligned}}}" /></span></dd>
+</dl>
+<p>The reverse transformation is given by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\begin{aligned}s&amp;={\sqrt {x^{2}+y^{2}}}\\\alpha &amp;=\arctan {\frac {y}{x}}.\end{aligned}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mi>s</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <msqrt>
+                    <msup>
+                      <mi>x</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msup>
+                    <mo>+</mo>
+                    <msup>
+                      <mi>y</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msup>
+                  </msqrt>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mi>&#x03B1;<!-- α --></mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>arctan</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mi>y</mi>
+                    <mi>x</mi>
+                  </mfrac>
+                </mrow>
+                <mo>.</mo>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}s&amp;={\sqrt {x^{2}+y^{2}}}\\\alpha &amp;=\arctan {\frac {y}{x}}.\end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4f8e80cfcaef1ce1dfc52d2363d2de16a0a34a7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.338ex; width:15.1ex; height:9.843ex;" alt="{\displaystyle {\begin{aligned}s&amp;={\sqrt {x^{2}+y^{2}}}\\\alpha &amp;=\arctan {\frac {y}{x}}.\end{aligned}}}" /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Heights">Heights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=6" title="Edit section: Heights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In geodesy, point or terrain <i><a href="/wiki/Height" title="Height">heights</a></i> are "<a href="/wiki/Above_sea_level" class="mw-redirect" title="Above sea level">above sea level</a>", an irregular, physically defined surface. Therefore, a height should ideally <i>not</i> be referred to as a coordinate. It is more like a physical quantity, and though it can be tempting to treat height as the vertical coordinate <i>z</i>, in addition to the horizontal coordinates <i>x</i> and <i>y</i>, and though this actually is a good approximation of physical reality in small areas, it quickly becomes invalid for regional considerations.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="Statement needs to be more specific about the content to which it refers. (December 2006)">specify</span></a></i>]</sup></p>
+<p>Heights come in the following variants:</p>
+<ol>
+<li><a href="/wiki/Orthometric_height" title="Orthometric height">Orthometric heights</a></li>
+<li><a href="/wiki/Normal_height" title="Normal height">Normal heights</a></li>
+<li><a href="/wiki/Geopotential_height" title="Geopotential height">Geopotential heights</a></li>
+</ol>
+<p>Each has its advantages and disadvantages. Both orthometric and normal heights are heights in metres above sea level, whereas geopotential numbers are measures of potential energy (unit: m<sup>2</sup>&#160;s<sup>−2</sup>) and not metric. Orthometric and normal heights differ in the precise way in which mean sea level is conceptually continued under the continental masses. The reference surface for orthometric heights is the <a href="/wiki/Geoid" title="Geoid">geoid</a>, an equipotential surface approximating mean sea level.</p>
+<p><i>None</i> of these heights is in any way related to <b>geodetic</b> or <b>ellipsoidial</b> heights, which express the height of a point above the <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">reference ellipsoid</a>. Satellite positioning receivers typically provide ellipsoidal heights, unless they are fitted with special conversion software based on a model of the <a href="/wiki/Geoid" title="Geoid">geoid</a>.</p>
+<h2><span class="mw-headline" id="Geodetic_data">Geodetic data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=7" title="Edit section: Geodetic data">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because geodetic point coordinates (and heights) are always obtained in a system that has been constructed itself using real observations, geodesists introduce the concept of a "geodetic datum": a physical realization of a coordinate system used for describing point locations. The realization is the result of <i>choosing</i> conventional coordinate values for one or more datum points.</p>
+<p>In the case of height data, it suffices to choose <i>one</i> datum point: the reference benchmark, typically a tide gauge at the shore. Thus we have vertical data like the NAP (<a href="/wiki/Normaal_Amsterdams_Peil" class="mw-redirect" title="Normaal Amsterdams Peil">Normaal Amsterdams Peil</a>), the North American Vertical Datum 1988 (NAVD&#160;88), the Kronstadt datum, the Trieste datum, and so on.</p>
+<p>In case of plane or spatial coordinates, we typically need several datum points. A regional, ellipsoidal datum like <a href="/wiki/ED50" title="ED50">ED&#160;50</a> can be fixed by prescribing the <a href="/wiki/Undulation_of_the_geoid" title="Undulation of the geoid">undulation of the geoid</a> and the deflection of the vertical in <i>one</i> datum point, in this case the Helmert Tower in <a href="/wiki/Potsdam" title="Potsdam">Potsdam</a>. However, an overdetermined ensemble of datum points can also be used.</p>
+<p>Changing the coordinates of a point set referring to one datum, so to make them refer to another datum, is called a <i>datum transformation</i>. In the case of vertical data, this consists of simply adding a constant shift to all height values. In the case of plane or spatial coordinates, datum transformation takes the form of a similarity or <i>Helmert transformation</i>, consisting of a rotation and scaling operation in addition to a simple translation. In the plane, a <a href="/wiki/Helmert_transformation" title="Helmert transformation">Helmert transformation</a> has four parameters; in space, seven.</p>
+<dl>
+<dt>A note on terminology</dt>
+</dl>
+<p>In the abstract, a coordinate system as used in mathematics and geodesy is called a "coordinate system" in <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> terminology, whereas the <a href="/wiki/International_Earth_Rotation_and_Reference_Systems_Service" title="International Earth Rotation and Reference Systems Service">International Earth Rotation and Reference Systems Service</a> (IERS) uses the term "reference system". When these coordinates are realized by choosing datum points and fixing a geodetic datum, ISO says "coordinate reference system", while IERS says "reference frame". The ISO term for a datum transformation again is a "coordinate transformation".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Point_positioning">Point positioning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=8" title="Edit section: Point positioning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Geodetic_Control_Mark.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Geodetic_Control_Mark.jpg/250px-Geodetic_Control_Mark.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Geodetic_Control_Mark.jpg/375px-Geodetic_Control_Mark.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Geodetic_Control_Mark.jpg/500px-Geodetic_Control_Mark.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Geodetic_Control_Mark.jpg" class="internal" title="Enlarge"></a></div>
+Geodetic Control Mark (example of a <a href="/wiki/Benchmark_(surveying)" title="Benchmark (surveying)">deep benchmark</a>)</div>
+</div>
+</div>
+<p>Point positioning is the determination of the coordinates of a point on land, at sea, or in space with respect to a coordinate system. Point position is solved by computation from measurements linking the known positions of terrestrial or extraterrestrial points with the unknown terrestrial position. This may involve transformations between or among astronomical and terrestrial coordinate systems. The known points used for point positioning can be <a href="/wiki/Triangulation" title="Triangulation">triangulation</a> points of a higher-order network or <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a> satellites.</p>
+<p>Traditionally, a hierarchy of networks has been built to allow point positioning within a country. Highest in the hierarchy were triangulation networks. These were densified into networks of <a href="/wiki/Traverse_(surveying)" title="Traverse (surveying)">traverses</a> (<a href="/wiki/Polygons" class="mw-redirect" title="Polygons">polygons</a>), into which local mapping surveying measurements, usually with measuring tape, <a href="/wiki/Corner_reflector" title="Corner reflector">corner prism</a>, and the familiar<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (January 2017)">where?</span></a></i>]</sup> red and white poles, are tied.</p>
+<p>Nowadays all but special measurements (e.g., underground or high-precision engineering measurements) are performed with <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a>. The higher-order networks are measured with <a href="/wiki/Global_Positioning_System" title="Global Positioning System">static GPS</a>, using differential measurement to determine vectors between terrestrial points. These vectors are then adjusted in traditional network fashion. A global polyhedron of permanently operating GPS stations under the auspices of the <a href="/wiki/IERS" class="mw-redirect" title="IERS">IERS</a> is used to define a single global, geocentric reference frame which serves as the "zero order" global reference to which national measurements are attached.</p>
+<p>For <a href="/wiki/Surveying" title="Surveying">surveying</a> mappings, frequently <a href="/wiki/Real_Time_Kinematic" title="Real Time Kinematic">Real Time Kinematic</a> GPS is employed, tying in the unknown points with known terrestrial points close by in real time.</p>
+<p>One purpose of point positioning is the provision of known points for mapping measurements, also known as (horizontal and vertical) control. In every country, thousands of such known points exist and are normally documented by national mapping agencies. Surveyors involved in real estate and insurance will use these to tie their local measurements.</p>
+<h2><span class="mw-headline" id="Geodetic_problems">Geodetic problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=9" title="Edit section: Geodetic problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Geodesics_on_an_ellipsoid" title="Geodesics on an ellipsoid">Geodesics on an ellipsoid</a></div>
+<p>In geometric geodesy, two standard problems exist—the first (direct or forward) and the second (inverse or reverse).</p>
+<dl>
+<dt>First (direct or forward) geodetic problem</dt>
+</dl>
+<dl>
+<dd>Given a point (in terms of its coordinates) and the direction (<a href="/wiki/Azimuth" title="Azimuth">azimuth</a>) and <a href="/wiki/Distance" title="Distance">distance</a> from that point to a second point, determine (the coordinates of) that second point.</dd>
+</dl>
+<dl>
+<dt>Second (inverse or reverse) geodetic problem</dt>
+</dl>
+<dl>
+<dd>Given two points, determine the azimuth and length of the line (straight line, arc or <a href="/wiki/Geodesic" title="Geodesic">geodesic</a>) that connects them.</dd>
+</dl>
+<p>In plane geometry (valid for small areas on the Earth's surface), the solutions to both problems reduce to simple <a href="/wiki/Trigonometry" title="Trigonometry">trigonometry</a>. On a sphere, however, the solution is significantly more complex, because in the inverse problem the azimuths will differ between the two end points of the connecting <a href="/wiki/Great_circle" title="Great circle">great circle</a>, arc.</p>
+<p>On the ellipsoid of revolution, geodesics may be written in terms of elliptic integrals, which are usually evaluated in terms of a series expansion—see, for example, <a href="/wiki/Vincenty%27s_formulae" title="Vincenty's formulae">Vincenty's formulae</a>. In the general case, the solution is called the <a href="/wiki/Geodesic" title="Geodesic">geodesic</a> for the surface considered. The <a href="/wiki/Differential_equation" title="Differential equation">differential equations</a> for the <a href="/wiki/Geodesic" title="Geodesic">geodesic</a> can be solved numerically.</p>
+<h2><span class="mw-headline" id="Geodetic_observational_concepts">Geodetic observational concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=10" title="Edit section: Geodetic observational concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Here we define some basic observational concepts, like angles and coordinates, defined in geodesy (and <a href="/wiki/Astronomy" title="Astronomy">astronomy</a> as well), mostly from the viewpoint of the local observer.</p>
+<ul>
+<li><b><a href="/wiki/Plumbline" class="mw-redirect" title="Plumbline">Plumbline</a></b> or <b>vertical</b>: the direction of local gravity, or the line that results by following it.</li>
+<li><b><a href="/wiki/Zenith" title="Zenith">Zenith</a></b>: the point on the <a href="/wiki/Celestial_sphere" title="Celestial sphere">celestial sphere</a> where the direction of the gravity vector in a point, extended upwards, intersects it. More correct is to call it a <b>direction</b> rather than a point.</li>
+<li><b><a href="/wiki/Nadir" title="Nadir">Nadir</a></b>: the opposite point—or rather, direction—where the direction of gravity extended downward intersects the (invisible) celestial sphere.</li>
+<li><b>Celestial horizon</b>: a plane perpendicular to a point's gravity vector.</li>
+<li><b><a href="/wiki/Azimuth" title="Azimuth">Azimuth</a></b>: the direction angle within the plane of the horizon, typically counted clockwise from the north (in geodesy and astronomy) or south (in France).</li>
+<li><b><a href="/wiki/Elevation" title="Elevation">Elevation</a></b>: the angular height of an object above the horizon, Alternatively <a href="/wiki/Zenith_distance" class="mw-redirect" title="Zenith distance">zenith distance</a>, being equal to 90 degrees minus elevation.</li>
+<li><b>Local topocentric coordinates</b>: azimuth (direction angle within the plane of the horizon), elevation angle (or zenith angle), distance.</li>
+<li><b>North <a href="/wiki/Celestial_pole" title="Celestial pole">celestial pole</a></b>: the extension of the Earth's (<a href="/wiki/Precession" title="Precession">precessing</a> and <a href="/wiki/Nutation" title="Nutation">nutating</a>) instantaneous spin axis extended northward to intersect the celestial sphere. (Similarly for the south celestial pole.)</li>
+<li><b>Celestial equator</b>: the intersection of the (instantaneous) Earth equatorial plane with the celestial sphere.</li>
+<li><b><a href="/wiki/Meridian_(geography)" title="Meridian (geography)">Meridian</a> plane</b>: any plane perpendicular to the celestial equator and containing the celestial poles.</li>
+<li><b>Local meridian</b>: the plane containing the direction to the zenith and the direction to the celestial pole.</li>
+</ul>
+<h2><span class="mw-headline" id="Geodetic_measurements">Geodetic measurements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=11" title="Edit section: Geodetic measurements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">Satellite geodesy</a>, <a href="/wiki/Geodetic_astronomy" title="Geodetic astronomy">Geodetic astronomy</a>, <a href="/wiki/Surveying" title="Surveying">Surveying</a>, <a href="/wiki/Gravimetry" title="Gravimetry">Gravimetry</a>, and <a href="/wiki/Levelling" title="Levelling">Levelling</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:350px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/854px--Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;127.69423333333&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Stephen_Merkowitz_NASA&amp;#039;s_Space_Geodesy_Project.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1072032&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;HD WebM (720P)&quot; data-shorttitle=&quot;WebM 720P&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;1887576&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 1,280 × 720 (5.19 Mbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;5193922&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;200952&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;308656&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;560400&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Stephen Merkowitz NASA's Space Geodesy Project.ogv" style="width:350px;height:197px" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv/350px--Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/9/9f/Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stephen_Merkowitz_NASA%27s_Space_Geodesy_Project.ogv" class="internal" title="Enlarge"></a></div>
+A NASA project manager talks about his work for the <a href="/wiki/Space_geodesy" title="Space geodesy">Space Geodesy</a> Project, including a overview of its four fundamental techniques: GPS, <a href="/wiki/Very-long-baseline_interferometry" title="Very-long-baseline interferometry">VLBI</a>, <a href="/wiki/Satellite_laser_ranging" title="Satellite laser ranging">SLR</a>, and <a href="/wiki/DORIS_(geodesy)" title="DORIS (geodesy)">DORIS</a>.</div>
+</div>
+</div>
+<p>The level is used for determining height differences and height reference systems, commonly referred to <a href="/wiki/Mean_sea_level" class="mw-redirect" title="Mean sea level">mean sea level</a>. The traditional <a href="/wiki/Spirit_level" title="Spirit level">spirit level</a> produces these practically most useful heights above <a href="/wiki/Sea_level" title="Sea level">sea level</a> directly; the more economical use of GPS instruments for height determination requires precise knowledge of the figure of the <a href="/wiki/Geoid" title="Geoid">geoid</a>, as GPS only gives heights above the <a href="/wiki/GRS80" class="mw-redirect" title="GRS80">GRS80</a> reference ellipsoid. As geoid knowledge accumulates, one may expect use of GPS heighting to spread.</p>
+<p>The <a href="/wiki/Theodolite" title="Theodolite">theodolite</a> is used to measure horizontal and vertical angles to target points. These angles are referred to the local vertical. The <a href="/wiki/Tacheometer" class="mw-redirect" title="Tacheometer">tacheometer</a> additionally determines, electronically or <a href="/wiki/Electro-optics" title="Electro-optics">electro-optically</a>, the distance to target, and is highly automated to even robotic in its operations. The method of <a href="/w/index.php?title=Free_station_position&amp;action=edit&amp;redlink=1" class="new" title="Free station position (page does not exist)">free station position</a> is widely used.</p>
+<p>For local detail surveys, tacheometers are commonly employed although the old-fashioned rectangular technique using angle prism and steel tape is still an inexpensive alternative. Real-time kinematic (RTK) GPS techniques are used as well. Data collected are tagged and recorded digitally for entry into a <a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic Information System</a> (GIS) database.</p>
+<p>Geodetic <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a> receivers produce directly three-dimensional coordinates in a <a href="/wiki/Geocentric" class="mw-redirect" title="Geocentric">geocentric</a> coordinate frame. Such a frame is, e.g., <a href="/wiki/WGS84" class="mw-redirect" title="WGS84">WGS84</a>, or the frames that are regularly produced and published by the International Earth Rotation and Reference Systems Service (<a href="/wiki/IERS" class="mw-redirect" title="IERS">IERS</a>).</p>
+<p>GPS receivers have almost completely replaced terrestrial instruments for large-scale base network surveys. For planet-wide geodetic surveys, previously impossible, we can still mention <a href="/wiki/Satellite_laser_ranging" title="Satellite laser ranging">satellite laser ranging</a> (SLR) and <a href="/wiki/Lunar_laser_ranging" class="mw-redirect" title="Lunar laser ranging">lunar laser ranging</a> (LLR) and <a href="/wiki/Very-long-baseline_interferometry" title="Very-long-baseline interferometry">very-long-baseline interferometry</a> (VLBI) techniques. All these techniques also serve to monitor irregularities in the Earth's rotation as well as plate tectonic motions.</p>
+<p><a href="/wiki/Gravity" title="Gravity">Gravity</a> is measured using <a href="/wiki/Gravimeters" class="mw-redirect" title="Gravimeters">gravimeters</a>, of which there are two kinds. First, "absolute gravimeters" are based on measuring the acceleration of <a href="/wiki/Free_fall" title="Free fall">free fall</a> (e.g., of a reflecting prism in a <a href="/wiki/Vacuum_tube" title="Vacuum tube">vacuum tube</a>). They are used to establish the vertical geospatial control and can be used in the field. Second, "relative gravimeters" are spring-based and are more common. They are used in gravity surveys over large areas for establishing the figure of the geoid over these areas. The most accurate relative gravimeters are called "superconducting" gravimeters, which are sensitive to one-thousandth of one-billionth of Earth surface gravity. Twenty-some superconducting gravimeters are used worldwide for studying Earth's <a href="/wiki/Tide" title="Tide">tides</a>, <a href="/wiki/Rotation" title="Rotation">rotation</a>, interior, and <a href="/wiki/Ocean" title="Ocean">ocean</a> and atmospheric loading, as well as for verifying the Newtonian constant of <a href="/wiki/Gravitation" class="mw-redirect" title="Gravitation">gravitation</a>.</p>
+<p>In the future gravity, and altitude, will be measured by relativistic <a href="/wiki/Time_dilation" title="Time dilation">time dilation</a> measured by <a href="/wiki/Atomic_clock#Strontium_optical_clocks" title="Atomic clock">strontium optical clocks</a>.</p>
+<h2><span class="mw-headline" id="Units_and_measures_on_the_ellipsoid">Units and measures on the ellipsoid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=12" title="Edit section: Units and measures on the ellipsoid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Geographical <a href="/wiki/Latitude" title="Latitude">latitude</a> and <a href="/wiki/Longitude" title="Longitude">longitude</a> are stated in the units degree, minute of arc, and second of arc. They are <i>angles</i>, not metric measures, and describe the <i>direction</i> of the local normal to the <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">reference ellipsoid</a> of revolution. This is <i>approximately</i> the same as the direction of the plumbline, i.e., local gravity, which is also the normal to the geoid surface. For this reason, astronomical position determination – measuring the direction of the plumbline by astronomical means – works fairly well provided an ellipsoidal model of the figure of the Earth is used.</p>
+<p>One geographical mile, defined as one minute of arc on the equator, equals 1,855.32571922 m. One <a href="/wiki/Nautical_mile" title="Nautical mile">nautical mile</a> is one minute of astronomical latitude. The radius of curvature of the ellipsoid varies with latitude, being the longest at the pole and the shortest at the equator as is the nautical mile.</p>
+<p>A metre was originally defined as the 10-millionth part of the length of a meridian (the target was not quite reached in actual implementation, so that is off by 200 <a href="/wiki/Parts-per_notation#ppm" title="Parts-per notation">ppm</a> in the current definitions). This means that one kilometre is roughly equal to (1/40,000) * 360 * 60 meridional minutes of arc, which equals 0.54 nautical mile, though this is not exact because the two units are defined on different bases (the international nautical mile is defined as exactly 1,852 m, corresponding to a rounding of 1,000/0.54 m to four digits).</p>
+<h2><span class="mw-headline" id="Temporal_change">Temporal change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=13" title="Edit section: Temporal change">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In geodesy, temporal change can be studied by a variety of techniques. Points on the Earth's surface change their location due to a variety of mechanisms:</p>
+<ul>
+<li>Continental plate motion, <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonics</a></li>
+<li>Episodic motion of tectonic origin, especially close to <a href="/wiki/Fault_line" class="mw-redirect" title="Fault line">fault lines</a></li>
+<li>Periodic effects due to tides</li>
+<li><a href="/wiki/Glaciation" class="mw-redirect" title="Glaciation">Postglacial</a> land uplift due to isostatic adjustment</li>
+<li>Mass variations due to hydrological changes</li>
+<li>Anthropogenic movements such as reservoir construction or <a href="/wiki/Petroleum" title="Petroleum">petroleum</a> or water extraction</li>
+</ul>
+<p>The science of studying deformations and motions of the Earth's crust and the solid Earth as a whole is called <a href="/wiki/Geodynamics" title="Geodynamics">geodynamics</a>. Often, study of the Earth's irregular rotation is also included in its definition.</p>
+<p>Techniques for studying geodynamic phenomena on the global scale include:</p>
+<ul>
+<li>Satellite positioning by <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a></li>
+<li><a href="/wiki/Very-long-baseline_interferometry" title="Very-long-baseline interferometry">Very-long-baseline interferometry</a> (VLBI)</li>
+<li>Satellite and lunar <a href="/wiki/Laser_ranging" class="mw-redirect" title="Laser ranging">laser ranging</a></li>
+<li>Regionally and locally precise levelling</li>
+<li>{recise tacheometers</li>
+<li>Monitoring of gravity change</li>
+<li><a href="/wiki/Interferometric_synthetic_aperture_radar" class="mw-redirect" title="Interferometric synthetic aperture radar">Interferometric synthetic aperture radar</a> (InSAR) using satellite images</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_geodesists">Notable geodesists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=14" title="Edit section: Notable geodesists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mathematical_geodesists_before_1900">Mathematical geodesists before 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=15" title="Edit section: Mathematical geodesists before 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a> 580–490&#160;BC, <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li><a href="/wiki/Eratosthenes" title="Eratosthenes">Eratosthenes</a> 276–194&#160;BC, ancient Greece</li>
+<li><a href="/wiki/Hipparchus" title="Hipparchus">Hipparchus</a> <abbr title="circa">c.</abbr> 190–120&#160;BC, ancient Greece</li>
+<li><a href="/wiki/Posidonius" title="Posidonius">Posidonius</a> <abbr title="circa">c.</abbr> 135–51&#160;BC, ancient Greece</li>
+<li><a href="/wiki/Claudius_Ptolemy" class="mw-redirect" title="Claudius Ptolemy">Claudius Ptolemy</a> <abbr title="circa">c.</abbr> AD&#160;83–168, <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a> (<a href="/wiki/Roman_Egypt" class="mw-redirect" title="Roman Egypt">Roman Egypt</a>)</li>
+<li><a href="/wiki/Al-Ma%27mun" title="Al-Ma'mun">Al-Ma'mun</a> 786–833, <a href="/wiki/Baghdad" title="Baghdad">Baghdad</a> (Iraq/<a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>)</li>
+<li><a href="/wiki/Abu_Rayhan_Biruni" class="mw-redirect" title="Abu Rayhan Biruni">Abu Rayhan Biruni</a> 973–1048, <a href="/wiki/Greater_Khorasan" title="Greater Khorasan">Khorasan</a> (<a href="/wiki/Persia" class="mw-redirect" title="Persia">Iran</a>/<a href="/wiki/Samanid_Dynasty" class="mw-redirect" title="Samanid Dynasty">Samanid Dynasty</a>)</li>
+<li><a href="/wiki/Muhammad_al-Idrisi" title="Muhammad al-Idrisi">Muhammad al-Idrisi</a> 1100–1166, (<a href="/wiki/Arabia" class="mw-redirect" title="Arabia">Arabia</a> &amp; Sicily)</li>
+<li><a href="/wiki/Regiomontanus" title="Regiomontanus">Regiomontanus</a> 1436–1476, (Germany/Austria)</li>
+<li><a href="/wiki/Abel_Foullon" title="Abel Foullon">Abel Foullon</a> 1513–1563 or 1565, (France)</li>
+<li><a href="/wiki/Pedro_Nunes" title="Pedro Nunes">Pedro Nunes</a> 1502–1578 (Portugal)</li>
+<li><a href="/wiki/Gerardus_Mercator" title="Gerardus Mercator">Gerhard Mercator</a> 1512–1594 (Belgium &amp; Germany)</li>
+<li><a href="/wiki/Willebrord_Snellius" title="Willebrord Snellius">Snellius</a> (Willebrord Snel van Royen) 1580–1626, <a href="/wiki/Leiden" title="Leiden">Leiden</a> (Netherlands)</li>
+<li><a href="/wiki/Christiaan_Huygens" title="Christiaan Huygens">Christiaan Huygens</a> 1629–1695 (Netherlands)</li>
+<li><a href="/wiki/Pierre_Bouguer" title="Pierre Bouguer">Pierre Bouguer</a> 1698–1758, (France &amp; Peru)</li>
+<li><a href="/wiki/Pierre_de_Maupertuis" class="mw-redirect" title="Pierre de Maupertuis">Pierre de Maupertuis</a> 1698–1759 (France)</li>
+<li><a href="/wiki/Alexis_Clairaut" title="Alexis Clairaut">Alexis Clairaut</a> 1713–1765 (France)</li>
+<li><a href="/wiki/Johann_Heinrich_Lambert" title="Johann Heinrich Lambert">Johann Heinrich Lambert</a> 1728–1777 (France)</li>
+<li><a href="/wiki/Roger_Joseph_Boscovich" title="Roger Joseph Boscovich">Roger Joseph Boscovich</a> 1711–1787, (<a href="/wiki/Rome" title="Rome">Rome</a>/ <a href="/wiki/Berlin" title="Berlin">Berlin</a>/ <a href="/wiki/Paris" title="Paris">Paris</a>)</li>
+<li><a href="/wiki/Ino_Tadataka" class="mw-redirect" title="Ino Tadataka">Ino Tadataka</a> 1745–1818, (<a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>)</li>
+<li><a href="/wiki/Georg_von_Reichenbach" class="mw-redirect" title="Georg von Reichenbach">Georg von Reichenbach</a> 1771–1826, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> (Germany)</li>
+<li><a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Pierre-Simon Laplace</a> 1749–1827, <a href="/wiki/Paris" title="Paris">Paris</a> (France)</li>
+<li><a href="/wiki/Adrien-Marie_Legendre" title="Adrien-Marie Legendre">Adrien Marie Legendre</a> 1752–1833, <a href="/wiki/Paris" title="Paris">Paris</a> (France)</li>
+<li><a href="/wiki/Johann_Georg_von_Soldner" title="Johann Georg von Soldner">Johann Georg von Soldner</a> 1776–1833, <a href="/wiki/Munich" title="Munich">Munich</a> (Germany)</li>
+<li><a href="/wiki/George_Everest" title="George Everest">George Everest</a> 1790–1866 (England and India)</li>
+<li><a href="/wiki/Friedrich_Wilhelm_Bessel" class="mw-redirect" title="Friedrich Wilhelm Bessel">Friedrich Wilhelm Bessel</a> 1784–1846, <a href="/wiki/K%C3%B6nigsberg" title="Königsberg">Königsberg</a> (Germany)</li>
+<li><a href="/wiki/Heinrich_Christian_Schumacher" title="Heinrich Christian Schumacher">Heinrich Christian Schumacher</a> 1780–1850 (Germany &amp; Estonia)</li>
+<li><a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Carl Friedrich Gauss</a> 1777–1855, Göttingen (Germany)</li>
+<li><a href="/wiki/Friedrich_Georg_Wilhelm_Struve" class="mw-redirect" title="Friedrich Georg Wilhelm Struve">Friedrich Georg Wilhelm Struve</a> 1793–1864, <a href="/wiki/Tartu_Observatory" title="Tartu Observatory">Dorpat</a> and <a href="/wiki/Pulkovo_Observatory" title="Pulkovo Observatory">Pulkovo</a> (<a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a>)</li>
+<li><a href="/w/index.php?title=J._H._Pratt&amp;action=edit&amp;redlink=1" class="new" title="J. H. Pratt (page does not exist)">J. H. Pratt</a> 1809–1871, <a href="/wiki/London" title="London">London</a> (England)</li>
+<li><a href="/w/index.php?title=Friedrich_H._C._Paschen&amp;action=edit&amp;redlink=1" class="new" title="Friedrich H. C. Paschen (page does not exist)">Friedrich H. C. Paschen</a> 1804–1873, <a href="/wiki/Schwerin" title="Schwerin">Schwerin</a> (Germany)</li>
+<li><a href="/w/index.php?title=Johann_Benedikt_Listing&amp;action=edit&amp;redlink=1" class="new" title="Johann Benedikt Listing (page does not exist)">Johann Benedikt Listing</a> 1808–1882 (Germany)</li>
+<li><a href="/wiki/Johann_Jacob_Baeyer" title="Johann Jacob Baeyer">Johann Jacob Baeyer</a> 1794–1885, <a href="/wiki/Berlin" title="Berlin">Berlin</a> (Germany)</li>
+<li>Sir <a href="/wiki/George_Biddell_Airy" title="George Biddell Airy">George Biddell Airy</a> 1801–1892, <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a> &amp; <a href="/wiki/London" title="London">London</a></li>
+<li><a href="/w/index.php?title=Karl_Maximilian_von_Bauernfeind&amp;action=edit&amp;redlink=1" class="new" title="Karl Maximilian von Bauernfeind (page does not exist)">Karl Maximilian von Bauernfeind</a> 1818–1894, <a href="/wiki/Munich" title="Munich">Munich</a> (Germany)</li>
+<li><a href="/wiki/Wilhelm_Jordan_(geodesist)" title="Wilhelm Jordan (geodesist)">Wilhelm Jordan</a> 1842–1899, (Germany)</li>
+<li><a href="/wiki/Herv%C3%A9_Faye" title="Hervé Faye">Hervé Faye</a> 1814–1902 (France)</li>
+<li><a href="/wiki/George_Gabriel_Stokes" class="mw-redirect" title="George Gabriel Stokes">George Gabriel Stokes</a> 1819–1903 (England)</li>
+<li><a href="/wiki/Carlos_Ib%C3%A1%C3%B1ez_e_Ib%C3%A1%C3%B1ez_de_Ibero" title="Carlos Ibáñez e Ibáñez de Ibero">Carlos Ibáñez e Ibáñez de Ibero</a> 1825–1891, <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a> (Spain)</li>
+<li><a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Henri Poincaré</a> 1854–1912, <a href="/wiki/Paris" title="Paris">Paris</a> (France)</li>
+<li><a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">Alexander Ross Clarke</a> 1828–1914, <a href="/wiki/London" title="London">London</a> (England)</li>
+<li><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a> 1839–1914 (United States)</li>
+<li><a href="/wiki/Friedrich_Robert_Helmert" title="Friedrich Robert Helmert">Friedrich Robert Helmert</a> 1843–1917, <a href="/wiki/Potsdam" title="Potsdam">Potsdam</a> (Germany)</li>
+<li><a href="/wiki/Heinrich_Bruns" title="Heinrich Bruns">Heinrich Bruns</a> 1848–1919, <a href="/wiki/Berlin" title="Berlin">Berlin</a> (Germany)</li>
+<li><a href="/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s" title="Loránd Eötvös">Loránd Eötvös</a> 1848–1919 (Hungary)</li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="20th_century_geodesists">20th century geodesists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=16" title="Edit section: 20th century geodesists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/John_Fillmore_Hayford" title="John Fillmore Hayford">John Fillmore Hayford</a>, 1868–1925, (US)</li>
+<li><a href="/w/index.php?title=Feodosy_Nikolaevich_Krasovsky&amp;action=edit&amp;redlink=1" class="new" title="Feodosy Nikolaevich Krasovsky (page does not exist)">Feodosy Nikolaevich Krasovsky</a>, 1878–1948, (Russian Empire, USSR)</li>
+<li><a href="/wiki/Alfred_Wegener" title="Alfred Wegener">Alfred Wegener</a>, 1880–1930, (Germany and Greenland)</li>
+<li><a href="/wiki/William_Bowie_(engineer)" title="William Bowie (engineer)">William Bowie</a>, 1872–1940, (US)</li>
+<li><a href="/wiki/Friedrich_Hopfner" title="Friedrich Hopfner">Friedrich Hopfner</a>, 1881–1949, <a href="/wiki/Vienna" title="Vienna">Vienna</a>, (Austria)</li>
+<li><a href="/wiki/Tadeusz_Banachiewicz" title="Tadeusz Banachiewicz">Tadeusz Banachiewicz</a>, 1882–1954, (Poland)</li>
+<li><a href="/wiki/F.A._Vening_Meinesz" class="mw-redirect" title="F.A. Vening Meinesz">Felix Andries Vening-Meinesz</a>, 1887–1966, (Netherlands)</li>
+<li><a href="/wiki/Martin_Hotine" title="Martin Hotine">Martin Hotine</a>, 1898–1968, (England)</li>
+<li><a href="/wiki/Yrj%C3%B6_V%C3%A4is%C3%A4l%C3%A4" title="Yrjö Väisälä">Yrjö Väisälä</a>, 1889–1971, (Finland)</li>
+<li><a href="/wiki/Veikko_Aleksanteri_Heiskanen" title="Veikko Aleksanteri Heiskanen">Veikko Aleksanteri Heiskanen</a>, 1895–1971, (Finland and US)</li>
+<li><a href="/wiki/Karl_Ramsayer" title="Karl Ramsayer">Karl Ramsayer</a>, 1911–1982, <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>, (Germany)</li>
+<li><a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a>, 1895–1983 (United States)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="per WP:CIRCULAR (January 2018)">better&#160;source&#160;needed</span></a></i>]</sup></li>
+<li><a href="/wiki/Harold_Jeffreys" title="Harold Jeffreys">Harold Jeffreys</a>, 1891–1989, <a href="/wiki/London" title="London">London</a>, (England)</li>
+<li><a href="/wiki/Reino_Antero_Hirvonen" title="Reino Antero Hirvonen">Reino Antero Hirvonen</a>, 1908–1989, (Finland)</li>
+<li><a href="/wiki/Mikhail_Molodenskii" title="Mikhail Molodenskii">Mikhail Sergeevich Molodenskii</a>, 1909–1991, (Russia)</li>
+<li><a href="/w/index.php?title=Maria_Ivanovna_Yurkina&amp;action=edit&amp;redlink=1" class="new" title="Maria Ivanovna Yurkina (page does not exist)">Maria Ivanovna Yurkina</a>, 1923-2010, (Russia)</li>
+<li><a href="/w/index.php?title=Guy_Bomford&amp;action=edit&amp;redlink=1" class="new" title="Guy Bomford (page does not exist)">Guy Bomford</a>, 1899-1996, (India?)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li><a href="/wiki/Hellmut_Schmid" title="Hellmut Schmid">Hellmut Schmid</a>, 1914–1998, (Switzerland)</li>
+<li><a href="/wiki/William_M._Kaula" title="William M. Kaula">William M. Kaula</a>, 1926–2000, <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, (US)</li>
+<li><a href="/wiki/John_A._O%27Keefe" title="John A. O'Keefe">John A. O'Keefe</a>, 1916–2000, (US)</li>
+<li><a href="/wiki/Thaddeus_Vincenty" title="Thaddeus Vincenty">Thaddeus Vincenty</a>, 1920–2002, (Poland)</li>
+<li><a href="/w/index.php?title=Willem_Baarda&amp;action=edit&amp;redlink=1" class="new" title="Willem Baarda (page does not exist)">Willem Baarda</a>, 1917–2005, (Netherlands)</li>
+<li><a href="/wiki/Irene_Fischer" title="Irene Fischer">Irene Kaminka Fischer</a>, 1907–2009, (US)</li>
+<li><a href="/wiki/Arne_Bjerhammar" title="Arne Bjerhammar">Arne Bjerhammar</a>, 1917–2011, (Sweden)</li>
+<li><a href="/wiki/Karl-Rudolf_Koch" title="Karl-Rudolf Koch">Karl-Rudolf Koch</a> 1935, <a href="/wiki/Bonn" title="Bonn">Bonn</a>, (Germany)</li>
+<li><a href="/w/index.php?title=Helmut_Moritz&amp;action=edit&amp;redlink=1" class="new" title="Helmut Moritz (page does not exist)">Helmut Moritz</a>, 1933, <a href="/wiki/Graz" title="Graz">Graz</a>, (Austria)</li>
+<li><a href="/wiki/Petr_Van%C3%AD%C4%8Dek" title="Petr Vaníček">Petr Vaníček</a>, 1935, <a href="/wiki/Fredericton" title="Fredericton">Fredericton</a>, (Canada)</li>
+<li><a href="/w/index.php?title=Erik_Grafarend&amp;action=edit&amp;redlink=1" class="new" title="Erik Grafarend (page does not exist)">Erik Grafarend</a>, 1939, <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>, (Germany)</li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Unlisted">Unlisted</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=17" title="Edit section: Unlisted">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Geodesy&amp;action=edit">expanding it</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable selfref">See also: <a href="/wiki/Category:Geodesists" title="Category:Geodesists">Category:Geodesists</a>.</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Fundamentals</dt>
+<dd><a href="/wiki/Geodynamics" title="Geodynamics">Geodynamics</a>&#160;<b>·</b> <a href="/wiki/Geomatics" title="Geomatics">Geomatics</a>&#160;<b>·</b> <a href="/wiki/Cartography" title="Cartography">Cartography</a>&#160;<b>·</b> <a href="/wiki/Geodesics_on_an_ellipsoid" title="Geodesics on an ellipsoid">Geodesics on an ellipsoid</a>&#160;<b>·</b> <a href="/wiki/Physical_geodesy" title="Physical geodesy">Physical geodesy</a>&#160;<b>·</b> <a href="/wiki/Adjustment_of_observations" class="mw-redirect" title="Adjustment of observations">Adjustment of observations</a></dd>
+</dl>
+<dl>
+<dt>Concepts</dt>
+<dd><a href="/wiki/Datum_(geodesy)" class="mw-redirect" title="Datum (geodesy)">Datum</a>&#160;<b>·</b> <a href="/wiki/Geographical_distance" title="Geographical distance">Distance</a>&#160;<b>·</b> <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">Figure of the Earth</a>&#160;<b>·</b> <a href="/wiki/Geoid" title="Geoid">Geoid</a>&#160;<b>·</b> <a href="/wiki/Geodetic_system" class="mw-redirect" title="Geodetic system">Geodetic system</a>&#160;<b>·</b> <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Geog. coord. system</a>&#160;<b>·</b> <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">Horizontal position representation</a>&#160;<b>·</b> <a href="/wiki/Map_projection" title="Map projection">Map projection</a>&#160;<b>·</b> <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">Reference ellipsoid</a>&#160;<b>·</b> <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">Satellite geodesy</a>&#160;<b>·</b> <a href="/wiki/Spatial_reference_system" title="Spatial reference system">Spatial reference system</a></dd>
+</dl>
+<dl>
+<dt>Geodesy community</dt>
+<dd>
+<dl>
+<dt>International organizations</dt>
+<dd><a href="/wiki/International_Association_of_Geodesy" title="International Association of Geodesy">International Association of Geodesy (IAG)</a>&#160;<b>·</b> <a href="/wiki/European_Petroleum_Survey_Group" class="mw-redirect" title="European Petroleum Survey Group">European Petroleum Survey Group (EPSG)</a>&#160;<b>·</b> <a href="/wiki/International_Federation_of_Surveyors" title="International Federation of Surveyors">International Federation of Surveyors (FIG)</a>&#160;<b>·</b> <a href="/wiki/International_Geodetic_Student_Organisation" title="International Geodetic Student Organisation">International Geodetic Student Organisation (IGSO)</a></dd>
+<dt>Governmental agencies</dt>
+<dd>
+<dl>
+<dt>USA <a href="/wiki/U.S._National_Geodetic_Survey" title="U.S. National Geodetic Survey">NOAA-NGS</a>&#160;<b>·</b> <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">NGA</a>&#160;<b>·</b> <a href="/wiki/USGS" class="mw-redirect" title="USGS">USGS</a></dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dt>Technologies</dt>
+<dd><a href="/wiki/Satellite_navigation" title="Satellite navigation">GNSS</a>&#160;<b>·</b> <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a>&#160;<b>·</b> <a href="/wiki/Space_techniques" title="Space techniques">Space techniques</a></dd>
+</dl>
+<dl>
+<dt>Standards</dt>
+<dd><a href="/wiki/ED50" title="ED50">ED50</a>&#160;<b>·</b> <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">ETRS89</a>&#160;<b>·</b> <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">NAD83</a>&#160;<b>·</b> <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">NAVD88</a>&#160;<b>·</b> <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">SAD69</a>&#160;<b>·</b> <a href="/wiki/SRID" class="mw-redirect" title="SRID">SRID</a>&#160;<b>·</b> <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">UTM</a>&#160;<b>·</b> <a href="/wiki/World_Geodetic_System" title="World Geodetic System">WGS84</a></dd>
+</dl>
+<dl>
+<dt>History</dt>
+<dd><a href="/wiki/History_of_geodesy" title="History of geodesy">History of geodesy</a>&#160;<b>·</b> <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">NAVD29</a></dd>
+</dl>
+<dl>
+<dt>Other</dt>
+<dd><a href="/wiki/Surveying" title="Surveying">Surveying</a>&#160;<b>·</b> <a href="/wiki/Meridian_arc" title="Meridian arc">Meridian arc</a>&#160;<b>·</b> <a href="/wiki/L%C3%A9n%C3%A1rt_sphere" title="Lénárt sphere">Lénárt sphere</a></dd>
+</dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">OED</a></i></span></li>
+<li id="cite_note-noaa-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-noaa_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://oceanservice.noaa.gov/facts/geodesy.html">"What Is Geodesy"</a>. <i>National Ocean Service</i>. NOAA<span class="reference-accessdate">. Retrieved <span class="nowrap">8 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Ocean+Service&amp;rft.atitle=What+Is+Geodesy&amp;rft_id=https%3A%2F%2Foceanservice.noaa.gov%2Ffacts%2Fgeodesy.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodesy" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">(ISO 19111: Spatial referencing by coordinates).</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ngs.noaa.gov/PUBS_LIB/Geodesy4Layman/TR80003A.HTM">DEFENSE MAPPING AGENCY TECHNICAL REPORT 80-003</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.bomford.net/IrishBomfords/Chapters/Chapter26/childpages/GuyBomfordTribute.htm">[1]</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>F. R. Helmert, <a rel="nofollow" class="external text" href="http://geographiclib.sf.net/geodesic-papers/helmert80-en.html"><i>Mathematical and Physical Theories of Higher Geodesy</i>, Part 1</a>, ACIC (St. Louis, 1964). This is an English translation of <i>Die mathematischen und physikalischen Theorieen der höheren Geodäsie</i>, Vol 1 (Teubner, Leipzig, 1880).</li>
+<li>F. R. Helmert, <a rel="nofollow" class="external text" href="http://geographiclib.sf.net/geodesic-papers/helmert84-en.html"><i>Mathematical and Physical Theories of Higher Geodesy</i>, Part 2</a>, ACIC (St. Louis, 1964). This is an English translation of <i>Die mathematischen und physikalischen Theorieen der höheren Geodäsie</i>, Vol 2 (Teubner, Leipzig, 1884).</li>
+<li>B. Hofmann-Wellenhof and H. Moritz, <i>Physical Geodesy</i>, Springer-Verlag Wien, 2005. (This text is an updated edition of the 1967 classic by W.A. Heiskanen and H. Moritz).</li>
+<li>W. Kaula, <i>Theory of Satellite Geodesy&#160;: Applications of Satellites to Geodesy</i>, Dover Publications, 2000. (This text is a reprint of the 1966 classic).</li>
+<li>Vaníček P. and E.J. Krakiwsky, <i>Geodesy: the Concepts</i>, pp.&#160;714, Elsevier, 1986.</li>
+<li>Torge, W (2001), <i>Geodesy</i> (3rd edition), published by de Gruyter, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-11-017072-8" title="Special:BookSources/3-11-017072-8">3-11-017072-8</a>.</li>
+<li>Thomas H. Meyer, Daniel R. Roman, and David B. Zilkoski. "What does <i>height</i> really mean?" (This is a series of four articles published in <i>Surveying and Land Information Science, SaLIS</i>.)
+<ul>
+<li><a rel="nofollow" class="external text" href="http://digitalcommons.uconn.edu/thmeyer_articles/2">"Part I: Introduction"</a> <i>SaLIS</i> Vol. 64, No. 4, pages 223–233, December 2004.</li>
+<li><a rel="nofollow" class="external text" href="http://digitalcommons.uconn.edu/thmeyer_articles/3">"Part II: Physics and gravity"</a> <i>SaLIS</i> Vol. 65, No. 1, pages 5–15, March 2005.</li>
+<li><a rel="nofollow" class="external text" href="http://digitalcommons.uconn.edu/nrme_articles/2">"Part III: Height systems"</a> <i>SaLIS</i> Vol. 66, No. 2, pages 149–160, June 2006.</li>
+<li><a rel="nofollow" class="external text" href="http://digitalcommons.uconn.edu/nrme_articles/5">"Part IV: GPS heighting"</a> <i>SaLIS</i> Vol. 66, No. 3, pages 165–183, September 2006.</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geodesy&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">Wikibooks has more on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Special:Search/Geodesy" class="extiw" title="wikibooks:Special:Search/Geodesy">Geodesy</a></b></i></td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Geodesy" class="extiw" title="commons:Category:Geodesy">Geodesy</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924055300/http://www.ogp.org.uk/pubs/373-01.pdf">Geodetic awareness guidance note, Geodesy Subcommittee, Geomatics Committee, International Association of Oil &amp; Gas Producers</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Geodesy" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Geodesy">Geodesy</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>11</b> (11th ed.). 1911. pp.&#160;607–615.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Geodesy&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=607-615&amp;rft.edition=11th&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodesy" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Earth_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Earth_science" title="Template:Earth science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Earth_science" title="Template talk:Earth science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Earth_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Earth_science" title="Earth science">Earth science</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric science</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></li>
+<li><a class="mw-selflink selflink">Geodesy</a></li>
+<li><a href="/wiki/Geology" title="Geology">Geology</a></li>
+<li><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a></li>
+<li><a href="/wiki/Glaciology" title="Glaciology">Glaciology</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Physical_geography" title="Physical geography">Physical geography</a></li>
+<li><a href="/wiki/Soil_science" title="Soil science">Soil science</a></li>
+<li><a href="/wiki/Volcanology" title="Volcanology">Volcanology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><b><a href="https://commons.wikimedia.org/wiki/Category:Earth_sciences" class="extiw" title="commons:Category:Earth sciences">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Geophysics" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Geophysics_navbox" title="Template:Geophysics navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Geophysics_navbox" title="Template talk:Geophysics navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geophysics_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Geophysics" style="font-size:114%;margin:0 4em"><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<center>Overview</center>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Outline_of_geophysics" title="Outline of geophysics">Outline</a></li>
+<li><a href="/wiki/List_of_geophysicists" title="List of geophysicists">Geophysicists</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<center>Subfields</center>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geophysical_fluid_dynamics" title="Geophysical fluid dynamics">Geophysical fluid dynamics</a></li>
+<li><a class="mw-selflink selflink">Geodesy</a></li>
+<li><a href="/wiki/Geodynamics" title="Geodynamics">Geodynamics</a></li>
+<li><a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">Geomagnetism</a></li>
+<li><a href="/wiki/Mathematical_geophysics" title="Mathematical geophysics">Mathematical geophysics</a></li>
+<li><a href="/wiki/Mineral_physics" title="Mineral physics">Mineral physics</a></li>
+<li><a href="/wiki/Near-surface_geophysics" title="Near-surface geophysics">Near-surface geophysics</a></li>
+<li><a href="/wiki/Paleomagnetism" title="Paleomagnetism">Paleomagnetism</a></li>
+<li><a href="/wiki/Seismology" title="Seismology">Seismology</a></li>
+<li><a href="/wiki/Tectonophysics" title="Tectonophysics">Tectonophysics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<center>Physical<br />
+phenomena</center>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chandler_wobble" title="Chandler wobble">Chandler wobble</a></li>
+<li><a href="/wiki/Coriolis_effect" class="mw-redirect" title="Coriolis effect">Coriolis effect</a></li>
+<li><a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">Earth's magnetic field</a></li>
+<li><a href="/wiki/Geodynamo" class="mw-redirect" title="Geodynamo">Geodynamo</a></li>
+<li><a href="/wiki/Geothermal_gradient" title="Geothermal gradient">Geothermal gradient</a></li>
+<li><a href="/wiki/Gravity_of_Earth" title="Gravity of Earth">Gravity of Earth</a></li>
+<li><a href="/wiki/Mantle_convection" title="Mantle convection">Mantle convection</a></li>
+<li><a href="/wiki/Precession_of_the_equinoxes" class="mw-redirect" title="Precession of the equinoxes">Precession of the equinoxes</a></li>
+<li><a href="/wiki/Seismic_wave" title="Seismic wave">Seismic wave</a></li>
+<li><a href="/wiki/Tides" class="mw-redirect" title="Tides">Tides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<center>Organizations</center>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Geophysical_Union" title="American Geophysical Union">American Geophysical Union</a></li>
+<li><a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a></li>
+<li><a href="/wiki/Canadian_Geophysical_Union" title="Canadian Geophysical Union">Canadian Geophysical Union</a></li>
+<li><a href="/wiki/Environmental_and_Engineering_Geophysical_Society" title="Environmental and Engineering Geophysical Society">Environmental and Engineering Geophysical Society</a></li>
+<li><a href="/wiki/European_Association_of_Geoscientists_and_Engineers" title="European Association of Geoscientists and Engineers">European Association of Geoscientists and Engineers</a></li>
+<li><a href="/wiki/European_Geosciences_Union" title="European Geosciences Union">European Geosciences Union</a></li>
+<li><a href="/wiki/International_Association_of_Geomagnetism_and_Aeronomy" title="International Association of Geomagnetism and Aeronomy">International Association of Geomagnetism and Aeronomy</a></li>
+<li><a href="/wiki/International_Union_of_Geodesy_and_Geophysics" title="International Union of Geodesy and Geophysics">International Union of Geodesy and Geophysics</a></li>
+<li><a href="/wiki/Royal_Astronomical_Society" title="Royal Astronomical Society">Royal Astronomical Society</a></li>
+<li><a href="/wiki/Society_of_Exploration_Geophysicists" title="Society of Exploration Geophysicists">Society of Exploration Geophysicists</a></li>
+<li><a href="/wiki/Seismological_Society_of_America" title="Seismological Society of America">Seismological Society of America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Geology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Geology" title="Template:Geology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Geology" title="Template talk:Geology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Geology" style="font-size:114%;margin:0 4em"><a href="/wiki/Geology" title="Geology">Geology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Overviews</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Outline_of_geology" title="Outline of geology">Outline of geology</a></li>
+<li><a href="/wiki/Index_of_geology_articles" title="Index of geology articles">Index of geology articles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Сomposition and structure</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a></li>
+<li><a href="/wiki/Crystallography" title="Crystallography">Crystallography</a></li>
+<li><a href="/wiki/Mineralogy" title="Mineralogy">Mineralogy</a></li>
+<li><a href="/wiki/Petrography" title="Petrography">Petrography</a></li>
+<li><a href="/wiki/Petrology" title="Petrology">Petrology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Historical_geology" title="Historical geology">Historical geology</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stratigraphy" title="Stratigraphy">Stratigraphy</a></li>
+<li><a href="/wiki/Paleontology" title="Paleontology">Paleontology</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Motion</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Structural_geology" title="Structural geology">Structural geology</a></li>
+<li><a href="/wiki/Geodynamics" title="Geodynamics">Geodynamics</a></li>
+<li><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></li>
+<li><a href="/wiki/Geomorphology" title="Geomorphology">Geomorphology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Water</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glaciology" title="Glaciology">Glaciology</a></li>
+<li><a href="/wiki/Hydrogeology" title="Hydrogeology">Hydrogeology</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Geodesy</a></li>
+<li><a href="/wiki/Geomagnetism" class="mw-redirect" title="Geomagnetism">Geomagnetism</a></li>
+<li><a href="/wiki/Geophysical_survey" title="Geophysical survey">Geophysical survey</a></li>
+<li><a href="/wiki/Seismology" title="Seismology">Seismology</a></li>
+<li><a href="/wiki/Tectonophysics" title="Tectonophysics">Tectonophysics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applications</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Economic_geology" title="Economic geology">Economic geology</a></li>
+<li><a href="/wiki/Engineering_geology" title="Engineering geology">Engineering geology</a></li>
+<li><a href="/wiki/Planetary_geology" title="Planetary geology">Planetary geology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Geology" title="Category:Geology">Geology</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:Geology" class="mw-redirect" title="Wikipedia:Geology">Geology</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Environmental_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Main fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg" class="image"><img alt="The Earth seen from Apollo 17.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" data-file-width="3000" data-file-height="3002" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a class="mw-selflink selflink">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a href="/wiki/Pollution_control" class="mw-redirect" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Road_ecology" title="Road ecology">Road ecology</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul>
+<li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85053969">sh85053969</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4020202-1">4020202-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11941552j">cb11941552j</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11941552j">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00571404">00571404</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1246
+Cached time: 20180213202924
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.668 seconds
+Real time usage: 0.882 seconds
+Preprocessor visited node count: 2795/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 91497/2097152 bytes
+Template argument size: 4004/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.334/10.000 seconds
+Lua memory usage: 13.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  670.642      1 -total
+ 27.43%  183.945      1 Template:Lang
+  9.25%   62.021      1 Template:More_footnotes
+  7.79%   52.254      1 Template:Reflist
+  7.29%   48.890      4 Template:Navbox
+  6.70%   44.958      3 Template:Fix
+  5.93%   39.751      1 Template:Cite_web
+  5.81%   38.933      1 Template:Geodesy
+  5.63%   37.787      1 Template:Ambox
+  5.55%   37.199      4 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12608-0!canonical!math=5 and timestamp 20180213202924 and revision id 824609734
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geodesy&amp;oldid=824609734">https://en.wikipedia.org/w/index.php?title=Geodesy&amp;oldid=824609734</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geodesy" title="Category:Geodesy">Geodesy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2009" title="Category:Articles lacking in-text citations from February 2009">Articles lacking in-text citations from February 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_January_2017" title="Category:Vague or ambiguous geographic scope from January 2017">Vague or ambiguous geographic scope from January 2017</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">Pages using div col with deprecated parameters</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_January_2018" title="Category:Articles lacking reliable references from January 2018">Articles lacking reliable references from January 2018</a></li><li><a href="/wiki/Category:Incomplete_lists_from_July_2014" title="Category:Incomplete lists from July 2014">Incomplete lists from July 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geodesy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Geodesy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Geodesy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Geodesy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Geodesy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Geodesy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Geodesy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Geodesy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Geodesy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Geodesy&amp;oldid=824609734" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Geodesy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q131089" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geodesy&amp;id=824609734" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geodesy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geodesy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Geodesy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Geodesy" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Aardmeetkunde" title="Aardmeetkunde – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%AA%D9%82%D8%B3%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6" title="علم تقسيم الأرض – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Xeodesia" title="Xeodesia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Geodeziya" title="Geodeziya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%B0%D0%B4%D1%8D%D0%B7%D1%96%D1%8F" title="Геадэзія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Geod%C3%A8sia" title="Geodèsia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Geod%C3%A9zie" title="Geodézie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Jekanyika" title="Jekanyika – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Geodedd" title="Geodedd – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Geod%C3%A6si" title="Geodæsi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Geod%C3%A4sie" title="Geodäsie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Geodeesia" title="Geodeesia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%89%CE%B4%CE%B1%CE%B9%CF%83%CE%AF%CE%B1" title="Γεωδαισία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Geodesia" title="Geodesia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Geodezio" title="Geodezio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Geodesia" title="Geodesia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D8%B3%D9%86%D8%AC%DB%8C" title="زمین‌سنجی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/G%C3%A9od%C3%A9sie" title="Géodésie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Geodasa%C3%ADocht" title="Geodasaíocht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Xeodesia" title="Xeodesia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B8%A1%EC%A7%80%ED%95%99" title="측지학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D5%A5%D5%B8%D5%A4%D5%A5%D5%A6%D5%AB%D5%A1" title="Գեոդեզիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4" title="भूगणित – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Geodezija" title="Geodezija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Geodezio" title="Geodezio – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Geodesi" title="Geodesi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Geodesia" title="Geodesia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%90%D7%95%D7%93%D7%96%D7%99%D7%94" title="גאודזיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%93%E1%83%94%E1%83%96%E1%83%98%E1%83%90" title="გეოდეზია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/%C4%A2eod%C4%93zija" title="Ģeodēzija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Geodesie" title="Geodesie – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Geodezija" title="Geodezija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Geod%C3%A9zia" title="Geodézia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%98%D0%B0" title="Геодезија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Geodesi" title="Geodesi – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8" title="Геодези – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Geodesie" title="Geodesie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B8%AC%E5%9C%B0%E5%AD%A6" title="測地学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Geodesi" title="Geodesi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Geodesi" title="Geodesi – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D0%B9" title="Геодезий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Geodeziya" title="Geodeziya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Geodezja" title="Geodezja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Geod%C3%A9sia" title="Geodésia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Geodezie" title="Geodezie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Geodesy" title="Geodesy – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Gjeodezia" title="Gjeodezia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Geodesy" title="Geodesy – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Geod%C3%A9zia" title="Geodézia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Geodezija" title="Geodezija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AC%DB%8C%DB%86%D8%AF%DB%8C%D8%B2%DB%8C%D8%A7" title="جیۆدیزیا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%98%D0%B0" title="Геодезија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Geodezija" title="Geodezija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Geodesia" title="Geodesia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Geodesi" title="Geodesi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Heodesiya" title="Heodesiya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%B8%D0%BD%D1%81%D0%B0%D0%BD%D2%B7%D3%A3" title="Заминсанҷӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Jeodezi" title="Jeodezi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F" title="Геодезия – Tuvinian" lang="tyv" hreflang="tyv" class="interlanguage-link-target">Тыва дыл</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D1%96%D1%8F" title="Геодезія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%AD%DB%8C%D8%A7%D8%AA" title="مساحیات – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Giodex%C3%ADa" title="Giodexía – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tr%E1%BA%AFc_%C4%91%E1%BB%8Ba" title="Trắc địa – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Heodesiya" title="Heodesiya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Geuodez%C4%97j%C4%97" title="Geuodezėjė – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E6%B5%8B%E9%87%8F%E5%AD%A6" title="大地测量学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q131089#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 February 2018, at 11:57.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Geodesy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.668","walltime":"0.882","ppvisitednodes":{"value":2795,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91497,"limit":2097152},"templateargumentsize":{"value":4004,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  670.642      1 -total"," 27.43%  183.945      1 Template:Lang","  9.25%   62.021      1 Template:More_footnotes","  7.79%   52.254      1 Template:Reflist","  7.29%   48.890      4 Template:Navbox","  6.70%   44.958      3 Template:Fix","  5.93%   39.751      1 Template:Cite_web","  5.81%   38.933      1 Template:Geodesy","  5.63%   37.787      1 Template:Ambox","  5.55%   37.199      4 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.334","limit":"10.000"},"limitreport-memusage":{"value":14334839,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20180213202924","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1321"});});</script>
+	</body>
+</html>

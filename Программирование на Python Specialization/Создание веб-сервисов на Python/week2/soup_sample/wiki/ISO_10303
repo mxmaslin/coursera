@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>ISO 10303 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ISO_10303","wgTitle":"ISO 10303","wgCurRevisionId":810147744,"wgRevisionId":810147744,"wgArticleId":1240376,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from January 2010","All articles lacking in-text citations","ISO standards","CAD file formats"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ISO_10303","wgRelevantArticleId":1240376,"wgRequestId":"WoNMegpAAEQAAI0C69YAAAEC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q302726","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ISO_10303"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ISO_10303&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=ISO_10303&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/ISO_10303"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ISO_10303 rootpage-ISO_10303 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">ISO 10303</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(January 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p><b>ISO 10303</b> is an <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> standard for the <a href="/wiki/Computer" title="Computer">computer</a>-interpretable <a href="/wiki/3D_modeling" title="3D modeling">representation</a> and <a href="/wiki/CAD_data_exchange" title="CAD data exchange">exchange</a> of <a href="/wiki/Product_Manufacturing_Information" class="mw-redirect" title="Product Manufacturing Information">product manufacturing information</a>. Its official title is: <i>Automation systems and integration — Product data representation and exchange</i>. It is known informally as "<b>STEP</b>", which stands for "Standard for the Exchange of Product model data". ISO 10303 can represent 3D objects in <a href="/wiki/Computer-aided_design" title="Computer-aided design">Computer-aided design</a> (CAD) and related information.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Structure"><span class="tocnumber">3</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Coverage_of_STEP_Application_Protocols_(AP)"><span class="tocnumber">4</span> <span class="toctext">Coverage of STEP Application Protocols (AP)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/International_standard" title="International standard">international standard</a>'s objective is to provide a mechanism that is capable of describing product data throughout the life cycle of a <a href="/wiki/Product_(business)" title="Product (business)">product</a>, independent from any particular system. The nature of this description makes it suitable not only for neutral file exchange, but also as a basis for implementing and sharing product databases and archiving.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Typically STEP can be used to <a href="/wiki/CAD_data_exchange" title="CAD data exchange">exchange data</a> between <a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>, <a href="/wiki/Computer-aided_manufacturing" title="Computer-aided manufacturing">computer-aided manufacturing</a>, <a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">computer-aided engineering</a>, <a href="/wiki/Product_data_management" title="Product data management">product data management</a>/<a href="/wiki/Enterprise_data_modeling" class="mw-redirect" title="Enterprise data modeling">enterprise data modeling</a> and other <a href="/wiki/CAx" class="mw-redirect" title="CAx">CAx</a> systems. STEP addresses product data from mechanical and electrical design, <a href="/wiki/Geometric_dimensioning_and_tolerancing" title="Geometric dimensioning and tolerancing">geometric dimensioning and tolerancing</a>, analysis and manufacturing, as well as additional information specific to various industries such as <a href="/wiki/Automotive" class="mw-redirect" title="Automotive">automotive</a>, <a href="/wiki/Aerospace" title="Aerospace">aerospace</a>, <a href="/wiki/Building_construction" class="mw-redirect" title="Building construction">building construction</a>, <a href="/wiki/Ship" title="Ship">ship</a>, <a href="/wiki/Oil" title="Oil">oil</a> and <a href="/wiki/Gas" title="Gas">gas</a>, process plants and others.</p>
+<p>STEP is developed and maintained by the ISO technical committee TC 184, <i>Automation systems and integration</i>, sub-committee SC 4, <i>Industrial data</i>. Like other ISO and IEC standards STEP is copyright by ISO and is not freely available. However, the 10303 <a href="/wiki/EXPRESS_(data_modeling_language)" title="EXPRESS (data modeling language)">EXPRESS</a> schemas are freely available, as are the recommended practices for implementers.</p>
+<p>Other standards developed and maintained by ISO TC 184/SC 4 are:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<ul>
+<li><a href="/wiki/ISO_13584" title="ISO 13584">ISO 13584</a> PLIB - Parts Library</li>
+<li>ISO 15531 MANDATE - Industrial manufacturing management data</li>
+<li><a href="/wiki/ISO_15926" title="ISO 15926">ISO 15926</a> Process Plants including Oil and Gas facilities Life-Cycle data</li>
+<li><a href="/wiki/ISO_18629" class="mw-redirect" title="ISO 18629">ISO 18629</a> PSL- Process specification language</li>
+<li>ISO 18876 IIDEAS - Integration of industrial data for exchange, access, and sharing</li>
+<li>ISO 22745 Open technical dictionaries and their application to master data</li>
+<li><a href="/wiki/ISO_8000" title="ISO 8000">ISO 8000</a> Data quality</li>
+</ul>
+<p>STEP is closely related with PLIB (ISO 13584, IEC 61360).</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The evolution of STEP can be divided into four release phases. The development of STEP started in 1984 as a successor of <a href="/wiki/IGES" title="IGES">IGES</a>, SET and <a href="/wiki/VDA-FS" title="VDA-FS">VDA-FS</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The initial plan was that "STEP shall be based on one single, complete, implementation-independent Product Information Model, which shall be the Master Record of the integrated topical and application information models".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> But because of the complexity, the standard had to be broken up into smaller parts that can be developed, balloted and approved separately.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> In 1994/95 ISO published the <b>initial release</b> of STEP as international standards (IS) with the parts 1, 11, 21, 31, 41, 42, 43, 44, 46, 101, AP 201 and AP 203.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Today AP 203 <cite>Configuration controlled 3D design</cite> is still one of the most important parts of STEP and supported by many CAD systems for import and export.</p>
+<p>In the second phase the capabilities of STEP were widely extended, primarily for the design of products in the aerospace, automotive, electrical, electronic, and other industries. This phase ended in the year 2002 with the second major release, including the STEP parts AP 202, AP 209, AP 210, AP 212, AP 214, AP 224, AP 225, AP 227, AP 232.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Basic harmonization between the APs especially in the geometric areas was achieved by introducing the Application Interpreted Constructs (AIC, 500 series).</p>
+<p>A major problem with the monolithic APs of the first and second releases is that they are too big, have too much overlap with each other, and are not sufficiently harmonized. These deficits led to the development of the <a href="/wiki/ISO_10303_Application_Modules" title="ISO 10303 Application Modules">STEP modular architecture</a> (400 and 1000 series).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> This activity was primarily driven by new APs covering additional life-cycle phases such as early requirement analysis (AP 233) and maintenance and repair (AP 239), and also new industrial areas (AP 221, AP 236). New editions of the previous monolithic APs on a modular basis have been developed (AP 203, AP 209, AP 210). The publication of these new editions coincided with the release in 2010 of the new ISO product <b>SMRL</b>, the STEP Module and Resource Library, that contains all STEP resource parts and application modules on a single CD. The SMRL will be revised frequently and is available at a much lower cost than purchasing all the parts separately.</p>
+<p>In December 2014 ISO published the first edition of a new major Application Protocol, AP 242 <i>Managed model based 3d engineering</i>, that combined and replaced the following previous APs in an upward compatible way:</p>
+<ul>
+<li>AP 201, <i>Explicit draughting</i>. Simple 2D drawing geometry related to a product. No association, no assembly hierarchy.</li>
+<li>AP 202, <i>Associative draughting</i>. 2D/3D drawing with association, but no product structure.</li>
+<li>AP 203, <i>Configuration controlled 3D designs of mechanical parts and assemblies</i>.</li>
+<li>AP 204, <i>Mechanical design using boundary representation</i></li>
+<li>AP 214, <i>Core data for automotive mechanical design processes</i></li>
+</ul>
+<p>In addition AP242 edition 1 contains extensions and significant updates for</p>
+<ul>
+<li><a href="/wiki/Geometric_dimensioning_and_tolerancing" title="Geometric dimensioning and tolerancing">Geometric dimensioning and tolerancing</a></li>
+<li><a href="/wiki/Kinematics" title="Kinematics">Kinematics</a></li>
+<li><a href="/wiki/Tessellation" title="Tessellation">Tessellation</a></li>
+</ul>
+<p>Two APs had been modified to be directly based on AP242 and thus become supersets of it:</p>
+<ul>
+<li>AP 209, <i>Composite and metallic structural analysis and related design</i></li>
+<li>AP 210, <i>Electronic assembly, interconnect and packaging design</i>. The most complex and sophisticated STEP AP.</li>
+</ul>
+<p>The development of a second edition of AP242 has started which is extending the scope for electrical harness.</p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=3" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_STEP_(ISO_10303)_parts" title="List of STEP (ISO 10303) parts">List of STEP (ISO 10303) parts</a></div>
+<p>STEP is divided into many parts, grouped into</p>
+<ul>
+<li>Environment
+<ul>
+<li>Parts 1x: Description methods: <a href="/wiki/ISO_10303-11" class="mw-redirect" title="ISO 10303-11">EXPRESS</a>, EXPRESS-X</li>
+<li>Parts 2x: Implementation methods: <a href="/wiki/ISO_10303-21" title="ISO 10303-21">STEP-File</a>, <a href="/wiki/ISO_10303-28" title="ISO 10303-28">STEP-XML</a>, <a href="/wiki/ISO_10303-22" title="ISO 10303-22">SDAI</a></li>
+<li>Parts 3x: <a href="/wiki/Conformance_testing" title="Conformance testing">Conformance testing</a> methodology and framework</li>
+</ul>
+</li>
+<li>Integrated data models
+<ul>
+<li>The Integrated Resources (IR), consisting of
+<ul>
+<li>Parts 4x and 5x: Integrated generic resources</li>
+<li>Parts 1xx: Integrated application resources</li>
+<li><a href="/wiki/ISO_13584" title="ISO 13584">PLIB ISO 13584-20</a> <i>Parts library: Logical model of expressions</i></li>
+</ul>
+</li>
+<li>Parts 5xx: Application Interpreted Constructs (AIC)</li>
+<li>Parts 1xxx: <a href="/wiki/ISO_10303_Application_Modules" title="ISO 10303 Application Modules">Application Modules</a> (AM)</li>
+</ul>
+</li>
+<li>Top parts
+<ul>
+<li>Parts 2xx: Application Protocols (AP)</li>
+<li>Parts 3xx: Abstract Test Suites (ATS) for APs</li>
+<li>Parts 4xx: <a href="/wiki/ISO_10303_Application_Modules" title="ISO 10303 Application Modules">Implementation modules</a> for APs</li>
+</ul>
+</li>
+</ul>
+<p>In total STEP consists of several hundred parts and every year new parts are added or new revisions of older parts are released. This makes STEP the biggest standard within ISO. Each part has its own scope and introduction</p>
+<p>The APs are the top parts. They cover a particular application and industry domain and hence are most relevant for users of STEP. Every AP defines one or several Conformance Classes, suitable for a particular kind of product or data exchange scenario. To provide a better understanding of the scope, information requirements and usage scenarios an informative application activity model (AAM) is added to every AP, using <a href="/wiki/IDEF0" title="IDEF0">IDEF0</a></p>
+<p>STEP is primarily defining data models using the EXPRESS modeling language. Application data according to a given data model can be exchanged either by a <a href="/wiki/STEP-File" class="mw-redirect" title="STEP-File">STEP-File</a>, <a href="/wiki/STEP-XML" class="mw-redirect" title="STEP-XML">STEP-XML</a> or via shared database access using <a href="/wiki/SDAI" class="mw-redirect" title="SDAI">SDAI</a>.</p>
+<p>Every AP defines a top data models to be used for data exchange, called the <i>Application Interpreted Model</i> (AIM) or in the case of a modular AP called <i>Module Interpreted Models</i> (MIM). These interpreted models are constructed by choosing generic objects defined in lower level data models (4x, 5x, 1xx, 5xx) and adding specializations needed for the particular application domain of the AP. The common generic data models are the basis for interoperability between APs for different kinds of industries and life cycle stages.</p>
+<p>In APs with several <i>Conformance Classes</i> the top data model is divided into subsets, one for each Conformance Class. The requirements of a conformant STEP application are:</p>
+<ul>
+<li>implementation of either a <a href="/wiki/Preprocessor" title="Preprocessor">preprocessor</a> or a <a href="/w/index.php?title=Postprocessor&amp;action=edit&amp;redlink=1" class="new" title="Postprocessor (page does not exist)">postprocessor</a> or both,</li>
+<li>using one of the STEP implementation methods STEP-File, STEP-XML or SDAI for the AIM/MIM data model and</li>
+<li>supporting one or several conformance classes of an AP.</li>
+</ul>
+<p>Originally every APs was required to have a companion <a href="/wiki/Abstract_test_suite" class="mw-redirect" title="Abstract test suite">Abstract test suite</a> (ATS) (e.g. ATS 303 for AP 203), providing <a href="/w/index.php?title=Test_Purposes&amp;action=edit&amp;redlink=1" class="new" title="Test Purposes (page does not exist)">Test Purposes</a>, <a href="/w/index.php?title=Verdict_Criteria&amp;action=edit&amp;redlink=1" class="new" title="Verdict Criteria (page does not exist)">Verdict Criteria</a> and <a href="/w/index.php?title=Abstract_Test_Cases&amp;action=edit&amp;redlink=1" class="new" title="Abstract Test Cases (page does not exist)">Abstract Test Cases</a> together with example STEP-Files. But because the development of an ATS was very expensive and inefficient this requirement was dropped and replaced by the requirements to have an informal validation report and recommended practises how to use it. Today the recommended practises are a primary source for those going to implement STEP.</p>
+<p>The <i>Application Reference Models</i> (ARM) is the mediator between the AAM and the AIM/MIM. Originally its purpose was only to document high level application objects and the basic relations between them. <a href="/wiki/IDEF1X" title="IDEF1X">IDEF1X</a> diagrams documented the AP of early APs in an informal way. The ARM objects, their attributes and relations are mapped to the AIM so that it is possible to implement an AP. As APs got more and more complex formal methods were needed to document the ARM and so EXPRESS which was originally only developed for the AIM was also used for the ARM. Over time these ARM models got very detailed till to the point that some implementations preferred to use the ARM instead of the formally required AIM/MIM. Today a few APs have ARM based exchange formats standardized outside of ISO TC184/SC4:</p>
+<ul>
+<li>PLM-Services within the <a href="/wiki/Object_Management_Group" title="Object Management Group">OMG</a> for AP 214</li>
+<li><a href="/wiki/ISO_14649" class="mw-redirect" title="ISO 14649">ISO 14649</a> <i>Data model for computerized numerical controllers</i> for AP 238</li>
+<li>PLCS-DEXs within <a href="/wiki/OASIS_(organization)" title="OASIS (organization)">OASIS (organization)</a> for AP 239</li>
+</ul>
+<p>There is a bigger overlap between APs because they often need to refer to the same kind of products, product structures, geometry and more. And because APs are developed by different groups of people it was always an issue to ensure interoperability between APs on a higher level. The <i>Application Interpreted Constructs</i> (AIC) solved this problem for common specializations of generic concepts, primarily in the geometric area. To address the problem of harmonizing the ARM models and their mapping to the AIM the <i>STEP modules</i> were introduced. They contain a piece of the ARM, the mapping and a piece of the AIM, called MIM. Modules are built on each other, resulting in an (almost) directed graph with the AP and conformance class modules at the very top. The modular APs are:</p>
+<ul>
+<li>AP 209, <i>Composite and metallic structural analysis and related design</i></li>
+<li>AP 210, <i>Electronic assembly, interconnect and packaging design</i></li>
+<li>AP 221, <i>Functional data and schematic representation of process plants</i></li>
+<li>AP 236, <i>Furniture product data and project data</i></li>
+<li>AP 239, <i>Product life cycle support</i></li>
+<li>AP 242, <i>Managed model based 3d engineering</i></li>
+</ul>
+<p>The modular editions of AP 209 and 210 are explicit extensions of AP 242.</p>
+<h2><span id="Coverage_of_STEP_Application_Protocols_.28AP.29"></span><span class="mw-headline" id="Coverage_of_STEP_Application_Protocols_(AP)">Coverage of STEP Application Protocols (AP)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=4" title="Edit section: Coverage of STEP Application Protocols (AP)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The STEP APs can be roughly grouped into the three main areas design, manufacturing and life cycle support.</p>
+<p>Design APs:</p>
+<ul>
+<li>Mechanical:
+<ul>
+<li>AP 207, <i>Sheet metal die planning and design</i></li>
+<li>AP 209, <i>Composite and metallic structural analysis and related design</i></li>
+<li>AP 235, <i>Materials information for the design and verification of products</i></li>
+<li>AP 236, <i>Furniture product data and project data</i></li>
+<li>AP 242, <i>Managed model based 3d engineering</i></li>
+</ul>
+</li>
+<li>Connectivity oriented electric, electronic and piping/ventilation:
+<ul>
+<li>AP 210, <i>Electronic assembly, interconnect and packaging design</i>. The most complex and sophisticated STEP AP.</li>
+<li>AP 212, <i>Electrotechnical design and installation</i>.</li>
+<li>AP 227, <i>Plant spatial configuration</i></li>
+</ul>
+</li>
+<li>Ship:
+<ul>
+<li>AP 215, <i>Ship arrangement</i></li>
+<li>AP 216, <i>Ship moulded forms</i></li>
+<li>AP 218, <i>Ship structures</i></li>
+</ul>
+</li>
+<li>Others:
+<ul>
+<li>AP 225, <i>Building elements using explicit shape representation</i></li>
+<li>AP 232, <i>Technical data packaging core information and exchange</i></li>
+<li>AP 233, <i>Systems engineering data representation</i></li>
+<li>AP 237, <i>Fluid dynamics</i> has been cancelled and the functionality included in AP 209</li>
+</ul>
+</li>
+</ul>
+<p>Manufacturing APs:</p>
+<ul>
+<li>AP 219, <i>Dimensional inspection information exchange</i></li>
+<li>AP 223, <i>Exchange of design and manufacturing product information for cast parts</i></li>
+<li>AP 224, <i>Mechanical product definition for process plans using machining features</i></li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">AP 238 - <i>Application interpreted model for computer numeric controllers</i></a></li>
+<li>AP 240, <i>Process plans for machined products</i></li>
+</ul>
+<p>Life cycle support APs:</p>
+<ul>
+<li>AP 239, <i>Product life cycle support</i></li>
+<li>AP 221, <i>Functional data and schematic representation of process plants</i></li>
+<li>AP 241, <i>Generic Model for Life Cycle Support of AEC Facilities</i> (planned)</li>
+</ul>
+<p>The AP 221 model is very similar to the ISO 15926-2 model, whereas AP 221 follows the STEP architecture and ISO 15926-2 has a different architecture. They both use ISO-15926-4 as their common reference data library or dictionary of standard instances. A further development of both standards resulted in <a href="/wiki/Gellish_English" class="mw-redirect" title="Gellish English">Gellish English</a> as general product modeling language that is application domain independent and that is proposed as a work item (NWI) for a new standard.</p>
+<p>The original intent of STEP was to publish one integrated data-model for all life cycle aspects. But due to the complexity, different groups of developers and different speed in the development processes, the splitting into several APs was needed. But this splitting made it difficult to ensure that APs are interoperable in overlapping areas. Main areas of harmonization are:</p>
+<ul>
+<li>AP 212, 221, 227 and 242 for technical drawings with extension in AP 212 and 221 for schematic functionality</li>
+<li>AP 224, 238 and 242 for machining features and for <a href="/wiki/Geometric_dimensioning_and_tolerancing" title="Geometric dimensioning and tolerancing">Geometric dimensioning and tolerancing</a></li>
+</ul>
+<p>For complex areas it is clear that more than one APs are needed to cover all major aspects:</p>
+<ul>
+<li>AP 212 and 242 for electro-mechanical products such as a car or a transformer. This will be addressed by the second edition of AP242 that is currently under development</li>
+<li>AP 242, 209 and 210 for electro/electronic-mechanical products</li>
+<li>AP 212, 215, 216, 218, 227 for ships</li>
+<li>AP 203/214, 224, 240 and <a href="/wiki/STEP-NC" title="STEP-NC">238</a> for the complete design and manufacturing process of piece parts.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Boundary_representation" title="Boundary representation">Boundary representation</a></li>
+<li><a href="/wiki/Geometric_dimensioning_and_tolerancing" title="Geometric dimensioning and tolerancing">Geometric dimensioning and tolerancing</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">ISO 10303-1:1994 Industrial automation systems and integration -- Product data representation and exchange -- Part 1: Overview and fundamental principles</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Standards and projects under the direct responsibility of ISO/TC 184/SC 4 Secretariat <a rel="nofollow" class="external autonumber" href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=54158&amp;published=on">[1]</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">ISO TC184 / SC4 resolution 1, Gaithersburg - July 1984</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">ISO TC184 / SC4 resolution 33, Tokyo - December 1988</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">ISO TC184 / SC4 resolution 55, Paris - January 1990</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">ISO TC184 / SC4 resolution 195 and 196, Davos - May 1994</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">ISO TC184 / SC4 resolution 361, Bad Aibling, Germany – June 1998</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">ISO TC184 / SC4 resolution 394, San Francisco, California - January 1999</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ISO_10303&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_technical_committee?commid=54158">Standardization group ISO TC184/SC4</a>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20041030171929/http://www.tc184-sc4.org/titles/STEP_Titles.htm">List of STEP parts</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070624212556/http://www.nsrp.org/t23/">STEP Ship team ISO TC 184/SC 4/WG 3/T 23</a></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.ap242.org/">STEP AP242 Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/stepmod">The STEP Module Repository on SourceForge</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cax-if.org">CAx Implementor Forum</a> - information on existing implementations and testing activities</li>
+<li><a rel="nofollow" class="external text" href="http://www.wikistep.org">WikiSTEP</a> - tutorial and overview information about STEP and recommended practices</li>
+<li><a rel="nofollow" class="external text" href="http://www.pdesinc.org">PDES, Inc.</a> - recommended practices and links</li>
+<li><a rel="nofollow" class="external text" href="http://www.kstep.or.kr">Korea STEP Center</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.plcs-resources.org">Product Life Cycle Support (PLCS) Resources</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20020601131514/http://www.isg-scra.org/STEP/">Application Protocol 224 implementation</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070628111837/http://www.strategis.ic.gc.ca/epic/site/ad-ad.nsf/en/ad03604e.html">Introducing STEP</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cax-if.org/documents/pdmug_release4_3.pdf">PDM schema</a> - a common subset extracted from AP 203 and AP 214</li>
+<li><a rel="nofollow" class="external text" href="http://www.pdesinc.com/downloadable_files/oagis-step%20report.pdf">STEP-OAGIS Harmonization</a></li>
+<li><a rel="nofollow" class="external text" href="http://brlcad.org/wiki/STEP">BRLCAD and STEP</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.nist.gov/services-resources/software/step-file-analyzer">STEP File Analyzer</a> - generate a spreadsheet from a STEP file, also checks for some CAx-IF recommended practices</li>
+</ul>
+<p><a href="/w/index.php?title=STEP_programs&amp;action=edit&amp;redlink=1" class="new" title="STEP programs (page does not exist)">STEP programs</a></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://step3d.com">STEP3D.com - Web-based STEP Viewer</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.steptools.com/library/standard/">ISO 10303 STEP Standards – STEP Tools, Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://stpviewer.com/Download/Default.aspx">STP viewer 2.3 - download</a></li>
+<li><a rel="nofollow" class="external text" href="http://stlviewer.org/Download/Default.aspx">STL Viewer – Download</a></li>
+<li><a rel="nofollow" class="external text" href="http://igsviewer.com/Download/Default.aspx">IGS viewer - download</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Vector_graphics_markup_languages_and_file_formats" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Vector_graphics_markup_languages" title="Template:Vector graphics markup languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Vector_graphics_markup_languages" title="Template talk:Vector graphics markup languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Vector_graphics_markup_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Vector_graphics_markup_languages_and_file_formats" style="font-size:114%;margin:0 4em"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector graphics</a> <a href="/wiki/Vector_graphics_markup_language" class="mw-redirect" title="Vector graphics markup language">markup languages</a> and file formats</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/List_of_vector_graphics_markup_languages" class="mw-redirect" title="List of vector graphics markup languages">type</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2D</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asymptote_(vector_graphics_language)" title="Asymptote (vector graphics language)">Asymptote</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">CGM</a></li>
+<li><a href="/wiki/Office_Open_XML_file_formats#DrawingML" title="Office Open XML file formats">DrawingML</a></li>
+<li><a href="/wiki/Graphics_Layout_Engine" title="Graphics Layout Engine">Graphics Layout Engine</a></li>
+<li><a href="/wiki/GeoGebra" title="GeoGebra">GeoGebra</a></li>
+<li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format">HVIF</a></li>
+<li><a href="/wiki/MetaPost" title="MetaPost">MetaPost</a></li>
+<li><a href="/wiki/PGF/TikZ" title="PGF/TikZ">PGF/TikZ</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language">PGML</a></li>
+<li><a href="/wiki/PSTricks" title="PSTricks">PSTricks</a></li>
+<li><a href="/wiki/Remote_Imaging_Protocol" title="Remote Imaging Protocol">Remote Imaging Protocol</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/SWF" title="SWF">SWF</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language">VML</a></li>
+<li><a href="/wiki/Windows_Metafile" title="Windows Metafile">WMF</a>
+<ul>
+<li><a href="/wiki/Windows_Metafile#Variants" title="Windows Metafile">EMF</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/Xar_(graphics)" title="Xar (graphics)">Xar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">3D</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3DMLW" title="3DMLW">3DMLW</a></li>
+<li><a href="/wiki/3DXML" title="3DXML">3DXML</a></li>
+<li><a href="/wiki/Asymptote_(vector_graphics_language)" title="Asymptote (vector graphics language)">Asymptote</a></li>
+<li><a href="/wiki/COLLADA" title="COLLADA">COLLADA</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/GeoGebra" title="GeoGebra">GeoGebra</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/JT_(visualization_format)" title="JT (visualization format)">JT</a></li>
+<li><a href="/wiki/Open_Game_Engine_Exchange" title="Open Game Engine Exchange">OpenGEX</a></li>
+<li><a href="/wiki/PRC_(file_format)" title="PRC (file format)">PRC</a></li>
+<li><a class="mw-selflink selflink">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li>
+<li><a href="/wiki/Universal_3D" title="Universal 3D">U3D</a></li>
+<li><a href="/wiki/VRML" title="VRML">VRML</a></li>
+<li><a href="/wiki/X3D" title="X3D">X3D</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a></li>
+<li><a href="/wiki/XVL" title="XVL">XVL</a></li>
+<li><a href="/wiki/XVRML" title="XVRML">xVRML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Web3D" title="Web3D">Web3D</a></li>
+<li><a href="/wiki/Web3D_Consortium" title="Web3D Consortium">Web3D Consortium</a></li>
+<li><a href="/wiki/Linden_Scripting_Language" class="mw-redirect" title="Linden Scripting Language">Linden Scripting Language</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="ISO_standards_by_standard_number" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ISO_standards" title="Template:ISO standards"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ISO_standards" title="Template talk:ISO standards"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ISO_standards&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="ISO_standards_by_standard_number" style="font-size:114%;margin:0 4em"><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> standards <span style="font-weight:normal;"><span style="font-size:90%;">by standard number</span></span></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>List of <a href="/wiki/List_of_International_Organization_for_Standardization_standards" title="List of International Organization for Standardization standards">ISO standards</a>&#160;/ <a href="/wiki/List_of_ISO_romanizations" title="List of ISO romanizations">ISO romanizations</a>&#160;/ <a href="/wiki/List_of_IEC_standards" class="mw-redirect" title="List of IEC standards">IEC standards</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1–9999</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_1" title="ISO 1">1</a></li>
+<li><a href="/wiki/ISO_2" title="ISO 2">2</a></li>
+<li><a href="/wiki/Preferred_number" title="Preferred number">3</a></li>
+<li><a href="/wiki/ISO_4" title="ISO 4">4</a></li>
+<li><a href="/wiki/ISO_5" title="ISO 5">5</a></li>
+<li><a href="/wiki/ISO_6" class="mw-redirect" title="ISO 6">6</a></li>
+<li><a href="/wiki/ISO_7" class="mw-redirect" title="ISO 7">7</a></li>
+<li><a href="/wiki/ISO_9" title="ISO 9">9</a></li>
+<li><a href="/wiki/A440_(pitch_standard)" title="A440 (pitch standard)">16</a></li>
+<li><a href="/wiki/ISO_31" title="ISO 31">31</a>
+<ul>
+<li><a href="/wiki/ISO_31-0" title="ISO 31-0">-0</a></li>
+<li><a href="/wiki/ISO_31-1" title="ISO 31-1">-1</a></li>
+<li><a href="/wiki/ISO_31-2" title="ISO 31-2">-2</a></li>
+<li><a href="/wiki/ISO_31-3" title="ISO 31-3">-3</a></li>
+<li><a href="/wiki/ISO_31-4" title="ISO 31-4">-4</a></li>
+<li><a href="/wiki/ISO_31-5" title="ISO 31-5">-5</a></li>
+<li><a href="/wiki/ISO_31-6" title="ISO 31-6">-6</a></li>
+<li><a href="/wiki/ISO_31-7" title="ISO 31-7">-7</a></li>
+<li><a href="/wiki/ISO_31-8" title="ISO 31-8">-8</a></li>
+<li><a href="/wiki/ISO_31-9" title="ISO 31-9">-9</a></li>
+<li><a href="/wiki/ISO_31-10" title="ISO 31-10">-10</a></li>
+<li><a href="/wiki/ISO_31-11" title="ISO 31-11">-11</a></li>
+<li><a href="/wiki/ISO_31-12" title="ISO 31-12">-12</a></li>
+<li><a href="/wiki/ISO_31-13" title="ISO 31-13">-13</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_128" title="ISO 128">128</a></li>
+<li><a href="/wiki/ISO_216" title="ISO 216">216</a></li>
+<li><a href="/wiki/ISO_217" title="ISO 217">217</a></li>
+<li><a href="/wiki/ISO_226" class="mw-redirect" title="ISO 226">226</a></li>
+<li><a href="/wiki/British_standard_pipe_thread" class="mw-redirect" title="British standard pipe thread">228</a></li>
+<li><a href="/wiki/ISO_233" title="ISO 233">233</a></li>
+<li><a href="/wiki/ISO_259" title="ISO 259">259</a></li>
+<li><a href="/wiki/Envelope" title="Envelope">269</a></li>
+<li><a href="/wiki/Kappa_number" title="Kappa number">302</a></li>
+<li><a href="/wiki/Vicat_softening_point" title="Vicat softening point">306</a></li>
+<li><a href="/wiki/ISO_428" title="ISO 428">428</a></li>
+<li><a href="/wiki/ISO_518" class="mw-redirect" title="ISO 518">518</a></li>
+<li><a href="/wiki/ISO_519" class="mw-redirect" title="ISO 519">519</a></li>
+<li><a href="/wiki/ISO_639" title="ISO 639">639</a>
+<ul>
+<li><a href="/wiki/ISO_639-1" title="ISO 639-1">-1</a></li>
+<li><a href="/wiki/ISO_639-2" title="ISO 639-2">-2</a></li>
+<li><a href="/wiki/ISO_639-3" title="ISO 639-3">-3</a></li>
+<li><a href="/wiki/ISO_639-5" title="ISO 639-5">-5</a></li>
+<li><a href="/wiki/ISO_639-6" title="ISO 639-6">-6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO/IEC_646" title="ISO/IEC 646">646</a></li>
+<li><a href="/wiki/ISO_690" title="ISO 690">690</a></li>
+<li><a href="/wiki/ISO_732" title="ISO 732">732</a></li>
+<li><a href="/wiki/Antimagnetic_watch" title="Antimagnetic watch">764</a></li>
+<li><a href="/wiki/ISO_843" title="ISO 843">843</a></li>
+<li><a href="/wiki/ISO_898" title="ISO 898">898</a></li>
+<li><a href="/wiki/ISO_965" title="ISO 965">965</a></li>
+<li><a href="/wiki/ISO_1000" title="ISO 1000">1000</a></li>
+<li><a href="/wiki/Magnetic_ink_character_recognition" title="Magnetic ink character recognition">1004</a></li>
+<li><a href="/wiki/135_film" title="135 film">1007</a></li>
+<li><a href="/wiki/OCR-A_font" class="mw-redirect" title="OCR-A font">1073-1</a></li>
+<li><a href="/wiki/ISO_1413" class="mw-redirect" title="ISO 1413">1413</a></li>
+<li><a href="/wiki/ALGOL_60" title="ALGOL 60">1538</a></li>
+<li><a href="/wiki/ISO_1745" title="ISO 1745">1745</a></li>
+<li><a href="/wiki/ISO_1989" class="mw-redirect" title="ISO 1989">1989</a></li>
+<li><a href="/wiki/ISO_2014" title="ISO 2014">2014</a></li>
+<li><a href="/wiki/ISO_2015" title="ISO 2015">2015</a></li>
+<li><a href="/wiki/ISO/IEC_2022" title="ISO/IEC 2022">2022</a></li>
+<li><a href="/wiki/ISO_2047" title="ISO 2047">2047</a></li>
+<li><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">2108</a></li>
+<li><a href="/wiki/ISO_2145" title="ISO 2145">2145</a></li>
+<li><a href="/wiki/ISO_2146" title="ISO 2146">2146</a></li>
+<li><a href="/wiki/ISO_2240" class="mw-redirect" title="ISO 2240">2240</a></li>
+<li><a href="/wiki/Water_Resistant_mark" title="Water Resistant mark">2281</a></li>
+<li><a href="/wiki/ISO_2709" title="ISO 2709">2709</a></li>
+<li><a href="/wiki/ISO_2711" title="ISO 2711">2711</a></li>
+<li><a href="/wiki/ISO_2788" title="ISO 2788">2788</a></li>
+<li><a href="/wiki/ISO_2848" title="ISO 2848">2848</a></li>
+<li><a href="/wiki/ISO_2852" title="ISO 2852">2852</a></li>
+<li><a href="/wiki/126_film" title="126 film">3029</a></li>
+<li><a href="/wiki/ISO_3103" title="ISO 3103">3103</a></li>
+<li><a href="/wiki/ISO_3166" title="ISO 3166">3166</a>
+<ul>
+<li><a href="/wiki/ISO_3166-1" title="ISO 3166-1">-1</a></li>
+<li><a href="/wiki/ISO_3166-2" title="ISO 3166-2">-2</a></li>
+<li><a href="/wiki/ISO_3166-3" title="ISO 3166-3">-3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">3297</a></li>
+<li><a href="/wiki/ISO_3307" title="ISO 3307">3307</a></li>
+<li><a href="/wiki/Kunrei-shiki_romanization" title="Kunrei-shiki romanization">3602</a></li>
+<li><a href="/wiki/ISO_3864" title="ISO 3864">3864</a></li>
+<li><a href="/wiki/International_Standard_Recording_Code" title="International Standard Recording Code">3901</a></li>
+<li><a href="/wiki/ISO_3977" title="ISO 3977">3977</a></li>
+<li><a href="/wiki/ISO_4031" title="ISO 4031">4031</a></li>
+<li><a href="/wiki/ISO_4157" title="ISO 4157">4157</a></li>
+<li><a href="/wiki/ISO_4217" title="ISO 4217">4217</a></li>
+<li><a href="/wiki/ISO/IEC_4909" title="ISO/IEC 4909">4909</a></li>
+<li><a href="/wiki/ISO/IEC_5218" title="ISO/IEC 5218">5218</a></li>
+<li><a href="/wiki/ISO_5428" title="ISO 5428">5428</a></li>
+<li><a href="/wiki/ISO_5775" title="ISO 5775">5775</a></li>
+<li><a href="/wiki/ISO_5776" title="ISO 5776">5776</a></li>
+<li><a href="/wiki/ISO_5800" class="mw-redirect" title="ISO 5800">5800</a></li>
+<li><a href="/wiki/ISO_5964" title="ISO 5964">5964</a></li>
+<li><a href="/wiki/ISO_6166" class="mw-redirect" title="ISO 6166">6166</a></li>
+<li><a href="/wiki/ISO_6344" title="ISO 6344">6344</a></li>
+<li><a href="/wiki/ISO_6346" title="ISO 6346">6346</a></li>
+<li><a href="/wiki/ISO_6385" title="ISO 6385">6385</a></li>
+<li><a href="/wiki/Water_Resistant_mark" title="Water Resistant mark">6425</a></li>
+<li><a href="/wiki/ANSI_escape_code" title="ANSI escape code">6429</a></li>
+<li><a href="/wiki/ISO_6438" title="ISO 6438">6438</a></li>
+<li><a href="/wiki/ISO_6523" class="mw-redirect" title="ISO 6523">6523</a></li>
+<li><a href="/wiki/ISO_6709" title="ISO 6709">6709</a></li>
+<li><a href="/wiki/ISO_7001" title="ISO 7001">7001</a></li>
+<li><a href="/wiki/ISO_7002" title="ISO 7002">7002</a></li>
+<li><a href="/wiki/Pinyin" title="Pinyin">7098</a></li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">7185</a></li>
+<li><a href="/wiki/ISO_7200" title="ISO 7200">7200</a></li>
+<li><a href="/wiki/OSI_model" title="OSI model">7498</a></li>
+<li><a href="/wiki/ISO_7736" title="ISO 7736">7736</a></li>
+<li><a href="/wiki/ISO/IEC_7810" title="ISO/IEC 7810">7810</a></li>
+<li><a href="/wiki/ISO/IEC_7811" title="ISO/IEC 7811">7811</a></li>
+<li><a href="/wiki/ISO/IEC_7812" title="ISO/IEC 7812">7812</a></li>
+<li><a href="/wiki/ISO/IEC_7813" title="ISO/IEC 7813">7813</a></li>
+<li><a href="/wiki/ISO/IEC_7816" title="ISO/IEC 7816">7816</a></li>
+<li><a href="/wiki/ISO_8000" title="ISO 8000">8000</a></li>
+<li><a href="/wiki/ISO_8178" title="ISO 8178">8178</a></li>
+<li><a href="/wiki/Fuel_oil" title="Fuel oil">8217</a></li>
+<li><a href="/wiki/FTAM" title="FTAM">8571</a></li>
+<li><a href="/wiki/ISO_8583" title="ISO 8583">8583</a></li>
+<li><a href="/wiki/ISO_8601" title="ISO 8601">8601</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">8632</a></li>
+<li><a href="/wiki/ISO/IEC_8652" title="ISO/IEC 8652">8652</a></li>
+<li><a href="/wiki/ISO_8691" title="ISO 8691">8691</a></li>
+<li><a href="/wiki/Language_Of_Temporal_Ordering_Specification" title="Language Of Temporal Ordering Specification">8807</a></li>
+<li><a href="/wiki/ISO/IEC_8820-5" title="ISO/IEC 8820-5">8820-5</a></li>
+<li><a href="/wiki/ISO/IEC_8859" title="ISO/IEC 8859">8859</a>
+<ul>
+<li><a href="/wiki/ISO/IEC_8859-1" title="ISO/IEC 8859-1">-1</a></li>
+<li><a href="/wiki/ISO/IEC_8859-2" title="ISO/IEC 8859-2">-2</a></li>
+<li><a href="/wiki/ISO/IEC_8859-3" title="ISO/IEC 8859-3">-3</a></li>
+<li><a href="/wiki/ISO/IEC_8859-4" title="ISO/IEC 8859-4">-4</a></li>
+<li><a href="/wiki/ISO/IEC_8859-5" title="ISO/IEC 8859-5">-5</a></li>
+<li><a href="/wiki/ISO/IEC_8859-6" title="ISO/IEC 8859-6">-6</a></li>
+<li><a href="/wiki/ISO/IEC_8859-7" title="ISO/IEC 8859-7">-7</a></li>
+<li><a href="/wiki/ISO/IEC_8859-8" title="ISO/IEC 8859-8">-8</a></li>
+<li><a href="/wiki/ISO-8859-8-I" title="ISO-8859-8-I">-8-I</a></li>
+<li><a href="/wiki/ISO/IEC_8859-9" title="ISO/IEC 8859-9">-9</a></li>
+<li><a href="/wiki/ISO/IEC_8859-10" title="ISO/IEC 8859-10">-10</a></li>
+<li><a href="/wiki/ISO/IEC_8859-11" title="ISO/IEC 8859-11">-11</a></li>
+<li><a href="/wiki/ISO/IEC_8859-12" title="ISO/IEC 8859-12">-12</a></li>
+<li><a href="/wiki/ISO/IEC_8859-13" title="ISO/IEC 8859-13">-13</a></li>
+<li><a href="/wiki/ISO/IEC_8859-14" title="ISO/IEC 8859-14">-14</a></li>
+<li><a href="/wiki/ISO/IEC_8859-15" title="ISO/IEC 8859-15">-15</a></li>
+<li><a href="/wiki/ISO/IEC_8859-16" title="ISO/IEC 8859-16">-16</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">8879</a></li>
+<li><a href="/wiki/ISO_9000" title="ISO 9000">9000/9001</a></li>
+<li><a href="/wiki/SQL" title="SQL">9075</a></li>
+<li><a href="/wiki/ISO/IEC_9126" title="ISO/IEC 9126">9126</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">9293</a></li>
+<li><a href="/wiki/ISO_9241" title="ISO 9241">9241</a></li>
+<li><a href="/wiki/ISO_9362" title="ISO 9362">9362</a></li>
+<li><a href="/wiki/Shoe_size" title="Shoe size">9407</a></li>
+<li><a href="/wiki/Manufacturing_Message_Specification" title="Manufacturing Message Specification">9506</a></li>
+<li><a href="/wiki/ISO_9529" title="ISO 9529">9529</a></li>
+<li><a href="/wiki/ISO_9564" title="ISO 9564">9564</a></li>
+<li><a href="/wiki/X.500" title="X.500">9594</a></li>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">9660</a></li>
+<li><a href="/wiki/ISO_9897" title="ISO 9897">9897</a></li>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">9899</a></li>
+<li><a href="/wiki/POSIX" title="POSIX">9945</a></li>
+<li><a href="/wiki/ISO_9984" class="mw-redirect" title="ISO 9984">9984</a></li>
+<li><a href="/wiki/ISO_9985" class="mw-redirect" title="ISO 9985">9985</a></li>
+<li><a href="/wiki/ISO/IEC_9995" title="ISO/IEC 9995">9995</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10000–19999</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_10005" class="mw-redirect" title="ISO 10005">10005</a></li>
+<li><a href="/wiki/ISO_10006" title="ISO 10006">10006</a></li>
+<li><a href="/wiki/ISO_10007" title="ISO 10007">10007</a></li>
+<li><a href="/wiki/ISO/IEC_10116" title="ISO/IEC 10116">10116</a></li>
+<li><a href="/wiki/Whirlpool_(cryptography)" title="Whirlpool (cryptography)">10118-3</a></li>
+<li><a href="/wiki/ISO_10160" title="ISO 10160">10160</a></li>
+<li><a href="/wiki/ISO_10161" title="ISO 10161">10161</a></li>
+<li><a href="/wiki/Guidelines_for_the_Definition_of_Managed_Objects" title="Guidelines for the Definition of Managed Objects">10165</a></li>
+<li><a href="/wiki/Document_Style_Semantics_and_Specification_Language" title="Document Style Semantics and Specification Language">10179</a></li>
+<li><a href="/wiki/ISO_10206" class="mw-redirect" title="ISO 10206">10206</a></li>
+<li><a href="/wiki/ISO_10218" title="ISO 10218">10218</a></li>
+<li><a class="mw-selflink selflink">10303</a>
+<ul>
+<li><a href="/wiki/EXPRESS_(data_modeling_language)" title="EXPRESS (data modeling language)">-11</a></li>
+<li><a href="/wiki/ISO_10303-21" title="ISO 10303-21">-21</a></li>
+<li><a href="/wiki/ISO_10303-22" title="ISO 10303-22">-22</a></li>
+<li><a href="/wiki/ISO_10303-28" title="ISO 10303-28">-28</a></li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">-238</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_10383" class="mw-redirect" title="ISO 10383">10383</a></li>
+<li><a href="/wiki/ISO_10487" class="mw-redirect" title="ISO 10487">10487</a></li>
+<li><a href="/wiki/ArmSCII" title="ArmSCII">10585</a></li>
+<li><a href="/wiki/IS-IS" title="IS-IS">10589</a></li>
+<li><a href="/wiki/Universal_Coded_Character_Set" title="Universal Coded Character Set">10646</a></li>
+<li><a href="/wiki/Torx" title="Torx">10664</a></li>
+<li><a href="/wiki/RM-ODP" title="RM-ODP">10746</a></li>
+<li><a href="/wiki/Multibus" title="Multibus">10861</a></li>
+<li><a href="/wiki/International_Standard_Music_Number" title="International Standard Music Number">10957</a></li>
+<li><a href="/wiki/ISO_10962" title="ISO 10962">10962</a></li>
+<li><a href="/wiki/ISO/IEC_10967" title="ISO/IEC 10967">10967</a></li>
+<li><a href="/wiki/ISO/IEEE_11073" title="ISO/IEEE 11073">11073</a></li>
+<li><a href="/wiki/ISO_11170" title="ISO 11170">11170</a></li>
+<li><a href="/wiki/ISO/IEC_11179" title="ISO/IEC 11179">11179</a></li>
+<li><a href="/wiki/ISO/IEC_11404" title="ISO/IEC 11404">11404</a></li>
+<li><a href="/wiki/JBIG" title="JBIG">11544</a></li>
+<li><a href="/wiki/ISO_11783" title="ISO 11783">11783</a></li>
+<li><a href="/wiki/ISO_11784_%26_11785" title="ISO 11784 &amp; 11785">11784</a></li>
+<li><a href="/wiki/ISO_11784_%26_11785" title="ISO 11784 &amp; 11785">11785</a></li>
+<li><a href="/wiki/ISO/IEC_11801" title="ISO/IEC 11801">11801</a></li>
+<li><a href="/wiki/ISO_11898" class="mw-redirect" title="ISO 11898">11898</a></li>
+<li><a href="/wiki/ISO_11940" title="ISO 11940">11940</a> (<a href="/wiki/ISO_11940-2" title="ISO 11940-2">-2</a>)</li>
+<li><a href="/wiki/ISO/TR_11941" title="ISO/TR 11941">11941</a></li>
+<li><a href="/wiki/ISO/TR_11941" title="ISO/TR 11941">11941 (TR)</a></li>
+<li><a href="/wiki/ISO_11992" title="ISO 11992">11992</a></li>
+<li><a href="/wiki/ISO_12006" title="ISO 12006">12006</a></li>
+<li><a href="/wiki/ISO/IEC_TR_12182" title="ISO/IEC TR 12182">12182</a></li>
+<li><a href="/wiki/ISO/IEC_12207" title="ISO/IEC 12207">12207</a></li>
+<li><a href="/wiki/Tag_Image_File_Format_/_Electronic_Photography" class="mw-redirect" title="Tag Image File Format / Electronic Photography">12234-2</a></li>
+<li><a href="/wiki/Prolog" title="Prolog">13211</a>
+<ul>
+<li><a href="/wiki/Prolog" title="Prolog">-1</a></li>
+<li><a href="/wiki/Prolog" title="Prolog">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Isofix" title="Isofix">13216</a></li>
+<li><a href="/wiki/Topic_Maps" class="mw-redirect" title="Topic Maps">13250</a></li>
+<li><a href="/wiki/ISO_13399" title="ISO 13399">13399</a></li>
+<li><a href="/wiki/ISO_13406-2" title="ISO 13406-2">13406-2</a></li>
+<li><a href="/wiki/110_film" title="110 film">13450</a></li>
+<li><a href="/wiki/ISO_13485" title="ISO 13485">13485</a></li>
+<li><a href="/wiki/ISO_13490" title="ISO 13490">13490</a></li>
+<li><a href="/wiki/ISO_13567" title="ISO 13567">13567</a></li>
+<li><a href="/wiki/Z_notation" title="Z notation">13568</a></li>
+<li><a href="/wiki/ISO_13584" title="ISO 13584">13584</a></li>
+<li><a href="/wiki/International_Bank_Account_Number" title="International Bank Account Number">13616</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">14000</a></li>
+<li><a href="/wiki/ISO_14031" title="ISO 14031">14031</a></li>
+<li><a href="/wiki/ISO_14224" title="ISO 14224">14224</a></li>
+<li><a href="/wiki/PDF/UA" title="PDF/UA">14289</a></li>
+<li><a href="/wiki/Horsepower" title="Horsepower">14396</a></li>
+<li><a href="/wiki/ISO/IEC_14443" title="ISO/IEC 14443">14443</a></li>
+<li><a href="/wiki/MPEG-4" title="MPEG-4">14496</a>
+<ul>
+<li><a href="/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">-2</a></li>
+<li><a href="/wiki/MPEG-4_Part_3" title="MPEG-4 Part 3">-3</a></li>
+<li><a href="/wiki/Delivery_Multimedia_Integration_Framework" title="Delivery Multimedia Integration Framework">-6</a></li>
+<li><a href="/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">-10</a></li>
+<li><a href="/wiki/MPEG-4_Part_11" title="MPEG-4 Part 11">-11</a></li>
+<li><a href="/wiki/MPEG-4_Part_12" class="mw-redirect" title="MPEG-4 Part 12">-12</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-14</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-17</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-20</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_14644" title="ISO 14644">14644</a></li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">14649</a></li>
+<li><a href="/wiki/ISO_14651" title="ISO 14651">14651</a></li>
+<li><a href="/wiki/ISO_14698" title="ISO 14698">14698</a></li>
+<li><a href="/wiki/ISO_14750" title="ISO 14750">14750</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">14764</a></li>
+<li><a href="/wiki/C%2B%2B" title="C++">14882</a></li>
+<li><a href="/wiki/ISO_14971" title="ISO 14971">14971</a></li>
+<li><a href="/wiki/ISO_15022" title="ISO 15022">15022</a></li>
+<li><a href="/wiki/ISO_15189" title="ISO 15189">15189</a></li>
+<li><a href="/wiki/ISO/IEC_15288" title="ISO/IEC 15288">15288</a></li>
+<li><a href="/wiki/Ada_Semantic_Interface_Specification" title="Ada Semantic Interface Specification">15291</a></li>
+<li><a href="/wiki/ISO_15292" title="ISO 15292">15292</a></li>
+<li><a href="/wiki/ISO_15398" title="ISO 15398">15398</a></li>
+<li><a href="/wiki/Common_Criteria" title="Common Criteria">15408</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">15444</a>
+<ul>
+<li><a href="/wiki/Motion_JPEG_2000" title="Motion JPEG 2000">-3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/HTML" title="HTML">15445</a></li>
+<li><a href="/wiki/PDF417" title="PDF417">15438</a></li>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">15504</a></li>
+<li><a href="/wiki/International_Standard_Identifier_for_Libraries_and_Related_Organizations" title="International Standard Identifier for Libraries and Related Organizations">15511</a></li>
+<li><a href="/wiki/ISO_15686" title="ISO 15686">15686</a></li>
+<li><a href="/wiki/ISO/IEC_15693" title="ISO/IEC 15693">15693</a></li>
+<li><a href="/wiki/International_Standard_Audiovisual_Number" title="International Standard Audiovisual Number">15706</a>
+<ul>
+<li><a href="/wiki/ISO_15706-2" title="ISO 15706-2">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Standard_Musical_Work_Code" title="International Standard Musical Work Code">15707</a></li>
+<li><a href="/wiki/ISO_15897" class="mw-redirect" title="ISO 15897">15897</a></li>
+<li><a href="/wiki/ISO_15919" title="ISO 15919">15919</a></li>
+<li><a href="/wiki/ISO_15924" title="ISO 15924">15924</a></li>
+<li><a href="/wiki/ISO_15926" title="ISO 15926">15926</a></li>
+<li><a href="/wiki/ISO_15926_WIP" title="ISO 15926 WIP">15926 WIP</a></li>
+<li><a href="/wiki/PDF/X" title="PDF/X">15930</a></li>
+<li><a href="/wiki/MaxiCode" title="MaxiCode">16023</a></li>
+<li><a href="/wiki/ECMAScript" title="ECMAScript">16262</a></li>
+<li><a href="/wiki/PDF/VT" title="PDF/VT">16612-2</a></li>
+<li><a href="/wiki/ISO_16750" title="ISO 16750">16750</a></li>
+<li><a href="/wiki/ISO/TS_16949" title="ISO/TS 16949">16949 (TS)</a></li>
+<li><a href="/wiki/ISO/IEC_17024" title="ISO/IEC 17024">17024</a></li>
+<li><a href="/wiki/ISO/IEC_17025" title="ISO/IEC 17025">17025</a></li>
+<li><a href="/wiki/ISO_17100:2015" title="ISO 17100:2015">17100</a></li>
+<li><a href="/wiki/Open_Virtualization_Format" title="Open Virtualization Format">17203</a></li>
+<li><a href="/wiki/SDMX" title="SDMX">17369</a></li>
+<li><a href="/wiki/Legal_Entity_Identifier" title="Legal Entity Identifier">17442</a></li>
+<li><a href="/wiki/ISO/IEC_27002" title="ISO/IEC 27002">17799</a></li>
+<li><a href="/wiki/ISO/IEC_18000" title="ISO/IEC 18000">18000</a></li>
+<li><a href="/wiki/QR_code" title="QR code">18004</a></li>
+<li><a href="/wiki/ISO/IEC_18014" title="ISO/IEC 18014">18014</a></li>
+<li><a href="/wiki/ISO_18245" title="ISO 18245">18245</a></li>
+<li><a href="/wiki/Process_Specification_Language" title="Process Specification Language">18629</a></li>
+<li><a href="/wiki/Photographic_Activity_Test" title="Photographic Activity Test">18916</a></li>
+<li><a href="/wiki/PDF/A" title="PDF/A">19005</a></li>
+<li><a href="/wiki/ISO_19011" title="ISO 19011">19011</a></li>
+<li><a href="/wiki/ISO_19092-1" title="ISO 19092-1">19092 (-1</a></li>
+<li><a href="/wiki/ISO_19092-2" title="ISO 19092-2">-2)</a></li>
+<li><a href="/wiki/ISO_19114" title="ISO 19114">19114</a></li>
+<li><a href="/wiki/ISO_19115" class="mw-redirect" title="ISO 19115">19115</a></li>
+<li><a href="/wiki/Simple_feature_access" class="mw-redirect" title="Simple feature access">19125</a></li>
+<li><a href="/wiki/ISO_19136" class="mw-redirect" title="ISO 19136">19136</a></li>
+<li><a href="/wiki/ISO_19439" title="ISO 19439">19439</a></li>
+<li><a href="/wiki/Common_Object_Request_Broker_Architecture" title="Common Object Request Broker Architecture">19500</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">19501</a></li>
+<li><a href="/wiki/Meta-Object_Facility" title="Meta-Object Facility">19502</a></li>
+<li><a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">19503</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">19505</a></li>
+<li><a href="/wiki/Knowledge_Discovery_Metamodel" title="Knowledge Discovery Metamodel">19506</a></li>
+<li><a href="/wiki/Object_Constraint_Language" title="Object Constraint Language">19507</a></li>
+<li><a href="/wiki/Meta-Object_Facility" title="Meta-Object Facility">19508</a></li>
+<li><a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">19509</a></li>
+<li><a href="/wiki/Business_Process_Model_and_Notation" title="Business Process Model and Notation">19510</a></li>
+<li><a href="/wiki/ISO_19600:2014" class="mw-redirect" title="ISO 19600:2014">19600:2014</a></li>
+<li><a href="/wiki/ISO/IEC_19752" title="ISO/IEC 19752">19752</a></li>
+<li><a href="/wiki/RELAX_NG" title="RELAX NG">19757</a></li>
+<li><a href="/wiki/ISO/IEC_19770" title="ISO/IEC 19770">19770</a></li>
+<li><a href="/wiki/X3D" title="X3D">19775-1</a></li>
+<li><a href="/wiki/ISO/IEC_19794-5" title="ISO/IEC 19794-5">19794-5</a></li>
+<li><a href="/wiki/Cloud_Infrastructure_Management_Interface" title="Cloud Infrastructure Management Interface">19831</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_20000" title="ISO/IEC 20000">20000</a></li>
+<li><a href="/wiki/ISO_20022" title="ISO 20022">20022</a></li>
+<li><a href="/wiki/ISO_20121" title="ISO 20121">20121</a></li>
+<li><a href="/wiki/ISO_20400" title="ISO 20400">20400</a></li>
+<li><a href="/wiki/MPEG-21" title="MPEG-21">21000</a></li>
+<li><a href="/wiki/International_Standard_Text_Code" title="International Standard Text Code">21047</a></li>
+<li><a href="/wiki/ISO_21500" title="ISO 21500">21500</a></li>
+<li><a href="/wiki/ISO/IEC_21827" title="ISO/IEC 21827">21827:2002</a></li>
+<li><a href="/wiki/ISO_22000" title="ISO 22000">22000</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">23270</a></li>
+<li><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">23271</a></li>
+<li><a href="/wiki/Linux_Standard_Base" title="Linux Standard Base">23360</a></li>
+<li><a href="/wiki/PDF/E" title="PDF/E">24517</a></li>
+<li><a href="/wiki/Lexical_Markup_Framework" title="Lexical Markup Framework">24613</a></li>
+<li><a href="/wiki/ISO-TimeML" title="ISO-TimeML">24617</a></li>
+<li><a href="/wiki/Common_Logic" title="Common Logic">24707</a></li>
+<li><a href="/wiki/ISO_25178" title="ISO 25178">25178</a></li>
+<li><a href="/wiki/ISO_25964" title="ISO 25964">25964</a></li>
+<li><a href="/wiki/ISO_26000" title="ISO 26000">26000</a></li>
+<li><a href="/wiki/OpenDocument" title="OpenDocument">26300</a></li>
+<li><a href="/wiki/Digital_object_identifier" title="Digital object identifier">26324</a></li>
+<li><a href="/wiki/ISO/IEC_27000-series" title="ISO/IEC 27000-series">27000 series</a></li>
+<li><a href="/wiki/ISO/IEC_27000" title="ISO/IEC 27000">27000</a></li>
+<li><a href="/wiki/ISO/IEC_27001" title="ISO/IEC 27001">27001</a></li>
+<li><a href="/wiki/ISO/IEC_27002" title="ISO/IEC 27002">27002</a></li>
+<li><a href="/wiki/ISO/IEC_27006" title="ISO/IEC 27006">27006</a></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">27729</a></li>
+<li><a href="/wiki/ISO_28000" title="ISO 28000">28000</a></li>
+<li><a href="/wiki/ISO_29110" title="ISO 29110">29110</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">29148</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">29199-2</a></li>
+<li><a href="/wiki/Office_Open_XML" title="Office Open XML">29500</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">30170</a></li>
+<li><a href="/wiki/ISO_31000" title="ISO 31000">31000</a></li>
+<li><a href="/wiki/Portable_Document_Format" title="Portable Document Format">32000</a></li>
+<li><a href="/wiki/ISO/IEC_38500" title="ISO/IEC 38500">38500</a></li>
+<li><a href="/wiki/Web_Content_Accessibility_Guidelines" title="Web Content Accessibility Guidelines">40500</a></li>
+<li><a href="/wiki/ISO/IEC_42010" title="ISO/IEC 42010">42010</a></li>
+<li><a href="/wiki/ISO_55000" title="ISO 55000">55000</a></li>
+<li><a href="/wiki/ISO/IEC_80000" title="ISO/IEC 80000">80000</a>
+<ul>
+<li><a href="/wiki/ISO_80000-1" title="ISO 80000-1">-1</a></li>
+<li><a href="/wiki/ISO_80000-2" title="ISO 80000-2">-2</a></li>
+<li><a href="/wiki/ISO_80000-3" title="ISO 80000-3">-3</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:ISO_standards" title="Category:ISO standards">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="CAD_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CAD_software" title="Template:CAD software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CAD_software" title="Template talk:CAD software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CAD_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="CAD_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> software</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BRL-CAD" title="BRL-CAD">BRL-CAD</a></li>
+<li><a href="/wiki/FreeCAD" title="FreeCAD">FreeCAD</a></li>
+<li><a href="/wiki/HeeksCAD" title="HeeksCAD">HeeksCAD</a></li>
+<li><a href="/wiki/LibreCAD" title="LibreCAD">LibreCAD</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenSCAD" title="OpenSCAD">OpenSCAD</a></li>
+<li><a href="/wiki/QCad" title="QCad">QCad</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/SolveSpace" title="SolveSpace">SolveSpace</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_(software)" title="Electric (software)">Electric</a></li>
+<li><a href="/wiki/Fritzing" title="Fritzing">Fritzing</a></li>
+<li><a href="/wiki/GEDA" title="GEDA">gEDA</a></li>
+<li><a href="/wiki/KiCad" title="KiCad">KiCad</a></li>
+<li><a href="/wiki/KTechLab" title="KTechLab">kTechLab</a></li>
+<li><a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a></li>
+<li><a href="/wiki/Oregano_(software)" title="Oregano (software)">Oregano</a></li>
+<li><a href="/wiki/Quite_Universal_Circuit_Simulator" title="Quite Universal Circuit Simulator">QUCS</a></li>
+<li><a href="/wiki/XCircuit" title="XCircuit">XCircuit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AutoCAD" title="AutoCAD">AutoCAD</a></li>
+<li><a href="/wiki/Autodesk_Alias" title="Autodesk Alias">Autodesk Alias</a></li>
+<li><a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a></li>
+<li><a href="/wiki/Autodesk_Revit" title="Autodesk Revit">Autodesk Revit</a></li>
+<li><a href="/wiki/ArchiCAD" title="ArchiCAD">ArchiCAD</a></li>
+<li><a href="/wiki/BricsCAD" title="BricsCAD">BricsCAD</a></li>
+<li><a href="/w/index.php?title=NanoCAD&amp;action=edit&amp;redlink=1" class="new" title="NanoCAD (page does not exist)">nanoCAD Plus</a></li>
+<li><a href="/wiki/CADKEY" title="CADKEY">CADKEY</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Cimatron" title="Cimatron">Cimatron</a></li>
+<li><a href="/wiki/DesignSpark_Mechanical" title="DesignSpark Mechanical">DesignSpark Mechanical</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">PTC Creo Elements/Pro</a></li>
+<li><a href="/wiki/FastCAD" title="FastCAD">FastCAD</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/GstarCAD" title="GstarCAD">GstarCAD</a></li>
+<li><a href="/wiki/IRONCAD" title="IRONCAD">IRONCAD</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">KeyCreator</a></li>
+<li><a href="/wiki/MEDUSA" title="MEDUSA">MEDUSA</a></li>
+<li><a href="/wiki/MicroStation" title="MicroStation">MicroStation</a></li>
+<li><a href="/w/index.php?title=NanoCAD&amp;action=edit&amp;redlink=1" class="new" title="NanoCAD (page does not exist)">nanoCAD</a></li>
+<li><a href="/wiki/Onshape" title="Onshape">Onshape</a></li>
+<li><a href="/wiki/Siemens_NX" title="Siemens NX">Siemens NX</a></li>
+<li><a href="/wiki/PDMS_(software)" title="PDMS (software)">PDMS</a></li>
+<li><a href="/wiki/Pro/DESKTOP" title="Pro/DESKTOP">Pro/DESKTOP</a></li>
+<li><a href="/wiki/ProgeCAD" title="ProgeCAD">progeCAD</a></li>
+<li><a href="/wiki/Rhinoceros_3D" title="Rhinoceros 3D">Rhinoceros 3D</a>
+<ul>
+<li><a href="/wiki/Grasshopper_3D" title="Grasshopper 3D">Grasshopper 3D</a></li>
+</ul>
+</li>
+<li><a href="/wiki/RUCAPS" title="RUCAPS">RUCAPS</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a></li>
+<li><a href="/wiki/SpaceClaim" title="SpaceClaim">SpaceClaim</a></li>
+<li><a href="/wiki/T-FLEX_CAD" title="T-FLEX CAD">T-FLEX CAD</a></li>
+<li><a href="/wiki/TurboCAD" title="TurboCAD">TurboCAD</a></li>
+<li><a href="/wiki/VariCAD" title="VariCAD">VariCAD</a></li>
+<li><a href="/wiki/Vectorworks" title="Vectorworks">Vectorworks</a></li>
+<li><a href="/wiki/FINE_MEP" title="FINE MEP">FINE MEP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AutoCAD_Electrical" class="mw-redirect" title="AutoCAD Electrical">AutoCAD Electrical</a></li>
+<li><a href="/wiki/Altium_Designer" title="Altium Designer">Altium Designer</a></li>
+<li><a href="/wiki/DipTrace" title="DipTrace">DipTrace</a></li>
+<li><a href="/wiki/EAGLE_(program)" title="EAGLE (program)">EAGLE</a></li>
+<li><a href="/wiki/Micro-Cap" title="Micro-Cap">Micro-Cap</a></li>
+<li><a href="/wiki/NI_Multisim" title="NI Multisim">NI Multisim</a></li>
+<li><a href="/wiki/NI_Ultiboard" title="NI Ultiboard">NI Ultiboard</a></li>
+<li><a href="/wiki/OrCAD" title="OrCAD">OrCAD</a></li>
+<li><a href="/wiki/Protel_(CAD_software)" class="mw-redirect" title="Protel (CAD software)">Protel</a></li>
+<li><a href="/wiki/Proteus_Design_Suite" title="Proteus Design Suite">Proteus</a></li>
+<li><a href="/wiki/SolidWorks_Electrical" class="mw-redirect" title="SolidWorks Electrical">SolidWorks Electrical</a></li>
+<li><a href="/wiki/TARGET_(CAD_software)" title="TARGET (CAD software)">TARGET</a></li>
+<li><a href="/wiki/TopoR" title="TopoR">TopoR</a></li>
+<li><a href="/wiki/Upverter" title="Upverter">Upverter</a></li>
+<li><a href="/wiki/Zuken_CADSTAR" class="mw-redirect" title="Zuken CADSTAR">Zuken CADSTAR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">File formats</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D_Manufacturing_Format" title="3D Manufacturing Format">3MF</a></li>
+<li><a href="/wiki/ACIS#File_format" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/Additive_Manufacturing_File_Format" title="Additive Manufacturing File Format">AMF</a></li>
+<li><a href="/wiki/C3D#C3D_file_format" class="mw-redirect" title="C3D">C3D</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">CKD</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/Open_Packaging_Conventions" title="Open Packaging Conventions">DWFX</a></li>
+<li><a href="/wiki/.dwg" title=".dwg">DWG</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF">DXF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/Wavefront_.obj_file" title="Wavefront .obj file">OBJ</a></li>
+<li><a href="/wiki/Open_Design_Alliance" title="Open Design Alliance">OpenDWG</a></li>
+<li><a href="/wiki/PLY_(file_format)" title="PLY (file format)">PLY</a></li>
+<li><a href="/wiki/PSpice_circuit_file" title="PSpice circuit file">PSpice</a></li>
+<li><a class="mw-selflink selflink">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geometric_modeling_kernel" title="Geometric modeling kernel">Modeling kernels</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ACIS" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/C3D" class="mw-redirect" title="C3D">C3D</a></li>
+<li><a href="/wiki/Open_CASCADE_Technology" class="mw-redirect" title="Open CASCADE Technology">Open CASCADE Technology</a></li>
+<li><a href="/wiki/Parasolid" title="Parasolid">Parasolid</a></li>
+<li><a href="/wiki/Russian_Geometric_Kernel" title="Russian Geometric Kernel">RGK</a></li>
+<li><a href="/wiki/Romulus_(modelling_kernel)" title="Romulus (modelling kernel)">Romulus</a></li>
+<li><a href="/wiki/KernelCAD" title="KernelCAD">KernelCAD</a></li>
+<li><a href="/wiki/ShapeManager" title="ShapeManager">ShapeManager</a></li>
+<li><a href="/wiki/Teigha" class="mw-redirect" title="Teigha">Teigha</a></li>
+<li><a href="/wiki/IntelliCAD" title="IntelliCAD">IntelliCAD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20180213203325
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.257 seconds
+Preprocessor visited node count: 604/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74197/2097152 bytes
+Template argument size: 280/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 1.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.061      1 -total
+ 43.92%   65.467      1 Template:More_footnotes
+ 38.56%   57.483      6 Template:Navbox
+ 25.95%   38.676      1 Template:Ambox
+ 18.84%   28.076      1 Template:ISO_standards
+ 12.55%   18.703      1 Template:Vector_graphics_markup_languages
+  8.17%   12.183      1 Template:CAD_software
+  7.00%   10.437      1 Template:Icon
+  6.59%    9.817      1 Template:Main
+  5.06%    7.547      1 Template:Reflist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1240376-0!canonical and timestamp 20180213203324 and revision id 810147744
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ISO_10303&amp;oldid=810147744">https://en.wikipedia.org/w/index.php?title=ISO_10303&amp;oldid=810147744</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:ISO_standards" title="Category:ISO standards">ISO standards</a></li><li><a href="/wiki/Category:CAD_file_formats" title="Category:CAD file formats">CAD file formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_January_2010" title="Category:Articles lacking in-text citations from January 2010">Articles lacking in-text citations from January 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ISO+10303" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ISO+10303" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/ISO_10303" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:ISO_10303" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/ISO_10303">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=ISO_10303&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=ISO_10303&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/ISO_10303" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/ISO_10303" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=ISO_10303&amp;oldid=810147744" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=ISO_10303&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q302726" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ISO_10303&amp;id=810147744" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ISO+10303">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=ISO+10303&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=ISO_10303&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:ISO_10303" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Standard_for_the_exchange_of_product_model_data" title="Standard for the exchange of product model data – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/ISO_10303" title="ISO 10303 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B2%D9%88_%DB%B1%DB%B0%DB%B3%DB%B0%DB%B3" title="ایزو ۱۰۳۰۳ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Standard_pour_l%27%C3%A9change_de_donn%C3%A9es_de_produit" title="Standard pour l&#039;échange de données de produit – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/ISO_10303" title="ISO 10303 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/ISO_10303" title="ISO 10303 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/STEP" title="STEP – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/STEP_(%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82)" title="STEP (стандарт) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/ISO_10303" title="ISO 10303 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/ISO_10303" title="ISO 10303 – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q302726#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 November 2017, at 16:26.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ISO_10303&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.257","ppvisitednodes":{"value":604,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74197,"limit":2097152},"templateargumentsize":{"value":280,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  149.061      1 -total"," 43.92%   65.467      1 Template:More_footnotes"," 38.56%   57.483      6 Template:Navbox"," 25.95%   38.676      1 Template:Ambox"," 18.84%   28.076      1 Template:ISO_standards"," 12.55%   18.703      1 Template:Vector_graphics_markup_languages","  8.17%   12.183      1 Template:CAD_software","  7.00%   10.437      1 Template:Icon","  6.59%    9.817      1 Template:Main","  5.06%    7.547      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.052","limit":"10.000"},"limitreport-memusage":{"value":1732499,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20180213203325","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

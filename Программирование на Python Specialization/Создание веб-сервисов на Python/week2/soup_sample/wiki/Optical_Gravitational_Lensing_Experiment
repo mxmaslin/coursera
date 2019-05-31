@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Optical Gravitational Lensing Experiment - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Optical_Gravitational_Lensing_Experiment","wgTitle":"Optical Gravitational Lensing Experiment","wgCurRevisionId":805687460,"wgRevisionId":805687460,"wgArticleId":3847721,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles with infoboxes completely from Wikidata","Astronomical surveys","Experiments for dark matter search","Gravitational lensing","Telescopes","Exoplanet search projects","Astronomy projects"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Optical_Gravitational_Lensing_Experiment","wgRelevantArticleId":3847721,"wgRequestId":"WoAYrwpAICMAACOj8moAAADA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1032158","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/63/Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Optical_Gravitational_Lensing_Experiment rootpage-Optical_Gravitational_Lensing_Experiment skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Optical Gravitational Lensing Experiment</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em">
+<caption>Optical Gravitational Lensing Experiment</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg" class="image"><img alt="Warszawskie Obserwatorium Południowe.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg/220px-Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg" width="220" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg/330px-Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg/440px-Warszawskie_Obserwatorium_Po%C5%82udniowe.jpg 2x" data-file-width="700" data-file-height="466" /></a>
+<div>OGLE telescope at the <a href="/wiki/Las_Campanas_Observatory" title="Las Campanas Observatory">Las Campanas Observatory</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Alternative&#160;names</th>
+<td>OGLE</td>
+</tr>
+<tr>
+<th scope="row">Survey type</th>
+<td><a href="/wiki/Astronomical_survey" title="Astronomical survey">astronomical survey</a> <a href="https://www.wikidata.org/wiki/Q1032158?uselang=en#P31" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row">Target</th>
+<td><a href="/wiki/Gravitational_microlensing" title="Gravitational microlensing">gravitational microlensing</a>, <a href="/wiki/Exoplanet" title="Exoplanet">extrasolar planet</a> <a href="https://www.wikidata.org/wiki/Q1032158?uselang=en#P921" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row">Organization</th>
+<td><a href="/wiki/University_of_Warsaw" title="University of Warsaw">University of Warsaw</a> <a href="https://www.wikidata.org/wiki/Q1032158?uselang=en#P137" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row">Coordinates</th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Optical_Gravitational_Lensing_Experiment&amp;params=29.01_S_70.699_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">29°00′36″S</span> <span class="longitude">70°41′56″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">29.01°S 70.699°W</span><span style="display:none">﻿ / <span class="geo">-29.01; -70.699</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Optical_Gravitational_Lensing_Experiment&amp;params=29.01_S_70.699_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">29°00′36″S</span> <span class="longitude">70°41′56″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">29.01°S 70.699°W</span><span style="display:none">﻿ / <span class="geo">-29.01; -70.699</span></span></span></a></span></span></span> <a href="https://www.wikidata.org/wiki/Q1032158#P625" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row">Observations</th>
+<td>Warsaw Telescope <a href="https://www.wikidata.org/wiki/Q1032158?uselang=en#P121" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://ogle.astrouw.edu.pl/">ogle<wbr />.astrouw<wbr />.edu<wbr />.pl</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Optical_Gravitational_Lensing_Experiment" class="extiw" title="commons:Category:Optical Gravitational Lensing Experiment">Related media on Wikimedia Commons</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="text-align: right;">[<a href="https://www.wikidata.org/wiki/Q1032158" class="extiw" title="d:Q1032158">edit on Wikidata</a>]</div>
+</td>
+</tr>
+</table>
+<p>The <b>Optical Gravitational Lensing Experiment</b> or <i>OGLE</i> is a <a href="/wiki/Poland" title="Poland">Polish</a> <a href="/wiki/Astronomy" title="Astronomy">astronomical</a> project based at the <a href="/wiki/University_of_Warsaw" title="University of Warsaw">University of Warsaw</a> that is chiefly concerned with discovering <a href="/wiki/Dark_matter" title="Dark matter">dark matter</a> using the <a href="/wiki/Microlensing" class="mw-redirect" title="Microlensing">microlensing</a> technique. Since the project began in 1992, it has discovered several <a href="/wiki/Extrasolar_planet" class="mw-redirect" title="Extrasolar planet">extrasolar planets</a> as a bonus. The project is led by <a href="/wiki/Andrzej_Udalski" title="Andrzej Udalski">Andrzej Udalski</a>, who is a co-author of the discovery of <a href="/wiki/OGLE-2005-BLG-390Lb" title="OGLE-2005-BLG-390Lb">OGLE-2005-BLG-390Lb</a>.</p>
+<p>The main targets of the experiment are the <a href="/wiki/Magellanic_Clouds" title="Magellanic Clouds">Magellanic Clouds</a> and the <a href="/wiki/Galactic_Bulge" class="mw-redirect" title="Galactic Bulge">Galactic Bulge</a>, because of the large number of intervening stars that can be used for microlensing during a stellar <a href="/wiki/Astronomical_transit" class="mw-redirect" title="Astronomical transit">transit</a>. Most of the observations have been made at the <a href="/wiki/Las_Campanas_Observatory" title="Las Campanas Observatory">Las Campanas Observatory</a> in <a href="/wiki/Chile" title="Chile">Chile</a>. Cooperating institutions include <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> and the <a href="/wiki/Carnegie_Institution" class="mw-redirect" title="Carnegie Institution">Carnegie Institution</a>.</p>
+<p>The project is now in its fourth phase. The first phase, OGLE-I (1992–1995), was the project pilot phase; for OGLE-II (1996–2000), a <a href="/wiki/Telescope" title="Telescope">telescope</a> was specially constructed, placed in Las Campanas Observatory and dedicated to the project. The 8-chip mosaic CCD camera was built in Poland and shipped to Chile. OGLE-III (2001–2009) was primarily devoted to detecting <a href="/wiki/Gravitational_microlensing" title="Gravitational microlensing">gravitational microlensing</a> events and transiting planets in four fields: the <a href="/wiki/Galactic_Bulge" class="mw-redirect" title="Galactic Bulge">Galactic Bulge</a>, the constellation <a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a>,<sup id="cite_ref-Loeillet_2008_1-0" class="reference"><a href="#cite_note-Loeillet_2008-1">[1]</a></sup> and toward both <a href="/wiki/Magellanic_Clouds" title="Magellanic Clouds">Magellanic Clouds</a>. As a byproduct of the constant monitoring of hundreds of millions of stars, the largest catalogs of variable stars were constructed, and the first exoplanets discovered using the microlensing technique were detected. In 2010, following engineering work in 2009, the fourth and current phase, OGLE-IV, was started using a 32-chip mosaic CCD camera. The main goal for this phase is to increase the number of planetary detections using microlensing, enabled by the new camera.</p>
+<p>Recently the OGLE team, in cooperation with scientists mostly from USA, New Zealand and Japan, proved that small, Earth-like planets can exist in great distance from stars around which they revolve despite there being other stars near them.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Planets_discovered"><span class="tocnumber">1</span> <span class="toctext">Planets discovered</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Planets_discovered">Planets discovered</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit&amp;section=1" title="Edit section: Planets discovered">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At least seventeen planets have so far been discovered by the OGLE project. Eight of the planets were discovered by the <a href="/wiki/Methods_of_detecting_extrasolar_planets#Transit_method" class="mw-redirect" title="Methods of detecting extrasolar planets">transit method</a> and six by the <a href="/wiki/Methods_of_detecting_extrasolar_planets#Gravitational_microlensing" class="mw-redirect" title="Methods of detecting extrasolar planets">gravitational microlensing method</a>.</p>
+<p>Planets are shown in the order of discovery. Planets in multiple-planet systems are highlighted in yellow. Please note that list below may not be complete.</p>
+<table class="toccolours sortable" border="1" cellspacing="0" cellpadding="2" align="center" style="text-align:center; border-collapse:collapse; margin-left: 0; margin-right: auto;">
+<tr bgcolor="#A0B0FF">
+<th><a href="/wiki/Star" title="Star">Star</a></th>
+<th><a href="/wiki/Constellation" title="Constellation">Constellation</a></th>
+<th><a href="/wiki/Right_ascension" title="Right ascension">Right<br />
+ascension</a></th>
+<th><a href="/wiki/Declination" title="Declination">Declination</a></th>
+<th><a href="/wiki/Apparent_magnitude" title="Apparent magnitude">App.<br />
+mag.</a></th>
+<th><a href="/wiki/Stellar_distance" class="mw-redirect" title="Stellar distance">Distance</a> <small>(<a href="/wiki/Light_year" class="mw-redirect" title="Light year">ly</a>)</small></th>
+<th><a href="/wiki/Stellar_classification" title="Stellar classification">Spectral<br />
+type</a></th>
+<th><a href="/wiki/Planet" title="Planet">Planet</a></th>
+<th><a href="/wiki/Mass" title="Mass">Mass</a><br />
+<small>(<a href="/wiki/Jupiter_mass" title="Jupiter mass">M<sub>J</sub></a>)</small></th>
+<th><a href="/wiki/Radius" title="Radius">Radius</a><br />
+<small>(<a href="/wiki/Jupiter_radius" title="Jupiter radius">R<sub>J</sub></a>)</small></th>
+<th><a href="/wiki/Orbital_period" title="Orbital period">Orbital<br />
+period</a><br />
+<small>(<a href="/wiki/Day" title="Day">d</a>)</small></th>
+<th><a href="/wiki/Semi-major_axis" class="mw-redirect" title="Semi-major axis">Semi-major<br />
+axis</a><br />
+<small>(<a href="/wiki/Astronomical_unit" title="Astronomical unit">AU</a>)</small></th>
+<th><a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">Orbital<br />
+eccentricity</a></th>
+<th><a href="/wiki/Inclination" class="mw-redirect" title="Inclination">Inclination</a><br />
+<small>(<a href="/wiki/Degree_(angle)" title="Degree (angle)">°</a>)</small></th>
+<th>Discovery<br />
+year</th>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-10" title="OGLE-TR-10">OGLE-TR-10</a><sup id="cite_ref-Udalski2002a_4-0" class="reference"><a href="#cite_note-Udalski2002a-4">[4]</a></sup><sup id="cite_ref-Konacki2005_5-0" class="reference"><a href="#cite_note-Konacki2005-5">[5]</a></sup></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>17<sup>h</sup>&#160;51<sup>m</sup>&#160;28<sup>s</sup></td>
+<td>−29°&#160;52′&#160;34″</td>
+<td>15.78</td>
+<td>5000</td>
+<td>G2V</td>
+<td><a href="/wiki/OGLE-TR-10_b" class="mw-redirect" title="OGLE-TR-10 b">OGLE-TR-10 b</a></td>
+<td>0.63</td>
+<td>1.26</td>
+<td>3.10129</td>
+<td>0.04162</td>
+<td>0</td>
+<td>84.5</td>
+<td>2002</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-111" title="OGLE-TR-111">OGLE-TR-111</a></td>
+<td><a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a></td>
+<td>10<sup>h</sup>&#160;53<sup>m</sup>&#160;01<sup>s</sup></td>
+<td>−61°&#160;24′&#160;20″</td>
+<td>16.96</td>
+<td>5000</td>
+<td>G</td>
+<td><a href="/wiki/OGLE-TR-111_b" class="mw-redirect" title="OGLE-TR-111 b">OGLE-TR-111 b</a></td>
+<td>0.53</td>
+<td>1.0</td>
+<td>4.01610</td>
+<td>0.047</td>
+<td>0</td>
+<td>88.1</td>
+<td>2002</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-132" title="OGLE-TR-132">OGLE-TR-132</a></td>
+<td><a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a></td>
+<td>10<sup>h</sup>&#160;50<sup>m</sup>&#160;34<sup>s</sup></td>
+<td>−61°&#160;57′&#160;25″</td>
+<td>15.72</td>
+<td>7110</td>
+<td>F</td>
+<td><a href="/wiki/OGLE-TR-132_b" class="mw-redirect" title="OGLE-TR-132 b">OGLE-TR-132 b</a></td>
+<td>1.14</td>
+<td>1.18</td>
+<td>1.689868</td>
+<td>0.0306</td>
+<td>0</td>
+<td>85</td>
+<td>2003</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-56" title="OGLE-TR-56">OGLE-TR-56</a></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>17<sup>h</sup>&#160;56<sup>m</sup>&#160;35<sup>s</sup></td>
+<td>−29°&#160;32′&#160;21″</td>
+<td>16.56</td>
+<td>4892</td>
+<td>G</td>
+<td><a href="/wiki/OGLE-TR-56_b" class="mw-redirect" title="OGLE-TR-56 b">OGLE-TR-56 b</a></td>
+<td>1.29</td>
+<td>1.30</td>
+<td>1.211909</td>
+<td>0.0225</td>
+<td>0</td>
+<td>78.8</td>
+<td>2003</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-113" title="OGLE-TR-113">OGLE-TR-113</a></td>
+<td><a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a></td>
+<td>10<sup>h</sup>&#160;52<sup>m</sup>&#160;24<sup>s</sup></td>
+<td>−61°&#160;26′&#160;48″</td>
+<td>16.08</td>
+<td>1800</td>
+<td>K</td>
+<td><a href="/wiki/OGLE-TR-113_b" class="mw-redirect" title="OGLE-TR-113 b">OGLE-TR-113 b</a></td>
+<td>1.32</td>
+<td>1.09</td>
+<td>1.4324757</td>
+<td>0.0229</td>
+<td>0</td>
+<td>89.4</td>
+<td>2004</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-2003-BLG-235/MOA-2003-BLG-53" title="OGLE-2003-BLG-235/MOA-2003-BLG-53">OGLE-2003-BLG-235L<br />
+/MOA-2003-BLG-53L</a></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>18<sup>h</sup>&#160;05<sup>m</sup>&#160;16<sup>s</sup></td>
+<td>−28°&#160;53′&#160;42″</td>
+<td></td>
+<td>19000</td>
+<td>K</td>
+<td><a href="/wiki/OGLE-2003-BLG-235Lb" class="mw-redirect" title="OGLE-2003-BLG-235Lb">OGLE-2003-BLG-235Lb</a></td>
+<td>2.6</td>
+<td></td>
+<td></td>
+<td>4.3</td>
+<td></td>
+<td></td>
+<td>2004</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-2005-BLG-071L" title="OGLE-2005-BLG-071L">OGLE-2005-BLG-071L</a></td>
+<td><a href="/wiki/Scorpius" title="Scorpius">Scorpius</a></td>
+<td>17<sup>h</sup>&#160;50<sup>m</sup>&#160;09<sup>s</sup></td>
+<td>−34°&#160;40′&#160;23″</td>
+<td>19.5</td>
+<td>9500</td>
+<td>M</td>
+<td><a href="/wiki/OGLE-2005-BLG-071Lb" title="OGLE-2005-BLG-071Lb">OGLE-2005-BLG-071Lb</a></td>
+<td>3.5</td>
+<td></td>
+<td>3600</td>
+<td>3.6</td>
+<td></td>
+<td></td>
+<td>2005</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-2005-BLG-169L" title="OGLE-2005-BLG-169L">OGLE-2005-BLG-169L</a></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>18<sup>h</sup>&#160;06<sup>m</sup>&#160;05<sup>s</sup></td>
+<td>–30°&#160;43′&#160;57″</td>
+<td>19.4</td>
+<td>8800</td>
+<td>M?</td>
+<td><a href="/wiki/OGLE-2005-BLG-169Lb" title="OGLE-2005-BLG-169Lb">OGLE-2005-BLG-169Lb</a></td>
+<td>0.041</td>
+<td>0.345</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2006</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-2005-BLG-390L" title="OGLE-2005-BLG-390L">OGLE-2005-BLG-390L</a></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>17<sup>h</sup>&#160;54<sup>m</sup>&#160;19<sup>s</sup></td>
+<td>−30°&#160;22′&#160;38″</td>
+<td></td>
+<td>21500</td>
+<td>M?</td>
+<td><a href="/wiki/OGLE-2005-BLG-390Lb" title="OGLE-2005-BLG-390Lb">OGLE-2005-BLG-390Lb</a></td>
+<td>0.018</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2006</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-211" title="OGLE-TR-211">OGLE-TR-211</a></td>
+<td><a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a></td>
+<td>10<sup>h</sup>&#160;40<sup>m</sup>&#160;15<sup>s</sup></td>
+<td>−62°&#160;27′&#160;20″</td>
+<td></td>
+<td>5300</td>
+<td>F</td>
+<td><a href="/wiki/OGLE-TR-211_b" class="mw-redirect" title="OGLE-TR-211 b">OGLE-TR-211 b</a></td>
+<td>1.03</td>
+<td>1.36</td>
+<td>3.67724</td>
+<td>0.051</td>
+<td>0</td>
+<td>≥87.2</td>
+<td>2007</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE-TR-182" title="OGLE-TR-182">OGLE-TR-182</a></td>
+<td><a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a></td>
+<td>11<sup>h</sup>&#160;09<sup>m</sup>&#160;19<sup>s</sup></td>
+<td>−61°&#160;05′&#160;43″</td>
+<td>16.84</td>
+<td>12700</td>
+<td>G</td>
+<td><a href="/wiki/OGLE-TR-182_b" class="mw-redirect" title="OGLE-TR-182 b">OGLE-TR-182 b</a></td>
+<td>1.01</td>
+<td>1.13</td>
+<td>3.9791</td>
+<td>0.051</td>
+<td>0</td>
+<td>85.7</td>
+<td>2007</td>
+</tr>
+<tr>
+<td><a href="/wiki/OGLE2-TR-L9" title="OGLE2-TR-L9">OGLE2-TR-L9</a></td>
+<td><a href="/wiki/Carina_(constellation)" title="Carina (constellation)">Carina</a></td>
+<td>11<sup>h</sup>&#160;07<sup>m</sup>&#160;55<sup>s</sup></td>
+<td>−61°&#160;08′&#160;46″</td>
+<td></td>
+<td>2935</td>
+<td>F3</td>
+<td><a href="/wiki/OGLE2-TR-L9_b" class="mw-redirect" title="OGLE2-TR-L9 b">OGLE2-TR-L9 b</a></td>
+<td>4.5</td>
+<td>1.61</td>
+<td>2.4855335</td>
+<td>0.0308</td>
+<td></td>
+<td></td>
+<td>2008</td>
+</tr>
+<tr bgcolor="#FFFFB0">
+<td><a href="/wiki/OGLE-2006-BLG-109L" title="OGLE-2006-BLG-109L">OGLE-2006-BLG-109L</a></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>17<sup>h</sup>&#160;52<sup>m</sup>&#160;35<sup>s</sup></td>
+<td>−30°&#160;05′&#160;16″</td>
+<td></td>
+<td>4900</td>
+<td></td>
+<td><a href="/wiki/OGLE-2006-BLG-109Lb" title="OGLE-2006-BLG-109Lb">OGLE-2006-BLG-109Lb</a></td>
+<td>0.71</td>
+<td></td>
+<td>1825</td>
+<td>2.3</td>
+<td></td>
+<td></td>
+<td>2008</td>
+</tr>
+<tr bgcolor="#FFFFB0">
+<td><a href="/wiki/OGLE-2006-BLG-109L" title="OGLE-2006-BLG-109L">OGLE-2006-BLG-109L</a></td>
+<td><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a></td>
+<td>17<sup>h</sup>&#160;52<sup>m</sup>&#160;35<sup>s</sup></td>
+<td>−30°&#160;05′&#160;16″</td>
+<td></td>
+<td>4900</td>
+<td></td>
+<td><a href="/wiki/OGLE-2006-BLG-109Lc" title="OGLE-2006-BLG-109Lc">OGLE-2006-BLG-109Lc</a></td>
+<td>0.27</td>
+<td></td>
+<td>5100</td>
+<td>4.8</td>
+<td>0.11</td>
+<td>59</td>
+<td>2008</td>
+</tr>
+<tr bgcolor="#FFFFB0">
+<td><a href="/w/index.php?title=OGLE-2012-BLG-0026L&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2012-BLG-0026L (page does not exist)">OGLE-2012-BLG-0026L</a></td>
+<td></td>
+<td>17<sup>h</sup>&#160;34<sup>m</sup>&#160;19<sup>s</sup> 17:34:19.0</td>
+<td>−27°&#160;08′&#160;34″</td>
+<td></td>
+<td>4080</td>
+<td></td>
+<td><a href="/w/index.php?title=OGLE-2012-BLG-0026Lb&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2012-BLG-0026Lb (page does not exist)">OGLE-2012-BLG-0026Lb</a></td>
+<td>0.11</td>
+<td></td>
+<td></td>
+<td>3.82</td>
+<td></td>
+<td></td>
+<td>2012</td>
+</tr>
+<tr bgcolor="#FFFFB0">
+<td><a href="/w/index.php?title=OGLE-2012-BLG-0026L&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2012-BLG-0026L (page does not exist)">OGLE-2012-BLG-0026L</a></td>
+<td></td>
+<td>17<sup>h</sup>&#160;34<sup>m</sup>&#160;19<sup>s</sup></td>
+<td>−27°&#160;08′&#160;34″</td>
+<td></td>
+<td>4080</td>
+<td></td>
+<td><a href="/w/index.php?title=OGLE-2012-BLG-0026Lc&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2012-BLG-0026Lc (page does not exist)">OGLE-2012-BLG-0026Lc</a></td>
+<td>0.68</td>
+<td></td>
+<td></td>
+<td>4.63</td>
+<td></td>
+<td></td>
+<td>2012</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=OGLE-2011-BLG-0251&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2011-BLG-0251 (page does not exist)">OGLE-2011-BLG-0251</a></td>
+<td></td>
+<td>17<sup>h</sup>&#160;38<sup>m</sup>&#160;14<sup>s</sup></td>
+<td>−27°&#160;08′&#160;10″</td>
+<td></td>
+<td>8232</td>
+<td>M</td>
+<td><a href="/w/index.php?title=OGLE-2011-BLG-0251_b&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2011-BLG-0251 b (page does not exist)">OGLE-2011-BLG-0251 b</a></td>
+<td>0.53±0.21</td>
+<td></td>
+<td></td>
+<td>2.72±0.75 or 1.5±0.5</td>
+<td></td>
+<td></td>
+<td>2013</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=OGLE-2007-BLG-349(AB)&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2007-BLG-349(AB) (page does not exist)">OGLE-2007-BLG-349(AB)</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="/wiki/OGLE-2007-BLG-349(AB)b" title="OGLE-2007-BLG-349(AB)b">OGLE-2007-BLG-349(AB)b</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2016</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=OGLE-2016-BLG-1195L&amp;action=edit&amp;redlink=1" class="new" title="OGLE-2016-BLG-1195L (page does not exist)">OGLE-2016-BLG-1195L</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="/wiki/OGLE-2016-BLG-1195Lb" title="OGLE-2016-BLG-1195Lb">OGLE-2016-BLG-1195Lb</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2017</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:OGLE-2005-BLG-390Lb_planet.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/OGLE-2005-BLG-390Lb_planet.jpg/250px-OGLE-2005-BLG-390Lb_planet.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/OGLE-2005-BLG-390Lb_planet.jpg/375px-OGLE-2005-BLG-390Lb_planet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/OGLE-2005-BLG-390Lb_planet.jpg/500px-OGLE-2005-BLG-390Lb_planet.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OGLE-2005-BLG-390Lb_planet.jpg" class="internal" title="Enlarge"></a></div>
+Artist's impression of the planet <a href="/wiki/OGLE-2005-BLG-390Lb" title="OGLE-2005-BLG-390Lb">OGLE-2005-BLG-390Lb</a> discovered by the OGLE Team</div>
+</div>
+</div>
+<p><i>Notes: For events detected by the gravitational microlensing method, year stands for OGLE season, BLG means that an event detected is in the Galactic <b>B</b>u<b>LG</b>e, and the following 3-digit number is an ordinal number of microlensing event in that season. For events detected by the transit method TR stands for <b>TR</b>ansit and the following 3-digit number is an ordinal number of transit event.</i></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:OGLE-IV-BLG-fields-overview.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/OGLE-IV-BLG-fields-overview.png/250px-OGLE-IV-BLG-fields-overview.png" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/OGLE-IV-BLG-fields-overview.png/375px-OGLE-IV-BLG-fields-overview.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/OGLE-IV-BLG-fields-overview.png/500px-OGLE-IV-BLG-fields-overview.png 2x" data-file-width="960" data-file-height="720" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OGLE-IV-BLG-fields-overview.png" class="internal" title="Enlarge"></a></div>
+OGLE-IV Galactic Bulge fields with cadence, from <a rel="nofollow" class="external text" href="http://ogle.astrouw.edu.pl/cont/5_fields/fields4/fields.html">OGLE-IV sky coverage</a>.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/All_Sky_Automated_Survey" title="All Sky Automated Survey">All Sky Automated Survey</a></li>
+<li><a href="/wiki/Bohdan_Paczy%C5%84ski" title="Bohdan Paczyński">Bohdan Paczyński</a></li>
+<li><a href="/wiki/Grzegorz_Pojma%C5%84ski" title="Grzegorz Pojmański">Grzegorz Pojmański</a></li>
+<li><a href="/wiki/List_of_planetary_systems" class="mw-redirect" title="List of planetary systems">List of planetary systems</a></li>
+<li><a href="/wiki/Microlensing_Observations_in_Astrophysics" title="Microlensing Observations in Astrophysics">Microlensing Observations in Astrophysics</a> (MOA)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Loeillet_2008-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Loeillet_2008_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFUdalski2003" class="citation">Udalski, A. (2003), "The Optical Gravitational Lensing Experiment. Real Time Data Analysis Systems in the OGLE-III Survey", <i><a href="/wiki/Acta_Astronomica" title="Acta Astronomica">Acta Astronomica</a></i>, <b>53</b>: 291, <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0401123">astro-ph/0401123</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003AcA....53..291U">2003AcA....53..291U</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Astronomica&amp;rft.atitle=The+Optical+Gravitational+Lensing+Experiment.+Real+Time+Data+Analysis+Systems+in+the+OGLE-III+Survey&amp;rft.volume=53&amp;rft.pages=291&amp;rft.date=2003&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0401123&amp;rft_id=info%3Abibcode%2F2003AcA....53..291U&amp;rft.aulast=Udalski&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOptical+Gravitational+Lensing+Experiment" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fnp.org.pl/laureaci-fnp-odkryli-zimna-ziemie/">http://www.fnp.org.pl/laureaci-fnp-odkryli-zimna-ziemie/</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sciencemag.org/content/345/6192/46.abstract#aff-17">http://www.sciencemag.org/content/345/6192/46.abstract#aff-17</a></span></li>
+<li id="cite_note-Udalski2002a-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Udalski2002a_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Udalski, A.; et al. (2002). <a rel="nofollow" class="external text" href="http://acta.astrouw.edu.pl/Vol52/n1/a_52_1_1.html">"The Optical Gravitational Lensing Experiment. Search for Planetary and Low-Luminosity Object Transits in the Galactic Disk. Results of 2001 Campaign"</a>. <i>Acta Astronomica</i>. <b>52</b> (1): 1–37. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0202320">astro-ph/0202320</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002AcA....52....1U">2002AcA....52....1U</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Astronomica&amp;rft.atitle=The+Optical+Gravitational+Lensing+Experiment.+Search+for+Planetary+and+Low-Luminosity+Object+Transits+in+the+Galactic+Disk.+Results+of+2001+Campaign&amp;rft.volume=52&amp;rft.issue=1&amp;rft.pages=1-37&amp;rft.date=2002&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0202320&amp;rft_id=info%3Abibcode%2F2002AcA....52....1U&amp;rft.aulast=Udalski&amp;rft.aufirst=A.&amp;rft.au=Paczynski%2C+B.&amp;rft.au=%C5%BBebru%C5%84%2C+K.&amp;rft.au=Szyma%C5%84ski%2C+M.&amp;rft.au=Kubiak%2C+M.&amp;rft.au=Soszy%C5%84ski%2C+I.&amp;rft.au=Szewczyk%2C+O.&amp;rft.au=Wyrzykowski%2C+L.&amp;rft.au=Pietrzy%C5%84ski%2C+G.&amp;rft_id=http%3A%2F%2Facta.astrouw.edu.pl%2FVol52%2Fn1%2Fa_52_1_1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOptical+Gravitational+Lensing+Experiment" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Konacki2005-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Konacki2005_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Konacki, Maciej; et al. (2005). <a rel="nofollow" class="external text" href="http://iopscience.iop.org/0004-637X/624/1/372/fulltext/">"A Transiting Extrasolar Giant Planet around the Star OGLE-TR-10"</a>. <i>The Astrophysical Journal</i>. <b>624</b> (1): 372–377. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0412400">astro-ph/0412400</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2005ApJ...624..372K">2005ApJ...624..372K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1086%2F429127">10.1086/429127</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=A+Transiting+Extrasolar+Giant+Planet+around+the+Star+OGLE-TR-10&amp;rft.volume=624&amp;rft.issue=1&amp;rft.pages=372-377&amp;rft.date=2005&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0412400&amp;rft_id=info%3Adoi%2F10.1086%2F429127&amp;rft_id=info%3Abibcode%2F2005ApJ...624..372K&amp;rft.aulast=Konacki&amp;rft.aufirst=Maciej&amp;rft.au=Torres%2C+Guillermo&amp;rft.au=Sasselov%2C+Dimitar+D.&amp;rft.au=Jha%2C+Saurabh&amp;rft_id=http%3A%2F%2Fiopscience.iop.org%2F0004-637X%2F624%2F1%2F372%2Ffulltext%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOptical+Gravitational+Lensing+Experiment" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ogle.astrouw.edu.pl/">OGLE Homepage in Warsaw, Poland</a></li>
+<li>OGLE-IV <a rel="nofollow" class="external text" href="http://www.astrouw.edu.pl/~jskowron/ogle4-sky/">sky coverage maps</a></li>
+<li>Detailed <a rel="nofollow" class="external text" href="http://ogle.astrouw.edu.pl/sky/ogle4-fields.html">OGLE-IV fields</a> diagrams</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Exoplanet_search_projects" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Exoplanet_search_projects" title="Template:Exoplanet search projects"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Exoplanet_search_projects" title="Template talk:Exoplanet search projects"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Exoplanet_search_projects&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Exoplanet_search_projects" style="font-size:114%;margin:0 4em"><a href="/wiki/Exoplanet" title="Exoplanet">Exoplanet</a> <a href="/wiki/List_of_exoplanet_search_projects" title="List of exoplanet search projects">search projects</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Ground-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anglo-Australian_Planet_Search" title="Anglo-Australian Planet Search">AAPS</a></li>
+<li><a href="/wiki/Automated_Planet_Finder" title="Automated Planet Finder">APF</a></li>
+<li><a href="/wiki/Swiss_1.2-metre_Leonhard_Euler_Telescope" title="Swiss 1.2-metre Leonhard Euler Telescope">CORALIE</a></li>
+<li><a href="/wiki/East-Asian_Planet_Search_Network" title="East-Asian Planet Search Network">EAPSNet</a></li>
+<li><a href="/wiki/ELODIE_spectrograph" title="ELODIE spectrograph">ELODIE</a></li>
+<li><a href="/wiki/Extremely_Large_Telescope#Instrumentation" title="Extremely Large Telescope">EPICS</a></li>
+<li><a href="/wiki/ESPRESSO" title="ESPRESSO">ESPRESSO</a></li>
+<li><a href="/wiki/Fiber-optic_Improved_Next-generation_Doppler_Search_for_Exo-Earths" title="Fiber-optic Improved Next-generation Doppler Search for Exo-Earths">FINDS Exo-Earths</a></li>
+<li><a href="/wiki/Geneva_Extrasolar_Planet_Search" title="Geneva Extrasolar Planet Search">Geneva</a>
+<ul>
+<li><a href="/wiki/High_Accuracy_Radial_Velocity_Planet_Searcher" title="High Accuracy Radial Velocity Planet Searcher">HARPS</a></li>
+<li><a href="/wiki/HARPS-N" title="HARPS-N">HARPS-N</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gemini_Planet_Imager" title="Gemini Planet Imager">GPI</a></li>
+<li><a href="/wiki/HATNet_Project" title="HATNet Project">HATNet</a></li>
+<li><a href="/wiki/Hunt_for_Exomoons_with_Kepler" title="Hunt for Exomoons with Kepler">HEK</a></li>
+<li><a href="/wiki/HiCIAO" class="mw-redirect" title="HiCIAO">HiCIAO</a></li>
+<li><a href="/wiki/HIRES" class="mw-redirect" title="HIRES">HIRES</a></li>
+<li><a href="/wiki/Kilodegree_Extremely_Little_Telescope" title="Kilodegree Extremely Little Telescope">KELT</a></li>
+<li><a href="/wiki/Lick%E2%80%93Carnegie_Exoplanet_Survey" title="Lick–Carnegie Exoplanet Survey">LCES</a></li>
+<li><a href="/wiki/Magellan_Planet_Search_Program" title="Magellan Planet Search Program">Magellan</a></li>
+<li><a href="/wiki/MARVELS" class="mw-redirect" title="MARVELS">MARVELS</a></li>
+<li><a href="/wiki/MASCARA" title="MASCARA">MASCARA</a></li>
+<li><a href="/wiki/MEarth_Project" title="MEarth Project">MEarth</a></li>
+<li><a href="/wiki/MicroFUN" title="MicroFUN">MicroFUN</a></li>
+<li><a href="/wiki/Miniature_Exoplanet_Radial_Velocity_Array" title="Miniature Exoplanet Radial Velocity Array">MINERVA</a></li>
+<li><a href="/wiki/Microlensing_Observations_in_Astrophysics" title="Microlensing Observations in Astrophysics">MOA</a></li>
+<li><a href="/wiki/N2K_Consortium" title="N2K Consortium">N2K</a></li>
+<li><a href="/wiki/Next-Generation_Transit_Survey" title="Next-Generation Transit Survey">NGTS</a></li>
+<li><a href="/wiki/New_Mexico_Exoplanet_Spectroscopic_Survey_Instrument" title="New Mexico Exoplanet Spectroscopic Survey Instrument">NESSI</a></li>
+<li><a class="mw-selflink selflink">OGLE</a></li>
+<li><a href="/wiki/Okayama_Planet_Search_Program" title="Okayama Planet Search Program">OPSP</a></li>
+<li><a href="/wiki/PlanetPol" title="PlanetPol">PlanetPol</a></li>
+<li><a href="/wiki/Project_1640" title="Project 1640">Project 1640</a></li>
+<li><a href="/wiki/PRL_Advanced_Radial-velocity_All-sky_Search" title="PRL Advanced Radial-velocity All-sky Search">PARAS</a></li>
+<li><a href="/wiki/Strategic_Explorations_of_Exoplanets_and_Disks_with_Subaru" title="Strategic Explorations of Exoplanets and Disks with Subaru">SEEDS</a></li>
+<li><a href="/wiki/Search_for_extraterrestrial_intelligence" title="Search for extraterrestrial intelligence">SETI</a></li>
+<li><a href="/wiki/SOPHIE_%C3%A9chelle_spectrograph" title="SOPHIE échelle spectrograph">SOPHIE</a></li>
+<li><a href="/wiki/SPECULOOS" title="SPECULOOS">SPECULOOS</a></li>
+<li><a href="/wiki/Spectro-Polarimetric_High-Contrast_Exoplanet_Research" title="Spectro-Polarimetric High-Contrast Exoplanet Research">SPHERE</a></li>
+<li><a href="/wiki/SuperWASP" class="mw-redirect" title="SuperWASP">SuperWASP</a></li>
+<li><a href="/wiki/Systemic_(amateur_extrasolar_planet_search_project)" title="Systemic (amateur extrasolar planet search project)">Systemic</a></li>
+<li><a href="/wiki/Trans-Atlantic_Exoplanet_Survey" title="Trans-Atlantic Exoplanet Survey">TrES</a></li>
+<li><a href="/wiki/XO_Telescope" title="XO Telescope">XO Telescope</a></li>
+<li><a href="/wiki/ZIMPOL/CHEOPS" title="ZIMPOL/CHEOPS">ZIMPOL/CHEOPS</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:HST_SWEEPS_Detail_2006.jpg" class="image"><img alt="HST SWEEPS Detail 2006.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HST_SWEEPS_Detail_2006.jpg/80px-HST_SWEEPS_Detail_2006.jpg" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HST_SWEEPS_Detail_2006.jpg/120px-HST_SWEEPS_Detail_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HST_SWEEPS_Detail_2006.jpg/160px-HST_SWEEPS_Detail_2006.jpg 2x" data-file-width="800" data-file-height="800" /></a><br />
+<a href="/wiki/File:Keplerspacecraft-FocalPlane-cutout.svg" class="image"><img alt="Keplerspacecraft-FocalPlane-cutout.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Keplerspacecraft-FocalPlane-cutout.svg/80px-Keplerspacecraft-FocalPlane-cutout.svg.png" width="80" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Keplerspacecraft-FocalPlane-cutout.svg/120px-Keplerspacecraft-FocalPlane-cutout.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Keplerspacecraft-FocalPlane-cutout.svg/160px-Keplerspacecraft-FocalPlane-cutout.svg.png 2x" data-file-width="716" data-file-height="416" /></a><br />
+<a href="/wiki/File:LombergA1024.jpg" class="image"><img alt="LombergA1024.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/LombergA1024.jpg/80px-LombergA1024.jpg" width="80" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/LombergA1024.jpg/120px-LombergA1024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/LombergA1024.jpg/160px-LombergA1024.jpg 2x" data-file-width="1596" data-file-height="1206" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Space missions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Past and<br />
+current</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MOST_(satellite)" title="MOST (satellite)">MOST</a> <small>(2003–present)</small></li>
+<li><a href="/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search" title="Sagittarius Window Eclipsing Extrasolar Planet Search">SWEEPS</a> <small>(2006)</small></li>
+<li><a href="/wiki/COROT" title="COROT">COROT</a> <small>(2006–13)</small></li>
+<li><a href="/wiki/EPOXI" title="EPOXI">EPOXI</a> <small>(2008–13)</small></li>
+<li><i><a href="/wiki/Kepler_(spacecraft)" title="Kepler (spacecraft)">Kepler</a></i> <small>(2009–present)</small>
+<ul>
+<li><a href="/wiki/Kepler_object_of_interest" title="Kepler object of interest">KOI</a></li>
+<li><a href="/wiki/List_of_exoplanets_discovered_using_the_Kepler_spacecraft" title="List of exoplanets discovered using the Kepler spacecraft">exoplanets</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Gaia_(spacecraft)" title="Gaia (spacecraft)">Gaia</a></i> <small>(2013–present)</small></li>
+<li><a href="/wiki/ASTERIA_(spacecraft)" title="ASTERIA (spacecraft)">ASTERIA</a> <small>(2017–present)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Planned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Transiting_Exoplanet_Survey_Satellite" title="Transiting Exoplanet Survey Satellite">TESS</a> <small>(2018)</small></li>
+<li><a href="/wiki/CHEOPS" title="CHEOPS">CHEOPS</a> <small>(2018)</small></li>
+<li><a href="/wiki/James_Webb_Space_Telescope" title="James Webb Space Telescope">James Webb Space Telescope</a> <small>(2019)</small></li>
+<li><i><a href="/wiki/PLATO_(spacecraft)" title="PLATO (spacecraft)">PLATO</a></i> <small>(2026)</small></li>
+<li><a href="/wiki/Wide_Field_Infrared_Survey_Telescope" title="Wide Field Infrared Survey Telescope">WFIRST</a> <small>(mid-2020s)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Proposed</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_Technology_Large-Aperture_Space_Telescope" title="Advanced Technology Large-Aperture Space Telescope">ATLAST</a></li>
+<li><a href="/wiki/Exoplanetary_Circumstellar_Environments_and_Disk_Explorer" title="Exoplanetary Circumstellar Environments and Disk Explorer">EXCEDE</a></li>
+<li><a href="/wiki/Fast_Infrared_Exoplanet_Spectroscopy_Survey_Explorer" title="Fast Infrared Exoplanet Spectroscopy Survey Explorer">FINESSE</a></li>
+<li><a href="/wiki/Habitable_Exoplanet_Imaging_Mission" title="Habitable Exoplanet Imaging Mission">HabEx</a></li>
+<li><a href="/wiki/Large_UV_Optical_Infrared_Surveyor" title="Large UV Optical Infrared Surveyor">LUVOIR</a></li>
+<li><a href="/wiki/New_Worlds_Mission" title="New Worlds Mission">New Worlds Mission</a></li>
+<li><a href="/wiki/Origins_Space_Telescope" title="Origins Space Telescope">OST</a></li>
+<li><a href="/wiki/PEGASE" title="PEGASE">PEGASE</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: center;">Cancelled</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Darwin_(spacecraft)" title="Darwin (spacecraft)">Darwin</a></i></li>
+<li><a href="/wiki/EChO" title="EChO">EChO</a></li>
+<li><i><a href="/wiki/Eddington_(spacecraft)" title="Eddington (spacecraft)">Eddington</a></i></li>
+<li><a href="/wiki/Space_Interferometry_Mission" title="Space Interferometry Mission">Space Interferometry Mission</a></li>
+<li><a href="/wiki/Terrestrial_Planet_Finder" title="Terrestrial Planet Finder">Terrestrial Planet Finder</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Methods_of_detecting_exoplanets" title="Methods of detecting exoplanets">Detection methods</a></li>
+<li><a href="/wiki/Discoveries_of_exoplanets" title="Discoveries of exoplanets">Discoveries of exoplanets</a></li>
+<li><a href="/wiki/Lists_of_planets" title="Lists of planets">Lists of exoplanets</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Dark_matter" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Dark_matter" title="Template:Dark matter"><abbr title="View this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Dark_matter" title="Template talk:Dark matter"><abbr title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dark_matter&amp;action=edit"><abbr title="Edit this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Dark_matter" style="font-size:114%;margin:0 4em"><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;;width:1%">Forms of dark matter</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baryonic_dark_matter" title="Baryonic dark matter">Baryonic dark matter</a></li>
+<li><a href="/wiki/Cold_dark_matter" title="Cold dark matter">Cold dark matter</a></li>
+<li><a href="/wiki/Hot_dark_matter" title="Hot dark matter">Hot dark matter</a></li>
+<li><a href="/wiki/Light_dark_matter" title="Light dark matter">Light dark matter</a></li>
+<li><a href="/wiki/Mixed_dark_matter" title="Mixed dark matter">Mixed dark matter</a></li>
+<li><a href="/wiki/Warm_dark_matter" title="Warm dark matter">Warm dark matter</a></li>
+<li><a href="/wiki/Self-interacting_dark_matter" title="Self-interacting dark matter">Self-interacting dark matter</a></li>
+<li><a href="/wiki/Scalar_field_dark_matter" title="Scalar field dark matter">Scalar field dark matter</a></li>
+<li><a href="/wiki/Primordial_black_hole" title="Primordial black hole">Primordial black holes</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:1e0657_scale.jpg" class="image"><img alt="1e0657 scale.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1e0657_scale.jpg/180px-1e0657_scale.jpg" width="180" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1e0657_scale.jpg/270px-1e0657_scale.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1e0657_scale.jpg/360px-1e0657_scale.jpg 2x" data-file-width="3000" data-file-height="2168" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;;width:1%">Hypothetical particles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Axino" title="Axino">Axino</a></li>
+<li><a href="/wiki/Axion" title="Axion">Axion</a></li>
+<li><a href="/wiki/Dark_photon" title="Dark photon">Dark photon</a></li>
+<li><a href="/wiki/Holeum" title="Holeum">Holeum</a></li>
+<li><a href="/wiki/Lightest_Supersymmetric_Particle" title="Lightest Supersymmetric Particle">LSP</a></li>
+<li><a href="/wiki/Minicharged_particle" title="Minicharged particle">Minicharged particle</a></li>
+<li><a href="/wiki/Neutralino" title="Neutralino">Neutralino</a></li>
+<li><a href="/wiki/Sterile_neutrino" title="Sterile neutrino">Sterile neutrino</a></li>
+<li><a href="/wiki/Strongly_interacting_massive_particle" title="Strongly interacting massive particle">SIMP</a></li>
+<li><a href="/wiki/Weakly_interacting_massive_particles" title="Weakly interacting massive particles">WIMP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;;width:1%">Theories and objects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cuspy_halo_problem" title="Cuspy halo problem">Cuspy halo problem</a></li>
+<li><a href="/wiki/Dark_fluid" title="Dark fluid">Dark fluid</a></li>
+<li><a href="/wiki/Dark_galaxy" title="Dark galaxy">Dark galaxy</a></li>
+<li><a href="/wiki/Dark_globular_cluster" title="Dark globular cluster">Dark globular cluster</a></li>
+<li><a href="/wiki/Dark_matter_halo" title="Dark matter halo">Dark matter halo</a></li>
+<li><a href="/wiki/Dark_radiation" title="Dark radiation">Dark radiation</a></li>
+<li><a href="/wiki/Dark_star_(dark_matter)" title="Dark star (dark matter)">Dark star</a></li>
+<li><a href="/wiki/Dwarf_galaxy_problem" title="Dwarf galaxy problem">Dwarf galaxy problem</a></li>
+<li><a href="/wiki/ELKO_field" class="mw-redirect" title="ELKO field">ELKO field</a></li>
+<li><a href="/wiki/Halo_mass_function" title="Halo mass function">Halo mass function</a></li>
+<li><a href="/wiki/Massive_compact_halo_object" title="Massive compact halo object">Massive compact halo object</a></li>
+<li><a href="/wiki/Mirror_matter" title="Mirror matter">Mirror matter</a></li>
+<li><a href="/wiki/Navarro%E2%80%93Frenk%E2%80%93White_profile" title="Navarro–Frenk–White profile">Navarro–Frenk–White profile</a></li>
+<li><a href="/wiki/Scalar_field_dark_matter" title="Scalar field dark matter">Scalar field dark matter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;;width:1%">Search experiments</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align:center;">Direct detection</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ANAIS" title="ANAIS">ANAIS</a></li>
+<li><a href="/wiki/ArDM" title="ArDM">ArDM</a></li>
+<li><a href="/wiki/Axion_Dark_Matter_Experiment" title="Axion Dark Matter Experiment">ADMX</a></li>
+<li><a href="/wiki/China_Dark_Matter_Experiment" title="China Dark Matter Experiment">CDEX</a></li>
+<li><a href="/wiki/Cryogenic_Dark_Matter_Search" title="Cryogenic Dark Matter Search">CDMS</a></li>
+<li><a href="/wiki/CoGeNT" title="CoGeNT">CoGeNT</a></li>
+<li><a href="/wiki/PICO" title="PICO">COUPP</a></li>
+<li><a href="/wiki/Cryogenic_Rare_Event_Search_with_Superconducting_Thermometers" title="Cryogenic Rare Event Search with Superconducting Thermometers">CRESST</a></li>
+<li><a href="/wiki/DAMA/LIBRA" title="DAMA/LIBRA">DAMA/LIBRA</a></li>
+<li><a href="/wiki/DAMA/NaI" title="DAMA/NaI">DAMA/NaI</a></li>
+<li><a href="/wiki/DarkSide" title="DarkSide">DarkSide</a></li>
+<li><a href="/wiki/DEAP" title="DEAP">DEAP</a></li>
+<li><a href="/wiki/Dark_Matter_Time_Projection_Chamber" title="Dark Matter Time Projection Chamber">DMTPC</a></li>
+<li><a href="/wiki/Directional_Recoil_Identification_from_Tracks" title="Directional Recoil Identification from Tracks">DRIFT</a></li>
+<li><a href="/wiki/EDELWEISS" title="EDELWEISS">EDELWEISS</a></li>
+<li><a href="/wiki/European_Underground_Rare_Event_Calorimeter_Array" title="European Underground Rare Event Calorimeter Array">EURECA</a></li>
+<li><a href="/wiki/Korea_Invisible_Mass_Search" title="Korea Invisible Mass Search">KIMS</a></li>
+<li><a href="/wiki/Large_Underground_Xenon_experiment" title="Large Underground Xenon experiment">LUX</a></li>
+<li><a href="/wiki/LZ_experiment" title="LZ experiment">LZ</a></li>
+<li><a href="/wiki/PandaX" title="PandaX">PandaX</a></li>
+<li><a href="/wiki/PICO" title="PICO">PICO</a></li>
+<li><a href="/wiki/SIMPLE_(dark_matter_experiment)" title="SIMPLE (dark matter experiment)">SIMPLE</a></li>
+<li><a href="/wiki/UK_Dark_Matter_Collaboration" title="UK Dark Matter Collaboration">UKDMC</a></li>
+<li><a href="/wiki/WIMP_Argon_Programme" title="WIMP Argon Programme">WARP</a></li>
+<li><a href="/wiki/XENON" title="XENON">XENON</a></li>
+<li><a href="/wiki/ZEPLIN-III" title="ZEPLIN-III">ZEPLIN-III</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align:center;">Indirect detection</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alpha_Magnetic_Spectrometer" title="Alpha Magnetic Spectrometer">AMS-02</a></li>
+<li><a href="/wiki/Advanced_Thin_Ionization_Calorimeter" title="Advanced Thin Ionization Calorimeter">ATIC</a></li>
+<li><a href="/wiki/Calorimetric_Electron_Telescope" title="Calorimetric Electron Telescope">CALET</a></li>
+<li><a href="/wiki/CERN_Axion_Solar_Telescope" title="CERN Axion Solar Telescope">CAST</a></li>
+<li><a href="/wiki/Dark_Matter_Particle_Explorer" title="Dark Matter Particle Explorer">DAMPE</a></li>
+<li><a href="/wiki/IceCube_Neutrino_Observatory" title="IceCube Neutrino Observatory">IceCube</a></li>
+<li><a href="/wiki/Microlensing_Observations_in_Astrophysics" title="Microlensing Observations in Astrophysics">MOA</a></li>
+<li><a class="mw-selflink selflink">OGLE</a></li>
+<li><a href="/wiki/PAMELA_detector" title="PAMELA detector">PAMELA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align:center;">Other projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MultiDark" title="MultiDark">MultiDark</a></li>
+<li><a href="/wiki/PVLAS" title="PVLAS">PVLAS</a></li>
+<li><a href="/wiki/SNOLAB" title="SNOLAB">SNOLAB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;;width:1%">Potential <a href="/wiki/Dark_galaxy" title="Dark galaxy">dark galaxies</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HE0450-2958" title="HE0450-2958">HE0450-2958</a></li>
+<li><a href="/wiki/HVC_127-41-330" title="HVC 127-41-330">HVC 127-41-330</a></li>
+<li><a href="/wiki/Smith%27s_Cloud" title="Smith's Cloud">Smith's Cloud</a></li>
+<li><a href="/wiki/VIRGOHI21" title="VIRGOHI21">VIRGOHI21</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;;width:1%">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dark_energy" title="Dark energy">Dark energy</a></li>
+<li><a href="/wiki/Exotic_matter" title="Exotic matter">Exotic matter</a></li>
+<li><a href="/wiki/Galaxy_formation_and_evolution" title="Galaxy formation and evolution">Galaxy formation and evolution</a></li>
+<li><a href="/wiki/Illustris_project" title="Illustris project">Illustris project</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20180211012242
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.304 seconds
+Real time usage: 0.403 seconds
+Preprocessor visited node count: 2041/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 82513/2097152 bytes
+Template argument size: 4359/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 3.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  277.760      1 -total
+ 57.03%  158.400      1 Template:Infobox_astronomical_survey
+ 54.48%  151.336      1 Template:Infobox
+ 23.13%   64.245      1 Template:Reflist
+ 13.28%   36.893      1 Template:Citation
+  9.11%   25.291      4 Template:Navbox
+  8.18%   22.718     17 Template:DEC
+  7.18%   19.952      1 Template:If_first_display_both
+  6.69%   18.578     17 Template:Str_rep
+  5.47%   15.181      1 Template:Exoplanet_search_projects
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3847721-0!canonical and timestamp 20180211012242 and revision id 805687460
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;oldid=805687460">https://en.wikipedia.org/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;oldid=805687460</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Astronomical_surveys" title="Category:Astronomical surveys">Astronomical surveys</a></li><li><a href="/wiki/Category:Experiments_for_dark_matter_search" title="Category:Experiments for dark matter search">Experiments for dark matter search</a></li><li><a href="/wiki/Category:Gravitational_lensing" title="Category:Gravitational lensing">Gravitational lensing</a></li><li><a href="/wiki/Category:Telescopes" title="Category:Telescopes">Telescopes</a></li><li><a href="/wiki/Category:Exoplanet_search_projects" title="Category:Exoplanet search projects">Exoplanet search projects</a></li><li><a href="/wiki/Category:Astronomy_projects" title="Category:Astronomy projects">Astronomy projects</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_infoboxes_completely_from_Wikidata" title="Category:Articles with infoboxes completely from Wikidata">Articles with infoboxes completely from Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Optical+Gravitational+Lensing+Experiment" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Optical+Gravitational+Lensing+Experiment" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Optical_Gravitational_Lensing_Experiment" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Optical_Gravitational_Lensing_Experiment" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Optical_Gravitational_Lensing_Experiment">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Optical_Gravitational_Lensing_Experiment" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Optical_Gravitational_Lensing_Experiment" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;oldid=805687460" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1032158" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Optical_Gravitational_Lensing_Experiment&amp;id=805687460" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Optical+Gravitational+Lensing+Experiment">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Optical+Gravitational+Lensing+Experiment&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Optical_Gravitational_Lensing_Experiment" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D8%B9%D8%AF%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B0%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9" title="تجربة العدسية الجذبية الضوئية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/OGLE" title="OGLE – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/OGLE" title="OGLE – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/OGLE" title="OGLE – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment" title="Optical Gravitational Lensing Experiment – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/OGLE" title="OGLE – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/OGLE" title="OGLE – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment" title="Optical Gravitational Lensing Experiment – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment" title="Optical Gravitational Lensing Experiment – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/OGLE" title="OGLE – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment" title="Optical Gravitational Lensing Experiment – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment" title="Optical Gravitational Lensing Experiment – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%AD%B8%E9%87%8D%E5%8A%9B%E9%80%8F%E9%8F%A1%E5%AF%A6%E9%A9%97" title="光學重力透鏡實驗 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1032158#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 October 2017, at 00:21.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Optical_Gravitational_Lensing_Experiment&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.403","ppvisitednodes":{"value":2041,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":82513,"limit":2097152},"templateargumentsize":{"value":4359,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  277.760      1 -total"," 57.03%  158.400      1 Template:Infobox_astronomical_survey"," 54.48%  151.336      1 Template:Infobox"," 23.13%   64.245      1 Template:Reflist"," 13.28%   36.893      1 Template:Citation","  9.11%   25.291      4 Template:Navbox","  8.18%   22.718     17 Template:DEC","  7.18%   19.952      1 Template:If_first_display_both","  6.69%   18.578     17 Template:Str_rep","  5.47%   15.181      1 Template:Exoplanet_search_projects"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":3673171,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20180211012242","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1333"});});</script>
+	</body>
+</html>

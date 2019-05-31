@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wakanda (software) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wakanda_(software)","wgTitle":"Wakanda (software)","wgCurRevisionId":814699037,"wgRevisionId":814699037,"wgArticleId":34450571,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with topics of unclear notability from January 2012","All articles with topics of unclear notability","Official website different in Wikidata and Wikipedia","HTML5","JavaScript","JavaScript libraries","Ajax (programming)","Free software programmed in JavaScript","Free database management systems","NoSQL","Software using the GNU AGPL license","JavaScript web frameworks"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wakanda_(software)","wgRelevantArticleId":34450571,"wgRequestId":"WofxAwpAMFoAAGGYKKAAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1251023","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wakanda_(software)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wakanda_(software)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wakanda_(software)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wakanda_(software)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wakanda_software rootpage-Wakanda_software skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Wakanda (software)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Notability" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">The topic of this article <b>may not meet Wikipedia's <a href="/wiki/Wikipedia:Notability_(organizations_and_companies)#Products_and_services" title="Wikipedia:Notability (organizations and companies)">notability guidelines for products and services</a></b>. <span class="hide-when-compact">Please help to establish notability by citing <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable secondary sources</a> that are <a href="/wiki/Wikipedia:Independent_sources" class="mw-redirect" title="Wikipedia:Independent sources">independent</a> of the topic and provide significant coverage of it beyond its mere trivial mention. If notability cannot be established, the article is likely to be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a>, <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirected</a>, or <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">deleted</a>.<br />
+<small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Wakanda%22+software&amp;num=50">"Wakanda"&#160;software</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?q=%22Wakanda%22+software&amp;tbm=nws">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Wakanda%22+software+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Wakanda%22+software">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Wakanda%22+software">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Wakanda%22+software&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small><i>(January 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Wakanda</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Logo-Wakanda.io.png" class="image"><img alt="Logo-Wakanda.io.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-Wakanda.io.png/320px-Logo-Wakanda.io.png" width="320" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-Wakanda.io.png/480px-Logo-Wakanda.io.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-Wakanda.io.png/640px-Logo-Wakanda.io.png 2x" data-file-width="1717" data-file-height="423" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Original author(s)</a></th>
+<td><a href="/wiki/Laurent_Ribardiere" class="mw-redirect" title="Laurent Ribardiere">Laurent Ribardiere</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>Wakanda SAS</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>March&#160;15, 2012<span class="noprint">; 5 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2012-03-15</span>)</span></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>2.1.0 <small>(July&#160;27, 2017<span class="noprint">; 6 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2017-07-27</span>)</span>)</small> <small class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/Wakanda_(software)&amp;action=edit">[±]</a></small></td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>Active</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a>, <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/BSD" class="mw-redirect" title="BSD">BSD</a>, <a href="/wiki/Linux" title="Linux">Linux</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a> and <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Available in</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/NoSQL" title="NoSQL">NoSQL</a> <a href="/wiki/Object_database" title="Object database">Object database</a> <a href="/wiki/Web_framework" title="Web framework">Web framework</a> <a href="/wiki/Server-Side_JavaScript" class="mw-redirect" title="Server-Side JavaScript">Server-Side JavaScript</a> <a href="/wiki/Mobile_application_development" class="mw-redirect" title="Mobile application development">Mobile application development</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td>Community / Enterprise / Cloud</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://wakanda.io/">wakanda<wbr />.io</a></span></td>
+</tr>
+</table>
+<p><b>Wakanda</b> is a <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> platform<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> to develop and run web or mobile apps.</p>
+<p>It is based on open standards technologies including <a href="/wiki/AngularJS" title="AngularJS">AngularJS</a>, <a href="/wiki/Ionic_(mobile_app_framework)" title="Ionic (mobile app framework)">Ionic</a>, <a href="/wiki/Node.js" title="Node.js">Node.js</a>, and <a href="/wiki/TypeScript" title="TypeScript">TypeScript</a>, and is supported on <a href="/wiki/Linux" title="Linux">Linux</a> (deployment only), <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, and <a href="/wiki/MacOS" title="MacOS">macOS</a> (Studio development).</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Platform"><span class="tocnumber">1</span> <span class="toctext">Platform</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Architecture"><span class="tocnumber">3</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Platform">Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit&amp;section=1" title="Edit section: Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wakanda consists of a stack of tools and technologies:</p>
+<dl>
+<dt>Wakanda Server</dt>
+<dd>Combines an <a href="/wiki/Object-relational_database" title="Object-relational database">object-relational database</a> with a <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> server engine.: Provides a <a href="/wiki/Database_abstraction_layer" title="Database abstraction layer">Database Abstraction Layer</a> for DB and Web Services, an automated <a href="/wiki/RESTful_API" class="mw-redirect" title="RESTful API">Restful API</a> generated and powerful security layer management.</dd>
+<dt>Wakanda Studio</dt>
+<dd>Is a desktop <a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a> with editors for designing the data model. It is shaped for Web and Mobile Apps. It provides building functionalities for mobile development (using <a href="/wiki/Apache_Cordova" title="Apache Cordova">Apache Cordova</a>).</dd>
+<dt>Wakanda Client Connector</dt>
+<dd>Consists of a data provider to communicate with the server and front-end frameworks like <a href="/wiki/AngularJS" title="AngularJS">AngularJS</a> 1 &amp; 2 and <a href="/wiki/Ionic_(mobile_app_framework)" title="Ionic (mobile app framework)">Ionic 1 &amp; 2</a>.</dd>
+</dl>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Starting in 2008 with the server, Wakanda was first presented at The Ajax Experience in 2009<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and then the same year at JSConf.eu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A private Developer Preview was made accessible in 2010 with a first version of the Wakanda Studio including a Model Designer and a GUI Designer. Wakanda came to public attention in June 2011 with a new Developer Preview, with a second public Developer Preview announced during the "Wakanday - JS.everywhere(Boston, October, 2011)" conference,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and the first Beta on December,&#160;15th.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Wakanda is available as a Live Release version since March 15, 2012.</p>
+<p>On June 28, 2012, the first version of Wakanda was officially launched.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> On October 26, 2012 it was demonstrated at the JS.everywhere() conference, in the US<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and France.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>First involved in the <a href="/wiki/CommonJS" title="CommonJS">CommonJS</a> working group since 2009, the team created the "Client and Server <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> APIs" W3C Community Group <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> in April 2012, before joining the <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a> in October 2012.</p>
+<p>The company Wakanda SAS was created in December 2014.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> On the December 7, 2015 the Wakanda Digital App Factory was officially launched.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>In 2016, Wakanda was named Cool Vendor by Gartner.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit&amp;section=3" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wakanda Server supports <a href="/wiki/CommonJS" title="CommonJS">CommonJS</a> modules, <a href="/wiki/Web_Workers" class="mw-redirect" title="Web Workers">Web Workers</a>, <a href="/wiki/Web_Storage" class="mw-redirect" title="Web Storage">Web Storage</a>, <a href="/wiki/XMLHttpRequest" title="XMLHttpRequest">XMLHttpRequest</a>, <a href="/wiki/HTML5_File_API" title="HTML5 File API">HTML5 File API</a>, Blobs, Timers. It implements the <a href="/wiki/Firebug_(software)" title="Firebug (software)">Firebug</a> <a rel="nofollow" class="external text" href="https://github.com/mrennie/crossfire/wiki">Crossfire Debugger protocol</a>, as well as the <a href="/wiki/WebKit" title="WebKit">WebKit</a> <a rel="nofollow" class="external text" href="https://code.google.com/p/chromedevtools/wiki/WebKitProtocol">remote debugging protocol</a>.</p>
+<p>The WakandaDB <a href="/wiki/NoSQL" title="NoSQL">NoSQL</a> engine is accessed via <a href="/wiki/HTTP" class="mw-redirect" title="HTTP">HTTP</a>, inspired by the <a href="/wiki/OData" class="mw-redirect" title="OData">OData</a> <a href="/wiki/REST_API" class="mw-redirect" title="REST API">REST API</a>, integrates connectors to interact with tiers databases: <a href="/wiki/MySQL" title="MySQL">MySQL</a>, <a href="/wiki/Microsoft_SQL_Server" title="Microsoft SQL Server">Microsoft SQL Server</a> and <a href="/wiki/Open_Database_Connectivity" title="Open Database Connectivity">ODBC</a>.</p>
+<p>Wakanda supports some of the <a href="/wiki/Node.js" title="Node.js">Node.js</a> modules including EventEmitter, Socket, and <a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">TLS</a>. Wakanda includes other open source projects as part of its default packages. Wakanda Server is built with <a href="/wiki/JavaScriptCore" class="mw-redirect" title="JavaScriptCore">JavaScriptCore</a>, <a href="/wiki/International_Components_for_Unicode" title="International Components for Unicode">ICU</a>, <a href="/wiki/OpenSSL" title="OpenSSL">OpenSSL</a> and <a href="/wiki/Zlib" title="Zlib">Zlib</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_Clear_device_cdrom_unmount.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/28px-Crystal_Clear_device_cdrom_unmount.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/42px-Crystal_Clear_device_cdrom_unmount.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/56px-Crystal_Clear_device_cdrom_unmount.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Software" title="Portal:Software">software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Ionic_(mobile_app_framework)" title="Ionic (mobile app framework)">Ionic</a></li>
+<li><a href="/wiki/Apache_Cordova" title="Apache Cordova">Apache Cordova</a></li>
+<li><a href="/wiki/NoSQL" title="NoSQL">NoSQL</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.pcmag.com/business/directory/app-builders/1306-wakanda">"Wakanda"</a>. <i>PCMag Business Software Index</i>. 2016-05-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PCMag+Business+Software+Index&amp;rft.atitle=Wakanda&amp;rft.date=2016-05-09&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Fbusiness%2Fdirectory%2Fapp-builders%2F1306-wakanda&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakanda+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ajaxexperience.techtarget.com/conference/html/eventsataglance.html">"Models: A Relationship Guide for Ajax Developers" (The Ajax Experience 2009)</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://jsconf09.sched.org/event/8084d76beecfebea2cfbfa5d38e43930">"Wakanda: a new end-to-end JavaScript platform (SquirrelFish), with remote JS debugging, JS/REST database" (JSConf.eu 2009)</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wakanday.org/">Wakanday - JS.everywhere(Boston, October, 2011)</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wakanda.org/blog/wakanda-v1-beta">Wakanda: "Beta is here!"</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.4d.com/de/blog/4d-launches-wakanda.html">4D Launches Wakanda</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://jse2012.eventbrite.com/?discount=6QVDE/">http://jse2012.eventbrite.com/?discount=6QVDE/</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.solutions-numeriques.com/js-everywhere-2012-javascript-entre-en-entreprise/">http://www.solutions-numeriques.com/js-everywhere-2012-javascript-entre-en-entreprise/</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.w3.org/community/jseverywhere/">"Client and Server JavaScript APIs" W3C Community Group</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wakanda.github.io/about-wakanda">"Wakanda's story"</a>. <i>Wakanda Digital App Factory</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wakanda+Digital+App+Factory&amp;rft.atitle=Wakanda%27s+story&amp;rft_id=https%3A%2F%2Fwakanda.github.io%2Fabout-wakanda&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakanda+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.wakanda.io/digital-app-factory-1-0-0-the-countdown-is-launched/">"Digital App Factory 1.0.0: The countdown is started!"</a>. <i>Wakanda Blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wakanda+Blog&amp;rft.atitle=Digital+App+Factory+1.0.0%3A+The+countdown+is+started%21&amp;rft_id=http%3A%2F%2Fblog.wakanda.io%2Fdigital-app-factory-1-0-0-the-countdown-is-launched%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakanda+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gartner.com/doc/3317317/cool-vendors-application-development-">"Cool Vendors in Application Development, 2016"</a>. <i>www.gartner.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.gartner.com&amp;rft.atitle=Cool+Vendors+in+Application+Development%2C+2016&amp;rft_id=https%3A%2F%2Fwww.gartner.com%2Fdoc%2F3317317%2Fcool-vendors-application-development-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakanda+%28software%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://wakanda.io">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://wakanda.github.io/doc/">Documentation</a> and <a rel="nofollow" class="external text" href="https://wakanda.github.io/get-started/">Quick start tutorial</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="ECMAScript" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ECMAScript" title="Template:ECMAScript"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ECMAScript" title="Template talk:ECMAScript"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ECMAScript&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="ECMAScript" style="font-size:114%;margin:0 4em"><a href="/wiki/ECMAScript" title="ECMAScript">ECMAScript</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Dialects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ActionScript" title="ActionScript">ActionScript</a></li>
+<li><a href="/wiki/Caja_project" title="Caja project">Caja</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>
+<ul>
+<li><a href="/wiki/JavaScript_engine" title="JavaScript engine">engines</a></li>
+<li><a href="/wiki/Asm.js" title="Asm.js">asm.js</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JScript" title="JScript">JScript</a></li>
+<li><a href="/wiki/JScript_.NET" title="JScript .NET">JScript .NET</a></li>
+<li><a href="/wiki/QtScript" title="QtScript">QtScript</a></li>
+<li><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a></li>
+<li><a href="/wiki/WMLScript" title="WMLScript">WMLScript</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_ECMAScript_engines" title="List of ECMAScript engines">Engines</a><br />
+(<a href="/wiki/Comparison_of_layout_engines_(ECMAScript)" title="Comparison of layout engines (ECMAScript)">comparison</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Presto_(layout_engine)#JavaScript_engines" title="Presto (layout engine)">Carakan</a></li>
+<li><a href="/wiki/Presto_(layout_engine)#JavaScript_engines" title="Presto (layout engine)">Futhark</a></li>
+<li><a href="/wiki/InScript_(JavaScript_engine)" title="InScript (JavaScript engine)">InScript</a></li>
+<li><a href="/wiki/WebKit#JavaScriptCore" title="WebKit">JavaScriptCore</a></li>
+<li><a href="/wiki/JScript" title="JScript">JScript</a></li>
+<li><a href="/wiki/KJS_(software)" title="KJS (software)">KJS</a></li>
+<li><a href="/wiki/Presto_(layout_engine)#ECMAScript_engines" title="Presto (layout engine)">Linear B</a></li>
+<li><a href="/wiki/Narcissus_(JavaScript_engine)" title="Narcissus (JavaScript engine)">Narcissus</a></li>
+<li><a href="/wiki/QtScript" title="QtScript">QtScript</a></li>
+<li><a href="/wiki/Rhino_(JavaScript_engine)" title="Rhino (JavaScript engine)">Rhino</a></li>
+<li><a href="/wiki/SpiderMonkey" title="SpiderMonkey">SpiderMonkey</a>
+<ul>
+<li><a href="/wiki/SpiderMonkey#TraceMonkey" title="SpiderMonkey">TraceMonkey</a></li>
+<li><a href="/wiki/SpiderMonkey#JägerMonkey" title="SpiderMonkey">JägerMonkey</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tamarin_(software)" title="Tamarin (software)">Tamarin</a></li>
+<li><a href="/wiki/V8_(JavaScript_engine)" class="mw-redirect" title="V8 (JavaScript engine)">V8</a></li>
+<li><a href="/wiki/Chakra_(JavaScript_engine)" title="Chakra (JavaScript engine)">ChakraCore</a>
+<ul>
+<li><a href="/wiki/Chakra_(JScript_engine)" title="Chakra (JScript engine)">Chakra</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JScript_.NET" title="JScript .NET">JScript .NET</a></li>
+<li><a href="/wiki/Nashorn_(JavaScript_engine)" title="Nashorn (JavaScript engine)">Nashorn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_framework" title="Software framework">Frameworks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Client-side_JavaScript" class="mw-redirect" title="Client-side JavaScript">Client-side</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo</a></li>
+<li><a href="/wiki/Echo_(framework)" title="Echo (framework)">Echo</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Google Web Toolkit</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Lively_Kernel" title="Lively Kernel">Lively Kernel</a></li>
+<li><a href="/wiki/Midori_JavaScript_Framework" title="Midori JavaScript Framework">midori</a></li>
+<li><a href="/wiki/MochiKit" title="MochiKit">MochiKit</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Qooxdoo" title="Qooxdoo">qooxdoo</a></li>
+<li><a href="/wiki/Rialto_Toolkit" title="Rialto Toolkit">Rialto</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/SmartClient" title="SmartClient">SmartClient</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/Spry_framework" title="Spry framework">Spry</a></li>
+<li><a class="mw-selflink selflink">Wakanda Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Server-side_JavaScript" class="mw-redirect" title="Server-side JavaScript">Server-side</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppJet" title="AppJet">AppJet</a></li>
+<li><a href="/wiki/Jaxer#Aptana_Jaxer" class="mw-redirect" title="Jaxer">Jaxer</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a class="mw-selflink selflink">WakandaDB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Multiple</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cappuccino_(application_development_framework)" title="Cappuccino (application development framework)">Cappuccino</a>
+<ul>
+<li><a href="/wiki/Objective-J" title="Objective-J">Objective-J</a></li>
+</ul>
+</li>
+<li><a href="/wiki/PureMVC" title="PureMVC">PureMVC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript_library" title="JavaScript library">Libraries</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/SWFObject" title="SWFObject">SWFObject</a></li>
+<li><a href="/wiki/SWFAddress" title="SWFAddress">SWFAddress</a></li>
+<li><a href="/wiki/Underscore.js" title="Underscore.js">Underscore.js</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brendan_Eich" title="Brendan Eich">Brendan Eich</a></li>
+<li><a href="/wiki/Douglas_Crockford" title="Douglas Crockford">Douglas Crockford</a></li>
+<li><a href="/wiki/John_Resig" title="John Resig">John Resig</a></li>
+<li><a href="/wiki/Scott_Isaacs" title="Scott Isaacs">Scott Isaacs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dynamic_HTML" title="Dynamic HTML">DHTML</a></li>
+<li><a href="/wiki/Ecma_International" title="Ecma International">Ecma International</a></li>
+<li><a href="/wiki/JSDoc" title="JSDoc">JSDoc</a></li>
+<li><a href="/wiki/JSGI" title="JSGI">JSGI</a></li>
+<li><a href="/wiki/JSHint" title="JSHint">JSHint</a></li>
+<li><a href="/wiki/JSLint" title="JSLint">JSLint</a></li>
+<li><a href="/wiki/JSON" title="JSON">JSON</a></li>
+<li><a href="/wiki/JavaScript_Style_Sheets" title="JavaScript Style Sheets">JSSS</a></li>
+<li><a href="/wiki/Sputnik_(JavaScript_conformance_test)" title="Sputnik (JavaScript conformance test)">Sputnik</a></li>
+<li><a href="/wiki/Browser_speed_test#SunSpider" title="Browser speed test">SunSpider</a></li>
+<li><a href="/wiki/Asynchronous_module_definition" title="Asynchronous module definition">Asynchronous module definition</a></li>
+<li><a href="/wiki/CommonJS" title="CommonJS">CommonJS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> Lists</dt>
+<dd><a href="/wiki/List_of_JavaScript_libraries" title="List of JavaScript libraries">JavaScript libraries</a></dd>
+<dd><a href="/wiki/List_of_Ajax_frameworks#JavaScript" title="List of Ajax frameworks">Ajax frameworks</a></dd>
+<dt><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> Comparisons</dt>
+<dd><a href="/wiki/Comparison_of_JavaScript_frameworks" title="Comparison of JavaScript frameworks">JavaScript frameworks</a></dd>
+<dd><a href="/wiki/Comparison_of_server-side_JavaScript_solutions" class="mw-redirect" title="Comparison of server-side JavaScript solutions">server-side JavaScript</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="JavaScript" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:JavaScript" title="Template:JavaScript"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:JavaScript" title="Template talk:JavaScript"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:JavaScript&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="JavaScript" style="font-size:114%;margin:0 4em"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Static_code_analysis" class="mw-redirect" title="Static code analysis">Code analysis</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JSHint" title="JSHint">JSHint</a></li>
+<li><a href="/wiki/JSLint" title="JSLint">JSLint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Transcompiler" class="mw-redirect" title="Transcompiler">Transcompilers</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CoffeeScript" title="CoffeeScript">CoffeeScript</a></li>
+<li><a href="/wiki/Dart_(programming_language)" title="Dart (programming language)">Dart</a></li>
+<li><a href="/wiki/Emscripten" title="Emscripten">Emscripten</a></li>
+<li><a href="/wiki/Google_Closure_Compiler" class="mw-redirect" title="Google Closure Compiler">Google Closure Compiler</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Google Web Toolkit</a></li>
+<li><a href="/wiki/Morfik" title="Morfik">Morfik</a></li>
+<li><a href="/wiki/TypeScript" title="TypeScript">TypeScript</a></li>
+<li><a href="/wiki/AtScript" title="AtScript">AtScript</a></li>
+<li><a href="/wiki/Opa_(programming_language)" title="Opa (programming language)">Opa</a></li>
+<li><a href="/wiki/Haxe" title="Haxe">Haxe</a></li>
+<li><a href="/wiki/ClojureScript" class="mw-redirect" title="ClojureScript">ClojureScript</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ajax_(programming)" title="Ajax (programming)">Ajax</a></li>
+<li><a href="/wiki/Client-side_JavaScript" class="mw-redirect" title="Client-side JavaScript">Client-side</a></li>
+<li><a href="/wiki/Dynamic_HTML" title="Dynamic HTML">Dynamic HTML</a></li>
+<li><a href="/wiki/JavaScript_library" title="JavaScript library">JavaScript library</a></li>
+<li><a href="/wiki/JavaScript_syntax" title="JavaScript syntax">JavaScript syntax</a></li>
+<li><a href="/wiki/Unobtrusive_JavaScript" title="Unobtrusive JavaScript">Unobtrusive JavaScript</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Debugger" title="Debugger">Debuggers</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Firebug_(software)" title="Firebug (software)">Firebug</a></li>
+<li><a href="/wiki/Komodo_IDE" title="Komodo IDE">Komodo IDE</a></li>
+<li><a href="/wiki/Microsoft_Script_Debugger" title="Microsoft Script Debugger">Microsoft Script Debugger</a></li>
+<li><a href="/wiki/Microsoft_Script_Editor" title="Microsoft Script Editor">Microsoft Script Editor</a></li>
+<li><a href="/wiki/Opera_Dragonfly" title="Opera Dragonfly">Opera Dragonfly</a></li>
+<li><a href="/w/index.php?title=Venkman&amp;action=edit&amp;redlink=1" class="new" title="Venkman (page does not exist)">Venkman</a></li>
+<li><a href="/wiki/Web_Inspector" class="mw-redirect" title="Web Inspector">Web Inspector</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Documentation_generator" title="Documentation generator">Doc generators</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JSDoc" title="JSDoc">JSDoc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Editors (<span style="font-weight:normal"><a href="/wiki/Comparison_of_JavaScript-based_source_code_editors" title="Comparison of JavaScript-based source code editors">comparison</a></span>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ace_(editor)" title="Ace (editor)">Ace</a>
+<ul>
+<li><a href="/wiki/Cloud9_IDE" title="Cloud9 IDE">Cloud9 IDE</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atom_(text_editor)" title="Atom (text editor)">Atom</a></li>
+<li><a href="/wiki/CodeMirror" title="CodeMirror">CodeMirror</a>
+<ul>
+<li><a href="/wiki/Light_Table_(software)" title="Light Table (software)">Light Table</a></li>
+<li><a href="/wiki/Brackets_(text_editor)" title="Brackets (text editor)">Brackets</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Koding" title="Koding">Koding</a></li>
+<li><a href="/wiki/List_of_Eclipse_projects#Top-level_sub-projects" title="List of Eclipse projects">Orion</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio" title="Microsoft Visual Studio">Visual Studio</a>
+<ul>
+<li><a href="/wiki/Microsoft_Visual_Studio_Express" title="Microsoft Visual Studio Express">Visual Studio Express</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Visual_Studio_Code" title="Visual Studio Code">Visual Studio Code</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio#Team_Services" title="Microsoft Visual Studio">Visual Studio Team Services</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Engines</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_layout_engines_(ECMAScript)" title="Comparison of layout engines (ECMAScript)">Comparison of layout engines</a></li>
+<li><a href="/wiki/List_of_ECMAScript_engines" title="List of ECMAScript engines">List of ECMAScript engines</a></li>
+<li><a href="/wiki/JavaScript_engine#JavaScript_engines" title="JavaScript engine">List of JavaScript engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_framework" title="Software framework">Frameworks</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_JavaScript_frameworks" title="Comparison of JavaScript frameworks">Comparison of JavaScript frameworks</a></li>
+<li><a href="/wiki/List_of_JavaScript_libraries" title="List of JavaScript libraries">List of JavaScript libraries</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related <a href="/wiki/Technology" title="Technology">technologies</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a></li>
+<li><a href="/wiki/Document_Object_Model" title="Document Object Model">Document Object Model</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><a href="/wiki/JSON" title="JSON">JSON</a></li>
+<li><a href="/wiki/WebAssembly" title="WebAssembly">WebAssembly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Package_manager" title="Package manager">Package managers</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Npm_(software)" title="Npm (software)">npm</a></li>
+<li><a href="/wiki/NuGet" title="NuGet">NuGet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Server-side_JavaScript" class="mw-redirect" title="Server-side JavaScript">Server-side</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_Server_Pages" title="Active Server Pages">Active Server Pages</a></li>
+<li><a href="/wiki/CommonJS" title="CommonJS">CommonJS</a></li>
+<li><a href="/wiki/JSGI" title="JSGI">JSGI</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a class="mw-selflink selflink">Wakanda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unit_testing" title="Unit testing">Unit testing</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jasmine_(JavaScript_framework)" class="mw-redirect" title="Jasmine (JavaScript framework)">Jasmine</a></li>
+<li><a href="/wiki/Mocha_(JavaScript_framework)" title="Mocha (JavaScript framework)">Mocha</a></li>
+<li><a href="/wiki/QUnit" title="QUnit">QUnit</a></li>
+<li><a href="/wiki/List_of_unit_testing_frameworks#JavaScript" title="List of unit testing frameworks">List of JavaScript unit testing frameworks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Douglas_Crockford" title="Douglas Crockford">Douglas Crockford</a></li>
+<li><a href="/wiki/Brendan_Eich" title="Brendan Eich">Brendan Eich</a></li>
+<li><a href="/wiki/John_Resig" title="John Resig">John Resig</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_frameworks" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_frameworks" title="Template:Web frameworks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_frameworks" title="Template talk:Web frameworks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_frameworks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_frameworks" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_framework" title="Web framework">Web frameworks</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">Comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/C%2B%2B" title="C++">C++</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CppCMS" title="CppCMS">CppCMS</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a>
+<ul>
+<li><a href="/wiki/ASP.NET_Core" title="ASP.NET Core">Core</a></li>
+<li><a href="/wiki/ASP.NET_AJAX" title="ASP.NET AJAX">AJAX</a></li>
+<li><a href="/wiki/ASP.NET_Dynamic_Data" title="ASP.NET Dynamic Data">Dynamic Data</a></li>
+<li><a href="/wiki/ASP.NET_MVC" title="ASP.NET MVC">MVC</a></li>
+<li><a href="/wiki/ASP.NET_Razor" title="ASP.NET Razor">Razor</a></li>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">Web Forms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DotNetNuke" title="DotNetNuke">DNN</a></li>
+<li><a href="/wiki/Base_One_Foundation_Component_Library" title="Base One Foundation Component Library">BFC</a></li>
+<li><a href="/wiki/MonoRail_(software)" title="MonoRail (software)">MonoRail</a></li>
+<li><a href="/wiki/OpenRasta" title="OpenRasta">OpenRasta</a></li>
+<li><a href="/wiki/Umbraco" title="Umbraco">Umbraco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Adobe_ColdFusion" title="Adobe ColdFusion">ColdFusion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ColdFusion_on_Wheels" title="ColdFusion on Wheels">CFWheels</a></li>
+<li><a href="/wiki/ColdBox_Platform" title="ColdBox Platform">ColdBox Platform</a></li>
+<li><a href="/wiki/ColdSpring_Framework" title="ColdSpring Framework">ColdSpring</a></li>
+<li><a href="/wiki/Fusebox_(programming)" title="Fusebox (programming)">Fusebox</a></li>
+<li><a href="/wiki/Mach-II" title="Mach-II">Mach-II</a></li>
+<li><a href="/wiki/Model-Glue" title="Model-Glue">Model-Glue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caveman2" title="Caveman2">Caveman2</a></li>
+<li><a href="/wiki/CL-HTTP" title="CL-HTTP">CL-HTTP</a></li>
+<li><a href="/wiki/UnCommon_Web" title="UnCommon Web">UnCommon Web</a></li>
+<li><a href="/wiki/Weblocks" title="Weblocks">Weblocks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Happstack" title="Happstack">Happstack</a></li>
+<li><a href="/wiki/Yesod_(web_framework)" title="Yesod (web framework)">Yesod</a></li>
+<li><a href="/wiki/Snap_(web_framework)" title="Snap (web framework)">Snap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppFuse" title="AppFuse">AppFuse</a></li>
+<li><a href="/wiki/Flexive" title="Flexive">Flexive</a></li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a></li>
+<li><a href="/wiki/ICEfaces" title="ICEfaces">ICEfaces</a></li>
+<li><a href="/wiki/ItsNat" title="ItsNat">ItsNat</a></li>
+<li><a href="/wiki/JavaServer_Faces" title="JavaServer Faces">JavaServer Faces</a></li>
+<li><a href="/wiki/JHipster" title="JHipster">JHipster</a></li>
+<li><a href="/wiki/Jspx-bay" title="Jspx-bay">Jspx</a></li>
+<li><a href="/wiki/JWt_(Java_web_toolkit)" title="JWt (Java web toolkit)">JWt</a></li>
+<li><a href="/wiki/OpenXava" title="OpenXava">OpenXava</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Reasonable_Server_Faces" title="Reasonable Server Faces">Reasonable Server Faces</a></li>
+<li><a href="/wiki/Remote_Application_Platform" title="Remote Application Platform">Remote Application Platform</a></li>
+<li><a href="/wiki/RIFE" title="RIFE">RIFE</a></li>
+<li><a href="/wiki/JBoss_Seam" title="JBoss Seam">Seam</a></li>
+<li><a href="/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="/wiki/Spring_Framework#Model-view-controller_framework" title="Spring Framework">Spring</a></li>
+<li><a href="/wiki/Stripes_(framework)" title="Stripes (framework)">Stripes</a></li>
+<li><a href="/wiki/Apache_Struts" class="mw-redirect" title="Apache Struts">Struts</a></li>
+<li><a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="/wiki/Vaadin" title="Vaadin">Vaadin</a></li>
+<li><a href="/wiki/Vert.x" title="Vert.x">Vert.x</a></li>
+<li><a href="/wiki/WebWork" title="WebWork">WebWork</a></li>
+<li><a href="/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+<li><a href="/wiki/ZK_(framework)" title="ZK (framework)">ZK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Angular_(application_platform)" title="Angular (application platform)">Angular</a>/<a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo Toolkit</a></li>
+<li><a href="/wiki/Ember.js" title="Ember.js">Ember.js</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/OpenUI5" title="OpenUI5">OpenUI5</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/React_(JavaScript_library)" title="React (JavaScript library)">React</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/Sencha_Touch" title="Sencha Touch">Sencha Touch</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a class="mw-selflink selflink">Wakanda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Perl" title="Perl">Perl</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" class="mw-redirect" title="Maypole framework">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/WebGUI" title="WebGUI">WebGUI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/PHP" title="PHP">PHP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CakePHP" title="CakePHP">CakePHP</a></li>
+<li><a href="/wiki/CodeIgniter" title="CodeIgniter">CodeIgniter</a></li>
+<li><a href="/wiki/Drupal" title="Drupal">Drupal</a></li>
+<li><a href="/wiki/Fat-Free_Framework" title="Fat-Free Framework">Fat-Free</a></li>
+<li><a href="/wiki/FuelPHP" title="FuelPHP">FuelPHP</a></li>
+<li><a href="/wiki/TYPO3_Flow" title="TYPO3 Flow">Flow</a></li>
+<li><a href="/wiki/Gyroscope_(software)" title="Gyroscope (software)">Gyroscope</a></li>
+<li><a href="/wiki/Horde_(software)" title="Horde (software)">Horde</a></li>
+<li><a href="/wiki/Kohana_(framework)" title="Kohana (framework)">Kohana</a></li>
+<li><a href="/wiki/Laravel" title="Laravel">Laravel</a></li>
+<li><a href="/wiki/Lithium_(software)" class="mw-redirect" title="Lithium (software)">Lithium</a></li>
+<li><a href="/wiki/Midgard_(software)" title="Midgard (software)">Midgard</a></li>
+<li><a href="/wiki/MODX" title="MODX">MODX</a></li>
+<li><a href="/wiki/Nette_Framework" title="Nette Framework">Nette</a></li>
+<li><a href="/wiki/Phalcon_(framework)" title="Phalcon (framework)">Phalcon</a></li>
+<li><a href="/wiki/Pop_PHP_Framework" title="Pop PHP Framework">Pop PHP</a></li>
+<li><a href="/wiki/PRADO_(framework)" title="PRADO (framework)">PRADO</a></li>
+<li><a href="/wiki/ProcessWire" title="ProcessWire">ProcessWire</a></li>
+<li><a href="/wiki/Qcodo" title="Qcodo">Qcodo</a></li>
+<li><a href="/wiki/Silex_(web_framework)" title="Silex (web framework)">Silex</a></li>
+<li><a href="/wiki/SilverStripe" title="SilverStripe">SilverStripe</a></li>
+<li><a href="/wiki/Symfony" title="Symfony">Symfony</a></li>
+<li><a href="/wiki/TYPO3" title="TYPO3">TYPO3</a></li>
+<li><a href="/wiki/Xaraya" title="Xaraya">Xaraya</a></li>
+<li><a href="/wiki/XOOPS" title="XOOPS">XOOPS</a></li>
+<li><a href="/wiki/Yii" title="Yii">Yii</a></li>
+<li><a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope#BlueBream" title="Zope">BlueBream</a></li>
+<li><a href="/wiki/CherryPy" title="CherryPy">CherryPy</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Flask_(web_framework)" title="Flask (web framework)">Flask</a></li>
+<li><a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a></li>
+<li><a href="/wiki/Nevow" title="Nevow">Nevow</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Pylons_project#Pylons_Framework" title="Pylons project">Pylons</a></li>
+<li><a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid</a></li>
+<li><a href="/wiki/Quixote_(web_framework)" title="Quixote (web framework)">Quixote</a></li>
+<li><a href="/wiki/TACTIC_(web_framework)" title="TACTIC (web framework)">TACTIC</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/TurboGears" title="TurboGears">TurboGears</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Webware_for_Python" title="Webware for Python">Webware</a></li>
+<li><a href="/wiki/Zope#Zope_2" title="Zope">Zope 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Camping_(microframework)" title="Camping (microframework)">Camping</a></li>
+<li><a href="/wiki/Merb" title="Merb">Merb</a></li>
+<li><a href="/wiki/Padrino_(web_framework)" title="Padrino (web framework)">Padrino</a></li>
+<li><a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Ruby on Rails</a></li>
+<li><a href="/wiki/Sinatra_(software)" title="Sinatra (software)">Sinatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lift_(web_framework)" title="Lift (web framework)">Lift</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Scalatra" title="Scalatra">Scalatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDA/Web" title="AIDA/Web">AIDA/Web</a></li>
+<li><a href="/wiki/Seaside_(software)" title="Seaside (software)">Seaside</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other languages</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vibe.d" title="Vibe.d">Vibe.d</a> (<a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>)</li>
+<li><a href="/wiki/Oracle_Application_Express" title="Oracle Application Express">Application Express</a> (<a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a>)</li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a> (<a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a>)</li>
+<li><a href="/wiki/Kepler_(software)" title="Kepler (software)">Kepler</a> (<a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>)</li>
+<li><a href="/wiki/Rocket" title="Rocket">Rocket</a> (<a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>)</li>
+<li><a href="/wiki/OpenACS" class="mw-redirect" title="OpenACS">OpenACS</a> (<a href="/wiki/Tcl" title="Tcl">Tcl</a>)</li>
+<li><a href="/w/index.php?title=Phoenix_(web_framework)&amp;action=edit&amp;redlink=1" class="new" title="Phoenix (web framework) (page does not exist)">Phoenix</a> (<a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a>)</li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a> (<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>-<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>)</li>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a> (<a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20180217073939
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.358 seconds
+Preprocessor visited node count: 1699/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 97896/2097152 bytes
+Template argument size: 1648/2097152 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 3/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 4.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  271.246      1 -total
+ 32.38%   87.839      2 Template:Infobox
+ 29.10%   78.940      1 Template:Infobox_software
+ 27.46%   74.481      1 Template:Notability
+ 19.52%   52.943      1 Template:Reflist
+ 18.71%   50.763      1 Template:Ambox
+ 12.13%   32.896      1 Template:Cite_news
+ 10.69%   28.992      4 Template:Navbox
+  7.55%   20.468      1 Template:Infobox_software/simple
+  7.51%   20.362      1 Template:Find_sources_mainspace
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34450571-0!canonical and timestamp 20180217073939 and revision id 814699037
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wakanda_(software)&amp;oldid=814699037">https://en.wikipedia.org/w/index.php?title=Wakanda_(software)&amp;oldid=814699037</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:HTML5" title="Category:HTML5">HTML5</a></li><li><a href="/wiki/Category:JavaScript" title="Category:JavaScript">JavaScript</a></li><li><a href="/wiki/Category:JavaScript_libraries" title="Category:JavaScript libraries">JavaScript libraries</a></li><li><a href="/wiki/Category:Ajax_(programming)" title="Category:Ajax (programming)">Ajax (programming)</a></li><li><a href="/wiki/Category:Free_software_programmed_in_JavaScript" title="Category:Free software programmed in JavaScript">Free software programmed in JavaScript</a></li><li><a href="/wiki/Category:Free_database_management_systems" title="Category:Free database management systems">Free database management systems</a></li><li><a href="/wiki/Category:NoSQL" title="Category:NoSQL">NoSQL</a></li><li><a href="/wiki/Category:Software_using_the_GNU_AGPL_license" title="Category:Software using the GNU AGPL license">Software using the GNU AGPL license</a></li><li><a href="/wiki/Category:JavaScript_web_frameworks" title="Category:JavaScript web frameworks">JavaScript web frameworks</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_topics_of_unclear_notability_from_January_2012" title="Category:Articles with topics of unclear notability from January 2012">Articles with topics of unclear notability from January 2012</a></li><li><a href="/wiki/Category:All_articles_with_topics_of_unclear_notability" title="Category:All articles with topics of unclear notability">All articles with topics of unclear notability</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wakanda+%28software%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wakanda+%28software%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wakanda_(software)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Wakanda_(software)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wakanda_(software)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Wakanda_(software)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wakanda_(software)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wakanda_(software)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wakanda_(software)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wakanda_(software)&amp;oldid=814699037" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wakanda_(software)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1251023" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wakanda_%28software%29&amp;id=814699037" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wakanda+%28software%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wakanda+%28software%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wakanda_(software)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/Wakanda" title="Wakanda – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wakanda" title="Wakanda – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Wakanda" title="Wakanda – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1251023#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 December 2017, at 11:00.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wakanda_(software)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.358","ppvisitednodes":{"value":1699,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97896,"limit":2097152},"templateargumentsize":{"value":1648,"limit":2097152},"expansiondepth":{"value":29,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  271.246      1 -total"," 32.38%   87.839      2 Template:Infobox"," 29.10%   78.940      1 Template:Infobox_software"," 27.46%   74.481      1 Template:Notability"," 19.52%   52.943      1 Template:Reflist"," 18.71%   50.763      1 Template:Ambox"," 12.13%   32.896      1 Template:Cite_news"," 10.69%   28.992      4 Template:Navbox","  7.55%   20.468      1 Template:Infobox_software/simple","  7.51%   20.362      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":5103425,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20180217073939","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List comprehension - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_comprehension","wgTitle":"List comprehension","wgCurRevisionId":816851839,"wgRevisionId":816851839,"wgArticleId":275744,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with example code","Articles with example Haskell code","Articles with example Python code","Programming constructs","Articles with example Racket code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_comprehension","wgRelevantArticleId":275744,"wgRequestId":"Wn@ugApAMFYAACAaBg8AAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q795065","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.pygments":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_comprehension"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_comprehension&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_comprehension&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_comprehension"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_comprehension rootpage-List_comprehension skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">List comprehension</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>list comprehension</b> is a <a href="/wiki/Syntax_of_programming_languages" class="mw-redirect" title="Syntax of programming languages">syntactic</a> construct available in some <a href="/wiki/Programming_language" title="Programming language">programming languages</a> for creating a list based on existing <a href="/wiki/List_(computing)" class="mw-redirect" title="List (computing)">lists</a>. It follows the form of the mathematical <i><a href="/wiki/Set-builder_notation" title="Set-builder notation">set-builder notation</a></i> (<i>set comprehension</i>) as distinct from the use of <a href="/wiki/Map_(higher-order_function)" title="Map (higher-order function)">map</a> and <a href="/wiki/Filter_(higher-order_function)" title="Filter (higher-order function)">filter</a> functions.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Examples_in_different_programming_languages"><span class="tocnumber">3</span> <span class="toctext">Examples in different programming languages</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Similar_constructs"><span class="tocnumber">4</span> <span class="toctext">Similar constructs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Monad_comprehension"><span class="tocnumber">4.1</span> <span class="toctext">Monad comprehension</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Set_comprehension"><span class="tocnumber">4.2</span> <span class="toctext">Set comprehension</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Dictionary_comprehension"><span class="tocnumber">4.3</span> <span class="toctext">Dictionary comprehension</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Parallel_list_comprehension"><span class="tocnumber">4.4</span> <span class="toctext">Parallel list comprehension</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#XQuery_and_XPath"><span class="tocnumber">4.5</span> <span class="toctext">XQuery and XPath</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#LINQ_in_C#"><span class="tocnumber">4.6</span> <span class="toctext">LINQ in C#</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#C++"><span class="tocnumber">4.7</span> <span class="toctext">C++</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Haskell"><span class="tocnumber">6.1</span> <span class="toctext">Haskell</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#OCaml"><span class="tocnumber">6.2</span> <span class="toctext">OCaml</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Python"><span class="tocnumber">6.3</span> <span class="toctext">Python</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Common_Lisp"><span class="tocnumber">6.4</span> <span class="toctext">Common Lisp</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Clojure"><span class="tocnumber">6.5</span> <span class="toctext">Clojure</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Axiom"><span class="tocnumber">6.6</span> <span class="toctext">Axiom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Consider the following example in <a href="/wiki/Set-builder_notation" title="Set-builder notation">set-builder notation</a>.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S=\{\,2\cdot x\mid x\in \mathbb {N} ,\ x^{2}&gt;3\,\}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mspace width="thinmathspace" />
+        <mn>2</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>x</mi>
+        <mo>&#x2223;<!-- ∣ --></mo>
+        <mi>x</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+        <mo>,</mo>
+        <mtext>&#xA0;</mtext>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&gt;</mo>
+        <mn>3</mn>
+        <mspace width="thinmathspace" />
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S=\{\,2\cdot x\mid x\in \mathbb {N} ,\ x^{2}&gt;3\,\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/273daad1ada1f879a1c6f8cdaf5423eb8131d0d5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:27.913ex; height:3.176ex;" alt="S=\{\,2\cdot x\mid x \in \mathbb{N},\ x^2&gt;3\,\}" /></span></dd>
+</dl>
+<p>This can be read, "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.499ex; height:2.176ex;" alt="S" /></span> is the set of all numbers "2 times <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x" /></span>" where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x" /></span> is an item in the set of <a href="/wiki/Natural_number" title="Natural number">natural numbers</a> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbb {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {N} " /></span>), for which <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x" /></span> squared is greater than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 3}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>3</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 3}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/991e33c6e207b12546f15bdfee8b5726eafbbb2f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;" alt="3" /></span>."</p>
+<p>The smallest natural number, x = 1, fails to satisfy the condition x<sup>2</sup>&gt;3 (the condition 1<sup>2</sup>&gt;3 is false) so 2 ·1 is not included in S. The next natural number, 2, does satisfy the condition (2<sup>2</sup>&gt;3) as does every other natural number. Thus S consists of 2 ·2, 2 ·3, 2 ·4... so S = 4, 6, 8, 10,... i.e., all even numbers greater than 2.</p>
+<p>In this annotated version of the example:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S=\{\,\underbrace {2\cdot x} _{\color {Violet}{\text{output expression}}}\mid \underbrace {x} _{\color {Violet}{\text{variable}}}\in \underbrace {\mathbb {N} } _{\color {Violet}{\text{input set}}},\ \underbrace {x^{2}&gt;3} _{\color {Violet}{\text{predicate}}}\,\}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mspace width="thinmathspace" />
+        <munder>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+            <munder>
+              <mrow>
+                <mn>2</mn>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <mi>x</mi>
+              </mrow>
+              <mo>&#x23DF;<!-- ⏟ --></mo>
+            </munder>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mstyle mathcolor="#58429B">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>output expression</mtext>
+              </mrow>
+            </mstyle>
+          </mrow>
+        </munder>
+        <mo>&#x2223;<!-- ∣ --></mo>
+        <munder>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+            <munder>
+              <mi>x</mi>
+              <mo>&#x23DF;<!-- ⏟ --></mo>
+            </munder>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mstyle mathcolor="#58429B">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>variable</mtext>
+              </mrow>
+            </mstyle>
+          </mrow>
+        </munder>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <munder>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+            <munder>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="double-struck">N</mi>
+              </mrow>
+              <mo>&#x23DF;<!-- ⏟ --></mo>
+            </munder>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mstyle mathcolor="#58429B">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>input set</mtext>
+              </mrow>
+            </mstyle>
+          </mrow>
+        </munder>
+        <mo>,</mo>
+        <mtext>&#xA0;</mtext>
+        <munder>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+            <munder>
+              <mrow>
+                <msup>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+                <mo>&gt;</mo>
+                <mn>3</mn>
+              </mrow>
+              <mo>&#x23DF;<!-- ⏟ --></mo>
+            </munder>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mstyle mathcolor="#58429B">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>predicate</mtext>
+              </mrow>
+            </mstyle>
+          </mrow>
+        </munder>
+        <mspace width="thinmathspace" />
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S=\{\,\underbrace {2\cdot x} _{\color {Violet}{\text{output expression}}}\mid \underbrace {x} _{\color {Violet}{\text{variable}}}\in \underbrace {\mathbb {N} } _{\color {Violet}{\text{input set}}},\ \underbrace {x^{2}&gt;3} _{\color {Violet}{\text{predicate}}}\,\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8cc639ecfd1200a7fa8c18ed8624443b6f550ace" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.171ex; width:45.686ex; height:6.509ex;" alt="S=\{\,\underbrace{2\cdot x}_{\color{Violet}{\text{output expression}}}\mid \underbrace{x}_{\color{Violet}{\text{variable}}} \in \underbrace{\mathbb{N}}_{\color{Violet}{\text{input set}}},\ \underbrace{x^2&gt;3}_{\color{Violet}{\text{predicate}}}\,\}" /></span></dd>
+</dl>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x" /></span> is the variable representing members of an input set.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbb {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {N} " /></span> represents the input set, which in this example is the set of natural numbers</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x^{2}&gt;3}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&gt;</mo>
+        <mn>3</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{2}&gt;3}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66f5674402c8d90fd29f829d89d8ccc67efba4be" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.645ex; height:2.676ex;" alt="x^2&gt;3" /></span> is a <a href="/wiki/Predicate_(logic)" class="mw-redirect" title="Predicate (logic)">predicate</a> expression acting as a filter on members of the input set.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 2\cdot x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2\cdot x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31ff6145eb06b9724034b07d945719dd7fb50c0a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.171ex; height:2.176ex;" alt="2\cdot x" /></span> is an output expression producing members of the new set from members of the input set that satisfy the predicate expression.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \{\}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">{</mo>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \{\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e6f1caa524dfcc90158ad69a51b5f9577fe5f1f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.325ex; height:2.843ex;" alt="\{\}" /></span> braces indicate that the result is a set</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mid }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2223;<!-- ∣ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mid }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f7b2136e276c4aec285a6c40b91180c16432b9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:0.647ex; height:2.843ex;" alt="\mid " /></span> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle ,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8fa4cba3a446de313920e16251756e27312b825" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:0.647ex; height:1.176ex;" alt="," /></span> the vertical bar and the comma are separators.</li>
+</ul>
+<p>A list comprehension has the same syntactic components to represent generation of a list in order from an input <a href="/wiki/List_(computing)" class="mw-redirect" title="List (computing)">list</a> or <a href="/wiki/Iterator" title="Iterator">iterator</a>:</p>
+<ul>
+<li>A variable representing members of an input list.</li>
+<li>An input list (or iterator).</li>
+<li>An optional predicate expression.</li>
+<li>And an output expression producing members of the output list from members of the input iterable that satisfy the predicate.</li>
+</ul>
+<p>The order of generation of members of the output list is based on the order of items in the input.</p>
+<p>In <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell's</a> list comprehension syntax, this set-builder construct would be written similarly, as:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="nf">s</span> <span class="ow">=</span> <span class="p">[</span> <span class="mi">2</span><span class="o">*</span><span class="n">x</span> <span class="o">|</span> <span class="n">x</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="mi">0</span><span class="o">..</span><span class="p">],</span> <span class="n">x</span><span class="o">^</span><span class="mi">2</span> <span class="o">&gt;</span> <span class="mi">3</span> <span class="p">]</span>
+</pre></div>
+<p>Here, the list <code>[0..]</code> represents <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbb {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {N} " /></span>, <code>x^2&gt;3</code> represents the predicate, and <code>2*x</code> represents the output expression.</p>
+<p>List comprehensions give results in a defined order (unlike the members of sets); and list comprehensions may <a href="/wiki/Generator_(computer_science)" class="mw-redirect" title="Generator (computer science)">generate</a> the members of a list in order, rather than produce the entirety of the list thus allowing, for example, the previous Haskell definition of the members of an infinite list.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/SETL" title="SETL">SETL</a> programming language (1969) has a set formation construct which is similar to list comprehensions. This code prints all prime numbers from 2 to N:</p>
+<pre>
+   print([n in [2..N] | forall m in {2..n - 1} | n mod m &gt; 0]);
+</pre>
+<p>The <a href="/wiki/Computer_algebra_system" title="Computer algebra system">computer algebra system</a> <a href="/wiki/Axiom_(computer_algebra_system)" title="Axiom (computer algebra system)">AXIOM</a> (1973) has a similar construct that processes <a href="/wiki/Stream_(computing)" title="Stream (computing)">streams</a>, but the first use of the term "comprehension" for such constructs was in Rod Burstall and John Darlington's description of their functional programming language <a href="/wiki/NPL_programming_language" class="mw-redirect" title="NPL programming language">NPL</a> from 1977.</p>
+<p><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> block context messages which constitute list comprehensions have been in that language since at least Smalltalk-80.</p>
+<p>Burstall and Darlington's work with NPL influenced many functional programming languages during the 1980s, but not all included list comprehensions. An exception was the influential pure lazy functional programming language <a href="/wiki/Miranda_programming_language" class="mw-redirect" title="Miranda programming language">Miranda</a>, which was released in 1985. The subsequently developed standard pure lazy functional language <a href="/wiki/Haskell_programming_language" class="mw-redirect" title="Haskell programming language">Haskell</a> includes many of Miranda's features, including list comprehensions.</p>
+<p>Comprehensions were proposed as a query notation for databases<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and were implemented in the <i>Kleisli</i> database query language.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Examples_in_different_programming_languages">Examples in different programming languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=3" title="Edit section: Examples in different programming languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Comparison_of_programming_languages_(list_comprehension)" title="Comparison of programming languages (list comprehension)">Comparison of programming languages (list comprehension)</a></div>
+<h2><span class="mw-headline" id="Similar_constructs">Similar constructs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=4" title="Edit section: Similar constructs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Monad_comprehension">Monad comprehension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=5" title="Edit section: Monad comprehension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Haskell, a <a href="/wiki/Monads_in_functional_programming#do-notation" class="mw-redirect" title="Monads in functional programming">monad comprehension</a> is a generalization of the list comprehension to other <a href="/wiki/Monads_in_functional_programming" class="mw-redirect" title="Monads in functional programming">monads in functional programming</a>.</p>
+<h3><span class="mw-headline" id="Set_comprehension">Set comprehension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=6" title="Edit section: Set comprehension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Version 3.x and 2.7 of the Python language introduces syntax for <a href="/wiki/Set_(computer_science)" class="mw-redirect" title="Set (computer science)">set</a> comprehensions. Similar in form to list comprehensions, set comprehensions generate Python sets instead of lists.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">s</span> <span class="o">=</span> <span class="p">{</span><span class="n">v</span> <span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="s1">'ABCDABCD'</span> <span class="k">if</span> <span class="n">v</span> <span class="ow">not</span> <span class="ow">in</span> <span class="s1">'CB'</span><span class="p">}</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="k">print</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+<span class="p">{</span><span class="s1">'A'</span><span class="p">,</span> <span class="s1">'D'</span><span class="p">}</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="nb">type</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+<span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">set</span><span class="s1">'&gt;</span>
+<span class="o">&gt;&gt;&gt;</span>
+</pre></div>
+<p><a href="/wiki/Racket_(programming_language)" title="Racket (programming language)">Racket</a> set comprehensions generate Racket sets instead of lists.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="p">(</span><span class="nf">for/set</span> <span class="p">([</span><span class="nv">v</span> <span class="s">"ABCDABCD"</span><span class="p">]</span> <span class="o">#</span><span class="nv">:unless</span> <span class="p">(</span><span class="nb">member </span><span class="nv">v</span> <span class="p">(</span><span class="nb">string-&gt;list </span><span class="s">"CB"</span><span class="p">)))</span>
+         <span class="nv">v</span><span class="p">))</span>
+</pre></div>
+<h3><span class="mw-headline" id="Dictionary_comprehension">Dictionary comprehension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=7" title="Edit section: Dictionary comprehension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Version 3.x and 2.7 of the Python language introduced a new syntax for <a href="/wiki/Associative_array" title="Associative array">dictionary</a> comprehensions, similar in form to list comprehensions but which generate Python <a rel="nofollow" class="external text" href="https://docs.python.org/library/stdtypes.html#dict">dicts</a> instead of lists.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">s</span> <span class="o">=</span> <span class="p">{</span><span class="n">key</span><span class="p">:</span> <span class="n">val</span> <span class="k">for</span> <span class="n">key</span><span class="p">,</span> <span class="n">val</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="s1">'ABCD'</span><span class="p">)</span> <span class="k">if</span> <span class="n">val</span> <span class="ow">not</span> <span class="ow">in</span> <span class="s1">'CB'</span><span class="p">}</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">s</span>
+<span class="p">{</span><span class="mi">0</span><span class="p">:</span> <span class="s1">'A'</span><span class="p">,</span> <span class="mi">3</span><span class="p">:</span> <span class="s1">'D'</span><span class="p">}</span>
+<span class="o">&gt;&gt;&gt;</span>
+</pre></div>
+<p>Racket hash table comprehensions generate Racket hash tables (one implementation of the Racket dictionary type).</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="p">(</span><span class="nf">for/hash</span> <span class="p">([(</span><span class="nf">val</span> <span class="nv">key</span><span class="p">)</span> <span class="p">(</span><span class="nf">in-indexed</span> <span class="s">"ABCD"</span><span class="p">)]</span>
+           <span class="o">#</span><span class="nv">:unless</span> <span class="p">(</span><span class="nb">member </span><span class="nv">val</span> <span class="p">(</span><span class="nb">string-&gt;list </span><span class="s">"CB"</span><span class="p">)))</span>
+  <span class="p">(</span><span class="nb">values </span><span class="nv">key</span> <span class="nv">val</span><span class="p">))</span>
+</pre></div>
+<h3><span class="mw-headline" id="Parallel_list_comprehension">Parallel list comprehension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=8" title="Edit section: Parallel list comprehension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Glasgow_Haskell_Compiler" title="Glasgow Haskell Compiler">Glasgow Haskell Compiler</a> has an extension called <b>parallel list comprehension</b> (also known as <b>zip-comprehension</b>) that permits multiple independent branches of qualifiers within the list comprehension syntax. Whereas qualifiers separated by commas are dependent ("nested"), qualifier branches separated by pipes are evaluated in parallel (this does not refer to any form of multithreadedness: it merely means that the branches are <a href="/wiki/Map_(higher-order_function)" title="Map (higher-order function)">zipped</a>).</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1">-- regular list comprehension</span>
+<span class="nf">a</span> <span class="ow">=</span> <span class="p">[(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span> <span class="o">|</span> <span class="n">x</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="mi">5</span><span class="p">],</span> <span class="n">y</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="mi">3</span><span class="o">..</span><span class="mi">5</span><span class="p">]]</span>
+<span class="c1">-- [(1,3),(1,4),(1,5),(2,3),(2,4) ...</span>
+
+<span class="c1">-- zipped list comprehension</span>
+<span class="nf">b</span> <span class="ow">=</span> <span class="p">[(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span> <span class="ow">&lt;-</span> <span class="n">zip</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="mi">5</span><span class="p">]</span> <span class="p">[</span><span class="mi">3</span><span class="o">..</span><span class="mi">5</span><span class="p">]]</span>
+<span class="c1">-- [(1,3),(2,4),(3,5)]</span>
+
+<span class="c1">-- parallel list comprehension</span>
+<span class="nf">c</span> <span class="ow">=</span> <span class="p">[(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span> <span class="o">|</span> <span class="n">x</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="mi">5</span><span class="p">]</span> <span class="o">|</span> <span class="n">y</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="mi">3</span><span class="o">..</span><span class="mi">5</span><span class="p">]]</span>
+<span class="c1">-- [(1,3),(2,4),(3,5)]</span>
+</pre></div>
+<p>Racket's comprehensions standard library contains parallel and nested versions of its comprehensions, distinguished by "for" vs "for*" in the name. For example, the vector comprehensions "for/vector" and "for*/vector" create vectors by parallel versus nested iteration over sequences. The following is Racket code for the Haskell list comprehension examples.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="nv">&gt;</span> <span class="p">(</span><span class="nf">for*/list</span> <span class="p">([</span><span class="nv">x</span> <span class="p">(</span><span class="nf">in-range</span> <span class="mi">1</span> <span class="mi">6</span><span class="p">)]</span> <span class="p">[</span><span class="nv">y</span> <span class="p">(</span><span class="nf">in-range</span> <span class="mi">3</span> <span class="mi">6</span><span class="p">)])</span> <span class="p">(</span><span class="nb">list </span><span class="nv">x</span> <span class="nv">y</span><span class="p">))</span>
+<span class="o">'</span><span class="p">((</span><span class="mi">1</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="mi">1</span> <span class="mi">4</span><span class="p">)</span> <span class="p">(</span><span class="mi">1</span> <span class="mi">5</span><span class="p">)</span> <span class="p">(</span><span class="mi">2</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="mi">2</span> <span class="mi">4</span><span class="p">)</span> <span class="p">(</span><span class="mi">2</span> <span class="mi">5</span><span class="p">)</span> <span class="p">(</span><span class="mi">3</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="mi">3</span> <span class="mi">4</span><span class="p">)</span> <span class="p">(</span><span class="mi">3</span> <span class="mi">5</span><span class="p">)</span> <span class="p">(</span><span class="mi">4</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="mi">4</span> <span class="mi">4</span><span class="p">)</span> <span class="p">(</span><span class="mi">4</span> <span class="mi">5</span><span class="p">)</span> <span class="p">(</span><span class="mi">5</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="mi">5</span> <span class="mi">4</span><span class="p">)</span> <span class="p">(</span><span class="mi">5</span> <span class="mi">5</span><span class="p">))</span>
+<span class="nv">&gt;</span> <span class="p">(</span><span class="nf">for/list</span> <span class="p">([</span><span class="nv">x</span> <span class="p">(</span><span class="nf">in-range</span> <span class="mi">1</span> <span class="mi">6</span><span class="p">)]</span> <span class="p">[</span><span class="nv">y</span> <span class="p">(</span><span class="nf">in-range</span> <span class="mi">3</span> <span class="mi">6</span><span class="p">)])</span> <span class="p">(</span><span class="nb">list </span><span class="nv">x</span> <span class="nv">y</span><span class="p">))</span>
+<span class="o">'</span><span class="p">((</span><span class="mi">1</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="mi">2</span> <span class="mi">4</span><span class="p">)</span> <span class="p">(</span><span class="mi">3</span> <span class="mi">5</span><span class="p">))</span>
+</pre></div>
+<p>In Python we could do as follows:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1"># regular list comprehension</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="p">[(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">6</span><span class="p">)</span> <span class="k">for</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">6</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">),</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">5</span><span class="p">),</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">),</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="o">...</span>
+
+<span class="c1"># parallel/zipped list comprehension</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">6</span><span class="p">),</span> <span class="nb">range</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">6</span><span class="p">))]</span>
+<span class="p">[(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">),</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">5</span><span class="p">)]</span>
+</pre></div>
+<h3><span class="mw-headline" id="XQuery_and_XPath">XQuery and XPath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=9" title="Edit section: XQuery and XPath">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Like the original NPL use, these are fundamentally database access languages.</p>
+<p>This makes the comprehension concept more important, because it is computationally infeasible to retrieve the entire list and operate on it (the initial 'entire list' may be an entire XML database).</p>
+<p>In XPath, the expression:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="p">/</span><span class="nt">library</span><span class="p">/</span><span class="nt">book</span><span class="p">//</span><span class="nt">paragraph</span><span class="p">[</span><span class="na">@style</span><span class="o">=</span><span class="s1">'first-in-chapter'</span><span class="p">]</span>
+</pre></div>
+<p>is conceptually evaluated as a series of "steps" where each step produces a list and the next step applies a filter function to each element in the previous step's output.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>In XQuery, full XPath is available, but <a href="/wiki/FLWOR" title="FLWOR">FLWOR</a> statements are also used, which is a more powerful comprehension construct.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="k">for</span> <span class="nv">$</span><span class="n">b</span> <span class="ow">in</span> <span class="p">//</span><span class="nt">book</span>
+ <span class="k">where</span> <span class="nv">$</span><span class="n">b</span><span class="p">[</span><span class="na">@pages</span> <span class="o">&lt;</span> <span class="mi">400</span><span class="p">]</span>
+ <span class="k">order by</span> <span class="nv">$</span><span class="n">b</span><span class="p">//</span><span class="nt">title</span>
+ <span class="k">return</span>
+   <span class="nt">&lt;shortBook&gt;</span>
+<span class="l">     </span><span class="nt">&lt;title&gt;</span><span class="p">{</span><span class="nv">$</span><span class="n">b</span><span class="p">//</span><span class="nt">title</span><span class="p">}</span><span class="nt">&lt;/title&gt;</span>
+<span class="l">     </span><span class="nt">&lt;firstPara&gt;</span><span class="p">{(</span><span class="nv">$</span><span class="n">book</span><span class="p">//</span><span class="nt">paragraph</span><span class="p">)[</span><span class="mi">1</span><span class="p">]}</span><span class="nt">&lt;/firstPara&gt;</span>
+<span class="l">   </span><span class="nt">&lt;/shortBook&gt;</span>
+</pre></div>
+<p>Here the XPath //book is evaluated to create a sequence (aka list); the where clause is a functional "filter", the order by sorts the result, and the <code class="nowrap" style="">&lt;shortBook&gt;...&lt;/shortBook&gt;</code> XML snippet is actually an anonymous function that builds/transforms XML for each element in the sequence using the 'map' approach found in other functional languages.</p>
+<p>So, in another functional language the above FLWOR statement may be implemented like this:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nf">map</span><span class="p">(</span>
+   <span class="nf">newXML</span><span class="p">(</span><span class="nt">shortBook</span><span class="p">,</span> <span class="nf">newXML</span><span class="p">(</span><span class="nt">title</span><span class="p">,</span> <span class="nv">$</span><span class="err">1.</span><span class="n">title</span><span class="p">),</span> <span class="nf">newXML</span><span class="p">(</span><span class="nt">firstPara</span><span class="p">,</span> <span class="nv">$</span><span class="err">1...))</span>
+   <span class="nf">filter</span><span class="p">(</span>
+     <span class="nf">lt</span><span class="p">(</span><span class="nv">$</span><span class="err">1.</span><span class="n">pages</span><span class="p">,</span> <span class="mi">400</span><span class="p">),</span>
+     <span class="nf">xpath</span><span class="p">(//</span><span class="nt">book</span><span class="p">)</span>
+   <span class="p">)</span>
+ <span class="p">)</span>
+</pre></div>
+<h3><span id="LINQ_in_C.23"></span><span class="mw-headline" id="LINQ_in_C#">LINQ in C#</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=10" title="Edit section: LINQ in C#">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> 3.0 has a group of related features called <a href="/wiki/LINQ" class="mw-redirect" title="LINQ">LINQ</a>, which defines a set of query operators for manipulating object enumerations.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="kt">var</span> <span class="n">s</span> <span class="p">=</span> <span class="n">Enumerable</span><span class="p">.</span><span class="n">Range</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">100</span><span class="p">).</span><span class="n">Where</span><span class="p">(</span><span class="n">x</span> <span class="p">=&gt;</span> <span class="n">x</span><span class="p">*</span><span class="n">x</span> <span class="p">&gt;</span> <span class="m">3</span><span class="p">).</span><span class="n">Select</span><span class="p">(</span><span class="n">x</span> <span class="p">=&gt;</span> <span class="n">x</span><span class="p">*</span><span class="m">2</span><span class="p">);</span>
+</pre></div>
+<p>It also offers an alternative comprehension syntax, reminiscent of SQL:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="kt">var</span> <span class="n">s</span> <span class="p">=</span> <span class="k">from</span> <span class="n">x</span> <span class="k">in</span> <span class="n">Enumerable</span><span class="p">.</span><span class="n">Range</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">100</span><span class="p">)</span> <span class="k">where</span> <span class="n">x</span><span class="p">*</span><span class="n">x</span> <span class="p">&gt;</span> <span class="m">3</span> <span class="k">select</span> <span class="n">x</span><span class="p">*</span><span class="m">2</span><span class="p">;</span>
+</pre></div>
+<p>LINQ provides a capability over typical List Comprehension implementations. When the root object of the comprehension implements the IQueryable interface, rather than just executing the chained methods of the comprehension, the entire sequence of commands are converted into an Abstract Syntax Tree (AST) object, which is passed to the IQueryable object to interpret and execute.</p>
+<p>This allows, amongst other things, for the IQueryable to</p>
+<ul>
+<li>rewrite an incompatible or inefficient comprehension</li>
+<li>translate the AST into another query language (e.g. SQL) for execution</li>
+</ul>
+<h3><span id="C.2B.2B"></span><span class="mw-headline" id="C++">C++</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=11" title="Edit section: C++">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C++ does not have any language features directly supporting list comprehensions but <a href="/wiki/Operator_overloading" title="Operator overloading">operator overloading</a> (e.g., overloading |, &gt;&gt;, &gt;&gt;=) has been used successfully to provide expressive syntax for "embedded" query <a href="/wiki/Domain-specific_language" title="Domain-specific language">DSLs</a>. Alternatively, list comprehensions can be constructed using the <a href="/wiki/Erase-remove_idiom" class="mw-redirect" title="Erase-remove idiom">erase-remove idiom</a> to select elements in a container and the STL algorithm for_each to transform them.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="cp">#include</span> <span class="cpf">&lt;algorithm&gt;</span>
+<span class="cp">#include</span> <span class="cpf">&lt;list&gt;</span>
+<span class="cp">#include</span> <span class="cpf">&lt;numeric&gt;</span>
+
+<span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="k">template</span><span class="o">&lt;</span><span class="k">class</span> <span class="nc">C</span><span class="p">,</span> <span class="k">class</span> <span class="nc">P</span><span class="p">,</span> <span class="k">class</span> <span class="nc">T</span><span class="o">&gt;</span>
+<span class="n">C</span> <span class="n">comprehend</span><span class="p">(</span><span class="n">C</span><span class="o">&amp;&amp;</span> <span class="n">source</span><span class="p">,</span> <span class="k">const</span> <span class="n">P</span><span class="o">&amp;</span> <span class="n">predicate</span><span class="p">,</span> <span class="k">const</span> <span class="n">T</span><span class="o">&amp;</span> <span class="n">transformation</span><span class="p">)</span>
+<span class="p">{</span>
+  <span class="c1">// initialize destination</span>
+  <span class="n">C</span> <span class="n">d</span> <span class="o">=</span> <span class="n">forward</span><span class="o">&lt;</span><span class="n">C</span><span class="o">&gt;</span><span class="p">(</span><span class="n">source</span><span class="p">);</span>
+
+  <span class="c1">// filter elements</span>
+  <span class="n">d</span><span class="p">.</span><span class="n">erase</span><span class="p">(</span><span class="n">remove_if</span><span class="p">(</span><span class="n">begin</span><span class="p">(</span><span class="n">d</span><span class="p">),</span> <span class="n">end</span><span class="p">(</span><span class="n">d</span><span class="p">),</span> <span class="n">predicate</span><span class="p">),</span> <span class="n">end</span><span class="p">(</span><span class="n">d</span><span class="p">));</span>
+
+  <span class="c1">// apply transformation</span>
+  <span class="n">for_each</span><span class="p">(</span><span class="n">begin</span><span class="p">(</span><span class="n">d</span><span class="p">),</span> <span class="n">end</span><span class="p">(</span><span class="n">d</span><span class="p">),</span> <span class="n">transformation</span><span class="p">);</span>
+
+  <span class="k">return</span> <span class="n">d</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="kt">int</span> <span class="n">main</span><span class="p">()</span>
+<span class="p">{</span>
+  <span class="n">list</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">range</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>  
+      <span class="c1">// range is a list of 10 elements, all zero</span>
+  <span class="n">iota</span><span class="p">(</span><span class="n">begin</span><span class="p">(</span><span class="n">range</span><span class="p">),</span> <span class="n">end</span><span class="p">(</span><span class="n">range</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
+      <span class="c1">// range now contains 1,2,...,10</span>
+
+  <span class="n">list</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">result</span> <span class="o">=</span> <span class="n">comprehend</span><span class="p">(</span>
+      <span class="n">range</span><span class="p">,</span>
+      <span class="p">[](</span><span class="kt">int</span> <span class="n">x</span><span class="p">){</span><span class="k">return</span> <span class="n">x</span><span class="o">*</span><span class="n">x</span> <span class="o">&lt;=</span> <span class="mi">3</span><span class="p">;},</span>
+      <span class="p">[](</span><span class="kt">int</span> <span class="o">&amp;</span><span class="n">x</span><span class="p">){</span><span class="n">x</span> <span class="o">*=</span> <span class="mi">2</span><span class="p">;});</span>
+      <span class="c1">// result now contains 4,6,...,20</span>
+<span class="p">}</span>
+</pre></div>
+<p>There is some effort in providing C++ with list-comprehension constructs/syntax similar to the set builder notation.</p>
+<ul>
+<li>In <a href="/wiki/Boost_C%2B%2B_Libraries" class="mw-redirect" title="Boost C++ Libraries">Boost</a>.Range <a rel="nofollow" class="external autonumber" href="http://www.boost.org/libs/range">[1]</a> library there is a notion of adaptors <a rel="nofollow" class="external autonumber" href="http://www.boost.org/libs/range/doc/html/range/reference/adaptors.html">[2]</a> that can be applied to any range and do filtering, transformation etc. With this library, the original Haskell example would look like (using Boost.Lambda <a rel="nofollow" class="external autonumber" href="http://www.boost.org/libs/lambda">[3]</a> for anonymous filtering and transforming functions) (<a rel="nofollow" class="external text" href="http://codepad.org/y4bpgLJu">Full example</a>):
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="n">counting_range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">10</span><span class="p">)</span> <span class="o">|</span> <span class="n">filtered</span><span class="p">(</span> <span class="n">_1</span><span class="o">*</span><span class="n">_1</span> <span class="o">&gt;</span> <span class="mi">3</span> <span class="p">)</span> <span class="o">|</span> <span class="n">transformed</span><span class="p">(</span><span class="n">ret</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span> <span class="n">_1</span><span class="o">*</span><span class="mi">2</span> <span class="p">))</span>
+</pre></div>
+</li>
+<li>This<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> implementation uses a macro and overloads the &lt;&lt; operator. It evaluates any expression valid inside an 'if', and any variable name may be chosen. It's not <a href="/wiki/Thread_safety" title="Thread safety">threadsafe</a>, however. Usage example:
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="n">list</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">N</span><span class="p">;</span>
+<span class="n">list</span><span class="o">&lt;</span><span class="kt">double</span><span class="o">&gt;</span> <span class="n">S</span><span class="p">;</span>
+
+<span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">10</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+     <span class="n">N</span><span class="p">.</span><span class="n">push_back</span><span class="p">(</span><span class="n">i</span><span class="p">);</span>
+
+<span class="n">S</span> <span class="o">&lt;&lt;</span> <span class="n">list_comprehension</span><span class="p">(</span><span class="mf">3.1415</span> <span class="o">*</span> <span class="n">x</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">N</span><span class="p">,</span> <span class="n">x</span><span class="o">*</span><span class="n">x</span> <span class="o">&gt;</span> <span class="mi">3</span><span class="p">)</span>
+</pre></div>
+</li>
+<li>This<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> implementation provides head/tail slicing using classes and operator overloading, and the | operator for filtering lists (using functions). Usage example:
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="kt">bool</span> <span class="nf">even</span><span class="p">(</span><span class="kt">int</span> <span class="n">x</span><span class="p">)</span> <span class="p">{</span> <span class="k">return</span> <span class="n">x</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span><span class="p">;</span> <span class="p">}</span>
+<span class="kt">bool</span> <span class="nf">x2</span><span class="p">(</span><span class="kt">int</span> <span class="o">&amp;</span><span class="n">x</span><span class="p">)</span> <span class="p">{</span> <span class="n">x</span> <span class="o">*=</span> <span class="mi">2</span><span class="p">;</span> <span class="k">return</span> <span class="nb">true</span><span class="p">;</span> <span class="p">}</span>
+
+<span class="n">list</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">l</span><span class="p">,</span> <span class="n">t</span><span class="p">;</span>
+<span class="kt">int</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">;</span>
+
+<span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">10</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+     <span class="n">l</span><span class="p">.</span><span class="n">push_back</span><span class="p">(</span><span class="n">i</span><span class="p">);</span>
+
+<span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">t</span><span class="p">)</span> <span class="o">=</span> <span class="n">l</span> <span class="o">|</span> <span class="n">x2</span><span class="p">;</span>
+<span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span> <span class="o">=</span> <span class="n">t</span><span class="p">;</span>
+
+<span class="n">t</span> <span class="o">=</span> <span class="n">l</span> <span class="o">&lt;</span> <span class="mi">9</span><span class="p">;</span>
+<span class="n">t</span> <span class="o">=</span> <span class="n">t</span> <span class="o">&lt;</span> <span class="mi">7</span> <span class="o">|</span> <span class="n">even</span> <span class="o">|</span> <span class="n">x2</span><span class="p">;</span>
+</pre></div>
+</li>
+<li>Language for Embedded Query and Traversal (LEESA<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>) is an embedded DSL in C++ that implements X-Path-like queries using operator overloading. The queries are executed on richly typed xml trees obtained using xml-to-c++ binding from an XSD. There is absolutely no string encoding. Even the names of the xml tags are classes and therefore, there is no way for typos. If a LEESA expression forms an incorrect path that does not exist in the data model, the C++ compiler will reject the code.<br />
+Consider a catalog xml.
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="nt">&lt;catalog&gt;</span>
+  <span class="nt">&lt;book&gt;</span>
+    <span class="nt">&lt;title&gt;</span>Hamlet<span class="nt">&lt;/title&gt;</span>
+    <span class="nt">&lt;price&gt;</span>9.99<span class="nt">&lt;/price&gt;</span>
+    <span class="nt">&lt;author&gt;</span>
+      <span class="nt">&lt;name&gt;</span>William Shakespeare<span class="nt">&lt;/name&gt;</span>
+      <span class="nt">&lt;country&gt;</span>England<span class="nt">&lt;/country&gt;</span>
+    <span class="nt">&lt;/author&gt;</span>
+  <span class="nt">&lt;/book&gt;</span>
+  <span class="nt">&lt;book&gt;</span>...<span class="nt">&lt;/book&gt;</span>
+...
+<span class="nt">&lt;/catalog&gt;</span>
+</pre></div>
+</li>
+</ul>
+<p>LEESA provides &gt;&gt; for X-Path's / separator. Interestingly, X-Path's // separator that "skips" intermediate nodes in the tree is implemented in LEESA using what's known as Strategic Programming. In the example below, catalog_, book_, author_, and name_ are instances of catalog, book, author, and name classes, respectively.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="c1">// Equivalent X-Path: "catalog/book/author/name"</span>
+<span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span> <span class="n">author_names</span> <span class="o">=</span> 
+<span class="n">evaluate</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">catalog_</span> <span class="o">&gt;&gt;</span> <span class="n">book_</span> <span class="o">&gt;&gt;</span> <span class="n">author_</span> <span class="o">&gt;&gt;</span> <span class="n">name_</span><span class="p">);</span>
+
+<span class="c1">// Equivalent X-Path: "catalog//name"</span>
+<span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span> <span class="n">author_names</span> <span class="o">=</span> 
+<span class="n">evaluate</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">catalog_</span> <span class="o">&gt;&gt;</span> <span class="n">DescendantsOf</span><span class="p">(</span><span class="n">catalog_</span><span class="p">,</span> <span class="n">name_</span><span class="p">));</span>
+
+<span class="c1">// Equivalent X-Path: "catalog//author[country=="England"]"</span>
+<span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span> <span class="n">author_names</span> <span class="o">=</span> 
+<span class="n">evaluate</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">catalog_</span>  <span class="o">&gt;&gt;</span> <span class="n">DescendantsOf</span><span class="p">(</span><span class="n">catalog_</span><span class="p">,</span> <span class="n">author_</span><span class="p">)</span>
+                         <span class="o">&gt;&gt;</span> <span class="n">Select</span><span class="p">(</span><span class="n">author_</span><span class="p">,</span> <span class="p">[](</span><span class="k">const</span> <span class="n">author</span> <span class="o">&amp;</span> <span class="n">a</span><span class="p">)</span> <span class="p">{</span> <span class="k">return</span> <span class="n">a</span><span class="p">.</span><span class="n">country</span><span class="p">()</span><span class="o">==</span><span class="s">"England"</span><span class="p">;</span> <span class="p">})</span>
+                         <span class="o">&gt;&gt;</span> <span class="n">name_</span><span class="p">);</span>
+</pre></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>The <a href="/wiki/Select_(SQL)" title="Select (SQL)">SELECT</a> statement together with its FROM and WHERE clauses in <a href="/wiki/SQL#Queries" title="SQL">SQL</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=13" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?coll=GUIDE&amp;dl=GUIDE&amp;id=135271">Comprehensions, a query notation for DBPLs</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=351241&amp;dl=ACM&amp;coll=portal">The functional guts of the Kleisli query system</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/xpath#section-Location-Steps">"2.1 Location Steps"</a>. <i>XML Path Language (XPath)</i>. <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a>. 16 November 1999.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XML+Path+Language+%28XPath%29&amp;rft.atitle=2.1+Location+Steps&amp;rft.date=1999-11-16&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FTR%2Fxpath%23section-Location-Steps&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111008001258/http://w3schools.com/xquery/xquery_flwor.asp">"XQuery FLWOR Expressions"</a>. <i><a href="/wiki/W3Schools" title="W3Schools">W3Schools</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.w3schools.com/XQuery/xquery_flwor.asp">the original</a> on 2011-10-08.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=W3Schools&amp;rft.atitle=XQuery+FLWOR+Expressions&amp;rft_id=http%3A%2F%2Fwww.w3schools.com%2FXQuery%2Fxquery_flwor.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mfoliveira.org/blog/2011/01/04/simple-list-comprehension-in-cp-using-preprocessor-macros/">"Single-variable List Comprehension in C++ using Preprocessor Macros"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Single-variable+List+Comprehension+in+C%2B%2B+using+Preprocessor+Macros&amp;rft_id=http%3A%2F%2Fmfoliveira.org%2Fblog%2F2011%2F01%2F04%2Fsimple-list-comprehension-in-cp-using-preprocessor-macros%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tedunangst.com/listcc.html">"C++ list comprehensions"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=C%2B%2B+list+comprehensions&amp;rft_id=http%3A%2F%2Fwww.tedunangst.com%2Flistcc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dre.vanderbilt.edu/LEESA/">"Language for Embedded Query and Traversal (LEESA)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Language+for+Embedded+Query+and+Traversal+%28LEESA%29&amp;rft_id=http%3A%2F%2Fwww.dre.vanderbilt.edu%2FLEESA%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ftp.sunet.se/foldoc/foldoc.cgi?list+comprehension">List Comprehension</a> in The Free On-line Dictionary of Computing, Editor Denis Howe.</li>
+<li><cite class="citation conference">Trinder, Phil (1992). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?coll=GUIDE&amp;dl=GUIDE&amp;id=135271">"Comprehensions, a query notation for DBPLs"</a>. <i>Proceedings of the third international workshop on Database programming languages: bulk types &amp; persistent data, Nafplion, Greece</i>. pp.&#160;55–68.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Comprehensions%2C+a+query+notation+for+DBPLs&amp;rft.btitle=Proceedings+of+the+third+international+workshop+on+Database+programming+languages%3A+bulk+types+%26+persistent+data%2C+Nafplion%2C+Greece&amp;rft.pages=55-68&amp;rft.date=1992&amp;rft.aulast=Trinder&amp;rft.aufirst=Phil&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fcoll%3DGUIDE%26dl%3DGUIDE%26id%3D135271&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation conference">Wadler, Philip (1990). <a rel="nofollow" class="external text" href="http://citeseer.ist.psu.edu/wadler92comprehending.html">"Comprehending Monads"</a>. <i>Proceedings of the 1990 ACM Conference on LISP and Functional Programming, Nice</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Comprehending+Monads&amp;rft.btitle=Proceedings+of+the+1990+ACM+Conference+on+LISP+and+Functional+Programming%2C+Nice&amp;rft.date=1990&amp;rft.aulast=Wadler&amp;rft.aufirst=Philip&amp;rft_id=http%3A%2F%2Fciteseer.ist.psu.edu%2Fwadler92comprehending.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation conference">Wong, Limsoon (2000). <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=351241&amp;dl=ACM&amp;coll=portal">"The Functional Guts of the Kleisli Query System"</a>. <i>Proceedings of the fifth ACM SIGPLAN international conference on Functional programming</i>. International Conference on Functional Programming. pp.&#160;1–10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=The+Functional+Guts+of+the+Kleisli+Query+System&amp;rft.btitle=Proceedings+of+the+fifth+ACM+SIGPLAN+international+conference+on+Functional+programming&amp;rft.pages=1-10&amp;rft.date=2000&amp;rft.aulast=Wong&amp;rft.aufirst=Limsoon&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D351241%26dl%3DACM%26coll%3Dportal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+comprehension" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h3><span class="mw-headline" id="Haskell">Haskell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=14" title="Edit section: Haskell">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The Haskell 98 Report, chapter <a rel="nofollow" class="external text" href="http://haskell.org/onlinereport/exps.html#list-comprehensions">3.11 List Comprehensions</a>.</li>
+<li>The Glorious Glasgow Haskell Compilation System User's Guide, chapter <a rel="nofollow" class="external text" href="https://web.archive.org/web/20051129140339/http://www.haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#parallel-list-comprehensions">7.3.4 Parallel List Comprehensions</a>.</li>
+<li>The Hugs 98 User's Guide, chapter <a rel="nofollow" class="external text" href="http://cvs.haskell.org/Hugs/pages/users_guide/hugs-ghc.html#ZIP-COMPREHENSION">5.1.2 Parallel list comprehensions (a.k.a. zip-comprehensions)</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="OCaml">OCaml</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=15" title="Edit section: OCaml">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://batteries.forge.ocamlcore.org/">OCaml Batteries Included</a></li>
+<li><a rel="nofollow" class="external text" href="http://batteries.forge.ocamlcore.org/doc.preview:batteries-alpha3/html/extensions.html">Language extensions introduced in OCaml Batteries Included</a></li>
+</ul>
+<h3><span class="mw-headline" id="Python">Python</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=16" title="Edit section: Python">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The Python Tutorial, <a rel="nofollow" class="external text" href="https://docs.python.org/tutorial/datastructures.html#list-comprehensions">List Comprehensions</a>.</li>
+<li>Python Language Reference, <a rel="nofollow" class="external text" href="https://docs.python.org/reference/expressions.html#list-displays">List displays</a>.</li>
+<li>Python Enhancement Proposal <a rel="nofollow" class="external text" href="https://www.python.org/peps/pep-0202.html">PEP 202: List Comprehensions</a>.</li>
+<li>Python Language Reference, <a rel="nofollow" class="external text" href="https://docs.python.org/reference/expressions.html#generator-expressions">Generator expressions</a>.</li>
+<li>Python Enhancement Proposal <a rel="nofollow" class="external text" href="https://python.org/peps/pep-0289.html">PEP 289: Generator Expressions</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Common_Lisp">Common Lisp</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=17" title="Edit section: Common Lisp">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://rali.iro.umontreal.ca/Publications/urls/LapalmeLispComp.pdf">Implementation of a Lisp comprehension macro</a> by Guy Lapalme</li>
+</ul>
+<h3><span class="mw-headline" id="Clojure">Clojure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=18" title="Edit section: Clojure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://clojuredocs.org/clojure.core/for">Clojure API documentation - <i>for</i> macro</a></li>
+</ul>
+<h3><span class="mw-headline" id="Axiom">Axiom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=19" title="Edit section: Axiom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20051018040438/http://page.axiom-developer.org/zope/mathaction/Streams">Axiom stream examples</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_comprehension&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>SQL-like set operations with list comprehension one-liners in the <a rel="nofollow" class="external text" href="http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/159974">Python Cookbook</a></li>
+<li><a rel="nofollow" class="external text" href="http://lambda-the-ultimate.org/classic/message11326.html">Discussion on list comprehensions in Scheme and related constructs</a></li>
+<li><a rel="nofollow" class="external text" href="http://langexplr.blogspot.com/2007/02/list-comprehensions-across-languages_18.html">List Comprehensions across languages</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20180211022325
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.164 seconds
+Real time usage: 0.253 seconds
+Preprocessor visited node count: 646/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11073/2097152 bytes
+Template argument size: 118/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.063/10.000 seconds
+Lua memory usage: 2.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.201      1 -total
+ 52.37%   76.564      1 Template:Reflist
+ 41.94%   61.322      5 Template:Cite_web
+ 22.62%   33.073      1 Template:Main_article
+ 11.29%   16.511      3 Template:Cite_conference
+  1.89%    2.768      1 Template:Tag
+  1.22%    1.777      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:275744-0!canonical!math=5 and timestamp 20180211022325 and revision id 816851839
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_comprehension&amp;oldid=816851839">https://en.wikipedia.org/w/index.php?title=List_comprehension&amp;oldid=816851839</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Programming_constructs" title="Category:Programming constructs">Programming constructs</a></li><li><a href="/wiki/Category:Articles_with_example_Racket_code" title="Category:Articles with example Racket code">Articles with example Racket code</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_example_code" title="Category:Articles with example code">Articles with example code</a></li><li><a href="/wiki/Category:Articles_with_example_Haskell_code" title="Category:Articles with example Haskell code">Articles with example Haskell code</a></li><li><a href="/wiki/Category:Articles_with_example_Python_code" title="Category:Articles with example Python code">Articles with example Python code</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+comprehension" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+comprehension" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_comprehension" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_comprehension" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_comprehension">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_comprehension&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_comprehension&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_comprehension" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_comprehension" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_comprehension&amp;oldid=816851839" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_comprehension&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q795065" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_comprehension&amp;id=816851839" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+comprehension">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+comprehension&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_comprehension&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Llista_per_comprensi%C3%B3" title="Llista per comprensió – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Liste_en_compr%C3%A9hension" title="Liste en compréhension – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%BA%84%ED%94%84%EB%A6%AC%ED%97%A8%EC%85%98" title="리스트 캄프리헨션 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Comprensione_di_lista" title="Comprensione di lista – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Sequentie-besef" title="Sequentie-besef – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Compreens%C3%A3o_de_lista" title="Compreensão de lista – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Списковое включение – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%96_%D0%B2%D0%B8%D1%80%D0%B0%D0%B7%D0%B8" title="Спискові вирази – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q795065#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 December 2017, at 04:20.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_comprehension&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.253","ppvisitednodes":{"value":646,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11073,"limit":2097152},"templateargumentsize":{"value":118,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  146.201      1 -total"," 52.37%   76.564      1 Template:Reflist"," 41.94%   61.322      5 Template:Cite_web"," 22.62%   33.073      1 Template:Main_article"," 11.29%   16.511      3 Template:Cite_conference","  1.89%    2.768      1 Template:Tag","  1.22%    1.777      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.063","limit":"10.000"},"limitreport-memusage":{"value":2659337,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20180211022325","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

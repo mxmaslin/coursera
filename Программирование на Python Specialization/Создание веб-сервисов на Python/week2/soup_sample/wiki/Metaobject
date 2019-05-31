@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Metaobject - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Metaobject","wgTitle":"Metaobject","wgCurRevisionId":822487273,"wgRevisionId":822487273,"wgArticleId":594313,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Object (computer science)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Metaobject","wgRelevantArticleId":594313,"wgRequestId":"Wof8UwpAME4AAGGcfjUAAACB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q602271","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Metaobject"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Metaobject&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Metaobject&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Metaobject"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Metaobject rootpage-Metaobject skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Metaobject</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a>, a <b>metaobject</b> is an <a href="/wiki/Object_(computer_science)" title="Object (computer science)">object</a> that manipulates, creates, describes, or implements objects (including itself). The object that the metaobject pertains to is called the base object. Some information that a metaobject might define includes the base object's <a href="/wiki/Type_system" title="Type system">type</a>, <a href="/wiki/Interface_(computer_science)" class="mw-redirect" title="Interface (computer science)">interface</a>, <a href="/wiki/Class_(computer_science)" class="mw-redirect" title="Class (computer science)">class</a>, <a href="/wiki/Method_(computer_science)" class="mw-redirect" title="Method (computer science)">methods</a>, <a href="/wiki/Attribute_(computing)" title="Attribute (computing)">attributes</a>, <a href="/wiki/Parse_tree" title="Parse tree">parse tree</a>, etc. Metaobjects are examples of the computer science concept of <a href="/wiki/Reflection_(computer_programming)" title="Reflection (computer programming)">reflection</a>, where a system has access (usually at run time) to its own internal structure. Reflection enables a system to essentially rewrite itself on the fly, to alter its own implementation as it executes.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Metaobject_protocol"><span class="tocnumber">1</span> <span class="toctext">Metaobject protocol</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Runtime_and_compile_time"><span class="tocnumber">1.1</span> <span class="toctext">Runtime and compile time</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Usage"><span class="tocnumber">1.2</span> <span class="toctext">Usage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Metaobject_protocol">Metaobject protocol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metaobject&amp;action=edit&amp;section=1" title="Edit section: Metaobject protocol">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <b>metaobject protocol</b> (MOP) provides the vocabulary (<a href="/wiki/Protocol_(object-oriented_programming)" title="Protocol (object-oriented programming)">protocol</a>) to access and manipulate the structure and behaviour of systems of objects. Typical functions of a metaobject protocol include:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<ul>
+<li>Create or delete a new class</li>
+<li>Create a new property or method</li>
+<li>Cause a class to inherit from a different class ("change the class structure")</li>
+<li>Generate or change the code defining the methods of a class</li>
+</ul>
+<p>Metaobject protocol is contrary to the "closed" aspect of Bertrand Meyer's <a href="/wiki/Open/closed_principle" title="Open/closed principle">open/closed principle</a>, which holds that software object systems should be <i>open for extension</i> but <i>closed for modification</i>. Metaobject protocol, by contrast, transparently exposes the internal composition of objects and the entire object system in terms of the system itself. A metaobject protocol is not merely an <a href="/wiki/Application_Programming_Interface" class="mw-redirect" title="Application Programming Interface">interface</a> to an "underlying" implementation; rather, through metaobject protocol the object system is <a href="/wiki/Recursive_definition" title="Recursive definition">recursively implemented</a> in terms of a <i>meta</i>-object system, which itself is theoretically implemented in terms of a <i>meta</i>-metaobject system, and so on until an arbitrary <a href="/wiki/Base_case_(recursion)" class="mw-redirect" title="Base case (recursion)">base case</a> (a consistent <a href="/wiki/State_(computing)" class="mw-redirect" title="State (computing)">state</a> of the object system) is determined, with the protocol as such being the recursive functional relationship between these implementation levels.</p>
+<p>Implementing object systems in such a way opens the possibility for radical discretionary redesign, providing deep flexibility but introducing possibly complex or difficult-to-understand metastability issues (for instance, the object system must not <a href="/wiki/Persistent_data_structure" title="Persistent data structure">destructively update</a> its own metaobject protocol - its internal self-representation - but the potential destructiveness of some updates is non-trivial to predict and may be hard to reason about), depending on the recursive depth to which the desired modifications are propagated.<sup id="cite_ref-AMOP_text_3-0" class="reference"><a href="#cite_note-AMOP_text-3">[3]</a></sup> For this reason, metaobject protocol, when present in a language, is usually used sparingly and for specialised purposes such as software that transforms other software or itself in sophisticated ways, for example in reverse engineering.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Runtime_and_compile_time">Runtime and compile time</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metaobject&amp;action=edit&amp;section=2" title="Edit section: Runtime and compile time">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When compilation is not available at run-time there are additional complications for the implementation of metaobject protocol. For example, it is possible to change the type hierarchy with such a protocol but doing so may cause problems for code compiled with an alternative class model definition. Some environments have found innovative solutions for this, e.g., by handling metaobject issues at compile time. A good example of this is <a href="/w/index.php?title=OpenC%2B%2B_(software_tool)&amp;action=edit&amp;redlink=1" class="new" title="OpenC++ (software tool) (page does not exist)">OpenC++</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>It is noteworthy that the <a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a> object-oriented model is more dynamic than most standard object systems, and is consistent with runtime metaobject protocols. For example, in the Semantic Web model classes are expected to change their relations to each other and there is a special <a href="/wiki/Inference_engine" title="Inference engine">inference engine</a> known as a classifier that can validate and analyze evolving class models.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metaobject&amp;action=edit&amp;section=3" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first metaobject protocol was in the <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> object-oriented programming language developed at <a href="/wiki/Xerox_PARC" class="mw-redirect" title="Xerox PARC">Xerox PARC</a>. The <a href="/wiki/Common_Lisp_Object_System" title="Common Lisp Object System">Common Lisp Object System</a> (CLOS) came later and was influenced by the Smalltalk protocol as well as by <a href="/wiki/Brian_Cantwell_Smith" title="Brian Cantwell Smith">Brian C. Smith</a>'s original studies on <a href="/wiki/Reflection_(computer_science)" class="mw-redirect" title="Reflection (computer science)">3-Lisp</a> as an infinite tower of compilers.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The CLOS model, unlike the Smalltalk model, allows a class to have <a href="/wiki/Multiple_inheritance" title="Multiple inheritance">more than one superclass</a>; this raises additional complexity in issues such as resolving the lineage of the class hierarchy on some object instance. CLOS also allows for <a href="/wiki/Multiple_dispatch" title="Multiple dispatch">dynamic multimethod dispatch</a>, which is handled via <a href="/wiki/Generic_functions" class="mw-redirect" title="Generic functions">generic functions</a> rather than <a href="/wiki/Message_passing" title="Message passing">message passing</a> like in Smalltalk's <a href="/wiki/Single_dispatch" class="mw-redirect" title="Single dispatch">single dispatch</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The most influential book describing the semantics and implementation of the metaobject protocol in Common Lisp is <i><a href="/wiki/The_Art_of_the_Metaobject_Protocol" title="The Art of the Metaobject Protocol">The Art of the Metaobject Protocol</a></i> by <a href="/wiki/Gregor_Kiczales" title="Gregor Kiczales">Gregor Kiczales</a> et al.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Metaobject protocols are also extensively used in software engineering applications. In virtually all commercial CASE, re-engineering, and Integrated Development Environments there is some form of metaobject protocol to represent and manipulate the design artifacts.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>A metaobject protocol is one way to implement <a href="/wiki/Aspect-oriented_programming" title="Aspect-oriented programming">aspect-oriented programming</a>. Many of the early founders of MOPs, including <a href="/wiki/Gregor_Kiczales" title="Gregor Kiczales">Gregor Kiczales</a>, have since moved on to be the primary advocates for aspect-oriented programming. Kiczales et al. of <a href="/wiki/Palo_Alto_Research_Center" class="mw-redirect" title="Palo Alto Research Center">PARC</a> were hired to design <a href="/wiki/AspectJ" title="AspectJ">AspectJ</a> for <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, a language which does not possess a native metaobject protocol.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metaobject&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Kind_(type_theory)" title="Kind (type theory)">Kind (type theory)</a></li>
+<li><a href="/wiki/Metaclass" title="Metaclass">Metaclass</a></li>
+<li><a href="/wiki/Javassist" title="Javassist">Javassist</a></li>
+<li><a href="/wiki/Joose_(framework)" title="Joose (framework)">Joose JavaScript meta object system</a></li>
+<li><a href="/wiki/Moose_(Perl)" title="Moose (Perl)">Moose Perl meta object system</a></li>
+<li><a href="/w/index.php?title=OpenC%2B%2B_(software_tool)&amp;action=edit&amp;redlink=1" class="new" title="OpenC++ (software tool) (page does not exist)">OpenC++</a></li>
+<li><a href="/wiki/OpenJava" class="mw-redirect" title="OpenJava">OpenJava</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">Unified Modeling Language</a>: UML</li>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metaobject&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Smith, Brian C (1982-01-01). <a rel="nofollow" class="external text" href="http://publications.csail.mit.edu/lcs/specpub.php?id=840">"Procedural Reflection In Programming Languages"</a>. <i>MIT Technical Report</i> (MIT-LCS-TR-272)<span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MIT+Technical+Report&amp;rft.atitle=Procedural+Reflection+In+Programming+Languages&amp;rft.issue=MIT-LCS-TR-272&amp;rft.date=1982-01-01&amp;rft.aulast=Smith&amp;rft.aufirst=Brian+C&amp;rft_id=http%3A%2F%2Fpublications.csail.mit.edu%2Flcs%2Fspecpub.php%3Fid%3D840&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Foote, Brian; Ralph Johnson (1–6 October 1989). <a rel="nofollow" class="external text" href="http://www.laputan.org/ref89/ref89.html">"Reflective Facilities in Smalltalk-80"</a>. <i>OOPSLA '89</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=OOPSLA+%2789&amp;rft.atitle=Reflective+Facilities+in+Smalltalk-80&amp;rft.date=1989-10-01%2F1989-10-06&amp;rft.aulast=Foote&amp;rft.aufirst=Brian&amp;rft.au=Ralph+Johnson&amp;rft_id=http%3A%2F%2Fwww.laputan.org%2Fref89%2Fref89.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AMOP_text-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMOP_text_3-0">^</a></b></span> <span class="reference-text"><i>The Art of the Metaobject Protocol</i>, Appendix C — Living with Circularity</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Favre, Lilliana; Liliana Martinez; Claudia Pereira (2009). <a rel="nofollow" class="external text" href="https://link.springer.com/chapter/10.1007%2F978-3-642-01862-6_21"><i>MDA-Based Reverse Engineering of Object Oriented Code</i></a>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-01861-9" title="Special:BookSources/978-3-642-01861-9">978-3-642-01861-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=MDA-Based+Reverse+Engineering+of+Object+Oriented+Code&amp;rft.pub=Springer&amp;rft.date=2009&amp;rft.isbn=978-3-642-01861-9&amp;rft.aulast=Favre&amp;rft.aufirst=Lilliana&amp;rft.au=Liliana+Martinez&amp;rft.au=Claudia+Pereira&amp;rft_id=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%252F978-3-642-01862-6_21&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chiba, Shigeru (1995). <a rel="nofollow" class="external text" href="http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.7049">"A Metaobject Protocol for C++"</a>. <i>OOPSLA '95</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=OOPSLA+%2795&amp;rft.atitle=A+Metaobject+Protocol+for+C%2B%2B&amp;rft.date=1995&amp;rft.aulast=Chiba&amp;rft.aufirst=Shigeru&amp;rft_id=http%3A%2F%2Fciteseer.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.15.7049&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Knublauch, Holger; Oberle, Daniel; Tetlow, Phil; Wallace, Evan (2006-03-09). <a rel="nofollow" class="external text" href="http://www.w3.org/2001/sw/BestPractices/SE/ODSD/">"A Semantic Web Primer for Object-Oriented Software Developers"</a>. <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Semantic+Web+Primer+for+Object-Oriented+Software+Developers&amp;rft.pub=W3C&amp;rft.date=2006-03-09&amp;rft.aulast=Knublauch&amp;rft.aufirst=Holger&amp;rft.au=Oberle%2C+Daniel&amp;rft.au=Tetlow%2C+Phil&amp;rft.au=Wallace%2C+Evan&amp;rft_id=http%3A%2F%2Fwww.w3.org%2F2001%2Fsw%2FBestPractices%2FSE%2FODSD%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel P. Friedman; Mitchell Wand (1988). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?doid=319838.319871">"The mystery of the tower revealed: A non-reflective description of the reflective tower"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+mystery+of+the+tower+revealed%3A+A+non-reflective+description+of+the+reflective+tower&amp;rft.date=1988&amp;rft.au=Daniel+P.+Friedman&amp;rft.au=Mitchell+Wand&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fdoid%3D319838.319871&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cip.ifi.lmu.de/~langeh/test/2004%20-%20Gabriel%20-%20CLOS%20-%20Integrating%20Object-Oriented%20and%20Functional%20Programming.pdf">"Integrating Object-Oriented and Functional Programming"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Integrating+Object-Oriented+and+Functional+Programming&amp;rft_id=https%3A%2F%2Fwww.cip.ifi.lmu.de%2F~langeh%2Ftest%2F2004%2520-%2520Gabriel%2520-%2520CLOS%2520-%2520Integrating%2520Object-Oriented%2520and%2520Functional%2520Programming.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Kiczales, Gregor; Jim des Rivieres; Daniel G. Bobrow (July 30, 1991). <i>The Art of the Metaobject Protocol</i>. The MIT Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0262610742" title="Special:BookSources/978-0262610742">978-0262610742</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Art+of+the+Metaobject+Protocol&amp;rft.pub=The+MIT+Press&amp;rft.date=1991-07-30&amp;rft.isbn=978-0262610742&amp;rft.aulast=Kiczales&amp;rft.aufirst=Gregor&amp;rft.au=Jim+des+Rivieres&amp;rft.au=Daniel+G.+Bobrow&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Johnson, Lewis; David R. Harris; Kevin M. Benner; Martin S. Feather (October 1992). "Aries: The Requirements/Specification Facet for KBSA". <i>Rome Laboratory Final Technical Report</i>. RL-TR-92-248.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rome+Laboratory+Final+Technical+Report&amp;rft.atitle=Aries%3A+The+Requirements%2FSpecification+Facet+for+KBSA&amp;rft.volume=RL-TR-92-248&amp;rft.date=1992-10&amp;rft.aulast=Johnson&amp;rft.aufirst=Lewis&amp;rft.au=David+R.+Harris&amp;rft.au=Kevin+M.+Benner&amp;rft.au=Martin+S.+Feather&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140107000613/http://www.metaware.fr/images/pdf/1_Metaware_The_Origin%20of_Refine_Whitepaper.pdf">"The Origin of Refine"</a> <span style="font-size:85%;">(PDF)</span>. <i>www.metaware.fr</i>. Metaware White Paper. Archived from <a rel="nofollow" class="external text" href="http://www.metaware.fr/images/pdf/1_Metaware_The_Origin%20of_Refine_Whitepaper.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 7 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.metaware.fr&amp;rft.atitle=The+Origin+of+Refine&amp;rft_id=http%3A%2F%2Fwww.metaware.fr%2Fimages%2Fpdf%2F1_Metaware_The_Origin%2520of_Refine_Whitepaper.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.omg.org/mof/">"OMG's MetaObject Facility"</a>. <i>omg.org</i>. Object Management Group<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=omg.org&amp;rft.atitle=OMG%27s+MetaObject+Facility&amp;rft_id=http%3A%2F%2Fwww.omg.org%2Fmof%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetaobject" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metaobject&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.gnu.org/software/guile/docs/goops/MOP-Specification.html#MOP%20Specification">The Guile MOP specification (GOOPS, based on Tiny CLOS)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.gnu.org/software/guile/docs/goops/Metaobjects-and-the-Metaobject-Protocol.html">Metaobjects and the Metaobject Protocol</a></li>
+<li><a rel="nofollow" class="external text" href="https://clos-mop.hexstreamsoft.com/">Common Lisp Object System Metaobject Protocol</a> (contains two chapters from <i>The Art of the Metaobject Protocol</i>)</li>
+<li><a rel="nofollow" class="external text" href="http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html">Python 3 Metaprogramming</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Data_types" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Data_types" title="Template:Data types"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Data_types" title="Template talk:Data types"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Data_types&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Data_types" style="font-size:114%;margin:0 4em"><a href="/wiki/Data_type" title="Data type">Data types</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Units_of_information" title="Units of information">Uninterpreted</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bit" title="Bit">Bit</a></li>
+<li><a href="/wiki/Byte" title="Byte">Byte</a></li>
+<li><a href="/wiki/Ternary_numeral_system" title="Ternary numeral system">Trit</a></li>
+<li><a href="/wiki/Ternary_numeral_system#Tryte" title="Ternary numeral system">Tryte</a></li>
+<li><a href="/wiki/Word_(computer_architecture)" title="Word (computer architecture)">Word</a></li>
+<li><a href="/wiki/Bit_array" title="Bit array">Bit array</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Numeric</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arbitrary-precision_arithmetic" title="Arbitrary-precision arithmetic">Arbitrary-precision or bignum</a></li>
+<li><a href="/wiki/Complex_data_type" title="Complex data type">Complex</a></li>
+<li><a href="/wiki/Decimal_data_type" title="Decimal data type">Decimal</a></li>
+<li><a href="/wiki/Fixed-point_arithmetic" title="Fixed-point arithmetic">Fixed point</a></li>
+<li><a href="/wiki/Floating_point" class="mw-redirect" title="Floating point">Floating point</a>
+<ul>
+<li><a href="/wiki/Double-precision_floating-point_format" title="Double-precision floating-point format">Double precision</a></li>
+<li><a href="/wiki/Extended_precision" title="Extended precision">Extended precision</a></li>
+<li><a href="/wiki/Half-precision_floating-point_format" title="Half-precision floating-point format">Half precision</a></li>
+<li><a href="/wiki/Long_double" title="Long double">Long double</a></li>
+<li><a href="/wiki/Minifloat" title="Minifloat">Minifloat</a></li>
+<li><a href="/wiki/Octuple-precision_floating-point_format" title="Octuple-precision floating-point format">Octuple precision</a></li>
+<li><a href="/wiki/Quadruple-precision_floating-point_format" title="Quadruple-precision floating-point format">Quadruple precision</a></li>
+<li><a href="/wiki/Single-precision_floating-point_format" title="Single-precision floating-point format">Single precision</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Integer_(computer_science)" title="Integer (computer science)">Integer</a>
+<ul>
+<li><a href="/wiki/Signedness" title="Signedness">signedness</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Interval_arithmetic#Implementations" title="Interval arithmetic">Interval</a></li>
+<li><a href="/wiki/Rational_data_type" title="Rational data type">Rational</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pointer_(computer_programming)" title="Pointer (computer programming)">Pointer</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memory_address" title="Memory address">Address</a>
+<ul>
+<li><a href="/wiki/Physical_address" title="Physical address">physical</a></li>
+<li><a href="/wiki/Virtual_address_space" title="Virtual address space">virtual</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Reference_(computer_science)" title="Reference (computer science)">Reference</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Plain_text" title="Plain text">Text</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Character_(computing)" title="Character (computing)">Character</a></li>
+<li><a href="/wiki/String_(computer_science)" title="String (computer science)">String</a>
+<ul>
+<li><a href="/wiki/Null-terminated_string" title="Null-terminated string">null-terminated</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Composite_data_type" title="Composite data type">Composite</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algebraic_data_type" title="Algebraic data type">Algebraic data type</a>
+<ul>
+<li><a href="/wiki/Generalized_algebraic_data_type" title="Generalized algebraic data type">generalized</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Array_data_type" title="Array data type">Array</a></li>
+<li><a href="/wiki/Associative_array" title="Associative array">Associative array</a></li>
+<li><a href="/wiki/Class_(computer_programming)" title="Class (computer programming)">Class</a></li>
+<li><a href="/wiki/Dependent_type" title="Dependent type">Dependent</a></li>
+<li><a href="/wiki/Intuitionistic_type_theory#Equality_type" title="Intuitionistic type theory">Equality</a></li>
+<li><a href="/wiki/Inductive_type" title="Inductive type">Inductive</a></li>
+<li><a href="/wiki/List_(abstract_data_type)" title="List (abstract data type)">List</a></li>
+<li><a href="/wiki/Object_(computer_science)" title="Object (computer science)">Object</a>
+<ul>
+<li><a class="mw-selflink selflink">metaobject</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Option_type" title="Option type">Option type</a></li>
+<li><a href="/wiki/Product_type" title="Product type">Product</a></li>
+<li><a href="/wiki/Record_(computer_science)" title="Record (computer science)">Record</a></li>
+<li><a href="/wiki/Set_(abstract_data_type)" title="Set (abstract data type)">Set</a></li>
+<li><a href="/wiki/Union_type" title="Union type">Union</a>
+<ul>
+<li><a href="/wiki/Tagged_union" title="Tagged union">tagged</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boolean_data_type" title="Boolean data type">Boolean</a></li>
+<li><a href="/wiki/Bottom_type" title="Bottom type">Bottom type</a></li>
+<li><a href="/wiki/Container_(abstract_data_type)" title="Container (abstract data type)">Collection</a></li>
+<li><a href="/wiki/Enumerated_type" title="Enumerated type">Enumerated type</a></li>
+<li><a href="/wiki/Exception_handling" title="Exception handling">Exception</a></li>
+<li><a href="/wiki/Function_type" title="Function type">Function type</a></li>
+<li><a href="/wiki/Opaque_data_type" title="Opaque data type">Opaque data type</a></li>
+<li><a href="/wiki/Recursive_data_type" title="Recursive data type">Recursive data type</a></li>
+<li><a href="/wiki/Semaphore_(programming)" title="Semaphore (programming)">Semaphore</a></li>
+<li><a href="/wiki/Stream_(computing)" title="Stream (computing)">Stream</a></li>
+<li><a href="/wiki/Top_type" title="Top type">Top type</a></li>
+<li><a href="/wiki/Type_class" title="Type class">Type class</a></li>
+<li><a href="/wiki/Unit_type" title="Unit type">Unit type</a></li>
+<li><a href="/wiki/Void_type" title="Void type">Void</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related<br />
+topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abstract_data_type" title="Abstract data type">Abstract data type</a></li>
+<li><a href="/wiki/Data_structure" title="Data structure">Data structure</a></li>
+<li><a href="/wiki/Generic_programming" title="Generic programming">Generic</a></li>
+<li><a href="/wiki/Kind_(type_theory)" title="Kind (type theory)">Kind</a>
+<ul>
+<li><a href="/wiki/Metaclass" title="Metaclass">metaclass</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Parametric_polymorphism" title="Parametric polymorphism">Parametric polymorphism</a></li>
+<li><a href="/wiki/Primitive_data_type" title="Primitive data type">Primitive data type</a></li>
+<li><a href="/wiki/Protocol_(object-oriented_programming)" title="Protocol (object-oriented programming)">Protocol</a>
+<ul>
+<li><a href="/wiki/Interface_(computing)#Software_interfaces_in_object-oriented_languages" title="Interface (computing)">interface</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Subtyping" title="Subtyping">Subtyping</a></li>
+<li><a href="/wiki/Type_constructor" title="Type constructor">Type constructor</a></li>
+<li><a href="/wiki/Type_conversion" title="Type conversion">Type conversion</a></li>
+<li><a href="/wiki/Type_system" title="Type system">Type system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>See also <a href="/wiki/Template:Information_units" title="Template:Information units">platform-dependent and independent units of information</a></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20180217091206
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.164 seconds
+Preprocessor visited node count: 616/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33330/2097152 bytes
+Template argument size: 74/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 2.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  120.317      1 -total
+ 83.10%   99.989      1 Template:Reflist
+ 45.21%   54.399      4 Template:Cite_journal
+ 16.83%   20.251      1 Template:Data_types
+ 15.42%   18.556      5 Template:Cite_web
+ 13.58%   16.335      1 Template:Navbox
+  7.09%    8.525      2 Template:Cite_book
+  1.26%    1.513      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:594313-0!canonical and timestamp 20180217091206 and revision id 822487273
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Metaobject&amp;oldid=822487273">https://en.wikipedia.org/w/index.php?title=Metaobject&amp;oldid=822487273</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Object_(computer_science)" title="Category:Object (computer science)">Object (computer science)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Metaobject" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Metaobject" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Metaobject" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Metaobject" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Metaobject">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Metaobject&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Metaobject&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Metaobject" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Metaobject" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Metaobject&amp;oldid=822487273" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Metaobject&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q602271" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Metaobject&amp;id=822487273" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Metaobject">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Metaobject&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Metaobject&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/M%C3%A9taobjet" title="Métaobjet – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q602271#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 January 2018, at 17:23.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Metaobject&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.164","ppvisitednodes":{"value":616,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33330,"limit":2097152},"templateargumentsize":{"value":74,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  120.317      1 -total"," 83.10%   99.989      1 Template:Reflist"," 45.21%   54.399      4 Template:Cite_journal"," 16.83%   20.251      1 Template:Data_types"," 15.42%   18.556      5 Template:Cite_web"," 13.58%   16.335      1 Template:Navbox","  7.09%    8.525      2 Template:Cite_book","  1.26%    1.513      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":2877165,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20180217091206","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1243"});});</script>
+	</body>
+</html>

@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Spectrogram - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spectrogram","wgTitle":"Spectrogram","wgCurRevisionId":825119419,"wgRevisionId":825119419,"wgArticleId":263317,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with failed verification","Articles with failed verification from November 2017","All articles with unsourced statements","Articles with unsourced statements from November 2014","Acoustic measurement","Signal processing","Time–frequency analysis"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spectrogram","wgRelevantArticleId":263317,"wgRequestId":"WoBwjApAICIAAFNCr6gAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q578970","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c5/Spectrogram-19thC.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Spectrogram"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Spectrogram&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Spectrogram&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Spectrogram"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Spectrogram rootpage-Spectrogram skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Spectrogram</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Spectrograph" title="Spectrograph">Spectrograph</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Sonograph" redirects here. For the EP by Early Day Miners, see <a href="/wiki/Sonograph_(EP)" title="Sonograph (EP)">Sonograph (EP)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Spectrogram-19thC.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/220px-Spectrogram-19thC.png" width="220" height="114" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/330px-Spectrogram-19thC.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/440px-Spectrogram-19thC.png 2x" data-file-width="644" data-file-height="335" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Spectrogram-19thC.png" class="internal" title="Enlarge"></a></div>
+Typical spectrogram of the spoken words "nineteenth century". Frequencies are shown increasing up the vertical axis, and time on the horizontal axis. The lower frequencies are more dense because it is a male voice. The legend to the right shows that the color intensity increases with the density.</div>
+</div>
+</div>
+<p>A <b>spectrogram</b> is a visual representation of the <a href="/wiki/Spectral_density" title="Spectral density">spectrum</a> of <a href="/wiki/Frequencies" class="mw-redirect" title="Frequencies">frequencies</a> of <a href="/wiki/Sound" title="Sound">sound</a> or other signal as they vary with time. Spectrograms are sometimes called <b>spectral waterfalls</b>, <b>voiceprints</b>, or <b>voicegrams</b>.</p>
+<p>Spectrograms are used extensively in the fields of <a href="/wiki/Music" title="Music">music</a>, <a href="/wiki/Sonar" title="Sonar">sonar</a>, <a href="/wiki/Radar" title="Radar">radar</a>, and <a href="/wiki/Speech_processing" title="Speech processing">speech processing</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a href="/wiki/Seismology" title="Seismology">seismology</a>, and others. Spectrograms of audio can be used to identify spoken words <a href="/wiki/Phonetics" title="Phonetics">phonetically</a>, and to analyse the <a href="/wiki/Animal_communication" title="Animal communication">various calls of animals</a>.</p>
+<p>A spectrograph can be generated by an <a href="/wiki/Optical_spectrometer" title="Optical spectrometer">optical spectrometer</a>, a bank of <a href="/wiki/Band-pass_filter" title="Band-pass filter">band-pass filters</a> or by <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Format"><span class="tocnumber">1</span> <span class="toctext">Format</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Generation"><span class="tocnumber">2</span> <span class="toctext">Generation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Limitations_and_resynthesis"><span class="tocnumber">4</span> <span class="toctext">Limitations and resynthesis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Format">Format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=1" title="Edit section: Format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A common format is a graph with two geometric dimensions: one axis represents <a href="/wiki/Time" title="Time">time</a> or <a href="/wiki/RPM" class="mw-redirect" title="RPM">RPM</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="&quot;No">not in citation given</span></a></i>]</sup> the other axis is <a href="/wiki/Frequency" title="Frequency">frequency</a>; a third dimension indicating the <a href="/wiki/Amplitude" title="Amplitude">amplitude</a> of a particular frequency at a particular time is represented by the <a href="/wiki/Brightness" title="Brightness">intensity</a> or color of each point in the image.</p>
+<p>There are many variations of format: sometimes the vertical and horizontal axes are switched, so time runs up and down; sometimes the amplitude is represented as the height of a 3D surface instead of color or intensity. The frequency and amplitude axes can be either <a href="/wiki/Linear" class="mw-redirect" title="Linear">linear</a> or <a href="/wiki/Logarithm" title="Logarithm">logarithmic</a>, depending on what the graph is being used for. Audio would usually be represented with a logarithmic amplitude axis (probably in <a href="/wiki/Decibel" title="Decibel">decibels</a>, or dB), and frequency would be linear to emphasize harmonic relationships, or logarithmic to emphasize musical, tonal relationships.</p>
+<table style="background:transparent;margin-top:0.5em">
+<tr>
+<td>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Spectrogram_of_violin.png" class="image" title="Spectrogram of this recording of a violin playing. Note the harmonics occurring at whole-number multiples of the fundamental frequency."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Spectrogram_of_violin.png/180px-Spectrogram_of_violin.png" width="180" height="101" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Spectrogram_of_violin.png/270px-Spectrogram_of_violin.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Spectrogram_of_violin.png/360px-Spectrogram_of_violin.png 2x" data-file-width="1288" data-file-height="723" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram of <a href="//upload.wikimedia.org/wikipedia/commons/d/d1/Violin_for_spectrogram.ogg" class="internal" title="Violin for spectrogram.ogg">this recording of a violin playing</a>. Note the harmonics occurring at whole-number multiples of the fundamental frequency.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Spectrogram.png" class="image" title="3D surface spectrogram of a part from a music piece."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Spectrogram.png/180px-Spectrogram.png" width="180" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Spectrogram.png/270px-Spectrogram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Spectrogram.png/360px-Spectrogram.png 2x" data-file-width="1133" data-file-height="522" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">3D surface spectrogram of a part from a music piece.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Praat-spectrogram-tatata.png" class="image" title="Spectrogram of a male voice saying 'ta ta ta'."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Praat-spectrogram-tatata.png/180px-Praat-spectrogram-tatata.png" width="180" height="97" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Praat-spectrogram-tatata.png/270px-Praat-spectrogram-tatata.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Praat-spectrogram-tatata.png/360px-Praat-spectrogram-tatata.png 2x" data-file-width="528" data-file-height="284" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram of a male voice saying 'ta ta ta'.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Dolphin1.jpg" class="image" title="Spectrogram of dolphin vocalizations; chirps, clicks and harmonizing are visible as inverted Vs, vertical lines and horizontal striations respectively."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dolphin1.jpg/180px-Dolphin1.jpg" width="180" height="135" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dolphin1.jpg/270px-Dolphin1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dolphin1.jpg/360px-Dolphin1.jpg 2x" data-file-width="431" data-file-height="324" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram of dolphin vocalizations; chirps, clicks and harmonizing are visible as inverted Vs, vertical lines and horizontal striations respectively.&#160;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="background:transparent;margin-top:0.5em">
+<tr>
+<td>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:VariableFrequency.jpg" class="image" title="Spectrogram of an FM signal. In this case the signal frequency is modulated with a sinusoidal frequency vs. time profile."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/VariableFrequency.jpg/180px-VariableFrequency.jpg" width="180" height="124" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/VariableFrequency.jpg/270px-VariableFrequency.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/VariableFrequency.jpg/360px-VariableFrequency.jpg 2x" data-file-width="533" data-file-height="367" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram of an <a href="/wiki/Frequency_modulation" title="Frequency modulation">FM</a> signal. In this case the signal <a href="/wiki/Frequency" title="Frequency">frequency</a> is modulated with a <a href="/wiki/Sinusoidal" class="mw-redirect" title="Sinusoidal">sinusoidal</a> frequency vs. time profile.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:PAL-I.png" class="image" title="Spectrum above and waterfall (Spectrogram) below of a 8MHz wide PAL-I Television signal."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PAL-I.png/180px-PAL-I.png" width="180" height="121" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PAL-I.png/270px-PAL-I.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PAL-I.png/360px-PAL-I.png 2x" data-file-width="1359" data-file-height="916" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrum above and waterfall (Spectrogram) below of a 8MHz wide <a href="/wiki/PAL" title="PAL">PAL</a>-I Television signal.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Parus_major_sonagram.jpg" class="image" title="Spectrogram of great tit song."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Parus_major_sonagram.jpg/180px-Parus_major_sonagram.jpg" width="180" height="52" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Parus_major_sonagram.jpg/270px-Parus_major_sonagram.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Parus_major_sonagram.jpg/360px-Parus_major_sonagram.jpg 2x" data-file-width="954" data-file-height="277" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram of <a href="//upload.wikimedia.org/wikipedia/commons/9/9c/Parus_major_15mars2011.ogg" class="internal" title="Parus major 15mars2011.ogg">great tit song</a>.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg" class="image" title="Spectrogram of a gravitational wave (GW170817)."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg/180px-GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg" width="180" height="74" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg/270px-GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg/360px-GW170817_Gravitational_Wave_Chirp_Spectrogram.jpg 2x" data-file-width="4866" data-file-height="1988" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram of a gravitational wave (<a href="/wiki/GW170817" title="GW170817">GW170817</a>).&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Waterfall_plot_of_a_whistle.png" class="image" title="Spectrogram and waterfalls of 3 whistled notes."><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Waterfall_plot_of_a_whistle.png/180px-Waterfall_plot_of_a_whistle.png" width="180" height="120" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Waterfall_plot_of_a_whistle.png/270px-Waterfall_plot_of_a_whistle.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/3b/Waterfall_plot_of_a_whistle.png/360px-Waterfall_plot_of_a_whistle.png 2x" data-file-width="865" data-file-height="577" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">Spectrogram and waterfalls of 3 whistled notes.&#160;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Generation">Generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=2" title="Edit section: Generation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Spectrograms of light may be created directly using an <a href="/wiki/Optical_spectrometer" title="Optical spectrometer">optical spectrometer</a> over time.</p>
+<p>Spectrograms may created from a <a href="/wiki/Time-domain" class="mw-redirect" title="Time-domain">time-domain</a> signal in one of two ways: approximated as a filterbank that results from a series of <a href="/wiki/Band-pass_filter" title="Band-pass filter">band-pass filters</a> (this was the only way before the advent of modern digital signal processing), or calculated from the time signal using the <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a>. These two methods actually form two different <a href="/wiki/Time%E2%80%93frequency_representation" title="Time–frequency representation">time–frequency representations</a>, but are equivalent under some conditions.</p>
+<p>The bandpass filters method usually uses <a href="/wiki/Analog_signal" title="Analog signal">analog</a> processing to divide the input signal into frequency bands; the magnitude of each filter's output controls a transducer that records the spectrogram as an image on paper.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Creating a spectrogram using the FFT is a <a href="/wiki/Digital_signal_processing" title="Digital signal processing">digital process</a>. Digitally <a href="/wiki/Sampling_(signal_processing)" title="Sampling (signal processing)">sampled</a> data, in the <a href="/wiki/Time_series" title="Time series">time domain</a>, is broken up into chunks, which usually overlap, and Fourier transformed to calculate the magnitude of the frequency spectrum for each chunk. Each chunk then corresponds to a vertical line in the image; a measurement of magnitude versus frequency for a specific moment in time (the midpoint of the chunk). These spectrums or time plots are then "laid side by side" to form the image or a three-dimensional surface,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> or slightly overlapped in various ways, i.e. <a href="/wiki/Window_function#Overlapping_windows" title="Window function">windowing</a>. This process essentially corresponds to computing the squared <a href="/wiki/Magnitude_(mathematics)" title="Magnitude (mathematics)">magnitude</a> of the <a href="/wiki/Short-time_Fourier_transform" title="Short-time Fourier transform">short-time Fourier transform</a> (STFT) of the signal <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle s(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c484de351ba40ccb9a5ad522c29c1aac5686c0df" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.739ex; height:2.843ex;" alt="s(t)" /></span> — that is, for a window width <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \omega }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C9;<!-- ω --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.446ex; height:1.676ex;" alt="\omega " /></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {spectrogram} (t,\omega )=\left|\mathrm {STFT} (t,\omega )\right|^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">p</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">g</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">a</mi>
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mrow>
+            <mo>|</mo>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">S</mi>
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">T</mi>
+              </mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo>,</mo>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mo>|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {spectrogram} (t,\omega )=\left|\mathrm {STFT} (t,\omega )\right|^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef3a0f202b69189d93454a2373182f6f0d926992" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:34.295ex; height:3.343ex;" alt="\mathrm{spectrogram}(t,\omega)=\left|\mathrm{STFT}(t,\omega)\right|^2" /></span>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=3" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Early analog spectrograms were applied to a wide range of areas including the study of bird calls (such as that of the <a href="/wiki/Great_tit" title="Great tit">great tit</a>), with current research continuing using modern digital equipment<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and applied to all animal sounds. Contemporary use of the digital spectrogram is especially useful for studying <a href="/wiki/Frequency_modulation" title="Frequency modulation">frequency modulation</a> (FM) in animal calls. Specifically, the distinguishing characteristics of FM chirps, broadband clicks, and social harmonizing are most easily visualized with the spectrogram.</li>
+<li>Spectrograms are useful in assisting in overcoming speech defects and in speech training for the portion of the population that is profoundly <a href="/wiki/Hearing_impairment" class="mw-redirect" title="Hearing impairment">deaf</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li>The studies of <a href="/wiki/Phonetics" title="Phonetics">phonetics</a> and <a href="/wiki/Speech_synthesis" title="Speech synthesis">speech synthesis</a> are often facilitated through the use of spectrograms.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>By reversing the process of producing a spectrogram, it is possible to create a signal whose spectrogram is an arbitrary image. This technique can be used to hide a picture in a piece of audio and has been employed by several <a href="/wiki/Electronic_music" title="Electronic music">electronic music</a> artists.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> See also <a href="/wiki/Steganography" title="Steganography">steganography</a>.</li>
+<li>Some modern music is created using spectrograms as an intermediate medium; changing the intensity of different frequencies over time, or even creating new ones, by drawing them and then inverse transforming. See <a href="/wiki/Audio_timescale-pitch_modification" class="mw-redirect" title="Audio timescale-pitch modification">Audio timescale-pitch modification</a> and <a href="/wiki/Phase_vocoder" title="Phase vocoder">Phase vocoder</a>.</li>
+<li>Spectrograms can be used to analyze the results of passing a test signal through a signal processor such as a filter in order to check its performance.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>High definition spectrograms are used in the development of RF and microwave systems<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li>Spectrograms are now used to display <a href="/wiki/Scattering_parameters" title="Scattering parameters">scattering parameters</a> measured with vector network analyzers<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>The <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">US Geological Survey</a> now provides real-time spectrogram displays from seismic stations<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Limitations_and_resynthesis">Limitations and resynthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=4" title="Edit section: Limitations and resynthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From the formula above, it appears that a spectrogram contains no information about the exact, or even approximate, <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> of the signal that it represents. For this reason, it is not possible to reverse the process and generate a copy of the original signal from a spectrogram, though in situations where the exact initial phase is unimportant it may be possible to generate a useful approximation of the original signal. The Analysis &amp; Resynthesis Sound Spectrograph<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> is an example of a computer program that attempts to do this. The <a href="/wiki/Pattern_playback" title="Pattern playback">Pattern Playback</a> was an early speech synthesizer, designed at <a href="/wiki/Haskins_Laboratories" title="Haskins Laboratories">Haskins Laboratories</a> in the late 1940s, that converted pictures of the acoustic patterns of speech (spectrograms) back into sound.</p>
+<p>In fact, there is some phase information in the spectrogram, but it appears in another form, as time delay (or group delay) which is the <a href="/wiki/Dual_(mathematics)" class="mw-redirect" title="Dual (mathematics)">dual</a> of the <a href="/wiki/Instantaneous_frequency#Instantaneous_frequency" class="mw-redirect" title="Instantaneous frequency">Instantaneous Frequency</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>]</sup>.</p>
+<p>The size and shape of the analysis window can be varied. A smaller (shorter) window will produce more accurate results in timing, at the expense of precision of frequency representation. A larger (longer) window will provide a more precise frequency representation, at the expense of precision in timing representation. This is an instance of the <a href="/wiki/Heisenberg_uncertainty_principle" class="mw-redirect" title="Heisenberg uncertainty principle">Heisenberg uncertainty principle</a>, that precision in two <a href="/wiki/Conjugate_variables" title="Conjugate variables">conjugate variables</a> are inversely proportional to each other.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul>
+<li><a href="/wiki/Acoustic_signature" title="Acoustic signature">Acoustic signature</a></li>
+<li><a href="/wiki/Chromagram" class="mw-redirect" title="Chromagram">Chromagram</a></li>
+<li><a href="/wiki/Generalized_spectrogram" title="Generalized spectrogram">Generalized spectrogram</a></li>
+<li><a href="/wiki/List_of_unexplained_sounds" title="List of unexplained sounds">List of unexplained sounds</a></li>
+<li><a href="/wiki/Reassignment_method" title="Reassignment method">Reassignment method</a></li>
+<li><a href="/wiki/Scaleogram" title="Scaleogram">Scaleogram</a></li>
+<li><a href="/wiki/Short-time_Fourier_transform" title="Short-time Fourier transform">Short-time Fourier transform</a></li>
+<li><a href="/wiki/Spectral_music" title="Spectral music">Spectral music</a></li>
+<li><a href="/wiki/Spectrometer" title="Spectrometer">Spectrometer</a></li>
+<li><a href="/wiki/Spectrum" title="Spectrum">Spectrum</a></li>
+<li><a href="/wiki/Strobe_tuner" class="mw-redirect" title="Strobe tuner">Strobe tuner</a></li>
+<li><a href="/wiki/Time-frequency_representation" class="mw-redirect" title="Time-frequency representation">Time-frequency representation</a></li>
+<li><a href="/wiki/Waterfall_plot" title="Waterfall plot">Waterfall plot</a></li>
+<li><a href="/wiki/Wavelet_transform" title="Wavelet transform">Wavelet transform</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">JL Flanagan, Speech Analysis, Synthesis and Perception, Springer- Verlag, New York, 1972</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/What-s-an-Order/ta-p/355020">https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/What-s-an-Order/ta-p/355020</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sfu.ca/sonic-studio/handbook/Spectrograph.html">Illustration of an electro-mechanical spectrograph</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ccrma.stanford.edu/~jos/mdft/Spectrograms.html">Spectrogram definition</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://zone.ni.com/reference/en-XX/help/371361E-01/lvanls/stft_spectrogram_core/#details">STFT spectrogram details</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.birdsongs.it/index.asp">Bird Songs and Spectrograms of Southern Tuscany</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.springerlink.com/content/uv377604u5617x01/">A wearable tactile sensory aid for profoundly deaf children</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cslu.cse.ogi.edu/tutordemos/SpectrogramReading/spectrogram_reading.html">Spectrogram Reading</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fon.hum.uva.nl/praat/">Praat - doing phonetics by computer</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bastwood.com/aphex.php">Several sound spectrogram examples, including the one by Aphex Twin</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://src.infinitewave.ca">Example of using spectrograms to check filter responses</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.constantwave.com/gallery.aspx">High definition spectrograms of common RF signals</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120810020043/http://www.constantwave.com/spectro_vna.aspx">"Spectrograms for vector network analyzers"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.constantwave.com/spectro_vna.aspx">the original</a> on 2012-08-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Spectrograms+for+vector+network+analyzers&amp;rft_id=http%3A%2F%2Fwww.constantwave.com%2Fspectro_vna.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectrogram" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://earthquake.usgs.gov/monitoring/spectrograms/24hr/">Real-time spectrogram displays from seismic stations</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://arss.sourceforge.net">arss</a> at <a href="/wiki/Sourceforge.net" class="mw-redirect" title="Sourceforge.net">sourceforge.net</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectrogram&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Spectrogram" class="extiw" title="commons:Category:Spectrogram">Spectrogram</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/spectrogram" class="extiw" title="wiktionary:Special:Search/spectrogram">spectrogram</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://auditoryneuroscience.com/spectrogram">See an online spectrogram of speech or other sounds captured by your computer's microphone.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.audiocheck.net/audiocheck_spectrotyper.php">Generating a tone sequence whose spectrogram matches an arbitrary text, online</a></li>
+<li><a rel="nofollow" class="external text" href="http://devrand.org/show_item.html?item=64&amp;page=Project">Further information on creating a signal whose spectrogram is an arbitrary image</a></li>
+<li><a rel="nofollow" class="external text" href="http://kdenlive.org/users/granjow/introducing-scopes-audio-spectrum-and-spectrogram">Article describing the development of a software spectrogram</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.spectrogramsforspeech.com/background/history-of-spectrograms/">History of spectrograms &amp; development of instrumentation</a></li>
+<li><a rel="nofollow" class="external text" href="http://home.cc.umanitoba.ca/~robh/howto.html">How to identify the words in a spectrogram</a> from a linguistic professor's <i>Monthly Mystery Spectrogram</i> publication.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1347
+Cached time: 20180211162940
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.324 seconds
+Preprocessor visited node count: 963/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22835/2097152 bytes
+Template argument size: 1520/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 2.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  215.149      1 -total
+ 23.67%   50.929      2 Template:Fix
+ 21.18%   45.573      1 Template:Reflist
+ 20.76%   44.671      1 Template:Fv
+ 16.36%   35.194      1 Template:Cite_web
+ 14.19%   30.520      1 Template:Commons_category
+ 13.01%   27.996      3 Template:Category_handler
+ 11.65%   25.074      1 Template:Distinguish
+  8.99%   19.347      2 Template:Delink
+  8.36%   17.983      1 Template:Cn
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:263317-0!canonical!math=5 and timestamp 20180211163006 and revision id 825119419
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Spectrogram&amp;oldid=825119419">https://en.wikipedia.org/w/index.php?title=Spectrogram&amp;oldid=825119419</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Acoustic_measurement" title="Category:Acoustic measurement">Acoustic measurement</a></li><li><a href="/wiki/Category:Signal_processing" title="Category:Signal processing">Signal processing</a></li><li><a href="/wiki/Category:Time%E2%80%93frequency_analysis" title="Category:Time–frequency analysis">Time–frequency analysis</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_November_2017" title="Category:Articles with failed verification from November 2017">Articles with failed verification from November 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Spectrogram" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectrogram" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Spectrogram" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Spectrogram" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Spectrogram">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Spectrogram&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Spectrogram&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Spectrogram" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Spectrogram" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Spectrogram&amp;oldid=825119419" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Spectrogram&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q578970" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spectrogram&amp;id=825119419" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Spectrogram">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Spectrogram&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Spectrogram&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Spectrogram" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%88%D8%B1%D8%A9_%D8%B7%D9%8A%D9%81%D9%8A%D8%A9" title="صورة طيفية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Espectrograma" title="Espectrograma – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Spektrogramm" title="Spektrogramm – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Sonogramm" title="Sonogramm – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Espectrograma" title="Espectrograma – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Spektrogramo" title="Spektrogramo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Spectrogramme" title="Spectrogramme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Espectrograma" title="Espectrograma – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%A1%9C%EA%B7%B8%EB%9E%A8" title="스펙트로그램 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Spettrogramma" title="Spettrogramma – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Spectrogram" title="Spectrogram – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0" title="スペクトログラム – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Spektrogram" title="Spektrogram – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Spektrogram" title="Spektrogram – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Espectrograma" title="Espectrograma – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Spectrogram%C4%83" title="Spectrogramă – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Спектрограмма – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC" title="Спектрограм – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Spektrografi" title="Spektrografi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" title="Спектрограма – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%97%B6%E9%A2%91%E8%B0%B1" title="时频谱 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q578970#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 February 2018, at 16:30.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Spectrogram&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.324","ppvisitednodes":{"value":963,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22835,"limit":2097152},"templateargumentsize":{"value":1520,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  215.149      1 -total"," 23.67%   50.929      2 Template:Fix"," 21.18%   45.573      1 Template:Reflist"," 20.76%   44.671      1 Template:Fv"," 16.36%   35.194      1 Template:Cite_web"," 14.19%   30.520      1 Template:Commons_category"," 13.01%   27.996      3 Template:Category_handler"," 11.65%   25.074      1 Template:Distinguish","  8.99%   19.347      2 Template:Delink","  8.36%   17.983      1 Template:Cn"]},"scribunto":{"limitreport-timeusage":{"value":"0.067","limit":"10.000"},"limitreport-memusage":{"value":2669450,"limit":52428800}},"cachereport":{"origin":"mw1347","timestamp":"20180211162940","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1332"});});</script>
+	</body>
+</html>

@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Zope - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zope","wgTitle":"Zope","wgCurRevisionId":822562771,"wgRevisionId":822562771,"wgArticleId":34472,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2011","1995 establishments in Virginia","Cross-platform free software","Free content management systems","Free software programmed in Python","Python web frameworks","Software companies based in Virginia","Software companies established in 1995","Web development software","Web server software for Linux","Zope"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zope","wgRelevantArticleId":34472,"wgRequestId":"Wof6YgpAMEkAAHwgCpsAAACG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q836650","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Zope"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Zope&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Zope&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Zope"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Zope rootpage-Zope skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Zope</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about an application server platform. For the fish known as "Zope", see <a href="/wiki/Abramis_ballerus" class="mw-redirect" title="Abramis ballerus">Abramis ballerus</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Zope</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Zope_logo.png" class="image"><img alt="Zope logo.png" src="//upload.wikimedia.org/wikipedia/commons/0/02/Zope_logo.png" width="180" height="57" data-file-width="180" data-file-height="57" /></a></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> <a href="/wiki/Web_framework" title="Web framework">web framework</a> <a href="/wiki/Software_development" title="Software development">development</a></td>
+</tr>
+<tr>
+<th scope="row">Available&#160;in</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td>Hitesh</td>
+</tr>
+<tr>
+<th scope="row">Created&#160;by</th>
+<td><a href="/w/index.php?title=Zope_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Zope Corporation (page does not exist)">Zope Corporation</a></td>
+</tr>
+<tr>
+<th scope="row">Editor</th>
+<td><a href="/w/index.php?title=Zope_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Zope Corporation (page does not exist)">Zope Corporation</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><a rel="nofollow" class="external free" href="https://zope.readthedocs.io/">https://zope.readthedocs.io/</a></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>none</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>July&#160;2014<span style="display:none">&#160;(<span class="bday dtstart published updated">2014-07</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">Current&#160;status</th>
+<td class="category">Active</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Content license</div>
+</th>
+<td><a href="/wiki/Zope_Public_License" title="Zope Public License">Zope Public License</a></td>
+</tr>
+</table>
+<p><b>Zope</b> is a family of <a href="/wiki/Free_and_open-source_software" title="Free and open-source software">free and open-source</a> <a href="/wiki/World_Wide_Web" title="World Wide Web">web</a> <a href="/wiki/Application_server" title="Application server">application servers</a> written in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, and their associated online community. Zope stands for "Z Object Publishing Environment", and was the first system using the now common <a href="/wiki/Object_(computer_science)" title="Object (computer science)">object</a> publishing methodology for the Web.<sup id="cite_ref-linuxjournal_1-0" class="reference"><a href="#cite_note-linuxjournal-1">[1]</a></sup><sup id="cite_ref-pje_2-0" class="reference"><a href="#cite_note-pje-2">[2]</a></sup> Zope has been recognized as a <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> <a href="/wiki/Killer_app" class="mw-redirect" title="Killer app">killer app</a>, an application that helped put Python in the spotlight.<sup id="cite_ref-programmingpython_3-0" class="reference"><a href="#cite_note-programmingpython-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Over the last few years, the Zope community has spawned several additional <a href="/wiki/Web_framework" title="Web framework">web frameworks</a> with disparate aims and principles, but sharing philosophy, people, and source code. Zope 2 is still the most widespread of these frameworks, largely thanks to the <a href="/wiki/Plone_(software)" title="Plone (software)">Plone</a> <a href="/wiki/Content_management_system" title="Content management system">content management system</a>, which runs on Zope 2. BlueBream (earlier called Zope 3) is less widespread but underlies several large sites, including <a href="/wiki/Launchpad_(website)" title="Launchpad (website)">Launchpad</a>. <a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a> was started as a more programmer-friendly framework, "Zope 3 for cavemen", and in 2009 <a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid (ex BFG)</a> gained popularity in the Zope community as a minimalistic framework based on Zope principles.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Zope_Foundation"><span class="tocnumber">2</span> <span class="toctext">Zope Foundation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Zope_2"><span class="tocnumber">3</span> <span class="toctext">Zope 2</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#BlueBream"><span class="tocnumber">4</span> <span class="toctext">BlueBream</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#History_2"><span class="tocnumber">4.1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Technology"><span class="tocnumber">4.2</span> <span class="toctext">Technology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Zope_Toolkit"><span class="tocnumber">5</span> <span class="toctext">Zope Toolkit</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Grok"><span class="tocnumber">6</span> <span class="toctext">Grok</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Zope_Page_Templates"><span class="tocnumber">7</span> <span class="toctext">Zope Page Templates</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notable_software_using_Zope"><span class="tocnumber">8</span> <span class="toctext">Notable software using Zope</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Zope Corporation was formed in 1995 in <a href="/wiki/Fredericksburg,_Virginia" title="Fredericksburg, Virginia">Fredericksburg, Virginia</a> under the name Digital Creations, as a joint venture with InfiNet (a joint newspaper chain venture). The company developed a classified advertisement engine for the Internet. In 1997, the company became independently owned and private. The company's software engineers are led by CTO Jim Fulton. PythonLabs, creators of Python, became part of the company in the year 2000. Python founder <a href="/wiki/Guido_van_Rossum" title="Guido van Rossum">Guido van Rossum</a> left Zope Corp in 2003.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>What is now known as Zope 2 began with the merging of three separate software products – Bobo, Document Template, and BoboPOS – into the Principia application server. At the behest of its largest investor, Opticality Ventures, Principia was re-released as free software under the name Zope in 1998. Bobo, and therefore Zope, was the first Web <a href="/wiki/Object_(computer_science)" title="Object (computer science)">object</a> publishing solution.<sup id="cite_ref-linuxjournal_1-1" class="reference"><a href="#cite_note-linuxjournal-1">[1]</a></sup><sup id="cite_ref-pje_2-1" class="reference"><a href="#cite_note-pje-2">[2]</a></sup></p>
+<p>In November 2004, Zope 3 was released. Zope 3 is a <a href="/wiki/Rewrite_(programming)" title="Rewrite (programming)">complete rewrite</a> that preserves only the original <a href="/wiki/Zope_Object_Database" title="Zope Object Database">ZODB</a> object database. It is directly intended for enterprise Web application development using the newest development paradigms. Zope 3 is, however, not compatible with Zope 2, so you cannot run Zope 2 applications on Zope 3. It was originally intended to introduce a backwards-compatibility layer so that Zope 2 software would run on Zope 3. Instead a module known as Five introduced the new Zope 3 paradigms into Zope 2, although full compatibility isn't possible that way either.</p>
+<p>The existence of two incompatible Web frameworks called Zope has caused a lot of confusion. In response, in January 2010, Zope 3 was renamed "BlueBream".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> "Zope" and "blue bream" are names of a kind of fish, <a href="/wiki/Ballerus_ballerus" title="Ballerus ballerus">ballerus ballerus</a>.</p>
+<h2><span class="mw-headline" id="Zope_Foundation">Zope Foundation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=2" title="Edit section: Zope Foundation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Zope Foundation</caption>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founded</th>
+<td class="note">March&#160;2006<span class="noprint">; 11&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2006-03</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Type</th>
+<td><a href="/wiki/Nonprofit_organization" title="Nonprofit organization">nonprofit</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Focus</th>
+<td><a href="/wiki/Open-source_software" title="Open-source software">Open-source software</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Method</th>
+<td><a href="/wiki/Zope_Public_License" title="Zope Public License">Zope Public License</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="https://foundation.zope.org/">foundation<wbr />.zope<wbr />.org</a></span></td>
+</tr>
+</table>
+<p>The Zope Foundation is an organization that promotes the development of the Zope platform by supporting the community that develops and maintains the relevant software components. The community includes both open source software, documentation and web infrastructure contributors, as well as business and organization consumers of the software platform. It manages the zope.org websites, an infrastructure for open source collaboration.</p>
+<h2><span class="mw-headline" id="Zope_2">Zope 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=3" title="Edit section: Zope 2">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Zope 2</caption>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="mw-collapsible mw-collapsible-leftside-toggle mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;">
+<div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;text-align:left">Screenshot</div>
+<div class="mw-collapsible-content" style="background:transparent;text-align:left;;text-align:center"><a href="/wiki/File:Zope-screenshot.png" class="image" title="Zope management interface in a Web browser window."><img alt="Zope management interface in a Web browser window." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zope-screenshot.png/220px-Zope-screenshot.png" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zope-screenshot.png/330px-Zope-screenshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zope-screenshot.png/440px-Zope-screenshot.png 2x" data-file-width="867" data-file-height="649" /></a>
+<div>Zope management interface in a Web browser window.</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>Zope Corporation</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>1998<span class="noprint">; 20&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1998</span>)</span></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">2.13.26 / February&#160;20, 2017<span class="noprint">; 11 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2017-02-20</span>)</span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>Active</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td>Web <a href="/wiki/Application_server" title="Application server">application server</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Zope_Public_License" title="Zope Public License">Zope Public License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://zope2.zope.org/">zope2<wbr />.zope<wbr />.org</a></span></td>
+</tr>
+</table>
+<p>A Zope <a href="/wiki/Website" title="Website">website</a> is usually composed of objects in a <a href="/wiki/Zope_Object_Database" title="Zope Object Database">Zope Object Database</a>, not files on a <a href="/wiki/File_system" title="File system">file system</a>, as is usual with most <a href="/wiki/Web_server" title="Web server">web servers</a>. This allows users to harness the advantages of object technologies, such as <a href="/wiki/Information_hiding" title="Information hiding">encapsulation</a>. Zope maps <a href="/wiki/Uniform_Resource_Locator" class="mw-redirect" title="Uniform Resource Locator">URLs</a> to objects using the containment hierarchy of such objects; methods are considered to be contained in their objects as well. Data can be stored in other databases as well, or on the file system, but ZODB is the most common solution.</p>
+<p>Zope provides two mechanisms for <a href="/wiki/HTML" title="HTML">HTML</a> templating: Document Template Markup Language (DTML) and Zope Page Templates (ZPT). DTML is a tag-based language that allows implementation of simple scripting in the templates. DTML has provisions for variable inclusion, conditions, and loops. However, DTML can be problematic: DTML tags interspersed with HTML form non-valid HTML documents, and its use requires care when including logic into templates, to retain code readability. The use of DTML is discouraged by many leading Zope developers. ZPT is a technology that addresses the shortcomings of DTML. ZPT templates can be either well-formed <a href="/wiki/XML" title="XML">XML</a> documents or HTML documents, in which all special markup is presented as attributes in the TAL (<a href="/wiki/Template_Attribute_Language" title="Template Attribute Language">Template Attribute Language</a>) namespace. ZPT offers a very limited set of tools for conditional inclusion and repetition of XML elements. Consequently, the templates are usually quite simple, with most logic implemented in Python code. One significant advantage of ZPT templates is that they can be edited in most graphical HTML editors. ZPT also offers direct support for <a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">internationalization</a>.</p>
+<p>Zope 2 underlies the <a href="/wiki/Plone_(content_management_system)" class="mw-redirect" title="Plone (content management system)">Plone</a> <a href="/wiki/Content_management_system" title="Content management system">content management system</a>, as well as the <a href="/wiki/ERP5" title="ERP5">ERP5</a> open source <a href="/wiki/Enterprise_resource_planning" title="Enterprise resource planning">enterprise resource planning</a> system.</p>
+<h2><span class="mw-headline" id="BlueBream">BlueBream</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=4" title="Edit section: BlueBream">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">BlueBream</caption>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>Zope Corporation</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>2004<span class="noprint">; 14&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2004</span>)</span></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">1.0 / January&#160;18, 2011<span class="noprint">; 7 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2011-01-18</span>)</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>Stalled</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td>Web <a href="/wiki/Application_server" title="Application server">application server</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Zope_Public_License" title="Zope Public License">Zope Public License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://bluebream.zope.org/">bluebream<wbr />.zope<wbr />.org</a></span></td>
+</tr>
+</table>
+<p>BlueBream is a rewrite by the Zope developers of the <a href="#Zope_2">Zope 2</a> web <a href="/wiki/Application_server" title="Application server">application server</a>. It was created under the name "Zope 3", but the existence of two incompatible frameworks with the same name caused much confusion, and Zope 3 was renamed "BlueBream" in January 2010.<sup id="cite_ref-rename_9-0" class="reference"><a href="#cite_note-rename-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> BlueBream is distributed under the terms of the <a href="/wiki/Zope_Public_License" title="Zope Public License">Zope Public License</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and is thus <a href="/wiki/Free_software" title="Free software">free software</a>.</p>
+<p>Zope 2 has proven itself as a useful framework for Web applications development, but its use revealed some shortcomings.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>]</sup> To name a few, creating Zope 2 products involves copying a lot of <a href="/wiki/Boilerplate_code" title="Boilerplate code">boilerplate code</a> – "magic" code – that just has to be there, and the built-in management interface is difficult to modify or replace. Zope 3 was a rewrite of the software that attempts to address these shortcomings while retaining the advantages of Zope that led to its popularity. BlueBream is based on a <a href="/wiki/Component_architecture" class="mw-redirect" title="Component architecture">component architecture</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> that makes it easy to mix software components of various origins written in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>. Although originally intended as a replacement for Zope 2, the Zope Component Architecture has instead been backported to Zope 2, starting with Zope 2.8. Many Zope platforms such as <a href="/wiki/Plone_(software)" title="Plone (software)">Plone</a> are going through the same type of piece-by-piece rewriting. The first production release of the new software, Zope X3 3.0.0, was released on November 6, 2004.</p>
+<h3><span class="mw-headline" id="History_2">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Zope 3 project started in February 2001 as an effort to develop a new version of Zope as an almost complete rewrite, with the goal to retain the successful features of Zope 2 while trying to fix some of its shortcomings. The goal was to create a more developer-friendly and flexible platform for programming web applications than Zope 2 is. The project began with the development of a <a href="/wiki/Component_architecture" class="mw-redirect" title="Component architecture">component architecture</a>, which allows the structuring of code into small, composable units with introspectable interfaces. The interfaces are supported by an interface package in order to provide the functionality of explicitly declared interfaces to the <a href="/wiki/Python_language" class="mw-redirect" title="Python language">Python language</a>. The first production release of the software, Zope X3, was released on November 6, 2004. In January 2010 Zope 3 was renamed BlueBream.<sup id="cite_ref-rename_9-1" class="reference"><a href="#cite_note-rename-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=6" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The goal of the project was to enable programmers to use Zope in order to expose arbitrary Python objects as model objects to the web without the need to make these objects fulfill particular behavior requirements. In Zope 2 there had been many behavior requirements to allow objects to participate in the framework, which resulted in a large amount of <a href="/wiki/Mixin" title="Mixin">mixin</a> base classes and special attributes. BlueBream uses a model/view architecture, separating the presentation code from the problem domain code. Views and models are linked together by the component architecture.</p>
+<p>The libraries underlying BlueBream have been evolving into a collection of useful libraries for web application development rather than a single, monolithic application server. BlueBream includes separate packages for interfaces, component architecture, HTTP server, publisher, Zope Object Database (ZODB), Zope Page Templates, I18N, security policy, and so on. The component architecture is used to glue these together. The component architecture is configured using a ZCML (Zope Configuration Markup Language), an XML based configuration file language.</p>
+<p>The Zope 3 project pioneered the practice of <a href="/wiki/Code_sprint" class="mw-redirect" title="Code sprint">sprints</a> for <a href="/wiki/Open_source_software" class="mw-redirect" title="Open source software">open source software</a> development.<sup id="cite_ref-sprints_13-0" class="reference"><a href="#cite_note-sprints-13">[13]</a></sup> Sprints are intensive development sessions when programmers, often from different countries, gather in one room and work together for a couple of days or even several weeks. During the sprints various practices drawn from <a href="/wiki/Agile_software_development" title="Agile software development">agile software development</a> are used, such as <a href="/wiki/Pair_programming" title="Pair programming">pair programming</a> and <a href="/wiki/Test-driven_development" title="Test-driven development">test-driven development</a>. Besides the goal of developing software, sprints are also useful for geographically separated developers to meet in person and attracting new people to the project. They also serve as a way for the participants to learn from each other.</p>
+<p>BlueBream is considered a stable framework, used on production projects worldwide, most notably <a href="/wiki/Launchpad_(website)" title="Launchpad (website)">Launchpad</a>.</p>
+<h2><span class="mw-headline" id="Zope_Toolkit">Zope Toolkit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=7" title="Edit section: Zope Toolkit">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a result of the development of Zope 3 / BlueBream, there are now many independent Python packages used and developed as a part of BlueBream, and although many of these are usable outside of BlueBream, many are not. The Zope Toolkit (ZTK) project was started to clarify which packages were usable outside BlueBream, and to improve the re-usability of the packages. Thus the Zope Toolkit is a base for the Zope frameworks. Zope 2.12 is the first release of a web framework that builds on Zope Toolkit, and <a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a> and BlueBream were set to have releases based on the ZTK during 2010.</p>
+<h2><span class="mw-headline" id="Grok">Grok</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=8" title="Edit section: Grok">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok (web framework)</a></div>
+<p>In 2006 the Grok project was started by a number of Zope 3 developers who wanted to make Zope 3 technology more agile in use and more accessible to newcomers. Grok has since then seen regular releases and its core technology (Martian, grokcore.component) is also finding uptake in other Zope 3 and Zope 2 based projects.</p>
+<h2><span class="mw-headline" id="Zope_Page_Templates">Zope Page Templates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=9" title="Edit section: Zope Page Templates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As mentioned previously, Zope Page Templates are themselves XHTML documents, which means they can be viewed and edited using normal HTML editors or XHTML compliant tools (a big advantage compared to other template languages used for Web applications). Templates can also be checked for XHTML compliance so you can be fairly confident that they will automatically expand into proper XHTML.</p>
+<p>However, these page templates are not meant to be rendered as is. Instead they are marked up with additional elements and attributes in special XML namespaces (see below). This additional information is used to describe how the page template should ultimately be processed.</p>
+<p>Here are some basic examples. To conditionally include a particular element, like a <tt>div</tt> element, simply add the <tt>tal:condition</tt> attribute to the element as follows:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="p">&lt;</span><span class="nt">div</span> <span class="na">tal:condition</span><span class="o">=</span><span class="s">"..."</span><span class="p">&gt;</span>
+  ...
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</pre></div>
+<p>To control what appears inside an element, use the <tt>tal:content</tt> attribute like this:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">tal:content</span><span class="o">=</span><span class="s">"..."</span><span class="p">/&gt;&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+...
+</pre></div>
+<p>Finally, to introduce or replace values of attributes use the <tt>tal:attributes</tt> attribute as below. You can use Python to alter the href at runtime.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="p">&lt;</span><span class="nt">a</span> <span class="na">href</span><span class="o">=</span><span class="s">""</span> <span class="na">tal:attributes</span><span class="o">=</span><span class="s">"href python:'http://someurl.com/%s'%someobject"</span><span class="p">&gt;</span>...<span class="p">&lt;/</span><span class="nt">a</span><span class="p">&gt;</span>
+</pre></div>
+<p>This is a very cursory explanation of Zope Page Templates. The behavior of Zope Page Templates is almost completely described by a <a href="/wiki/Web_template#Template_languages" class="mw-redirect" title="Web template">template language</a>, fixed on TAL, TALES, and METAL specifications:</p>
+<ul>
+<li><a href="/wiki/Template_Attribute_Language" title="Template Attribute Language">Template Attribute Language</a> (TAL),</li>
+<li>Template Attribute Language Expression Syntax (<a href="/wiki/TALES" class="mw-redirect" title="TALES">TALES</a>),</li>
+<li>Macro Expansion Template Attribute Language (<a href="/wiki/METAL" class="mw-redirect" title="METAL">METAL</a>).</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_software_using_Zope">Notable software using Zope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=10" title="Edit section: Notable software using Zope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/SchoolTool" title="SchoolTool">SchoolTool</a> is an open source <a href="/wiki/Student_information_system" title="Student information system">student information system</a> that uses Zope.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Pylons_project" title="Pylons project">Pylons project</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Content_management" title="Content management">Content management</a> (CM)</li>
+<li><a href="/wiki/Content_management_system" title="Content management system">Content management system</a> (CMS)</li>
+<li><a href="/wiki/Web_content_management_system" title="Web content management system">Web content management system</a> (WCMS)</li>
+<li><a href="/wiki/Plone_(software)" title="Plone (software)">Plone</a></li>
+<li><a href="/wiki/Naaya" title="Naaya">Naaya</a></li>
+<li><a href="/wiki/Zwiki" title="Zwiki">Zwiki</a></li>
+<li><a href="/wiki/ERP5" title="ERP5">ERP5</a></li>
+<li><a href="/wiki/Twisted_(software)" title="Twisted (software)">Twisted</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-linuxjournal-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-linuxjournal_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-linuxjournal_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Reuven M. Lerner. <a rel="nofollow" class="external text" href="http://www.linuxjournal.com/article/8662">"At the Forge - Assessing Ruby on Rails"</a>. <i>Linux Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-26</span></span>. <q>Zope also pioneered the idea of object publishing, in which a URL describes the method that should be called on a particular object.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Linux+Journal&amp;rft.atitle=At+the+Forge+-+Assessing+Ruby+on+Rails&amp;rft.au=Reuven+M.+Lerner&amp;rft_id=http%3A%2F%2Fwww.linuxjournal.com%2Farticle%2F8662&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pje-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-pje_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pje_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Philip J Eby (2003-12-11). <a rel="nofollow" class="external text" href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&amp;ixPost=94006">"Comment on "Lisp and Productivity<span style="padding-right:0.2em;">"</span>"</a>. Joel on Software<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-26</span></span>. <q>In 1997, Jim Fulton (the CTO at Zope Corp) developed a technique he called "Object Publishing", and implemented in a library called the Python Object Publisher (aka Bobo). The object publishing metaphor is found in many Python toolkits today; in other languages it's found only in crippled form, at best.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Comment+on+%22Lisp+and+Productivity%22&amp;rft.pub=Joel+on+Software&amp;rft.date=2003-12-11&amp;rft.au=Philip+J+Eby&amp;rft_id=http%3A%2F%2Fdiscuss.fogcreek.com%2Fjoelonsoftware%2Fdefault.asp%3Fcmd%3Dshow%26ixPost%3D94006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-programmingpython-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-programmingpython_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lutz, Mark (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=5zYVUIl7F0QC&amp;lpg=PA1130&amp;pg=PA1130#v=onepage&amp;q=&amp;f=false">"18: Advanced Internet Topics"</a>. <i>Programming Python</i> (3 ed.). <a href="/wiki/O%27Reilly_Media" title="O'Reilly Media">O'Reilly Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-27</span></span>. <q>The use of Zope has spread so quickly that many Pythonistas have looked to it as a Python <i>Killer Application</i> - a system so good that it naturally pushes Python into the development spotlight.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=18%3A+Advanced+Internet+Topics&amp;rft.btitle=Programming+Python&amp;rft.edition=3&amp;rft.pub=O%27Reilly+Media&amp;rft.date=2006&amp;rft.aulast=Lutz&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5zYVUIl7F0QC%26lpg%3DPA1130%26pg%3DPA1130%23v%3Donepage%26q%3D%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Jon Udell (2000-02-07). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20000302033606/http://www.byte.com/feature/BYT20000201S0004">"Zope Is Python's Killer App"</a>. <a href="/wiki/BYTE" class="mw-redirect" title="BYTE">BYTE</a>. Archived from <a rel="nofollow" class="external text" href="http://www.byte.com/feature/BYT20000201S0004">the original</a> on 2000-03-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Zope+Is+Python%27s+Killer+App.&amp;rft.date=2000-02-07&amp;rft.au=Jon+Udell&amp;rft_id=http%3A%2F%2Fwww.byte.com%2Ffeature%2FBYT20000201S0004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://developers.slashdot.org/article.pl?sid=03/07/09/1549236">Guido van Rossum Leaves Zope.com</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://bluebream.zope.org/doc/1.0/introduction.html#overview">"BlueBream documentation"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BlueBream+documentation&amp;rft_id=http%3A%2F%2Fbluebream.zope.org%2Fdoc%2F1.0%2Fintroduction.html%23overview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://foundation.zope.org/minutes/zfbod-minutes-20100114">"Zope Foundation Board of Directors meeting 2010-10-14"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zope+Foundation+Board+of+Directors+meeting+2010-10-14&amp;rft_id=http%3A%2F%2Ffoundation.zope.org%2Fminutes%2Fzfbod-minutes-20100114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://zope.readthedocs.org/en/2.13/CHANGES.html">"Changelog — Zope 2 documentation 2.13 documentation"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Changelog+%E2%80%94+Zope+2+documentation+2.13+documentation&amp;rft_id=https%3A%2F%2Fzope.readthedocs.org%2Fen%2F2.13%2FCHANGES.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rename-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-rename_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rename_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://bluebream.zope.org/doc/1.0/introduction.html#overview">http://bluebream.zope.org/doc/1.0/introduction.html#overview</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://foundation.zope.org/minutes/zfbod-minutes-20100114">http://foundation.zope.org/minutes/zfbod-minutes-20100114</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wiki.zope.org/zope3/FAQGeneral#what-is-the-license-of-zope-3">"FAQ - General 5: What is the license of Zope 3?"</a>. <q>Zope 3 is licensed under Zope Public License, Version 2.1 (ZPL).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FAQ+-+General+5%3A+What+is+the+license+of+Zope+3%3F&amp;rft_id=http%3A%2F%2Fwiki.zope.org%2Fzope3%2FFAQGeneral%23what-is-the-license-of-zope-3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://web.archive.org/web/20080509165741/http://wiki.zope.org/zope3/ComponentArchitecture">https://web.archive.org/web/20080509165741/http://wiki.zope.org/zope3/ComponentArchitecture</a></span></li>
+<li id="cite_note-sprints-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-sprints_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120814030504/http://wiki.zope.org/zope3/SprintSchedule">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://wiki.zope.org/zope3/SprintSchedule">the original</a> on August 14, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwiki.zope.org%2Fzope3%2FSprintSchedule&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZope" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zope&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Zope" class="extiw" title="wikibooks:Zope">Zope</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.zope.org">Official website</a></span></span></li>
+<li class="mw-empty-elt"></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Python_web_frameworks" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Python_web_frameworks" title="Template:Python web frameworks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Python_web_frameworks" title="Template talk:Python web frameworks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Python_web_frameworks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Python_web_frameworks" style="font-size:114%;margin:0 4em"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> <a href="/wiki/Web_framework" title="Web framework">web frameworks</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope#BlueBream" title="Zope">BlueBream</a></li>
+<li><a href="/wiki/Bottle_(web_framework)" title="Bottle (web framework)">Bottle</a></li>
+<li><a href="/wiki/CherryPy" title="CherryPy">CherryPy</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Flask_(web_framework)" title="Flask (web framework)">Flask</a></li>
+<li><a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a></li>
+<li><a href="/wiki/Nagare_(web_framework)" title="Nagare (web framework)">Nagare</a></li>
+<li><a href="/wiki/Nevow" title="Nevow">Nevow</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Pylons_project#Pylons_Framework" title="Pylons project">Pylons</a></li>
+<li><a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid</a></li>
+<li><a href="/wiki/Quixote_(web_framework)" title="Quixote (web framework)">Quixote</a></li>
+<li><a href="/wiki/Spyce" title="Spyce">Spyce</a></li>
+<li><a href="/wiki/TACTIC_(web_framework)" title="TACTIC (web framework)">TACTIC</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/TurboGears" title="TurboGears">TurboGears</a></li>
+<li><a href="/wiki/Twisted_(software)" title="Twisted (software)">TwistedWeb</a></li>
+<li><a href="/wiki/Webware_for_Python" title="Webware for Python">Webware</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Zope#Zope_2" title="Zope">Zope 2</a></li>
+<li><i><a href="/wiki/Category:Python_web_frameworks" title="Category:Python web frameworks">more</a></i>...</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_frameworks" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_frameworks" title="Template:Web frameworks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_frameworks" title="Template talk:Web frameworks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_frameworks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_frameworks" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_framework" title="Web framework">Web frameworks</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_frameworks" title="Comparison of web frameworks">Comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/C%2B%2B" title="C++">C++</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CppCMS" title="CppCMS">CppCMS</a></li>
+<li><a href="/wiki/Wt_(web_toolkit)" title="Wt (web toolkit)">Wt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">CLI</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a>
+<ul>
+<li><a href="/wiki/ASP.NET_Core" title="ASP.NET Core">Core</a></li>
+<li><a href="/wiki/ASP.NET_AJAX" title="ASP.NET AJAX">AJAX</a></li>
+<li><a href="/wiki/ASP.NET_Dynamic_Data" title="ASP.NET Dynamic Data">Dynamic Data</a></li>
+<li><a href="/wiki/ASP.NET_MVC" title="ASP.NET MVC">MVC</a></li>
+<li><a href="/wiki/ASP.NET_Razor" title="ASP.NET Razor">Razor</a></li>
+<li><a href="/wiki/ASP.NET" title="ASP.NET">Web Forms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DotNetNuke" title="DotNetNuke">DNN</a></li>
+<li><a href="/wiki/Base_One_Foundation_Component_Library" title="Base One Foundation Component Library">BFC</a></li>
+<li><a href="/wiki/MonoRail_(software)" title="MonoRail (software)">MonoRail</a></li>
+<li><a href="/wiki/OpenRasta" title="OpenRasta">OpenRasta</a></li>
+<li><a href="/wiki/Umbraco" title="Umbraco">Umbraco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Adobe_ColdFusion" title="Adobe ColdFusion">ColdFusion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ColdFusion_on_Wheels" title="ColdFusion on Wheels">CFWheels</a></li>
+<li><a href="/wiki/ColdBox_Platform" title="ColdBox Platform">ColdBox Platform</a></li>
+<li><a href="/wiki/ColdSpring_Framework" title="ColdSpring Framework">ColdSpring</a></li>
+<li><a href="/wiki/Fusebox_(programming)" title="Fusebox (programming)">Fusebox</a></li>
+<li><a href="/wiki/Mach-II" title="Mach-II">Mach-II</a></li>
+<li><a href="/wiki/Model-Glue" title="Model-Glue">Model-Glue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caveman2" title="Caveman2">Caveman2</a></li>
+<li><a href="/wiki/CL-HTTP" title="CL-HTTP">CL-HTTP</a></li>
+<li><a href="/wiki/UnCommon_Web" title="UnCommon Web">UnCommon Web</a></li>
+<li><a href="/wiki/Weblocks" title="Weblocks">Weblocks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Happstack" title="Happstack">Happstack</a></li>
+<li><a href="/wiki/Yesod_(web_framework)" title="Yesod (web framework)">Yesod</a></li>
+<li><a href="/wiki/Snap_(web_framework)" title="Snap (web framework)">Snap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AppFuse" title="AppFuse">AppFuse</a></li>
+<li><a href="/wiki/Flexive" title="Flexive">Flexive</a></li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a></li>
+<li><a href="/wiki/ICEfaces" title="ICEfaces">ICEfaces</a></li>
+<li><a href="/wiki/ItsNat" title="ItsNat">ItsNat</a></li>
+<li><a href="/wiki/JavaServer_Faces" title="JavaServer Faces">JavaServer Faces</a></li>
+<li><a href="/wiki/JHipster" title="JHipster">JHipster</a></li>
+<li><a href="/wiki/Jspx-bay" title="Jspx-bay">Jspx</a></li>
+<li><a href="/wiki/JWt_(Java_web_toolkit)" title="JWt (Java web toolkit)">JWt</a></li>
+<li><a href="/wiki/OpenXava" title="OpenXava">OpenXava</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Reasonable_Server_Faces" title="Reasonable Server Faces">Reasonable Server Faces</a></li>
+<li><a href="/wiki/Remote_Application_Platform" title="Remote Application Platform">Remote Application Platform</a></li>
+<li><a href="/wiki/RIFE" title="RIFE">RIFE</a></li>
+<li><a href="/wiki/JBoss_Seam" title="JBoss Seam">Seam</a></li>
+<li><a href="/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="/wiki/Spring_Framework#Model-view-controller_framework" title="Spring Framework">Spring</a></li>
+<li><a href="/wiki/Stripes_(framework)" title="Stripes (framework)">Stripes</a></li>
+<li><a href="/wiki/Apache_Struts" class="mw-redirect" title="Apache Struts">Struts</a></li>
+<li><a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="/wiki/Vaadin" title="Vaadin">Vaadin</a></li>
+<li><a href="/wiki/Vert.x" title="Vert.x">Vert.x</a></li>
+<li><a href="/wiki/WebWork" title="WebWork">WebWork</a></li>
+<li><a href="/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+<li><a href="/wiki/ZK_(framework)" title="ZK (framework)">ZK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ample_SDK" title="Ample SDK">Ample SDK</a></li>
+<li><a href="/wiki/Angular_(application_platform)" title="Angular (application platform)">Angular</a>/<a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></li>
+<li><a href="/wiki/Chaplin.js" title="Chaplin.js">Chaplin.js</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure</a></li>
+<li><a href="/wiki/Dojo_Toolkit" title="Dojo Toolkit">Dojo Toolkit</a></li>
+<li><a href="/wiki/Ember.js" title="Ember.js">Ember.js</a></li>
+<li><a href="/wiki/Ext_JS" title="Ext JS">Ext JS</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">jQuery</a></li>
+<li><a href="/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></li>
+<li><a href="/wiki/MooTools" title="MooTools">MooTools</a></li>
+<li><a href="/wiki/Node.js" title="Node.js">Node.js</a></li>
+<li><a href="/wiki/OpenUI5" title="OpenUI5">OpenUI5</a></li>
+<li><a href="/wiki/Prototype_JavaScript_Framework" title="Prototype JavaScript Framework">Prototype</a></li>
+<li><a href="/wiki/React_(JavaScript_library)" title="React (JavaScript library)">React</a></li>
+<li><a href="/wiki/Rico_(Ajax)" title="Rico (Ajax)">Rico</a></li>
+<li><a href="/wiki/Script.aculo.us" title="Script.aculo.us">script.aculo.us</a></li>
+<li><a href="/wiki/Sencha_Touch" title="Sencha Touch">Sencha Touch</a></li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a></li>
+<li><a href="/wiki/Wakanda_(software)" title="Wakanda (software)">Wakanda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Perl" title="Perl">Perl</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" class="mw-redirect" title="Maypole framework">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/WebGUI" title="WebGUI">WebGUI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/PHP" title="PHP">PHP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CakePHP" title="CakePHP">CakePHP</a></li>
+<li><a href="/wiki/CodeIgniter" title="CodeIgniter">CodeIgniter</a></li>
+<li><a href="/wiki/Drupal" title="Drupal">Drupal</a></li>
+<li><a href="/wiki/Fat-Free_Framework" title="Fat-Free Framework">Fat-Free</a></li>
+<li><a href="/wiki/FuelPHP" title="FuelPHP">FuelPHP</a></li>
+<li><a href="/wiki/TYPO3_Flow" title="TYPO3 Flow">Flow</a></li>
+<li><a href="/wiki/Gyroscope_(software)" title="Gyroscope (software)">Gyroscope</a></li>
+<li><a href="/wiki/Horde_(software)" title="Horde (software)">Horde</a></li>
+<li><a href="/wiki/Kohana_(framework)" title="Kohana (framework)">Kohana</a></li>
+<li><a href="/wiki/Laravel" title="Laravel">Laravel</a></li>
+<li><a href="/wiki/Lithium_(software)" class="mw-redirect" title="Lithium (software)">Lithium</a></li>
+<li><a href="/wiki/Midgard_(software)" title="Midgard (software)">Midgard</a></li>
+<li><a href="/wiki/MODX" title="MODX">MODX</a></li>
+<li><a href="/wiki/Nette_Framework" title="Nette Framework">Nette</a></li>
+<li><a href="/wiki/Phalcon_(framework)" title="Phalcon (framework)">Phalcon</a></li>
+<li><a href="/wiki/Pop_PHP_Framework" title="Pop PHP Framework">Pop PHP</a></li>
+<li><a href="/wiki/PRADO_(framework)" title="PRADO (framework)">PRADO</a></li>
+<li><a href="/wiki/ProcessWire" title="ProcessWire">ProcessWire</a></li>
+<li><a href="/wiki/Qcodo" title="Qcodo">Qcodo</a></li>
+<li><a href="/wiki/Silex_(web_framework)" title="Silex (web framework)">Silex</a></li>
+<li><a href="/wiki/SilverStripe" title="SilverStripe">SilverStripe</a></li>
+<li><a href="/wiki/Symfony" title="Symfony">Symfony</a></li>
+<li><a href="/wiki/TYPO3" title="TYPO3">TYPO3</a></li>
+<li><a href="/wiki/Xaraya" title="Xaraya">Xaraya</a></li>
+<li><a href="/wiki/XOOPS" title="XOOPS">XOOPS</a></li>
+<li><a href="/wiki/Yii" title="Yii">Yii</a></li>
+<li><a href="/wiki/Zend_Framework" title="Zend Framework">Zend Framework</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope#BlueBream" title="Zope">BlueBream</a></li>
+<li><a href="/wiki/CherryPy" title="CherryPy">CherryPy</a></li>
+<li><a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a></li>
+<li><a href="/wiki/Flask_(web_framework)" title="Flask (web framework)">Flask</a></li>
+<li><a href="/wiki/Grok_(web_framework)" title="Grok (web framework)">Grok</a></li>
+<li><a href="/wiki/Nevow" title="Nevow">Nevow</a></li>
+<li><a href="/wiki/Pyjs" title="Pyjs">Pyjs</a></li>
+<li><a href="/wiki/Pylons_project#Pylons_Framework" title="Pylons project">Pylons</a></li>
+<li><a href="/wiki/Pylons_project#Pyramid" title="Pylons project">Pyramid</a></li>
+<li><a href="/wiki/Quixote_(web_framework)" title="Quixote (web framework)">Quixote</a></li>
+<li><a href="/wiki/TACTIC_(web_framework)" title="TACTIC (web framework)">TACTIC</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/TurboGears" title="TurboGears">TurboGears</a></li>
+<li><a href="/wiki/Web2py" title="Web2py">web2py</a></li>
+<li><a href="/wiki/Webware_for_Python" title="Webware for Python">Webware</a></li>
+<li><a href="/wiki/Zope#Zope_2" title="Zope">Zope 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Camping_(microframework)" title="Camping (microframework)">Camping</a></li>
+<li><a href="/wiki/Merb" title="Merb">Merb</a></li>
+<li><a href="/wiki/Padrino_(web_framework)" title="Padrino (web framework)">Padrino</a></li>
+<li><a href="/wiki/Ruby_on_Rails" title="Ruby on Rails">Ruby on Rails</a></li>
+<li><a href="/wiki/Sinatra_(software)" title="Sinatra (software)">Sinatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lift_(web_framework)" title="Lift (web framework)">Lift</a></li>
+<li><a href="/wiki/Play_framework" class="mw-redirect" title="Play framework">Play</a></li>
+<li><a href="/wiki/Scalatra" title="Scalatra">Scalatra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDA/Web" title="AIDA/Web">AIDA/Web</a></li>
+<li><a href="/wiki/Seaside_(software)" title="Seaside (software)">Seaside</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other languages</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vibe.d" title="Vibe.d">Vibe.d</a> (<a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>)</li>
+<li><a href="/wiki/Oracle_Application_Express" title="Oracle Application Express">Application Express</a> (<a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a>)</li>
+<li><a href="/wiki/Grails_(framework)" title="Grails (framework)">Grails</a> (<a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a>)</li>
+<li><a href="/wiki/Kepler_(software)" title="Kepler (software)">Kepler</a> (<a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>)</li>
+<li><a href="/wiki/Rocket" title="Rocket">Rocket</a> (<a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>)</li>
+<li><a href="/wiki/OpenACS" class="mw-redirect" title="OpenACS">OpenACS</a> (<a href="/wiki/Tcl" title="Tcl">Tcl</a>)</li>
+<li><a href="/w/index.php?title=Phoenix_(web_framework)&amp;action=edit&amp;redlink=1" class="new" title="Phoenix (web framework) (page does not exist)">Phoenix</a> (<a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a>)</li>
+<li><a href="/wiki/SproutCore" title="SproutCore">SproutCore</a> (<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>-<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>)</li>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a> (<a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_server_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_server_software" title="Template:Web server software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_server_software" title="Template talk:Web server software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_server_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_server_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_server" title="Web server">Web server software</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Comparison_of_web_server_software" title="Comparison of web server software">Comparisons</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Most popular</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a></li>
+<li><a href="/wiki/Nginx" title="Nginx">Nginx</a></li>
+<li><a href="/wiki/Internet_Information_Services" title="Internet Information Services">IIS</a>
+<ul>
+<li><a href="/wiki/Internet_Information_Services#IIS_Express" title="Internet Information Services">IIS Express</a></li>
+</ul>
+</li>
+<li><a href="/wiki/LiteSpeed_Web_Server" title="LiteSpeed Web Server">LiteSpeed Web Server</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cherokee_(web_server)" title="Cherokee (web server)">Cherokee</a></li>
+<li><a href="/wiki/Hiawatha_(web_server)" title="Hiawatha (web server)">Hiawatha</a></li>
+<li><a href="/wiki/Oracle_iPlanet_Web_Server" title="Oracle iPlanet Web Server">iPlanet</a></li>
+<li><a href="/wiki/Lighttpd" title="Lighttpd">Lighttpd</a></li>
+<li><a href="/wiki/Mongoose_(web_server)" title="Mongoose (web server)">Mongoose</a></li>
+<li><a href="/wiki/Mongrel2" title="Mongrel2">Mongrel2</a></li>
+<li><a href="/wiki/Monkey_HTTP_Server" title="Monkey HTTP Server">Monkey</a></li>
+<li><a href="/wiki/POCO_C%2B%2B_Libraries" title="POCO C++ Libraries">POCO</a></li>
+<li><a href="/wiki/Traffic_Server" title="Traffic Server">Traffic Server</a></li>
+<li><a href="/wiki/Jexus" title="Jexus">Jexus</a></li>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a></li>
+<li><a href="/wiki/Caddy_(web_server)" title="Caddy (web server)">Caddy</a></li>
+<li><a href="/wiki/GlassFish" title="GlassFish">GlassFish</a></li>
+<li><a href="/wiki/Jetty_(web_server)" title="Jetty (web server)">Jetty</a></li>
+<li><a href="/wiki/JOnAS" title="JOnAS">JOnAS</a></li>
+<li><a href="/wiki/SAP_NetWeaver_Application_Server" title="SAP NetWeaver Application Server">NetWeaver</a></li>
+<li><a href="/wiki/Resin_(software)" title="Resin (software)">Resin</a></li>
+<li><a href="/wiki/Thttpd" title="Thttpd">thttpd</a></li>
+<li><a href="/wiki/Apache_Tomcat" title="Apache Tomcat">Tomcat</a></li>
+<li><a href="/wiki/Oracle_WebLogic_Server" title="Oracle WebLogic Server">WebLogic</a></li>
+<li><a href="/wiki/IBM_WebSphere_Application_Server" title="IBM WebSphere Application Server">WebSphere</a></li>
+<li><a href="/wiki/WildFly" title="WildFly">WildFly</a></li>
+<li><a href="/wiki/Caudium_(web_server)" title="Caudium (web server)">Caudium</a></li>
+<li><a href="/wiki/Roxen_(web_server)" title="Roxen (web server)">Roxen</a></li>
+<li><a href="/wiki/Gunicorn_(HTTP_server)" class="mw-redirect" title="Gunicorn (HTTP server)">Gunicorn</a></li>
+<li><a href="/wiki/Python_Paste" title="Python Paste">Paste</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li>
+<li><a href="/wiki/Twisted_(software)" title="Twisted (software)">Twisted</a></li>
+<li><a href="/wiki/PyGopherd" title="PyGopherd">PyGopherd</a></li>
+<li><a class="mw-selflink selflink">Zope</a></li>
+<li><a href="/wiki/WEBrick" title="WEBrick">WEBrick</a></li>
+<li><a href="/wiki/Phusion_Passenger" title="Phusion Passenger">Passenger</a></li>
+<li><a href="/wiki/AOLserver" title="AOLserver">AOLserver</a></li>
+<li><a href="/wiki/NaviServer" title="NaviServer">NaviServer</a></li>
+<li><a href="/wiki/JEUS" title="JEUS">JEUS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Retired</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boa_(web_server)" title="Boa (web server)">Boa</a></li>
+<li><a href="/wiki/CERN_httpd" title="CERN httpd">CERN httpd</a></li>
+<li><a href="/wiki/NCSA_HTTPd" title="NCSA HTTPd">NCSA HTTPd</a></li>
+<li><a href="/wiki/Xitami" title="Xitami">Xitami</a></li>
+<li><a href="/wiki/Zeus_Web_Server" title="Zeus Web Server">Zeus</a></li>
+<li><a href="/wiki/Mongrel_(web_server)" title="Mongrel (web server)">Mongrel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20180217093654
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.444 seconds
+Real time usage: 0.557 seconds
+Preprocessor visited node count: 4043/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88988/2097152 bytes
+Template argument size: 5038/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 5/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 5.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  481.442      1 -total
+ 49.20%  236.870      6 Template:Infobox
+ 23.62%  113.723      2 Template:Infobox_software
+ 20.95%  100.869      1 Template:Reflist
+ 14.25%   68.584      1 Template:Infobox_organization
+ 10.47%   50.385      2 Template:Infobox_software/simple
+ 10.45%   50.291      1 Template:Citation_needed
+ 10.01%   48.202      1 Template:Infobox_website
+  9.51%   45.796      1 Template:Fix
+  8.82%   42.480      5 Template:Start_date_and_age
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34472-0!canonical and timestamp 20180217093654 and revision id 822562771
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Zope&amp;oldid=822562771">https://en.wikipedia.org/w/index.php?title=Zope&amp;oldid=822562771</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1995_establishments_in_Virginia" title="Category:1995 establishments in Virginia">1995 establishments in Virginia</a></li><li><a href="/wiki/Category:Cross-platform_free_software" title="Category:Cross-platform free software">Cross-platform free software</a></li><li><a href="/wiki/Category:Free_content_management_systems" title="Category:Free content management systems">Free content management systems</a></li><li><a href="/wiki/Category:Free_software_programmed_in_Python" title="Category:Free software programmed in Python">Free software programmed in Python</a></li><li><a href="/wiki/Category:Python_web_frameworks" title="Category:Python web frameworks">Python web frameworks</a></li><li><a href="/wiki/Category:Software_companies_based_in_Virginia" title="Category:Software companies based in Virginia">Software companies based in Virginia</a></li><li><a href="/wiki/Category:Software_companies_established_in_1995" title="Category:Software companies established in 1995">Software companies established in 1995</a></li><li><a href="/wiki/Category:Web_development_software" title="Category:Web development software">Web development software</a></li><li><a href="/wiki/Category:Web_server_software_for_Linux" title="Category:Web server software for Linux">Web server software for Linux</a></li><li><a href="/wiki/Category:Zope" title="Category:Zope">Zope</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2011" title="Category:Articles with unsourced statements from August 2011">Articles with unsourced statements from August 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Zope" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Zope" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Zope" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Zope" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Zope">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Zope&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Zope&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Zope" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Zope" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Zope&amp;oldid=822562771" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Zope&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q836650" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Zope&amp;id=822562771" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Zope">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Zope&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Zope&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Zope" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Zope" title="Zope – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zope" title="Zope – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Zope" title="Zope – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Zope_(Webanwendungsserver)" title="Zope (Webanwendungsserver) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Zope" title="Zope – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Zope" title="Zope – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Zope" title="Zope – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Zope_3" title="Zope 3 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Zope" title="Zope – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Zope" title="Zope – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zope" title="Zope – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/BlueBream" title="BlueBream – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Zope" title="Zope – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Zope" title="Zope – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Zope" title="Zope – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Zope" title="Zope – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Zope" title="Zope – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Zope" title="Zope – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Zope" title="Zope – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q836650#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 January 2018, at 02:52.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Zope&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.557","ppvisitednodes":{"value":4043,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88988,"limit":2097152},"templateargumentsize":{"value":5038,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  481.442      1 -total"," 49.20%  236.870      6 Template:Infobox"," 23.62%  113.723      2 Template:Infobox_software"," 20.95%  100.869      1 Template:Reflist"," 14.25%   68.584      1 Template:Infobox_organization"," 10.47%   50.385      2 Template:Infobox_software/simple"," 10.45%   50.291      1 Template:Citation_needed"," 10.01%   48.202      1 Template:Infobox_website","  9.51%   45.796      1 Template:Fix","  8.82%   42.480      5 Template:Start_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":5629258,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20180217093654","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1238"});});</script>
+	</body>
+</html>

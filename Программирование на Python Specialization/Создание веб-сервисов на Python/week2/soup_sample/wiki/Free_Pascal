@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Free Pascal - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Free_Pascal","wgTitle":"Free Pascal","wgCurRevisionId":822265932,"wgRevisionId":822265932,"wgArticleId":638429,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2009","All articles needing additional references","Wikipedia articles needing clarification from February 2016","Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","Articles containing potentially dated statements from March 2011","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from October 2016","All articles with unsourced statements","Articles with unsourced statements from October 2011","Official website different in Wikidata and Wikipedia","Wikipedia articles with GND identifiers","Compilers","Cross-platform free software","Cross-platform software","Free compilers and interpreters","Free Pascal","Free software programmed in Pascal","Linux programming tools","Classic Mac OS software","MacOS programming tools","Object-oriented programming languages","Pascal (programming language)","Pascal compilers","Pascal programming language family","Platform-sensitive development","Programming tools for Windows","Self-hosting software","Software using the GPL license","Solaris software","Systems programming languages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Free_Pascal","wgRelevantArticleId":638429,"wgRequestId":"WoNNzwpAICkAADsZH8IAAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q210295","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7b/FPC_Command_Line.PNG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Free_Pascal"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Free_Pascal&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Free_Pascal&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Free_Pascal"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Free_Pascal rootpage-Free_Pascal skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Free Pascal</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Free_Pascal&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(October 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Free Pascal</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:FPClogogif.gif" class="image"><img alt="FPClogogif.gif" src="//upload.wikimedia.org/wikipedia/commons/8/8f/FPClogogif.gif" width="133" height="63" data-file-width="133" data-file-height="63" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:FPC_Command_Line.PNG" class="image" title="FPC in Cygwin"><img alt="FPC in Cygwin" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FPC_Command_Line.PNG/300px-FPC_Command_Line.PNG" width="300" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FPC_Command_Line.PNG/450px-FPC_Command_Line.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/7/7b/FPC_Command_Line.PNG 2x" data-file-width="454" data-file-height="305" /></a>
+<div>FPC in Cygwin</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/w/index.php?title=Florian_Kl%C3%A4mpfl&amp;action=edit&amp;redlink=1" class="new" title="Florian Klämpfl (page does not exist)">Florian Klämpfl</a> &amp; <a href="/wiki/Volunteering" title="Volunteering">volunteers</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>1997<span class="noprint">; 21&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1997</span>)</span></td>
+</tr>
+<tr style="display: none;">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>
+<div style="margin:0px;">3.0.4 / November&#160;28, 2017<span class="noprint">; 2 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2017-11-28</span>)</span></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external free" href="http://svn.freepascal.org/svn/fpc/trunk/">http://svn.freepascal.org/svn/fpc/trunk/</a></li>
+</ul>
+</div>
+<a href="https://www.wikidata.org/wiki/Q210295#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a> and <a href="/wiki/Assembly_language" title="Assembly language">Assembly</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Broad_categories" title="Software categories">Type</a></th>
+<td><a href="/wiki/Compiler" title="Compiler">Compiler</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.freepascal.org">www<wbr />.freepascal<wbr />.org</a></span></td>
+</tr>
+</table>
+<p><b>Free Pascal Compiler</b> (<b>FPC</b>) is a <a href="/wiki/Compiler" title="Compiler">compiler</a> for the closely related programming language dialects, <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a> and <a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a>. It is <a href="/wiki/Free_software" title="Free software">free software</a> released under the <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a>.</p>
+<p>It supports its own Object Pascal dialect as well as the dialects of several other Pascal family compilers to a certain extent, including those of <a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a>, <a href="/wiki/Delphi_(programming_language)" class="mw-redirect" title="Delphi (programming language)">Delphi</a>, and some historical <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> compilers. The dialect is selected on a <a href="/wiki/Modular_programming" title="Modular programming">per-unit (module)</a> basis, and more than one dialect can be used per program.</p>
+<p>It follows a <i><a href="/wiki/Write_once,_compile_anywhere" title="Write once, compile anywhere">write once, compile anywhere</a></i> philosophy, and is available for many <a href="/wiki/CPU_architecture" class="mw-redirect" title="CPU architecture">CPU architectures</a> and <a href="/wiki/Operating_system" title="Operating system">operating systems</a> (see <a href="#Targets">Targets</a>). It supports integrated <a href="/wiki/Assembly_language" title="Assembly language">assembly language</a> and an internal assembler in several dialects.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2016)">clarification needed</span></a></i>]</sup></p>
+<p>Separate projects exist to facilitate developing <a href="/wiki/Cross-platform" title="Cross-platform">cross-platform</a> <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a> (GUI) applications, the most prominent one being the <a href="/wiki/Lazarus_(software)" class="mw-redirect" title="Lazarus (software)">Lazarus</a> <a href="/wiki/Integrated_development_environment" title="Integrated development environment">integrated development environment</a> (IDE).</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Supported_dialects"><span class="tocnumber">1</span> <span class="toctext">Supported dialects</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Early_years"><span class="tocnumber">2.1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Expansion"><span class="tocnumber">2.2</span> <span class="toctext">Expansion</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Version_2"><span class="tocnumber">2.3</span> <span class="toctext">Version 2</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Version_2.2.x"><span class="tocnumber">2.4</span> <span class="toctext">Version 2.2.x</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Version_2.4.x"><span class="tocnumber">2.5</span> <span class="toctext">Version 2.4.x</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#version_2.6.x"><span class="tocnumber">2.6</span> <span class="toctext">version 2.6.x</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#version_3.0.x"><span class="tocnumber">2.7</span> <span class="toctext">version 3.0.x</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Later_releases"><span class="tocnumber">2.8</span> <span class="toctext">Later releases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Targets"><span class="tocnumber">3</span> <span class="toctext">Targets</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Integrated_development_environments"><span class="tocnumber">4</span> <span class="toctext">Integrated development environments</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Bundled_libraries"><span class="tocnumber">5</span> <span class="toctext">Bundled libraries</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Software_produced_with_Free_Pascal"><span class="tocnumber">6</span> <span class="toctext">Software produced with Free Pascal</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Official_websites"><span class="tocnumber">9.1</span> <span class="toctext">Official websites</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#General_introduction"><span class="tocnumber">9.2</span> <span class="toctext">General introduction</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Development_tools"><span class="tocnumber">9.3</span> <span class="toctext">Development tools</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Sites_specialized_in_game_development"><span class="tocnumber">9.4</span> <span class="toctext">Sites specialized in game development</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Supported_dialects">Supported dialects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=1" title="Edit section: Supported dialects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Initially, Free Pascal adopted the <i><a href="/wiki/De_facto_standard" title="De facto standard">de facto</a></i> standard dialect of Pascal programmers, <a href="/wiki/Borland" title="Borland">Borland</a> Pascal but later on adopted Delphi. From version 2.0 on, Delphi 7 compatibility has been continuously implemented or improved.</p>
+<p>The project has a <i>compilation mode</i> concept and the developers made it clear that they would incorporate working patches for the standardized dialects of the <a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">American National Standards Institute</a> (ANSI) and <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO), to create a standards-compliant mode.</p>
+<p>A small effort has been made to support some of the <a href="/wiki/Apple,_Inc." class="mw-redirect" title="Apple, Inc.">Apple</a> Pascal syntax to ease interfacing to the <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a> and <a href="/wiki/MacOS" title="MacOS">macOS</a>. Since the Apple dialect implements some standard Pascal features that Turbo Pascal and Delphi omit, Free Pascal is a bit more ISO-compatible than these.</p>
+<p>The 2.2.<i>x</i> release series does not significantly change the dialect objectives beyond Delphi 7, instead they aim for closer compatibility. The project still lacks the Delphi functionality of compiler-supported exporting of classes from shared libraries, which is useful, for example, for Lazarus, which implements packages of components.</p>
+<p>As of 2011<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Free_Pascal&amp;action=edit">[update]</a></sup>, several Delphi 2006-specific features were added in the development branch, and some of the starting work for the features new in Delphi 2009 (most notably the addition of the <code>UnicodeString</code> type) was completed. The development branch also features an <i>Objective-Pascal</i> extension for <a href="/wiki/Objective-C" title="Objective-C">Objective-C</a> (<a href="/wiki/Cocoa_(API)" title="Cocoa (API)">Cocoa</a>) interfacing.</p>
+<p>As of version 2.7.1, Free Pascal implemented basic ISO Pascal mode, though many things such as <code>Get</code> and <code>Put</code> procedure and file buffer variable concept for file handling were still absent.</p>
+<p>As of version 3.0.0, ISO Pascal mode is fairly complete, with one remaining bug that's fixed in 3.1.1 afterwards. It has been able to compile standardpascal.org's P5 with no changes.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=3" title="Edit section: Early years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Free Pascal was created when <a href="/wiki/Borland" title="Borland">Borland</a> clarified that <a href="/wiki/Borland_Pascal" class="mw-redirect" title="Borland Pascal">Borland Pascal</a> development for <a href="/wiki/DOS" title="DOS">DOS</a> would stop with version 7, to be replaced by a <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>-only product, which later became Delphi.</p>
+<p>Student Florian Paul Klämpfl began developing his own compiler written in the Turbo Pascal dialect and produced <a href="/wiki/32-bit" title="32-bit">32-bit</a> code for the GO32v1 <a href="/wiki/DOS_extender" title="DOS extender">DOS extender</a>, which was used and developed by the DJ's GNU Programming Platform (<a href="/wiki/DJGPP" title="DJGPP">DJGPP</a>) project at that time.</p>
+<p>Originally, the compiler was a <a href="/wiki/16-bit" title="16-bit">16-bit</a> DOS executable compiled by <a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a>. After two years, the compiler was able to <a href="/wiki/Bootstrapping_(compilers)" title="Bootstrapping (compilers)">compile itself</a> and became a 32-bit executable.</p>
+<h3><span class="mw-headline" id="Expansion">Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=4" title="Edit section: Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The initial 32-bit compiler was published on the <a href="/wiki/Internet" title="Internet">Internet</a>, and the first contributors joined the project. Later, a <a href="/wiki/Linux" title="Linux">Linux</a> port was created by Michael van Canneyt, five years before the Borland <a href="/wiki/Kylix_(software)" class="mw-redirect" title="Kylix (software)">Kylix</a> compiler became available.</p>
+<p>The DOS port was adapted for use in <a href="/wiki/OS/2" title="OS/2">OS/2</a> using the <a href="/wiki/EMX_(programming_environment)" title="EMX (programming environment)">Eberhard Mattes eXtender</a> (EMX) which made OS/2 the second supported compiling target. As well as Florian Klämpfl the original author, Daniël Mantione also contributed significantly to make this happen, providing the original port of the run-time library to OS/2 and EMX. The compiler improved gradually, and the DOS version migrated to the GO32v2 extender. This culminated in release 0.99.5, which was much more widely used than prior versions, and was the last release aiming only for Turbo Pascal compliance; later releases added a Delphi compatibility mode. This release was also ported to systems using a <a href="/wiki/Motorola_68000_family" class="mw-redirect" title="Motorola 68000 family">Motorola 68000 family</a> (m68k) processors.</p>
+<p>With release 0.99.8 the <a href="/wiki/Win32" class="mw-redirect" title="Win32">Win32</a> target was added, and a start was made with incorporating some Delphi features. Stabilizing for a non-<a href="/wiki/Software_release_life_cycle" title="Software release life cycle">beta release</a> began, and version 1.0 was released in July 2000. The 1.0.<i>x</i> series was widely used, in business and education. For the 1.0.<i>x</i> releases, the port to 68k CPU was redone, and the compiler produced stable code for several 68k <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> and <a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a> operating systems.</p>
+<h3><span class="mw-headline" id="Version_2">Version 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=5" title="Edit section: Version 2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the stabilization of what would become 1.0.<i>x</i>, and also when porting to the <a href="/wiki/Motorola" title="Motorola">Motorola</a> 68k systems, it was clear that the design of the code generator was far too limited in many aspects. The principal problems were that adding processors meant rewriting the code generator, and that the register allocation was based on the principle of always keeping three free registers between building blocks, which was inflexible and difficult to maintain.</p>
+<p>For these reasons, the 1.1.<i>x</i> series <a href="/wiki/Branching_(software)" class="mw-redirect" title="Branching (software)">branched</a> off from the 1.0.<i>x</i> main branch in December 1999. At first, changes were mostly clean-ups and rewrite-redesigns to all parts of the compiler. The code generator and register allocator were also rewritten. Any remaining missing Delphi compatibility was added.</p>
+<p>The work on 1.1.x continued slowly but steadily. In late 2003, a working <a href="/wiki/PowerPC" title="PowerPC">PowerPC</a> port became available, followed by an <a href="/wiki/ARM_architecture" title="ARM architecture">ARM</a> port in summer 2004, a <a href="/wiki/SPARC" title="SPARC">SPARC</a> port in fall 2004, and an <a href="/wiki/X86-64" title="X86-64">x86-64</a>-AMD64 port in early 2004, which made the compiler available for a 64-bit platform.</p>
+<p>In November 2003, a first <a href="/wiki/Beta_testing" class="mw-redirect" title="Beta testing">beta</a> release of the 1.1.<i>x</i> branch was packaged and numbered 1.9.0. These were quickly followed by versions 1.9.2 and 1.9.4; the latter introduced OS X support. The work continued with version 1.9.6 (January 2005), 1.9.8 (late February 2005), 2.0.0 (May 2005), 2.0.2 (December 2005), and 2.0.4 (August 2006).</p>
+<h3><span class="mw-headline" id="Version_2.2.x">Version 2.2.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=6" title="Edit section: Version 2.2.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2006, some of the major reworks planned for 2.2, such as the rewrite of the unit system, had still not begun, and it was decided to instead start stabilizing the already implemented features.</p>
+<p>Some of the motives for this <a href="/wiki/Plan" title="Plan">roadmap</a> change were the needs of the Lazarus project, particularly the internal linker, support for <a href="/wiki/Win64" class="mw-redirect" title="Win64">Win64</a>, <a href="/wiki/Windows_CE" class="mw-redirect" title="Windows CE">Windows CE</a>, and OS X on <a href="/wiki/X86" title="X86">x86</a>, and related features like <a href="/wiki/DWARF" title="DWARF">DWARF</a>. After betas 2.1.2 and 2.1.4, version 2.2.0 was released in September 2007, followed by version 2.2.2 in August 2008 and version 2.2.4 in March 2009.</p>
+<p>The 2.2.<i>x</i> series vastly improved support for the <a href="/wiki/ActiveX" title="ActiveX">ActiveX</a> and <a href="/wiki/Component_Object_Model" title="Component Object Model">Component Object Model</a> (COM) <a href="/wiki/Interface_(computer_science)" class="mw-redirect" title="Interface (computer science)">interface</a>, and <a href="/wiki/Object_Linking_and_Embedding" title="Object Linking and Embedding">Object Linking and Embedding</a> (OLE), though bugs were still being found. The delegation to interface using the <code>implements</code> keyword was partly implemented, but was not complete as of March&#160;2011<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Free_Pascal&amp;action=edit">[update]</a></sup>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Library support for ActiveX was also improved.</p>
+<p>Another major feature was the internal linker for Win32, Win64, and Windows CE, which greatly improveď linking time and memory use, and make the compile-link-run cycle in Lazarus much faster. The efficiency for smart-linking, or dead code elimination, was also improved.</p>
+<p>Minor new features included improved DWARF (2/3) debug format support, and optimizations such as <a href="/wiki/Tail_call" title="Tail call">tail recursion</a>, omission of unneeded <a href="/wiki/Stack_frame" class="mw-redirect" title="Stack frame">stack frames</a> and register-based <a href="/wiki/Common_subexpression_elimination" title="Common subexpression elimination">common subexpression elimination</a> (CSE) optimization. A first implementation of <a href="/wiki/Generic_programming" title="Generic programming">generic programming</a> (generics) support also became available, but only experimentally.</p>
+<h3><span class="mw-headline" id="Version_2.4.x">Version 2.4.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=7" title="Edit section: Version 2.4.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 2.4.x release series had a less clear set of goals than earlier releases. The unit system rewrite was postponed again, and the branch that became 2.4 was created to keep risky commits from 2.2 to stabilize it. Mostly these risky commits were more involved improvements to the new platforms, Mac <a href="/wiki/PowerPC" title="PowerPC">PowerPC</a> 64, Mac <a href="/wiki/X86-64" title="X86-64">x86-64</a>, iPhone, and many fixes to the ARM and x86-64 architectures in general, as well as <a href="/wiki/DWARF" title="DWARF">DWARF</a>.</p>
+<p>Other compiler improvements included <a href="/wiki/Whole_program_optimization" class="mw-redirect" title="Whole program optimization">whole program optimization</a> (WPO) and devirtualization and ARM <a href="/wiki/Embedded-application_binary_interface" class="mw-redirect" title="Embedded-application binary interface">embedded-application binary interface</a> (EABI) support.</p>
+<p>Later, during the 2.2 cycle, a more <a href="/wiki/Delphi_(programming_language)" class="mw-redirect" title="Delphi (programming language)">Delphi</a>-like resource support (based on special sections in the binary instead of Pascal constants) was added. This feature, direly needed by Lazarus, became the main highlight of the branch.</p>
+<p>Other more minor additions were a <a href="/wiki/Memory_management" title="Memory management">memory manager</a> that improved <a href="/wiki/Dynamic_memory_allocation" class="mw-redirect" title="Dynamic memory allocation">heap</a> manager performance in <a href="/wiki/Thread_(computer_science)" class="mw-redirect" title="Thread (computer science)">threaded</a> environments, small improvements in Delphi compatibility such as <code>OleVariant</code>, and improvements in <a href="/wiki/Interface_(computer_science)" class="mw-redirect" title="Interface (computer science)">interface</a> <a href="/wiki/Delegation_(programming)" class="mw-redirect" title="Delegation (programming)">delegation</a>.</p>
+<p>On January 1, 2010, Free Pascal 2.4.0 was released, followed on November 13, 2010, by bug fix release 2.4.2, with support for <code>for..in</code> loops, <code>sealed</code> and <code>abstract</code> classes, and other changes.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="version_2.6.x">version 2.6.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=8" title="Edit section: version 2.6.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In January 2012, Free Pascal 2.6 was released. This first version from the 2.6 release series also supported <a href="/w/index.php?title=Objective_Pascal&amp;action=edit&amp;redlink=1" class="new" title="Objective Pascal (page does not exist)">Objective Pascal</a> on OS X and <a href="/wiki/IOS" title="IOS">iOS</a> targets and implemented many small improvements and bug fixes. In February 2013, FPC 2.6.2 was released. It contained <a href="/wiki/NetBSD" title="NetBSD">NetBSD</a> and <a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a> releases for the first time since 1.0.10, based on fresh ports. In March 2014, the last point release in the 2.6 series, 2.6.4, was launched, featuring mostly database (fcl-db) updates.<br /></p>
+<h3><span class="mw-headline" id="version_3.0.x">version 3.0.x</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=9" title="Edit section: version 3.0.x">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Version 3.0.0 was released on November 25, 2015 and was the first major release since Januari 1, 2012. It contains many new language features: <a rel="nofollow" class="external text" href="http://wiki.freepascal.org/FPC_New_Features_3.0">|FPC New Features 3.0</a><br /></p>
+<h3><span class="mw-headline" id="Later_releases">Later releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=10" title="Edit section: Later releases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Version 3.0.2 was released on February 15, 2017 and includes bug fixes and minor compiler updates.<br />
+Version 3.0.4 was released on November 28, 2017.<br />
+It includes many language improvements over previous versions like an internal linker for <a href="/wiki/Executable_and_Linkable_Format" title="Executable and Linkable Format">Executable and Linkable Format</a> (ELF), Arm AARCH64 for iOS and Linux, a revived i8086 platform, extended libraries and much more.</p>
+<h2><span class="mw-headline" id="Targets">Targets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=11" title="Edit section: Targets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Processor architecture</th>
+<th>Operating system, device</th>
+<th>Version 3.0.0</th>
+<th>Version 2.6.2</th>
+<th>Version 2.6.0</th>
+<th>Version 2.4.4</th>
+<th>Version 2.4.2</th>
+<th>Version 2.4.0</th>
+<th>Version 2.2.4</th>
+<th>Version 2.0.<i>x</i></th>
+<th>Version 1.0.<i>x</i></th>
+</tr>
+<tr>
+<th rowspan="15"><a href="/wiki/I386" class="mw-redirect" title="I386">i386</a></th>
+<td><a href="/wiki/DOS" title="DOS">DOS</a> (<a href="/w/index.php?title=GO32v2&amp;action=edit&amp;redlink=1" class="new" title="GO32v2 (page does not exist)">GO32v2</a> <a href="/wiki/DOS_extender" title="DOS extender">extender</a>)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+</tr>
+<tr>
+<td><a href="/wiki/NetBSD" title="NetBSD">NetBSD</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/MacOS" title="MacOS">macOS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/OS/2" title="OS/2">OS/2</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Windows_CE" class="mw-redirect" title="Windows CE">Windows CE</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Haiku_(operating_system)" title="Haiku (operating system)">Haiku</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes<sup>BeOS only</sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/NetWare" title="NetWare">NetWare</a></td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=IPhoneSim&amp;action=edit&amp;redlink=1" class="new" title="IPhoneSim (page does not exist)">iPhoneSim</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/QNX_Neutrino" class="mw-redirect" title="QNX Neutrino">QNX Neutrino</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/AROS_Research_Operating_System" title="AROS Research Operating System">AROS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="7"><a href="/wiki/X86-64" title="X86-64">x86-64</a></th>
+<td><a href="/wiki/Freebsd" class="mw-redirect" title="Freebsd">FreeBSD</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+</tr>
+<tr>
+<td><a href="/wiki/NetBSD" title="NetBSD">NetBSD</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+</tr>
+<tr>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/MacOS" title="MacOS">macOS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="7"><a href="/wiki/ARM_architecture" title="ARM architecture">ARM</a></th>
+<td><a href="/wiki/IOS_(Apple)" class="mw-redirect" title="IOS (Apple)">iOS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Nintendo_DS" title="Nintendo DS">Nintendo DS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Windows_CE" class="mw-redirect" title="Windows CE">Windows CE</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Dalvik_(software)" title="Dalvik (software)">Android</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Embedded_system" title="Embedded system">Embedded</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="5"><a href="/wiki/PowerPC" title="PowerPC">PowerPC</a></th>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/MorphOS" title="MorphOS">MorphOS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/AIX" class="mw-redirect" title="AIX">AIX</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="3">PowerPC 64-bit</th>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/AIX" class="mw-redirect" title="AIX">AIX</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="2"><a href="/wiki/SPARC" title="SPARC">SPARC</a></th>
+<td><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes <sup>32bit only</sup></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="2"><a href="/wiki/Java_virtual_machine" title="Java virtual machine">Java virtual machine</a></th>
+<td><a href="/wiki/Java_(software_platform)" title="Java (software platform)">Java</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Dalvik_(software)" title="Dalvik (software)">Android</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="2"><a href="/wiki/MIPS_architecture" title="MIPS architecture">MIPS</a> (BE and LE)</th>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<td><a href="/wiki/Embedded_system" title="Embedded system">Embedded</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th><a href="/wiki/8086" class="mw-redirect" title="8086">8086</a> (16-bit)</th>
+<td><a href="/wiki/DOS" title="DOS">DOS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+</tr>
+<tr>
+<th rowspan="4"><a href="/wiki/Motorola_68000_series" title="Motorola 68000 series">m68k</a></th>
+<td><a href="/wiki/Linux" title="Linux">Linux</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/NetBSD" title="NetBSD">NetBSD</a></td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Unknown</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Atari_TOS" title="Atari TOS">Atari TOS</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes<sup>limited cross-compiler only</sup></td>
+</tr>
+</table>
+<p>Free Pascal also supports byte code generation for the <a href="/wiki/Java_Virtual_Machine" class="mw-redirect" title="Java Virtual Machine">Java Virtual Machine</a> as of version 3.0.0 and targets both Oracle's Java and Google's Android JVM,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> although Object Pascal syntax is not fully supported. Free Pascal 3.0.0 also supports ARMHF platforms like the Raspberry Pi, including ARMV6-EABIHF running on Raspbian. <a href="/wiki/MIPS_architecture" title="MIPS architecture">MIPS</a>. Work on 64-bit ARM has resulted in support for iOS in 3.0.0 as well. A native ARM Android target has been added, ending the formerly hacked ARM Linux target to generate native ARM libraries for Android. This makes porting Lazarus applications to Android (using Custom Drawn Interface<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>) easier. Since FPC 2.6.2, <a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a> and <a href="/wiki/NetBSD" title="NetBSD">NetBSD</a> are supported on IA32 and X86_64 architectures. A new target <i>embedded</i> has been added for usage without OS (ARM Cortex M and MIPS mainly). With InstantFPC it is possible to run Pascal programs, which are translated just in time, as Unix scripts or <a href="/wiki/Common_Gateway_Interface" title="Common Gateway Interface">CGI</a> back-end.</p>
+<h2><span class="mw-headline" id="Integrated_development_environments">Integrated development environments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=12" title="Edit section: Integrated development environments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like most modern compilers, Free Pascal can be used with an <a href="/wiki/Integrated_development_environment" title="Integrated development environment">integrated development environment</a> (IDE). Besides independent IDEs there are also plugins to various existing IDEs</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:FPIDE_1.0.10_de.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/FPIDE_1.0.10_de.png/220px-FPIDE_1.0.10_de.png" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/FPIDE_1.0.10_de.png/330px-FPIDE_1.0.10_de.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/FPIDE_1.0.10_de.png/440px-FPIDE_1.0.10_de.png 2x" data-file-width="640" data-file-height="408" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:FPIDE_1.0.10_de.png" class="internal" title="Enlarge"></a></div>
+Free Pascal IDE in <a href="/wiki/Linux" title="Linux">Linux</a></div>
+</div>
+</div>
+<ul>
+<li>Free Pascal has its own text-mode IDE resembling Turbo Pascal's IDE. It is made using the Free Vision framework (also included with Free Pascal), a Turbo Vision clone. In addition to many features of the Turbo Pascal IDE, it has code completion and support for multiple help file formats (HTML, <a href="/wiki/Microsoft_Compiled_HTML_Help" title="Microsoft Compiled HTML Help">Microsoft Compiled HTML Help</a> (CHM), <a href="/wiki/Information_Presentation_Facility" title="Information Presentation Facility">Information Presentation Facility</a> (IPF). Instead of using command line tools, the IDE uses its own embedded compiler, based on the same source as the command line compiler and debugger (using libgdb or GDBMI) to provide its functionality.</li>
+<li><a href="/wiki/Lazarus_(IDE)" title="Lazarus (IDE)">Lazarus</a> is the most popular IDE used by Free Pascal programmers. It looks and feels similar to the Delphi IDE, and can be used to create <a href="/wiki/Console_application" title="Console application">console</a> and <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical</a> applications, <a href="/wiki/Windows_service" title="Windows service">Windows services</a>, <a href="/wiki/Daemon_(computer_software)" class="mw-redirect" title="Daemon (computer software)">daemons</a>, and <a href="/wiki/Web_application" title="Web application">web applications</a>. Lazarus provides a cross-platform user interface framework, called <a href="/wiki/Lazarus_Component_Library" title="Lazarus Component Library">Lazarus Component Library</a> (LCL). Graphical applications created with LCL can be ported to another platform via <a href="/wiki/Write_once,_compile_anywhere" title="Write once, compile anywhere">recompiling</a> or <a href="/wiki/Cross_compiler" title="Cross compiler">cross compiling</a>.</li>
+<li><a href="/w/index.php?title=CodeTyphon&amp;action=edit&amp;redlink=1" class="new" title="CodeTyphon (page does not exist)">CodeTyphon</a> is a third party distribution of the Lazarus IDE for Windows, Linux, FreeBSD and Solaris. It has already many components pre-installed and aims for a cross compiling out of the box. The project has been said<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (October 2016)">according to whom?</span></a></i>]</sup> to have forked from Lazarus and FPC, but despite that still synchronizes regularly.</li>
+<li><a href="/w/index.php?title=MSEide&amp;action=edit&amp;redlink=1" class="new" title="MSEide (page does not exist)">MSEide</a> is another Free Pascal-based IDE for building lightweight applications.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup> MSEgui, similarly to LCL for Lazarus, is the class library that comes with MSEide. It communicates directly with <a href="/wiki/X11" class="mw-redirect" title="X11">X11</a> via <a href="/wiki/Xlib" title="Xlib">Xlib</a> on <a href="/wiki/Linux" title="Linux">Linux</a>, and <a href="/wiki/Windows_API" title="Windows API">Windows API</a> (WinAPI, gdi32) in <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, with support for <a href="/wiki/Multiple_document_interface" title="Multiple document interface">multiple document interface</a> (MDI) and visual form <a href="/wiki/Inheritance_(computer_science)" class="mw-redirect" title="Inheritance (computer science)">inheritance</a>.</li>
+<li><a href="/wiki/Dev-Pascal" title="Dev-Pascal">Dev-Pascal</a> is a free Windows-only IDE for Free Pascal and <a href="/wiki/GNU_Pascal" title="GNU Pascal">GNU Pascal</a>, with no further development following the 2004 FPC version and the 2005 GPC version.</li>
+<li><a href="/w/index.php?title=Open_Sibyl&amp;action=edit&amp;redlink=1" class="new" title="Open Sibyl (page does not exist)">Open Sibyl</a> was an effort to retarget the Sibyl (Speed/2 Pascal) IDE for OS/2 and eCS to Free Pascal after Speedsoft released the sources of the Sibyl (Speedpascal) IDE. Its functional status and completeness are unknown, and the last snapshot was from 2002. Attempts to retarget to <a href="/wiki/Virtual_Pascal" title="Virtual Pascal">Virtual Pascal</a> preceded it.</li>
+<li><a href="/wiki/Megido_(Free_Pascal)" title="Megido (Free Pascal)">Megido</a> was an effort to create a cross-platform IDE for Free Pascal. It was discontinued, but paved the way for developing Lazarus and Open Sibyl.</li>
+<li><a href="/w/index.php?title=PascalGUI&amp;action=edit&amp;redlink=1" class="new" title="PascalGUI (page does not exist)">PascalGUI</a> is small IDE that runs directly on <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> devices.</li>
+<li>I-Pascal is an Object Pascal IDE <a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">plug-in</a> for the <a href="/wiki/IntelliJ_IDEA" title="IntelliJ IDEA">IntelliJ IDEA</a> platform.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It provides all main features and advanced Pascal code navigation, Free Pascal Compiler integration and other features provided by IDEA.</li>
+<li><a rel="nofollow" class="external text" href="https://www.omnipascal.com">OmniPascal</a> is an Object Pascal plugin for <a href="/wiki/Visual_Studio_Code" title="Visual Studio Code">Visual Studio Code</a>. It provides code completion, build integration and other features.</li>
+</ul>
+<h2><span class="mw-headline" id="Bundled_libraries">Bundled libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=13" title="Edit section: Bundled libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Apart from a compiler and an IDE Free Pascal provides the following libraries:</p>
+<ul>
+<li><a href="/wiki/Free_Pascal_Runtime_Library" title="Free Pascal Runtime Library">Free Pascal Runtime Library</a> (RTL): Basic low-level <a href="/wiki/Runtime_library" title="Runtime library">runtime library</a> for general programming tasks</li>
+<li><a href="/wiki/Free_Component_Library" title="Free Component Library">Free Component Library</a> (FCL): High-level software component library for general programming tasks</li>
+</ul>
+<h2><span class="mw-headline" id="Software_produced_with_Free_Pascal">Software produced with Free Pascal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=14" title="Edit section: Software produced with Free Pascal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Beyond_Compare" title="Beyond Compare">Beyond Compare</a> is a data comparison utility for Windows, OS X, and Linux. The Linux and OS X versions are compiled with Lazarus/FPC.</li>
+<li><a href="/wiki/Cartes_du_Ciel" title="Cartes du Ciel">Cartes du Ciel</a> is a free <a href="/wiki/Planetarium" title="Planetarium">planetarium</a> program for Linux, OS X, and Windows. It maps and labels most constellations, planets, and objects visible by telescope. It was fully written in Lazarus/FPC, and released under GPL.</li>
+<li><a href="/wiki/Cheat_Engine" title="Cheat Engine">Cheat Engine</a> is an open-source memory scanner, hex editor, and debugger. It can be used for cheating in computer games. Since version 6.0 it is compiled with Lazarus/FPC.</li>
+<li>Free Pascal is written in Object Pascal and assembly language, and <a href="/wiki/Bootstrapping_(compilers)" title="Bootstrapping (compilers)">self-compiled</a>.</li>
+<li><a href="/wiki/Hedgewars" title="Hedgewars">Hedgewars</a>: a turn based strategy game similar to <a href="/wiki/Worms_(series)" title="Worms (series)">Worms</a>.</li>
+<li><a href="/wiki/HNSKY" title="HNSKY">HNSKY</a>, Hallo Northern Sky is a free <a href="/wiki/Planetarium" title="Planetarium">planetarium</a> program for Windows and Linux. Since version 3.4.0 written &amp; compiled with Lazarus/FPC.</li>
+<li>Lazarus: Free Pascal’s affiliated <a href="/wiki/Delphi_(programming_language)" class="mw-redirect" title="Delphi (programming language)">Delphi</a>-like software package for rapid development of graphical applications.</li>
+<li><a href="/wiki/Morfik" title="Morfik">Morfik</a>: Morfik WebOS AppBuilder uses Free Pascal to produce CGI binaries.</li>
+<li><a href="/wiki/MyNotex" title="MyNotex">MyNotex</a> is a free software note-taking and notes manager for GNU/Linux.</li>
+<li><a href="/wiki/Peazip" class="mw-redirect" title="Peazip">Peazip</a> is an open source archiver, made with Lazarus/FPC.</li>
+<li>Pixel Studio FX is an image editor, similar to <a href="/wiki/Adobe_Photoshop" title="Adobe Photoshop">Photoshop</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>Symsyn is an old style programming language that runs on a Pascal Virtual Machine.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/wiki/TorChat" title="TorChat">TorChat</a>, previously written in Python, is now being rewritten in Free Pascal and Lazarus.</li>
+<li><a href="/w/index.php?title=QED_Solver&amp;action=edit&amp;redlink=1" class="new" title="QED Solver (page does not exist)">QED Solver</a> is software to perform numerical calculations for math, science and engineering applications.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> It has a simple declarative programming language that allows linear and nonlinear equations to be entered as one would write them. The iOS version is built with an Objective-C front end that is statically linked to the equation solving engine and syntax highlighter, written in Object Pascal and compiled using Free Pascal.</li>
+<li>Ultibo is an embedded development environment for Raspberry Pi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Mizar Proof Checker<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/FpGUI" title="FpGUI">fpGUI</a> Free Pascal GUI toolkit – a cross platform and custom drawn toolkit, implemented in Object Pascal</li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bugs.freepascal.org/view.php?id=8951">bugs.freepascal.org</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wiki.freepascal.org/User_Changes_2.4.2">User Changes 2.4.2</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wiki.freepascal.org/FPC_JVM">freepascal wiki: FPC JVM</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wiki.freepascal.org/Custom_Drawn_Interface/Android">Custom Drawn Interface</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.siberika.com/siberika/ipascal.htm">An Object Pascal IDE plug-in</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pixelstudiofx.com/">Pixel Studio FX</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://qsys.us/symsyn/">Symsyn</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.qedsolver.com">QED Solver</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ultibo.org/">Ultibo</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mizar.uwb.edu.pl/sum/">"Association of Mizar Users"</a>. <i>mizar.uwb.edu.pl</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mizar.uwb.edu.pl&amp;rft.atitle=Association+of+Mizar+Users&amp;rft_id=http%3A%2F%2Fmizar.uwb.edu.pl%2Fsum%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFree+Pascal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Free_Pascal" class="extiw" title="commons:Category:Free Pascal">Free Pascal</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Pascal_Programming" class="extiw" title="wikibooks:Pascal Programming">Pascal Programming</a></b></i></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Official_websites">Official websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=18" title="Edit section: Official websites">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.freepascal.org">Official website</a></span></span></li>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://lazarus.freepascal.org">Official website</a></span></span> Lazarus</li>
+</ul>
+<h3><span class="mw-headline" id="General_introduction">General introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=19" title="Edit section: General introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.osnews.com/story.php?news_id=10607">Introduction to Free Pascal 2.0</a> – by Daniël Mantione, with in-depth introduction to the new version and a bit of its development history</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070823152428/http://www.friends-of-fpc.org/tutorials/basics/dlx_fpc/index.html">Getting Started with FPC</a></li>
+</ul>
+<h3><span class="mw-headline" id="Development_tools">Development tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=20" title="Edit section: Development tools">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060704050427/http://ims.mii.lt/fps/en/about/index.html">FPS</a> –a complete Win32-based IDE for FPC, including debugger (<a href="/wiki/Stack_trace" title="Stack trace">trace</a>, <a href="/wiki/Breakpoint" title="Breakpoint">breakpoint</a> and <a href="/wiki/Breakpoint" title="Breakpoint">watch</a> windows)</li>
+<li><a rel="nofollow" class="external text" href="http://www.bloodshed.net/devpascal.html">DevPascal</a> – Win32 based IDE for FPC</li>
+<li><a rel="nofollow" class="external text" href="http://coderesearchlabs.com/tabitha/">Tabitha</a> – a Windows portable editor for FreePascal</li>
+<li><a rel="nofollow" class="external text" href="http://www.morfik.com">Morfik</a> – Win32 based IDE for build Ajax-based web applications that uses FPC for compiling back-end server side logic</li>
+</ul>
+<h3><span class="mw-headline" id="Sites_specialized_in_game_development">Sites specialized in game development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free_Pascal&amp;action=edit&amp;section=21" title="Edit section: Sites specialized in game development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.pascalgamedevelopment.com">Pascal Game Development</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.pascalgamer.com">Pascal Gamer Magazine</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060616003211/http://fpc4gba.pascalgamedevelopment.com/">FPC 4 GBA Initiative</a> – Free Pascal support project for the Game Boy Advance platform</li>
+<li><a rel="nofollow" class="external text" href="http://itaprogaming.free.fr/tutorial.html">FPC 4 GBA Programming Tutorial</a> – an extensive tutorial into game programming on the Game Boy Advance with Free Pascal</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Pascal_programming_language_family" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pascal_programming_language_family" title="Template:Pascal programming language family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pascal_programming_language_family" title="Template talk:Pascal programming language family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pascal_programming_language_family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Pascal_programming_language_family" style="font-size:114%;margin:0 4em"><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal programming language</a> family</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Dialects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a></li>
+<li><a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a></li>
+<li><a href="/wiki/Pascal_Script" title="Pascal Script">Pascal Script</a></li>
+<li><a href="/wiki/Oxygene_(programming_language)" title="Oxygene (programming language)">Oxygene</a></li>
+<li><a href="/wiki/Clascal" title="Clascal">Clascal</a></li>
+<li><a href="/wiki/Concurrent_Pascal" title="Concurrent Pascal">Concurrent Pascal</a></li>
+<li><a href="/wiki/SuperPascal" title="SuperPascal">SuperPascal</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Blaise_pascal.jpg" class="image"><img alt="Blaise pascal.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Blaise_pascal.jpg/90px-Blaise_pascal.jpg" width="90" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Blaise_pascal.jpg/135px-Blaise_pascal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Blaise_pascal.jpg/180px-Blaise_pascal.jpg 2x" data-file-width="300" data-file-height="314" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Compilers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Current</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Delphi_(IDE)" title="Delphi (IDE)">Delphi</a></li>
+<li><a href="/wiki/Oxygene_(programming_language)" title="Oxygene (programming language)">Oxygene</a></li>
+<li><a href="/wiki/PocketStudio" title="PocketStudio">PocketStudio</a></li>
+<li><a href="/wiki/HP_Pascal" title="HP Pascal">HP Pascal</a></li>
+<li><a href="/wiki/IP_Pascal" title="IP Pascal">IP Pascal</a></li>
+<li><a class="mw-selflink selflink">Free Pascal</a> (<a href="/wiki/Lazarus_(IDE)" title="Lazarus (IDE)">Lazarus</a>)</li>
+<li><a href="/wiki/PascalABC.NET" title="PascalABC.NET">PascalABC.NET</a></li>
+<li><a href="/wiki/GNU_Pascal" title="GNU Pascal">GNU Pascal</a></li>
+<li><a href="/wiki/Turbo51" title="Turbo51">Turbo51</a></li>
+<li><a href="/wiki/MIDletPascal" title="MIDletPascal">MIDletPascal</a></li>
+<li><a href="/wiki/Pic_Micro_Pascal" title="Pic Micro Pascal">Pic Micro Pascal</a></li>
+<li><a href="/wiki/Amsterdam_Compiler_Kit" title="Amsterdam Compiler Kit">ACK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Historic</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virtual_Pascal" title="Virtual Pascal">Virtual Pascal</a></li>
+<li><a href="/wiki/Apple_Pascal" title="Apple Pascal">Apple Pascal</a></li>
+<li><a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a></li>
+<li><a href="/wiki/Microsoft_Pascal" title="Microsoft Pascal">Microsoft Pascal</a></li>
+<li><a href="/wiki/UCSD_Pascal" title="UCSD Pascal">UCSD Pascal</a></li>
+<li><a href="/wiki/JRT_(programming_language)" title="JRT (programming language)">JRT</a></li>
+<li><a href="/wiki/Pascal/MT%2B" title="Pascal/MT+">Pascal/MT+</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Application_programming_interface" title="Application programming interface">API</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Component_Library_for_Cross_Platform" title="Component Library for Cross Platform">CLX</a></li>
+<li><a href="/wiki/Free_Component_Library" title="Free Component Library">FCL</a></li>
+<li><a href="/wiki/FireMonkey" title="FireMonkey">FireMonkey</a></li>
+<li><a href="/wiki/Lazarus_Component_Library" title="Lazarus Component Library">LCL</a></li>
+<li><a href="/wiki/Object_Windows_Library" title="Object Windows Library">Object Windows Library</a></li>
+<li><a href="/wiki/OpenWire_(library)" title="OpenWire (library)">OpenWire</a></li>
+<li><a href="/wiki/Free_Pascal_Runtime_Library" title="Free Pascal Runtime Library">RTL</a></li>
+<li><a href="/wiki/Turbo_Vision" title="Turbo Vision">Turbo Vision</a></li>
+<li><a href="/wiki/Visual_Component_Library" title="Visual Component Library">Visual Component Library</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_Pascal_and_C" title="Comparison of Pascal and C">Comparison of Pascal and C</a></li>
+<li><a href="/wiki/Comparison_of_Pascal_and_Delphi" title="Comparison of Pascal and Delphi">Comparison of Pascal and Delphi</a></li>
+</ul>
+<dl>
+<dt><span style="font-weight:normal;">Related to</span></dt>
+<dd><a href="/wiki/ALGOL" title="ALGOL">ALGOL</a> (1958)</dd>
+<dd><a href="/wiki/Modula-2" title="Modula-2">Modula-2</a> (1977)</dd>
+<dd><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a> (1983)</dd>
+<dd><a href="/wiki/Oberon_(programming_language)" title="Oberon (programming language)">Oberon</a> (1986)</dd>
+<dd><a href="/wiki/Modula-3" title="Modula-3">Modula-3</a> (1988)</dd>
+<dd><a href="/wiki/Oberon-2" title="Oberon-2">Oberon-2</a> (1991)</dd>
+<dd><a href="/wiki/Component_Pascal" title="Component Pascal">Component Pascal</a> (1991)</dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Free_and_open-source_software" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:FOSS" title="Template:FOSS"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:FOSS" title="Template talk:FOSS"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:FOSS&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Free_and_open-source_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source software</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternative_terms_for_free_software" title="Alternative terms for free software">Alternative terms for free software</a></li>
+<li><a href="/wiki/Comparison_of_open-source_and_closed-source_software" title="Comparison of open-source and closed-source software">Comparison of open-source and closed-source software</a></li>
+<li><a href="/wiki/Comparison_of_source_code_hosting_facilities" title="Comparison of source code hosting facilities">Comparison of source code hosting facilities</a></li>
+<li><a href="/wiki/Free_software" title="Free software">Free software</a></li>
+<li><a href="/wiki/List_of_free_software_project_directories" title="List of free software project directories">Free software project directories</a></li>
+<li><a href="/wiki/Gratis_versus_libre" title="Gratis versus libre">Gratis versus libre</a></li>
+<li><a href="/wiki/Long-term_support" title="Long-term support">Long-term support</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source software</a></li>
+<li><a href="/wiki/Open-source_software_development" title="Open-source software development">Open-source software development</a></li>
+<li><a href="/wiki/Outline_of_free_software" title="Outline of free software">Outline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_free_and_open-source_software_packages" title="List of free and open-source software packages">Software<br />
+packages</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_free_software_for_audio" title="Comparison of free software for audio">Audio</a></li>
+<li><a href="/wiki/List_of_open-source_bioinformatics_software" title="List of open-source bioinformatics software">Bioinformatics</a></li>
+<li><a href="/wiki/List_of_open-source_codecs" title="List of open-source codecs">Codecs</a></li>
+<li><a href="/wiki/List_of_collaborative_software#Open_source_software" title="List of collaborative software">Collaboration</a></li>
+<li><a href="/wiki/Comparison_of_open-source_configuration_management_software" title="Comparison of open-source configuration management software">Configuration management</a></li>
+<li><a href="/wiki/Device_driver#Open_drivers" title="Device driver">Device drivers</a>
+<ul>
+<li><a href="/wiki/Free_and_open-source_graphics_device_driver" title="Free and open-source graphics device driver">Graphics</a></li>
+<li><a href="/wiki/Comparison_of_open-source_wireless_drivers" title="Comparison of open-source wireless drivers">Wireless</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Comparison_of_free_geophysics_software" title="Comparison of free geophysics software">Geophysics</a></li>
+<li><a href="/wiki/List_of_open-source_health_software" title="List of open-source health software">Health</a></li>
+<li><a href="/wiki/List_of_open-source_software_for_mathematics" title="List of open-source software for mathematics">Mathematics</a></li>
+<li><a href="/wiki/Comparison_of_open-source_operating_systems" title="Comparison of open-source operating systems">Operating systems</a></li>
+<li><a href="/wiki/Comparison_of_open-source_programming_language_licensing" title="Comparison of open-source programming language licensing">Programming languages</a></li>
+<li><a href="/wiki/List_of_open-source_routing_platforms" title="List of open-source routing platforms">Routing</a></li>
+<li><a href="/wiki/List_of_statistical_packages#Open-source_statistical_packages" title="List of statistical packages">Statistics</a></li>
+<li><a href="/wiki/List_of_free_television_software" title="List of free television software">Television</a></li>
+<li><a href="/wiki/List_of_open-source_video_games" title="List of open-source video games">Video games</a></li>
+<li><a href="/wiki/List_of_free_software_web_applications" title="List of free software web applications">Web applications</a>
+<ul>
+<li><a href="/wiki/List_of_content_management_systems#Open_source_software" title="List of content management systems">Content management systems</a></li>
+<li><a href="/wiki/Comparison_of_shopping_cart_software" title="Comparison of shopping cart software">E-commerce</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_word_processors#Free_and_open-source_software" title="List of word processors">Word processors</a></li>
+<li><a href="/wiki/List_of_free_and_open-source_Android_applications" title="List of free and open-source Android applications">Android apps</a></li>
+<li><a href="/wiki/List_of_free_and_open-source_iOS_applications" title="List of free and open-source iOS applications">iOS apps</a></li>
+<li><a href="/wiki/List_of_commercial_open-source_applications_and_services" title="List of commercial open-source applications and services">Commercial</a></li>
+<li><a href="/wiki/List_of_trademarked_open-source_software" title="List of trademarked open-source software">Trademarked</a></li>
+<li><a href="/wiki/List_of_formerly_proprietary_software" title="List of formerly proprietary software">Formerly proprietary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Community</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Free_software_movement" title="Free software movement">Free software movement</a></li>
+<li><a href="/wiki/History_of_free_and_open-source_software" title="History of free and open-source software">History</a></li>
+<li><a href="/wiki/Open-source_software_movement" title="Open-source software movement">Open-source software movement</a></li>
+<li><a href="/wiki/List_of_free_and_open-source_software_organizations" title="List of free and open-source software organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_free-software_events" title="List of free-software events">Events</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_software_license" title="Free software license">Licenses</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Academic_Free_License" title="Academic Free License">AFL</a></li>
+<li><a href="/wiki/Apache_License" title="Apache License">Apache</a></li>
+<li><a href="/wiki/Apple_Public_Source_License" title="Apple Public Source License">APSL</a></li>
+<li><a href="/wiki/Artistic_License" title="Artistic License">Artistic</a></li>
+<li><a href="/wiki/Beerware" title="Beerware">Beerware</a></li>
+<li><a href="/wiki/Boost_Software_License" class="mw-redirect" title="Boost Software License">Boost</a></li>
+<li><a href="/wiki/BSD_licenses" title="BSD licenses">BSD</a></li>
+<li><a href="/wiki/Creative_Commons_license#Zero_/_public_domain" title="Creative Commons license">CC0</a></li>
+<li><a href="/wiki/Common_Development_and_Distribution_License" title="Common Development and Distribution License">CDDL</a></li>
+<li><a href="/wiki/Eclipse_Public_License" title="Eclipse Public License">EPL</a></li>
+<li><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU GPL</a></li>
+<li><a href="/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">GNU LGPL</a></li>
+<li><a href="/wiki/ISC_license" title="ISC license">ISC</a></li>
+<li><a href="/wiki/MIT_License" title="MIT License">MIT</a></li>
+<li><a href="/wiki/Mozilla_Public_License" title="Mozilla Public License">MPL</a></li>
+<li><a href="/wiki/Shared_source#Open_Source_licenses" title="Shared source">Ms-PL/RL</a></li>
+<li><a href="/wiki/Python_License" title="Python License">Python</a></li>
+<li><a href="/wiki/Python_Software_Foundation_License" title="Python Software Foundation License">Python Software Foundation</a></li>
+<li><a href="/wiki/Sleepycat_license" class="mw-redirect" title="Sleepycat license">Sleepycat</a></li>
+<li><a href="/wiki/Unlicense" title="Unlicense">Unlicense</a></li>
+<li><a href="/wiki/WTFPL" title="WTFPL">WTFPL</a></li>
+<li><a href="/wiki/Zlib_License" title="Zlib License">zlib</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">License types<br />
+and standards</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_free_and_open-source_software_licenses" title="Comparison of free and open-source software licenses">Comparison of free and open-source software licenses</a></li>
+<li><a href="/wiki/Contributor_License_Agreement" title="Contributor License Agreement">Contributor License Agreement</a></li>
+<li><a href="/wiki/Copyleft" title="Copyleft">Copyleft</a></li>
+<li><a href="/wiki/Debian_Free_Software_Guidelines" title="Debian Free Software Guidelines">Debian Free Software Guidelines</a></li>
+<li><a href="/wiki/Definition_of_Free_Cultural_Works" title="Definition of Free Cultural Works">Definition of Free Cultural Works</a></li>
+<li><a href="/wiki/Free_license" title="Free license">Free license</a></li>
+<li><a href="/wiki/The_Free_Software_Definition" title="The Free Software Definition">The Free Software Definition</a></li>
+<li><a href="/wiki/The_Open_Source_Definition" title="The Open Source Definition">The Open Source Definition</a></li>
+<li><a href="/wiki/Open-source_license" title="Open-source license">Open-source license</a></li>
+<li><a href="/wiki/Permissive_software_licence" title="Permissive software licence">Permissive software licence</a></li>
+<li><a href="/wiki/Public_domain" title="Public domain">Public domain</a></li>
+<li><a href="/wiki/Viral_license" title="Viral license">Viral license</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Challenges</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Binary_blob" title="Binary blob">Binary blob</a></li>
+<li><a href="/wiki/Digital_rights_management" title="Digital rights management">Digital rights management</a></li>
+<li><a href="/wiki/Hardware_restriction" title="Hardware restriction">Hardware restrictions</a></li>
+<li><a href="/wiki/License_proliferation" title="License proliferation">License proliferation</a></li>
+<li><a href="/wiki/Mozilla_software_rebranded_by_Debian" title="Mozilla software rebranded by Debian">Mozilla software rebranding</a></li>
+<li><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary software</a></li>
+<li><a href="/wiki/SCO/Linux_controversies" title="SCO/Linux controversies">SCO/Linux controversies</a></li>
+<li><a href="/wiki/UEFI_Secure_Boot#Secure_boot" class="mw-redirect" title="UEFI Secure Boot">Secure boot</a></li>
+<li><a href="/wiki/Software_patents_and_free_software" title="Software patents and free software">Software patents</a></li>
+<li><a href="/wiki/Open-source_software_security" title="Open-source software security">Software security</a></li>
+<li><a href="/wiki/Trusted_Computing" title="Trusted Computing">Trusted Computing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Cathedral_and_the_Bazaar" title="The Cathedral and the Bazaar">The Cathedral and the Bazaar</a></i></li>
+<li><a href="/wiki/Fork_(software_development)" title="Fork (software development)">Forking</a></li>
+<li><a href="/wiki/Microsoft_Open_Specification_Promise" title="Microsoft Open Specification Promise">Microsoft Open Specification Promise</a></li>
+<li><i><a href="/wiki/Revolution_OS" title="Revolution OS">Revolution OS</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Free_and_Open_Source_Software" title="Book:Free and Open Source Software">Book</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Free_software" title="Category:Free software">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Free_software" class="extiw" title="commons:Category:Free software">Commons</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/7659226-1">7659226-1</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20180213203244
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.432 seconds
+Real time usage: 0.601 seconds
+Preprocessor visited node count: 3827/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 110489/2097152 bytes
+Template argument size: 4750/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 8/500
+Lua time usage: 0.148/10.000 seconds
+Lua memory usage: 4.71 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  448.981      1 -total
+ 35.21%  158.096      2 Template:Infobox
+ 29.69%  133.301      1 Template:Infobox_software
+ 13.90%   62.396      1 Template:Reflist
+ 11.16%   50.119      1 Template:Cite_web
+ 10.35%   46.492      1 Template:Refimprove
+  9.14%   41.035      1 Template:Infobox_software/simple
+  8.07%   36.248      3 Template:Navbox
+  6.94%   31.159      1 Template:Ambox
+  6.16%   27.678      2 Template:Fix-span
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:638429-0!canonical and timestamp 20180213203244 and revision id 822265932
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Free_Pascal&amp;oldid=822265932">https://en.wikipedia.org/w/index.php?title=Free_Pascal&amp;oldid=822265932</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Compilers" title="Category:Compilers">Compilers</a></li><li><a href="/wiki/Category:Cross-platform_free_software" title="Category:Cross-platform free software">Cross-platform free software</a></li><li><a href="/wiki/Category:Cross-platform_software" title="Category:Cross-platform software">Cross-platform software</a></li><li><a href="/wiki/Category:Free_compilers_and_interpreters" title="Category:Free compilers and interpreters">Free compilers and interpreters</a></li><li><a href="/wiki/Category:Free_Pascal" title="Category:Free Pascal">Free Pascal</a></li><li><a href="/wiki/Category:Free_software_programmed_in_Pascal" title="Category:Free software programmed in Pascal">Free software programmed in Pascal</a></li><li><a href="/wiki/Category:Linux_programming_tools" title="Category:Linux programming tools">Linux programming tools</a></li><li><a href="/wiki/Category:Classic_Mac_OS_software" title="Category:Classic Mac OS software">Classic Mac OS software</a></li><li><a href="/wiki/Category:MacOS_programming_tools" title="Category:MacOS programming tools">MacOS programming tools</a></li><li><a href="/wiki/Category:Object-oriented_programming_languages" title="Category:Object-oriented programming languages">Object-oriented programming languages</a></li><li><a href="/wiki/Category:Pascal_(programming_language)" title="Category:Pascal (programming language)">Pascal (programming language)</a></li><li><a href="/wiki/Category:Pascal_compilers" title="Category:Pascal compilers">Pascal compilers</a></li><li><a href="/wiki/Category:Pascal_programming_language_family" title="Category:Pascal programming language family">Pascal programming language family</a></li><li><a href="/wiki/Category:Platform-sensitive_development" title="Category:Platform-sensitive development">Platform-sensitive development</a></li><li><a href="/wiki/Category:Programming_tools_for_Windows" title="Category:Programming tools for Windows">Programming tools for Windows</a></li><li><a href="/wiki/Category:Self-hosting_software" title="Category:Self-hosting software">Self-hosting software</a></li><li><a href="/wiki/Category:Software_using_the_GPL_license" title="Category:Software using the GPL license">Software using the GPL license</a></li><li><a href="/wiki/Category:Solaris_software" title="Category:Solaris software">Solaris software</a></li><li><a href="/wiki/Category:Systems_programming_languages" title="Category:Systems programming languages">Systems programming languages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2009" title="Category:Articles needing additional references from October 2009">Articles needing additional references from October 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2016" title="Category:Wikipedia articles needing clarification from February 2016">Wikipedia articles needing clarification from February 2016</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2011" title="Category:Articles containing potentially dated statements from 2011">Articles containing potentially dated statements from 2011</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_March_2011" title="Category:Articles containing potentially dated statements from March 2011">Articles containing potentially dated statements from March 2011</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2016" title="Category:Articles with specifically marked weasel-worded phrases from October 2016">Articles with specifically marked weasel-worded phrases from October 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2011" title="Category:Articles with unsourced statements from October 2011">Articles with unsourced statements from October 2011</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Free+Pascal" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Free+Pascal" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Free_Pascal" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Free_Pascal" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Free_Pascal">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Free_Pascal&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Free_Pascal&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Free_Pascal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Free_Pascal" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Free_Pascal&amp;oldid=822265932" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Free_Pascal&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q210295" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Free_Pascal&amp;id=822265932" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Free+Pascal">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Free+Pascal&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Free_Pascal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Free_Pascal" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%8A_%D8%A8%D8%A7%D8%B3%D9%83%D8%A7%D9%84" title="فري باسكال – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC_%ED%8C%8C%EC%8A%A4%EC%B9%BC" title="프리 파스칼 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Free_Pascal" title="Free Pascal – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q210295#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 January 2018, at 10:58.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Free_Pascal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.432","walltime":"0.601","ppvisitednodes":{"value":3827,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":110489,"limit":2097152},"templateargumentsize":{"value":4750,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  448.981      1 -total"," 35.21%  158.096      2 Template:Infobox"," 29.69%  133.301      1 Template:Infobox_software"," 13.90%   62.396      1 Template:Reflist"," 11.16%   50.119      1 Template:Cite_web"," 10.35%   46.492      1 Template:Refimprove","  9.14%   41.035      1 Template:Infobox_software/simple","  8.07%   36.248      3 Template:Navbox","  6.94%   31.159      1 Template:Ambox","  6.16%   27.678      2 Template:Fix-span"]},"scribunto":{"limitreport-timeusage":{"value":"0.148","limit":"10.000"},"limitreport-memusage":{"value":4943235,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20180213203244","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1320"});});</script>
+	</body>
+</html>

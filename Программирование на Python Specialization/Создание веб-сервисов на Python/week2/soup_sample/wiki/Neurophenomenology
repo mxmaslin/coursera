@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Neurophenomenology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Neurophenomenology","wgTitle":"Neurophenomenology","wgCurRevisionId":805010293,"wgRevisionId":805010293,"wgArticleId":1268501,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2016","Webarchive template archiveis links","Consciousness studies","Phenomenology","Neuropsychology","Neuroscience"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Neurophenomenology","wgRelevantArticleId":1268501,"wgRequestId":"WoLCiApAMEwAAENrpacAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q593711","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Neurophenomenology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Neurophenomenology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Neurophenomenology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Neurophenomenology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Neurophenomenology rootpage-Neurophenomenology skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Neurophenomenology</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Neurophenomenology</b> refers to a scientific research program aimed to address the <a href="/wiki/Hard_problem_of_consciousness" title="Hard problem of consciousness">hard problem of consciousness</a> in a <a href="/wiki/Pragmatism" title="Pragmatism">pragmatic</a> way.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It combines <a href="/wiki/Neuroscience" title="Neuroscience">neuroscience</a> with <a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">phenomenology</a> in order to study <a href="/wiki/Experience" title="Experience">experience</a>, <a href="/wiki/Mind" title="Mind">mind</a>, and <a href="/wiki/Consciousness" title="Consciousness">consciousness</a> with an emphasis on the <a href="/wiki/Embodied_cognition" title="Embodied cognition">embodied</a> condition of the human mind.<sup id="cite_ref-Gallagher_2-0" class="reference"><a href="#cite_note-Gallagher-2">[2]</a></sup> The field is very much linked to fields such as <a href="/wiki/Neuropsychology" title="Neuropsychology">neuropsychology</a>, <a href="/wiki/Neuroanthropology" title="Neuroanthropology">neuroanthropology</a> and <a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">behavioral neuroscience</a> (also known as biopsychology) and the study of <a href="/wiki/Phenomenology_(psychology)" title="Phenomenology (psychology)">phenomenology in psychology</a>.</p>
+<p>The label was coined by <a href="/wiki/Charles_Laughlin" title="Charles Laughlin">C. Laughlin</a>, J. McManus and E. d'Aquili in 1990.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> However, the term was appropriated and given a distinctive understanding by the cognitive neuroscientist <a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a> in the mid-1990s,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> whose work has inspired many philosophers and neuroscientists to continue with this new direction of research.</p>
+<p><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a> is a philosophical method of inquiry of everyday experience. The focus in phenomenology is on the examination of different phenomena (from Greek, <i>phainomenon</i>, "that which shows itself") <i>as they appear to consciousness</i>, i.e. in a first-person perspective. Thus, phenomenology is a discipline particularly useful to understand how is it that appearances present themselves to us, and how is it that we attribute meaning to them.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-G&amp;Z_6-0" class="reference"><a href="#cite_note-G&amp;Z-6">[6]</a></sup></p>
+<p><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a> is the scientific study of the brain, and deals with the third-person aspects of consciousness<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2016)">citation needed</span></a></i>]</sup>. Some scientists studying consciousness believe that the exclusive utilization of either first- or third-person methods will not provide answers to the difficult questions of consciousness.</p>
+<p>Historically, <a href="/wiki/Edmund_Husserl" title="Edmund Husserl">Edmund Husserl</a> is regarded as the philosopher whose work made phenomenology a coherent philosophical discipline with a concrete methodology in the study of consciousness, namely the <a href="/wiki/Epoche" class="mw-redirect" title="Epoche">epoche</a>. Husserl, who was a former student of <a href="/wiki/Franz_Brentano" title="Franz Brentano">Franz Brentano</a>, thought that in the study of mind it was extremely important to acknowledge that consciousness is characterized by <a href="/wiki/Intentionality" title="Intentionality">intentionality</a>, a concept often explained as "aboutness"; consciousness is always consciousness <i>of</i> something. A particular emphasis on the phenomenology of <a href="/wiki/Embodied_cognition" title="Embodied cognition">embodiment</a> was developed by philosopher <a href="/wiki/Maurice_Merleau-Ponty" title="Maurice Merleau-Ponty">Maurice Merleau-Ponty</a> in the mid-20th century.</p>
+<p>Naturally, phenomenology and neuroscience find a convergence of common interests. However, primarily because of ontological disagreements between phenomenology and <a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">philosophy of mind</a>, the dialogue between these two disciplines is still a very controversial subject.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The influential critique of the ontological assumptions of computationalist and representationalist cognitive science, as well as <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, made by philosopher <a href="/wiki/Hubert_Dreyfus" title="Hubert Dreyfus">Hubert Dreyfus</a> has marked new directions for integration of neurosciences with an embodied ontology. The work of Dreyfus has influenced cognitive scientists and neuroscientists to study phenomenology and <a href="/wiki/Embodied_cognitive_science" title="Embodied cognitive science">embodied cognitive science</a> and/or <a href="/wiki/Enactivism" title="Enactivism">enactivism</a>. One of such cases is neuroscientist <a href="/wiki/Walter_J._Freeman_(neuroscientist)" class="mw-redirect" title="Walter J. Freeman (neuroscientist)">Walter Freeman</a>, whose <a href="/wiki/Neurodynamics" class="mw-redirect" title="Neurodynamics">neurodynamical</a> analysis has a marked Merleau-Pontyian approach.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> However, recent trends on the matter appear to reject Dreyfus's interpretation of Husserl while at the same time maintaining a high interest in the integration of Husserlian phenomenology into the sciences of mind, as demonstrated by Evan Thompson's recent work.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#See_also"><span class="tocnumber">1</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Further_reading"><span class="tocnumber">3</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophenomenology&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Antonio_Damasio" title="Antonio Damasio">Antonio Damasio</a></li>
+<li><a href="/wiki/Biogenetic_structuralism" class="mw-redirect" title="Biogenetic structuralism">Biogenetic structuralism</a></li>
+<li><a href="/wiki/Embodied_cognition" title="Embodied cognition">Embodied cognition</a></li>
+<li><a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a></li>
+<li><a href="/wiki/Hubert_Dreyfus" title="Hubert Dreyfus">Hubert Dreyfus</a></li>
+<li><a href="/wiki/Walter_J._Freeman_(neuroscientist)" class="mw-redirect" title="Walter J. Freeman (neuroscientist)">Walter Freeman</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophenomenology&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">D. Rudrauf, A. Lutz, D. Cosmelli, J.-P. Lachaux, M. Le Van Quyen. <a rel="nofollow" class="external text" href="http://brainimaging.waisman.wisc.edu/~lutz/VarelaHommage_Biological_research_2003.pdf">"From autopoiesis to neurophenomenology: Francisco Varela's exploration of the biophysics of being"</a>, Biol Res 36: 21-59, 2003.</span></li>
+<li id="cite_note-Gallagher-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gallagher_2-0">^</a></b></span> <span class="reference-text">Gallagher, S. 2009. Neurophenomenology. In T. Bayne, A. Cleeremans and P. Wilken (eds.), <i>Oxford Companion to Consciousness</i> (470-472). Oxford: Oxford University Press.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">C. Laughlin, J. McManus and E. d'Aquili: <i>Brain, Symbol and Experience: Toward a Neurophenomenology of Consciousness</i> (New York: Columbia University Press)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Varela, F. 1996. Neurophenomenology: A methodological remedy for the hard problem<i>. Journal of Consciousness Studies</i> 3: 330-49.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/phenomenology/"><i>Stanford Encyclopedia of Philosophy:</i> Phenomenology</a></span></li>
+<li id="cite_note-G&amp;Z-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-G&amp;Z_6-0">^</a></b></span> <span class="reference-text">Gallagher, S. and Zahavi, D. 2008. <i>The Phenomenological Mind</i>. London: Routledge, Chapter 2.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ase.tufts.edu/cogstud/papers/chalmersdeb3dft.htm">Husserl himself was very critical towards any attempt to "naturalizing" philosophy, and his phenomenology was founded upon a criticism of</a> <a href="/wiki/Empiricism" title="Empiricism">empiricism</a>, "<a href="/wiki/Psychologism" title="Psychologism">psychologism</a>", and "anthropologism" as contradictory standpoints in philosophy and logic. Debate Between D. Chalmers and D. Dennett: The Fantasy of First-Person Science</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.class.uh.edu/cogsci/dreyfus.html">Hubert Dreyfus 'Intelligence Without Representation: Merleau-Ponty's Critique of Mental Representation'</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">"Evan Thompson. 'Mind in Life: Biology, Phenomenology, and the Sciences of Mind. Belknap, Harvard. 2007<span style="padding-right:.2em;">'</span>"</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophenomenology&amp;action=edit&amp;section=3" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>B. Andrieu. <a rel="nofollow" class="external text" href="http://www.janushead.org/9-1/Andrieu.pdf">"Brains in the flesh: Prospects for a neurophenomenology".</a> Janus Head 9: 135–155, 2006.</li>
+<li>D. Rudrauf, A. Lutz, D. Cosmelli, J.-P. Lachaux, M. Le Van Quyen. <a rel="nofollow" class="external text" href="http://brainimaging.waisman.wisc.edu/~lutz/VarelaHommage_Biological_research_2003.pdf">"From autopoiesis to neurophenomenology: Francisco Varela’s exploration of the biophysics of being"</a>, Biol Res 36: 21–59, 2003.</li>
+<li>J. Petitot, F. Varela, B. Pachoud, J-M Roy eds. "Naturalizing phenomenology. Issues in contemporary phenomenology and cognitive science", Stanford University Press, Stanford (California), 1999.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophenomenology&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a href="https://en.wikibooks.org/wiki/Consciousness_studies" class="extiw" title="wikibooks:Consciousness studies">Consciousness studies</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://philosophy.ucf.edu/pcs/pcsbib.html">Phenomenology and Cognitive Sciences</a></li>
+<li><a rel="nofollow" class="external text" href="http://lgxserve.ciseca.uniba.it/lei/mind/topics/00000032.htm">Eugenio Borrelli page: Phenomenology and Cognitive Science</a></li>
+<li><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/phenomenology/">Stanford Encyclopedia of Philosophy: Phenomenology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.franzreichle.ch/images/Francisco_Varela/Human_Consciousness_Articles.htm">Francisco Varela's Articles on Neurophenomenology and First person Methods</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.is/20121209154959/http://www.imprint.co.uk/pdf/1263.PDF">Michael Winkelman</a> at <a href="/wiki/Archive.is" title="Archive.is">Archive.is</a> (archived 2012-12-09)</li>
+<li><a rel="nofollow" class="external free" href="http://www.neurophenomenology.com">http://www.neurophenomenology.com</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.class.uh.edu/cogsci/dreyfus.html">Hubert Dreyfus 'Intelligence Without Representation: Merleau-Ponty's Critique of Mental Representation'</a></li>
+<li><a rel="nofollow" class="external text" href="http://ase.tufts.edu/cogstud/papers/chalmersdeb3dft.htm">Debate Between D. Chalmers and D. Dennett: The Fantasy of First-Person Science</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Neuroscience" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Neuroscience" title="Template:Neuroscience"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Neuroscience" title="Template talk:Neuroscience"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neuroscience&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Neuroscience" style="font-size:114%;margin:0 4em"><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/Outline_of_neuroscience" title="Outline of neuroscience">Outline of neuroscience</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_research" title="Basic research">Basic<br />
+science</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavioral epigenetics</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</a></li>
+<li><a href="/wiki/Cellular_neuroscience" title="Cellular neuroscience">Cellular neuroscience</a></li>
+<li><a href="/wiki/Computational_neuroscience" title="Computational neuroscience">Computational neuroscience</a></li>
+<li><a href="/wiki/Connectomics" title="Connectomics">Connectomics</a></li>
+<li><a href="/wiki/Imaging_genetics" title="Imaging genetics">Imaging genetics</a></li>
+<li><a href="/wiki/Integrative_neuroscience" title="Integrative neuroscience">Integrative neuroscience</a></li>
+<li><a href="/wiki/Molecular_neuroscience" title="Molecular neuroscience">Molecular neuroscience</a></li>
+<li><a href="/wiki/Neural_engineering" title="Neural engineering">Neural engineering</a></li>
+<li><a href="/wiki/Neuroanatomy" title="Neuroanatomy">Neuroanatomy</a></li>
+<li><a href="/wiki/Neurochemistry" title="Neurochemistry">Neurochemistry</a></li>
+<li><a href="/wiki/Neuroendocrinology" title="Neuroendocrinology">Neuroendocrinology</a></li>
+<li><a href="/wiki/Neurogenetics" title="Neurogenetics">Neurogenetics</a></li>
+<li><a href="/wiki/Neuroinformatics" title="Neuroinformatics">Neuroinformatics</a></li>
+<li><a href="/wiki/Neurometrics" title="Neurometrics">Neurometrics</a></li>
+<li><a href="/wiki/Neuromorphology" title="Neuromorphology">Neuromorphology</a></li>
+<li><a href="/wiki/Neurophysics" title="Neurophysics">Neurophysics</a></li>
+<li><a href="/wiki/Neurophysiology" title="Neurophysiology">Neurophysiology</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Gray739.png" class="image"><img alt="Gray739.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/130px-Gray739.png" width="130" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/195px-Gray739.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/260px-Gray739.png 2x" data-file-width="500" data-file-height="379" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Clinical_neuroscience" title="Clinical neuroscience">Clinical<br />
+neuroscience</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Behavioral_neurology" title="Behavioral neurology">Behavioral neurology</a></li>
+<li><a href="/wiki/Clinical_neurophysiology" title="Clinical neurophysiology">Clinical neurophysiology</a></li>
+<li><a href="/wiki/Neurocardiology" title="Neurocardiology">Neurocardiology</a></li>
+<li><a href="/wiki/Neuroepidemiology" title="Neuroepidemiology">Neuroepidemiology</a></li>
+<li><a href="/wiki/Neurogastroenterology" title="Neurogastroenterology">Neurogastroenterology</a></li>
+<li><a href="/wiki/Neuroimmunology" title="Neuroimmunology">Neuroimmunology</a></li>
+<li><a href="/wiki/Neurointensive_care" title="Neurointensive care">Neurointensive care</a></li>
+<li><a href="/wiki/Neurology" title="Neurology">Neurology</a></li>
+<li><a href="/wiki/Neurooncology" title="Neurooncology">Neurooncology</a></li>
+<li><a href="/wiki/Neuro-ophthalmology" title="Neuro-ophthalmology">Neuro-ophthalmology</a></li>
+<li><a href="/wiki/Neuropathology" title="Neuropathology">Neuropathology</a></li>
+<li><a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a></li>
+<li><a href="/wiki/Neuroprosthetics" title="Neuroprosthetics">Neuroprosthetics</a></li>
+<li><a href="/wiki/Neuropsychiatry" title="Neuropsychiatry">Neuropsychiatry</a></li>
+<li><a href="/wiki/Neuroradiology" title="Neuroradiology">Neuroradiology</a></li>
+<li><a href="/wiki/Neurorehabilitation" title="Neurorehabilitation">Neurorehabilitation</a></li>
+<li><a href="/wiki/Neurosurgery" title="Neurosurgery">Neurosurgery</a></li>
+<li><a href="/wiki/Neurotology" title="Neurotology">Neurotology</a></li>
+<li><a href="/wiki/Neurovirology" title="Neurovirology">Neurovirology</a></li>
+<li><a href="/wiki/Nutritional_neuroscience" title="Nutritional neuroscience">Nutritional neuroscience</a></li>
+<li><a href="/wiki/Psychiatry" title="Psychiatry">Psychiatry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive<br />
+neuroscience</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Chronobiology" title="Chronobiology">Chronobiology</a></li>
+<li><a href="/wiki/Molecular_cellular_cognition" title="Molecular cellular cognition">Molecular cellular cognition</a></li>
+<li><a href="/wiki/Motor_control" title="Motor control">Motor control</a></li>
+<li><a href="/wiki/Neurolinguistics" title="Neurolinguistics">Neurolinguistics</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Sensory_neuroscience" title="Sensory neuroscience">Sensory neuroscience</a></li>
+<li><a href="/wiki/Social_neuroscience" title="Social neuroscience">Social neuroscience</a></li>
+<li><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">Systems neuroscience</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Interdisciplinary<br />
+fields</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Consumer_neuroscience" title="Consumer neuroscience">Consumer neuroscience</a></li>
+<li><a href="/wiki/Cultural_neuroscience" title="Cultural neuroscience">Cultural neuroscience</a></li>
+<li><a href="/wiki/Educational_neuroscience" title="Educational neuroscience">Educational neuroscience</a></li>
+<li><a href="/wiki/Evolutionary_neuroscience" title="Evolutionary neuroscience">Evolutionary neuroscience</a></li>
+<li><a href="/wiki/Neuroanthropology" title="Neuroanthropology">Neuroanthropology</a></li>
+<li><a href="/wiki/Neurobioengineering" title="Neurobioengineering">Neurobioengineering</a></li>
+<li><a href="/wiki/Neurobiotics" title="Neurobiotics">Neurobiotics</a></li>
+<li><a href="/wiki/Neurocriminology" title="Neurocriminology">Neurocriminology</a></li>
+<li><a href="/wiki/Neuroeconomics" title="Neuroeconomics">Neuroeconomics</a></li>
+<li><a href="/wiki/Neuroepistemology" title="Neuroepistemology">Neuroepistemology</a></li>
+<li><a href="/wiki/Neuroesthetics" title="Neuroesthetics">Neuroesthetics</a></li>
+<li><a href="/wiki/Neuroethics" title="Neuroethics">Neuroethics</a></li>
+<li><a href="/wiki/Neuroethology" title="Neuroethology">Neuroethology</a></li>
+<li><a href="/wiki/Neurohistory" title="Neurohistory">Neurohistory</a></li>
+<li><a href="/wiki/Neurolaw" title="Neurolaw">Neurolaw</a></li>
+<li><a href="/wiki/Neuromarketing" title="Neuromarketing">Neuromarketing</a></li>
+<li><a class="mw-selflink selflink">Neurophenomenology</a></li>
+<li><a href="/wiki/Neurophilosophy" title="Neurophilosophy">Neurophilosophy</a></li>
+<li><a href="/wiki/Neuropolitics" title="Neuropolitics">Neuropolitics</a></li>
+<li><a href="/wiki/Neurorobotics" title="Neurorobotics">Neurorobotics</a></li>
+<li>Neurosociology</li>
+<li><a href="/wiki/Neurotheology" class="mw-redirect" title="Neurotheology">Neurotheology</a></li>
+<li><a href="/wiki/Paleoneurology" class="mw-redirect" title="Paleoneurology">Paleoneurology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Brain–computer interface</a></li>
+<li><a href="/wiki/Neural_development" class="mw-redirect" title="Neural development">Neural development</a></li>
+<li><a href="/wiki/Artificial_neural_network" title="Artificial neural network">Neural network (artificial)</a></li>
+<li><a href="/wiki/Biological_neural_network" title="Biological neural network">Neural network (biological)</a></li>
+<li><a href="/wiki/Detection_theory" title="Detection theory">Detection theory</a></li>
+<li><a href="/wiki/Intraoperative_neurophysiological_monitoring" title="Intraoperative neurophysiological monitoring">Intraoperative neurophysiological monitoring</a></li>
+<li><a href="/wiki/Neurochip" title="Neurochip">Neurochip</a></li>
+<li><a href="/wiki/Neurodegeneration" title="Neurodegeneration">Neurodegeneration</a></li>
+<li><a href="/wiki/Neurodevelopmental_disorder" title="Neurodevelopmental disorder">Neurodevelopmental disorder</a></li>
+<li><a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a></li>
+<li><a href="/wiki/Neurogenesis" title="Neurogenesis">Neurogenesis</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Neuroimmune_system" title="Neuroimmune system">Neuroimmune system</a></li>
+<li><a href="/wiki/Neuromanagement" title="Neuromanagement">Neuromanagement</a></li>
+<li><a href="/wiki/Neuromodulation" title="Neuromodulation">Neuromodulation</a></li>
+<li><a href="/wiki/Neuroplasticity" title="Neuroplasticity">Neuroplasticity</a></li>
+<li><a href="/wiki/Neurotechnology" title="Neurotechnology">Neurotechnology</a></li>
+<li><a href="/wiki/Neurotoxin" title="Neurotoxin">Neurotoxin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Neuroscience" title="Book:Neuroscience">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Neuroscience" title="Category:Neuroscience">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Neuroscience" class="extiw" title="commons:Category:Neuroscience">Commons</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Neuroscience" title="Portal:Neuroscience">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:Wikiproject_Neuroscience" class="mw-redirect" title="Wikipedia:Wikiproject Neuroscience">Wikiproject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Philosophy_of_mind" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philosophy_of_mind" title="Template:Philosophy of mind"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_of_mind" title="Template talk:Philosophy of mind"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_of_mind&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Philosophy_of_mind" style="font-size:114%;margin:0 4em"><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Theories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a> (<a href="/wiki/Radical_behaviorism" title="Radical behaviorism">Radical</a>)</li>
+<li><a href="/wiki/Biological_naturalism" title="Biological naturalism">Biological naturalism</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive psychology</a></li>
+<li><a href="/wiki/Mind%E2%80%93body_dualism" title="Mind–body dualism">Mind–body dualism</a></li>
+<li><a href="/wiki/Eliminative_materialism" title="Eliminative materialism">Eliminative materialism</a></li>
+<li><a href="/wiki/Emergent_materialism" title="Emergent materialism">Emergent materialism</a></li>
+<li><a href="/wiki/Emergentism" title="Emergentism">Emergentism</a></li>
+<li><a href="/wiki/Epiphenomenalism" title="Epiphenomenalism">Epiphenomenalism</a></li>
+<li><a href="/wiki/Functionalism_(philosophy_of_mind)" title="Functionalism (philosophy of mind)">Functionalism</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Interactionism_(philosophy_of_mind)" title="Interactionism (philosophy of mind)">Interactionism</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Na%C3%AFve_realism" title="Naïve realism">Naïve realism</a>
+<ul>
+<li><a class="mw-selflink selflink">Neurophenomenology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neutral_monism" title="Neutral monism">Neutral monism</a></li>
+<li><a href="/wiki/Occasionalism" title="Occasionalism">Occasionalism</a></li>
+<li><a href="/wiki/Psychoanalysis" title="Psychoanalysis">Psychoanalysis</a></li>
+<li><a href="/wiki/Psychophysical_parallelism" title="Psychophysical parallelism">Parallelism</a></li>
+<li><a href="/wiki/Phenomenalism" title="Phenomenalism">Phenomenalism</a></li>
+<li><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a>
+<ul>
+<li><a href="/wiki/Type_physicalism" title="Type physicalism">identity theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Property_dualism" title="Property dualism">Property dualism</a></li>
+<li><a href="/wiki/Mental_representation" title="Mental representation">Representational</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+<li><a href="/wiki/Substance_dualism" class="mw-redirect" title="Substance dualism">Substance dualism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abstract_and_concrete" title="Abstract and concrete">Abstract object</a></li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Chinese_room" title="Chinese room">Chinese room</a></li>
+<li><a href="/wiki/Cognition" title="Cognition">Cognition</a></li>
+<li><a href="/wiki/Cognitive_closure_(philosophy)" title="Cognitive closure (philosophy)">Cognitive closure</a></li>
+<li><a href="/wiki/Concept" title="Concept">Concept</a></li>
+<li><a href="/wiki/Concept_and_object" title="Concept and object">Concept and object</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a></li>
+<li><a href="/wiki/Hard_problem_of_consciousness" title="Hard problem of consciousness">Hard problem of consciousness</a></li>
+<li><a href="/wiki/Hypostatic_abstraction" title="Hypostatic abstraction">Hypostatic abstraction</a></li>
+<li><a href="/wiki/Idea" title="Idea">Idea</a></li>
+<li><a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">Identity</a></li>
+<li><a href="/wiki/Ingenuity" title="Ingenuity">Ingenuity</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Intentionality" title="Intentionality">Intentionality</a></li>
+<li><a href="/wiki/Introspection" title="Introspection">Introspection</a></li>
+<li><a href="/wiki/Intuition" title="Intuition">Intuition</a></li>
+<li><a href="/wiki/Language_of_thought_hypothesis" title="Language of thought hypothesis">Language of thought</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Mental_event" title="Mental event">Mental event</a></li>
+<li><a href="/wiki/Mental_image" title="Mental image">Mental image</a></li>
+<li><a href="/wiki/Mental_process" title="Mental process">Mental process</a></li>
+<li><a href="/wiki/Mental_property" title="Mental property">Mental property</a></li>
+<li><a href="/wiki/Mental_representation" title="Mental representation">Mental representation</a></li>
+<li><a href="/wiki/Mind" title="Mind">Mind</a></li>
+<li><a href="/wiki/Mind%E2%80%93body_problem" title="Mind–body problem">Mind–body problem</a>
+<ul>
+<li><a href="/wiki/Non-physical_entity" title="Non-physical entity">Non-physical entity</a></li>
+</ul>
+</li>
+<li><a href="/wiki/New_mysterianism" title="New mysterianism">New mysterianism</a></li>
+<li><a href="/wiki/Pain_(philosophy)" title="Pain (philosophy)">Pain</a></li>
+<li><a href="/wiki/Problem_of_other_minds" title="Problem of other minds">Problem of other minds</a></li>
+<li><a href="/wiki/Propositional_attitude" title="Propositional attitude">Propositional attitude</a></li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Tabula_rasa" title="Tabula rasa">Tabula rasa</a></li>
+<li><a href="/wiki/Understanding" title="Understanding">Understanding</a></li>
+<li><a href="/wiki/Philosophical_zombie" title="Philosophical zombie">Zombie</a></li>
+<li><i><a href="/wiki/Index_of_philosophy_of_mind_articles" title="Index of philosophy of mind articles">more...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a>&#160;/ <a href="/wiki/Philosophy_of_information" title="Philosophy of information">information</a>&#160;/ <a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">perception</a>&#160;/ <a href="/wiki/Philosophy_of_self" title="Philosophy of self">self</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Portal:Mind_and_brain" title="Portal:Mind and brain">Portal</a></li>
+<li><a href="/wiki/Category:Philosophy_of_mind" title="Category:Philosophy of mind">Category</a></li>
+<li><a href="/wiki/Category:Philosophers_of_mind" title="Category:Philosophers of mind">Philosophers category</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy" title="Wikipedia:WikiProject Philosophy">Project</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy/Mind" title="Wikipedia:WikiProject Philosophy/Mind">Task Force</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1238
+Cached time: 20180205081534
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.202 seconds
+Preprocessor visited node count: 593/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34130/2097152 bytes
+Template argument size: 829/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.996      1 -total
+ 44.50%   55.627      1 Template:Cn
+ 31.36%   39.203      1 Template:Fix
+ 23.76%   29.703      2 Template:Navbox
+ 20.89%   26.117      2 Template:Category_handler
+ 18.66%   23.318      1 Template:Neuroscience
+ 12.61%   15.767      1 Template:Reflist
+  8.88%   11.099      1 Template:Philosophy_of_mind
+  8.87%   11.083      1 Template:Wikibooks
+  8.38%   10.474      1 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1268501-0!canonical and timestamp 20180205081534 and revision id 805010293
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Neurophenomenology&amp;oldid=805010293">https://en.wikipedia.org/w/index.php?title=Neurophenomenology&amp;oldid=805010293</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Consciousness_studies" title="Category:Consciousness studies">Consciousness studies</a></li><li><a href="/wiki/Category:Phenomenology" title="Category:Phenomenology">Phenomenology</a></li><li><a href="/wiki/Category:Neuropsychology" title="Category:Neuropsychology">Neuropsychology</a></li><li><a href="/wiki/Category:Neuroscience" title="Category:Neuroscience">Neuroscience</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2016" title="Category:Articles with unsourced statements from September 2016">Articles with unsourced statements from September 2016</a></li><li><a href="/wiki/Category:Webarchive_template_archiveis_links" title="Category:Webarchive template archiveis links">Webarchive template archiveis links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Neurophenomenology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Neurophenomenology" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Neurophenomenology" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Neurophenomenology" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Neurophenomenology">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Neurophenomenology&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Neurophenomenology&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Neurophenomenology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Neurophenomenology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Neurophenomenology&amp;oldid=805010293" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Neurophenomenology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q593711" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Neurophenomenology&amp;id=805010293" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Neurophenomenology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Neurophenomenology&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Neurophenomenology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Neurofenomenol%C3%B3gia" title="Neurofenomenológia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%84%D0%B5%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Нейрофеноменология – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%BB%8F%E7%8E%B0%E8%B1%A1%E5%AD%A6" title="神经现象学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q593711#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 October 2017, at 14:02.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Neurophenomenology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.202","ppvisitednodes":{"value":593,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34130,"limit":2097152},"templateargumentsize":{"value":829,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  124.996      1 -total"," 44.50%   55.627      1 Template:Cn"," 31.36%   39.203      1 Template:Fix"," 23.76%   29.703      2 Template:Navbox"," 20.89%   26.117      2 Template:Category_handler"," 18.66%   23.318      1 Template:Neuroscience"," 12.61%   15.767      1 Template:Reflist","  8.88%   11.099      1 Template:Philosophy_of_mind","  8.87%   11.083      1 Template:Wikibooks","  8.38%   10.474      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":1846869,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20180205081534","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1241"});});</script>
+	</body>
+</html>

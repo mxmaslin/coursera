@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Branching (version control) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Branching_(version_control)","wgTitle":"Branching (version control)","wgCurRevisionId":739922235,"wgRevisionId":739922235,"wgArticleId":3422285,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2010","Version control"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Branching_(version_control)","wgRelevantArticleId":3422285,"wgRequestId":"WoLf2wpAADkAAHKP0ZgAAABV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q925385","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Branching_(version_control)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Branching_(version_control)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Branching_(version_control)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Branching_(version_control)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Branching_version_control rootpage-Branching_version_control skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Branching (version control)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Branching</b>, in <a href="/wiki/Revision_control" class="mw-redirect" title="Revision control">revision control</a> and <a href="/wiki/Software_configuration_management" title="Software configuration management">software configuration management</a>, is the duplication of an object under revision control (such as a <a href="/wiki/Source_code" title="Source code">source code</a> file or a <a href="/wiki/Directory_tree" class="mw-redirect" title="Directory tree">directory tree</a>) so that modifications can happen in parallel along both branches.</p>
+<p>Branches are also known as <i>trees</i>, <i>streams</i> or <i>codelines</i>. The originating branch is sometimes called the <i>parent branch</i>, the <i>upstream branch</i> (or simply <i>upstream</i>, especially if the branches are maintained by different organizations or individuals), or the <i>backing stream</i>. <i>Child branches</i> are branches that have a parent; a branch without a parent is referred to as the <i><a href="/wiki/Trunk_(software)" title="Trunk (software)">trunk</a></i> or the <i>mainline</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>In some <a href="/wiki/Revision_control#Distributed_revision_control" class="mw-redirect" title="Revision control">distributed revision control systems</a>, such as <a href="/wiki/Darcs" title="Darcs">Darcs</a>, there is no distinction made between <a href="/wiki/Repository_(version_control)" title="Repository (version control)">repositories</a> and branches; in these systems, fetching a copy of a repository is equivalent to branching.</p>
+<p>Branching also generally implies the ability to later <a href="/wiki/Merge_(revision_control)" class="mw-redirect" title="Merge (revision control)">merge</a> or <i>integrate</i> changes back onto the parent branch. Often the changes are merged back to the trunk, even if this is not the parent branch. A branch not intended to be merged (e.g. because it has been <a href="/wiki/Relicensing" class="mw-redirect" title="Relicensing">relicensed</a> under an incompatible license by a third party, or it attempts to serve a different purpose) is usually called a <i><a href="/wiki/Fork_(software_development)" title="Fork (software development)">fork</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Motivations_for_branching"><span class="tocnumber">1</span> <span class="toctext">Motivations for branching</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Development_branch"><span class="tocnumber">2</span> <span class="toctext">Development branch</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Shadow_or_magic_branches"><span class="tocnumber">3</span> <span class="toctext">Shadow or magic branches</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Repository_clones"><span class="tocnumber">4</span> <span class="toctext">Repository clones</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Motivations_for_branching">Motivations for branching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit&amp;section=1" title="Edit section: Motivations for branching">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Branches allow for parts of software to be developed in parallel.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Large projects require many roles to be filled, including developers, build managers, and <a href="/wiki/Software_quality_assurance" title="Software quality assurance">quality assurance</a> personnel. Further, multiple releases on different operating system platforms may have to be maintained. Branches allow contributors to isolate changes without destabilizing the codebase, for example, <a href="/wiki/Patch_(computing)" title="Patch (computing)">fixes</a> for bugs, new <a href="/wiki/Feature_(software_design)" class="mw-redirect" title="Feature (software design)">features</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and <a href="/wiki/Software_versioning" title="Software versioning">versions</a> <a href="/wiki/System_integration" title="System integration">integration</a>. These changes may be later <a href="/wiki/Merge_(revision_control)" class="mw-redirect" title="Merge (revision control)">merged</a> (resynchronized) after testing.</p>
+<h2><span class="mw-headline" id="Development_branch">Development branch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit&amp;section=2" title="Edit section: Development branch">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <i>development branch</i> or <i>development tree</i> of a piece of software is a version that is under <a href="/wiki/Software_development" title="Software development">development</a>, and has not yet been officially <a href="/wiki/Software_release" class="mw-redirect" title="Software release">released</a>. In the <a href="/wiki/Open_source" class="mw-redirect" title="Open source">open source</a> community, the notion of release is typically metaphorical, since anyone can usually check out any desired version, whether it be in the development branch or not. Often, the version that will eventually become the next <i>major</i> version is called <i>the</i> development branch. However, there is often more than one subsequent version of the software under development at a given time.</p>
+<p>Some revision control systems have specific jargon for the main development branch; for example, in <a href="/wiki/Concurrent_Version_System" class="mw-redirect" title="Concurrent Version System">CVS</a>, it is called the "MAIN"; in <a href="/wiki/Git_(software)" class="mw-redirect" title="Git (software)">Git</a> it is called the "master". A more generic term is "mainline".</p>
+<h2><span class="mw-headline" id="Shadow_or_magic_branches">Shadow or magic branches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit&amp;section=3" title="Edit section: Shadow or magic branches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/w/index.php?title=Cvc_system&amp;action=edit&amp;redlink=1" class="new" title="Cvc system (page does not exist)">cvc</a> and <a href="/wiki/CVSNT" title="CVSNT">CVSNT</a>, a <i>shadow</i> or <i>magic</i> branch "shadows" changes made in the upstream branch, to make it easier to maintain small changes (cvc is an open-source package building system<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>]</sup> incorporating a revision-control system for packages produced by <a href="/wiki/RPath" title="RPath">rPath</a>.)</p>
+<h2><span class="mw-headline" id="Repository_clones">Repository clones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit&amp;section=4" title="Edit section: Repository clones">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Distributed_revision_control" class="mw-redirect" title="Distributed revision control">distributed revision control</a>, the entire repository, with branches, may be copied and worked on further. <a href="/wiki/Monotone_(software)" title="Monotone (software)">Monotone</a> (mtn), <a href="/wiki/Mercurial" title="Mercurial">Mercurial</a> (hg) and <a href="/wiki/Git_(software)" class="mw-redirect" title="Git (software)">git</a> call it "clone"; <a href="/wiki/Bazaar_(software)" class="mw-redirect" title="Bazaar (software)">Bazaar</a> calls it "branch"; <a href="/wiki/SVK" title="SVK">SVK</a> calls it "mirror".</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Trunk_(software)" title="Trunk (software)">Trunk (software)</a></li>
+<li><a href="/wiki/Revision_tag" title="Revision tag">Revision tag</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Berczuk, Steve; Appleton, Brad (2003). <a rel="nofollow" class="external text" href="http://www.scmpatterns.com/book"><i>Software Configuration Management Patterns: Effective Teamwork, Practical Integration</i></a>. <a href="/wiki/Addison-Wesley" title="Addison-Wesley">Addison-Wesley</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-20174117-2" title="Special:BookSources/0-20174117-2">0-20174117-2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Software+Configuration+Management+Patterns%3A+Effective+Teamwork%2C+Practical+Integration&amp;rft.pub=Addison-Wesley&amp;rft.date=2003&amp;rft.isbn=0-20174117-2&amp;rft.aulast=Berczuk&amp;rft.aufirst=Steve&amp;rft.au=Appleton%2C+Brad&amp;rft_id=http%3A%2F%2Fwww.scmpatterns.com%2Fbook&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABranching+%28version+control%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Appleton, Brad; Berczuk, Stephen; Cabrera, Ralph; Orenstein, Robert (1998-02-08). <a rel="nofollow" class="external text" href="http://www.hillside.net/plop/plop98/final_submissions/P37.pdf">"Streamed Lines: Branching Patterns for Parallel Software Development"</a> <span style="font-size:85%;">(<a href="/wiki/PDF" class="mw-redirect" title="PDF">PDF</a>)</span>. Hillside<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Streamed+Lines%3A+Branching+Patterns+for+Parallel+Software+Development&amp;rft.pub=Hillside&amp;rft.date=1998-02-08&amp;rft.aulast=Appleton&amp;rft.aufirst=Brad&amp;rft.au=Berczuk%2C+Stephen&amp;rft.au=Cabrera%2C+Ralph&amp;rft.au=Orenstein%2C+Robert&amp;rft_id=http%3A%2F%2Fwww.hillside.net%2Fplop%2Fplop98%2Ffinal_submissions%2FP37.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABranching+%28version+control%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Bailey, Derick (2009-07-15). <a rel="nofollow" class="external text" href="http://www.lostechies.com/blogs/derickbailey/archive/2009/07/15/branch-per-feature-source-control-part-1-why.aspx">"Part 1: Why"</a>. <i>Branch-Per-Feature Source Control</i>. Los techies<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Branch-Per-Feature+Source+Control&amp;rft.atitle=Part+1%3A+Why&amp;rft.date=2009-07-15&amp;rft.aulast=Bailey&amp;rft.aufirst=Derick&amp;rft_id=http%3A%2F%2Fwww.lostechies.com%2Fblogs%2Fderickbailey%2Farchive%2F2009%2F07%2F15%2Fbranch-per-feature-source-control-part-1-why.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABranching+%28version+control%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Version_control_software" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Version_control_software" title="Template:Version control software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Version_control_software" title="Template talk:Version control software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Version_control_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Version_control_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Version_control" title="Version control">Version control software</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Years, where available, indicate the date of first stable release. Systems with names <i>in italics</i> are no longer maintained or have planned end-of-life dates.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Local only</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free/open-source</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Revision_Control_System" title="Revision Control System">RCS</a> (1982)</li>
+<li><a href="/wiki/Source_Code_Control_System" title="Source Code Control System">SCCS</a> (1972)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PVCS" title="PVCS">PVCS</a> (1985)</li>
+<li><i><a href="/wiki/QVCS" title="QVCS">QVCS</a></i> (1991)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Revision_controlled_project_visualization-2010-24-02.svg" class="image"><img alt="Revision controlled project visualization-2010-24-02.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/80px-Revision_controlled_project_visualization-2010-24-02.svg.png" width="80" height="196" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/120px-Revision_controlled_project_visualization-2010-24-02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/160px-Revision_controlled_project_visualization-2010-24-02.svg.png 2x" data-file-width="220" data-file-height="540" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Client–server</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Free/open-source</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">CVS</a> (1986, 1990 in C)</li>
+<li><a href="/wiki/CVSNT" title="CVSNT">CVSNT</a> (1998)</li>
+<li><a href="/wiki/QVCS" title="QVCS">QVCS Enterprise</a> (1998)</li>
+<li><a href="/wiki/Apache_Subversion" title="Apache Subversion">Subversion</a> (2000)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Proprietary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AccuRev_SCM" title="AccuRev SCM">AccuRev SCM</a> (2002)</li>
+<li><a href="/wiki/Rational_ClearCase" title="Rational ClearCase">ClearCase</a> (1992)</li>
+<li><i><a href="/wiki/IBM_Configuration_Management_Version_Control_(CMVC)" title="IBM Configuration Management Version Control (CMVC)">CMVC</a></i> (1994)</li>
+<li><a href="/wiki/Dimensions_CM" title="Dimensions CM">Dimensions CM</a> (1980s)</li>
+<li><i><a href="/wiki/Apollo_Computer#History" title="Apollo Computer">DSEE</a></i> (1984)</li>
+<li><a href="/wiki/Endevor" title="Endevor">Endevor</a> (1980s)</li>
+<li><a href="/wiki/PTC_Integrity" title="PTC Integrity">Integrity</a> (2001)</li>
+<li><a href="/wiki/Panvalet" title="Panvalet">Panvalet</a> (1970s)</li>
+<li><a href="/wiki/Perforce_Helix" class="mw-redirect" title="Perforce Helix">Perforce Helix</a> (1995)</li>
+<li><a href="/wiki/IBM_Software_Configuration_and_Library_Manager" title="IBM Software Configuration and Library Manager">SCLM</a> (1980s?)</li>
+<li><a href="/wiki/CA_Harvest_Software_Change_Manager" title="CA Harvest Software Change Manager">Software Change Manager</a> (1970s)</li>
+<li><a href="/wiki/StarTeam" title="StarTeam">StarTeam</a> (1995)</li>
+<li><a href="/wiki/Surround_SCM" title="Surround SCM">Surround SCM</a> (2002)</li>
+<li><a href="/wiki/Rational_Synergy" title="Rational Synergy">Synergy</a> (1990)</li>
+<li><a href="/wiki/Rational_Team_Concert" title="Rational Team Concert">Team Concert</a> (2008)</li>
+<li><a href="/wiki/Team_Foundation_Server" title="Team Foundation Server">Team Foundation Server</a> (2005)</li>
+<li><a href="/wiki/Microsoft_Visual_Studio#Team_Services" title="Microsoft Visual Studio">Visual Studio Team Services</a> (2014)</li>
+<li><a href="/wiki/Vault_(version_control_system)" title="Vault (version control system)">Vault</a> (2003)</li>
+<li><i><a href="/wiki/Microsoft_Visual_SourceSafe" title="Microsoft Visual SourceSafe">Visual SourceSafe</a></i> (1994)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Distributed_version_control" title="Distributed version control">Distributed</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Free/open-source</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/ArX" title="ArX">ArX</a></i> (2003)</li>
+<li><a href="/wiki/BitKeeper" title="BitKeeper">BitKeeper</a> (2000)</li>
+<li><i><a href="/wiki/Codeville" title="Codeville">Codeville</a></i> (2005)</li>
+<li><a href="/wiki/Darcs" title="Darcs">Darcs</a> (2002)</li>
+<li><i><a href="/wiki/Distributed_Concurrent_Versions_System" title="Distributed Concurrent Versions System">DCVS</a></i> (2002)</li>
+<li><a href="/wiki/Fossil_(software)" title="Fossil (software)">Fossil</a> (2007)</li>
+<li><a href="/wiki/Git" title="Git">Git</a> (2005)</li>
+<li><i><a href="/wiki/GNU_arch" title="GNU arch">GNU arch</a></i> (2001)</li>
+<li><a href="/wiki/GNU_Bazaar" title="GNU Bazaar">GNU Bazaar</a> (2005)</li>
+<li><a href="/wiki/Mercurial" title="Mercurial">Mercurial</a> (2005)</li>
+<li><a href="/wiki/Monotone_(software)" title="Monotone (software)">Monotone</a> (2003)</li>
+<li><i><a href="/wiki/SVK" title="SVK">SVK</a></i> (2003)</li>
+<li><a href="/wiki/Veracity_(software)" title="Veracity (software)">Veracity</a> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Proprietary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Sun_WorkShop_TeamWare" title="Sun WorkShop TeamWare">TeamWare</a></i> (1990s?)</li>
+<li><a href="/wiki/Code_Co-op" title="Code Co-op">Code Co-op</a> (1997)</li>
+<li><a href="/wiki/Plastic_SCM" title="Plastic SCM">Plastic SCM</a> (2006)</li>
+<li><a href="/wiki/Team_Foundation_Server" title="Team Foundation Server">Team Foundation Server</a> (2013)</li>
+<li><a href="/wiki/Visual_Studio_Team_Services" class="mw-redirect" title="Visual Studio Team Services">Visual Studio Team Services</a> (2014)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Branch</a></li>
+<li><a href="/wiki/Fork_(software_development)" title="Fork (software development)">Fork</a></li>
+<li><a href="/wiki/Changeset" title="Changeset">Changeset</a></li>
+<li><a href="/wiki/Commit_(version_control)" title="Commit (version control)">Commit</a>
+<ul>
+<li><a href="/wiki/Gated_commit" title="Gated commit">Gated commit</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Interleaved_deltas" title="Interleaved deltas">Interleaved deltas</a></li>
+<li><a href="/wiki/Delta_encoding" title="Delta encoding">Delta compression</a></li>
+<li><a href="/wiki/Data_comparison" class="mw-redirect" title="Data comparison">Data comparison</a></li>
+<li><a href="/wiki/Merge_(version_control)" title="Merge (version control)">Merge</a></li>
+<li><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></li>
+<li><a href="/wiki/Revision_tag" title="Revision tag">Tag</a></li>
+<li><a href="/wiki/Trunk_(software)" title="Trunk (software)">Trunk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Version_control_systems" title="Category:Version control systems">Category</a></b></li>
+<li><b><a href="/wiki/Comparison_of_version_control_software" title="Comparison of version control software">Comparison</a></b></li>
+<li><b><a href="/wiki/List_of_version_control_software" title="List of version control software">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20180211014158
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.172 seconds
+Preprocessor visited node count: 503/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35276/2097152 bytes
+Template argument size: 617/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  143.587      1 -total
+ 47.80%   68.634      1 Template:Reflist
+ 41.96%   60.253      1 Template:Citation_needed
+ 31.24%   44.863      1 Template:Fix
+ 29.44%   42.278      1 Template:Cite_book
+ 21.30%   30.580      2 Template:Category_handler
+ 11.79%   16.929      4 Template:Navbox
+ 10.12%   14.528      1 Template:Version_control_software
+  8.52%   12.235      2 Template:Cite_web
+  8.00%   11.485      1 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3422285-0!canonical and timestamp 20180211014158 and revision id 739922235
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Branching_(version_control)&amp;oldid=739922235">https://en.wikipedia.org/w/index.php?title=Branching_(version_control)&amp;oldid=739922235</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Version_control" title="Category:Version control">Version control</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Branching+%28version+control%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Branching+%28version+control%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Branching_(version_control)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Branching_(version_control)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Branching_(version_control)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Branching_(version_control)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Branching_(version_control)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Branching_(version_control)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Branching_(version_control)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Branching_(version_control)&amp;oldid=739922235" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Branching_(version_control)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q925385" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Branching_%28version_control%29&amp;id=739922235" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Branching+%28version+control%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Branching+%28version+control%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Branching_(version_control)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Branche_(gestion_de_configuration)" title="Branche (gestion de configuration) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Grananje_(nadzor_ina%C4%8Dica)" title="Grananje (nadzor inačica) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%81g_(szoftver)" title="Ág (szoftver) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)" title="ブランチ (ソフトウェア) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D0%B2%D1%8C_(%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8)" title="Ветвь (управление версиями) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Branch_(version)" title="Branch (version) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D_(%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81)" title="கிளைத்தல் (திருத்தக் கட்டுப்பாடு) – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%BB%D0%BA%D0%B0_(%D0%BA%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%8F%D0%BC%D0%B8)" title="Гілка (керування версіями) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%88%86%E6%94%AF_(%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)" title="分支 (版本控制) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q925385#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 September 2016, at 23:06.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Branching_(version_control)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.172","ppvisitednodes":{"value":503,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35276,"limit":2097152},"templateargumentsize":{"value":617,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  143.587      1 -total"," 47.80%   68.634      1 Template:Reflist"," 41.96%   60.253      1 Template:Citation_needed"," 31.24%   44.863      1 Template:Fix"," 29.44%   42.278      1 Template:Cite_book"," 21.30%   30.580      2 Template:Category_handler"," 11.79%   16.929      4 Template:Navbox"," 10.12%   14.528      1 Template:Version_control_software","  8.52%   12.235      2 Template:Cite_web","  8.00%   11.485      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":2867029,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20180211014158","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1262"});});</script>
+	</body>
+</html>

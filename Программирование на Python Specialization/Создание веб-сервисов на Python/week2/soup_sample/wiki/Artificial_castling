@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Artificial castling - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Artificial_castling","wgTitle":"Artificial castling","wgCurRevisionId":817953091,"wgRevisionId":817953091,"wgArticleId":2152437,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from August 2007","All articles lacking sources","Chess terminology","Chess strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Artificial_castling","wgRelevantArticleId":2152437,"wgRequestId":"Wof2LApAAEIAAD4ICnAAAACD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q367702","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Artificial_castling"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Artificial_castling&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Artificial_castling&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Artificial_castling"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Artificial_castling rootpage-Artificial_castling skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Artificial castling</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Chess" title="Chess">chess</a>, <b>artificial castling</b> (also called <b>castling by hand</b>) refers to a maneuver in which a <a href="/wiki/King_(chess)" title="King (chess)">king</a> which has lost the right to <a href="/wiki/Castling" title="Castling">castle</a> achieves a castled position in several normal moves, instead of the one special move.</p>
+<div style="clear:left; float:left; width:auto; background:none; margin-bottom:0.5em; padding:0.5em 1.4em 0.8em 0;">
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Praxis"><span class="tocnumber">2</span> <span class="toctext">Praxis</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<p><br /></p>
+<table role="presentation" class="metadata mbox-small-left" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;width:165px;">
+<tr>
+<td style="width:1px"></td>
+<td class="mbox-text plainlist">This article uses <a href="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic notation</a> to describe chess moves.</td>
+</tr>
+</table>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Artificial_castling&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table style="float:right;" border="0" cellpadding="1" cellspacing="0">
+<tr valign="top">
+<td>
+<div class="thumb tright" style="clear:right;text-align:center;max-width:254px">
+<div style="line-height:130%"></div>
+<div class="thumbinner" style="width:246px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/208px-Chessboard480.svg.png" width="208" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/312px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="a8 black rook"><img alt="a8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="c8 black bishop"><img alt="c8 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="d8 black queen"><img alt="d8 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/26px-Chess_qdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/39px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/52px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="e8 black king"><img alt="e8 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/26px-Chess_kdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/39px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/52px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="f8 black bishop"><img alt="f8 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="h8 black rook"><img alt="h8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="a7 black pawn"><img alt="a7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="b7 black pawn"><img alt="b7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c7 black pawn"><img alt="c7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="d7 black pawn"><img alt="d7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="f7 white bishop"><img alt="f7 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g7 black pawn"><img alt="g7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h7 black pawn"><img alt="h7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="c6 black knight"><img alt="c6 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/26px-Chess_ndt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/39px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/52px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="e5 black pawn"><img alt="e5 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="e4 black knight"><img alt="e4 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/26px-Chess_ndt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/39px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/52px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="c3 white knight"><img alt="c3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="f3 white knight"><img alt="f3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="b2 white pawn"><img alt="b2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c2 white pawn"><img alt="c2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="d2 white pawn"><img alt="d2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="f2 white pawn"><img alt="f2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g2 white pawn"><img alt="g2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="a1 white rook"><img alt="a1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="c1 white bishop"><img alt="c1 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="d1 white queen"><img alt="d1 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/26px-Chess_qlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/39px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/52px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="e1 white king"><img alt="e1 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/26px-Chess_klt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/39px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/52px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="h1 white rook"><img alt="h1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">Position after 5.Bxf7+?!</div>
+</div>
+</div>
+</td>
+<td>
+<div class="thumb tright" style="clear:right;text-align:center;max-width:254px">
+<div style="line-height:130%"></div>
+<div class="thumbinner" style="width:246px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/208px-Chessboard480.svg.png" width="208" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/312px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="a8 black rook"><img alt="a8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="c8 black bishop"><img alt="c8 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="d8 black queen"><img alt="d8 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/26px-Chess_qdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/39px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/52px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="f8 black rook"><img alt="f8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="g8 black king"><img alt="g8 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/26px-Chess_kdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/39px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/52px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="a7 black pawn"><img alt="a7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="b7 black pawn"><img alt="b7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c7 black pawn"><img alt="c7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="d7 black pawn"><img alt="d7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="e7 black bishop"><img alt="e7 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g7 black pawn"><img alt="g7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h7 black pawn"><img alt="h7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="c6 black knight"><img alt="c6 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/26px-Chess_ndt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/39px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/52px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="d4 white knight"><img alt="d4 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="e4 white knight"><img alt="e4 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="b2 white pawn"><img alt="b2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c2 white pawn"><img alt="c2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="f2 white pawn"><img alt="f2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g2 white pawn"><img alt="g2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="a1 white rook"><img alt="a1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="c1 white bishop"><img alt="c1 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="d1 white queen"><img alt="d1 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/26px-Chess_qlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/39px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/52px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="f1 white rook"><img alt="f1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="g1 white king"><img alt="g1 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/26px-Chess_klt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/39px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/52px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">Position after 9...Kg8</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<p>After the following common sequence of moves:</p>
+<dl>
+<dd><b>1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+?!</b> (first diagram)</dd>
+</dl>
+<p>White sees that if he recaptures with 5.Nxe4, Black responds with 5...d5, forking knight and bishop and winning back the piece. In that case, Black has not won material, but has destroyed White's center. Instead of allowing d5, White hopes to cause trouble for Black by returning the piece while depriving him of the right to castle. However, Black can easily castle artificially, for example:</p>
+<dl>
+<dd><b>5... Kxf7 6. Nxe4 Be7 7. 0-0</b></dd>
+</dl>
+<p>White castles "naturally".</p>
+<dl>
+<dd><b>7... Rf8</b></dd>
+</dl>
+<p>Black begins castling artificially.</p>
+<dl>
+<dd><b>8. d4 exd4 9. Nxd4 Kg8</b> (second diagram)</dd>
+</dl>
+<p>Black has achieved a normal castled position (Rf8, Kg8), but in several moves. The absence of any pawns in the center indicates that king safety is of particular importance in this position. Black's development lags slightly, but he also possesses the bishop pair and a <a href="/wiki/Queenside" class="mw-redirect" title="Queenside">queenside</a> <a href="/wiki/Pawn_(chess)" title="Pawn (chess)">pawn</a> majority, so his position is at least equal.</p>
+<div style="clear:both;"></div>
+<table style="float:left;" border="0" cellpadding="1" cellspacing="0">
+<tr valign="top">
+<td>
+<div class="thumb tleft" style="clear:none;text-align:center;max-width:222px">
+<div style="line-height:130%"></div>
+<div class="thumbinner" style="width:214px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:22px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/176px-Chessboard480.svg.png" width="176" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/264px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/352px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:0px;width:22px;height:22px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="a8 black rook"><img alt="a8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/22px-Chess_rdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/33px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/44px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:22px;width:22px;height:22px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="b8 black knight"><img alt="b8 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/22px-Chess_ndt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/33px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/44px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="d8 black queen"><img alt="d8 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/22px-Chess_qdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/33px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/44px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:88px;width:22px;height:22px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="e8 black king"><img alt="e8 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/22px-Chess_kdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/33px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/44px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="f8 black bishop"><img alt="f8 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/22px-Chess_bdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/33px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/44px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="h8 black rook"><img alt="h8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/22px-Chess_rdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/33px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/44px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:88px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="e7 black pawn"><img alt="e7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="f7 black pawn"><img alt="f7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g7 black pawn"><img alt="g7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h7 black pawn"><img alt="h7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:44px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="d6 black pawn"><img alt="d6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:44px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="f6 black knight"><img alt="f6 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/22px-Chess_ndt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/33px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/44px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:66px;left:44px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c5 black pawn"><img alt="c5 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:66px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="d5 white pawn"><img alt="d5 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:88px;left:88px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="e4 white pawn"><img alt="e4 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:110px;left:44px;width:22px;height:22px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="c3 white knight"><img alt="c3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/22px-Chess_nlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/33px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/44px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:0px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:22px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="b2 white pawn"><img alt="b2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="f2 white pawn"><img alt="f2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g2 white pawn"><img alt="g2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:0px;width:22px;height:22px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="a1 white rook"><img alt="a1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/22px-Chess_rlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/33px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/44px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:44px;width:22px;height:22px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="c1 white bishop"><img alt="c1 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/22px-Chess_blt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/33px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/44px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="d1 white queen"><img alt="d1 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/22px-Chess_qlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/33px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/44px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="f1 white king"><img alt="f1 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/22px-Chess_klt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/33px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/44px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="g1 white knight"><img alt="g1 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/22px-Chess_nlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/33px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/44px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="h1 white rook"><img alt="h1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/22px-Chess_rlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/33px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/44px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:22px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">7</td>
+<td style="padding:0;vertical-align:inherit;height:22px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">6</td>
+<td style="padding:0;vertical-align:inherit;height:22px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">5</td>
+<td style="padding:0;vertical-align:inherit;height:22px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">4</td>
+<td style="padding:0;vertical-align:inherit;height:22px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">3</td>
+<td style="padding:0;vertical-align:inherit;height:22px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">2</td>
+<td style="padding:0;vertical-align:inherit;height:22px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">1</td>
+<td style="padding:0;vertical-align:inherit;height:22px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">After 8.Kxf1 in the <a href="/wiki/Benko_Gambit" title="Benko Gambit">Benko Gambit</a></div>
+</div>
+</div>
+</td>
+<td>
+<div class="thumb tleft" style="clear:none;text-align:center;max-width:222px">
+<div style="line-height:130%"></div>
+<div class="thumbinner" style="width:214px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:22px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/176px-Chessboard480.svg.png" width="176" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/264px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/352px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:0px;width:22px;height:22px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="a8 black rook"><img alt="a8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/22px-Chess_rdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/33px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/44px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="d8 black queen"><img alt="d8 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/22px-Chess_qdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/33px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/44px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="f8 black rook"><img alt="f8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/22px-Chess_rdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/33px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/44px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="g8 black king"><img alt="g8 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/22px-Chess_kdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/33px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/44px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="d7 black knight"><img alt="d7 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/22px-Chess_ndt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/33px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/44px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:88px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="e7 black pawn"><img alt="e7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="f7 black pawn"><img alt="f7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="g7 black bishop"><img alt="g7 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/22px-Chess_bdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/33px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/44px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:22px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h7 black pawn"><img alt="h7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:44px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="d6 black pawn"><img alt="d6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:44px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="f6 black knight"><img alt="f6 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/22px-Chess_ndt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/33px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/44px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:44px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g6 black pawn"><img alt="g6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:66px;left:44px;width:22px;height:22px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c5 black pawn"><img alt="c5 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/22px-Chess_pdt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/33px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/44px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:66px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="d5 white pawn"><img alt="d5 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:88px;left:88px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="e4 white pawn"><img alt="e4 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:110px;left:44px;width:22px;height:22px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="c3 white knight"><img alt="c3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/22px-Chess_nlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/33px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/44px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:110px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="f3 white knight"><img alt="f3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/22px-Chess_nlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/33px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/44px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:110px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g3 white pawn"><img alt="g3 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:0px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:22px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="b2 white pawn"><img alt="b2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:110px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="f2 white pawn"><img alt="f2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:132px;width:22px;height:22px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="g2 white king"><img alt="g2 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/22px-Chess_klt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/33px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/44px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:132px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/22px-Chess_plt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/33px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/44px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:0px;width:22px;height:22px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="a1 white rook"><img alt="a1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/22px-Chess_rlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/33px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/44px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:44px;width:22px;height:22px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="c1 white bishop"><img alt="c1 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/22px-Chess_blt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/33px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/44px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:66px;width:22px;height:22px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="d1 white queen"><img alt="d1 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/22px-Chess_qlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/33px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/44px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:154px;left:154px;width:22px;height:22px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="h1 white rook"><img alt="h1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/22px-Chess_rlt45.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/33px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/44px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:22px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">7</td>
+<td style="padding:0;vertical-align:inherit;height:22px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">6</td>
+<td style="padding:0;vertical-align:inherit;height:22px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">5</td>
+<td style="padding:0;vertical-align:inherit;height:22px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">4</td>
+<td style="padding:0;vertical-align:inherit;height:22px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">3</td>
+<td style="padding:0;vertical-align:inherit;height:22px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">2</td>
+<td style="padding:0;vertical-align:inherit;height:22px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:22px">1</td>
+<td style="padding:0;vertical-align:inherit;height:22px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:22px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">Position after 11.Nf3 Nbd7</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<p><br />
+In an even more common <a href="/wiki/Chess_opening" title="Chess opening">opening</a> (a main line of the <a href="/wiki/Benko_Gambit" title="Benko Gambit">Benko Gambit</a>, <i><a href="/wiki/Encyclopaedia_of_Chess_Openings" title="Encyclopaedia of Chess Openings">ECO</a></i> A59), White uses the g2-square in an artificial castle maneuver to safeguard his king after an exchange of bishops on f1 precludes castling normally:</p>
+<dl>
+<dd><b>1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8. Kxf1</b> (first diagram) <b>8... g6 9. g3 Bg7 10. Kg2 0-0 11. Nf3 Nbd7</b> (second diagram). White has completed the artificial castle maneuver of his king and is ready to continue with 12.Re1 (or other moves).</dd>
+</dl>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Praxis">Praxis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Artificial_castling&amp;action=edit&amp;section=2" title="Edit section: Praxis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright" style="clear:right;text-align:center;max-width:254px">
+<div style="line-height:130%">Mestel vs. Makarichev, 1979</div>
+<div class="thumbinner" style="width:246px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/208px-Chessboard480.svg.png" width="208" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/312px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="d8 black rook"><img alt="d8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="h8 black rook"><img alt="h8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="a7 black pawn"><img alt="a7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="b7 black pawn"><img alt="b7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c7 black pawn"><img alt="c7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="f7 black pawn"><img alt="f7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g7 black pawn"><img alt="g7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="h7 black king"><img alt="h7 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/26px-Chess_kdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/39px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/52px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="c6 black bishop"><img alt="c6 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="f6 black queen"><img alt="f6 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/26px-Chess_qdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/39px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/52px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h6 black pawn"><img alt="h6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="c5 white queen"><img alt="c5 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/26px-Chess_qlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/39px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/52px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c3 white pawn"><img alt="c3 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="e3 white bishop"><img alt="e3 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="b2 white pawn"><img alt="b2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c2 white pawn"><img alt="c2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="e2 white rook"><img alt="e2 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g2 white pawn"><img alt="g2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="a1 white rook"><img alt="a1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="g1 white king"><img alt="g1 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/26px-Chess_klt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/39px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/52px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">Position after 17...Kh7</div>
+</div>
+</div>
+<p>The following game between <a href="/wiki/Jonathan_Mestel" title="Jonathan Mestel">Jonathan Mestel</a> and <a href="/wiki/Sergey_Makarichev" class="mw-redirect" title="Sergey Makarichev">Sergey Makarichev</a> played in <a href="/wiki/Hastings_International_Chess_Congress" title="Hastings International Chess Congress">Hastings</a> 1979 features yet another way to artificially castle:</p>
+<dl>
+<dd><b>1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 Nc6 5. 0-0 Nxc3 6. dxc3 h6 7. Qd5 Qf6 8. Re1 Bd6 9. Nxe5 Bxe5 10. f4 d6 11. fxe5 dxe5 12. Bb5 Bd7 13. Bxc6 Bxc6 14. Rxe5+ Kf8 15. Qc5+ Kg8 16. Re2 Rd8 17. Be3 Kh7</b> (see diagram) The king has finally reached a safe haven and now Black takes over the initiative. <b>18. Qxa7? Rhe8 19. Rf2 Qg6 20. h3 Re4! 21. Bd4 Rd5! 22. Rd1 Rg5 23. Kf1 Re6 24. g4 Bb5+ 25. Kg1 Rxg4+! 26. Kh2 Rg3 27. Rdd2 Rxh3+! 28. Kxh3 Qh5+ <span class="nowrap">0–1</span></b></dd>
+</dl>
+<div class="thumb tleft" style="clear:none;text-align:center;max-width:254px">
+<div style="line-height:130%">Heidenfeld vs. Hecht, 1974</div>
+<div class="thumbinner" style="width:246px">
+<table cellpadding="0" cellspacing="0" style="background:white;font-size:88%;border:1px #b0b0b0 solid;padding:0;margin:auto">
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+<td colspan="8" rowspan="8" style="padding:0;vertical-align:inherit">
+<div class="chess-board" style="position:relative"><img alt="Chessboard480.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/208px-Chessboard480.svg.png" width="208" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/312px-Chessboard480.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png 2x" data-file-width="480" data-file-height="480" />
+<div style="position:absolute;z-index:3;top:0px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="a8 black rook"><img alt="a8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="c8 black bishop"><img alt="c8 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_kdt45.svg" class="image" title="e8 black king"><img alt="e8 black king" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/26px-Chess_kdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/39px-Chess_kdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/52px-Chess_kdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:0px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_rdt45.svg" class="image" title="h8 black rook"><img alt="h8 black rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/26px-Chess_rdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/39px-Chess_rdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/52px-Chess_rdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="a7 black pawn"><img alt="a7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:26px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="b7 black pawn"><img alt="b7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="f7 black pawn"><img alt="f7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="g7 black pawn"><img alt="g7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:26px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="h7 black pawn"><img alt="h7 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_ndt45.svg" class="image" title="c6 black knight"><img alt="c6 black knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/26px-Chess_ndt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/39px-Chess_ndt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/52px-Chess_ndt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:52px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="e6 black pawn"><img alt="e6 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_qdt45.svg" class="image" title="a5 black queen"><img alt="a5 black queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/26px-Chess_qdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/39px-Chess_qdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/52px-Chess_qdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="d5 black pawn"><img alt="d5 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:78px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="e5 white pawn"><img alt="e5 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_pdt45.svg" class="image" title="c4 black pawn"><img alt="c4 black pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/26px-Chess_pdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/39px-Chess_pdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/52px-Chess_pdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="d4 white pawn"><img alt="d4 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:104px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="f4 white pawn"><img alt="f4 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_bdt45.svg" class="image" title="a3 black bishop"><img alt="a3 black bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/26px-Chess_bdt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/39px-Chess_bdt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/52px-Chess_bdt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c3 white pawn"><img alt="c3 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:130px;left:130px;width:26px;height:26px"><a href="/wiki/File:Chess_nlt45.svg" class="image" title="f3 white knight"><img alt="f3 white knight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/26px-Chess_nlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/39px-Chess_nlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/52px-Chess_nlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="a2 white pawn"><img alt="a2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="c2 white pawn"><img alt="c2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="e2 white bishop"><img alt="e2 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:156px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="g2 white pawn"><img alt="g2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:156px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_plt45.svg" class="image" title="h2 white pawn"><img alt="h2 white pawn" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/26px-Chess_plt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/39px-Chess_plt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/52px-Chess_plt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:0px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="a1 white rook"><img alt="a1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:52px;width:26px;height:26px"><a href="/wiki/File:Chess_blt45.svg" class="image" title="c1 white bishop"><img alt="c1 white bishop" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/26px-Chess_blt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/39px-Chess_blt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/52px-Chess_blt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:78px;width:26px;height:26px"><a href="/wiki/File:Chess_qlt45.svg" class="image" title="d1 white queen"><img alt="d1 white queen" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/26px-Chess_qlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/39px-Chess_qlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/52px-Chess_qlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:104px;width:26px;height:26px"><a href="/wiki/File:Chess_klt45.svg" class="image" title="e1 white king"><img alt="e1 white king" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/26px-Chess_klt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/39px-Chess_klt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/52px-Chess_klt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+<div style="position:absolute;z-index:3;top:182px;left:182px;width:26px;height:26px"><a href="/wiki/File:Chess_rlt45.svg" class="image" title="h1 white rook"><img alt="h1 white rook" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/26px-Chess_rlt45.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/39px-Chess_rlt45.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/52px-Chess_rlt45.svg.png 2x" data-file-width="45" data-file-height="45" /></a></div>
+</div>
+</td>
+<td style="padding:0;vertical-align:inherit;width:18px;height:26px">8</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+<td style="padding:0;vertical-align:inherit;height:26px">7</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+<td style="padding:0;vertical-align:inherit;height:26px">6</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+<td style="padding:0;vertical-align:inherit;height:26px">5</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+<td style="padding:0;vertical-align:inherit;height:26px">4</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+<td style="padding:0;vertical-align:inherit;height:26px">3</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+<td style="padding:0;vertical-align:inherit;height:26px">2</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+<td style="padding:0;vertical-align:inherit;height:26px">1</td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="vertical-align:inherit;padding:0"></td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">a</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">b</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">c</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">d</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">e</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">f</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">g</td>
+<td style="padding:0;vartical-align:inherit;height:18px;width:26px">h</td>
+<td style="vertical-align:inherit;padding:0"></td>
+</tr>
+</table>
+<div class="thumbcaption">Position after 12...Qa5</div>
+</div>
+</div>
+<p>A unique and even humorous artificial castling took place in the game Heidenfeld–Hecht, played in the <a href="/wiki/Nice" title="Nice">Nice</a> <a href="/wiki/Chess_Olympiad" title="Chess Olympiad">Chess Olympiad</a> 1974:</p>
+<dl>
+<dd><b>1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. d4 Nxc3 5. bxc3 e6 6. Bd3 c5 7. f4 Nc6 8. Nf3 Qa5 9. Bd2 Qa4! 10. Be3 c4 11. Be2 Ba3 12. Bc1? Qa5</b> (see diagram) White's queenside pawns were under heavy pressure, and "usual" moves such as 13.Bd2? Bb2, 13.Bxa3 Qxc3+! or 13.Qd2 Bxc1 would have all led to a loss of a pawn. So, White came up with the following unusual maneuver: <b>13. Kd2! Be7 14. Qe1 Bd7 15. Ke3</b> Now that the queen guards c3, the king can continue his journey to safety. <b>15... f6 16. Rf1 fxe5 17. fxe5 0-0 18. Kf2 Be8! 19. Kg1</b> White has "castled" in five moves instead of the usual one, but maintained material equality (although after <b>19... Bg6</b>, Black was still better, and eventually won).</dd>
+</dl>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Artificial_castling&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Castling" title="Castling">Castling</a></li>
+<li><a href="/wiki/Chess" title="Chess">Chess</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Artificial_castling&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Artificial_castling&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2007)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Chess" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chess" title="Template:Chess"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chess" title="Template talk:Chess"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chess&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Chess" style="font-size:114%;margin:0 4em"><a href="/wiki/Chess" title="Chess">Chess</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_chess" title="Outline of chess">Outline</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chess_theory" title="Chess theory">Chess theory</a></li>
+<li><a href="/wiki/Chess_title" title="Chess title">Chess titles</a>
+<ul>
+<li><a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">Grandmaster</a></li>
+<li><a href="/wiki/List_of_chess_grandmasters" title="List of chess grandmasters">list of Grandmasters</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Computer_chess" title="Computer chess">Computer chess</a>
+<ul>
+<li><a href="/wiki/Glossary_of_computer_chess_terms" title="Glossary of computer chess terms">glossary</a></li>
+<li><a href="/wiki/Human%E2%80%93computer_chess_matches" title="Human–computer chess matches">matches</a></li>
+<li><a href="/wiki/Chess_engine" title="Chess engine">engines</a></li>
+<li><a href="/wiki/List_of_chess_software" title="List of chess software">software</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Correspondence_chess" title="Correspondence chess">Correspondence chess</a></li>
+<li><a href="/wiki/FIDE" title="FIDE">FIDE</a></li>
+<li><a href="/wiki/Glossary_of_chess" title="Glossary of chess">Glossary</a></li>
+<li><a href="/wiki/History_of_chess" title="History of chess">History</a>
+<ul>
+<li><a href="/wiki/Timeline_of_chess" title="Timeline of chess">timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_rating_system" title="Chess rating system">Rating system</a>
+<ul>
+<li><a href="/wiki/FIDE_world_rankings" title="FIDE world rankings">world rankings</a></li>
+<li><a href="/wiki/Norm_(chess)" title="Norm (chess)">norms</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_chess_variants" title="List of chess variants">Variants</a>
+<ul>
+<li><a href="/wiki/Courier_chess" title="Courier chess">Courier</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_world_records_in_chess" title="List of world records in chess">World records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_equipment" title="Chess equipment">Equipment</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chess_set" title="Chess set">Chess set</a>
+<ul>
+<li><a href="/wiki/Chessboard" title="Chessboard">chessboard</a></li>
+<li><a href="/wiki/Chess_piece" title="Chess piece">pieces</a></li>
+<li><a href="/wiki/King_(chess)" title="King (chess)">King</a></li>
+<li><a href="/wiki/Queen_(chess)" title="Queen (chess)">Queen</a></li>
+<li><a href="/wiki/Rook_(chess)" title="Rook (chess)">Rook</a></li>
+<li><a href="/wiki/Bishop_(chess)" title="Bishop (chess)">Bishop</a></li>
+<li><a href="/wiki/Knight_(chess)" title="Knight (chess)">Knight</a></li>
+<li><a href="/wiki/Pawn_(chess)" title="Pawn (chess)">Pawn</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_box" title="Chess box">Chess box</a></li>
+<li><a href="/wiki/Chess_clock" title="Chess clock">Chess clock</a></li>
+<li><a href="/wiki/Chess_table" title="Chess table">Chess table</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rules_of_chess" title="Rules of chess">Rules</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Castling" title="Castling">Castling</a></li>
+<li><a href="/wiki/Check_(chess)" title="Check (chess)">Check</a></li>
+<li><a href="/wiki/Checkmate" title="Checkmate">Checkmate</a></li>
+<li><a href="/wiki/Draw_(chess)" title="Draw (chess)">Draw</a>
+<ul>
+<li><a href="/wiki/Draw_by_agreement" title="Draw by agreement">by agreement</a></li>
+<li><a href="/wiki/Fifty-move_rule" title="Fifty-move rule">Fifty-move rule</a></li>
+<li><a href="/wiki/Perpetual_check" title="Perpetual check">Perpetual check</a></li>
+<li><a href="/wiki/Stalemate" title="Stalemate">Stalemate</a></li>
+<li><a href="/wiki/Threefold_repetition" title="Threefold repetition">Threefold repetition</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/En_passant" title="En passant">En passant</a></i></li>
+<li><a href="/wiki/Promotion_(chess)" title="Promotion (chess)">Pawn promotion</a></li>
+<li><a href="/wiki/Time_control" title="Time control">Time control</a>
+<ul>
+<li><a href="/wiki/Fast_chess" title="Fast chess">Fast chess</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Touch-move_rule" title="Touch-move rule">Touch-move rule</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Glossary_of_chess" title="Glossary of chess">Terms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blunder_(chess)" title="Blunder (chess)">Blunder</a></li>
+<li><a href="/wiki/Chess_notation" title="Chess notation">Chess notation</a>
+<ul>
+<li><a href="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic</a></li>
+<li><a href="/wiki/Descriptive_notation" title="Descriptive notation">descriptive</a></li>
+<li><a href="/wiki/Portable_Game_Notation" title="Portable Game Notation">PGN</a></li>
+<li><a href="/wiki/Chess_annotation_symbols" title="Chess annotation symbols">annotation symbols</a></li>
+<li><a href="/wiki/Chess_symbols_in_Unicode" title="Chess symbols in Unicode">symbols in Unicode</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fianchetto" title="Fianchetto">Fianchetto</a></li>
+<li><a href="/wiki/Gambit" title="Gambit">Gambit</a></li>
+<li><a href="/wiki/Key_square" title="Key square">Key square</a></li>
+<li><a href="/wiki/King_walk" title="King walk">King walk</a></li>
+<li>Pawns
+<ul>
+<li><a href="/wiki/Backward_pawn" title="Backward pawn">backward</a></li>
+<li><a href="/wiki/Connected_pawns" title="Connected pawns">connected</a></li>
+<li><a href="/wiki/Doubled_pawns" title="Doubled pawns">doubled</a></li>
+<li><a href="/wiki/Isolated_pawn" title="Isolated pawn">isolated</a></li>
+<li><a href="/wiki/Mar%C3%B3czy_Bind" title="Maróczy Bind">Maróczy Bind</a></li>
+<li><a href="/wiki/Passed_pawn" title="Passed pawn">passed</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Open_file" title="Open file">Open file</a>
+<ul>
+<li><a href="/wiki/Half-open_file" title="Half-open file">Half-open file</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Outpost_(chess)" title="Outpost (chess)">Outpost</a></li>
+<li><a href="/wiki/School_of_chess" title="School of chess">School</a>
+<ul>
+<li><a href="/wiki/Romantic_chess" title="Romantic chess">romantic</a></li>
+<li><a href="/wiki/Hypermodernism_(chess)" title="Hypermodernism (chess)">hypermodern</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Swindle_(chess)" title="Swindle (chess)">Swindle</a></li>
+<li><a href="/wiki/Tempo_(chess)" title="Tempo (chess)">Tempo</a></li>
+<li><a href="/wiki/Transposition_(chess)" title="Transposition (chess)">Transposition</a></li>
+<li><a href="/wiki/List_of_chess_traps" title="List of chess traps">Trap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_tactic" title="Chess tactic">Tactics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battery_(chess)" title="Battery (chess)">Battery</a>
+<ul>
+<li><a href="/wiki/Alekhine%27s_gun" title="Alekhine's gun">Alekhine's gun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Block_(chess)" title="Block (chess)">Block</a></li>
+<li><a href="/wiki/Checkmate_pattern" title="Checkmate pattern">Checkmate patterns</a></li>
+<li><a href="/wiki/Combination_(chess)" title="Combination (chess)">Combination</a></li>
+<li><a href="/wiki/Decoy_(chess)" title="Decoy (chess)">Decoy</a></li>
+<li><a href="/wiki/Deflection_(chess)" title="Deflection (chess)">Deflection</a></li>
+<li><a href="/wiki/Desperado_(chess)" title="Desperado (chess)">Desperado</a></li>
+<li><a href="/wiki/Discovered_attack" title="Discovered attack">Discovered attack</a></li>
+<li><a href="/wiki/Double_check" title="Double check">Double check</a></li>
+<li><a href="/wiki/Fork_(chess)" title="Fork (chess)">Fork</a></li>
+<li><a href="/wiki/Interference_(chess)" title="Interference (chess)">Interference</a></li>
+<li><a href="/wiki/Overloading_(chess)" title="Overloading (chess)">Overloading</a></li>
+<li><a href="/wiki/Pin_(chess)" title="Pin (chess)">Pin</a></li>
+<li><a href="/wiki/Sacrifice_(chess)" title="Sacrifice (chess)">Sacrifice</a></li>
+<li><a href="/wiki/Skewer_(chess)" title="Skewer (chess)">Skewer</a></li>
+<li><a href="/wiki/Undermining_(chess)" title="Undermining (chess)">Undermining</a></li>
+<li><a href="/wiki/Windmill_(chess)" title="Windmill (chess)">Windmill</a></li>
+<li><a href="/wiki/X-ray_(chess)" title="X-ray (chess)">X-ray</a></li>
+<li><a href="/wiki/Zwischenzug" title="Zwischenzug">Zwischenzug</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_strategy" title="Chess strategy">Strategy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Artificial castling</a></li>
+<li><a href="/wiki/Compensation_(chess)" title="Compensation (chess)">Compensation</a></li>
+<li><a href="/wiki/Exchange_(chess)" title="Exchange (chess)">Exchange</a>
+<ul>
+<li><a href="/wiki/The_exchange_(chess)" title="The exchange (chess)">the exchange</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Initiative_(chess)" title="Initiative (chess)">Initiative</a>
+<ul>
+<li><a href="/wiki/First-move_advantage_in_chess" title="First-move advantage in chess">first-move advantage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_middlegame" title="Chess middlegame">Middlegame</a></li>
+<li><a href="/wiki/Pawn_storm" title="Pawn storm">Pawn storm</a></li>
+<li><a href="/wiki/Pawn_structure" title="Pawn structure">Pawn structure</a></li>
+<li><a href="/wiki/Chess_piece_relative_value" title="Chess piece relative value">Piece values</a></li>
+<li><a href="/wiki/Prophylaxis_(chess)" title="Prophylaxis (chess)">Prophylaxis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_opening" title="Chess opening">Openings</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flank_opening" title="Flank opening">Flank opening</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Opening" title="English Opening">English Opening</a></li>
+<li><a href="/wiki/Zukertort_Opening" title="Zukertort Opening">Zukertort Opening</a>
+<ul>
+<li><a href="/wiki/R%C3%A9ti_Opening" title="Réti Opening">Réti Opening</a></li>
+<li><a href="/wiki/King%27s_Indian_Attack" title="King's Indian Attack">King's Indian Attack</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Larsen%27s_Opening" title="Larsen's Opening">Larsen's Opening</a></li>
+<li><a href="/wiki/Bird%27s_Opening" title="Bird's Opening">Bird's Opening</a></li>
+<li><a href="/wiki/Grob%27s_Attack" title="Grob's Attack">Grob's Attack</a></li>
+<li><a href="/wiki/Dunst_Opening" title="Dunst Opening">Dunst Opening</a></li>
+<li><a href="/wiki/King%27s_Fianchetto_Opening" title="King's Fianchetto Opening">Benko Opening</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/King%27s_Pawn_Game" title="King's Pawn Game">King's Pawn Game</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alekhine%27s_Defence" title="Alekhine's Defence">Alekhine's Defence</a></li>
+<li><a href="/wiki/Caro%E2%80%93Kann_Defence" title="Caro–Kann Defence">Caro–Kann Defence</a></li>
+<li><a href="/wiki/French_Defence" title="French Defence">French Defence</a></li>
+<li><a href="/wiki/Modern_Defense" title="Modern Defense">Modern Defence</a></li>
+<li><a href="/wiki/Nimzowitsch_Defence" title="Nimzowitsch Defence">Nimzowitsch Defence</a></li>
+<li><a href="/wiki/Open_Game" title="Open Game">Open Game</a>
+<ul>
+<li><a href="/wiki/Italian_Game" title="Italian Game">Italian Game</a></li>
+<li><a href="/wiki/Semi-Italian_Opening" title="Semi-Italian Opening">Semi-Italian Opening</a></li>
+<li><a href="/wiki/Giuoco_Piano" title="Giuoco Piano">Giuoco Piano</a></li>
+<li><a href="/wiki/King%27s_Gambit" title="King's Gambit">King's Gambit</a></li>
+<li><a href="/wiki/Petrov%27s_Defence" title="Petrov's Defence">Petrov's Defence</a></li>
+<li><a href="/wiki/Philidor_Defence" title="Philidor Defence">Philidor Defence</a></li>
+<li><a href="/wiki/Ruy_Lopez" title="Ruy Lopez">Ruy Lopez</a></li>
+<li><a href="/wiki/Scotch_Game" title="Scotch Game">Scotch Game</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Owen%27s_Defence" title="Owen's Defence">Owen's Defence</a></li>
+<li><a href="/wiki/Pirc_Defence" title="Pirc Defence">Pirc Defence</a></li>
+<li><a href="/wiki/Scandinavian_Defense" title="Scandinavian Defense">Scandinavian Defense</a>
+<ul>
+<li><a href="/wiki/Tennison_Gambit" title="Tennison Gambit">Tennison Gambit</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sicilian_Defence" title="Sicilian Defence">Sicilian Defence</a>
+<ul>
+<li><a href="/wiki/Sicilian_Defence,_Alapin_Variation" title="Sicilian Defence, Alapin Variation">Alapin</a></li>
+<li><a href="/wiki/Sicilian_Defence,_Dragon_Variation" title="Sicilian Defence, Dragon Variation">Dragon</a>/<a href="/wiki/Sicilian_Defence,_Accelerated_Dragon" title="Sicilian Defence, Accelerated Dragon">Accelerated Dragon</a></li>
+<li><a href="/wiki/Sicilian_Defence,_Najdorf_Variation" title="Sicilian Defence, Najdorf Variation">Najdorf</a></li>
+<li><a href="/wiki/Sicilian_Defence,_Scheveningen_Variation" title="Sicilian Defence, Scheveningen Variation">Scheveningen</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Queen%27s_Pawn_Game" title="Queen's Pawn Game">Queen's Pawn Game</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Defence" title="Dutch Defence">Dutch Defence</a></li>
+<li><a href="/wiki/Indian_Defence" title="Indian Defence">Indian Defence</a>
+<ul>
+<li><a href="/wiki/Benoni_Defense" title="Benoni Defense">Benoni Defence</a></li>
+<li><a href="/wiki/Modern_Benoni" title="Modern Benoni">Modern Benoni</a></li>
+<li><a href="/wiki/Bogo-Indian_Defence" title="Bogo-Indian Defence">Bogo-Indian Defence</a></li>
+<li><a href="/wiki/Gr%C3%BCnfeld_Defence" title="Grünfeld Defence">Grünfeld Defence</a></li>
+<li><a href="/wiki/King%27s_Indian_Defence" title="King's Indian Defence">King's Indian Defence</a></li>
+<li><a href="/wiki/Nimzo-Indian_Defence" title="Nimzo-Indian Defence">Nimzo-Indian Defence</a></li>
+<li><a href="/wiki/Queen%27s_Indian_Defense" title="Queen's Indian Defense">Queen's Indian Defence</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trompowsky_Attack" title="Trompowsky Attack">Trompowsky Attack</a></li>
+<li><a href="/wiki/London_System" title="London System">London System</a></li>
+<li><a href="/wiki/Queen%27s_Gambit" title="Queen's Gambit">Queen's Gambit</a>
+<ul>
+<li><a href="/wiki/Queen%27s_Gambit_Accepted" title="Queen's Gambit Accepted">Accepted</a></li>
+<li><a href="/wiki/Queen%27s_Gambit_Declined" title="Queen's Gambit Declined">Declined</a></li>
+<li><a href="/wiki/Slav_Defense" title="Slav Defense">Slav Defence</a></li>
+<li><a href="/wiki/Catalan_Opening" title="Catalan Opening">Catalan Opening</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_chess_openings" title="List of chess openings">List of openings</a>
+<ul>
+<li><a href="/wiki/Chess_opening_theory_table" title="Chess opening theory table">theory table</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_chess_gambits" title="List of chess gambits">List of chess gambits</a></li>
+<li><a href="/wiki/Irregular_chess_opening" title="Irregular chess opening">Irregular</a></li>
+<li><a href="/wiki/Checkmates_in_the_opening" title="Checkmates in the opening">Quick checkmates</a>
+<ul>
+<li><a href="/wiki/Fool%27s_mate" title="Fool's mate">Fool's mate</a></li>
+<li><a href="/wiki/Scholar%27s_mate" title="Scholar's mate">Scholar's mate</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_endgame" title="Chess endgame">Endgames</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King_and_pawn_versus_king_endgame" title="King and pawn versus king endgame">King and pawn vs king</a></li>
+<li><a href="/wiki/Opposite-colored_bishops_endgame" title="Opposite-colored bishops endgame">Opposite-coloured bishops</a></li>
+<li><a href="/wiki/Pawnless_chess_endgame" title="Pawnless chess endgame">Pawnless endgame</a></li>
+<li><a href="/wiki/Queen_and_pawn_versus_queen_endgame" title="Queen and pawn versus queen endgame">Queen and pawn vs queen</a></li>
+<li><a href="/wiki/Queen_versus_pawn_endgame" title="Queen versus pawn endgame">Queen vs pawn</a></li>
+<li><a href="/wiki/Rook_and_bishop_versus_rook_endgame" title="Rook and bishop versus rook endgame">Rook and bishop vs rook</a></li>
+<li><a href="/wiki/Rook_and_pawn_versus_rook_endgame" title="Rook and pawn versus rook endgame">Rook and pawn vs rook</a>
+<ul>
+<li><a href="/wiki/Lucena_position" title="Lucena position">Lucena position</a></li>
+<li><a href="/wiki/Philidor_position" title="Philidor position">Philidor position</a></li>
+</ul>
+</li>
+<li>Strategy
+<ul>
+<li><a href="/wiki/Fortress_(chess)" title="Fortress (chess)">fortress</a></li>
+<li><a href="/wiki/Opposition_(chess)" title="Opposition (chess)">opposition</a></li>
+<li><a href="/wiki/Tarrasch_rule" title="Tarrasch rule">Tarrasch rule</a></li>
+<li><a href="/wiki/Triangulation_(chess)" title="Triangulation (chess)">triangulation</a></li>
+<li><a href="/wiki/Zugzwang" title="Zugzwang">Zugzwang</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Endgame_study" title="Endgame study">Study</a></li>
+<li><a href="/wiki/Endgame_tablebase" title="Endgame tablebase">Tablebase</a></li>
+<li><a href="/wiki/Two_knights_endgame" title="Two knights endgame">Two knights endgame</a></li>
+<li><a href="/wiki/Wrong_bishop" title="Wrong bishop">Wrong bishop</a></li>
+<li><a href="/wiki/Wrong_rook_pawn" title="Wrong rook pawn">Wrong rook pawn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chess_tournament" title="Chess tournament">Tournaments</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_strong_chess_tournaments" title="List of strong chess tournaments">List of strong chess tournaments</a></li>
+<li><a href="/wiki/Chess_Olympiad" title="Chess Olympiad">Chess Olympiad</a>
+<ul>
+<li><a href="/wiki/Women%27s_Chess_Olympiad" title="Women's Chess Olympiad">Women</a></li>
+</ul>
+</li>
+<li><a href="/wiki/World_Chess_Championship" title="World Chess Championship">World Chess Championship</a>
+<ul>
+<li><a href="/wiki/List_of_World_Chess_Championships" title="List of World Chess Championships">List</a></li>
+<li><a href="/wiki/Candidates_Tournament" title="Candidates Tournament">Candidates Tournament</a></li>
+<li><a href="/wiki/Chess_World_Cup" title="Chess World Cup">Chess World Cup</a></li>
+<li><a href="/wiki/FIDE_Grand_Prix" title="FIDE Grand Prix">FIDE Grand Prix</a></li>
+</ul>
+</li>
+<li>Other world championships
+<ul>
+<li><a href="/wiki/Women%27s_World_Chess_Championship" title="Women's World Chess Championship">Women</a></li>
+<li><a href="/wiki/World_Team_Chess_Championship" title="World Team Chess Championship">Team</a></li>
+<li><a href="/wiki/World_Rapid_Chess_Championship" title="World Rapid Chess Championship">Rapid</a></li>
+<li><a href="/wiki/World_Blitz_Chess_Championship" title="World Blitz Chess Championship">Blitz</a></li>
+<li><a href="/wiki/World_Junior_Chess_Championship" title="World Junior Chess Championship">Junior</a></li>
+<li><a href="/wiki/World_Youth_Chess_Championship" title="World Youth Chess Championship">Youth</a></li>
+<li><a href="/wiki/World_Senior_Chess_Championship" title="World Senior Chess Championship">Senior</a></li>
+<li><a href="/wiki/World_Amateur_Chess_Championship" title="World Amateur Chess Championship">Amateur</a></li>
+<li><a href="/wiki/World_Championship_of_Chess_Composition" title="World Championship of Chess Composition">Chess composition</a></li>
+<li><a href="/wiki/World_Chess_Solving_Championship" title="World Chess Solving Championship">Solving</a></li>
+<li><a href="/wiki/World_Computer_Chess_Championship" title="World Computer Chess Championship">Computer chess</a></li>
+<li><a href="/wiki/World_Computer_Speed_Chess_Championship" title="World Computer Speed Chess Championship">Computer speed chess</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cheating_in_chess" title="Cheating in chess">Cheating in chess</a></li>
+<li><a href="/wiki/Chess_aesthetics" title="Chess aesthetics">Chess aesthetics</a></li>
+<li><a href="/wiki/Chess_in_the_arts" title="Chess in the arts">Chess in the arts</a>
+<ul>
+<li><a href="/wiki/Chess_in_early_literature" title="Chess in early literature">in early literature</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_chess_books" title="List of chess books">Chess books</a>
+<ul>
+<li><a href="/wiki/Chess_opening_book" title="Chess opening book">opening books</a></li>
+<li><a href="/wiki/Chess_endgame_literature" title="Chess endgame literature">endgame literature</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_club" title="Chess club">Chess club</a></li>
+<li><a href="/wiki/Chess_composer" title="Chess composer">Chess composer</a></li>
+<li><a href="/wiki/Chess_in_Europe" title="Chess in Europe">Chess in Europe</a>
+<ul>
+<li><i><a href="/wiki/G%C3%B6ttingen_manuscript" title="Göttingen manuscript">Göttingen manuscript</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_libraries" title="Chess libraries">Chess libraries</a></li>
+<li><a href="/wiki/Chess_columns_in_newspapers" title="Chess columns in newspapers">Chess newspaper columns</a></li>
+<li><a href="/wiki/List_of_chess_periodicals" title="List of chess periodicals">Chess periodicals</a></li>
+<li><a href="/wiki/Chess_problem" title="Chess problem">Chess problem</a>
+<ul>
+<li><a href="/wiki/Glossary_of_chess_problems" title="Glossary of chess problems">glossary</a></li>
+<li><a href="/wiki/Joke_chess_problem" title="Joke chess problem">joke chess</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chess_prodigy" title="Chess prodigy">Chess prodigy</a></li>
+<li><a href="/wiki/G%C3%B6kyay_Association_Chess_Museum" title="Gökyay Association Chess Museum">Gökyay Association Chess Museum</a></li>
+<li><a href="/wiki/World_Chess_Hall_of_Fame" title="World Chess Hall of Fame">Hall of Fame</a></li>
+<li><a href="/wiki/Deep_Blue_(chess_computer)" title="Deep Blue (chess computer)">Deep Blue</a></li>
+<li><a href="/wiki/Mutilated_chessboard_problem" title="Mutilated chessboard problem">Mutilated chessboard problem</a></li>
+<li><a href="/wiki/List_of_chess_games" title="List of chess games">Notable games</a></li>
+<li><a href="/wiki/Professional_Rapid_Online_Chess_League" title="Professional Rapid Online Chess League">PRO Chess League</a></li>
+<li><a href="/wiki/Simultaneous_exhibition" title="Simultaneous exhibition">Simultaneous exhibition</a></li>
+<li><a href="/wiki/Solving_chess" title="Solving chess">Solving chess</a></li>
+<li><a href="/wiki/Staunton_chess_set" title="Staunton chess set">Staunton chess set</a></li>
+<li><a href="/wiki/Comparison_of_top_chess_players_throughout_history" title="Comparison of top chess players throughout history">Top player comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20180207002447
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.309 seconds
+Preprocessor visited node count: 1288/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 139638/2097152 bytes
+Template argument size: 31/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 1.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  130.076      1 -total
+ 26.81%   34.875      1 Template:Unreferenced
+ 24.52%   31.900      4 Template:Chess_diagram
+ 22.76%   29.599      1 Template:Ambox
+ 18.07%   23.505      2 Template:Navbox
+ 17.83%   23.189      1 Template:Algebraic_notation
+ 17.29%   22.490      1 Template:Chess
+ 12.48%   16.236      1 Template:Side_box
+ 11.65%   15.155      2 Template:Chess_diagram_small
+  2.58%    3.358      2 Template:Clear_left
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2152437-0!canonical and timestamp 20180207002447 and revision id 817953091
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Artificial_castling&amp;oldid=817953091">https://en.wikipedia.org/w/index.php?title=Artificial_castling&amp;oldid=817953091</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chess_terminology" title="Category:Chess terminology">Chess terminology</a></li><li><a href="/wiki/Category:Chess_strategy" title="Category:Chess strategy">Chess strategy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_August_2007" title="Category:Articles lacking sources from August 2007">Articles lacking sources from August 2007</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Artificial+castling" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Artificial+castling" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Artificial_castling" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Artificial_castling" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Artificial_castling">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Artificial_castling&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Artificial_castling&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Artificial_castling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Artificial_castling" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Artificial_castling&amp;oldid=817953091" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Artificial_castling&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q367702" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Artificial_castling&amp;id=817953091" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Artificial+castling">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Artificial+castling&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Artificial_castling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Enroc_artificial" title="Enroc artificial – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%ED%8B%B0%ED%94%BC%EC%85%9C_%EC%BA%90%EC%8A%AC%EB%A7%81" title="아티피셜 캐슬링 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Arrocco_artificiale" title="Arrocco artificiale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kunstmatige_rokade" title="Kunstmatige rokade – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Roque_artificial" title="Roque artificial – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Искусственная рокировка – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%87%D0%BD%D0%B0_%D1%80%D0%BE%D0%BA%D1%96%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Штучна рокіровка – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Nh%E1%BA%ADp_th%C3%A0nh_gi%E1%BA%A3" title="Nhập thành giả – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q367702#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 December 2017, at 15:30.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Artificial_castling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.309","ppvisitednodes":{"value":1288,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":139638,"limit":2097152},"templateargumentsize":{"value":31,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  130.076      1 -total"," 26.81%   34.875      1 Template:Unreferenced"," 24.52%   31.900      4 Template:Chess_diagram"," 22.76%   29.599      1 Template:Ambox"," 18.07%   23.505      2 Template:Navbox"," 17.83%   23.189      1 Template:Algebraic_notation"," 17.29%   22.490      1 Template:Chess"," 12.48%   16.236      1 Template:Side_box"," 11.65%   15.155      2 Template:Chess_diagram_small","  2.58%    3.358      2 Template:Clear_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10.000"},"limitreport-memusage":{"value":1399176,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20180207002447","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

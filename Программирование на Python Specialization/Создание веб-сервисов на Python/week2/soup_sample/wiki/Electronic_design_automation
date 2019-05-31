@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Electronic design automation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electronic_design_automation","wgTitle":"Electronic design automation","wgCurRevisionId":807358084,"wgRevisionId":807358084,"wgArticleId":216881,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Use mdy dates from June 2012","Wikipedia articles that are too technical from February 2017","All articles that are too technical","Articles needing expert attention from February 2017","All articles needing expert attention","Vague or ambiguous geographic scope from April 2014","Wikipedia articles with GND identifiers","Electronic design automation","Electronic engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electronic_design_automation","wgRelevantArticleId":216881,"wgRequestId":"WoX4yApAADsAAEoXHhcAAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1194864","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electronic_design_automation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Electronic_design_automation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Electronic_design_automation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Electronic_design_automation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electronic_design_automation rootpage-Electronic_design_automation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Electronic design automation</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"ECAD" redirects here. For the Brazilian music licensing organization, see <a href="/wiki/Escrit%C3%B3rio_Central_de_Arrecada%C3%A7%C3%A3o_e_Distribui%C3%A7%C3%A3o" title="Escritório Central de Arrecadação e Distribuição">Escritório Central de Arrecadação e Distribuição</a>. For other uses, see <a href="/wiki/ECAD_(disambiguation)" class="mw-disambig" title="ECAD (disambiguation)">ECAD (disambiguation)</a>.</div>
+<p><b>Electronic design automation</b> (<b>EDA</b>), also referred to as <b>electronic computer-aided design</b> (<b>ECAD</b>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is a category of <a href="/wiki/Software_tools" class="mw-redirect" title="Software tools">software tools</a> for designing <a href="/wiki/Electronics" title="Electronics">electronic systems</a> such as <a href="/wiki/Integrated_circuit" title="Integrated circuit">integrated circuits</a> and <a href="/wiki/Printed_circuit_board" title="Printed circuit board">printed circuit boards</a>. The tools work together in a <a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">design flow</a> that chip designers use to design and analyze entire semiconductor chips. Since a modern semiconductor chip can have billions of components, EDA tools are essential for their design.</p>
+<p>This article describes EDA specifically with respect to <a href="/wiki/Integrated_circuits" class="mw-redirect" title="Integrated circuits">integrated circuits</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_days"><span class="tocnumber">1.1</span> <span class="toctext">Early days</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Birth_of_commercial_EDA"><span class="tocnumber">1.2</span> <span class="toctext">Birth of commercial EDA</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Current_status"><span class="tocnumber">2</span> <span class="toctext">Current status</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Software_focuses"><span class="tocnumber">3</span> <span class="toctext">Software focuses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Design"><span class="tocnumber">3.1</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Simulation"><span class="tocnumber">3.2</span> <span class="toctext">Simulation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Analysis_and_verification"><span class="tocnumber">3.3</span> <span class="toctext">Analysis and verification</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Manufacturing_preparation"><span class="tocnumber">3.4</span> <span class="toctext">Manufacturing preparation</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Functional_Safety"><span class="tocnumber">3.5</span> <span class="toctext">Functional Safety</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Companies"><span class="tocnumber">4</span> <span class="toctext">Companies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Old_companies"><span class="tocnumber">4.1</span> <span class="toctext">Old companies</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Acquisitions"><span class="tocnumber">4.2</span> <span class="toctext">Acquisitions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_days">Early days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=2" title="Edit section: Early days">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Before EDA, <a href="/wiki/Integrated_circuits" class="mw-redirect" title="Integrated circuits">integrated circuits</a> were designed by hand, and manually laid out. Some advanced shops used geometric software to generate the tapes for the <a href="/wiki/Ucamco" title="Ucamco">Gerber</a> <a href="/wiki/Photoplotter" title="Photoplotter">photoplotter</a>, but even those copied digital recordings of mechanically drawn components. The process was fundamentally graphic, with the translation from electronics to graphics done manually. The best known company from this era was <a href="/wiki/Calma" title="Calma">Calma</a>, whose <a href="/wiki/GDSII" title="GDSII">GDSII</a> format survives.</p>
+<p>By the mid-1970s, developers started to automate the design along with the drafting. The first placement and routing (<a href="/wiki/Place_and_route" title="Place and route">Place and route</a>) tools were developed. The proceedings of the <a href="/wiki/Design_Automation_Conference" title="Design Automation Conference">Design Automation Conference</a> cover much of this era.</p>
+<p>The next era began about the time of the publication of "Introduction to <a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">VLSI</a> Systems" by <a href="/wiki/Carver_Mead" title="Carver Mead">Carver Mead</a> and <a href="/wiki/Lynn_Conway" title="Lynn Conway">Lynn Conway</a> in 1980. This ground breaking text advocated chip design with programming languages that compiled to silicon. The immediate result was a considerable increase in the complexity of the chips that could be designed, with improved access to <a href="/wiki/Functional_verification" title="Functional verification">design verification</a> tools that used <a href="/wiki/Logic_simulation" title="Logic simulation">logic simulation</a>. Often the chips were easier to lay out and more likely to function correctly, since their designs could be simulated more thoroughly prior to construction. Although the languages and tools have evolved, this general approach of specifying the desired behavior in a textual programming language and letting the tools derive the detailed physical design remains the basis of digital IC design today.</p>
+<p>The earliest EDA tools were produced academically. One of the most famous was the "Berkeley VLSI Tools Tarball", a set of <a href="/wiki/UNIX" class="mw-redirect" title="UNIX">UNIX</a> utilities used to design early VLSI systems. Still widely used are the <a href="/wiki/Espresso_heuristic_logic_minimizer" title="Espresso heuristic logic minimizer">Espresso heuristic logic minimizer</a> and <a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a>.</p>
+<p>Another crucial development was the formation of <a href="/wiki/MOSIS" title="MOSIS">MOSIS</a>, a consortium of universities and fabricators that developed an inexpensive way to train student chip designers by producing real integrated circuits. The basic concept was to use reliable, low-cost, relatively low-technology IC processes, and pack a large number of projects per wafer, with just a few copies of each projects' chips. Cooperating fabricators either donated the processed wafers, or sold them at cost, seeing the program as helpful to their own long-term growth.</p>
+<h3><span class="mw-headline" id="Birth_of_commercial_EDA">Birth of commercial EDA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=3" title="Edit section: Birth of commercial EDA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1981 marks the beginning of EDA as an industry. For many years, the larger electronic companies, such as <a href="/wiki/Hewlett_Packard" class="mw-redirect" title="Hewlett Packard">Hewlett Packard</a>, <a href="/wiki/Tektronix" title="Tektronix">Tektronix</a>, and <a href="/wiki/Intel" title="Intel">Intel</a>, had pursued EDA internally. In 1981, managers and developers spun out of these companies to concentrate on EDA as a business. <a href="/wiki/Daisy_Systems" title="Daisy Systems">Daisy Systems</a>, <a href="/wiki/Mentor_Graphics" title="Mentor Graphics">Mentor Graphics</a>, and <a href="/wiki/Valid_Logic_Systems" class="mw-redirect" title="Valid Logic Systems">Valid Logic Systems</a> were all founded around this time, and collectively referred to as <b>DMV</b>. Within a few years there were many companies specializing in EDA, each with a slightly different emphasis. The first trade show for EDA was held at the <a href="/wiki/Design_Automation_Conference" title="Design Automation Conference">Design Automation Conference</a> in 1984.</p>
+<p>In 1981, the <a href="/wiki/U.S._Department_of_Defense" class="mw-redirect" title="U.S. Department of Defense">U.S. Department of Defense</a> began funding of <a href="/wiki/VHDL" title="VHDL">VHDL</a> as a hardware description language. In 1986, <a href="/wiki/Verilog" title="Verilog">Verilog</a>, another popular high-level design language, was first introduced as a hardware description language by <a href="/wiki/Gateway_Design_Automation" title="Gateway Design Automation">Gateway Design Automation</a>. Simulators quickly followed these introductions, permitting direct simulation of chip designs: executable specifications. In a few more years, back-ends were developed to perform <a href="/wiki/Logic_synthesis" title="Logic synthesis">logic synthesis</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a href="/wiki/File:AutotraxDEX.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d9/AutotraxDEX.png/330px-AutotraxDEX.png" width="330" height="276" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d9/AutotraxDEX.png/495px-AutotraxDEX.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d9/AutotraxDEX.png/660px-AutotraxDEX.png 2x" data-file-width="849" data-file-height="711" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:AutotraxDEX.png" class="internal" title="Enlarge"></a></div>
+3D PCB layout</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Current_status">Current status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=4" title="Edit section: Current status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Current digital flows are extremely modular (see <a href="/wiki/Integrated_circuit_design" title="Integrated circuit design">Integrated circuit design</a>, <a href="/wiki/Design_closure" title="Design closure">Design closure</a>, and <a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">Design flow (EDA)</a>). The front ends produce standardized design descriptions that compile into invocations of "cells,", without regard to the cell technology. Cells implement logic or other electronic functions using a particular integrated circuit technology. Fabricators generally provide libraries of components for their production processes, with simulation models that fit standard simulation tools. Analog EDA tools are far less modular, since many more functions are required, they interact more strongly, and the components are (in general) less ideal.</p>
+<p>EDA for electronics has rapidly increased in importance with the continuous scaling of <a href="/wiki/Semiconductor" title="Semiconductor">semiconductor</a> technology.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Some users are <a href="/wiki/Foundry_(electronics)" class="mw-redirect" title="Foundry (electronics)">foundry</a> operators, who operate the <a href="/wiki/Semiconductor_fabrication" class="mw-redirect" title="Semiconductor fabrication">semiconductor fabrication</a> facilities, or "fabs", and design-service companies who use EDA software to evaluate an incoming design for manufacturing readiness. EDA tools are also used for programming design functionality into <a href="/wiki/FPGA" class="mw-redirect" title="FPGA">FPGAs</a>.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Software_focuses">Software focuses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=5" title="Edit section: Software focuses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>may be too technical for most readers to understand</b>. Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Electronic_design_automation&amp;action=edit">help improve it</a> to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. <small><i>(February 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=6" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">Design flow (EDA)</a></div>
+<ul>
+<li><a href="/wiki/High-level_synthesis" title="High-level synthesis">High-level synthesis</a> (or behavioural synthesis, algorithmic synthesis) – high-level design description (e.g. in C/C++) is converted into <a href="/wiki/Register-transfer_level" title="Register-transfer level">RTL</a>.</li>
+<li><a href="/wiki/Logic_synthesis" title="Logic synthesis">Logic synthesis</a> – translation of <a href="/wiki/Register-transfer_level" title="Register-transfer level">RTL</a> design description (e.g. written in Verilog or VHDL) into a discrete <a href="/wiki/Netlist" title="Netlist">netlist</a> of logic gates.</li>
+<li><a href="/wiki/Schematic_capture" title="Schematic capture">Schematic capture</a> – For standard cell digital, analog, RF-like Capture CIS in Orcad by Cadence and ISIS in Proteus</li>
+<li><a href="/wiki/Placement_(EDA)" title="Placement (EDA)">Layout</a> – usually <a href="/wiki/Schematic-driven_layout" title="Schematic-driven layout">schematic-driven layout</a>, like Layout in Orcad by Cadence, ARES in Proteus</li>
+</ul>
+<h3><span class="mw-headline" id="Simulation">Simulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=7" title="Edit section: Simulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Electronic_circuit_simulation" title="Electronic circuit simulation">Electronic circuit simulation</a></div>
+<ul>
+<li><a href="/wiki/SPICE" title="SPICE">Transistor simulation</a> – low-level transistor-simulation of a schematic/layout's behavior, accurate at device-level.</li>
+<li><a href="/wiki/Logic_simulation" title="Logic simulation">Logic simulation</a> – digital-simulation of an <a href="/wiki/Register-transfer_level" title="Register-transfer level">RTL</a> or gate-netlist's digital (boolean 0/1) behavior, accurate at boolean-level.</li>
+<li><b>Behavioral Simulation</b> – high-level simulation of a design's architectural operation, accurate at cycle-level or interface-level.</li>
+<li><a href="/wiki/Hardware_emulation" title="Hardware emulation">Hardware emulation</a> – Use of special purpose hardware to emulate the logic of a proposed design. Can sometimes be plugged into a system in place of a yet-to-be-built chip; this is called <b>in-circuit emulation</b>.</li>
+<li><a href="/wiki/Technology_CAD" title="Technology CAD">Technology CAD</a> simulate and analyze the underlying process technology. Electrical properties of devices are derived directly from device physics.</li>
+<li><a href="/wiki/Electromagnetic_field_solver" title="Electromagnetic field solver">Electromagnetic field solvers</a>, or just <a href="/wiki/Electromagnetic_field_solver" title="Electromagnetic field solver">field solvers</a>, solve Maxwell's equations directly for cases of interest in IC and PCB design. They are known for being slower but more accurate than the <a href="/wiki/Layout_extraction" class="mw-redirect" title="Layout extraction">layout extraction</a> above.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (April 2014)">where?</span></a></i>]</sup></li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:382px;"><a href="/wiki/File:Kicad_Eeschema_screenshot.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kicad_Eeschema_screenshot.jpg/380px-Kicad_Eeschema_screenshot.jpg" width="380" height="253" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kicad_Eeschema_screenshot.jpg/570px-Kicad_Eeschema_screenshot.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kicad_Eeschema_screenshot.jpg/760px-Kicad_Eeschema_screenshot.jpg 2x" data-file-width="1017" data-file-height="678" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kicad_Eeschema_screenshot.jpg" class="internal" title="Enlarge"></a></div>
+Schematic capture program</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Analysis_and_verification">Analysis and verification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=8" title="Edit section: Analysis and verification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Functional_verification" title="Functional verification">Functional verification</a></li>
+<li><a href="/wiki/Clock_Domain_Crossing_Verification" class="mw-redirect" title="Clock Domain Crossing Verification">Clock Domain Crossing Verification</a> (CDC check): Similar to <a href="/wiki/Lint_programming_tool" class="mw-redirect" title="Lint programming tool">linting</a>, but these checks/tools specialize in detecting and reporting potential issues like data loss, <a href="/wiki/Metastability_in_electronics" class="mw-redirect" title="Metastability in electronics">meta-stability</a> due to use of multiple clock domains in the design.</li>
+<li><a href="/wiki/Formal_verification" title="Formal verification">Formal verification</a>, also <a href="/wiki/Model_checking" title="Model checking">model checking</a>: Attempts to prove, by mathematical methods, that the system has certain desired properties, and that certain undesired effects (such as <a href="/wiki/Deadlock" title="Deadlock">deadlock</a>) cannot occur.</li>
+<li><a href="/wiki/Formal_equivalence_checking" title="Formal equivalence checking">Equivalence checking</a>: algorithmic comparison between a chip's RTL-description and synthesized gate-netlist, to ensure functional equivalence at the <i>logical</i> level.</li>
+<li><a href="/wiki/Static_timing_analysis" title="Static timing analysis">Static timing analysis</a>: Analysis of the timing of a circuit in an input-independent manner, hence finding a worst case over all possible inputs.</li>
+<li><a href="/wiki/Physical_verification" title="Physical verification">Physical verification</a>, PV: checking if a design is physically manufacturable, and that the resulting chips will not have any function-preventing physical defects, and will meet original specifications.</li>
+</ul>
+<h3><span class="mw-headline" id="Manufacturing_preparation">Manufacturing preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=9" title="Edit section: Manufacturing preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Mask_data_preparation" title="Mask data preparation">Mask data preparation</a>, MDP: generation of actual <a href="/wiki/Lithography" title="Lithography">lithography</a> <a href="/wiki/Photomask" title="Photomask">photomask</a> used to physically manufacture the chip.
+<ul>
+<li><a href="/wiki/Resolution_enhancement_techniques" class="mw-redirect" title="Resolution enhancement techniques">Resolution enhancement techniques</a>, RET – methods of increasing of quality of final <a href="/wiki/Photomask" title="Photomask">photomask</a>.</li>
+<li><a href="/wiki/Optical_proximity_correction" title="Optical proximity correction">Optical proximity correction</a>, OPC – up-front compensation for <a href="/wiki/Diffraction" title="Diffraction">diffraction</a> and <a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">interference</a> effects occurring later when chip is manufactured using this mask.</li>
+<li><a href="/wiki/Mask_generation" class="mw-redirect" title="Mask generation">Mask generation</a> – generation of flat mask image from hierarchical design.</li>
+<li><a href="/wiki/Automatic_test_pattern_generation" title="Automatic test pattern generation">Automatic test pattern generation</a>, ATPG – generates pattern-data to systematically exercise as many logic-gates, and other components, as possible.</li>
+<li><a href="/wiki/Built-in_self-test" title="Built-in self-test">Built-in self-test</a>, or BIST – installs self-contained test-controllers to automatically test a logic (or memory) structure in the design</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Functional_Safety">Functional Safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=10" title="Edit section: Functional Safety">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/w/index.php?title=Functional_Safety_Analysis&amp;action=edit&amp;redlink=1" class="new" title="Functional Safety Analysis (page does not exist)">Functional Safety Analysis</a>, Systematic computation of failure in time (FIT) rates and diagnostic coverage metrics for designs in order to meet the compliance requirements for the desired safety integrity levels.</li>
+<li><a href="/w/index.php?title=Functional_Safety_Synthesis&amp;action=edit&amp;redlink=1" class="new" title="Functional Safety Synthesis (page does not exist)">Functional Safety Synthesis</a>, Add reliability enhancements to structured elements (Modules, RAMs, ROMs, Register Files, FIFOs) to improves fault detection / fault tolerance. These includes (not limited to), Addition of error detection and / or correction codes (Hamming), Redundant logic for fault detection and fault tolerance (duplicate / triplicate) and Protocol checks (Interface parity, address alignment, beat count)</li>
+<li><a href="/w/index.php?title=Functional_Safety_Verification&amp;action=edit&amp;redlink=1" class="new" title="Functional Safety Verification (page does not exist)">Functional Safety Verification</a>,Running of a fault campaign, including insertion of faults into the design and verification that the safety mechanism reacts in an appropriate manner for the faults that are deemed covered.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:382px;"><a href="/wiki/File:Gschem_and_gerbv.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gschem_and_gerbv.jpg/380px-Gschem_and_gerbv.jpg" width="380" height="285" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gschem_and_gerbv.jpg/570px-Gschem_and_gerbv.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gschem_and_gerbv.jpg/760px-Gschem_and_gerbv.jpg 2x" data-file-width="1400" data-file-height="1050" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gschem_and_gerbv.jpg" class="internal" title="Enlarge"></a></div>
+PCB layout and schematic for connector design</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Companies">Companies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=11" title="Edit section: Companies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">For more details on this topic, see <a href="/wiki/List_of_EDA_companies" title="List of EDA companies">List of EDA companies</a>.</div>
+<h3><span class="mw-headline" id="Old_companies">Old companies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=12" title="Edit section: Old companies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Market_capitalization" title="Market capitalization">Market capitalization</a> and company name as of December, 2011:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<ul>
+<li>$5.77 billion<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> – <a href="/wiki/Synopsys" title="Synopsys">Synopsys</a></li>
+<li>$4.46 billion<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> – <a href="/wiki/Cadence_Design_Systems" title="Cadence Design Systems">Cadence</a></li>
+<li>$2.33 billion – <a href="/wiki/Mentor_Graphics" title="Mentor Graphics">Mentor Graphics</a></li>
+<li>$507 million – <a href="/wiki/Magma_Design_Automation" title="Magma Design Automation">Magma Design Automation</a>; Synopsys acquired Magma in February 2012<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/wiki/New_Taiwan_dollar" title="New Taiwan dollar">NT$</a>6.44 billion – <a href="/wiki/SpringSoft" class="mw-redirect" title="SpringSoft">SpringSoft</a>; Synopsys acquired SpringSoft in August 2012</li>
+<li>¥11.95 billion – <a href="/wiki/Zuken" title="Zuken">Zuken Inc.</a></li>
+</ul>
+<p>Note: <a href="/wiki/EEsof" title="EEsof">EEsof</a> should likely be on this list,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> but it does not have a market cap as it is the EDA division of <a href="/wiki/Keysight" title="Keysight">Keysight</a>.</p>
+<h3><span class="mw-headline" id="Acquisitions">Acquisitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=13" title="Edit section: Acquisitions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_EDA_companies" title="List of EDA companies">List of EDA companies</a></div>
+<p>Many of the EDA companies acquire small companies with software or other technology that can be adapted to their core business.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Most of the market leaders are amalgamations of many smaller companies.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> This trend is helped by the tendency of software companies to design tools as accessories that fit naturally into a larger vendor's suite of programs on <a href="/wiki/Digital_circuitry" class="mw-redirect" title="Digital circuitry">digital circuitry</a>, many new tools incorporate analog design, and mixed systems. This is happening because there is now a trend to place <a href="/wiki/System-on-a-chip" class="mw-redirect" title="System-on-a-chip">entire electronic systems on a single chip</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Nuvola_apps_ksim.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/28px-Nuvola_apps_ksim.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/42px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/56px-Nuvola_apps_ksim.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Electronics" title="Portal:Electronics">Electronics portal</a></span></li>
+</ul>
+</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Electronic_design_automation" class="extiw" title="commons:Category:Electronic design automation">Electronic design automation</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">Computer-aided design</a> (CAD)</li>
+<li><a href="/wiki/Circuit_design" title="Circuit design">Circuit design</a></li>
+<li><a href="/wiki/EDA_database" title="EDA database">EDA database</a></li>
+<li><a href="/wiki/Signoff_(electronic_design_automation)" title="Signoff (electronic design automation)">Signoff (electronic design automation)</a></li>
+<li><a href="/wiki/Comparison_of_EDA_software" title="Comparison of EDA software">Comparison of EDA software</a></li>
+<li><a href="/wiki/Platform-based_design" title="Platform-based design">Platform-based design</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150802073506/http://www.edac.org/industry">"About the EDA Industry"</a>. Electronic Design Automation Consortium. Archived from <a rel="nofollow" class="external text" href="http://www.edac.org/industry">the original</a> on August 2, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+the+EDA+Industry&amp;rft.pub=Electronic+Design+Automation+Consortium&amp;rft_id=http%3A%2F%2Fwww.edac.org%2Findustry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectronic+design+automation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Lavagno, Martin, and Scheffer (2006). <i>Electronic Design Automation For Integrated Circuits Handbook</i>. Taylor and Francis. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0849330963" title="Special:BookSources/0849330963">0849330963</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electronic+Design+Automation+For+Integrated+Circuits+Handbook&amp;rft.pub=Taylor+and+Francis&amp;rft.date=2006&amp;rft.isbn=0849330963&amp;rft.au=Lavagno%2C+Martin%2C+and+Scheffer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectronic+design+automation" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=TPE:2473,TYO:6947,NASDAQ:LAVA,NASDAQ:MENT,NASDAQ:SNPS,NASDAQ:CDNS">Company Comparison - Google Finance</a>. Google.com. Retrieved on 2013-08-10.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.google.com/finance?cid=655502">Synopsys, Inc.: NASDAQ:SNPS quotes &amp; news - Google Finance</a>. Google.com (2013-05-22). Retrieved on 2013-08-10.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q/ks?s=CDNS+Key+Statistics">CDNS Key Statistics | Cadence Design Systems, Inc. Stock - Yahoo! Finance</a>. Finance.yahoo.com. Retrieved on 2013-08-10.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Dylan McGrath (30 Nov 2011). <a rel="nofollow" class="external text" href="http://www.eetimes.com/electronics-news/4231034/Synopsys-to-buy-Magma-for--507-million">"Synopsys to buy Magma for $507 million"</a>. EETimes.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synopsys+to+buy+Magma+for+%24507+million&amp;rft.pub=EETimes&amp;rft.date=2011-11-30&amp;rft.au=Dylan+McGrath&amp;rft_id=http%3A%2F%2Fwww.eetimes.com%2Felectronics-news%2F4231034%2FSynopsys-to-buy-Magma-for--507-million&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectronic+design+automation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.synopsys.com/index.php?s=20295&amp;item=123337">"Synopsys to Acquire Magma Design Automation"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synopsys+to+Acquire+Magma+Design+Automation&amp;rft_id=http%3A%2F%2Fnews.synopsys.com%2Findex.php%3Fs%3D20295%26item%3D123337&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectronic+design+automation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www10.edacafe.com/nbc/articles/view_weekly.php?articleid=782353">"Agilent EEsof EDA – Part I"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Agilent+EEsof+EDA+%E2%80%93+Part+I&amp;rft_id=http%3A%2F%2Fwww10.edacafe.com%2Fnbc%2Farticles%2Fview_weekly.php%3Farticleid%3D782353&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectronic+design+automation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Kirti Sikri Desai (2006). <a rel="nofollow" class="external text" href="http://www10.edacafe.com/nbc/articles/view_article.php?articleid=301031&amp;interstitial_displayed=Yes">"EDA Innovation through Merger and Acquisitions"</a>. EDA Cafe<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EDA+Innovation+through+Merger+and+Acquisitions&amp;rft.pub=EDA+Cafe&amp;rft.date=2006&amp;rft.au=Kirti+Sikri+Desai&amp;rft_id=http%3A%2F%2Fwww10.edacafe.com%2Fnbc%2Farticles%2Fview_article.php%3Farticleid%3D301031%26interstitial_displayed%3DYes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectronic+design+automation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.semiwiki.com/forum/showwiki.php?title=Semi+Wiki:EDA+Mergers+and+Acquisitions+Wiki">List of EDA mergers and acquisitions at SemiWiki.com</a></span></li>
+</ol>
+</div>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li><a rel="nofollow" class="external free" href="http://www.staticfreesoft.com/documentsTextbook.html">http://www.staticfreesoft.com/documentsTextbook.html</a> Computer Aids for VLSI Design by Steven M. Rubin</li>
+<li><i>Electronic Design Automation For Integrated Circuits Handbook</i>, by Lavagno, Martin, and Scheffer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8493-3096-3" title="Special:BookSources/0-8493-3096-3">0-8493-3096-3</a>, 2006</li>
+<li><i>Combinatorial Algorithms for Integrated Circuit Layout</i>, by Thomas Lengauer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-519-02110-2" title="Special:BookSources/3-519-02110-2">3-519-02110-2</a>, Teubner Verlag, 1997.</li>
+<li><i>The Electronic Design Automation Handbook</i>, by Dirk Jansen et al., Kluwer Academic Publishers, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4020-7502-2" title="Special:BookSources/1-4020-7502-2">1-4020-7502-2</a>, 2003, available also in German <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-446-21288-4" title="Special:BookSources/3-446-21288-4">3-446-21288-4</a> (2005)</li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="CAD_software" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CAD_software" title="Template:CAD software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CAD_software" title="Template talk:CAD software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CAD_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="CAD_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> software</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BRL-CAD" title="BRL-CAD">BRL-CAD</a></li>
+<li><a href="/wiki/FreeCAD" title="FreeCAD">FreeCAD</a></li>
+<li><a href="/wiki/HeeksCAD" title="HeeksCAD">HeeksCAD</a></li>
+<li><a href="/wiki/LibreCAD" title="LibreCAD">LibreCAD</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenSCAD" title="OpenSCAD">OpenSCAD</a></li>
+<li><a href="/wiki/QCad" title="QCad">QCad</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/SolveSpace" title="SolveSpace">SolveSpace</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Electrical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_(software)" title="Electric (software)">Electric</a></li>
+<li><a href="/wiki/Fritzing" title="Fritzing">Fritzing</a></li>
+<li><a href="/wiki/GEDA" title="GEDA">gEDA</a></li>
+<li><a href="/wiki/KiCad" title="KiCad">KiCad</a></li>
+<li><a href="/wiki/KTechLab" title="KTechLab">kTechLab</a></li>
+<li><a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a></li>
+<li><a href="/wiki/Oregano_(software)" title="Oregano (software)">Oregano</a></li>
+<li><a href="/wiki/Quite_Universal_Circuit_Simulator" title="Quite Universal Circuit Simulator">QUCS</a></li>
+<li><a href="/wiki/XCircuit" title="XCircuit">XCircuit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AutoCAD" title="AutoCAD">AutoCAD</a></li>
+<li><a href="/wiki/Autodesk_Alias" title="Autodesk Alias">Autodesk Alias</a></li>
+<li><a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a></li>
+<li><a href="/wiki/Autodesk_Revit" title="Autodesk Revit">Autodesk Revit</a></li>
+<li><a href="/wiki/ArchiCAD" title="ArchiCAD">ArchiCAD</a></li>
+<li><a href="/wiki/BricsCAD" title="BricsCAD">BricsCAD</a></li>
+<li><a href="/w/index.php?title=NanoCAD&amp;action=edit&amp;redlink=1" class="new" title="NanoCAD (page does not exist)">nanoCAD Plus</a></li>
+<li><a href="/wiki/CADKEY" title="CADKEY">CADKEY</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Cimatron" title="Cimatron">Cimatron</a></li>
+<li><a href="/wiki/DesignSpark_Mechanical" title="DesignSpark Mechanical">DesignSpark Mechanical</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">PTC Creo Elements/Pro</a></li>
+<li><a href="/wiki/FastCAD" title="FastCAD">FastCAD</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/GstarCAD" title="GstarCAD">GstarCAD</a></li>
+<li><a href="/wiki/IRONCAD" title="IRONCAD">IRONCAD</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">KeyCreator</a></li>
+<li><a href="/wiki/MEDUSA" title="MEDUSA">MEDUSA</a></li>
+<li><a href="/wiki/MicroStation" title="MicroStation">MicroStation</a></li>
+<li><a href="/w/index.php?title=NanoCAD&amp;action=edit&amp;redlink=1" class="new" title="NanoCAD (page does not exist)">nanoCAD</a></li>
+<li><a href="/wiki/Onshape" title="Onshape">Onshape</a></li>
+<li><a href="/wiki/Siemens_NX" title="Siemens NX">Siemens NX</a></li>
+<li><a href="/wiki/PDMS_(software)" title="PDMS (software)">PDMS</a></li>
+<li><a href="/wiki/Pro/DESKTOP" title="Pro/DESKTOP">Pro/DESKTOP</a></li>
+<li><a href="/wiki/ProgeCAD" title="ProgeCAD">progeCAD</a></li>
+<li><a href="/wiki/Rhinoceros_3D" title="Rhinoceros 3D">Rhinoceros 3D</a>
+<ul>
+<li><a href="/wiki/Grasshopper_3D" title="Grasshopper 3D">Grasshopper 3D</a></li>
+</ul>
+</li>
+<li><a href="/wiki/RUCAPS" title="RUCAPS">RUCAPS</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a></li>
+<li><a href="/wiki/SpaceClaim" title="SpaceClaim">SpaceClaim</a></li>
+<li><a href="/wiki/T-FLEX_CAD" title="T-FLEX CAD">T-FLEX CAD</a></li>
+<li><a href="/wiki/TurboCAD" title="TurboCAD">TurboCAD</a></li>
+<li><a href="/wiki/VariCAD" title="VariCAD">VariCAD</a></li>
+<li><a href="/wiki/Vectorworks" title="Vectorworks">Vectorworks</a></li>
+<li><a href="/wiki/FINE_MEP" title="FINE MEP">FINE MEP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Electrical</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AutoCAD_Electrical" class="mw-redirect" title="AutoCAD Electrical">AutoCAD Electrical</a></li>
+<li><a href="/wiki/Altium_Designer" title="Altium Designer">Altium Designer</a></li>
+<li><a href="/wiki/DipTrace" title="DipTrace">DipTrace</a></li>
+<li><a href="/wiki/EAGLE_(program)" title="EAGLE (program)">EAGLE</a></li>
+<li><a href="/wiki/Micro-Cap" title="Micro-Cap">Micro-Cap</a></li>
+<li><a href="/wiki/NI_Multisim" title="NI Multisim">NI Multisim</a></li>
+<li><a href="/wiki/NI_Ultiboard" title="NI Ultiboard">NI Ultiboard</a></li>
+<li><a href="/wiki/OrCAD" title="OrCAD">OrCAD</a></li>
+<li><a href="/wiki/Protel_(CAD_software)" class="mw-redirect" title="Protel (CAD software)">Protel</a></li>
+<li><a href="/wiki/Proteus_Design_Suite" title="Proteus Design Suite">Proteus</a></li>
+<li><a href="/wiki/SolidWorks_Electrical" class="mw-redirect" title="SolidWorks Electrical">SolidWorks Electrical</a></li>
+<li><a href="/wiki/TARGET_(CAD_software)" title="TARGET (CAD software)">TARGET</a></li>
+<li><a href="/wiki/TopoR" title="TopoR">TopoR</a></li>
+<li><a href="/wiki/Upverter" title="Upverter">Upverter</a></li>
+<li><a href="/wiki/Zuken_CADSTAR" class="mw-redirect" title="Zuken CADSTAR">Zuken CADSTAR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">File formats</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D_Manufacturing_Format" title="3D Manufacturing Format">3MF</a></li>
+<li><a href="/wiki/ACIS#File_format" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/Additive_Manufacturing_File_Format" title="Additive Manufacturing File Format">AMF</a></li>
+<li><a href="/wiki/C3D#C3D_file_format" class="mw-redirect" title="C3D">C3D</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">CKD</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/Open_Packaging_Conventions" title="Open Packaging Conventions">DWFX</a></li>
+<li><a href="/wiki/.dwg" title=".dwg">DWG</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF">DXF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/Wavefront_.obj_file" title="Wavefront .obj file">OBJ</a></li>
+<li><a href="/wiki/Open_Design_Alliance" title="Open Design Alliance">OpenDWG</a></li>
+<li><a href="/wiki/PLY_(file_format)" title="PLY (file format)">PLY</a></li>
+<li><a href="/wiki/PSpice_circuit_file" title="PSpice circuit file">PSpice</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geometric_modeling_kernel" title="Geometric modeling kernel">Modeling kernels</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ACIS" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/C3D" class="mw-redirect" title="C3D">C3D</a></li>
+<li><a href="/wiki/Open_CASCADE_Technology" class="mw-redirect" title="Open CASCADE Technology">Open CASCADE Technology</a></li>
+<li><a href="/wiki/Parasolid" title="Parasolid">Parasolid</a></li>
+<li><a href="/wiki/Russian_Geometric_Kernel" title="Russian Geometric Kernel">RGK</a></li>
+<li><a href="/wiki/Romulus_(modelling_kernel)" title="Romulus (modelling kernel)">Romulus</a></li>
+<li><a href="/wiki/KernelCAD" title="KernelCAD">KernelCAD</a></li>
+<li><a href="/wiki/ShapeManager" title="ShapeManager">ShapeManager</a></li>
+<li><a href="/wiki/Teigha" class="mw-redirect" title="Teigha">Teigha</a></li>
+<li><a href="/wiki/IntelliCAD" title="IntelliCAD">IntelliCAD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%;margin:0 4em">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption</a></li>
+<li><a class="mw-selflink selflink">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4312536-0">4312536-0</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20180213203300
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.364 seconds
+Real time usage: 0.491 seconds
+Preprocessor visited node count: 2075/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79740/2097152 bytes
+Template argument size: 2431/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 5.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  390.225      1 -total
+ 23.76%   92.701      1 Template:Reflist
+ 15.66%   61.092      5 Template:Cite_web
+ 15.18%   59.241      4 Template:ISBN
+ 12.84%   50.105      4 Template:Navbox
+  9.00%   35.109      1 Template:Jargon
+  8.18%   31.914      1 Template:Ambox
+  7.80%   30.422      1 Template:Computer_science
+  7.68%   29.975      1 Template:Commons_category
+  7.53%   29.376      1 Template:Redirect
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:216881-0!canonical and timestamp 20180213203259 and revision id 807358084
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electronic_design_automation&amp;oldid=807358084">https://en.wikipedia.org/w/index.php?title=Electronic_design_automation&amp;oldid=807358084</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electronic_design_automation" title="Category:Electronic design automation">Electronic design automation</a></li><li><a href="/wiki/Category:Electronic_engineering" title="Category:Electronic engineering">Electronic engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_June_2012" title="Category:Use mdy dates from June 2012">Use mdy dates from June 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_February_2017" title="Category:Wikipedia articles that are too technical from February 2017">Wikipedia articles that are too technical from February 2017</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_February_2017" title="Category:Articles needing expert attention from February 2017">Articles needing expert attention from February 2017</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_April_2014" title="Category:Vague or ambiguous geographic scope from April 2014">Vague or ambiguous geographic scope from April 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electronic+design+automation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Electronic+design+automation" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Electronic_design_automation" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Electronic_design_automation" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Electronic_design_automation">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Electronic_design_automation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Electronic_design_automation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Electronic_design_automation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Electronic_design_automation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Electronic_design_automation&amp;oldid=807358084" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Electronic_design_automation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1194864" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electronic_design_automation&amp;id=807358084" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electronic+design+automation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Electronic+design+automation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Electronic_design_automation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Electronic_design_automation" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Elektroniese_ontwerp-outomatisering" title="Elektroniese ontwerp-outomatisering – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%AA%D9%85%D8%AA%D8%A9_%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A" title="أتمتة التصميم الإلكتروني – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B5%D1%82%D0%BE_%D0%B2_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%D1%82%D0%B0" title="Автоматизация на проектирането в електрониката – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/ECAD" title="ECAD – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Electronic_Design_Automation" title="Electronic Design Automation – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_de_dise%C3%B1o_electr%C3%B3nico" title="Automatización de diseño electrónico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Conception_assist%C3%A9e_par_ordinateur_pour_l%27%C3%A9lectronique" title="Conception assistée par ordinateur pour l&#039;électronique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90_%EC%84%A4%EA%B3%84_%EC%9E%90%EB%8F%99%ED%99%94" title="전자 설계 자동화 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8_%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8" title="इलेक्ट्रॉनिक डिजाइन स्वचालन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Electronic_design_automation" title="Electronic design automation – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/EDA_(%E5%8D%8A%E5%B0%8E%E4%BD%93)" title="EDA (半導体) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Software_de_projeto_de_circuitos_integrados" title="Software de projeto de circuitos integrados – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8" title="Автоматизация проектирования электроники – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Electronic_Design_Automation" title="Electronic Design Automation – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC" title="Програми проектування електронних систем – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="電子設計自動化 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1194864#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 October 2017, at 13:11.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Electronic_design_automation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.491","ppvisitednodes":{"value":2075,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79740,"limit":2097152},"templateargumentsize":{"value":2431,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  390.225      1 -total"," 23.76%   92.701      1 Template:Reflist"," 15.66%   61.092      5 Template:Cite_web"," 15.18%   59.241      4 Template:ISBN"," 12.84%   50.105      4 Template:Navbox","  9.00%   35.109      1 Template:Jargon","  8.18%   31.914      1 Template:Ambox","  7.80%   30.422      1 Template:Computer_science","  7.68%   29.975      1 Template:Commons_category","  7.53%   29.376      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":5249301,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20180213203300","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

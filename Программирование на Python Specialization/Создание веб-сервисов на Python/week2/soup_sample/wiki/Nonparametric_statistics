@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nonparametric statistics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nonparametric_statistics","wgTitle":"Nonparametric statistics","wgCurRevisionId":819200684,"wgRevisionId":819200684,"wgArticleId":223369,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Nonparametric statistics","Statistical inference","Robust statistics","Mathematical and quantitative methods (economics)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nonparametric_statistics","wgRelevantArticleId":223369,"wgRequestId":"WoNLCQpAMFAAAFYlDQQAAACU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1097688","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nonparametric_statistics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nonparametric_statistics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nonparametric_statistics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nonparametric_statistics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nonparametric_statistics rootpage-Nonparametric_statistics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Nonparametric statistics</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Nonparametric statistics</b> is the branch of <a href="/wiki/Statistics" title="Statistics">statistics</a> that is not based solely on <a href="/wiki/Parametrization" title="Parametrization">parameterized</a> families of <a href="/wiki/Probability_distribution" title="Probability distribution">probability distributions</a> (common examples of parameters are the mean and variance). Nonparametric statistics is based on either being distribution-free or having a specified distribution but with the distribution's parameters unspecified. Nonparametric statistics includes both <a href="/wiki/Descriptive_statistics" title="Descriptive statistics">descriptive statistics</a> and <a href="/wiki/Statistical_inference" title="Statistical inference">statistical inference</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications_and_purpose"><span class="tocnumber">2</span> <span class="toctext">Applications and purpose</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Non-parametric_models"><span class="tocnumber">3</span> <span class="toctext">Non-parametric models</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Methods"><span class="tocnumber">4</span> <span class="toctext">Methods</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#General_references"><span class="tocnumber">7</span> <span class="toctext">General references</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The statistician <a href="/wiki/Larry_Wasserman" class="mw-redirect" title="Larry Wasserman">Larry Wasserman</a> has said that "it is difficult to give a precise definition of nonparametric inference".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The term "nonparametric statistics" has been imprecisely defined in the following two ways, among others.</p>
+<div>
+<ol>
+<li>The first meaning of <i>nonparametric</i> covers techniques that do not rely on data belonging to any particular distribution. These include, among others:
+<ul>
+<li><i>distribution free</i> methods, which do not rely on assumptions that the data are drawn from a given <a href="/wiki/Probability_distribution" title="Probability distribution">probability distribution</a>. As such it is the opposite of <a href="/wiki/Parametric_statistics" title="Parametric statistics">parametric statistics</a>. It includes nonparametric <a href="/wiki/Descriptive_statistics" title="Descriptive statistics">descriptive statistics</a>, <a href="/wiki/Statistical_model" title="Statistical model">statistical models</a>, <a href="/wiki/Statistical_inference" title="Statistical inference">inference</a> and <a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">statistical tests</a>.</li>
+<li><i>nonparametric statistics</i> (in the sense of a <a href="/wiki/Statistic" title="Statistic">statistic</a> over data, which is defined to be a function on a sample that has no dependency on a <a href="/wiki/Parameter" title="Parameter">parameter</a>), whose interpretation does not depend on the population fitting any parameterised distributions. <a href="/wiki/Order_statistic" title="Order statistic">Order statistics</a>, which are based on the <a href="/wiki/Ranking#Ordinal_ranking_(&quot;1234&quot;_ranking)" title="Ranking">ranks</a> of observations, are one example of such statistics and these play a central role in many nonparametric approaches.</li>
+</ul>
+<p>The following discussion is taken from <i>Kendall's</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<blockquote>
+<p>Statistical hypotheses concern the behavior of observable random variables.... For example, the hypothesis (a) that a normal distribution has a specified mean and variance is statistical; so is the hypothesis (b) that it has a given mean but unspecified variance; so is the hypothesis (c) that a distribution is of normal form with both mean and variance unspecified; finally, so is the hypothesis (d) that two unspecified continuous distributions are identical.</p>
+<p>It will have been noticed that in the examples (a) and (b) the distribution underlying the observations was taken to be of a certain form (the normal) and the hypothesis was concerned entirely with the value of one or both of its parameters. Such a hypothesis, for obvious reasons, is called <i>parametric</i>.</p>
+<p>Hypothesis (c) was of a different nature, as no parameter values are specified in the statement of the hypothesis; we might reasonably call such a hypothesis <i>non-parametric</i>. Hypothesis (d) is also non-parametric but, in addition, it does not even specify the underlying form of the distribution and may now be reasonably termed <i>distribution-free</i>. Notwithstanding these distinctions, the statistical literature now commonly applies the label "non-parametric" to test procedures that we have just termed "distribution-free", thereby losing a useful classification.</p>
+</blockquote>
+</li>
+<li>The second meaning of <i>non-parametric</i> covers techniques that do not assume that the <i>structure</i> of a model is fixed. Typically, the model grows in size to accommodate the complexity of the data. In these techniques, individual variables <i>are</i> typically assumed to belong to parametric distributions, and assumptions about the types of connections among variables are also made. These techniques include, among others:
+<ul>
+<li><i><a href="/wiki/Nonparametric_regression" title="Nonparametric regression">non-parametric regression</a></i>, which refers to modeling where the structure of the relationship between variables is treated non-parametrically, but where nevertheless there may be parametric assumptions about the distribution of model residuals.</li>
+<li><i>non-parametric hierarchical Bayesian models</i>, such as models based on the <a href="/wiki/Dirichlet_process" title="Dirichlet process">Dirichlet process</a>, which allow the number of <a href="/wiki/Latent_variables" class="mw-redirect" title="Latent variables">latent variables</a> to grow as necessary to fit the data, but where individual variables still follow parametric distributions and even the process controlling the rate of growth of latent variables follows a parametric distribution.</li>
+</ul>
+</li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Applications_and_purpose">Applications and purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=2" title="Edit section: Applications and purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Non-parametric methods are widely used for studying populations that take on a ranked order (such as movie reviews receiving one to four stars). The use of non-parametric methods may be necessary when data have a <a href="/wiki/Ranking" title="Ranking">ranking</a> but no clear <a href="/wiki/Number" title="Number">numerical</a> interpretation, such as when assessing <a href="/wiki/Preferences" class="mw-redirect" title="Preferences">preferences</a>. In terms of <a href="/wiki/Level_of_measurement" title="Level of measurement">levels of measurement</a>, non-parametric methods result in "ordinal" data.</p>
+<p>As non-parametric methods make fewer assumptions, their applicability is much wider than the corresponding parametric methods. In particular, they may be applied in situations where less is known about the application in question. Also, due to the reliance on fewer assumptions, non-parametric methods are more <a href="/wiki/Robust_statistics#Introduction" title="Robust statistics">robust</a>.</p>
+<p>Another justification for the use of non-parametric methods is simplicity. In certain cases, even when the use of parametric methods is justified, non-parametric methods may be easier to use. Due both to this simplicity and to their greater robustness, non-parametric methods are seen by some statisticians as leaving less room for improper use and misunderstanding.</p>
+<p>The wider applicability and increased <a href="/wiki/Robust_statistics" title="Robust statistics">robustness</a> of non-parametric tests comes at a cost: in cases where a parametric test would be appropriate, non-parametric tests have less <a href="/wiki/Statistical_power" title="Statistical power">power</a>. In other words, a larger sample size can be required to draw conclusions with the same degree of confidence.</p>
+<h2><span class="mw-headline" id="Non-parametric_models">Non-parametric models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=3" title="Edit section: Non-parametric models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Non-parametric models</i> differ from <a href="/wiki/Parametric_statistics" title="Parametric statistics">parametric</a> models in that the model structure is not specified <i>a priori</i> but is instead determined from data. The term <i>non-parametric</i> is not meant to imply that such models completely lack parameters but that the number and nature of the parameters are flexible and not fixed in advance.</p>
+<ul>
+<li>A <a href="/wiki/Histogram" title="Histogram">histogram</a> is a simple nonparametric estimate of a probability distribution.</li>
+<li><a href="/wiki/Kernel_density_estimation" title="Kernel density estimation">Kernel density estimation</a> provides better estimates of the density than histograms.</li>
+<li><a href="/wiki/Nonparametric_regression" title="Nonparametric regression">Nonparametric regression</a> and <a href="/wiki/Semiparametric_regression" title="Semiparametric regression">semiparametric regression</a> methods have been developed based on <a href="/wiki/Kernel_(statistics)" title="Kernel (statistics)">kernels</a>, <a href="/wiki/Spline_(mathematics)" title="Spline (mathematics)">splines</a>, and <a href="/wiki/Wavelet" title="Wavelet">wavelets</a>.</li>
+<li><a href="/wiki/Data_envelopment_analysis" title="Data envelopment analysis">Data envelopment analysis</a> provides efficiency coefficients similar to those obtained by <a href="/wiki/Multivariate_analysis" title="Multivariate analysis">multivariate analysis</a> without any distributional assumption.</li>
+<li><a href="/wiki/K-nearest_neighbors_algorithm" title="K-nearest neighbors algorithm">KNNs</a> classify the unseen instance based on the K points in the training set which are nearest to it.</li>
+<li>A <a href="/wiki/Support_vector_machine" title="Support vector machine">support vector machine</a> (with a Gaussian kernel) is a nonparametric large-margin classifier.</li>
+</ul>
+<h2><span class="mw-headline" id="Methods">Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=4" title="Edit section: Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Non-parametric</b> (or <b>distribution-free</b>) <b>inferential statistical methods</b> are mathematical procedures for statistical hypothesis testing which, unlike <a href="/wiki/Parametric_statistics" title="Parametric statistics">parametric statistics</a>, make no assumptions about the <a href="/wiki/Probability_distribution" title="Probability distribution">probability distributions</a> of the variables being assessed. The most frequently used tests include</p>
+<div class="div-col columns column-width" style="-moz-column-width: 50em; -webkit-column-width: 50em; column-width: 50em;">
+<ul>
+<li><a href="/wiki/Analysis_of_similarities" title="Analysis of similarities">Analysis of similarities</a></li>
+<li><a href="/wiki/Anderson%E2%80%93Darling_test" title="Anderson–Darling test">Anderson–Darling test</a>: tests whether a sample is drawn from a given distribution</li>
+<li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Statistical bootstrap methods</a>: estimates the accuracy/sampling distribution of a statistic</li>
+<li><a href="/wiki/Cochran%27s_Q_test" title="Cochran's Q test">Cochran's Q</a>: tests whether <i>k</i> treatments in randomized block designs with 0/1 outcomes have identical effects</li>
+<li><a href="/wiki/Cohen%27s_kappa" title="Cohen's kappa">Cohen's kappa</a>: measures inter-rater agreement for categorical items</li>
+<li><a href="/wiki/Friedman_test" title="Friedman test">Friedman two-way analysis of variance</a> by ranks: tests whether <i>k</i> treatments in randomized block designs have identical effects</li>
+<li><a href="/wiki/Kaplan%E2%80%93Meier_estimator" title="Kaplan–Meier estimator">Kaplan–Meier</a>: estimates the survival function from lifetime data, modeling censoring</li>
+<li><a href="/wiki/Kendall_tau_rank_correlation_coefficient" class="mw-redirect" title="Kendall tau rank correlation coefficient">Kendall's tau</a>: measures statistical dependence between two variables</li>
+<li><a href="/wiki/Kendall%27s_W" title="Kendall's W">Kendall's W</a>: a measure between 0 and 1 of inter-rater agreement</li>
+<li><a href="/wiki/Kolmogorov%E2%80%93Smirnov_test" title="Kolmogorov–Smirnov test">Kolmogorov–Smirnov test</a>: tests whether a sample is drawn from a given distribution, or whether two samples are drawn from the same distribution</li>
+<li><a href="/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance" title="Kruskal–Wallis one-way analysis of variance">Kruskal–Wallis one-way analysis of variance</a> by ranks: tests whether &gt;&#160;2 independent samples are drawn from the same distribution</li>
+<li><a href="/wiki/Kuiper%27s_test" title="Kuiper's test">Kuiper's test</a>: tests whether a sample is drawn from a given distribution, sensitive to cyclic variations such as day of the week</li>
+<li><a href="/wiki/Logrank_test" class="mw-redirect" title="Logrank test">Logrank test</a>: compares survival distributions of two right-skewed, censored samples</li>
+<li><a href="/wiki/Mann%E2%80%93Whitney_U" class="mw-redirect" title="Mann–Whitney U">Mann–Whitney U</a> or Wilcoxon rank sum test: tests whether two samples are drawn from the same distribution, as compared to a given alternative hypothesis.</li>
+<li><a href="/wiki/McNemar%27s_test" title="McNemar's test">McNemar's test</a>: tests whether, in 2 × 2 contingency tables with a dichotomous trait and matched pairs of subjects, row and column marginal frequencies are equal</li>
+<li><a href="/wiki/Median_test" title="Median test">Median test</a>: tests whether two samples are drawn from distributions with equal medians</li>
+<li><a href="/wiki/Pitman_permutation_test" class="mw-redirect" title="Pitman permutation test">Pitman's permutation test</a>: a statistical significance test that yields exact <i>p</i> values by examining all possible rearrangements of labels</li>
+<li><a href="/wiki/Rank_product" title="Rank product">Rank products</a>: detects differentially expressed genes in replicated microarray experiments</li>
+<li><a href="/wiki/Siegel%E2%80%93Tukey_test" title="Siegel–Tukey test">Siegel–Tukey test</a>: tests for differences in scale between two groups</li>
+<li><a href="/wiki/Sign_test" title="Sign test">Sign test</a>: tests whether matched pair samples are drawn from distributions with equal medians</li>
+<li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman's rank correlation coefficient">Spearman's rank correlation coefficient</a>: measures statistical dependence between two variables using a monotonic function</li>
+<li><a href="/wiki/Squared_ranks_test" title="Squared ranks test">Squared ranks test</a>: tests equality of variances in two or more samples</li>
+<li><a href="/wiki/Tukey%E2%80%93Duckworth_test" title="Tukey–Duckworth test">Tukey–Duckworth test</a>: tests equality of two distributions by using ranks</li>
+<li><a href="/wiki/Wald%E2%80%93Wolfowitz_runs_test" title="Wald–Wolfowitz runs test">Wald–Wolfowitz runs test</a>: tests whether the elements of a sequence are mutually independent/random</li>
+<li><a href="/wiki/Wilcoxon_signed-rank_test" title="Wilcoxon signed-rank test">Wilcoxon signed-rank test</a>: tests whether matched pair samples are drawn from populations with different mean ranks</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric statistics</a></li>
+<li><a href="/wiki/Resampling_(statistics)" title="Resampling (statistics)">Resampling (statistics)</a></li>
+<li><a href="/wiki/CDF-based_nonparametric_confidence_interval" title="CDF-based nonparametric confidence interval">CDF-based nonparametric confidence interval</a></li>
+<li><a href="/wiki/Information_field_theory" title="Information field theory">Information field theory</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Wasserman (2007), p.1</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Stuart A., Ord J.K, Arnold S. (1999), <i>Kendall's Advanced Theory of Statistics: Volume 2A—Classical Inference and the Linear Model</i>, sixth edition, §20.2–20.3 (<a href="/wiki/Edward_Arnold_(publisher)" title="Edward Arnold (publisher)">Arnold</a>).</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="General_references">General references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit&amp;section=7" title="Edit section: General references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Bagdonavicius, V., Kruopis, J., Nikulin, M.S. (2011). "Non-parametric tests for complete data", ISTE &amp; WILEY: London &amp; Hoboken. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84821-269-5" title="Special:BookSources/978-1-84821-269-5">978-1-84821-269-5</a>.</li>
+<li><cite class="citation book">Corder, G. W.; Foreman, D. I. (2014). <i>Nonparametric Statistics: A Step-by-Step Approach</i>. Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1118840313" title="Special:BookSources/978-1118840313">978-1118840313</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nonparametric+Statistics%3A+A+Step-by-Step+Approach&amp;rft.pub=Wiley&amp;rft.date=2014&amp;rft.isbn=978-1118840313&amp;rft.aulast=Corder&amp;rft.aufirst=G.+W.&amp;rft.au=Foreman%2C+D.+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonparametric+statistics" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Jean_D._Gibbons" title="Jean D. Gibbons">Gibbons, Jean Dickinson</a>; Chakraborti, Subhabrata (2003). <i>Nonparametric Statistical Inference</i>, 4th Ed. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8247-4052-1" title="Special:BookSources/0-8247-4052-1">0-8247-4052-1</a>.</li>
+<li><cite class="citation book">Hettmansperger, T.&#160;P.; McKean, J.&#160;W. (1998). <i>Robust Nonparametric Statistical Methods</i>. Kendall's Library of Statistics. <b>5</b> (First ed.). London: <a href="/wiki/Edward_Arnold_(publisher)" title="Edward Arnold (publisher)">Edward Arnold</a>. New&#160;York: John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-340-54937-8" title="Special:BookSources/0-340-54937-8">0-340-54937-8</a>. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1604954">1604954</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Robust+Nonparametric+Statistical+Methods&amp;rft.place=London&amp;rft.series=Kendall%27s+Library+of+Statistics&amp;rft.edition=First&amp;rft.pub=Edward+Arnold&amp;rft.date=1998&amp;rft.isbn=0-340-54937-8&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1604954&amp;rft.aulast=Hettmansperger&amp;rft.aufirst=T.+P.&amp;rft.au=McKean%2C+J.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonparametric+statistics" class="Z3988"><span style="display:none;">&#160;</span></span> also <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-19479-4" title="Special:BookSources/0-471-19479-4">0-471-19479-4</a>.</li>
+<li>Hollander M., Wolfe D.A., Chicken E. (2014). <i>Nonparametric Statistical Methods</i>, John Wiley &amp; Sons.</li>
+<li>Sheskin, David J. (2003) <i>Handbook of Parametric and Nonparametric Statistical Procedures</i>. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58488-440-1" title="Special:BookSources/1-58488-440-1">1-58488-440-1</a></li>
+<li>Wasserman, Larry (2007). <i>All of Nonparametric Statistics</i>, Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-25145-6" title="Special:BookSources/0-387-25145-6">0-387-25145-6</a>.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1245
+Cached time: 20180213203105
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.149 seconds
+Preprocessor visited node count: 1476/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28063/2097152 bytes
+Template argument size: 13498/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 2.17 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  123.098      1 -total
+ 34.09%   41.963      4 Template:Isbn
+ 29.61%   36.451      2 Template:Cite_book
+ 17.39%   21.407      1 Template:Ordered_list
+ 14.22%   17.507      5 Template:Catalog_lookup_link
+ 10.20%   12.556      1 Template:Columns-list
+  8.37%   10.298      1 Template:Div_col
+  7.22%    8.889      5 Template:Error-small
+  6.14%    7.563     15 Template:Yesno-no
+  4.26%    5.244      1 Template:Reflist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:223369-0!canonical and timestamp 20180213203105 and revision id 819200684
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nonparametric_statistics&amp;oldid=819200684">https://en.wikipedia.org/w/index.php?title=Nonparametric_statistics&amp;oldid=819200684</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nonparametric_statistics" title="Category:Nonparametric statistics">Nonparametric statistics</a></li><li><a href="/wiki/Category:Statistical_inference" title="Category:Statistical inference">Statistical inference</a></li><li><a href="/wiki/Category:Robust_statistics" title="Category:Robust statistics">Robust statistics</a></li><li><a href="/wiki/Category:Mathematical_and_quantitative_methods_(economics)" title="Category:Mathematical and quantitative methods (economics)">Mathematical and quantitative methods (economics)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nonparametric+statistics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nonparametric+statistics" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nonparametric_statistics" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nonparametric_statistics" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nonparametric_statistics">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nonparametric_statistics&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nonparametric_statistics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nonparametric_statistics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nonparametric_statistics&amp;oldid=819200684" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nonparametric_statistics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1097688" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nonparametric_statistics&amp;id=819200684" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nonparametric+statistics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nonparametric+statistics&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nonparametric_statistics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nonparametric_statistics" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1_%D9%84%D8%A7_%D9%85%D8%B9%D9%84%D9%85%D9%8A" title="إحصاء لا معلمي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Estad%C3%ADstica_no_param%C3%A8trica" title="Estadística no paramètrica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Parameterfreie_Statistik" title="Parameterfreie Statistik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Mitteparameetriline_statistika" title="Mitteparameetriline statistika – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Estad%C3%ADstica_no_param%C3%A9trica" title="Estadística no paramétrica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Estatistika_ez-parametriko" title="Estatistika ez-parametriko – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%A7%D8%B1_%D9%86%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D9%85%D8%AA%D8%B1%DB%8C" title="آمار ناپارامتری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Statistiques_non_param%C3%A9triques" title="Statistiques non paramétriques – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B9%84%EB%AA%A8%EC%88%98_%ED%86%B5%EA%B3%84" title="비모수 통계 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Statistica_non_parametrica" title="Statistica non parametrica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%98%D7%98%D7%99%D7%A1%D7%98%D7%99%D7%A7%D7%94_%D7%90-%D7%A4%D7%A8%D7%9E%D7%98%D7%A8%D7%99%D7%AA" title="סטטיסטיקה א-פרמטרית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Neparametrisk%C4%81_statistika" title="Neparametriskā statistika – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Verdelingsvrije_statistiek" title="Verdelingsvrije statistiek – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%89%8B%E6%B3%95" title="ノンパラメトリック手法 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Statystyka_nieparametryczna" title="Statystyka nieparametryczna – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Estat%C3%ADstica_n%C3%A3o_param%C3%A9trica" title="Estatística não paramétrica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Statistik_non-parametrik" title="Statistik non-parametrik – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ei-parametriset_menetelm%C3%A4t" title="Ei-parametriset menetelmät – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Parametrik_olmayan_istatistik" title="Parametrik olmayan istatistik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%84%A1%E6%AF%8D%E6%95%B8%E7%B5%B1%E8%A8%88" title="無母數統計 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1097688#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 January 2018, at 01:21.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nonparametric_statistics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.149","ppvisitednodes":{"value":1476,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28063,"limit":2097152},"templateargumentsize":{"value":13498,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  123.098      1 -total"," 34.09%   41.963      4 Template:Isbn"," 29.61%   36.451      2 Template:Cite_book"," 17.39%   21.407      1 Template:Ordered_list"," 14.22%   17.507      5 Template:Catalog_lookup_link"," 10.20%   12.556      1 Template:Columns-list","  8.37%   10.298      1 Template:Div_col","  7.22%    8.889      5 Template:Error-small","  6.14%    7.563     15 Template:Yesno-no","  4.26%    5.244      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":2273745,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20180213203105","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":256,"wgHostname":"mw1245"});});</script>
+	</body>
+</html>

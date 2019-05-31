@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Process engineering - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Process_engineering","wgTitle":"Process engineering","wgCurRevisionId":820612917,"wgRevisionId":820612917,"wgArticleId":601958,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2009","All articles needing additional references","All articles with vague or ambiguous time","Vague or ambiguous time from January 2017","Pages using div col without cols and colwidth parameters","Use dmy dates from December 2010","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Engineering disciplines","Chemical processes","Process engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Process_engineering","wgRelevantArticleId":601958,"wgRequestId":"WnhTqApAICAAAB5n4SgAAACB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2144042","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.17"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Process_engineering"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Process_engineering&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Process_engineering&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Process_engineering"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Process_engineering rootpage-Process_engineering skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Process engineering</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Process_engineering&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p><b>Process engineering</b> focuses on the design, operation, control, optimization and intensification of chemical, physical, and biological processes. Process engineering encompasses a vast range of industries, such as chemical, petrochemical, agriculture, mineral processing, advanced material, food, <a href="/wiki/Process_chemistry" title="Process chemistry">pharmaceutical</a>, software development and biotechnological industries. The application of systematic computer-based methods to process engineering is "process systems engineering".</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Significant_accomplishments"><span class="tocnumber">2</span> <span class="toctext">Significant accomplishments</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History_of_process_systems_engineer"><span class="tocnumber">3</span> <span class="toctext">History of process systems engineer</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_engineering&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Process engineering involves translating the needs of the customer into (typically) production facilities that convert "raw materials" into value-added components. These components are transported to the next stage of the supply chain, typically <a href="/wiki/Packaging_engineering" title="Packaging engineering">packaging engineering</a>. Some larger-volume processes such as <a href="/wiki/Petroleum_refining_processes" class="mw-redirect" title="Petroleum refining processes">petroleum refining processes</a> tend to transfer the products into transportation (trucks or rail) that are then directed to distributors or bulk outlets.</p>
+<p>Prior to construction, the design work of process engineering begins with a <a href="/wiki/Block_diagram" title="Block diagram">block diagram</a> showing raw materials and the transformations (<a href="/wiki/Unit_operations" class="mw-redirect" title="Unit operations">unit operations</a>) desired. The design work then progresses to a <a href="/wiki/Process_flow_diagram" title="Process flow diagram">process flow diagram</a> (PFD) where <a href="/wiki/Material_flow" title="Material flow">material flow</a> paths, storage equipment (such as tanks and silos), transformations (such as <a href="/wiki/Distillation_column" class="mw-redirect" title="Distillation column">distillation columns</a>, receiver/head tanks, mixing, separations, pumping, etc.) and <a href="/wiki/Flow_measurement" title="Flow measurement">flowrates</a> are specified, as well as a list of all pipes and conveyors and their contents, material properties such as <a href="/wiki/Density" title="Density">density</a>, <a href="/wiki/Viscosity" title="Viscosity">viscosity</a>, <a href="/wiki/Particle-size_distribution" title="Particle-size distribution">particle-size distribution</a>, flowrates, pressures, temperatures, and materials of construction for the piping and <a href="/wiki/Unit_operation" title="Unit operation">unit operations</a>.</p>
+<p>The process flow diagram is then used to develop a <a href="/wiki/Piping_and_instrumentation_diagram" title="Piping and instrumentation diagram">piping and instrumentation diagram</a> (P&amp;ID) which includes pipe and conveyor sizing information to address the desired flowrates, process controls (such as tank level indications, material flow meters, weighing devices, motor speed controls, temperature and pressure indicators/controllers, etc.). The P&amp;ID is then used as a basis of design for developing the "system operation guide" or "<a href="/wiki/Functional_specification" title="Functional specification">functional design specification</a>" which outlines the operation of the process.</p>
+<p>From the P&amp;ID, a proposed layout (general arrangement) of the process can be shown from an overhead view (<a href="/wiki/Plot_plan" title="Plot plan">plot plan</a>) and a side view (elevation), and other engineering disciplines are involved such as <a href="/wiki/Civil_engineer" title="Civil engineer">civil engineers</a> for site work (earth moving), foundation design, concrete slab design work, structural steel to support the equipment, etc.). All previous work is directed toward defining the scope of the project, then developing a cost estimate to get the design installed, and a schedule to communicate the timing needs for engineering, procurement, fabrication, installation, commissioning, startup, and ongoing production of the process.</p>
+<p>Depending on the needed accuracy of the cost estimate and schedule that is required, several iterations of designs are generally provided to customers or stakeholders who feed back their requirements. The process engineer incorporates these additional instructions (scope revisions) into the overall design and additional cost estimates, and schedules are developed for funding approval. Following funding approval, the project is executed via <a href="/wiki/Project_management" title="Project management">project management</a>.</p>
+<h2><span class="mw-headline" id="Significant_accomplishments">Significant accomplishments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_engineering&amp;action=edit&amp;section=2" title="Edit section: Significant accomplishments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several accomplishments have been made in process systems engineering:<sup id="cite_ref-cmu_1-0" class="reference"><a href="#cite_note-cmu-1">[1]</a></sup></p>
+<ul>
+<li><a href="/wiki/Process_design" title="Process design">Process design</a>: synthesis of <a href="/wiki/Energy_recovery" title="Energy recovery">energy recovery</a> networks, synthesis of <a href="/wiki/Distillation" title="Distillation">distillation</a> systems (<a href="/wiki/Azeotrope" title="Azeotrope">azeotropic</a>), synthesis of reactor networks, hierarchical decomposition flowsheets, superstructure <a href="/wiki/Optimization" class="mw-redirect" title="Optimization">optimization</a>, design multiproduct batch plants. Design of the production reactors for the production of plutonium, design of nuclear submarines.</li>
+<li><a href="/wiki/Process_control" title="Process control">Process control</a>: model predictive control, controllability measures, robust control, nonlinear control, statistical process control, process monitoring, <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>-based control</li>
+<li><a href="/wiki/Unit_process" title="Unit process">Process operations</a>: scheduling process networks, multiperiod planning and optimization, data reconciliation, real-time optimization, flexibility measures, fault diagnosis</li>
+<li>Supporting tools: sequential modular simulation, equation-based <a href="/wiki/Process_simulation" title="Process simulation">process simulation</a>, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">AI</a>/<a href="/wiki/Expert_systems" class="mw-redirect" title="Expert systems">expert systems</a>, large-scale nonlinear programming (NLP), optimization of differential algebraic equations (DAEs), mixed-integer nonlinear programming (MINLP), global optimization</li>
+</ul>
+<h2><span class="mw-headline" id="History_of_process_systems_engineer">History of process systems engineer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_engineering&amp;action=edit&amp;section=3" title="Edit section: History of process systems engineer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Process systems engineering (PSE) is a relatively young area in <a href="/wiki/Chemical_engineering" title="Chemical engineering">chemical engineering</a>. The first time that this term was used was in a special volume of the <a href="/wiki/AIChE" class="mw-redirect" title="AIChE">AIChE</a> Symposium Series in 1961. However, it was not until 1982 when the first international symposium on this topic took place in Kyoto, Japan, that the term PSE started to become widely accepted.</p>
+<p>The first textbook in the area was <i>Strategy of Process Engineering</i> by <a href="/wiki/Dale_F._Rudd" title="Dale F. Rudd">Dale F. Rudd</a> and Charles C. Watson (Wiley, 1968). The Computing and Systems Technology (CAST) Division, Area 10 of AIChE, was founded in 1977 and currently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (January 2017)">when?</span></a></i>]</sup> has about 1200 members. CAST has four sections: Process Design, Process Control, Process Operations, and Applied Mathematics.</p>
+<p>The first journal devoted to PSE was <i>Computers and Chemical Engineering</i>, which appeared in 1977. The Foundations of Computer-Aided Process Design (FOCAPD) conference in 1980 in Henniker was one of the first meetings in a series on that topic in the PSE area. It is now accompanied by the successful series on Control (CPC), Operations (FOCAPO), and the world-wide series titled Process Systems Engineering. The CACHE Corporation (Computer Aids for Chemical Engineering), which organizes these conferences, was initially launched by academics in 1970, motivated by the introduction of <a href="/wiki/Process_simulation" title="Process simulation">process simulation</a> in the chemical engineering curriculum.</p>
+<p><a href="/wiki/Roger_W.H._Sargent" class="mw-redirect" title="Roger W.H. Sargent">Roger W.H. Sargent</a> from <a href="/wiki/Imperial_College" class="mw-redirect" title="Imperial College">Imperial College</a> was one of the pioneers in the area. PSE is an active area of research in many other countries, particularly in the United Kingdom, Germany, Japan, Korea, and China.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_engineering&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Chemical_process_modeling" title="Chemical process modeling">Chemical process modeling</a></li>
+<li><a href="/wiki/Chemical_technologist" title="Chemical technologist">Chemical technologist</a></li>
+<li><a href="/wiki/Industrial_engineering" title="Industrial engineering">Industrial engineering</a></li>
+<li><a href="/wiki/Industrial_process" class="mw-redirect" title="Industrial process">Industrial process</a></li>
+<li><a href="/wiki/Materials_science" title="Materials science">Materials science</a></li>
+<li><a href="/wiki/Modular_process_skid" title="Modular process skid">Modular process skid</a></li>
+<li><a href="/wiki/Process_chemistry" title="Process chemistry">Process chemistry</a></li>
+<li><a href="/wiki/Process_flowsheeting" title="Process flowsheeting">Process flowsheeting</a></li>
+<li><a href="/wiki/Process_integration" title="Process integration">Process integration</a></li>
+<li><a href="/wiki/Systems_engineering_process" class="mw-redirect" title="Systems engineering process">Systems engineering process</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_engineering&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-cmu-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-cmu_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://egon.cheme.cmu.edu/Papers/GrossmannWestChall.pdf">Research Challenges in Process Systems Engineering</a> by Ignacio E. Grossmann and Arthur W. Westerberg, Department of Chemical Engineering at Carnegie Mellon University in Pittsburgh, PA</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_engineering&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Centre for Process Systems Engineering (Imperial) <a rel="nofollow" class="external free" href="http://www3.imperial.ac.uk/centreforprocesssystemsengineering">http://www3.imperial.ac.uk/centreforprocesssystemsengineering</a></li>
+<li>Process Systems Engineering at Cornell University (Ithaca, New York) <a rel="nofollow" class="external free" href="http://you.cbe.cornell.edu/">http://you.cbe.cornell.edu/</a></li>
+<li>Department of Process Engineering at Stellenbosch University <a rel="nofollow" class="external free" href="http://processengineering.sun.ac.za/">http://processengineering.sun.ac.za/</a></li>
+<li>Process Research and Intelligent Systems Modeling (PRISM) group at BYU <a rel="nofollow" class="external free" href="http://apm.byu.edu/prism/">http://apm.byu.edu/prism/</a></li>
+<li>Process Systems Engineering at CMU <a rel="nofollow" class="external free" href="https://www.cmu.edu/cheme/research/process-systems-engineering/index.html">https://www.cmu.edu/cheme/research/process-systems-engineering/index.html</a></li>
+<li>Process Systems Engineering Laboratory at RWTH Aachen <a rel="nofollow" class="external free" href="http://www.avt.rwth-aachen.de/cms/AVT/Forschung/Forschungsschwerpunkte-der-AVT/~ioaf/Systemverfahrenstechnik/lidx/1/">http://www.avt.rwth-aachen.de/cms/AVT/Forschung/Forschungsschwerpunkte-der-AVT/~ioaf/Systemverfahrenstechnik/lidx/1/</a></li>
+<li>The Process Systems Engineering Laboratory (MIT) <a rel="nofollow" class="external free" href="http://yoric.mit.edu/">http://yoric.mit.edu/</a></li>
+<li>Research Challenges in Process Systems Engineering by Ignacio E. Grossmann and Arthur W. Westerberg <a rel="nofollow" class="external free" href="http://egon.cheme.cmu.edu/Papers/GrossmannWestChall.pdf">http://egon.cheme.cmu.edu/Papers/GrossmannWestChall.pdf</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Chemical_engineering_topics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chemical_eng" title="Template:Chemical eng"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chemical_eng" title="Template talk:Chemical eng"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_eng&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Chemical_engineering_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Chemical_engineering" title="Chemical engineering">Chemical engineering</a> topics</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">History</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_chemical_engineering" title="History of chemical engineering">History of chemical engineering</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:PlatformHolly.jpg" class="image"><img alt="PlatformHolly.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/PlatformHolly.jpg/170px-PlatformHolly.jpg" width="170" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/PlatformHolly.jpg/255px-PlatformHolly.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/PlatformHolly.jpg/340px-PlatformHolly.jpg 2x" data-file-width="480" data-file-height="360" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Unit_operation" title="Unit operation">Unit operations</a></li>
+<li><a href="/wiki/Unit_process" title="Unit process">Unit processes</a></li>
+<li><a href="/wiki/Chemical_engineer" title="Chemical engineer">Chemical engineer</a></li>
+<li><a href="/wiki/Chemical_process" title="Chemical process">Chemical process</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unit_operation" title="Unit operation">Unit operations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Momentum_transfer" title="Momentum transfer">Momentum transfer</a></li>
+<li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li>
+<li><a href="/wiki/Mass_transfer" title="Mass transfer">Mass transfer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unit_process" title="Unit process">Unit process</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemical_reaction_engineering" title="Chemical reaction engineering">Chemical reaction engineering</a></li>
+<li><a href="/wiki/Chemical_kinetics" title="Chemical kinetics">Chemical kinetics</a></li>
+<li><a href="/wiki/Chemical_process_modeling" title="Chemical process modeling">Chemical process modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Branches</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Process_design" title="Process design">Process design</a></li>
+<li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li>
+<li><a href="/wiki/Chemical_plant" title="Chemical plant">Chemical plant design</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical thermodynamics</a></li>
+<li><a href="/wiki/Transport_phenomena" title="Transport phenomena">Transport phenomena</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Outline_of_chemical_engineering" title="Outline of chemical engineering">Outline of chemical engineering</a></li>
+<li><a href="/wiki/Index_of_chemical_engineering_articles" title="Index of chemical engineering articles">Index of chemical engineering articles</a></li>
+<li><a href="/wiki/Education_for_Chemical_Engineers" title="Education for Chemical Engineers">Education for Chemical Engineers</a></li>
+<li><a href="/wiki/List_of_chemical_engineers" title="List of chemical engineers">List of chemical engineers</a></li>
+<li><a href="/wiki/List_of_chemical_engineering_societies" title="List of chemical engineering societies">List of chemical engineering societies</a></li>
+<li><a href="/wiki/List_of_chemical_process_simulators" title="List of chemical process simulators">List of chemical process simulators</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Chemical_engineering" title="Category:Chemical engineering">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Engineering" title="Portal:Engineering">Portal:Engineering</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85107212">sh85107212</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4062781-0">4062781-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11979650p">cb11979650p</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11979650p">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20180205080053
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.163 seconds
+Preprocessor visited node count: 617/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21111/2097152 bytes
+Template argument size: 828/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 1.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  134.225      1 -total
+ 32.79%   44.007      1 Template:Refimprove
+ 21.17%   28.418      1 Template:Ambox
+ 15.44%   20.720      1 Template:Authority_control
+ 14.87%   19.965      1 Template:When
+ 14.79%   19.851      1 Template:Chemical_engg
+ 13.38%   17.954      1 Template:Fix
+ 12.56%   16.859      1 Template:Navbox
+  9.63%   12.924      1 Template:Use_dmy_dates
+  8.17%   10.972      1 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:601958-0!canonical and timestamp 20180205080053 and revision id 820612917
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Process_engineering&amp;oldid=820612917">https://en.wikipedia.org/w/index.php?title=Process_engineering&amp;oldid=820612917</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Engineering_disciplines" title="Category:Engineering disciplines">Engineering disciplines</a></li><li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li><li><a href="/wiki/Category:Process_engineering" title="Category:Process engineering">Process engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2009" title="Category:Articles needing additional references from December 2009">Articles needing additional references from December 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_January_2017" title="Category:Vague or ambiguous time from January 2017">Vague or ambiguous time from January 2017</a></li><li><a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">Pages using div col without cols and colwidth parameters</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2010" title="Category:Use dmy dates from December 2010">Use dmy dates from December 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Process+engineering" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Process+engineering" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Process_engineering" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Process_engineering" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Process_engineering">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Process_engineering&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Process_engineering&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Process_engineering" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Process_engineering" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Process_engineering&amp;oldid=820612917" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Process_engineering&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2144042" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Process_engineering&amp;id=820612917" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Process+engineering">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Process+engineering&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Process_engineering&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Process_engineering" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA" title="هندسة العمليات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Verfahrenstechnik" title="Verfahrenstechnik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_procesos" title="Ingeniería de procesos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Prozesu_ingeniaritza" title="Prozesu ingeniaritza – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C_%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF" title="مهندسی فرایند – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE_%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80" title="प्रक्रम अभियान्त्रिकी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Teknik_proses" title="Teknik proses – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D1%87%D0%BB%D1%8D%D0%BB" title="Технологи инженерчлэл – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Procesindustrie" title="Procesindustrie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6" title="プロセスシステム工学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BD%D0%BE_%D0%B8%D0%BD%D0%B6%D0%B5%D1%9A%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Процесно инжењерство – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Inhinyerong_pangsemikonduktor" title="Inhinyerong pangsemikonduktor – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2144042#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 January 2018, at 16:49.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Process_engineering&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.163","ppvisitednodes":{"value":617,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21111,"limit":2097152},"templateargumentsize":{"value":828,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  134.225      1 -total"," 32.79%   44.007      1 Template:Refimprove"," 21.17%   28.418      1 Template:Ambox"," 15.44%   20.720      1 Template:Authority_control"," 14.87%   19.965      1 Template:When"," 14.79%   19.851      1 Template:Chemical_engg"," 13.38%   17.954      1 Template:Fix"," 12.56%   16.859      1 Template:Navbox","  9.63%   12.924      1 Template:Use_dmy_dates","  8.17%   10.972      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":1756300,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20180205080053","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1330"});});</script>
+	</body>
+</html>

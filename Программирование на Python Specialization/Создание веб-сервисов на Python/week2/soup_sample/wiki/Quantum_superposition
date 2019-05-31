@@ -1,0 +1,2614 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quantum superposition - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Quantum_superposition","wgTitle":"Quantum superposition","wgCurRevisionId":822501600,"wgRevisionId":822501600,"wgArticleId":82728,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: BOT: original-url status unknown","Use dmy dates from September 2010","Wikipedia articles needing clarification from September 2017","All articles with unsourced statements","Articles with unsourced statements from September 2017","Articles with unsourced statements from August 2017","Wikipedia articles needing clarification from August 2017","Articles containing video clips","Quantum mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Quantum_superposition","wgRelevantArticleId":82728,"wgRequestId":"WoVYGwpAICMAAL5xS-kAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q830791","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/1200px--Quantum_superposition_of_states_and_decoherence.ogv.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Quantum_superposition"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Quantum_superposition&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Quantum_superposition&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Quantum_superposition"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Quantum_superposition rootpage-Quantum_superposition skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Quantum superposition</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Superposition_principle" title="Superposition principle">Superposition principle</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:330px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/854px--Quantum_superposition_of_states_and_decoherence.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;176.29866666667&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Quantum_superposition_of_states_and_decoherence.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/Quantum_superposition_of_states_and_decoherence.ogv.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;HD WebM (720P)&quot; data-shorttitle=&quot;WebM 720P&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;881016&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/Quantum_superposition_of_states_and_decoherence.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1020712&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/Quantum_superposition_of_states_and_decoherence.ogv.1080p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Full HD WebM (1080P)&quot; data-shorttitle=&quot;WebM 1080P&quot; data-transcodekey=&quot;1080p.webm&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; data-bandwidth=&quot;1470080&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/8/8b/Quantum_superposition_of_states_and_decoherence.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 1,920 × 1,080 (3.83 Mbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; data-bandwidth=&quot;3832833&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/Quantum_superposition_of_states_and_decoherence.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;242120&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/Quantum_superposition_of_states_and_decoherence.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;317200&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/Quantum_superposition_of_states_and_decoherence.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;541232&quot; data-framerate=&quot;25&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Quantum superposition of states and decoherence.ogv" style="width:330px;height:186px" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Quantum_superposition_of_states_and_decoherence.ogv/330px--Quantum_superposition_of_states_and_decoherence.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/8/8b/Quantum_superposition_of_states_and_decoherence.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Quantum_superposition_of_states_and_decoherence.ogv" class="internal" title="Enlarge"></a></div>
+Quantum superposition of states and decoherence</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks plainlist nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:19.0em;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series of articles about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Quantum_mechanics" title="Quantum mechanics">Quantum mechanics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle ={\hat {H}}|\psi (t)\rangle }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>H</mi>
+              <mo stretchy="false">&#x005E;<!-- ^ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle ={\hat {H}}|\psi (t)\rangle }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0de8741a7d26ae98689c7b3339e97dfafea9fd26" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:21.692ex; height:5.509ex;" alt="{\displaystyle i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle ={\hat {H}}|\psi (t)\rangle }" /></span>
+<div style="padding-top:0.2em;line-height:1.2em;font-size:90%;padding-top:0.4em;font-style:italic;"><a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger equation</a></div>
+</td>
+</tr>
+<tr>
+<td class="hlist nowrap" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;display:block;margin-bottom:0.4em;">
+<ul>
+<li><a href="/wiki/Introduction_to_quantum_mechanics" title="Introduction to quantum mechanics">Introduction</a></li>
+<li><a href="/wiki/Glossary_of_elementary_quantum_mechanics" title="Glossary of elementary quantum mechanics">Glossary</a></li>
+<li><a href="/wiki/History_of_quantum_mechanics" title="History of quantum mechanics">History</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Background</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical mechanics</a></li>
+<li><a href="/wiki/Old_quantum_theory" title="Old quantum theory">Old quantum theory</a></li>
+<li><a href="/wiki/Bra%E2%80%93ket_notation" title="Bra–ket notation">Bra–ket notation</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Hamiltonian_(quantum_mechanics)" title="Hamiltonian (quantum mechanics)">Hamiltonian</a></li>
+<li><a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">Interference</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Fundamentals</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Complementarity_(physics)" title="Complementarity (physics)">Complementarity</a></li>
+<li><a href="/wiki/Quantum_decoherence" title="Quantum decoherence">Decoherence</a></li>
+<li><a href="/wiki/Quantum_entanglement" title="Quantum entanglement">Entanglement</a></li>
+<li><a href="/wiki/Energy_level" title="Energy level">Energy level</a></li>
+<li><a href="/wiki/Measurement_in_quantum_mechanics" title="Measurement in quantum mechanics">Measurement</a></li>
+<li><a href="/wiki/Quantum_nonlocality" title="Quantum nonlocality">Nonlocality</a></li>
+<li><a href="/wiki/Quantum_number" title="Quantum number">Quantum number</a></li>
+<li><a href="/wiki/Quantum_state" title="Quantum state">State</a></li>
+<li><a class="mw-selflink selflink">Superposition</a></li>
+<li><a href="/wiki/Symmetry_in_quantum_mechanics" title="Symmetry in quantum mechanics">Symmetry</a></li>
+<li><a href="/wiki/Quantum_tunnelling" title="Quantum tunnelling">Tunnelling</a></li>
+<li><a href="/wiki/Uncertainty_principle" title="Uncertainty principle">Uncertainty</a></li>
+<li><a href="/wiki/Wave_function" title="Wave function">Wave function</a>&#160;(<a href="/wiki/Wave_function_collapse" title="Wave function collapse">collapse</a>)</li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Experiments</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Afshar_experiment" title="Afshar experiment">Afshar</a></li>
+<li><a href="/wiki/Bell_test_experiments" title="Bell test experiments">Bell's inequality</a></li>
+<li><a href="/wiki/Davisson%E2%80%93Germer_experiment" title="Davisson–Germer experiment">Davisson–Germer</a></li>
+<li><a href="/wiki/Double-slit_experiment" title="Double-slit experiment">Double-slit</a></li>
+<li><a href="/wiki/Elitzur%E2%80%93Vaidman_bomb_tester" title="Elitzur–Vaidman bomb tester">Elitzur–Vaidman</a></li>
+<li><a href="/wiki/Franck%E2%80%93Hertz_experiment" title="Franck–Hertz experiment">Franck–Hertz</a></li>
+<li><a href="/wiki/Leggett%E2%80%93Garg_inequality" title="Leggett–Garg inequality">Leggett–Garg inequality</a></li>
+<li><a href="/wiki/Mach%E2%80%93Zehnder_interferometer" title="Mach–Zehnder interferometer">Mach–Zehnder</a></li>
+<li><a href="/wiki/Popper%27s_experiment" title="Popper's experiment">Popper</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Quantum_eraser_experiment" title="Quantum eraser experiment">Quantum eraser</a>&#160;(<a href="/wiki/Delayed_choice_quantum_eraser" title="Delayed choice quantum eraser">delayed-choice</a>)</li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Schr%C3%B6dinger%27s_cat" title="Schrödinger's cat">Schrödinger's cat</a></li>
+<li><a href="/wiki/Stern%E2%80%93Gerlach_experiment" title="Stern–Gerlach experiment">Stern–Gerlach</a></li>
+<li><a href="/wiki/Wheeler%27s_delayed_choice_experiment" title="Wheeler's delayed choice experiment">Wheeler's delayed-choice</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Formulations</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Mathematical_formulation_of_quantum_mechanics" title="Mathematical formulation of quantum mechanics">Overview</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Heisenberg_picture" title="Heisenberg picture">Heisenberg</a></li>
+<li><a href="/wiki/Interaction_picture" title="Interaction picture">Interaction</a></li>
+<li><a href="/wiki/Matrix_mechanics" title="Matrix mechanics">Matrix</a></li>
+<li><a href="/wiki/Phase_space_formulation" title="Phase space formulation">Phase-space</a></li>
+<li><a href="/wiki/Schr%C3%B6dinger_picture" title="Schrödinger picture">Schrödinger</a></li>
+<li><a href="/wiki/Path_integral_formulation" title="Path integral formulation">Sum-over-histories (path integral)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Equations</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Dirac_equation" title="Dirac equation">Dirac</a></li>
+<li><a href="/wiki/Klein%E2%80%93Gordon_equation" title="Klein–Gordon equation">Klein–Gordon</a></li>
+<li><a href="/wiki/Pauli_equation" title="Pauli equation">Pauli</a></li>
+<li><a href="/wiki/Rydberg_formula" title="Rydberg formula">Rydberg</a></li>
+<li><a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;"><a href="/wiki/Interpretations_of_quantum_mechanics" title="Interpretations of quantum mechanics">Interpretations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Interpretations_of_quantum_mechanics" title="Interpretations of quantum mechanics">Overview</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Consistent_histories" title="Consistent histories">Consistent histories</a></li>
+<li><a href="/wiki/Copenhagen_interpretation" title="Copenhagen interpretation">Copenhagen</a></li>
+<li><a href="/wiki/De_Broglie%E2%80%93Bohm_theory" title="De Broglie–Bohm theory">de Broglie–Bohm</a></li>
+<li><a href="/wiki/Ensemble_interpretation" title="Ensemble interpretation">Ensemble</a></li>
+<li><a href="/wiki/Hidden_variable_theory" title="Hidden variable theory">Hidden-variable</a></li>
+<li><a href="/wiki/Many-worlds_interpretation" title="Many-worlds interpretation">Many-worlds</a></li>
+<li><a href="/wiki/Objective_collapse_theory" title="Objective collapse theory">Objective collapse</a></li>
+<li><a href="/wiki/Quantum_Bayesianism" title="Quantum Bayesianism">Bayesian</a></li>
+<li><a href="/wiki/Quantum_logic" title="Quantum logic">Quantum logic</a></li>
+<li><a href="/wiki/Relational_quantum_mechanics" title="Relational quantum mechanics">Relational</a></li>
+<li><a href="/wiki/Stochastic_quantum_mechanics" title="Stochastic quantum mechanics">Stochastic</a></li>
+<li><a href="/wiki/Scale_relativity" title="Scale relativity">Scale relativity</a></li>
+<li><a href="/wiki/Transactional_interpretation" title="Transactional interpretation">Transactional</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Advanced topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Relativistic_quantum_mechanics" title="Relativistic quantum mechanics">Relativistic quantum mechanics</a></li>
+<li><a href="/wiki/Quantum_field_theory" title="Quantum field theory">Quantum field theory</a></li>
+<li><a href="/wiki/Quantum_information_science" title="Quantum information science">Quantum information science</a></li>
+<li><a href="/wiki/Quantum_computing" title="Quantum computing">Quantum computing</a></li>
+<li><a href="/wiki/Quantum_chaos" title="Quantum chaos">Quantum chaos</a></li>
+<li><a href="/wiki/Density_matrix" title="Density matrix">Density matrix</a></li>
+<li><a href="/wiki/Fractional_quantum_mechanics" title="Fractional quantum mechanics">Fractional quantum mechanics</a></li>
+<li><a href="/wiki/Scattering_theory" title="Scattering theory">Scattering theory</a></li>
+<li><a href="/wiki/Quantum_statistical_mechanics" title="Quantum statistical mechanics">Quantum statistical mechanics</a></li>
+<li><a href="/wiki/Quantum_machine_learning" title="Quantum machine learning">Quantum machine learning</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Yakir_Aharonov" title="Yakir Aharonov">Aharonov</a></li>
+<li><a href="/wiki/John_Stewart_Bell" title="John Stewart Bell">Bell</a></li>
+<li><a href="/wiki/Patrick_Blackett" title="Patrick Blackett">Blackett</a></li>
+<li><a href="/wiki/Felix_Bloch" title="Felix Bloch">Bloch</a></li>
+<li><a href="/wiki/David_Bohm" title="David Bohm">Bohm</a></li>
+<li><a href="/wiki/Niels_Bohr" title="Niels Bohr">Bohr</a></li>
+<li><a href="/wiki/Max_Born" title="Max Born">Born</a></li>
+<li><a href="/wiki/Satyendra_Nath_Bose" title="Satyendra Nath Bose">Bose</a></li>
+<li><a href="/wiki/Louis_de_Broglie" title="Louis de Broglie">de Broglie</a></li>
+<li><a href="/wiki/David_John_Candlin" title="David John Candlin">Candlin</a></li>
+<li><a href="/wiki/Arthur_Compton" title="Arthur Compton">Compton</a></li>
+<li><a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac</a></li>
+<li><a href="/wiki/Clinton_Davisson" title="Clinton Davisson">Davisson</a></li>
+<li><a href="/wiki/Peter_Debye" title="Peter Debye">Debye</a></li>
+<li><a href="/wiki/Paul_Ehrenfest" title="Paul Ehrenfest">Ehrenfest</a></li>
+<li><a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a></li>
+<li><a href="/wiki/Hugh_Everett_III" title="Hugh Everett III">Everett</a></li>
+<li><a href="/wiki/Vladimir_Fock" title="Vladimir Fock">Fock</a></li>
+<li><a href="/wiki/Enrico_Fermi" title="Enrico Fermi">Fermi</a></li>
+<li><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman</a></li>
+<li><a href="/wiki/Roy_Glauber" class="mw-redirect" title="Roy Glauber">Glauber</a></li>
+<li><a href="/wiki/Martin_Gutzwiller" title="Martin Gutzwiller">Gutzwiller</a></li>
+<li><a href="/wiki/Werner_Heisenberg" title="Werner Heisenberg">Heisenberg</a></li>
+<li><a href="/wiki/David_Hilbert" title="David Hilbert">Hilbert</a></li>
+<li><a href="/wiki/Pascual_Jordan" title="Pascual Jordan">Jordan</a></li>
+<li><a href="/wiki/Hans_Kramers" title="Hans Kramers">Kramers</a></li>
+<li><a href="/wiki/Wolfgang_Pauli" title="Wolfgang Pauli">Pauli</a></li>
+<li><a href="/wiki/Willis_Lamb" title="Willis Lamb">Lamb</a></li>
+<li><a href="/wiki/Lev_Landau" title="Lev Landau">Landau</a></li>
+<li><a href="/wiki/Max_von_Laue" title="Max von Laue">Laue</a></li>
+<li><a href="/wiki/Henry_Moseley" title="Henry Moseley">Moseley</a></li>
+<li><a href="/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan">Millikan</a></li>
+<li><a href="/wiki/Heike_Kamerlingh_Onnes" title="Heike Kamerlingh Onnes">Onnes</a></li>
+<li><a href="/wiki/Max_Planck" title="Max Planck">Planck</a></li>
+<li><a href="/wiki/Isidor_Isaac_Rabi" title="Isidor Isaac Rabi">Rabi</a></li>
+<li><a href="/wiki/C._V._Raman" title="C. V. Raman">Raman</a></li>
+<li><a href="/wiki/Johannes_Rydberg" title="Johannes Rydberg">Rydberg</a></li>
+<li><a href="/wiki/Erwin_Schr%C3%B6dinger" title="Erwin Schrödinger">Schrödinger</a></li>
+<li><a href="/wiki/Arnold_Sommerfeld" title="Arnold Sommerfeld">Sommerfeld</a></li>
+<li><a href="/wiki/John_von_Neumann" title="John von Neumann">von Neumann</a></li>
+<li><a href="/wiki/Hermann_Weyl" title="Hermann Weyl">Weyl</a></li>
+<li><a href="/wiki/Wilhelm_Wien" title="Wilhelm Wien">Wien</a></li>
+<li><a href="/wiki/Eugene_Wigner" title="Eugene Wigner">Wigner</a></li>
+<li><a href="/wiki/Pieter_Zeeman" title="Pieter Zeeman">Zeeman</a></li>
+<li><a href="/wiki/Anton_Zeilinger" title="Anton Zeilinger">Zeilinger</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;border-top:1px solid #aaa;padding-top:0.1em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Quantum_mechanics" title="Template:Quantum mechanics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Quantum_mechanics" title="Template talk:Quantum mechanics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Quantum_mechanics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Quantum superposition</b> is a fundamental principle of <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>. It states that, much like waves in <a href="/wiki/Superposition_principle#Wave_superposition" title="Superposition principle">classical physics</a>, any two (or more) <a href="/wiki/Quantum_state" title="Quantum state">quantum states</a> can be added together ("superposed") and the result will be another valid quantum state; and conversely, that every quantum state can be represented as a sum of two or more other distinct states. Mathematically, it refers to a property of <a href="/wiki/Quantum_state" title="Quantum state">solutions</a> to the <a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger equation</a>; since the Schrödinger equation is <a href="/wiki/Linear" class="mw-redirect" title="Linear">linear</a>, any linear combination of solutions will also be a solution.</p>
+<p>An example of a physically observable manifestation of superposition is <a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">interference</a> peaks from an <a href="/wiki/Electron" title="Electron">electron</a> <a href="/wiki/Wave" title="Wave">wave</a> in a <a href="/wiki/Double-slit_experiment" title="Double-slit experiment">double-slit experiment</a>.</p>
+<p>Another example is a quantum logical <a href="/wiki/Qubit#Qubit_states" title="Qubit">qubit state</a>, as used in <a href="/wiki/Quantum_information_processing" class="mw-redirect" title="Quantum information processing">quantum information processing</a>, which is a linear superposition of the "basis states" <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |0\rangle }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mn>0</mn>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |0\rangle }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed066a3ad158da0ad6d6a421a606b1c8a35eb95b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.714ex; height:2.843ex;" alt="|0\rangle " /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |1\rangle }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mn>1</mn>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |1\rangle }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f53021ca18e77477ee5bd3c1523e5830189ec5c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.714ex; height:2.843ex;" alt="|1\rangle " /></span>. Here <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |0\rangle }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mn>0</mn>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |0\rangle }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed066a3ad158da0ad6d6a421a606b1c8a35eb95b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.714ex; height:2.843ex;" alt="|0\rangle " /></span> is the <a href="/wiki/Dirac_notation" class="mw-redirect" title="Dirac notation">Dirac notation</a> for the quantum state that will always give the result 0 when converted to classical logic by a measurement. Likewise <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |1\rangle }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mn>1</mn>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |1\rangle }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f53021ca18e77477ee5bd3c1523e5830189ec5c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.714ex; height:2.843ex;" alt="|1\rangle " /></span> is the state that will always convert to 1.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr" xml:lang="en">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Theory"><span class="tocnumber">1</span> <span class="toctext">Theory</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hamiltonian_evolution"><span class="tocnumber">1.1</span> <span class="toctext">Hamiltonian evolution</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Quantum_mechanics_in_imaginary_time"><span class="tocnumber">1.2</span> <span class="toctext">Quantum mechanics in imaginary time</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Experiments_and_applications"><span class="tocnumber">2</span> <span class="toctext">Experiments and applications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Formal_interpretation"><span class="tocnumber">3</span> <span class="toctext">Formal interpretation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_interpretation"><span class="tocnumber">4</span> <span class="toctext">Physical interpretation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Bibliography_of_cited_references"><span class="tocnumber">6.1</span> <span class="toctext">Bibliography of cited references</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Theory">Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=1" title="Edit section: Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hamiltonian_evolution">Hamiltonian evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=2" title="Edit section: Hamiltonian evolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The numbers that describe the amplitudes for different possibilities define the <a href="/wiki/Kinematics" title="Kinematics">kinematics</a>, the space of different states. The dynamics describes how these numbers change with time. For a particle that can be in any one of infinitely many discrete positions, a particle on a lattice, the superposition principle tells you how to make a state:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum _{n}\psi _{n}|n\rangle \,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>n</mi>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{n}\psi _{n}|n\rangle \,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40747a78241aa459657566d8975ad01e6024dc59" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:9.807ex; height:5.509ex;" alt="&#10;\sum_n \psi_n |n\rangle&#10;\," /></span></dd>
+</dl>
+<p>So that the infinite list of amplitudes <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \scriptstyle (...\psi _{-2},\psi _{-1},\psi _{0},\psi _{1},\psi _{2}...)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <mo stretchy="false">(</mo>
+          <mo>.</mo>
+          <mo>.</mo>
+          <mo>.</mo>
+          <msub>
+            <mi>&#x03C8;<!-- ψ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>2</mn>
+            </mrow>
+          </msub>
+          <mo>,</mo>
+          <msub>
+            <mi>&#x03C8;<!-- ψ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </msub>
+          <mo>,</mo>
+          <msub>
+            <mi>&#x03C8;<!-- ψ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>0</mn>
+            </mrow>
+          </msub>
+          <mo>,</mo>
+          <msub>
+            <mi>&#x03C8;<!-- ψ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>1</mn>
+            </mrow>
+          </msub>
+          <mo>,</mo>
+          <msub>
+            <mi>&#x03C8;<!-- ψ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+          </msub>
+          <mo>.</mo>
+          <mo>.</mo>
+          <mo>.</mo>
+          <mo stretchy="false">)</mo>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle (...\psi _{-2},\psi _{-1},\psi _{0},\psi _{1},\psi _{2}...)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/696bfc49f5ada631cdca19dcb9f8449b076be8fe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:17.437ex; height:2.343ex;" alt="\scriptstyle (... \psi_{-2},\psi_{-1},\psi_0,\psi_1,\psi_2 ...) " /></span> completely describes the quantum state of the particle. This list is called the <b>state vector</b>, and formally it is an element of a <a href="/wiki/Hilbert_space" title="Hilbert space">Hilbert space</a>, an infinite-dimensional complex <a href="/wiki/Vector_space" title="Vector space">vector space</a>. It is usual to represent the state so that the sum of the <a href="/wiki/Absolute_square" class="mw-redirect" title="Absolute square">absolute squares</a> of the amplitudes is one:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum \psi _{n}^{*}\psi _{n}=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2211;<!-- ∑ --></mo>
+        <msubsup>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msubsup>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum \psi _{n}^{*}\psi _{n}=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c961aa53e5afefceda75b11a62352bd532be9971" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.338ex; width:13.466ex; height:3.843ex;" alt="&#10;\sum \psi_n^*\psi_n = 1&#10;" /></span></dd>
+</dl>
+<p>For a particle described by probability theory random walking on a line, the analogous thing is the list of probabilities <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (...P_{-2},P_{-1},P_{0},P_{1},P_{2},...)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (...P_{-2},P_{-1},P_{0},P_{1},P_{2},...)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f429e19d0ea683a339fe35685c56f60ad1b956c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:28.472ex; height:2.843ex;" alt="(...P_{-2},P_{-1},P_0,P_1,P_2,...)" /></span>, which give the probability of any position. The quantities that describe how they change in time are the transition probabilities <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \scriptstyle K_{x\rightarrow y}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <msub>
+            <mi>K</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>x</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+              <mi>y</mi>
+            </mrow>
+          </msub>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle K_{x\rightarrow y}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b8854c47f417709631da4ad3f3869a84e1d6b0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.193ex; height:2.343ex;" alt="\scriptstyle K_{x\rightarrow y}(t)" /></span>, which gives the probability that, starting at x, the particle ends up at y time t later. The total probability of ending up at y is given by the sum over all the possibilities</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P_{y}(t_{0}+t)=\sum _{x}P_{x}(t_{0})K_{x\rightarrow y}(t)\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{y}(t_{0}+t)=\sum _{x}P_{x}(t_{0})K_{x\rightarrow y}(t)\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2bfd863e7d9d68533a77641e298d496637bcfa9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:31.775ex; height:5.509ex;" alt="&#10;P_y(t_0+t) = \sum_x P_x(t_0) K_{x\rightarrow y}(t)&#10;\," /></span></dd>
+</dl>
+<p>The condition of conservation of probability states that starting at any x, the total probability to end up <i>somewhere</i> must add up to 1:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum _{y}K_{x\rightarrow y}=1\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{y}K_{x\rightarrow y}=1\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/672f074eec2fde883c01828d3a29d54356de5da3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:13.996ex; height:5.843ex;" alt="&#10;\sum_y K_{x\rightarrow y} = 1&#10;\," /></span></dd>
+</dl>
+<p>So that the total probability will be preserved, K is what is called a <a href="/wiki/Stochastic_matrix" title="Stochastic matrix">stochastic matrix</a>.</p>
+<p>When no time passes, nothing changes: for 0 elapsed time <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \scriptstyle K{x\rightarrow y}(0)=\delta _{xy}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+          <mo stretchy="false">(</mo>
+          <mn>0</mn>
+          <mo stretchy="false">)</mo>
+          <mo>=</mo>
+          <msub>
+            <mi>&#x03B4;<!-- δ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>x</mi>
+              <mi>y</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle K{x\rightarrow y}(0)=\delta _{xy}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83a63f61f7650c2f53aab84d1853a88d4e558716" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.562ex; height:2.343ex;" alt="\scriptstyle K{x\rightarrow y}(0) = \delta_{xy} " /></span>, the K matrix is zero except from a state to itself. So in the case that the time is short, it is better to talk about the rate of change of the probability instead of the absolute change in the probability.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P_{y}(t+dt)=P_{y}(t)+dt\sum _{x}P_{x}R_{x\rightarrow y}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>+</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{y}(t+dt)=P_{y}(t)+dt\sum _{x}P_{x}R_{x\rightarrow y}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/206993fddca60399077980c417007be6d4209248" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:35.849ex; height:5.509ex;" alt="&#10;P_y(t+dt) = P_y(t) + dt \sum_x P_x R_{x\rightarrow y}&#10;\," /></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \scriptstyle R_{x\rightarrow y}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <msub>
+            <mi>R</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>x</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+              <mi>y</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle R_{x\rightarrow y}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0cb8adaa0d0164a8cecbdaf56ec0dbdd811226d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.172ex; height:2.176ex;" alt="\scriptstyle R_{x\rightarrow y}" /></span> is the time derivative of the K matrix:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R_{x\rightarrow y}={K_{x\rightarrow y}(dt)-\delta _{xy} \over dt}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>K</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>x</mi>
+                  <mo stretchy="false">&#x2192;<!-- → --></mo>
+                  <mi>y</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <mi>d</mi>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>&#x03B4;<!-- δ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>x</mi>
+                  <mi>y</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{x\rightarrow y}={K_{x\rightarrow y}(dt)-\delta _{xy} \over dt}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7212ce669a9a6d1f6289d724f4fa7b1e479c040e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:25.051ex; height:5.843ex;" alt="&#10;R_{x\rightarrow y} = { K_{x\rightarrow y}(dt) - \delta_{xy} \over dt}&#10;\," /></span>.</dd>
+</dl>
+<p>The equation for the probabilities is a differential equation that is sometimes called the <b>master equation</b>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {dP_{y} \over dt}=\sum _{x}P_{x}R_{x\rightarrow y}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>y</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {dP_{y} \over dt}=\sum _{x}P_{x}R_{x\rightarrow y}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fec382ed3c8ab8133794d0fede10b96c4009fc5d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:19.883ex; height:6.843ex;" alt="&#10;{dP_y \over dt} = \sum_x P_x R_{x\rightarrow y}&#10;\," /></span></dd>
+</dl>
+<p>The R matrix is the probability per unit time for the particle to make a transition from x to y. The condition that the K matrix elements add up to one becomes the condition that the R matrix elements add up to zero:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum _{y}R_{x\rightarrow y}=0\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{y}R_{x\rightarrow y}=0\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1fab44f2ca9af13dbcbcb0ecbf46d65bc277d072" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:13.787ex; height:5.843ex;" alt="&#10;\sum_y R_{x\rightarrow y} = 0&#10;\," /></span></dd>
+</dl>
+<p>One simple case to study is when the R matrix has an equal probability to go one unit to the left or to the right, describing a particle that has a constant rate of random walking. In this case <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \scriptstyle R_{x\rightarrow y}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <msub>
+            <mi>R</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>x</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+              <mi>y</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle R_{x\rightarrow y}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0cb8adaa0d0164a8cecbdaf56ec0dbdd811226d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.172ex; height:2.176ex;" alt="\scriptstyle R_{x\rightarrow y}" /></span> is zero unless y is either x+1,x, or x−1, when y is x+1 or x−1, the R matrix has value c, and in order for the sum of the R matrix coefficients to equal zero, the value of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R_{x\rightarrow x}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>x</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{x\rightarrow x}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3720614ae7995875ad59713a2a690aea7124327f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.52ex; height:2.509ex;" alt="R_{x\rightarrow x}" /></span> must be −2c. So the probabilities obey the <b>discretized diffusion equation</b>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {dP_{x} \over dt}=c(P_{x+1}-2P_{x}+P_{x-1})\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>x</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>c</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {dP_{x} \over dt}=c(P_{x+1}-2P_{x}+P_{x-1})\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8365f307a8a14d1d58096e7b5d5424a65dfa2f7f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:30.057ex; height:5.509ex;" alt="&#10;{dP_x \over dt } = c(P_{x+1} - 2P_{x} + P_{x-1})&#10;\," /></span></dd>
+</dl>
+<p>which, when c is scaled appropriately and the P distribution is smooth enough to think of the system in a continuum limit becomes:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\partial P(x,t) \over \partial t}=c{\partial ^{2}P \over \partial x^{2}}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>P</mi>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo>,</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>c</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mi>P</mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\partial P(x,t) \over \partial t}=c{\partial ^{2}P \over \partial x^{2}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37a44fd9e36786947ba4f43a3345c8a5002bfc05" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:18.384ex; height:6.009ex;" alt="&#10;{\partial P(x,t) \over \partial t} = c {\partial^2 P \over \partial x^2 }&#10;\," /></span></dd>
+</dl>
+<p>Which is the <b><a href="/wiki/Diffusion_equation" title="Diffusion equation">diffusion equation</a></b>.</p>
+<p>Quantum amplitudes give the rate at which amplitudes change in time, and they are mathematically exactly the same except that they are complex numbers. The analog of the finite time K matrix is called the U matrix:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi _{n}(t)=\sum _{m}U_{nm}(t)\psi _{m}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>U</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi _{n}(t)=\sum _{m}U_{nm}(t)\psi _{m}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d46891e9252a685d74c6a0e33d9e196e4d12239" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:22.694ex; height:5.509ex;" alt="&#10;\psi_n(t) = \sum_m U_{nm}(t) \psi_m&#10;\," /></span></dd>
+</dl>
+<p>Since the sum of the absolute squares of the amplitudes must be constant, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle U}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>U</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle U}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/458a728f53b9a0274f059cd695e067c430956025" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.783ex; height:2.176ex;" alt="U" /></span> must be <a href="/wiki/Unitary_matrix" title="Unitary matrix">unitary</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum _{n}U_{nm}^{*}U_{np}=\delta _{mp}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munder>
+        <msubsup>
+          <mi>U</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>m</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msubsup>
+        <msub>
+          <mi>U</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03B4;<!-- δ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{n}U_{nm}^{*}U_{np}=\delta _{mp}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b04d510b0e910bca85fc8139b7f9011026c9533c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:18.644ex; height:5.509ex;" alt="&#10;\sum_n U^*_{nm} U_{np} = \delta_{mp}&#10;\," /></span></dd>
+</dl>
+<p>or, in matrix notation,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle U^{\dagger }U=I\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>U</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2020;<!-- † --></mo>
+          </mrow>
+        </msup>
+        <mi>U</mi>
+        <mo>=</mo>
+        <mi>I</mi>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle U^{\dagger }U=I\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb8683c9bb09e904432b90edcfd2cf9a30084ac9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:9.243ex; height:2.676ex;" alt="&#10;U^\dagger U = I&#10;\," /></span></dd>
+</dl>
+<p>The rate of change of U is called the <a href="/wiki/Hamiltonian_(quantum_mechanics)" title="Hamiltonian (quantum mechanics)">Hamiltonian</a> H, up to a traditional factor of i:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H_{mn}=i{d \over dt}U_{mn}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>d</mi>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msub>
+          <mi>U</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H_{mn}=i{d \over dt}U_{mn}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/89538716ec4b3e4d977cdeb0d45e3b491c889b6d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:15.634ex; height:5.509ex;" alt="&#10;H_{mn} = i{d \over dt} U_{mn}&#10;" /></span></dd>
+</dl>
+<p>The Hamiltonian gives the rate at which the particle has an amplitude to go from m to n. The reason it is multiplied by i is that the condition that U is unitary translates to the condition:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (I+iH^{\dagger }dt)(I-iHdt)=I\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>I</mi>
+        <mo>+</mo>
+        <mi>i</mi>
+        <msup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2020;<!-- † --></mo>
+          </mrow>
+        </msup>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <mi>I</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>i</mi>
+        <mi>H</mi>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>I</mi>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (I+iH^{\dagger }dt)(I-iHdt)=I\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1d0bd0ec21e1bb9dd2066e933d9df2096e6e69d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:27.145ex; height:3.176ex;" alt="&#10;(I + i H^\dagger dt )(I - i H dt ) = I&#10;\," /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H^{\dagger }-H=0\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2020;<!-- † --></mo>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>H</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H^{\dagger }-H=0\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/933265515e2ebaaffe2d1c13ed1be11c8869ad3e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:12.618ex; height:2.843ex;" alt="&#10;H^\dagger - H = 0&#10;\," /></span></dd>
+</dl>
+<p>which says that H is <a href="/wiki/Hermitian" class="mw-redirect" title="Hermitian">Hermitian</a>. The eigenvalues of the Hermitian matrix H are real quantities, which have a physical interpretation as energy levels. If the factor i were absent, the H matrix would be antihermitian and would have purely imaginary eigenvalues, which is not the traditional way quantum mechanics represents observable quantities like the energy.</p>
+<p>For a particle that has equal amplitude to move left and right, the Hermitian matrix H is zero except for nearest neighbors, where it has the value c. If the coefficient is everywhere constant, the condition that H is Hermitian demands that the amplitude to move to the left is the complex conjugate of the amplitude to move to the right. The equation of motion for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C8;<!-- ψ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.513ex; height:2.509ex;" alt="\psi " /></span> is the time differential equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i{d\psi _{n} \over dt}=c^{*}\psi _{n+1}+c\psi _{n-1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <msub>
+                <mi>&#x03C8;<!-- ψ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>n</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msup>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mi>c</mi>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i{d\psi _{n} \over dt}=c^{*}\psi _{n+1}+c\psi _{n-1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a98eaecd15b108818a7ee48fc4849436759e182b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:24.257ex; height:5.509ex;" alt="&#10;i{d \psi_n \over dt} = c^* \psi_{n+1} + c \psi_{n-1}&#10;" /></span></dd>
+</dl>
+<p>In the case that left and right are symmetric, c is real. By redefining the phase of the wavefunction in time, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi \rightarrow \psi e^{i2ct}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mn>2</mn>
+            <mi>c</mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi \rightarrow \psi e^{i2ct}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/918ea65c5833d2d1bf64002bc7f238ba6e99b0b5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:10.651ex; height:3.009ex;" alt=" \psi\rightarrow \psi e^{i2ct}" /></span>, the amplitudes for being at different locations are only rescaled, so that the physical situation is unchanged. But this phase rotation introduces a linear term.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i{d\psi _{n} \over dt}=c\psi _{n+1}-2c\psi _{n}+c\psi _{n-1},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <msub>
+                <mi>&#x03C8;<!-- ψ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>n</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>c</mi>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mi>c</mi>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mi>c</mi>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i{d\psi _{n} \over dt}=c\psi _{n+1}-2c\psi _{n}+c\psi _{n-1},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c221a1cf91ed6e9cf4fb7e54dc66a3a41ea7a785" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:31.591ex; height:5.509ex;" alt="{\displaystyle i{d\psi _{n} \over dt}=c\psi _{n+1}-2c\psi _{n}+c\psi _{n-1},}" /></span></dd>
+</dl>
+<p>which is the right choice of phase to take the continuum limit. When <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle c}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>c</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;" alt="c" /></span> is very large and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C8;<!-- ψ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.513ex; height:2.509ex;" alt="\psi " /></span> is slowly varying so that the lattice can be thought of as a line, this becomes the free <a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger equation</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i{\partial \psi  \over \partial t}=-{\partial ^{2}\psi  \over \partial x^{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>&#x03C8;<!-- ψ --></mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mi>&#x03C8;<!-- ψ --></mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i{\partial \psi  \over \partial t}=-{\partial ^{2}\psi  \over \partial x^{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b442b6acbd4a74eab552d537e322a3d17eba74b0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:14.123ex; height:6.009ex;" alt="&#10;i{ \partial \psi \over \partial t } = - {\partial^2 \psi \over \partial x^2}&#10;" /></span></dd>
+</dl>
+<p>If there is an additional term in the H matrix that is an extra phase rotation that varies from point to point, the continuum limit is the Schrödinger equation with a potential energy:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i{\partial \psi  \over \partial t}=-{\partial ^{2}\psi  \over \partial x^{2}}+V(x)\psi }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>&#x03C8;<!-- ψ --></mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mi>&#x03C8;<!-- ψ --></mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mi>V</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mi>&#x03C8;<!-- ψ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i{\partial \psi  \over \partial t}=-{\partial ^{2}\psi  \over \partial x^{2}}+V(x)\psi }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/587603c4ef434cd0046294e6ff7df271d8dafea5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:23.403ex; height:6.009ex;" alt="&#10;i{ \partial \psi \over \partial t} = - {\partial^2 \psi \over \partial x^2} + V(x) \psi&#10;" /></span></dd>
+</dl>
+<p>These equations describe the motion of a single particle in non-relativistic quantum mechanics.</p>
+<h3><span class="mw-headline" id="Quantum_mechanics_in_imaginary_time">Quantum mechanics in imaginary time</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=3" title="Edit section: Quantum mechanics in imaginary time">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The analogy between quantum mechanics and probability is very strong, so that there are many mathematical links between them. In a statistical system in discrete time, t=1,2,3, described by a transition matrix for one time step <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \scriptstyle K_{m\rightarrow n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <msub>
+            <mi>K</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>m</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle K_{m\rightarrow n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f0f95239d5221f84c7a0e616a30e5d73afe8d720" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:4.865ex; height:1.843ex;" alt="\scriptstyle K_{m\rightarrow n}" /></span>, the probability to go between two points after a finite number of time steps can be represented as a sum over all paths of the probability of taking each path:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle K_{x\rightarrow y}(T)=\sum _{x(t)}\prod _{t}K_{x(t)x(t+1)}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </munder>
+        <munder>
+          <mo>&#x220F;<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+            <mi>x</mi>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K_{x\rightarrow y}(T)=\sum _{x(t)}\prod _{t}K_{x(t)x(t+1)}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d13160a89addadb49efd526602ab8f0fc44fd6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.505ex; width:29.568ex; height:6.009ex;" alt="&#10;K_{x\rightarrow y}(T) = \sum_{x(t)} \prod_t K_{x(t)x(t+1)}&#10;\," /></span></dd>
+</dl>
+<p>where the sum extends over all paths <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d54c275db3a1e620737b58e143b0818107fa5f5c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.979ex; height:2.843ex;" alt="x(t)" /></span> with the property that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x(0)=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x(0)=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19f519ea5873571dc27ee09e1a2892a22af7c7a7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.562ex; height:2.843ex;" alt="x(0)=0" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x(T)=y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x(T)=y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84200b74641f15d1638d5388e43f939688507e60" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.029ex; height:2.843ex;" alt="x(T)=y" /></span>. The analogous expression in quantum mechanics is the <a href="/wiki/Path_integral_formulation" title="Path integral formulation">path integral</a>.</p>
+<p>A generic transition matrix in probability has a stationary distribution, which is the eventual probability to be found at any point no matter what the starting point. If there is a nonzero probability for any two paths to reach the same point at the same time, this stationary distribution does not depend on the initial conditions. In probability theory, the probability m for the stochastic matrix obeys <a href="/wiki/Detailed_balance" title="Detailed balance">detailed balance</a> when the stationary distribution <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho _{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho _{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aae86a9b5e3ef50889d51507f5f05a1dd66fd356" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.42ex; height:2.176ex;" alt="\rho_n" /></span> has the property:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho _{n}K_{n\rightarrow m}=\rho _{m}K_{m\rightarrow n}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho _{n}K_{n\rightarrow m}=\rho _{m}K_{m\rightarrow n}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00151bebc795737f2ab040788c23c4ea90c040c9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:21.338ex; height:2.676ex;" alt="&#10;\rho_n K_{n\rightarrow m} = \rho_m K_{m\rightarrow n}&#10;\," /></span></dd>
+</dl>
+<p>Detailed balance says that the total probability of going from m to n in the stationary distribution, which is the probability of starting at m <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho _{m}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho _{m}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb8e01f5f9a1ec7641573c415df8bfa942a42a78" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.877ex; height:2.176ex;" alt="\rho_m" /></span> times the probability of hopping from m to n, is equal to the probability of going from n to m, so that the total back-and-forth flow of probability in equilibrium is zero along any hop. The condition is automatically satisfied when n=m, so it has the same form when written as a condition for the transition-probability R matrix.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho _{n}R_{n\rightarrow m}=\rho _{m}R_{m\rightarrow n}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho _{n}R_{n\rightarrow m}=\rho _{m}R_{m\rightarrow n}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d223ce594945096e6a2a6108c6412e0e5a84bbfe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.92ex; height:2.676ex;" alt="&#10;\rho_n R_{n\rightarrow m} = \rho_m R_{m\rightarrow n}&#10;\," /></span></dd>
+</dl>
+<p>When the R matrix obeys detailed balance, the scale of the probabilities can be redefined using the stationary distribution so that they no longer sum to 1:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p'_{n}={\sqrt {\rho _{n}}}\;p_{n}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+          <mo>&#x2032;</mo>
+        </msubsup>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <msub>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </msqrt>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p'_{n}={\sqrt {\rho _{n}}}\;p_{n}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2caedc8f9c2a3f9fdbe571c38cdb1ea300e885fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; margin-left: -0.089ex; width:13.352ex; height:3.009ex;" alt="&#10;p&#039;_n = \sqrt{\rho_n}\;p_n&#10;\," /></span></dd>
+</dl>
+<p>In the new coordinates, the R matrix is rescaled as follows:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\sqrt {\rho _{n}}}R_{n\rightarrow m}{1 \over {\sqrt {\rho _{m}}}}=H_{nm}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <msub>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </msqrt>
+        </mrow>
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow class="MJX-TeXAtom-ORD">
+              <msqrt>
+                <msub>
+                  <mi>&#x03C1;<!-- ρ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>m</mi>
+                  </mrow>
+                </msub>
+              </msqrt>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {\rho _{n}}}R_{n\rightarrow m}{1 \over {\sqrt {\rho _{m}}}}=H_{nm}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19ff85efd619d63c166ff5492fab4c8ebefbf1c8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:24.152ex; height:6.176ex;" alt="&#10;\sqrt{\rho_n} R_{n\rightarrow m} {1\over \sqrt{\rho_m}} = H_{nm}&#10;\," /></span></dd>
+</dl>
+<p>and H is symmetric</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H_{nm}=H_{mn}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H_{nm}=H_{mn}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49455da3fa67f150056551e5e729410a2d3f40f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.671ex; height:2.509ex;" alt="&#10;H_{nm} = H_{mn}&#10;\," /></span></dd>
+</dl>
+<p>This matrix H defines a quantum mechanical system:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i{d \over dt}\psi _{n}=\sum H_{nm}\psi _{m}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>d</mi>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2211;<!-- ∑ --></mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i{d \over dt}\psi _{n}=\sum H_{nm}\psi _{m}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9cc359bc0c54e915701eae541eb33a86ad8c5424" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:21.434ex; height:5.509ex;" alt="&#10;i{d \over dt} \psi_n = \sum H_{nm} \psi_m&#10;\," /></span></dd>
+</dl>
+<p>whose Hamiltonian has the same eigenvalues as those of the R matrix of the statistical system. The <a href="/wiki/Eigenvectors" class="mw-redirect" title="Eigenvectors">eigenvectors</a> are the same too, except expressed in the rescaled basis. The stationary distribution of the statistical system is the <i>ground state</i> of the Hamiltonian and it has energy exactly zero, while all the other energies are positive. If H is exponentiated to find the U matrix:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle U(t)=e^{-iHt}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>U</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>i</mi>
+            <mi>H</mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle U(t)=e^{-iHt}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c35103fcb568e949bbfdc522af168abd06219d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.132ex; height:3.176ex;" alt="&#10;U(t) = e^{-iHt}&#10;\," /></span></dd>
+</dl>
+<p>and t is allowed to take on complex values, the K' matrix is found by taking <a href="/wiki/Imaginary_time" title="Imaginary time">time imaginary</a>.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle K'(t)=e^{-Ht}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>K</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>H</mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K'(t)=e^{-Ht}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99534a85664614f95c58b266d1158cc11d95dc9f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.56ex; height:3.176ex;" alt="&#10;K&#039;(t) = e^{-Ht}&#10;\," /></span></dd>
+</dl>
+<p>For quantum systems which are invariant under <a href="/wiki/T-symmetry" title="T-symmetry">time reversal</a> the Hamiltonian can be made real and symmetric, so that the action of time-reversal on the wave-function is just complex conjugation. If such a Hamiltonian has a unique lowest energy state with a positive real wave-function, as it often does for physical reasons, it is connected to a stochastic system in imaginary time. This relationship between stochastic systems and quantum systems sheds much light on <a href="/wiki/Supersymmetry" title="Supersymmetry">supersymmetry</a>.</p>
+<h2><span class="mw-headline" id="Experiments_and_applications">Experiments and applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=4" title="Edit section: Experiments and applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Successful experiments involving superpositions of <a href="/wiki/Mesoscopic" class="mw-redirect" title="Mesoscopic">relatively large</a> (by the standards of quantum physics) objects have been performed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<ul>
+<li>A "cat state" has been achieved with <a href="/wiki/Photon" title="Photon">photons</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>A <a href="/wiki/Beryllium" title="Beryllium">beryllium</a> <a href="/wiki/Ion" title="Ion">ion</a> has been trapped in a superposed state.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li>A <a href="/wiki/Double_slit_experiment" class="mw-redirect" title="Double slit experiment">double slit experiment</a> has been performed with molecules as large as <a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene">buckyballs</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>A 2013 experiment superposed molecules containing 15,000 each of protons, neutrons and electrons. The molecules were of compounds selected for their good thermal stability, and were evaporated into a beam at a temperature of 600&#160;K. The beam was prepared from highly purified chemical substances, but still contained a mixture of different molecular species. Each species of molecule interfered only with itself, as verified by mass spectrometry.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>An experiment involving a <a href="/wiki/Superconducting_quantum_interference_device" class="mw-redirect" title="Superconducting quantum interference device">superconducting quantum interference device</a> ("SQUID") has been linked to the theme of the "cat state" thought experiment.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+</ul>
+<dl>
+<dd>By use of very low temperatures, very fine experimental arrangements were made to protect in near isolation and preserve the coherence of intermediate states, for a duration of time, between preparation and detection, of SQUID currents. Such a SQUID current is a coherent physical assembly of perhaps billions of electrons. Because of its coherence, such an assembly may be regarded as exhibiting "collective states" of a macroscopic quantal entity. For the principle of superposition, after it is prepared but before it is detected, it may be regarded as exhibiting an intermediate state. It is not a single-particle state such as is often considered in discussions of interference, for example by Dirac in his famous dictum stated above.<sup id="cite_ref-Dirac_9_8-0" class="reference"><a href="#cite_note-Dirac_9-8">[8]</a></sup> Moreover, though the 'intermediate' state may be loosely regarded as such, it has not been produced as an output of a secondary quantum analyser that was fed a pure state from a primary analyser, and so this is not an example of superposition as strictly and narrowly defined.</dd>
+</dl>
+<dl>
+<dd>Nevertheless, after preparation, but before measurement, such a SQUID state may be regarded in a manner of speaking as a "pure" state that is a superposition of a clockwise and an anti-clockwise current state. In a SQUID, collective electron states can be physically prepared in near isolation, at very low temperatures, so as to result in protected coherent intermediate states. Remarkable here is that there are found two well-separated respectively self-coherent collective states that exhibit such <a href="/wiki/Metastability" title="Metastability">metastability</a>. The crowd of electrons tunnels back and forth between the clockwise and the anti-clockwise states, as opposed to forming a single intermediate state in which there is no definite collective sense of current flow.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
+</dl>
+<dl>
+<dd>In contrast, for actual real cats, such well-separated metastable collective states states do not exist and consequently cannot be physically prepared. Schrödinger's point was that classical thinking does not in general anticipate such physically distinct and separate metastable quantum states. In classical thinking, distinct quantum states even of single atoms can indeed be regarded as metastable, and are remarkable and unexpected. In the days when Schrödinger raised his argumentative example, no one had imagined the invention of SQUIDs that exhibit such states on a macroscopic scale. The present-day physicist here pays close attention to the requirement mentioned above, that the intermediate states must be carefully physically shielded to protect them from any factor that affects some of the independent quantal entities (in this case collective not single particle) differently from others. Contrary to this requirement, the living cat breathes. This destroys intermediate state coherence, and so the conditions required for exhibition of the principle of superposition are not fulfilled.</dd>
+</dl>
+<ul>
+<li>An experiment involving a <a href="/wiki/Flu_virus" class="mw-redirect" title="Flu virus">flu virus</a> has been proposed.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>A <a href="/wiki/Piezoelectric" class="mw-redirect" title="Piezoelectric">piezoelectric</a> "<a href="/wiki/Tuning_fork" title="Tuning fork">tuning fork</a>" has been constructed, which can be placed into a superposition of vibrating and non-vibrating states. The resonator comprises about 10 trillion atoms.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li>Recent research indicates that <a href="/wiki/Chlorophyll" title="Chlorophyll">chlorophyll</a> within <a href="/wiki/Plants" class="mw-redirect" title="Plants">plants</a> appears to exploit the feature of quantum superposition to achieve greater efficiency in transporting energy, allowing pigment proteins to be spaced further apart than would otherwise be possible.<sup id="cite_ref-doi:10.1038/nature08811_13-0" class="reference"><a href="#cite_note-doi:10.1038/nature08811-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>An experiment has been proposed, with a <a href="/wiki/Bacterium" class="mw-redirect" title="Bacterium">bacterial cell</a> cooled to 10&#160;mK, using an electromechanical oscillator.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> At that temperature, all metabolism would be stopped, and the cell might behave virtually as a definite chemical species. For detection of interference, it would be necessary that the cells be supplied in large numbers as pure samples of identical and detectably recognizable virtual chemical species. It is not known whether this requirement can be met by bacterial cells. They would be in a state of suspended animation during the experiment.</li>
+</ul>
+<p>In <a href="/wiki/Quantum_computing" title="Quantum computing">quantum computing</a> the phrase "<a href="/wiki/Cat_state" title="Cat state">cat state</a>" often refers to the special entanglement of <a href="/wiki/Qubit" title="Qubit">qubits</a> wherein the qubits are in an equal superposition of all being 0 and all being 1; i.e.,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |\psi \rangle ={\frac {1}{\sqrt {2}}}{\bigg (}|00...0\rangle +|11...1\rangle {\bigg )}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>&#x03C8;<!-- ψ --></mi>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msqrt>
+              <mn>2</mn>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo maxsize="2.047em" minsize="2.047em">(</mo>
+          </mrow>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mn>00...0</mn>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mn>11...1</mn>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo maxsize="2.047em" minsize="2.047em">)</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |\psi \rangle ={\frac {1}{\sqrt {2}}}{\bigg (}|00...0\rangle +|11...1\rangle {\bigg )}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f564672dcc7ed26dac017bbdb1b7e13985be5394" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:30.318ex; height:6.509ex;" alt=" | \psi \rangle = \frac{1}{\sqrt{2}} \bigg( | 00...0 \rangle + |11...1 \rangle \bigg) " /></span>.</dd>
+</dl>
+<h2><span class="mw-headline" id="Formal_interpretation">Formal interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=5" title="Edit section: Formal interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Applying the <a href="/wiki/Superposition_principle" title="Superposition principle">superposition principle</a> to a quantum mechanical particle, the configurations of the particle are all positions, so the superpositions make a complex wave in space. The coefficients of the linear superposition are a wave which describes the particle as best as is possible, and whose amplitude <a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">interferes</a> according to the <a href="/wiki/Huygens_principle" class="mw-redirect" title="Huygens principle">Huygens principle</a>.</p>
+<p>For any physical property in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>, there is a list of all the states where that property has some value. These states are necessarily perpendicular to each other using the Euclidean notion of perpendicularity which comes from sums-of-squares length, except that they also must not be i multiples of each other. This list of perpendicular states has an associated value which is the value of the physical property. The superposition principle guarantees that any state can be written as a combination of states of this form with complex coefficients.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (September 2017)">clarification needed</span></a></i>]</sup></p>
+<p>Write each state with the value q of the physical quantity as a vector in some basis <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi _{n}^{q}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>q</mi>
+          </mrow>
+        </msubsup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi _{n}^{q}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f33c33b27a7c25b41e07cf2ccefd27c4e43906f4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.732ex; height:2.843ex;" alt="\psi^q_n" /></span>, a list of numbers at each value of n for the vector which has value q for the physical quantity. Now form the outer product of the vectors by multiplying all the vector components and add them with coefficients to make the matrix</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A_{nm}=\sum _{q}q\psi _{n}^{*q}\psi _{m}^{q}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>A</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>q</mi>
+          </mrow>
+        </munder>
+        <mi>q</mi>
+        <msubsup>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+            <mi>q</mi>
+          </mrow>
+        </msubsup>
+        <msubsup>
+          <mi>&#x03C8;<!-- ψ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>q</mi>
+          </mrow>
+        </msubsup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A_{nm}=\sum _{q}q\psi _{n}^{*q}\psi _{m}^{q}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b5252515a12b16db59464da837fb16c870100c10" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:18.826ex; height:5.676ex;" alt="&#10;A_{nm} = \sum_q q \psi^{*q}_n \psi^q_m&#10;" /></span></dd>
+</dl>
+<p>where the sum extends over all possible values of q. This matrix is necessarily symmetric because it is formed from the orthogonal states, and has eigenvalues q. The matrix A is called the observable associated to the physical quantity. It has the property that the eigenvalues and eigenvectors determine the physical quantity and the states which have definite values for this quantity.</p>
+<p>Every physical quantity has a <a href="/wiki/Hermitian_operator" class="mw-redirect" title="Hermitian operator">Hermitian</a> <a href="/wiki/Linear_operator" class="mw-redirect" title="Linear operator">linear operator</a> associated to it, and the states where the value of this physical quantity is definite are the <a href="/wiki/Eigenstate" class="mw-redirect" title="Eigenstate">eigenstates</a> of this linear operator. The linear combination of two or more eigenstates results in quantum superposition of two or more values of the quantity. If the quantity is measured, the value of the physical quantity will be random, with a probability equal to the square of the coefficient of the superposition in the linear combination. Immediately after the measurement, the state will be given by the eigenvector corresponding to the measured eigenvalue.</p>
+<h2><span class="mw-headline" id="Physical_interpretation">Physical interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=6" title="Edit section: Physical interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is natural to ask why ordinary everyday objects and events do not seem to display quantum mechanical features such as superposition. Indeed, this is sometimes regarded as "mysterious", for instance by Richard Feynman.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> In 1935, <a href="/wiki/Erwin_Schr%C3%B6dinger" title="Erwin Schrödinger">Erwin Schrödinger</a> devised a well-known thought experiment, now known as <a href="/wiki/Schr%C3%B6dinger%27s_cat" title="Schrödinger's cat">Schrödinger's cat</a>, which highlighted this dissonance between quantum mechanics and classical physics. The modern view is that this mystery is explained by <a href="/wiki/Quantum_decoherence" title="Quantum decoherence">quantum decoherence</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2017)">citation needed</span></a></i>]</sup>. A macroscopic system (such as a cat) may evolve over time into a superposition of classically distinct quantum states (such as "alive" and "dead"). However, the state of the cat is entangled with the state of its environment (for instance, the molecules in the atmosphere surrounding it). If one averages over the quantum states of the environment—a physically reasonable procedure unless the quantum state of all the particles making up the environment can be controlled or measured precisely—the resulting <a href="/wiki/Density_matrix" title="Density matrix">mixed quantum state</a> for the cat is very close to a classical probabilistic state where the cat has some definite probability to be dead or alive, just as a classical observer would expect in this situation.</p>
+<p>Quantum superposition is exhibited in fact in many directly observable phenomena, such as <a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">interference</a> peaks from an <a href="/wiki/Electron" title="Electron">electron</a> <a href="/wiki/Wave" title="Wave">wave</a> in a <a href="/wiki/Double-slit_experiment" title="Double-slit experiment">double-slit experiment</a>. Superposition persists at all scales, provided that coherence is shielded from disruption by intermittent external factors.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup></p>
+<p>The Heisenberg <a href="/wiki/Uncertainty_principle" title="Uncertainty principle">uncertainty principle</a> declares that for any given instant of time, the position and velocity of an electron or other subatomic particle cannot both be exactly determined, and that a state where one of them has a definite value corresponds to a superposition of many states for the other.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title=" (August 2017)">why?</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Eigenstates" class="mw-redirect" title="Eigenstates">Eigenstates</a></li>
+<li><a href="/wiki/Mach-Zehnder_interferometer" class="mw-redirect" title="Mach-Zehnder interferometer">Mach-Zehnder interferometer</a></li>
+<li><a href="/wiki/Penrose_Interpretation" class="mw-redirect" title="Penrose Interpretation">Penrose Interpretation</a></li>
+<li><a href="/wiki/Pure_qubit_state" class="mw-redirect" title="Pure qubit state">Pure qubit state</a></li>
+<li><a href="/wiki/Quantum_computation" class="mw-redirect" title="Quantum computation">Quantum computation</a></li>
+<li><a href="/wiki/Schr%C3%B6dinger%27s_cat" title="Schrödinger's cat">Schrödinger's cat</a></li>
+<li><a href="/wiki/Superposition_principle" title="Superposition principle">Superposition principle</a></li>
+<li><a href="/wiki/Wave_packet" title="Wave packet">Wave packet</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://physics.stackexchange.com/questions/3309/what-is-the-worlds-biggest-schrodinger-cat">"What is the world's biggest Schrodinger cat?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+the+world%27s+biggest+Schrodinger+cat%3F&amp;rft_id=http%3A%2F%2Fphysics.stackexchange.com%2Fquestions%2F3309%2Fwhat-is-the-worlds-biggest-schrodinger-cat&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.science20.com/news_articles/schr%C3%B6dingers_cat_now_made_light">"Schrödinger's Cat Now Made Of Light"</a>. 27 August 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Schr%C3%B6dinger%27s+Cat+Now+Made+Of+Light&amp;rft.date=2014-08-27&amp;rft_id=http%3A%2F%2Fwww.science20.com%2Fnews_articles%2Fschr%25C3%25B6dingers_cat_now_made_light&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">C. Monroe, et. al. <a rel="nofollow" class="external text" href="http://www.quantumsciencephilippines.com/seminar/seminar-topics/SchrodingerCatAtom.pdf"><i>A "Schrodinger Cat" Superposition State of an Atom</i></a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120331115055/http://www.quantum.at/research/molecule-interferometry-foundations/wave-particle-duality-of-c60.html">"Wave-particle duality of C60"</a>. 31 March 2012. Archived from the original on 31 March 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wave-particle+duality+of+C60&amp;rft.date=2012-03-31&amp;rft_id=http%3A%2F%2Fwww.quantum.at%2Fresearch%2Fmolecule-interferometry-foundations%2Fwave-particle-duality-of-c60.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Nairz, Olaf. <a rel="nofollow" class="external text" href="http://www.univie.ac.at/qfp/research/matterwave/stehwelle/standinglightwave.html">"standinglightwave"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=standinglightwave&amp;rft.aulast=Nairz&amp;rft.aufirst=Olaf&amp;rft_id=http%3A%2F%2Fwww.univie.ac.at%2Fqfp%2Fresearch%2Fmatterwave%2Fstehwelle%2Fstandinglightwave.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Eibenberger, S., Gerlich, S., Arndt, M., Mayor, M., Tüxen, J. (2013). "Matter-wave interference with particles selected from a molecular library with masses exceeding 10 000 amu", <i>Physical Chemistry Chemical Physics</i>, <b>15</b>: 14696-14700. <a rel="nofollow" class="external autonumber" href="https://arxiv.org/abs/1310.8343">[1]</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Leggett, A. J. (1986). "The superposition principle in macroscopic systems", pp. 28–40 in <i>Quantum Concepts of Space and Time</i>, edited by R. Penrose and C.J. Isham, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-851972-9" title="Special:BookSources/0-19-851972-9">0-19-851972-9</a>.</span></li>
+<li id="cite_note-Dirac_9-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dirac_9_8-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac, P. A. M.</a> (1930/1958), p. 9.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://physicsworld.com/cws/article/news/2815">Physics World: <i>Schrodinger's cat comes into view</i></a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Friedman, J. R., Patel, V., Chen, W., Tolpygo, S. K., Lukens, J. E. (2000).<a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v406/n6791/pdf/406043a0.pdf">"Quantum superposition of distinct macroscopic states"</a>, <i>Nature</i> <b>406</b>: 43–46.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.technologyreview.com/blog/arxiv/24101/">"How to Create Quantum Superpositions of Living Things"</a>&gt;</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Scientific American: <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article.cfm?id=quantum-microphone"><i>Macro-Weirdness: "Quantum Microphone" Puts Naked-Eye Object in 2 Places at Once: A new device tests the limits of Schrödinger's cat</i></a></span></li>
+<li id="cite_note-doi:10.1038/nature08811-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-doi:10.1038/nature08811_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Scholes, Gregory; Elisabetta Collini; Cathy Y. Wong; Krystyna E. Wilk; Paul M. G. Curmi; Paul Brumer; Gregory D. Scholes (4 February 2010). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v463/n7281/full/nature08811.html">"Coherently wired light-harvesting in photosynthetic marine algae at ambient temperature"</a>. <i>Nature</i>. <b>463</b> (7281): 644–647. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010Natur.463..644C">2010Natur.463..644C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnature08811">10.1038/nature08811</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20130647">20130647</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Coherently+wired+light-harvesting+in+photosynthetic+marine+algae+at+ambient+temperature&amp;rft.volume=463&amp;rft.issue=7281&amp;rft.pages=644-647&amp;rft.date=2010-02-04&amp;rft_id=info%3Apmid%2F20130647&amp;rft_id=info%3Adoi%2F10.1038%2Fnature08811&amp;rft_id=info%3Abibcode%2F2010Natur.463..644C&amp;rft.aulast=Scholes&amp;rft.aufirst=Gregory&amp;rft.au=Elisabetta+Collini&amp;rft.au=Cathy+Y.+Wong&amp;rft.au=Krystyna+E.+Wilk&amp;rft.au=Paul+M.+G.+Curmi&amp;rft.au=Paul+Brumer&amp;rft.au=Gregory+D.+Scholes&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv463%2Fn7281%2Ffull%2Fnature08811.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Moyer, Michael (September 2009). <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article.cfm?id=quantum-entanglement-and-photo">"Quantum Entanglement, Photosynthesis and Better Solar Cells"</a>. <i>Scientific American</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Scientific+American&amp;rft.atitle=Quantum+Entanglement%2C+Photosynthesis+and+Better+Solar+Cells&amp;rft.date=2009-09&amp;rft.aulast=Moyer&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle.cfm%3Fid%3Dquantum-entanglement-and-photo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://physicsworld.com/cws/article/news/2015/sep/21/could-schrodingers-bacterium-be-placed-in-a-quantum-superposition">"Could 'Schrödinger's bacterium' be placed in a quantum superposition?"</a>&gt;</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman, R. P.</a>, Leighton, R. B., Sands, M. (1965), § 1-1.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography_of_cited_references">Bibliography of cited references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit&amp;section=9" title="Edit section: Bibliography of cited references">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Niels_Bohr" title="Niels Bohr">Bohr, N.</a> (1927/1928). The quantum postulate and the recent development of atomic theory, <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v121/n3050/abs/121580a0.html"><i>Nature</i> Supplement 14 April 1928, <b>121</b>: 580–590</a>.</li>
+<li><a href="/wiki/Claude_Cohen-Tannoudji" title="Claude Cohen-Tannoudji">Cohen-Tannoudji, C.</a>, Diu, B., Laloë, F. (1973/1977). <i>Quantum Mechanics</i>, translated from the French by S. R. Hemley, N. Ostrowsky, D. Ostrowsky, second edition, volume 1, Wiley, New York, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0471164321" title="Special:BookSources/0471164321">0471164321</a>.</li>
+<li><a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac, P. A. M.</a> (1930/1958). <i>The Principles of Quantum Mechanics</i>, 4th edition, Oxford University Press.</li>
+<li><a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein, A.</a> (1949). Remarks concerning the essays brought together in this co-operative volume, translated from the original German by the editor, pp.&#160;665–688 in <a href="/wiki/Paul_Arthur_Schilpp" title="Paul Arthur Schilpp">Schilpp, P. A.</a> editor (1949), <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/albert-einstein-philosopher-scientist/oclc/311439"><i>Albert Einstein: Philosopher-Scientist</i></a>, volume <span class="texhtml">II</span>, Open Court, La Salle IL.</li>
+<li><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman, R. P.</a>, Leighton, R.B., Sands, M. (1965). <i>The Feynman Lectures on Physics</i>, volume 3, Addison-Wesley, Reading, MA.</li>
+<li><a href="/wiki/Eugen_Merzbacher" title="Eugen Merzbacher">Merzbacher, E.</a> (1961/1970). <i>Quantum Mechanics</i>, second edition, Wiley, New York.</li>
+<li><a href="/wiki/Albert_Messiah" title="Albert Messiah">Messiah, A.</a> (1961). <i>Quantum Mechanics</i>, volume 1, translated by G.M. Temmer from the French <i>Mécanique Quantique</i>, North-Holland, Amsterdam.</li>
+<li><cite id="CITEREFWheelerZurek1983" class="citation book"><a href="/wiki/John_Archibald_Wheeler" title="John Archibald Wheeler">Wheeler, J. A.</a>; <a href="/wiki/Wojciech_H._Zurek" title="Wojciech H. Zurek">Zurek, W.H.</a> (1983). <i>Quantum Theory and Measurement</i>. Princeton NJ: Princeton University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Theory+and+Measurement&amp;rft.place=Princeton+NJ&amp;rft.pub=Princeton+University+Press&amp;rft.date=1983&amp;rft.aulast=Wheeler&amp;rft.aufirst=J.+A.&amp;rft.au=Zurek%2C+W.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+superposition" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Quantum_mechanics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Quantum_mechanics_topics" title="Template:Quantum mechanics topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Quantum_mechanics_topics" title="Template talk:Quantum mechanics topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Quantum_mechanics_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Quantum_mechanics" style="font-size:114%;margin:0 4em"><a href="/wiki/Quantum_mechanics" title="Quantum mechanics">Quantum mechanics</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Background</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Introduction_to_quantum_mechanics" title="Introduction to quantum mechanics">Introduction</a></li>
+<li><a href="/wiki/History_of_quantum_mechanics" title="History of quantum mechanics">History</a>
+<ul>
+<li><a href="/wiki/Timeline_of_quantum_mechanics" title="Timeline of quantum mechanics">timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical mechanics</a></li>
+<li><a href="/wiki/Old_quantum_theory" title="Old quantum theory">Old quantum theory</a></li>
+<li><a href="/wiki/Glossary_of_elementary_quantum_mechanics" title="Glossary of elementary quantum mechanics">Glossary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Fundamentals</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bra%E2%80%93ket_notation" title="Bra–ket notation">Bra–ket notation</a></li>
+<li><a href="/wiki/Complementarity_(physics)" title="Complementarity (physics)">Complementarity</a></li>
+<li><a href="/wiki/Density_matrix" title="Density matrix">Density matrix</a></li>
+<li><a href="/wiki/Energy_level" title="Energy level">Energy level</a>
+<ul>
+<li><a href="/wiki/Ground_state" title="Ground state">ground state</a></li>
+<li><a href="/wiki/Excited_state" title="Excited state">excited state</a></li>
+<li><a href="/wiki/Degenerate_energy_levels" title="Degenerate energy levels">degenerate levels</a></li>
+<li><a href="/wiki/Zero-point_energy" title="Zero-point energy">zero-point energy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_entanglement" title="Quantum entanglement">Entanglement</a></li>
+<li><a href="/wiki/Hamiltonian_(quantum_mechanics)" title="Hamiltonian (quantum mechanics)">Hamiltonian</a></li>
+<li><a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">Interference</a></li>
+<li><a href="/wiki/Quantum_decoherence" title="Quantum decoherence">Decoherence</a></li>
+<li><a href="/wiki/Measurement_in_quantum_mechanics" title="Measurement in quantum mechanics">Measurement</a></li>
+<li><a href="/wiki/Quantum_nonlocality" title="Quantum nonlocality">Nonlocality</a></li>
+<li><a href="/wiki/Quantum_state" title="Quantum state">Quantum state</a></li>
+<li><a class="mw-selflink selflink">Superposition</a></li>
+<li><a href="/wiki/Quantum_tunnelling" title="Quantum tunnelling">Tunnelling</a></li>
+<li><a href="/wiki/Scattering_theory" title="Scattering theory">Scattering theory</a></li>
+<li><a href="/wiki/Symmetry_in_quantum_mechanics" title="Symmetry in quantum mechanics">Symmetry in quantum mechanics</a></li>
+<li><a href="/wiki/Uncertainty_principle" title="Uncertainty principle">Uncertainty</a></li>
+<li><a href="/wiki/Wave_function" title="Wave function">Wave function</a>
+<ul>
+<li><a href="/wiki/Wave_function_collapse" title="Wave function collapse">collapse</a></li>
+<li><a href="/wiki/Wave%E2%80%93particle_duality" title="Wave–particle duality">wave–particle duality</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Formulations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mathematical_formulation_of_quantum_mechanics" title="Mathematical formulation of quantum mechanics">Formulations</a></li>
+<li><a href="/wiki/Heisenberg_picture" title="Heisenberg picture">Heisenberg</a></li>
+<li><a href="/wiki/Interaction_picture" title="Interaction picture">Interaction</a></li>
+<li><a href="/wiki/Matrix_mechanics" title="Matrix mechanics">Matrix mechanics</a></li>
+<li><a href="/wiki/Schr%C3%B6dinger_picture" title="Schrödinger picture">Schrödinger</a></li>
+<li><a href="/wiki/Path_integral_formulation" title="Path integral formulation">Path integral formulation</a></li>
+<li><a href="/wiki/Phase_space_formulation" title="Phase space formulation">Phase space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Equations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dirac_equation" title="Dirac equation">Dirac</a></li>
+<li><a href="/wiki/Klein%E2%80%93Gordon_equation" title="Klein–Gordon equation">Klein–Gordon</a></li>
+<li><a href="/wiki/Pauli_equation" title="Pauli equation">Pauli</a></li>
+<li><a href="/wiki/Rydberg_formula" title="Rydberg formula">Rydberg</a></li>
+<li><a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Interpretations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpretations_of_quantum_mechanics" title="Interpretations of quantum mechanics">Interpretations</a></li>
+<li><a href="/wiki/Quantum_Bayesianism" title="Quantum Bayesianism">Bayesian</a></li>
+<li><a href="/wiki/Consistent_histories" title="Consistent histories">Consistent histories</a></li>
+<li><a href="/wiki/Copenhagen_interpretation" title="Copenhagen interpretation">Copenhagen</a></li>
+<li><a href="/wiki/De_Broglie%E2%80%93Bohm_theory" title="De Broglie–Bohm theory">de Broglie–Bohm</a></li>
+<li><a href="/wiki/Ensemble_interpretation" title="Ensemble interpretation">Ensemble</a></li>
+<li><a href="/wiki/Hidden_variable_theory" title="Hidden variable theory">Hidden variables</a></li>
+<li><a href="/wiki/Many-worlds_interpretation" title="Many-worlds interpretation">Many-worlds</a></li>
+<li><a href="/wiki/Objective_collapse_theory" title="Objective collapse theory">Objective collapse</a></li>
+<li><a href="/wiki/Quantum_logic" title="Quantum logic">Quantum logic</a></li>
+<li><a href="/wiki/Relational_quantum_mechanics" title="Relational quantum mechanics">Relational</a></li>
+<li><a href="/wiki/Stochastic_quantum_mechanics" title="Stochastic quantum mechanics">Stochastic</a></li>
+<li><a href="/wiki/Transactional_interpretation" title="Transactional interpretation">Transactional</a></li>
+<li><a href="/wiki/Cosmological_interpretation_of_quantum_mechanics" title="Cosmological interpretation of quantum mechanics">Cosmological</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Experiments</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Afshar_experiment" title="Afshar experiment">Afshar</a></li>
+<li><a href="/wiki/Bell_test_experiments" title="Bell test experiments">Bell's inequality</a></li>
+<li><a href="/wiki/Cold_Atom_Laboratory" title="Cold Atom Laboratory">Cold Atom Laboratory</a></li>
+<li><a href="/wiki/Davisson%E2%80%93Germer_experiment" title="Davisson–Germer experiment">Davisson–Germer</a></li>
+<li><a href="/wiki/Delayed_choice_quantum_eraser" title="Delayed choice quantum eraser">Delayed choice quantum eraser</a></li>
+<li><a href="/wiki/Double-slit_experiment" title="Double-slit experiment">Double-slit</a></li>
+<li><a href="/wiki/Franck%E2%80%93Hertz_experiment" title="Franck–Hertz experiment">Franck–Hertz experiment</a></li>
+<li><a href="/wiki/Leggett%E2%80%93Garg_inequality" title="Leggett–Garg inequality">Leggett–Garg inequality</a></li>
+<li><a href="/wiki/Mach%E2%80%93Zehnder_interferometer" title="Mach–Zehnder interferometer">Mach-Zehnder inter.</a></li>
+<li><a href="/wiki/Elitzur%E2%80%93Vaidman_bomb_tester" title="Elitzur–Vaidman bomb tester">Elitzur–Vaidman</a></li>
+<li><a href="/wiki/Popper%27s_experiment" title="Popper's experiment">Popper</a></li>
+<li><a href="/wiki/Quantum_eraser_experiment" title="Quantum eraser experiment">Quantum eraser</a></li>
+<li><a href="/wiki/Schr%C3%B6dinger%27s_cat" title="Schrödinger's cat">Schrödinger's cat</a></li>
+<li><a href="/wiki/Stern%E2%80%93Gerlach_experiment" title="Stern–Gerlach experiment">Stern–Gerlach</a></li>
+<li><a href="/wiki/Wheeler%27s_delayed_choice_experiment" title="Wheeler's delayed choice experiment">Wheeler's delayed choice</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_nanoscience" title="Quantum nanoscience">Science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_Bayesianism" title="Quantum Bayesianism">Quantum Bayesianism</a></li>
+<li><a href="/wiki/Quantum_biology" title="Quantum biology">Quantum biology</a></li>
+<li><a href="/wiki/Quantum_calculus" title="Quantum calculus">Quantum calculus</a></li>
+<li><a href="/wiki/Quantum_chemistry" title="Quantum chemistry">Quantum chemistry</a></li>
+<li><a href="/wiki/Quantum_chaos" title="Quantum chaos">Quantum chaos</a></li>
+<li><a href="/wiki/Quantum_cognition" title="Quantum cognition">Quantum cognition</a></li>
+<li><a href="/wiki/Quantum_cosmology" title="Quantum cosmology">Quantum cosmology</a></li>
+<li><a href="/wiki/Quantum_differential_calculus" title="Quantum differential calculus">Quantum differential calculus</a></li>
+<li><a href="/wiki/Quantum_dynamics" title="Quantum dynamics">Quantum dynamics</a></li>
+<li><a href="/wiki/Quantum_evolution" title="Quantum evolution">Quantum evolution</a></li>
+<li><a href="/wiki/Quantum_geometry" title="Quantum geometry">Quantum geometry</a></li>
+<li><a href="/wiki/Quantum_group" title="Quantum group">Quantum group</a></li>
+<li><a href="/wiki/Measurement_problem" title="Measurement problem">Quantum measurement problem</a></li>
+<li><a href="/wiki/Quantum_mind" title="Quantum mind">Quantum mind</a></li>
+<li><a href="/wiki/Quantum_probability" title="Quantum probability">Quantum probability</a></li>
+<li><a href="/wiki/Quantum_stochastic_calculus" title="Quantum stochastic calculus">Quantum stochastic calculus</a></li>
+<li><a href="/wiki/Quantum_spacetime" title="Quantum spacetime">Quantum spacetime</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quantum_technology" title="Quantum technology">Technology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_algorithm" title="Quantum algorithm">Quantum algorithms</a></li>
+<li><a href="/wiki/Quantum_amplifier" title="Quantum amplifier">Quantum amplifier</a></li>
+<li><a href="/wiki/Quantum_bus" title="Quantum bus">Quantum bus</a></li>
+<li><a href="/wiki/Quantum_cellular_automaton" title="Quantum cellular automaton">Quantum cellular automata</a>
+<ul>
+<li><a href="/wiki/Quantum_finite_automata" title="Quantum finite automata">Quantum finite automata</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_channel" title="Quantum channel">Quantum channel</a></li>
+<li><a href="/wiki/Quantum_circuit" title="Quantum circuit">Quantum circuit</a></li>
+<li><a href="/wiki/Quantum_complexity_theory" title="Quantum complexity theory">Quantum complexity theory</a></li>
+<li><a href="/wiki/Quantum_computing" title="Quantum computing">Quantum computing</a>
+<ul>
+<li><a href="/wiki/Timeline_of_quantum_computing" title="Timeline of quantum computing">Timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_cryptography" title="Quantum cryptography">Quantum cryptography</a></li>
+<li><a href="/wiki/Quantum_electronics" class="mw-redirect" title="Quantum electronics">Quantum electronics</a></li>
+<li><a href="/wiki/Quantum_error_correction" title="Quantum error correction">Quantum error correction</a></li>
+<li><a href="/wiki/Quantum_imaging" title="Quantum imaging">Quantum imaging</a></li>
+<li><a href="/wiki/Quantum_image_processing" title="Quantum image processing">Quantum image processing</a></li>
+<li><a href="/wiki/Quantum_information" title="Quantum information">Quantum information</a></li>
+<li><a href="/wiki/Quantum_key_distribution" title="Quantum key distribution">Quantum key distribution</a></li>
+<li><a href="/wiki/Quantum_logic" title="Quantum logic">Quantum logic</a></li>
+<li><a href="/wiki/Quantum_gate" title="Quantum gate">Quantum logic gates</a></li>
+<li><a href="/wiki/Quantum_machine" title="Quantum machine">Quantum machine</a></li>
+<li><a href="/wiki/Quantum_machine_learning" title="Quantum machine learning">Quantum machine learning</a></li>
+<li><a href="/wiki/Quantum_metamaterial" title="Quantum metamaterial">Quantum metamaterial</a></li>
+<li><a href="/wiki/Quantum_metrology" title="Quantum metrology">Quantum metrology</a></li>
+<li><a href="/wiki/Quantum_network" title="Quantum network">Quantum network</a></li>
+<li><a href="/wiki/Quantum_neural_network" title="Quantum neural network">Quantum neural network</a></li>
+<li><a href="/wiki/Quantum_optics" title="Quantum optics">Quantum optics</a></li>
+<li><a href="/wiki/Quantum_programming" title="Quantum programming">Quantum programming</a></li>
+<li><a href="/wiki/Quantum_sensor" title="Quantum sensor">Quantum sensing</a></li>
+<li><a href="/wiki/Quantum_simulator" title="Quantum simulator">Quantum simulator</a></li>
+<li><a href="/wiki/Quantum_teleportation" title="Quantum teleportation">Quantum teleportation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Extensions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quantum_statistical_mechanics" title="Quantum statistical mechanics">Quantum statistical mechanics</a></li>
+<li><a href="/wiki/Relativistic_quantum_mechanics" title="Relativistic quantum mechanics">Relativistic quantum mechanics</a></li>
+<li><a href="/wiki/Quantum_field_theory" title="Quantum field theory">Quantum field theory</a>
+<ul>
+<li><a href="/wiki/History_of_quantum_field_theory" title="History of quantum field theory">history</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_gravity" title="Quantum gravity">Quantum gravity</a></li>
+<li><a href="/wiki/Fractional_quantum_mechanics" title="Fractional quantum mechanics">Fractional quantum mechanics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Quantum_mechanics" title="Category:Quantum mechanics">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Physics" title="Portal:Physics">Portal:Physics</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Quantum_mechanics" class="extiw" title="commons:Category:Quantum mechanics">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20180215094516
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.372 seconds
+Real time usage: 0.651 seconds
+Preprocessor visited node count: 2126/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73584/2097152 bytes
+Template argument size: 2843/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 3.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  314.002      1 -total
+ 39.16%  122.950      1 Template:Reflist
+ 15.80%   49.621      4 Template:Cite_web
+ 12.47%   39.159      1 Template:What
+ 11.60%   36.434      2 Template:ISBN
+ 11.23%   35.260      1 Template:Fix-span
+ 11.12%   34.932      1 Template:Quantum_mechanics_topics
+ 10.27%   32.255      1 Template:Navbox
+  9.85%   30.935      7 Template:Category_handler
+  9.32%   29.280      1 Template:Use_dmy_dates
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:82728-0!canonical!math=5 and timestamp 20180215094515 and revision id 822501600
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Quantum_superposition&amp;oldid=822501600">https://en.wikipedia.org/w/index.php?title=Quantum_superposition&amp;oldid=822501600</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Quantum_mechanics" title="Category:Quantum mechanics">Quantum mechanics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2010" title="Category:Use dmy dates from September 2010">Use dmy dates from September 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_September_2017" title="Category:Wikipedia articles needing clarification from September 2017">Wikipedia articles needing clarification from September 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2017" title="Category:Articles with unsourced statements from September 2017">Articles with unsourced statements from September 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2017" title="Category:Articles with unsourced statements from August 2017">Articles with unsourced statements from August 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2017" title="Category:Wikipedia articles needing clarification from August 2017">Wikipedia articles needing clarification from August 2017</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Quantum+superposition" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quantum+superposition" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Quantum_superposition" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Quantum_superposition" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Quantum_superposition">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Quantum_superposition&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Quantum_superposition&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quantum_superposition" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quantum_superposition" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Quantum_superposition&amp;oldid=822501600" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Quantum_superposition&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q830791" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Quantum_superposition&amp;id=822501600" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Quantum+superposition">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Quantum+superposition&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Quantum_superposition&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A7%D9%83%D8%A8_%D9%83%D9%85%D9%8A" title="تراكب كمي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F" title="Квантова суперпозиция – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Superposici%C3%B3_qu%C3%A0ntica" title="Superposició quàntica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kvantemekanisk_superposition" title="Kvantemekanisk superposition – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B2%CE%B1%CE%BD%CF%84%CE%B9%CE%BA%CE%AE_%CF%85%CF%80%CE%AD%CF%81%CE%B8%CE%B5%CF%83%CE%B7" title="Κβαντική υπέρθεση – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Superposici%C3%B3n_cu%C3%A1ntica" title="Superposición cuántica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%87%D9%85%E2%80%8C%D9%86%D9%87%DB%8C_%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C" title="برهم‌نهی کوانتومی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Principe_de_superposition_quantique" title="Principe de superposition quantique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%94%D5%BE%D5%A1%D5%B6%D5%BF%D5%A1%D5%B5%D5%AB%D5%B6_%D5%BE%D5%A5%D6%80%D5%A1%D5%A4%D6%80%D5%B8%D6%82%D5%B4" title="Քվանտային վերադրում – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kvantna_superpozicija" title="Kvantna superpozicija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Principio_di_sovrapposizione_(meccanica_quantistica)" title="Principio di sovrapposizione (meccanica quantistica) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A4%D7%A8%D7%A4%D7%95%D7%96%D7%99%D7%A6%D7%99%D7%94" title="סופרפוזיציה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kvantin%C4%97_superpozicija" title="Kvantinė superpozicija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kvantum-szuperpoz%C3%ADci%C3%B3" title="Kvantum-szuperpozíció – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%87%8D%E3%81%AD%E5%90%88%E3%82%8F%E3%81%9B" title="重ね合わせ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%81%E0%A8%86%E0%A8%82%E0%A8%9F%E0%A8%AE_%E0%A8%B8%E0%A9%81%E0%A8%AA%E0%A8%B0%E0%A8%AA%E0%A9%81%E0%A8%9C%E0%A9%80%E0%A8%B8%E0%A8%BC%E0%A8%A8" title="ਕੁਆਂਟਮ ਸੁਪਰਪੁਜੀਸ਼ਨ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sobreposi%C3%A7%C3%A3o_qu%C3%A2ntica" title="Sobreposição quântica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F" title="Квантовая суперпозиция – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Quantum_superposition" title="Quantum superposition – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Princ%C3%ADp_superpoz%C3%ADcie#Princíp_superpozície_v_kvantovej_mechanike" title="Princíp superpozície – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kvantna_superpozicija" title="Kvantna superpozicija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kvanttisuperpositio" title="Kvanttisuperpositio – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Superposisyong_quantum" title="Superposisyong quantum – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D_%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%88" title="குவாண்டம் நேரடுக்குமை – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82_%D0%BA%D1%83%D1%88%D1%83%D1%8B" title="Квант кушуы – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D1%96%D1%97_(%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D1%96%D0%BA%D0%B0)" title="Принцип суперпозиції (квантова механіка) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%93ng_ch%E1%BA%ADp_l%C6%B0%E1%BB%A3ng_t%E1%BB%AD" title="Chồng chập lượng tử – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%80%81%E5%8F%A0%E5%8A%A0%E5%8E%9F%E7%90%86" title="态叠加原理 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q830791#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 January 2018, at 19:02.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Quantum_superposition&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"0.651","ppvisitednodes":{"value":2126,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73584,"limit":2097152},"templateargumentsize":{"value":2843,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  314.002      1 -total"," 39.16%  122.950      1 Template:Reflist"," 15.80%   49.621      4 Template:Cite_web"," 12.47%   39.159      1 Template:What"," 11.60%   36.434      2 Template:ISBN"," 11.23%   35.260      1 Template:Fix-span"," 11.12%   34.932      1 Template:Quantum_mechanics_topics"," 10.27%   32.255      1 Template:Navbox","  9.85%   30.935      7 Template:Category_handler","  9.32%   29.280      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":3955690,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20180215094516","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1333"});});</script>
+	</body>
+</html>
