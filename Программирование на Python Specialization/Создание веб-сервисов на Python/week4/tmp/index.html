@@ -2,16 +2,107 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <title>AskPupkin</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
     <link rel="stylesheet" href="index.css">
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="http://jqueryui.com/resources/demos/external/jquery-mousewheel/jquery.mousewheel.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css">
+    <link rel="stylesheet" href="http://jqueryui.com/resources/demos/style.css">
+    <script>
+        $( function() {
+            var spinner = $( ".spinner" ).spinner().val(5);
+        });
+    </script>
 </head>
 <body>
-
-<div class="alert alert-primary" role="alert">Test</div>
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <div class="top_bar container">
+        <div class="top_bar__row row">
+            <div class="top_bar__row__col col-xs-8">
+                <h1 class="top_bar__title">Stackoverflow</h1>
+                <input type="text" class="top_bar__input" placeholder="Search">
+            </div>
+            <div class="top_bar__row__col col-xs-4">
+                <div class="top_bar__row__col__signin">
+                    <a href="#">log in</a>
+                    <a href="#">register</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="container__row row">
+            <div class="container__row__content col-xs-8">
+                <div class="container__row__content__top_row row">
+                    <div class="container__row__content__top_row__avatar_container col-xs-2">
+                        <div class="container__row__content__avatar_container__avatar large_avatar">
+                        </div>
+                        <div class="spinner_container">
+                            <input class="container__row__content__top_row__avatar_container__spinner spinner">
+                        </div>
+                    </div>
+                    <div class="container__row__content__top_row__avatar_container col-xs-10">
+                        <h2 class="container__row__content__top_row__avatar_container__header">How to build a moon park?</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed metus nibh, pharetra eget tincidunt eget, tempus eget ex. Nulla facilisi. Integer ac placerat arcu. Pellentesque molestie justo vel nunc ornare dapibus. Curabitur semper elit vitae varius blandit. Morbi in aliquam sapien. Fusce mattis odio eu ultrices gravida. Aenean sollicitudin, quam eu faucibus laoreet, elit eros accumsan felis, nec finibus augue augue at lectus. Vivamus erat purus, placerat sed ligula a, blandit gravida orci. Integer tristique neque turpis, dictum tincidunt arcu aliquam ac.
+                        </p>
+                        <p>Tags:
+                            <a href="#" class="container__row__content__top_row__avatar_container__tag">black-jack</a>
+                            <a href="#" class="container__row__content__top_row__avatar_container__tag">bender</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="container__content__middle_row row">
+                    <div class="container__content__middle_row__avatar col-xs-2">
+                        <div class="container__row__content__avatar_container__avatar">
+                        </div>
+                        <div class="spinner_container">
+                            <input class="spinner" name="value">
+                        </div>
+                    </div>
+                    <div class="container__content__middle_row__content col-xs-10">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed metus nibh, pharetra eget tincidunt eget, tempus eget ex. Nulla facilisi. Integer ac placerat arcu. Pellentesque molestie justo vel nunc ornare dapibus. Curabitur semper elit vitae varius blandit. Morbi in aliquam sapien. Fusce mattis odio eu ultrices gravida.
+                        </p>
+                    </div>
+                </div>
+                <div class="container__content__middle_row row">
+                    <div class="container__content__middle_row__avatar col-xs-2">
+                        <div class="container__row__content__avatar_container__avatar">
+                        </div>
+                        <div class="spinner_container">
+                            <input class="spinner" name="value">
+                        </div>
+                    </div>
+                    <div class="container__content__middle_row__content col-xs-10">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed metus nibh, pharetra eget tincidunt eget, tempus eget ex. Nulla facilisi. Integer ac placerat arcu. Pellentesque molestie justo vel nunc ornare dapibus. Curabitur semper elit vitae varius blandit. Morbi in aliquam sapien. Fusce mattis odio eu ultrices gravida.
+                        </p>
+                    </div>
+                </div>
+                <div class="container__content__lower_row">
+                    <textarea class="container__content__lower_row__textarea" placeholder="Enter your answer here"></textarea>
+                    <br><input type="submit" value="Answer">
+                </div>
+            </div>
+            <div class="container__row__sidebar col-xs-4">
+                <div class="container__row__sidebar__tags">
+                    <h2>Popular Tags</h2>
+                    <a href="#">coursera</a>
+                    <a href="#">python</a>
+                    <a href="#">mysql</a>
+                    <a href="#">django</a>
+                </div>
+                <div class="container__row__sidebar__members">
+                    <h1>Best Members</h1>
+                    <div><a href="#">Mr. Freeman</a></div>
+                    <div><a href="#">Dr. House</a></div>
+                    <div><a href="#">Bender</a></div>
+                    <div><a href="#">Queen Victoria</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
