@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+pytest = "*"
+pytest-django = "*"
+factory-boy = "*"
+
+[packages]
+django = "==2.0.4"
+marshmallow = "==2.15.1"
+jsonschema = "==2.6.0"
+
+[requires]
+python_version = "3.6"
