@@ -7,12 +7,21 @@ import telebot
 import redis
 
 
-token = os.environ.get('TOKEN')
+token = os.getenv('TOKEN')
 
 bot = telebot.TeleBot(token)
 
-r = redis.Redis(host='localhost', port=6379, db=0, decode_responses=True)
+redis_url = os.getenv('REDIS_URL')
 
+
+# r = redis.Redis(
+#     host='localhost',
+#     port=6379,
+#     db=0,
+#     decode_responses=True
+# )
+
+r = redis.from_url(redis_url, db=0, decode_responses=True)
 
 START, ADD_NAME, ADD_LOCATION, CONFIRMATION = range(4)
 
