@@ -1,5 +1,4 @@
 import os
-import uuid
 
 from collections import defaultdict
 
@@ -39,7 +38,6 @@ def write_coords_to_redis(user_id, location):
     title = r.lpop(user_id)
     full_location_data = f'{title}&#124;{lat}&#124;{lon}'
     r.lpush(user_id, full_location_data)
-    # r.lset(user_id, 0, full_location_data)
 
 
 def delete_location(user_id):
