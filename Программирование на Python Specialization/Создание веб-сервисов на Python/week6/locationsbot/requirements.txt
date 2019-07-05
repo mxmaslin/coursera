@@ -1,2 +1,2 @@
-psycopg2-binary==2.8.3
 pyTelegramBotAPI==3.6.6
+redis==3.2.1
