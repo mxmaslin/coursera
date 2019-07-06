@@ -129,4 +129,13 @@ def handle_confirmation(message):
     bot.send_message(chat_id=message.chat.id, text='Все локации удалены')
 
 
+@bot.message_handler(func=lambda x: True, commands=['start'])
+def handle_confirmation(message):
+    bot.send_message(chat_id=message.chat.id, text='Введите команду /add для добавления локации')
+    bot.send_message(chat_id=message.chat.id,
+                     text='Введите команду /list для просмотра 10 последних локаций')
+    bot.send_message(chat_id=message.chat.id,
+                     text='Введите команду /reset для удаления всех локаций')
+
+
 bot.polling()
