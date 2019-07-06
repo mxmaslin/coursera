@@ -11,8 +11,7 @@ token = os.getenv('TOKEN')
 
 bot = telebot.TeleBot(token)
 
-redis_url = os.getenv('REDIS_URL')
-
+redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379')
 
 # r = redis.Redis(
 #     host='localhost',
