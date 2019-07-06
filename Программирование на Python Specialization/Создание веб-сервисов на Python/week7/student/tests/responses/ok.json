@@ -1,0 +1,73 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "value": true,
+      "name": "air_conditioner"
+    },
+    {
+      "value": true,
+      "name": "bedroom_light"
+    },
+    {
+      "value": false,
+      "name": "smoke_detector"
+    },
+    {
+      "value": false,
+      "name": "bedroom_presence"
+    },
+    {
+      "value": false,
+      "name": "bedroom_motion"
+    },
+    {
+      "value": true,
+      "name": "boiler"
+    },
+    {
+      "value": true,
+      "name": "cold_water"
+    },
+    {
+      "value": true,
+      "name": "hot_water"
+    },
+    {
+      "value": false,
+      "name": "bathroom_light"
+    },
+    {
+      "value": false,
+      "name": "bathroom_motion"
+    },
+    {
+      "value": false,
+      "name": "bathroom_presence"
+    },
+    {
+      "value": "close",
+      "name": "curtains"
+    },
+    {
+      "value": 50,
+      "name": "outdoor_light"
+    },
+    {
+      "value": "on",
+      "name": "washing_machine"
+    },
+    {
+      "value": 20,
+      "name": "bedroom_temperature"
+    },
+    {
+      "value": 56,
+      "name": "boiler_temperature"
+    },
+    {
+      "value": false,
+      "name": "leak_detector"
+    }
+  ]
+}
