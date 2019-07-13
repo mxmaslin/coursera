@@ -62,3 +62,5 @@ target/
 credentials.py
 
 *.rdb
+celerybeat.*
+db.sqlite3
