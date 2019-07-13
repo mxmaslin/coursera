@@ -1,8 +1,10 @@
 from django.urls import reverse_lazy
 from django.views.generic import FormView
+from django.http import JsonResponse
 
 from .models import Setting
 from .form import ControllerForm
+from .tasks import poll_controller
 
 
 class ControllerView(FormView):
@@ -20,3 +22,9 @@ class ControllerView(FormView):
 
     def form_valid(self, form):
         return super(ControllerView, self).form_valid(form)
+
+
+def controller_data(request):
+    current_controller_data = poll_controller()
+    data = {'data': current_controller_data}
+    return JsonResponse(data)

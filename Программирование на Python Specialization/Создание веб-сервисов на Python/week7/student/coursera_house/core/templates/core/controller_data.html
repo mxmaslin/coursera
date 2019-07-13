@@ -1,0 +1,39 @@
+<div class="card-header">
+    Текущие значения
+</div>
+
+    <div id="card-body" class="card-body">
+        <div class="row">
+            <div class="col-sm">
+                <strong>Status</strong>
+            </div>
+            <div id="status" class="col-sm">
+            </div>
+        </div>
+</div>
+
+<script>
+    setInterval(function () {
+        $.ajax({
+            url: "/controller_data",
+            type: 'GET',
+            success: function (data) {
+                $("#status").empty();
+                $("#status").append(data.data.status);
+                $("#card-body").empty()
+                for (var i = 0; i < data.data.data.length; i++){
+                    html = "<div class='row'>" +
+                        "<div class='col-sm'>" +
+                        "<strong>" + data.data.data[i].name + "</strong>" +
+                        "</div>" +
+                        "<div class='col-sm'>" +
+                            data.data.data[i].value +
+                        "</div>" +
+                        "</div>";
+                    console.log(html)
+                    $("#card-body").append(html)
+                }
+            }
+        });
+    }, 1000);
+</script>

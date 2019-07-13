@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 """
 
 import os
+from datetime import timedelta
 from celery.schedules import crontab
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -119,11 +120,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
-SMART_HOME_ACCESS_TOKEN = os.getenv('SMART_HOME_ACCESS_TOKEN')
+SMART_HOME_ACCESS_TOKEN = os.getenv('SMART_HOME_ACCESS_TOKEN', '9fe671796d559f49ff0c6903e5c49a37b97ab18e13d695d1ad7a53c66b83af81')
 SMART_HOME_API_URL = os.getenv('SMART_HOME_API_URL', 'http://smarthome.t3st.ru/api/user.controller')
-EMAIL_HOST  = os.getenv('EMAIL_HOST', 'EMAIL_HOST')
-EMAIL_PORT  = os.getenv('EMAIL_PORT', 'EMAIL_PORT')
-EMAIL_RECEPIENT  = os.getenv('EMAIL_RECEPIENT', 'EMAIL_RECEPIENT')
+EMAIL_HOST = os.getenv('EMAIL_HOST', 'EMAIL_HOST')
+EMAIL_PORT = os.getenv('EMAIL_PORT', 'EMAIL_PORT')
+EMAIL_RECEPIENT = os.getenv('EMAIL_RECEPIENT', 'EMAIL_RECEPIENT')
+
 
 CELERY_BROKER_URL = 'redis://127.0.0.1:6379'
 CELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'
