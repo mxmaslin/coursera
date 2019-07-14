@@ -32,7 +32,10 @@ class ControllerView(FormView):
         return context
 
     def get_initial(self):
-        return {}
+        initial = super(ControllerView, self).get_initial()
+        initial['bedroom_target_temperature'] = 21
+        initial['hot_water_target_temperature'] = 80
+        return initial
 
     def form_valid(self, form):
         bedroom_target_temperature_value = form.cleaned_data['bedroom_target_temperature']
