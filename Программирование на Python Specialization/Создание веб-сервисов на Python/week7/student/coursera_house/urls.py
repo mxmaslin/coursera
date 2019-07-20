@@ -15,9 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url
 from coursera_house.core.views import ControllerView
-from coursera_house.core.views import controller_data
 
 urlpatterns = [
     url(r'^$', ControllerView.as_view(), name='form'),
-    url(r'^controller_data/', controller_data, name='controller_data'),
 ]
