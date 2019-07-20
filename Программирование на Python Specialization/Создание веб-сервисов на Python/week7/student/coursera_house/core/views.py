@@ -1,10 +1,12 @@
+import requests
+from django.conf import settings
+from django.http import JsonResponse
 from django.urls import reverse_lazy
 from django.views.generic import FormView
-from django.http import JsonResponse
 
 from .models import Setting
 from .form import ControllerForm
-from .tasks import poll_controller
+
 
 
 def get_or_update(controller_name, label, value):
@@ -28,7 +30,11 @@ class ControllerView(FormView):
 
     def get_context_data(self, **kwargs):
         context = super(ControllerView, self).get_context_data()
-        context['data'] = {}
+        headers = {'Authorization': f'Bearer {settings.SMART_HOME_ACCESS_TOKEN}'}
+        current_controller_data = requests.get(
+            settings.SMART_HOME_API_URL, headers=headers
+        ).json()
+        context['data'] = current_controller_data
         return context
 
     def get_initial(self):
@@ -38,36 +44,24 @@ class ControllerView(FormView):
         return initial
 
     def form_valid(self, form):
-        bedroom_target_temperature_value = form.cleaned_data['bedroom_target_temperature']
-        hot_water_target_temperature_value = form.cleaned_data['hot_water_target_temperature']
-        bedroom_light_value = form.cleaned_data['bedroom_light']
-        bathroom_light_value = form.cleaned_data['bathroom_light']
-
         get_or_update(
             'bedroom_target_temperature',
             'Bedroom target temperature',
-            bedroom_target_temperature_value
+            form.cleaned_data['bedroom_target_temperature']
         )
         get_or_update(
             'hot_water_target_temperature',
             'Hot water target temperature value',
-            hot_water_target_temperature_value
+            form.cleaned_data['hot_water_target_temperature']
         )
         get_or_update(
             'bedroom_light',
             'Bedroom light',
-            bedroom_light_value
+            form.cleaned_data['bedroom_light']
         )
         get_or_update(
             'bathroom_light',
             'Bathroom light',
-            bathroom_light_value
+            form.cleaned_data['bathroom_light']
         )
-        ss = Setting.objects.all()
         return super(ControllerView, self).get(form)
-
-
-def controller_data(request):
-    current_controller_data = poll_controller()
-    data = {'data': current_controller_data}
-    return JsonResponse(data)

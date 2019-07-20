@@ -42,20 +42,35 @@
         </div>
         <div class="col-md">
             <div class="card">
-            {% block controller_data %}
-                {% include "core/controller_data.html" %}
-            {% endblock %}
+                <div class="card-header">
+                    Текущие значения
+                </div>
+                <div id="card-body" class="card-body">
+                    <div class="row">
+                        <div class="col-sm">
+                            <strong>Status</strong>
+                        </div>
+                        <div id="status" class="col-sm">
+                            {{data.status}}
+                        </div>
+                    </div>
+                    {% for item in data.data %}
+                        <div class='row'>
+                            <div class='col-sm'>
+                                {{item.name}}
+                            </div>
+                            <div class='col-sm'>
+                                {{item.value}}
+                            </div>
+                        </div>
+                    {% endfor %}
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"-->
-<!--        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"-->
-<!--        crossorigin="anonymous"></script>-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
         integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
         crossorigin="anonymous"></script>

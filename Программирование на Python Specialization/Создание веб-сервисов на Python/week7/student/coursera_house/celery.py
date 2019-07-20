@@ -13,10 +13,11 @@ app.config_from_object('django.conf:settings', namespace='CELERY')
 app.autodiscover_tasks()
 
 
-from coursera_house.core.tasks import smart_home_manager, poll_controller
+from coursera_house.core.tasks import smart_home_manager
 
 
 @app.on_after_configure.connect
 def setup_periodic_tasks(sender, **kwargs):
-    sender.add_periodic_task(5.0, smart_home_manager.s(), name='Check Smart Home')
-    sender.add_periodic_task(1.0, poll_controller.s(), name='Poll controller')
+    sender.add_periodic_task(
+        1.0, smart_home_manager.s(), name='Check Smart Home'
+    )
