@@ -1,6 +1,5 @@
 import requests
 from django.conf import settings
-from django.http import JsonResponse
 from django.urls import reverse_lazy
 from django.views.generic import FormView
 
@@ -28,13 +27,23 @@ class ControllerView(FormView):
     template_name = 'core/control.html'
     success_url = reverse_lazy('form')
 
+    def get(self, request, *args, **kwargs):
+        context = self.get_context_data()
+        if not context.get('data'):
+            return self.render_to_response(context, status=502)
+        return self.render_to_response(context)
+
+
     def get_context_data(self, **kwargs):
         context = super(ControllerView, self).get_context_data()
         headers = {'Authorization': f'Bearer {settings.SMART_HOME_ACCESS_TOKEN}'}
-        current_controller_data = requests.get(
-            settings.SMART_HOME_API_URL, headers=headers
-        ).json()
-        context['data'] = current_controller_data
+        try:
+            current_controller_data = requests.get(
+                settings.SMART_HOME_API_URL, headers=headers
+            ).json()
+            context['data'] = current_controller_data
+        except:
+            context['data'] = {}
         return context
 
     def get_initial(self):
@@ -64,4 +73,4 @@ class ControllerView(FormView):
             'Bathroom light',
             form.cleaned_data['bathroom_light']
         )
-        return super(ControllerView, self).get(form)
+        return super(ControllerView, self).form_valid(form)
