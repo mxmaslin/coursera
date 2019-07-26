@@ -15,15 +15,14 @@ headers = {'Authorization': f'Bearer {TOKEN}'}
 def smart_home_manager():
     controller_data = requests.get(url, headers=headers).json().get('data')
     controller_data = {x['name']: x for x in controller_data}
+    payload = {
+        'controllers': []
+    }
+
     water_leaks = controller_data['leak_detector']['value']
     if water_leaks:
-        payload = {
-            'controllers': [
-                {'name': 'cold_water', 'value': False},
-                {'name': 'hot_water', 'value': False}
-            ]
-        }
-        requests.post(url, headers=headers, json=payload)
+        payload['controllers'].append({'name': 'cold_water', 'value': False})
+        payload['controllers'].append({'name': 'hot_water', 'value': False})
         email = EmailMessage(
             'Subject',
             'Message.',
@@ -31,15 +30,11 @@ def smart_home_manager():
             [settings.EMAIL_RECEPIENT],
         )
         email.send(fail_silently=False)
+
     cold_water_on = controller_data['cold_water']['value']
     if not cold_water_on:
-        payload = {
-            'controllers': [
-                {'name': 'boiler', 'value': False},
-                {'name': 'washing_machine', 'value': "off"}
-            ]
-        }
-        requests.post(url, headers=headers, json=payload)
+        payload['controllers'].append({'name': 'boiler', 'value': False})
+        payload['controllers'].append({'name': 'washing_machine', 'value': "off"})
 
     boiler_temperature = controller_data['boiler_temperature']['value']
     hot_water_target_temperature = Setting.objects.get(
@@ -56,45 +51,20 @@ def smart_home_manager():
     smoke_detector = controller_data['smoke_detector']['value']
 
     if smoke_detector:
-        payload = {
-            'controllers': [
-                {'name': 'air_conditioner', 'value': False},
-                {'name': 'bathroom_light', 'value': False},
-                {'name': 'bedroom_light', 'value': False},
-                {'name': 'boiler', 'value': False},
-                {'name': 'washing_machine', 'value': False},
-            ]
-        }
-        requests.post(url, headers=headers, json=payload)
+        payload['controllers'].append({'name': 'air_conditioner', 'value': False})
+        payload['controllers'].append({'name': 'bathroom_light', 'value': False})
+        payload['controllers'].append({'name': 'bedroom_light', 'value': False})
+        payload['controllers'].append({'name': 'boiler', 'value': False})
+        payload['controllers'].append({'name': 'washing_machine', 'value': False})
     else:
         if boiler_temperature < hot_water_low_temp:
-            payload = {
-                'controllers': [
-                    {'name': 'boiler', 'value': True},
-                ]
-            }
-            requests.post(url, headers=headers, json=payload)
+            payload['controllers'].append({'name': 'boiler', 'value': True})
         elif boiler_temperature > hot_water_ok_temp:
-            payload = {
-                'controllers': [
-                    {'name': 'boiler', 'value': False},
-                ]
-            }
-            requests.post(url, headers=headers, json=payload)
+            payload['controllers'].append({'name': 'boiler', 'value': False})
         if bedroom_temperature > bedroom_high_temp:
-            payload = {
-                'controllers': [
-                    {'name': 'air_conditioner', 'value': True},
-                ]
-            }
-            requests.post(url, headers=headers, json=payload)
+            payload['controllers'].append({'name': 'air_conditioner', 'value': True})
         elif bedroom_temperature < bedroom_low_temp:
-            payload = {
-                'controllers': [
-                    {'name': 'air_conditioner', 'value': False},
-                ]
-            }
-            requests.post(url, headers=headers, json=payload)
+            payload['controllers'].append({'name': 'air_conditioner', 'value': False})
 
     curtains = controller_data['curtains']['value']
     outdoor_light = controller_data['outdoor_light']['value']
@@ -106,18 +76,9 @@ def smart_home_manager():
         pass
     else:
         if outdoor_light < 50 and not bedroom_light:
-            payload = {
-                'controllers': [
-                    {'name': 'curtains', 'value': 'open'},
-                ]
-            }
             if bedroom_light != db_bedroom_light:
-                requests.post(url, headers=headers, json=payload)
+                payload['controllers'].append({'name': 'curtains', 'value': 'open'})
         elif outdoor_light > 50 or bedroom_light:
-            payload = {
-                'controllers': [
-                    {'name': 'curtains', 'value': 'close'},
-                ]
-            }
             if bedroom_light != db_bedroom_light:
-                requests.post(url, headers=headers, json=payload)
+                payload['controllers'].append({'name': 'curtains', 'value': 'close'})
+    requests.post(url, headers=headers, json=payload)
