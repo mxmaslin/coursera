@@ -6,6 +6,9 @@ from django.views.generic import FormView
 from .models import Setting
 from .form import ControllerForm
 
+TOKEN = settings.SMART_HOME_ACCESS_TOKEN
+url = settings.SMART_HOME_API_URL
+headers = {'Authorization': f'Bearer {TOKEN}'}
 
 
 def get_or_update(controller_name, label, value):
@@ -63,14 +66,21 @@ class ControllerView(FormView):
             'Hot water target temperature value',
             form.cleaned_data['hot_water_target_temperature']
         )
-        get_or_update(
-            'bedroom_light',
-            'Bedroom light',
-            form.cleaned_data['bedroom_light']
-        )
-        get_or_update(
-            'bathroom_light',
-            'Bathroom light',
-            form.cleaned_data['bathroom_light']
-        )
-        return super(ControllerView, self).form_valid(form)
+        controller_data = requests.get(url, headers=headers).json().get('data')
+        if controller_data:
+            controller_bedroom_light = list(
+                filter(lambda x: 'bedroom_light' in x.values(), controller_data)
+            )[0]['value']
+            controller_bathroom_light = list(
+                filter(lambda x: 'bathroom_light' in x.values(), controller_data)
+            )[0]['value']
+            payload = {'controllers': []}
+            if form.cleaned_data['bedroom_light'] != controller_bedroom_light:
+                payload['controllers'].append(
+                    {'name': 'bedroom_light', 'value': form.cleaned_data['bedroom_light']})
+            if form.cleaned_data['bathroom_light'] != controller_bathroom_light:
+                payload['controllers'].append(
+                    {'name': 'bathroom_light', 'value': form.cleaned_data['bathroom_light']})
+            requests.post(url, headers=headers, json=payload)
+
+        return super(ControllerView, self).get(form)

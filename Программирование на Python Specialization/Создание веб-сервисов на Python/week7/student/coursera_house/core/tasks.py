@@ -69,16 +69,11 @@ def smart_home_manager():
     curtains = controller_data['curtains']['value']
     outdoor_light = controller_data['outdoor_light']['value']
     bedroom_light = controller_data['bedroom_light']['value']
-    db_bedroom_light = Setting.objects.get(
-        controller_name='bedroom_light'
-    ).value
     if curtains == 'slightly_open':
         pass
     else:
         if outdoor_light < 50 and not bedroom_light:
-            if bedroom_light != db_bedroom_light:
-                payload['controllers'].append({'name': 'curtains', 'value': 'open'})
+            payload['controllers'].append({'name': 'curtains', 'value': 'open'})
         elif outdoor_light > 50 or bedroom_light:
-            if bedroom_light != db_bedroom_light:
-                payload['controllers'].append({'name': 'curtains', 'value': 'close'})
+            payload['controllers'].append({'name': 'curtains', 'value': 'close'})
     requests.post(url, headers=headers, json=payload)
