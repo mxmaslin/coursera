@@ -55,7 +55,7 @@ def smart_home_manager():
         payload['controllers'].append({'name': 'bathroom_light', 'value': False})
         payload['controllers'].append({'name': 'bedroom_light', 'value': False})
         payload['controllers'].append({'name': 'boiler', 'value': False})
-        payload['controllers'].append({'name': 'washing_machine', 'value': False})
+        payload['controllers'].append({'name': 'washing_machine', 'value': 'off'})
     else:
         if boiler_temperature < hot_water_low_temp:
             payload['controllers'].append({'name': 'boiler', 'value': True})
