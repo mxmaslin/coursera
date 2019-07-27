@@ -74,13 +74,18 @@ class ControllerView(FormView):
             controller_bathroom_light = list(
                 filter(lambda x: 'bathroom_light' in x.values(), controller_data)
             )[0]['value']
+            smoke_detector = list(
+                filter(lambda x: 'smoke_detector' in x.values(),
+                       controller_data)
+            )[0]['value']
             payload = {'controllers': []}
-            if form.cleaned_data['bedroom_light'] != controller_bedroom_light:
-                payload['controllers'].append(
-                    {'name': 'bedroom_light', 'value': form.cleaned_data['bedroom_light']})
-            if form.cleaned_data['bathroom_light'] != controller_bathroom_light:
-                payload['controllers'].append(
-                    {'name': 'bathroom_light', 'value': form.cleaned_data['bathroom_light']})
-            requests.post(url, headers=headers, json=payload)
+            if not smoke_detector:
+                if form.cleaned_data['bedroom_light'] != controller_bedroom_light:
+                    payload['controllers'].append(
+                        {'name': 'bedroom_light', 'value': form.cleaned_data['bedroom_light']})
+                if form.cleaned_data['bathroom_light'] != controller_bathroom_light:
+                    payload['controllers'].append(
+                        {'name': 'bathroom_light', 'value': form.cleaned_data['bathroom_light']})
+                requests.post(url, headers=headers, json=payload)
 
         return super(ControllerView, self).get(form)
