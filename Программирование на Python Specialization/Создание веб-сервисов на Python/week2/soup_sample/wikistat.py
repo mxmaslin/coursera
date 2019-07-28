@@ -37,23 +37,50 @@ def shortest_path(start, goal):
         return None
 
 
+def get_images_amount(body):
+    imgs = body.find_all('img')
+    fit_imgs = len(
+        [x for x in imgs if x.get('width') and int(x.get('width')) >= 200]
+    )
+    return fit_imgs
+
+
+def get_headers_amount(body):
+    headers = body.find_all(re.compile('^h[1-6]$'))
+    count = 0
+    for header in headers:
+        children = header.find_all(recursive=False)
+        if children:
+            sentence = children[0].contents
+            print(sentence)
+            if sentence and sentence[0] in ('E', 'T', 'C'):
+                count += 1
+        else:
+            sentence = header.contents
+            print(sentence)
+            if sentence and sentence[0] in ('E', 'T', 'C'):
+                count += 1
+    print()
+    return count
+
+
 def parse(start, end, path):
     bridge = shortest_path(start, end)
-
-    # Когда есть список страниц, из них нужно вытащить данные и вернуть их
     out = {}
     for file in bridge:
-        with open("{}{}".format(path, file)) as data:
-            soup = BeautifulSoup(data, "lxml")
-
+        with open(os.path.join(path, file)) as data:
+            soup = BeautifulSoup(data, "html.parser")
         body = soup.find(id="bodyContent")
 
-        # TODO посчитать реальные значения
-        imgs = 5  # Количество картинок (img) с шириной (width) не меньше 200
-        headers = 10  # Количество заголовков, первая буква текста внутри которого: E, T или C
+        imgs = get_images_amount(body)
+        headers = get_headers_amount(body)
+        print(headers)
+
         linkslen = 15  # Длина максимальной последовательности ссылок, между которыми нет других тегов
         lists = 20  # Количество списков, не вложенных в другие списки
 
         out[file] = [imgs, headers, linkslen, lists]
-
     return out
+
+
+parse('Stone_Age', 'Python_(programming_language)', 'wiki')
