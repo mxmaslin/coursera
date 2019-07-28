@@ -18,11 +18,12 @@ def smart_home_manager():
     payload = {
         'controllers': []
     }
-
     water_leaks = controller_data['leak_detector']['value']
     if water_leaks:
-        payload['controllers'].append({'name': 'cold_water', 'value': False})
-        payload['controllers'].append({'name': 'hot_water', 'value': False})
+        if controller_data['cold_water']['value']:
+            payload['controllers'].append({'name': 'cold_water', 'value': False})
+        if controller_data['hot_water']['value']:
+            payload['controllers'].append({'name': 'hot_water', 'value': False})
         email = EmailMessage(
             'Subject',
             'Message.',
@@ -32,9 +33,13 @@ def smart_home_manager():
         email.send(fail_silently=False)
 
     cold_water_on = controller_data['cold_water']['value']
+    boiler_on = controller_data['boiler']['value']
+    waching_machine_status = controller_data['washing_machine']['value']
     if not cold_water_on:
-        payload['controllers'].append({'name': 'boiler', 'value': False})
-        payload['controllers'].append({'name': 'washing_machine', 'value': "off"})
+        if boiler_on:
+            payload['controllers'].append({'name': 'boiler', 'value': False})
+        if waching_machine_status in ('on', 'broken'):
+            payload['controllers'].append({'name': 'washing_machine', 'value': "off"})
 
     boiler_temperature = controller_data['boiler_temperature']['value']
     hot_water_target_temperature = Setting.objects.get(
@@ -51,11 +56,24 @@ def smart_home_manager():
     smoke_detector = controller_data['smoke_detector']['value']
 
     if smoke_detector:
-        payload['controllers'].append({'name': 'air_conditioner', 'value': False})
-        payload['controllers'].append({'name': 'bathroom_light', 'value': False})
-        payload['controllers'].append({'name': 'bedroom_light', 'value': False})
-        payload['controllers'].append({'name': 'boiler', 'value': False})
-        payload['controllers'].append({'name': 'washing_machine', 'value': 'off'})
+        if controller_data['air_conditioner']['value']:
+            payload['controllers'].append(
+                {'name': 'air_conditioner', 'value': False}
+            )
+        if controller_data['bathroom_light']['value']:
+            payload['controllers'].append(
+                {'name': 'bathroom_light', 'value': False}
+            )
+        if controller_data['bedroom_light']['value']:
+            payload['controllers'].append(
+                {'name': 'bedroom_light', 'value': False}
+            )
+        if controller_data['boiler']['value']:
+            payload['controllers'].append({'name': 'boiler', 'value': False})
+        if controller_data['washing_machine']['value'] in ('on', 'broken'):
+            payload['controllers'].append(
+                {'name': 'washing_machine', 'value': 'off'}
+            )
     else:
         if boiler_temperature < hot_water_low_temp:
             payload['controllers'].append({'name': 'boiler', 'value': True})
@@ -76,4 +94,5 @@ def smart_home_manager():
             payload['controllers'].append({'name': 'curtains', 'value': 'open'})
         elif outdoor_light > 50 or bedroom_light:
             payload['controllers'].append({'name': 'curtains', 'value': 'close'})
-    requests.post(url, headers=headers, json=payload)
+    if payload['controllers']:
+        requests.post(url, headers=headers, json=payload)
