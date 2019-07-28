@@ -32,9 +32,8 @@ def smart_home_manager():
         )
         email.send(fail_silently=False)
 
-    cold_water = controller_data['cold_water']['value']
     waching_machine_status = controller_data['washing_machine']['value']
-    if cold_water == False:
+    if not controller_data['cold_water']['value']:
         if controller_data['boiler']['value']:
             payload['controllers'].append({'name': 'boiler', 'value': False})
         if waching_machine_status in ('on', 'broken'):
