@@ -2,36 +2,43 @@ from bs4 import BeautifulSoup
 import re
 import os
 
-'''
-1) Находишь все ссылки в start.
-Если они в списке файлов (их 504 в примере), то присваиваишь словарю с указаным
-ключом (название ссылки) значение (файл с которого пришли).
 
-2) Далее все то же самое только для тех ссылок которые получили на первом
-пункте, пока не дойдете то нужного файла.
+def get_href_page_names(page_name):
+    try:
+        with open(os.path.join('wiki', page_name)) as file:
+            html = file.read()
+            soup = BeautifulSoup(html, 'html.parser')
+            raw_a = soup.find_all('a', href=True)
+            page_names = [
+                x['href'].strip('/wiki/')
+                for x in raw_a
+                if x['href'].startswith('/wiki')
+            ]
+            return page_names
+    except FileNotFoundError:
+        return []
 
-3) если файл уже был проверен, исключаем его с проверки
-'''
+
+def bfs_paths(start, goal):
+    queue = [(start, [start])]
+    while queue:
+        (vertex, path) = queue.pop(0)
+        for next in set(get_href_page_names(vertex)) - set(path):
+            if next == goal:
+                yield path + [next]
+            else:
+                queue.append((next, path + [next]))
 
 
-def get_links_on_current_page():
-    pass
-
-
-def build_bridge(start, end, path):
-    return None
-
+def shortest_path(start, goal):
+    try:
+        return next(bfs_paths(start, goal))
+    except StopIteration:
+        return None
 
 
 def parse(start, end, path):
-    """
-    Если не получается найти список страниц bridge, через ссылки на которых можно добраться от start до end, то,
-    по крайней мере, известны сами start и end, и можно распарсить хотя бы их: bridge = [end, start]. Оценка за тест,
-    в этом случае, будет сильно снижена, но на минимальный проходной балл наберется, и тест будет пройден.
-    Чтобы получить максимальный балл, придется искать все страницы. Удачи!
-    """
-
-    bridge = build_bridge(start, end, path)  # Искать список страниц можно как угодно, даже так: bridge = [end, start]
+    bridge = shortest_path(start, end)
 
     # Когда есть список страниц, из них нужно вытащить данные и вернуть их
     out = {}
