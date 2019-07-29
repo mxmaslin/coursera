@@ -76,7 +76,7 @@ def smart_home_manager():
     else:
         # если дыма нет
         if controller_data['cold_water']['value']:
-            # если есть хол. вода, греем или выключаем бойлер
+            # если есть хол. вода (т.е. нет протечки), греем или выключаем бойлер
             if boiler_temperature < hot_water_low_temp:
                 payload['controllers'].append({'name': 'boiler', 'value': True})
             elif boiler_temperature > hot_water_hi_temp:
