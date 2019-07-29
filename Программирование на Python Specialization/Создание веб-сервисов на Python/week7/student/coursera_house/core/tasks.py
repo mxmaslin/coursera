@@ -24,6 +24,7 @@ def smart_home_manager():
         # перекрываем гор. и/или хол. воду
         if controller_data['cold_water']['value']:
             payload['controllers'].append({'name': 'cold_water', 'value': False})
+
         if controller_data['hot_water']['value']:
             payload['controllers'].append({'name': 'hot_water', 'value': False})
         email = EmailMessage(
@@ -34,8 +35,8 @@ def smart_home_manager():
         )
         email.send(fail_silently=False)
 
-    # если нет холодной воды и бойлер и/или стиралка включены или сломаны - выключаем их
-    if not controller_data['cold_water']['value']:
+    # если протечка или нет холодной воды
+    if controller_data['leak_detector']['value'] or not controller_data['cold_water']['value']:
         if controller_data['boiler']['value']:
             payload['controllers'].append({'name': 'boiler', 'value': False})
         if controller_data['washing_machine']['value'] in ('on', 'broken'):
@@ -75,8 +76,8 @@ def smart_home_manager():
             )
     else:
         # если дыма нет
-        if controller_data['cold_water']['value']:
-            # если есть хол. вода (т.е. нет протечки), греем или выключаем бойлер
+        if controller_data['cold_water']['value'] and not controller_data['leak_detector']['value']:
+            # если есть хол. вода и нет протечки, греем или выключаем бойлер
             if boiler_temperature < hot_water_low_temp:
                 payload['controllers'].append({'name': 'boiler', 'value': True})
             elif boiler_temperature > hot_water_hi_temp:
@@ -96,6 +97,7 @@ def smart_home_manager():
             payload['controllers'].append({'name': 'curtains', 'value': 'open'})
         elif outdoor_light > 50 or bedroom_light:
             payload['controllers'].append({'name': 'curtains', 'value': 'close'})
+
     if payload['controllers']:
         unique = []
         for item in payload['controllers']:
