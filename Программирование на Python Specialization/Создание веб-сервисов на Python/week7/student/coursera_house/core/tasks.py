@@ -73,10 +73,11 @@ def smart_home_manager():
                 {'name': 'washing_machine', 'value': 'off'}
             )
     else:
-        if boiler_temperature < hot_water_low_temp:
-            payload['controllers'].append({'name': 'boiler', 'value': True})
-        elif boiler_temperature > hot_water_ok_temp:
-            payload['controllers'].append({'name': 'boiler', 'value': False})
+        if controller_data['cold_water']['value']:
+            if boiler_temperature < hot_water_low_temp:
+                payload['controllers'].append({'name': 'boiler', 'value': True})
+            elif boiler_temperature > hot_water_ok_temp:
+                payload['controllers'].append({'name': 'boiler', 'value': False})
         if bedroom_temperature > bedroom_high_temp:
             payload['controllers'].append({'name': 'air_conditioner', 'value': True})
         elif bedroom_temperature < bedroom_low_temp:
