@@ -51,17 +51,25 @@ def get_headers_amount(body):
     for header in headers:
         children = header.find_all(recursive=False)
         if children:
-            sentence = children[0].contents
-            print(sentence)
-            if sentence and sentence[0] in ('E', 'T', 'C'):
-                count += 1
+            children_content = [x.getText() for x in children if x.getText()]
+            try:
+                first_letter = children_content[0][0]
+                if first_letter in 'ETC':
+                    count += 1
+            except IndexError:
+                pass
         else:
-            sentence = header.contents
-            print(sentence)
-            if sentence and sentence[0] in ('E', 'T', 'C'):
-                count += 1
-    print()
+            try:
+                first_letter = header.getText()[0]
+                if first_letter in 'ETC':
+                    count += 1
+            except IndexError:
+                pass
     return count
+
+
+def get_max_links_len(body):
+    pass
 
 
 def parse(start, end, path):
@@ -74,9 +82,8 @@ def parse(start, end, path):
 
         imgs = get_images_amount(body)
         headers = get_headers_amount(body)
-        print(headers)
 
-        linkslen = 15  # Длина максимальной последовательности ссылок, между которыми нет других тегов
+        linkslen = get_max_links_len(body)  # Длина максимальной последовательности ссылок, между которыми нет других тегов
         lists = 20  # Количество списков, не вложенных в другие списки
 
         out[file] = [imgs, headers, linkslen, lists]
