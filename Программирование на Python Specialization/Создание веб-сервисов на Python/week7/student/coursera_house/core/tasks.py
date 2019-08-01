@@ -19,6 +19,8 @@ def smart_home_manager():
         'controllers': []
     }
 
+    {'cold_water': controller_data['leak_detector']['value']}
+
     if controller_data['leak_detector']['value']:
         # если датчик показывает протечку и есть гор. и/или хол. вода,
         # перекрываем гор. и/или хол. воду
@@ -28,8 +30,8 @@ def smart_home_manager():
         if controller_data['hot_water']['value']:
             payload['controllers'].append({'name': 'hot_water', 'value': False})
         email = EmailMessage(
-            'Subject',
-            'Message.',
+            'leak detector',
+            'text',
             settings.EMAIL_HOST,
             [settings.EMAIL_RECEPIENT],
         )
@@ -78,15 +80,21 @@ def smart_home_manager():
         # если дыма нет
         if controller_data['cold_water']['value'] and not controller_data['leak_detector']['value']:
             # если есть хол. вода и нет протечки, греем или выключаем бойлер
-            if boiler_temperature < hot_water_low_temp:
-                payload['controllers'].append({'name': 'boiler', 'value': True})
-            elif boiler_temperature > hot_water_hi_temp:
-                payload['controllers'].append({'name': 'boiler', 'value': False})
+            if boiler_temperature == hot_water_target_temperature:
+                pass
+            else:
+                if boiler_temperature < hot_water_low_temp:
+                    payload['controllers'].append({'name': 'boiler', 'value': True})
+                elif boiler_temperature > hot_water_hi_temp:
+                    payload['controllers'].append({'name': 'boiler', 'value': False})
         # регулируем комнатную температуру
-        if bedroom_temperature > bedroom_high_temp:
-            payload['controllers'].append({'name': 'air_conditioner', 'value': True})
-        elif bedroom_temperature < bedroom_low_temp:
-            payload['controllers'].append({'name': 'air_conditioner', 'value': False})
+        if bedroom_temperature == bedroom_target_temperature:
+            pass
+        else:
+            if bedroom_temperature > bedroom_high_temp:
+                payload['controllers'].append({'name': 'air_conditioner', 'value': True})
+            elif bedroom_temperature < bedroom_low_temp:
+                payload['controllers'].append({'name': 'air_conditioner', 'value': False})
 
     outdoor_light = controller_data['outdoor_light']['value']
     bedroom_light = controller_data['bedroom_light']['value']
