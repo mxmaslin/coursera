@@ -80,6 +80,10 @@ def smart_home_manager():
         # если дыма нет
         if controller_data['cold_water']['value'] and not controller_data['leak_detector']['value']:
             # если есть хол. вода и нет протечки, греем или выключаем бойлер
+
+
+
+            # start: есть вопросы к этому фрагменту
             if boiler_temperature == hot_water_target_temperature:
                 pass
             else:
@@ -95,6 +99,10 @@ def smart_home_manager():
                 payload['controllers'].append({'name': 'air_conditioner', 'value': True})
             elif bedroom_temperature < bedroom_low_temp:
                 payload['controllers'].append({'name': 'air_conditioner', 'value': False})
+        # end
+
+
+
 
     outdoor_light = controller_data['outdoor_light']['value']
     bedroom_light = controller_data['bedroom_light']['value']
