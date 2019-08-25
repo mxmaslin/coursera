@@ -3,36 +3,36 @@ import re
 import os
 
 
-def get_href_page_names(page_name):
+def get_href_page_names(page_name, wiki_path):
     try:
-        with open(os.path.join('wiki', page_name)) as file:
+        with open(os.path.join(wiki_path, page_name)) as file:
             html = file.read()
             soup = BeautifulSoup(html, 'html.parser')
             raw_a = soup.find_all('a', href=True)
-            page_names = [
-                x['href'].strip('/wiki/')
+            pages_names = [
+                x['href'].split('/')[-1]
                 for x in raw_a
                 if x['href'].startswith('/wiki')
             ]
-            return page_names
+            return pages_names
     except FileNotFoundError:
         return []
 
 
-def bfs_paths(start, goal):
+def bfs_paths(start, goal, wiki_path):
     queue = [(start, [start])]
     while queue:
         (vertex, path) = queue.pop(0)
-        for next in set(get_href_page_names(vertex)) - set(path):
+        for next in set(get_href_page_names(vertex, wiki_path)) - set(path):
             if next == goal:
                 yield path + [next]
             else:
                 queue.append((next, path + [next]))
 
 
-def shortest_path(start, goal):
+def shortest_path(start, goal, wiki_path):
     try:
-        return next(bfs_paths(start, goal))
+        return next(bfs_paths(start, goal, wiki_path))
     except StopIteration:
         return None
 
@@ -92,11 +92,11 @@ def get_lists_num(body):
     return count
 
 
-def parse(start, end, path):
-    bridge = shortest_path(start, end)
+def parse(start, end, wiki_path):
+    bridge = shortest_path(start, end, wiki_path)
     out = {}
     for file in bridge:
-        with open(os.path.join(path, file)) as data:
+        with open(os.path.join(wiki_path, file)) as data:
             soup = BeautifulSoup(data, "html.parser")
         body = soup.find(id="bodyContent")
 
@@ -106,6 +106,3 @@ def parse(start, end, path):
         lists = get_lists_num(body)
         out[file] = [imgs, headers, linkslen, lists]
     return out
-
-
-parse('Stone_Age', 'Python_(programming_language)', 'wiki')
