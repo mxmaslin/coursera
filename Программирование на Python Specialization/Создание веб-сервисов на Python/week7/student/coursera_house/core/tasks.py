@@ -19,8 +19,6 @@ def smart_home_manager():
         'controllers': []
     }
 
-    {'cold_water': controller_data['leak_detector']['value']}
-
     if controller_data['leak_detector']['value']:
         # если датчик показывает протечку и есть гор. и/или хол. вода,
         # перекрываем гор. и/или хол. воду
@@ -38,7 +36,8 @@ def smart_home_manager():
         email.send(fail_silently=False)
 
     # если протечка или нет холодной воды
-    if controller_data['leak_detector']['value'] or not controller_data['cold_water']['value']:
+    if controller_data['leak_detector']['value'] or \
+            not controller_data['cold_water']['value']:
         if controller_data['boiler']['value']:
             payload['controllers'].append({'name': 'boiler', 'value': False})
         if controller_data['washing_machine']['value'] in ('on', 'broken'):
@@ -47,14 +46,10 @@ def smart_home_manager():
     boiler_temperature = controller_data['boiler_temperature']['value']
     hot_water_target_temperature = Setting.objects.get(
         controller_name='hot_water_target_temperature').value
-    hot_water_low_temp = hot_water_target_temperature - hot_water_target_temperature * 0.1
-    hot_water_hi_temp = hot_water_target_temperature + hot_water_target_temperature * 0.1
 
     bedroom_temperature = controller_data['bedroom_temperature']['value']
     bedroom_target_temperature = Setting.objects.get(
         controller_name='bedroom_target_temperature').value
-    bedroom_low_temp = bedroom_target_temperature - bedroom_target_temperature * 0.1
-    bedroom_high_temp = bedroom_target_temperature + bedroom_target_temperature * 0.1
 
     if controller_data['smoke_detector']['value']:
         # если дым, выключаем кондиционер, бойлер и свет, но только если они включены
@@ -76,31 +71,29 @@ def smart_home_manager():
             payload['controllers'].append(
                 {'name': 'washing_machine', 'value': 'off'}
             )
-    else:
-        # если дыма нет
-        if controller_data['cold_water']['value'] and not controller_data['leak_detector']['value']:
-            # если есть хол. вода и нет протечки, греем или выключаем бойлер
 
+    can_turn_on = {
+        'boiler': controller_data['cold_water']['value'] and \
+                  not controller_data['leak_detector']['value'] and \
+                  not controller_data['smoke_detector']['value'] and \
+                  not controller_data['boiler']
+        ,
+        'air_conditioner': not controller_data['smoke_detector']['value']
+    }
 
+    if (boiler_temperature < hot_water_target_temperature * 0.9) and \
+            can_turn_on['boiler']:
+        payload['controllers'].append({'name': 'boiler', 'value': True})
 
-            # start: есть вопросы к этому фрагменту
-            if boiler_temperature == hot_water_target_temperature:
-                pass
-            else:
-                if boiler_temperature < hot_water_low_temp:
-                    payload['controllers'].append({'name': 'boiler', 'value': True})
-                elif boiler_temperature > hot_water_hi_temp:
-                    payload['controllers'].append({'name': 'boiler', 'value': False})
-        # регулируем комнатную температуру
-        if bedroom_temperature == bedroom_target_temperature:
-            pass
-        else:
-            if bedroom_temperature > bedroom_high_temp:
-                payload['controllers'].append({'name': 'air_conditioner', 'value': True})
-            elif bedroom_temperature < bedroom_low_temp:
-                payload['controllers'].append({'name': 'air_conditioner', 'value': False})
-        # end
+    if boiler_temperature > hot_water_target_temperature * 1.1:
+        payload['controllers'].append({'name': 'boiler', 'value': False})
 
+    if (bedroom_temperature < bedroom_target_temperature * 0.9) and \
+            can_turn_on['air_conditioner']:
+        payload['controllers'].append({'name': 'air_conditioner', 'value': False})
+
+    if bedroom_temperature > bedroom_target_temperature * 1.1:
+        payload['controllers'].append({'name': 'air_conditioner', 'value': True})
 
 
 
