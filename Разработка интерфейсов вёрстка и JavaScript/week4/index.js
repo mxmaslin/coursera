@@ -26,7 +26,7 @@ function query(collection) {
         }
     }
     var intersectedSelectArgs = getIntersectedSelectArgs(selectArgs);
-    friends = selectIntersected(friends, intersectedSelectArgs);    
+    friends = selectIntersected(friends, intersectedSelectArgs);
 
     return friends;
 }
@@ -38,6 +38,7 @@ function intersect(array1, array2) {
 }
 
 function getIntersectedSelectArgs(args){
+    if (args.length === 0) return [];
     return args.reduce(function(a, b){
         return a.filter(function(element){
             return b.indexOf(element) != -1;
@@ -56,13 +57,17 @@ function select() {
 }
 
 function selectIntersected(collection, fields) {
+    if (fields.length === 0) return collection;
+    collectionFields = Object.keys(collection[0]);
     var friends = [];
     for (var item in collection){
         var friend = {};
-        for (var field in fields){
-            friend[fields[field]] = collection[item][fields[field]];
+        for (let field of fields){
+            if (collectionFields.indexOf(field) > -1) {
+                friend[field] = collection[item][field];
+            }
         }
-        friends.push(friend);
+        if (Object.keys(friend).length > 0) friends.push(friend);
     }
     return friends;
 }
@@ -85,57 +90,61 @@ module.exports = {
     filterIn: filterIn
 };
 
-// var friends = [
-//     {
-//         name: 'Сэм',
-//         gender: 'Мужской',
-//         email: 'luisazamora@example.com',
-//         favoriteFruit: 'Картофель'
-//     },
-//     {
-//         name: 'Эмили',
-//         gender: 'Женский',
-//         email: 'example@example.com',
-//         favoriteFruit: 'Яблоко'
-//     },
-//     {
-//         name: 'Мэт',
-//         gender: 'Мужской',
-//         email: 'danamcgee@example.com',
-//         favoriteFruit: 'Яблоко'
-//     },
-//     {
-//         name: 'Брэд',
-//         gender: 'Мужской',
-//         email: 'newtonwilliams@example.com',
-//         favoriteFruit: 'Банан'
-//     },
-//     {
-//         name: 'Шерри',
-//         gender: 'Женский',
-//         email: 'danamcgee@example.com',
-//         favoriteFruit: 'Картофель'
-//     },
-//     {
-//         name: 'Керри',
-//         gender: 'Женский',
-//         email: 'danamcgee@example.com',
-//         favoriteFruit: 'Апельсин'
-//     },
-//     {
-//         name: 'Стелла',
-//         gender: 'Женский',
-//         email: 'waltersguzman@example.com',
-//         favoriteFruit: 'Картофель'
-//     }
-// ];
+var friends = [
+    {
+        name: 'Сэм',
+        gender: 'Мужской',
+        email: 'luisazamora@example.com',
+        favoriteFruit: 'Картофель'
+    },
+    {
+        name: 'Эмили',
+        gender: 'Женский',
+        email: 'example@example.com',
+        favoriteFruit: 'Яблоко'
+    },
+    {
+        name: 'Мэт',
+        gender: 'Мужской',
+        email: 'danamcgee@example.com',
+        favoriteFruit: 'Яблоко'
+    },
+    {
+        name: 'Брэд',
+        gender: 'Мужской',
+        email: 'newtonwilliams@example.com',
+        favoriteFruit: 'Банан'
+    },
+    {
+        name: 'Шерри',
+        gender: 'Женский',
+        email: 'danamcgee@example.com',
+        favoriteFruit: 'Картофель'
+    },
+    {
+        name: 'Керри',
+        gender: 'Женский',
+        email: 'danamcgee@example.com',
+        favoriteFruit: 'Апельсин'
+    },
+    {
+        name: 'Стелла',
+        gender: 'Женский',
+        email: 'waltersguzman@example.com',
+        favoriteFruit: 'Картофель'
+    }
+];
 
-// // Выполняем выборку и фильтрацию с помощью нашего конструктора
+// Выполняем выборку и фильтрацию с помощью нашего конструктора
 // var result = query(
 //     friends,
-//     select('name', 'gender', 'email'),
-//     filterIn('favoriteFruit', ['Яблоко', 'Картофель']),
-//     filterIn('favoriteFruit', ['Картофель']),
-//     select('name', 'gender')
+//     select('name', 'gender', 'email', 'szuko'),
+//     // select('name')
+//     // filterIn('favoriteFruit', ['Яблоко', 'Картофель']),
+//     // filterIn('favoriteFruit', ['Картофель']),
+//     // select('name', 'gender'),
+//     // filterIn('favoriteFruit', ['Ананас', 'Картофель']),
+//     // filterIn('favoriteFruit', ['Ананас']),
+//     // select()
 // );
 // console.log(result);
