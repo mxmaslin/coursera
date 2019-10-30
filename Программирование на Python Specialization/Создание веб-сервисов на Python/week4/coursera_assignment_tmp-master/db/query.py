@@ -61,7 +61,7 @@ def get_topic_count():
 
 
 def get_avg_topic_count():
-    return Blog.objects.all().annotate(count=Count('topic')).aggregate(Avg('count'))
+    return Blog.objects.all().annotate(count=Count('topic')).aggregate(avg=Avg('count'))
 
 
 def get_blog_that_have_more_than_one_topic():
