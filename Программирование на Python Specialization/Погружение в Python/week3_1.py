@@ -25,5 +25,5 @@ class FileReader:
         try:
             with open(self.file_path) as f:
                 return f.read()
-        except IOError:
+        except (IOError, FileNotFoundError):
             return ""
