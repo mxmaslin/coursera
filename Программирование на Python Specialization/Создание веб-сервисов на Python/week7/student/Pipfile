@@ -13,7 +13,7 @@ responses = "*"
 [packages]
 requests = "==2.18.4"
 celery = "==4.1.1"
-Django = "==2.0"
+Django = "==2.2.24"
 redis = "==2.10.6"
 marshmallow = "==2.15.1"
 jsonschema = "==2.6.0"
